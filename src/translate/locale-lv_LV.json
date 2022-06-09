@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Par mums",
+  "ABOUT_US_CONDITION_1": "Cold &amp; Flu",
+  "ABOUT_US_CONDITION_2": "Ādas apstākļi",
+  "ABOUT_US_CONDITION_3": "Alerģijas",
+  "ABOUT_US_CONDITION_4": "Sāpošs kakls",
+  "ABOUT_US_CONDITION_5": "Vēdersāpes",
+  "ABOUT_US_DOCTOR_BENEFIT1": "PALIELINĀT IENĀKUMU:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Par stundu var redzēt pat sešus pacientus (virtuālā apmeklējums parasti ilgst apmēram 10 minūtes);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "Nodrošināt pacients no jebkuras pasaules vietas",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Palielināt pacientu attiecības ar spēju ārstēt pašreizējos un jaunos pacientus no jebkuras vietas pasaulē;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "IEGŪT BEZMAKSAS VIRTUĀLU PRAKSE:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Uzlabojiet savu praksi un piedāvājiet vairāk iespēju pacientiem;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "VAIRĀK PRODUKTU PACIENTU VIZĪTES:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Pacienti var nosūtīt jums dokumentus, fotoattēlus, laboratorijas rezultātus, neatstājot mājas un jūs varat attālināti kontrolēt pacienta veselību;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Identificējiet, kam tūlīt ir nepieciešama aprūpe un kas var gūt labumu no tālākas ārstēšanas, neatstājot mājas;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "PALIELINĀT IENĀKUMU:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "Elastīgas stundas:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Spēja iestatīt savas stundas un iestatīt savu grafiku.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Pievienojieties kustībai, lai nodrošinātu drošu, pieejamu un globālu piekļuvi veselības aprūpei 15 minūšu vai mazāk.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD ir izstrādāts, lai radikāli mainītu pacienta attiecības ar ārstu, radot 24 stundas diennaktī piekļuvi veselības aprūpei visā pasaulē.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Doctor Benefits",
+  "ABOUT_US_DOCTOR_TITLE": "Par mums",
+  "about_us_section1_p1": "SaluberMD ir digitālā veselības platforma, kas ļauj jums kontrolēt savu veselību ik pa visu laiku un visur. Mūsu lietotne nodrošina ērtu laika taupīšanu, pieejamu 24 stundu piekļuvi padomes sertificētiem ārstiem no jebkuras vietas pasaulē. SaluberMD piedāvā arī tādus rīkus kā Personīgais medicīniskais ieraksts, EKG Pulkstenis un Ģimenes ierīce, kas visiem mijiedarbojas ar lietotni, lai sniegtu jums pilnīgu veselības risinājumu. Mūsu ierīces var tikt izmantotas atsevišķi vai kopā, lai iegūtu labāku veselību un labsajūtu.",
+  "ABOUT_US_SECTION1_TITLE": "Par mums",
+  "ABOUT_US_SECTION2_P1": "Izmantojot ģeogrāfisko lokalizāciju, mūsu lietotne atradīs labāko ārstu pie jums. SaluberMD Ārsti var diagnosticēt, ārstēt vai apspriest savu medicīnisko stāvokli, izmantojot video, un nodrošināt jums atbilstošu ārstēšanas plānu. Daudzus no visbiežāk sastopamajiem nosacījumiem, kurus ārstē ārsts, var ārstēt ar video vizīti. <br/> Daži nosacījumi, kurus mēs izturīgi:",
+  "ABOUT_US_SECTION2_P2": "Šeit, SaluberMD, mēs nodrošinām personīgo medicīnisko ierakstu, lai saglabātu visus jūsu veselības datus, attēlus un failus. Sekojiet savai veselībai ar 24 stundu diennaktī piekļuvi visiem medicīniskajiem ierakstiem. Neatkarīgi no tā, vai esat mājās vai ceļojat uz ārzemēm, jūsu informācija ir jūsu rokai, lai dalītos ar saviem veselības aprūpes speciālistiem. Viegli lietojams personas medicīniskais ieraksts ir pieejams 20 valodās.",
+  "ABOUT_US_SECTION2_TITLE": "Kā tas darbojas?",
+  "ABOUT_US_SECTION3_P1": "SaluberMD sniedz medicīnisko aprūpi tikai sertificētiem ārstiem. Šie speciālisti ir pārbaudīti, plaši pārmeklēti un apmācīti, lai nodrošinātu visaugstākās kvalitātes aprūpi. Katram ārstam ir bio, kurā jūs varat apskatīt viņu fona, akreditācijas datus un pieredzi. SaluberMD ir apņēmies turpināt mūsu ārstu kvalitatīvo vadību. Vērtēšanas sistēma ļauj pacientiem novērtēt ārstu skaitu un apskatīt ārstu kopējo vērtējumu.",
+  "ABOUT_US_SECTION3_TITLE": "Mūsu ārsti",
+  "ABOUT_US_TITLE": "Par mums",
+  "above_warning": "Iepriekš minētās vērtības ir apdraudētas",
+  "accept": "Pieņemt",
+  "acceptablerange": "Pieļaujamais diapazons",
+  "ACCEPT_BTN": "Pieņemt",
+  "acquire": "Iegūt datus",
+  "acronym": "Akronīms",
+  "action": "Rīcība",
+  "actions": "Darbības",
+  "actionTaken": "Darbība veikta",
+  "activity": "Aktivitāte",
+  "acutecare": "Akūta aprūpe",
+  "add": "Jauns",
+  "addavailability": "Pievienojiet savu pieejamību",
+  "addcomment": "Pievienot šeit komentāru",
+  "adddescription": "Pievienot savu aprakstu šeit",
+  "adddrugs": "Meklējiet narkotiku, izmantojot tālāk redzamo meklēšanas lodziņu, un atzīmējiet izvēles rūtiņu, lai to pievienotu receptam",
+  "addedFavourite": "Veiksmīgi pievienots jūsu izlasei",
+  "addedFavourite2": "Veiksmīgi pievienots jūsu izlasei. nospiediet atjaunināšanas pogu, lai to parādītu.",
+  "addedFavourite3": "Veiksmīgi pievienots  npielāgojiet, lai atsvaidzinātu",
+  "addFavourite": "Pievienot izlasei",
+  "ADDING_SLOT": "Slotu pievienošana .... tas var aizņemt kādu laiku.",
+  "addNew": "Pievieno jaunu",
+  "addpharmacies": "Noklikšķiniet uz pogas, lai pievienotu iecienītākās aptiekas",
+  "addpharmacy": "Pievienot aptieku",
+  "addreminder": "Nospiediet plus pogu, lai pievienotu atgādinājumu par medikamentiem.",
+  "address": "Adrese",
+  "address2": "Piegādes adrese",
+  "address3": "Pakalpojuma adrese",
+  "addsintomi": "Pievienojiet simptomus",
+  "addslot": "Pievienot slotu",
+  "add_description_file": "Pievienot aprakstu (nav obligāts)",
+  "add_new": "Pievienot",
+  "affaticamento_grave": "Smags nogurums",
+  "affaticamento_minore": "Neliels nogurums",
+  "agenda": "Mana darba kārtība",
+  "agenda_report": "Ziņot par iecelšanu",
+  "aggiungi": "Izveidot",
+  "AGREE_BTN": "ES piekrītu",
+  "alcoholDesc": "Pieņemts alkohols",
+  "all": "Viss",
+  "alldata": "Visi dati",
+  "allergia": "Alerģija",
+  "allergia_aggiunta": "Alerģija veiksmīgi izveidota",
+  "allergia_rimossa": "Pacienta alerģija ir veiksmīgi izdzēsta",
+  "allergia_salvata": "Pacienta alerģija ir veiksmīgi atjaunināta",
+  "allergie": "Alerģijas",
+  "allimages": "Visi attēli",
+  "alreadyAddedF": "Šī aptieka jau atrodas jūsu favorites",
+  "alreadyRegistred": "Šī e-pasta adrese jau pastāv ārējā sistēmā. Lūdzu, piesakieties lietotnē, lai norunātu tikšanos.",
+  "alreadyTaken": "Tikšanās ir notikusi jau iepriekš",
+  "alta": "Augsts",
+  "alto": "Augsts",
+  "amonth": "30 dienas",
+  "anger": "Dusmas",
+  "annoinizio": "Gads sākās",
+  "antibiotics": "Antibiotikas",
+  "an_error_occurred": "Hmm! Pašlaik mēs nevaram izsludināt jūsu pieprasījumu. Pamēģini vēlreiz vēlāk",
+  "appointment": "Iecelšana",
+  "appointmentlist": "Iecelšanās saraksts",
+  "appointments": "Tikšanās",
+  "appointmentsDescription": "Saraksts ar iecelšanu amatā",
+  "appointment_body_doc": "Plānota jauna tikšanās ar",
+  "appointment_calcelled_title": "Tikšanās atcelta",
+  "appointment_cancelled": "ir atcēlis viņa iecelšanu",
+  "appointment_email_body": "Mēs apstiprinām jūsu iecelšanu pie ārsta",
+  "appointment_history": "Iecelšanas vēsture",
+  "appointment_now": "Jūsu iecelšana sākas tagad",
+  "appremainder": "Iecelšanas atlikums",
+  "appremainder1": "Jums ir paredzēta videokase, kas paredzēta 5 minūšu laikā",
+  "appremainder2": "Jums ir 30 minūšu laikā videokamera",
+  "appremainder3": "Jums ir 120 minūtes sakārtots videokamera",
+  "APPROX_DATA": "Citi veselības dati",
+  "appuntamenti": "Tikšanās",
+  "appuntamenti_presi": "Plānota iecelšana amatā",
+  "appuntamento_clinica": "Pieprasīt klīnikas iecelšanu",
+  "APPUNTAMENTO_CONGIUNTO": "Vai vēlaties rezervēt videozvanu?",
+  "app_description": "Zemāk esošajā lodziņā pievienojiet iecelšanas iemeslus",
+  "app_details": "Sīkāka informācija par iecelšanu",
+  "app_missing": "Atbalsta lietotne nav instalēta",
+  "ARIAX": "Elpas ātrums",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Uzbudinājums",
+  "arousalDescription": "Mainīgais lielums, kas svārstās no miers vai garlaicības līdz modrībai un uztraukumam. Tas atbilst līdzīgiem jēdzieniem, piemēram, aktivācijas un stimulācijas pakāpi.",
+  "assign_specialist": "Piešķiriet pieprasījumam speciālistu",
+  "associa": "Asociētais",
+  "attachment": "Pielikums",
+  "ATTACH_A_PHOTO": "Pievienojiet fotoattēlu",
+  "BACKGROUND": "Priekšvēsture",
+  "BACKGROUND_PLCHOLDER": "Lūdzu, ievadiet īsu biogrāfiju.",
+  "backhomeconfirm": "Vai tiešām esat atgriezies mājās?",
+  "BACK_BTN": "Atpakaļ",
+  "BACK_LOGIN": "Atpakaļ uz pieteikšanos",
+  "bad_file": "Nevar atvērt failu",
+  "basicinfo": "Pamatinformācija",
+  "bassa": "Zems",
+  "basso": "zems",
+  "below_warning": "Zemāk norādītā vērtība ir apdraudēta",
+  "benefits": "Concierge priekšrocības",
+  "beyondverbal": "Emocijas virza visu, ko mēs darām, tomēr balss domātās emociju analītikas joprojām ir vissvarīgākais, neizpētītās saskarnes šodien. Beyond Verbal ir apņēmusies to mainīt.",
+  "beyondverbal_analyze": "Analizējiet savu garastāvokli",
+  "beyondverbal_history": "Vēsturiskie rezultāti",
+  "beyondverbal_instruction": "Kad esat gatavs atbildēt uz jautājumu, nospiediet pogu Start",
+  "BIRTHDATE": "Dzimšanas datums",
+  "birthday": "Dzimšanas diena",
+  "blank_agenda": "Šodien nav laika nišas",
+  "bloatedOrContipated": "Uzpūsts vai aizcietēts",
+  "bluetooth_error": "Iespējojiet Bluetooth, lai turpinātu",
+  "BOARD": "Valde ir sertificēta",
+  "bones": "Kauli",
+  "bp": "Asinsspiediens",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Asinsspiediena vērtību atsauces tabula",
+  "breakfast": "Brokastis",
+  "btnback": "Atpakaļ",
+  "btndelete": "Dzēst",
+  "btndisabledoctor": "Atspējot ārstu",
+  "btndisablepatient": "Atspējot pacientu",
+  "btnenabledoctor": "Iespējot ārstu",
+  "btnenablepatient": "Iespējot pacientu",
+  "btnsave": "Saglabājiet",
+  "BTN_LOAD_MORE": "Ielādēt vairāk",
+  "buttonsearch": "Meklēt",
+  "bvFailed": "Neizdevās analizēt savu balsi, jums ir nepieciešams runāt vairāk!",
+  "bvInstruction": "Turpiniet runāt 20 sekundes vai ilgāk",
+  "bvInstruction2": "Turpini runāt 20 sekundes",
+  "ca": "Kardiovaskulārā sistēma",
+  "call": "Zvans",
+  "callCancel": "Nevar atcelt zvanu ar beigu datumu",
+  "calldoctor": "Zvaniet ārstiem",
+  "calling_number": "Zvanīšanas numurs",
+  "callthedoctor": "Zvaniet ārstam",
+  "calltransfer": "Zvana pārsūtīšana ...",
+  "CALL_ALREADY_TAKEN": "Zvans jau ir pieņemts",
+  "CALL_DOCTOR_INFO": "Doktora informācija",
+  "CALL_DURATION": "Zvanu ilgums",
+  "call_instruction": "Tiklīdz jūs varat zvanīt ārstam, mēs jums nosūtīsim paziņojumu. Noklikšķiniet uz paziņojuma, tiklīdz to saņemsiet, lai sāktu videozvanu. Ja izdzēsiet paziņojumus, varat to saņemt paziņojuma sadaļā, kas atrodas manā veselības profilā.",
+  "CALL_NOTIFICATIONS": "Telefona zvani",
+  "CALL_NO_INCOMING": "Nav ienākošu zvanu",
+  "CALL_TRANSFER_INFO": "Zvana pārsūtīšanas informācija",
+  "CALL_WAITING": "Lūdzu, uzgaidiet, mēs meklējam ārstu",
+  "CALL_WAITING_2": "Lūdzu, uzgaidiet, kamēr ārsts izskata jūsu failu",
+  "calories": "Kalorijas",
+  "cancel": "Atcelt",
+  "cancelAppointment": "Atcelt šo tikšanos",
+  "CANCEL_BTN": "Atcelt",
+  "CAP": "Pasta indekss",
+  "cardiac_output": "Sirds izeja",
+  "cardiac_output1": "Sirds izeja",
+  "cardiac_output_desc": "Sirds izvads ir vienkārši sirds daudzums, ko sūknē sirds minūtē.",
+  "cardiovascular": "Sirds un asinsvadu sistēma",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "Nederīgs CVC",
+  "CARD_EXPIRY_DATE": "Derīguma termiņš",
+  "CARD_MONTH_ERROR": "Nederīgs mēnesis",
+  "CARD_NUMBER": "Kartes numurs",
+  "CARD_NUMBER_ERROR": "Nederīgs CC numurs",
+  "CARD_YEAR_ERROR": "Nederīgs gads",
+  "category": "Kategorija",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "Nepieciešama CCV",
+  "CERROR": "Slikta kontaktinformācija",
+  "certificate_attachment": "Pielikumā ir jūsu medicīniskā izziņa",
+  "certificate_email": "Pievienots tur jūsu medicīniskais sertifikāts",
+  "certificate_header": "Balstoties uz veikto medicīnisko novērtējumu, tiek noteikts:",
+  "certificate_sent": "Nosūtīts sertifikāts",
+  "certification_subject": "Jūsu medicīniskā izziņa",
+  "cf": "Fiskālais kodekss",
+  "cf_error": "Lūdzu, norādiet savu nodokļu kodu",
+  "changeschedule": "Mainīt laiku",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Jūsu parole ir beidzies, lūdzu, mainiet to.",
+  "CHANGE_PWD_SECTION_TITLE": "Mainīt paroli",
+  "CHANGE_PWD_TITLE": "Jūsu parole beidzas, mainīs to",
+  "checking_net_condition": "Interneta savienojuma pārbaude ...",
+  "CHECK_PARAMETERS_CORX": "Lai aprēķinātu pareizās veselības vērtības, lūdzu, ievietojiet profila sadaļā svaru un augstumu.",
+  "CHL_TOT": "Kopējais holesterīna līmenis",
+  "choosedate": "Izvēlieties datumu",
+  "chooseDateDescription": "Noklikšķiniet uz datuma, lai to izvērstu, un izvēlieties stundu",
+  "chooseprofile": "Tu esi?",
+  "choosespeciality": "Izvēlies medicīnisko specialitāti",
+  "choosetransferdoctor": "Izvēlies ārstu",
+  "CHOOSE_A_DOCTOR": "Izvēlies savu ārstu",
+  "chosedoctor": "Lūdzu, izvēlieties ārstu",
+  "city": "Pilsēta",
+  "city1": "Pilsēta",
+  "city2": "Pilsēta",
+  "clearsignature": "Notīrīt parakstu",
+  "clickitem": "Noklikšķiniet uz katra vienuma, lai skatītu pilnu informāciju",
+  "clickrow": "Noklikšķiniet uz rindas, lai atlasītu",
+  "clickToOpen": "Noklikšķiniet, lai atvērtu failu",
+  "click_to_start_call": "Lai sāktu zvanu, noklikšķiniet uz ārsta",
+  "clinics": "Klīnikas",
+  "CLOCK_FORMAT": "Pulksteņa formāts",
+  "closeappconfirm": "Vai tiešām vēlaties slēgt lietotni?",
+  "CLOSE_BTN": "Aizvērt",
+  "cm": "cm",
+  "CODE": "Kods",
+  "code_not_valid": "Iekļauts kods nav derīgs",
+  "code_verified": "Kods ir veiksmīgi pārbaudīts!",
+  "coffeeDesc": "Kafija pieņemta",
+  "COMMENT": "komentārs",
+  "commenti": "Komentāri",
+  "COMPANY_NAME": "Uzņēmums",
+  "COMPLAIN": "Sūdzas",
+  "COMPLETE_PROFILE": "Lai turpinātu, pabeidziet savu profilu",
+  "COMPLETE_PROFILE_TITLE": "Pabeigt savu profilu",
+  "complications": "Komplikācijas",
+  "concernlist": "Lūdzu, norādiet savu galveno problēmu / bažas",
+  "CONFIRM": "Labi",
+  "confirm_app": "Apstipriniet savu tikšanos",
+  "CONFIRM_EMAIL_TITLE": "Apstiprini epastu",
+  "CONFIRM_PWD": "Apstipriniet paroli",
+  "connect": "Nospiediet pogu Savienot, lai pievienotu ierīci",
+  "connectbtn": "Pieslēgties",
+  "connectedto": "Savienots ar",
+  "connecting": "Savienošana ... Lūdzu, uzgaidiet",
+  "connection_progress": "Savienojuma izveide ar ierīci ...",
+  "CONSULT": "Sūdzas",
+  "consult1": "Konsultējieties ar",
+  "consultation": "Konsultācija",
+  "consultationHistory": "Konsultāciju vēsture",
+  "contact": "Kontakti",
+  "CONTACT_US_BTN": "Sazinies ar mums",
+  "CONTACT_US_SECTION_TITLE": "Lūdzu, sazinieties ar mums ar visiem jautājumiem vai palīdzību, izmantojot lietotni.",
+  "CONTACT_US_TITLE": "Sazinies ar mums",
+  "contatti": "Kontaktinformācija",
+  "continue": "Turpināt",
+  "copy_url": "Kopēt URL",
+  "CORX": "EKG",
+  "corxDidFailEcg": "Kļūda, iegūstot EKG",
+  "corxDidFailWellness": "Radās labsajūtas datu iegūšanas kļūda",
+  "corxDidNoEcg": "Nav EKG datu",
+  "corxDidNoWellness": "Nav labsajūtas datu",
+  "CORX_DATA": "CorX dati",
+  "corx_disconnected": "Corx atvienots",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Lūdzu, norādiet svaru un augstumu orederā, lai pareizi aprēķinātu dzīvības parametrus.",
+  "COUNTRY": "Valsts",
+  "country1": "Valsts",
+  "county": "Apgabals",
+  "co_alta": "lielāks par 8 l / min",
+  "co_bassa": "zemāks par 4 l / min",
+  "co_normale": "no 4 līdz 8 l / min",
+  "creditCard_selected": "Par šo pakalpojumu tiks iekasēta maksa par izvēlēto karti",
+  "currency": "Valūta",
+  "C_SPECIALTY": "Pielāgota specialitāte",
+  "dailyuse": "Ikdienas lietošana",
+  "dashboardVideocall": "Vadības panelis Videocall",
+  "dataerror": "Izvēlētais datums / laiks ir pagājis pēc pašreizējā datuma / laika",
+  "dataexists": "Jau notiek tikšanās ar atlasīto datumu un laiku",
+  "datafetching": "Jūsu personīgo datu ielāde ... Lūdzu, uzgaidiet.",
+  "dataPrenotazione": "Rezervācijas datums",
+  "dataVaccinazione": "Imunizācijas datums",
+  "date": "Datums",
+  "dateDiscovered": "Atklāts datums",
+  "dateStart": "Sākuma datums",
+  "datipersonali": "Personiskā informācija",
+  "datiScaricati": "Dati tika veiksmīgi lejupielādēti",
+  "day": "Diena",
+  "deassociate_corx_alert": "Vai vēlaties atdalīt Corx?",
+  "decline": "Samazināt",
+  "DECLINE_BTN": "Samazināt",
+  "DEEP_SLEEP_TIME": "Dziļš miegs",
+  "defaultQuestion": "Nospiediet soli un pastāstiet mums, kā jūs jūtaties šodien",
+  "delete": "Dzēst",
+  "deleteAlarm": "Vai dzēst šo signālu?",
+  "deleteAppointment": "Vai vēlaties atcelt tikšanos?",
+  "deleteDescription": "Tas tiks dzēsts nekavējoties.",
+  "deleteMessage": "Vai tiešām vēlaties dzēst šo?",
+  "deleteMultipleDesctiption": "Slots, kas tiks dzēsts, skaits:",
+  "deleteNumber": "Vai tiešām vēlaties dzēst šo numuru?",
+  "deleteSlotDay": "Dzēš visu brīvo vietu šai dienai",
+  "deleteSlotMonth": "Dzēš visas brīvās vietas šī mēneša laikā",
+  "deleteSlotWeek": "Dzēš visas brīvās vietas šonedēļ",
+  "deletevalue_q": "Vai tiešām vēlaties dzēst vērtību?",
+  "DELETE_NOTIFICATION_MSG": "Vai vēlaties izdzēst visus iepriekšējos paziņojumus?",
+  "demo": "Šī demo, nauda netiks iekasēta.",
+  "dependencies": "Atkarīgas",
+  "description": "Apraksts",
+  "descriptionMandatory": "Lūdzu, norādiet aprakstu",
+  "deseaseCategory": "Slimību kategorija",
+  "desirable": "Vēlams",
+  "dettagli": "Sīkāka informācija",
+  "dettaglio_struttura": "Struktūras dati",
+  "device": "Ierīce",
+  "devicefound": "Atrasta ierīce",
+  "devices": "Ierīces",
+  "devicetype": "Ierīces tips",
+  "DEVICE_BLOOD_PRESSURE": "Asinsspiediens",
+  "DEVICE_CALORIES": "Sadedzina kalorijas",
+  "DEVICE_CARDIAC": "Sirds uzraudzība",
+  "DEVICE_CHL": "Lipīdu profils",
+  "DEVICE_DATA_SECTION_TITLE": "Jūsu medicīniskās ierīces dati",
+  "DEVICE_DATA_TITLE": "Ierīces dati",
+  "DEVICE_DATA_TITLE_1": "Medicīnisko ierīču dati",
+  "DEVICE_EKG": "EKG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitnesa izsekotājs",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glikometrs",
+  "DEVICE_HEART_RATE": "Sirdsdarbības ātrums",
+  "DEVICE_PEDOMETER": "Pedometrs",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Elpošanas biežums",
+  "DEVICE_SPO2": "SpO2",
+  "DEVICE_TEMPERATURE": "Temperatūra",
+  "DIAGNOSIS": "Diagnoze",
+  "diastolic": "Diastoliskais",
+  "dieci": "Pēdējie 10 mērījumi",
+  "diet": "Diēta",
+  "digestion": "Gremošanas jautājumi",
+  "dinner": "Vakariņas",
+  "dipendenza": "Atkarība",
+  "disableAlarm": "Brīdinājums ir aktivizēts",
+  "disabled": "Invalīds",
+  "DISABLE_PANIC_BUTTON": "Iespējot panikas pogu",
+  "DISABLE_PUNIC_BUTTON": "Atspējot Punic pogu",
+  "disconnectall": "Iestatiet bezsaistē",
+  "disconnectbtn": "Atvienot",
+  "DISDICI": "Atcelt",
+  "disease": "Hroniska slimība",
+  "diseasemanagement": "Slimību vadība",
+  "diseases": "Slimības",
+  "disease_1": "Slimība",
+  "dissocia": "Disassociate",
+  "DISTANCE": "Attālums",
+  "dm_section_description_1": "Šeit jūs varat pievienot savus failus",
+  "DND": "Netraucēt",
+  "DOCEMAIL": "Ārsta e-pasts",
+  "DOCNAME": "Ārsta vārds",
+  "DOCPHONE": "Ārsts Tālruņa numurs",
+  "DOCTOR": "Ārsts",
+  "doctor1": "Ārsts",
+  "doctorAtHome": "Ārsts mājās",
+  "doctorAtHomeQuestion1": "Es vēlos, lai palīdzība mājās būtu:",
+  "doctorAtHomeQuestion2": "Izvēlieties mājās nepieciešamo palīdzību",
+  "doctorAtHomeQuestion2Answer1": "Vispārējā prakse",
+  "doctorAtHomeQuestion2Answer2": "Pediatrija",
+  "doctorAtHomeQuestion2Answer3": "Medmāsa",
+  "doctorAtHomeQuestion3": "Norādiet iemeslu, kādēļ vēlaties saņemt palīdzību",
+  "doctorAtHomeQuestion4": "Norādiet veidlapu zem adreses, kuru vēlaties saņemt",
+  "doctorAtHomeRequestBtn": "Nosūtīt pieprasījumu",
+  "doctorAtHomeRequestSuccess": "Mēs esam saņēmuši jūsu pieprasījumu. Jūs sazināsieties ar 2 stundām, lai organizētu mājas pakalpojumu",
+  "doctorAtHomeTitle": "Ārsts mājās",
+  "doctorbusy": "Ārsts ir aizņemts citā zvana laikā",
+  "doctorbusy1": "Ārsts ir aizņemts citā zvana laikā",
+  "doctorlist": "Ārstu saraksts",
+  "doctormanagement": "Ārstu vadīšana",
+  "doctoroffline": "Ārsts ir bezsaistē, mēģiniet vēlreiz",
+  "doctorupdate": "Ārsts",
+  "DOCTOR_PROFILE_OPT1": "Profils",
+  "DOCTOR_PROFILE_OPT2": "Pacienta vizītes vēsture",
+  "DOCTOR_PROFILE_OPT3": "Ieteikt kolēģi",
+  "DOCTOR_PROFILE_SECTION1": "Tavs profils",
+  "DOCTOR_PROFILE_TITLE": "Profils",
+  "doctor_request_sent": "Mēs esam nosūtījuši jūsu pieprasījumu mūsu ārstiem. Jūs saņemsiet atbildi divās minūtēs.",
+  "documents": "Dokumenti",
+  "DOCUMENT_BTN": "Dokumenti",
+  "doestake": "Vai esat pieņēmis",
+  "DONATION_TITLE": "Apstipriniet ziedojumu",
+  "done": "Trackx dati veiksmīgi ielādēti. Jūs tos atradīsiet sadaļā Veselības datu sadaļa",
+  "doneAppointmentPatient": "Iepriekšējās tikšanās",
+  "DONE_BTN": "Gatavs",
+  "dontknow": "Es neatceros",
+  "DORMIVEGLIA": "Miegainība",
+  "dosage": "Devas",
+  "dosetake1": "Vai esat lietojis zāles?",
+  "dottore_rimosso": "Doktora statuss ir veiksmīgi atjaunināts",
+  "dottore_salvato": "Ārsts veiksmīgi atjaunināts",
+  "download": "Lejupielādēt",
+  "downloadaspdf": "Lejupielādēt PDF formātā",
+  "downloadecg": "Lejupielādēt EKG",
+  "DOWNLOADING_DEVICE_DATA": "Lejupielāde ...",
+  "downloadwellnessdata": "Veselības datu lejupielāde ...",
+  "downloadWellnessResult": "pasākums pievienots",
+  "DOWNLOAD_CERTIFICATE": "Lejupielādējiet sertifikātu",
+  "DOWNLOAD_ERROR_GENERIC": "Hmm ... Mēģinot lejupielādēt failu, radās kļūda. Lūdzu, pamēģiniet vēlreiz vēlāk.",
+  "DOWNLOAD_SO_REPORT": "Lejupielādes nosūtīšana",
+  "DO_NOT_DISTURB": "Netraucēt",
+  "drugsAtHome": "Narkotikas mājās",
+  "drugsAtHomeQuestion1": "Vai vēlaties saņemt ārsta izrakstītās zāles tieši mājās?",
+  "drugsAtHomeRequestBtn": "Nosūtīt pieprasījumu",
+  "drugsAtHomeRequestSuccess": "Mēs esam saņēmuši jūsu pieprasījumu. Zāles tiks nosūtītas 24 stundu laikā",
+  "drugsAtHomeSection1": "Norāda veidlapu zem tālruņa numura un adreses, kuru vēlaties saņemt.",
+  "drugsAtHomeTitle": "Narkotikas mājās",
+  "drug_name": "Narkotiku nosaukums",
+  "duration": "Ilgums",
+  "ecg": "EKG",
+  "ecgadded": "EKG veiksmīgi pievienots sarakstam",
+  "ECGBP": "EKG BP",
+  "ecgdata_header": "EKG dati",
+  "ecgdetail": "Noklikšķiniet uz katra posteņa, lai redzētu EKG attēlu",
+  "ECG_DELETE_Q": "Vai tiešām vēlaties izdzēst EKG?",
+  "ecg_not_found": "Nepareizs ECG fails, izmēģiniet citu misuaration.",
+  "ECG_REMOVED": "EKG veiksmīgi izdzēsts",
+  "edit": "Rediģēt",
+  "EKG_SECTION_TITLE": "Elektrokardiogramma (EKG / EKG) rezultāti",
+  "EKG_TITLE": "EKG augšupielāde",
+  "EMAIL": "E-pasts",
+  "email1": "E-pasts",
+  "email_do_not_match": "E-pasta vēstules nesakrīt",
+  "ematicTest": "Ematiskie testi",
+  "Emergency": "Rādīt ārkārtas situācijā",
+  "emergency1": "Ārkārtas",
+  "emergencyLoginCode": "Ārkārtas pieteikšanās kods",
+  "emergency_numbers": "Ārkārtas numuri",
+  "emergency_number_description": "Pievienojiet tālruņa numurus, kas jāzvana ārkārtas situācijā",
+  "emotionDescription": "Dažādu pamata emociju kombinācija, ko izteikta lietotāju balsī analizētās balss sadaļas laikā.",
+  "emotions": "Kombinētās emocijas",
+  "emptypassword": "Lūdzu, norādiet pasword",
+  "EMPTY_ALLERGIES": "Noklikšķiniet uz pogas, lai pievienotu slimību savam medicīniskajam ierakstam",
+  "empty_dataset": "Nav datu",
+  "EMPTY_DEPENDENCIES": "Noklikšķiniet uz pogas, lai pievienotu atkarību no sava medicīniskā ieraksta",
+  "EMPTY_DISEASE": "Noklikšķiniet uz pogas, lai pievienotu slimību savam medicīniskajam ierakstam",
+  "EMPTY_DOCUMENTS": "Noklikšķiniet uz pogas, lai pievienotu dokumentu savam medicīniskajam ierakstam",
+  "EMPTY_IMAGES": "Noklikšķiniet uz pogas, lai pievienotu attēlu savam medicīniskajam ierakstam",
+  "EMPTY_IMMUNIZATION": "Noklikšķiniet uz pogas, lai pievienotu imunizāciju savam medicīniskajam ierakstam",
+  "EMPTY_MEDICATION": "Noklikšķiniet uz pogas, lai pievienotu medikamentu savam medicīniskajam ierakstam",
+  "empty_otp": "Nederīgs OTP kods",
+  "EMPTY_PROSTHESIS": "Noklikšķiniet uz pogas, lai pievienotu protēzi savam medicīniskajam ierakstam",
+  "EMPTY_TESTS": "Noklikšķiniet uz pogas, lai pievienotu pārbaudi savam medicīniskajam ierakstam",
+  "enabled": "Iespējots",
+  "endate": "Uz",
+  "endcall": "Beigt zvanu",
+  "endDate": "Beigu datums",
+  "endhour": "Beigu laiks",
+  "end_time": "Beigu laiks",
+  "END_VIDEOCALL_Q1": "Vai tiešām vēlaties pārtraukt konsultāciju, neuzstādot videokaseti?",
+  "END_VISIT_BTN": "Beigas vizīte",
+  "error": "Kļūda",
+  "error_call_timeout": "Laiks, kad videozvans ir beidzies. Lai veiktu videozvanu, atkārtojiet šo procesu vēlreiz.",
+  "ERROR_EMAIL_DUPPLICATE": "Šķiet, ka šī e-pasta adrese jau ir reģistrēta. Mēģiniet ar citu.",
+  "error_price": "Lūdzu, norādiet maksu",
+  "ERROR_SPECIFY_DAYS": "Lūdzu, norādiet vismaz vienu nedēļu dienu",
+  "ERROR_SPECIFY_HOUR": "Lūdzu, norādiet laiku",
+  "ERROR_TITLE_NOTIFICATION": "Kļūda",
+  "ERROR_TRACKX": "Ieslēdziet Trackx",
+  "error_update": "Kļūda atjauninot programmaparatūru",
+  "ERROR_USERNAME_DUPPLICATE": "Šis lietotājvārds jau ir pieņemts, izvēlieties citu",
+  "ERROR_WHITELIST": "Diemžēl jūsu ierīcei nav atļauts veikt videozvanu",
+  "esameobbligatorio": "Lūdzu, izvēlieties eksāmenu",
+  "exam_name": "Eksāmena nosaukums",
+  "exercise": "Vingrojumi",
+  "exercisereminders": "Mana vingrinājumu atgādinājumi",
+  "existentassoc": "Pastāv asociācijas",
+  "existentrelation": "Šī saikne jau pastāv",
+  "expandfordetails": "Izvērsiet plašāku informāciju",
+  "EXP_MONTH": "Derīguma termiņš",
+  "EXP_MONTH_REQUIRED": "Nepieciešams derīguma termiņš",
+  "EXP_YEAR": "Derīguma termiņš",
+  "EXP_YEAR_REQUIRED": "Nepieciešams derīguma termiņš",
+  "e_prescribing": "E-izrakstīšana",
+  "F": "Sieviete",
+  "farmaci": "Zāles",
+  "farmaco": "Zāles",
+  "fat": "Tauki",
+  "FATIGUE_INDEX": "Nogurums",
+  "FATIGUE_INDEX_DESCRIPTION": "Darbs, darbs un pieredze, ko izraisa noguruma pakāpe. Pārmērīgs nogurums viegli noved pie plecu muskuļu stinguma, galvassāpēm, bezmiegs, nogurums, vidukļa sāpēm un viegli noved pie nervu sistēmas, endokrīnās sistēmas traucējumiem, kā rezultātā rodas daudzas hroniskas slimības un garīgais nogurums.",
+  "favoriteslist": "Mana izlases saraksts",
+  "FAVORITES_NO": "Jūs vēl neesat pievienojis nevienu ārstu jūsu izlases sarakstam",
+  "FAVORITES_NO_PHARMACIES": "Jūs vēl neesat pievienojis nevienu aptieku savam izlases sarakstam",
+  "FAVORITES_SECTION_SUBTITLE": "Noklikšķiniet uz katra vienuma, lai skatītu pilnu informāciju",
+  "FAVORITES_SECTION_TITLE": "Jūsu mīļākie ārsti",
+  "FAVORITES_TITLE": "Izlase",
+  "favourite_pharmacy": "Iecienītākās aptiekas",
+  "FEE": "Pārvaldiet nodevas",
+  "FEET": "pēdas",
+  "female": "Sieviete",
+  "fileloaded": "Fails ir ielādēts",
+  "fileloaded1": "Mēness veiksmīgi augšupielādēts",
+  "fileName": "Faila nosaukums",
+  "filenotfound": "Fails nav atrasts",
+  "file_upload_instruction": "Augšupielādes instrukcija",
+  "filldate": "Lūdzu, izvēlieties datumu",
+  "filldoctor": "Lūdzu, izvēlieties ārstu",
+  "fillpeciality": "Lūdzu, izvēlieties specialitāti",
+  "fillthebox": "Aizpildiet lodziņu",
+  "fill_indication": "Lūdzu, aizpildiet norādes lauku",
+  "fill_indication_for": "Lūdzu, norādiet norādi",
+  "fill_quantity": "Lūdzu, aizpildiet daudzuma lauku",
+  "fill_quantity_for": "Lūdzu, norādiet daudzumu par",
+  "fill_your_doubt": "Lūdzu, sniedziet aprakstu iepriekš redzamajā lodziņā.",
+  "filter": "Filtrēt",
+  "finddoctor": "Atrodiet ārstu",
+  "findFarmacia": "Meklēt farmācijā",
+  "findpatient": "Atrodiet pacients",
+  "findspcialist": "Atrodiet speciālistu",
+  "findStruttura": "Meklēšanas struktūra",
+  "finduser": "Atrast lietotāju",
+  "FIND_A_DOCTOR": "Atrodiet ārstu",
+  "find_device": "Atrast ierīci",
+  "FIND_THE_BRACELET": "Atrodiet rokassprādzi",
+  "fingerprint_btn": "Iespējot daktiloskopisko pieteikšanos",
+  "fingerprint_hint": "Lai turpinātu, apstipriniet pirkstu nospiedumu",
+  "fingerprint_hint2": "Lai turpinātu, apstipriniet pirkstu nospiedumu",
+  "fingerprint_question": "Vai vēlaties aktivizēt pirkstu nospiedumu autentifikāciju?",
+  "FIRMWARE_UPDATE": "Programmaparatūras atjauninājums",
+  "FIRMWARE_UPDATED": "Atjaunināta programmaparatūra",
+  "firstName": "Vārds",
+  "five_min": "Pēc 5 minūtēm",
+  "fixappointment": "Vai vēlaties ieplānot šo tikšanos?",
+  "forever": "Uz visiem laikiem",
+  "forgotPassword": "Aizmirsi savu paroli?",
+  "forgot_password": "Aizmirsi paroli?",
+  "forma": "Tips",
+  "formafarmaco": "Zāļu forma",
+  "formatError": "Cenai jābūt skaitliskai vērtībai.",
+  "found_devices": "Atrastās ierīces",
+  "FRIDAY": "Piektdiena",
+  "GENDER": "Dzimums",
+  "gender1": "Dzimums",
+  "general": "Vispārīgi",
+  "generalInfo": "Vispārīga informācija",
+  "genericName": "Vispārējs nosaukums",
+  "GENERIC_ERROR": "OOps! Kaut kas nogāja greizi. Lūdzu, pamēģiniet vēlreiz vēlāk",
+  "geneticTest": "Ģenētiskais tests",
+  "geneticTestHeader2": "Ar ģenētiskajiem testiem jūs varat uzzināt vairāk par savu veselību un darīt pareizo, lai saglabātu veselību.",
+  "geneticTestHeader3": "Kā tas darbojas",
+  "geneticTestProduct": "Uztura profils",
+  "geneticTestRequestBtn": "Jautāt testu",
+  "geneticTestRequestSuccess": "Jūsu pasūtījums ir apstiprināts. Jūs saņemsiet komplektu tieši mājās",
+  "geneticTestSection1": "Vai vēlaties, lai tagad, ja jūs ēdat, pietiek ar savu ķermeni un vielmaiņu?",
+  "geneticTestSection2": "Vai jūs vēlaties zināt, vai veselīgāks ēdiens jūsu organismam nerada kroniskas slimības?",
+  "geneticTestSection3": "Uztura tests ļaus jums zināt saikni starp DNS un uzturu.",
+  "geneticTestSection4": "Pievienojiet šeit savu tālruņa numuru un adresi, kuru vēlaties saņemt komplektā",
+  "geneticTestStep1": "1. Pasūtiet savu testu",
+  "geneticTestStep1Subtitle": "Padariet savu pasūtījumu ar lietotni un saņemiet komplektu tieši mājās.",
+  "geneticTestStep2Subtitle": "Veikt paraugu un nosūtiet mums pa pastu, izmantojot aploksni, kuru mēs jums nodrošināsim.",
+  "geneticTestStep3": "3. Iegūstiet rezultātus",
+  "geneticTestStep3Subtitle": "Pēc dažām nedēļām jūs saņemsiet ziņojumu, informējot, ka ģenētiskā testa rezultāti būs pieejami lietotnē.",
+  "geneticTestTitle": "Ģenētiskais tests",
+  "GLUCOMETER": "Glikometrs",
+  "glucosio": "Glikoze",
+  "HAND_BRIGHTEN": "Paceliet savu roku, lai atdzīvinātu",
+  "happiness": "Laime",
+  "HDL": "ABL holesterīns",
+  "hdl_cholesterol_desc": "Augsta blīvuma lipoproteīnu (ABL) holesterīns ir pazīstams kā “labais” holesterīns. Šajā tabulā parādīts vērtību diapazons.",
+  "healthtips": "Healthtips",
+  "HEALTH_INDEX": "Veselība",
+  "HEALTH_INDEX_DESCRIPTION": "HRV veselības indekss tiek veikts, analizējot vidējo sirdsdarbības ātruma HR un sirdsdarbības ātruma mainīgumu, kā arī citus parametrus, balstoties uz Holtera rezultātu reāllaika mērīšanu, lai analizētu ķermeņa veselības parametrus, palielinātu veselības indeksu, pārstāvot ķermeņa veselību labāk; Veselības indekss ķermeņa vārdā ir samazinājies Ir nepieciešams pievērst uzmanību ikdienas veselīgam dzīves veidam.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Sirds",
+  "HEART_INDEX_DESCRIPTION": "Sirds funkcija Lietotāji mēra cilvēka sirds stāvokli, un viņu sniegums ir atšķirīgs, jo viņu dažādais mīlestības līmenis uz sirdi un vispārējo veselības stāvokli. Lai attīstītu veselīgu dzīvesveidu un ēšanas paradumus: saprātīga stratēģija izmantot sirds, lai piespiestu sirds kalcija nātrija piedevu, lai aizsargātu asinsvadus, var aktīvi novērst sirds slimību rašanās, ir stiprināt sirds funkciju stratēģiju.",
+  "height": "Augstums",
+  "height1": "Lai pareizi aprēķinātu ĶMI, ir nepieciešams augstums",
+  "heightUnit": "Augstuma vienība",
+  "hepaticFunction": "Aknu funkcija",
+  "hide": "Paslēpties",
+  "high1": "Augsts",
+  "high_risk": "Augsta riska",
+  "history": "Konsultāciju vēsture",
+  "homepage": "Mājas",
+  "HOME_WARNING_MESSAGE": "Vai tiešām vēlaties pārvietoties prom no šīs lapas? Jūsu izmaiņas tiks zaudētas.",
+  "hormonalTest": "Hormonālo funkciju pārbaude",
+  "hospDate": "Hosp.date",
+  "hospit": "Hospitalizēta par",
+  "hospital": "Slimnīca",
+  "hospitalization": "Hospitalizācija",
+  "hour": "Stunda",
+  "hours": "Stundas",
+  "HOURS_BANK_DONATE_BTN": "Ziedot",
+  "HOURS_BANK_DONATION": "Pašlaik ziedotās stundas:",
+  "HOURS_BANK_H": "Stundas Banka:",
+  "HOURS_BANK_SECTION_P1": "Veselība ir mūsu galvenā prioritāte SaluberMD, un mēs vēlamies kalpot pēc iespējas vairāk cilvēku. Izmantojot mūsu platformu, mēs cilvēkiem, kam nepieciešama palīdzība, ir iespējams piekļūt veselības aprūpei. Mūsu informēšanas komanda ir apņēmusies nodrošināt veselības aprūpes iespējas organizācijām, privātpersonām un ģimenēm, kurām tas ir nepieciešams.",
+  "HOURS_BANK_SECTION_P2": "Vienkārši noklikšķiniet uz saites, cik stundu vēlaties ziedot, un mēs tos pievienosim mūsu bankai.",
+  "HOURS_BANK_SECTION_P3": "Mēs sazināsimies ar jums, izmantojot lietotni, lai izmantotu stundas, un, kad esat pieejams, vienkārši noklikšķiniet uz pieņemt, lai redzētu pacientus.",
+  "HOURS_BANK_SECTION_TITLE": "Pievienojieties mums, dodot veselības aprūpes dāvanu!",
+  "HOURS_BANK_TITLE": "Stundas Banka",
+  "howto": "Kā",
+  "howto1": "Pieejamās vietas ir marķētas ar zaļo bumbu",
+  "howto2": "Izvēlieties šūnu ar zaļo bumbu un noklikšķiniet uz tā, lai izvērstu un izvēlētos laiku. Kad esat gatavs, noklikšķiniet uz zīmuļa simbola, lai skatītu informāciju un ieņemtu tikšanos",
+  "howToPrice": "Cenai jābūt skaitliskai vērtībai. Ir atļautas ne vairāk kā divas zīmes aiz komata. Punktu vai komatu var izmantot kā atdalītājus",
+  "hrv_buono": "Laba",
+  "hrv_eccellente": "Teicami",
+  "hrv_generale": "Ģenerālis",
+  "hr_alta": "Lielāks par 100",
+  "hr_bassa": "Mazāk par 60",
+  "HR_DESCRIPTION": "Normāla sirdsdarbības frekvences atskaites tabula",
+  "HR_INTERVAL": "HR mērīšanas intervāls",
+  "hr_normale": "Starp 60 un 100",
+  "hsh": "Hospitalizācija un ķirurģiskā vēsture",
+  "IBAN": "IBAN",
+  "idx": "Indeksi",
+  "image": "Attēls",
+  "images": "Attēli",
+  "immunization": "Imunizācija",
+  "immunizationmenu": "Imunizācija",
+  "importhealth": "Importējiet datus par veselību",
+  "impossible_transfer": "Nevar pārcelt zvanu",
+  "INCH": "Collas",
+  "indexes": "Indeksi",
+  "indication": "Indikācija",
+  "INFO_BTN": "Info",
+  "info_salvate": "Dati tika veiksmīgi saglabāti",
+  "iniezione": "Injekcijas",
+  "initiative": "Iniciatīvs",
+  "initiativeerror": "Lūdzu, izvēlieties vienu iniciatīvu",
+  "insert": "Ievietot",
+  "inserttext": "Ievietojiet šeit tekstu",
+  "insert_otp_code": "Ievietojiet kodu šeit",
+  "internet_missing": "Jums nav savienojuma ar internetu",
+  "invalidemail": "nederīga e-pasta adrese",
+  "invoice": "Rēķins",
+  "irregulartest": "Neregulārs tests",
+  "kcal": "kcal",
+  "kg": "Kilograms",
+  "KG_LABEL": "Kilograms",
+  "kydneyTests": "Nieru darbības testi",
+  "labtesting": "Tīkls",
+  "LANGUAGE": "Valoda",
+  "LANGUAGE_TYPE": "Valoda",
+  "lastmeasure": "Pēdējais pasākums",
+  "lastName": "Uzvārds",
+  "lastPhysical": "Pēdējā fiziskā",
+  "lastSync": "Pēdējā sinhronizācija",
+  "lastTimeOnline": "Pēdējais laiks tiešsaistē",
+  "lastvisit": "Pēdējā vizīte",
+  "last_login_date": "Pēdējais pieteikšanās datums",
+  "last_time_taken": "Pēdējo reizi ņemts",
+  "LDL": "ZBL holesterīns",
+  "ldl_cholesterol_desc": "ZBL jeb zema blīvuma lipoproteīni ir “sliktais” holesterīns. Šajā tabulā parādīts vērtību diapazons",
+  "leggero": "Gaisma",
+  "LICENSE_NUMBER": "Licences numurs",
+  "LIGHT_SLEEP_TIME": "Gaišs miegs",
+  "listcall": "Videoklipa saraksts ir pabeigts",
+  "litri": "Litrs",
+  "liverExam": "Aknu funkcijas pārbaude",
+  "LIVE_ECG": "Jauns mērījums",
+  "live_ecg_downloading": "EKG lejupielāde. Lūdzu uzgaidiet...",
+  "loadEcgList": "Ielādē EKG sarakstu ...",
+  "loading": "Ielādē datus ...",
+  "loading1": "Notiek ielāde ...",
+  "loading_list": "Notiek ielādes saraksts ...",
+  "loading_list_nutritionist": "Notiek dietologu ielāde ...",
+  "LOAD_INDEX": "Slodze",
+  "LOAD_INDEX_DESCRIPTION": "Degviela un nogurums, stress Visaptveroša uzmanība iestādei noslogot indeksu, atspoguļojot fizisko un psiholoģisko aspektu cilvēki sedz slodzes situāciju. Ārējā sabiedrība, dzīve un konkurence un citi faktori, bet arī viņu fiziskais stāvoklis un garīgais stāvoklis.",
+  "LOAD_ITEMS": "Notiek ielāde ...",
+  "LOGGING_IN": "Ielogoties...",
+  "LOGGING_OUT": "Atteikties ...",
+  "LOGIN_BTN": "Pieslēgties",
+  "LOGIN_ERROR": "Nepareizs lietotājvārds vai parole",
+  "Logout": "Izlogoties",
+  "logout1": "Izlogoties",
+  "LOGOUT_BTN": "Izlogoties",
+  "low1": "Zems",
+  "lunch": "Pusdienas",
+  "lungtest": "Darīsim plaušu pārbaudi",
+  "M": "Vīrietis",
+  "male": "Vīrietis",
+  "manageapp": "Pārvaldīt tikšanās",
+  "manageslot": "Pārvaldiet brīvo vietu",
+  "MANAGE_CORX": "Pārvaldiet Corx",
+  "mandatoryDays": "Lūdzu, norādiet dienu skaitu",
+  "mandatoryfield": "Lūdzu, aizpildiet visus obligātos laukus",
+  "map": "Karte",
+  "max_file_size": "Faila lielumam jābūt mazākam par",
+  "meals": "Ēdieni",
+  "medicalconsultation": "Konsultācija",
+  "medicalfile": "Attēli",
+  "medicalform": "Medicīnas formas",
+  "medicalforms": "Medicīnas formas",
+  "medicalinfo": "Medicīniskā informācija",
+  "medicalrecord": "Medicīniskais ieraksts",
+  "medical_2option": "Medicīniskais otrais viedoklis",
+  "MEDICAL_CERTIFICATE": "Medicīnas sertifikāts",
+  "MEDICAL_FILE_BTN": "Medicīnas fails",
+  "medication": "Zāles",
+  "medication_name": "Zāļu nosaukums",
+  "medicinereminders": "Mana zāle Atgādinājumi",
+  "medio": "Vidējs",
+  "medium1": "Vidējs",
+  "message": "Ziņa",
+  "messagesent": "Ziņojums ir veiksmīgi nosūtīts",
+  "metabolismTest": "Metabolisma testi",
+  "method": "Metode",
+  "METRIC": "Metrika",
+  "middedcall2": "Jums ir neatbildēts zvans no",
+  "minutes": "minūtes",
+  "missedcall": "SaluberMd nepiedalījās videokamera",
+  "missedcall1": "Neatbildēts zvans",
+  "missedNotiAlert": "Jums ir daži nokavēti paziņojumi.",
+  "misurazioni": "Ieraksti",
+  "misure": "Pasākums",
+  "mobile": "Mobilais",
+  "mobile_required": "Lūdzu, pievienojiet savu tālruņa numuru, lai mēs varētu sazināties ar jums, lai vienotos par tikšanos.",
+  "moderate_risk": "Mērens risks",
+  "MONDAY": "Pirmdiena",
+  "month": "Mēnesis",
+  "mood": "Modes grupa",
+  "moodDescription": "Galvenais runātāja emocionālā stāvokļa indikators analizētās balss sadaļas laikā. API veido kopumā 11 garastāvokļa grupas, sākot no dusmām, vientulības un pašpārbaudes līdz laimei un uztraukumam.",
+  "moreDays": "Vairāk dienas",
+  "motivazione": "Iemesls",
+  "MRGraph": "Medicīnā ņemta vēsture",
+  "msgAppointment": "Iecelšana ir veiksmīgi ieplānota. Jūs atradīsiet savu tikšanos konsjerža pabalstu sadaļā.",
+  "msgsurveysent": "Apsekojums veiksmīgi nosūtīts",
+  "msg_call_reconnection": "Mēģina atjaunot savienojumu ...",
+  "MSG_CALL_TRANSFERED": "Videokamera ir veiksmīgi nodota",
+  "MSG_CHOOSE_OPTION": "Lūdzu, izvēlieties iespēju",
+  "MSG_CHOOSE_OPTION4": "Izvēlēties iespēju",
+  "MSG_CHOOSE_OPTION5": "Aprakstiet savas brokastis",
+  "MSG_CHOOSE_OPTION6": "Aprakstiet savas vakariņas",
+  "MSG_CHOOSE_OPTION7": "Aprakstiet savas pusdienas",
+  "MSG_CHOOSE_OPTION8": "Aprakstiet savus snaksus",
+  "MSG_CHOOSE_OPTION9": "Lūdzu, atbildiet uz visiem jautājumiem",
+  "MSG_CHOOSE_OPTION_2": "Lūdzu, ievadiet aprakstu",
+  "MSG_CHOOSE_OPTION_3": "Izvēlieties vismaz vienu iespēju",
+  "MSG_COMPLETE_PROFILE": "Vai vēlaties doties tagad?",
+  "MSG_CONFIRM_EMAIL": "Lūdzu, apstipriniet savu e-pastu",
+  "MSG_CONFIRM_EMAIL_TEXT": "Mēs jums nosūtījām e-pasta ziņojumu ar norādījumiem, kā apstiprināt savu e-pasta adresi. Lūdzu, pārbaudiet iesūtni.",
+  "msg_connected": "Veiksmīgi savienots",
+  "MSG_CONTACT_SUCCESS": "Paldies par jūsu iesniegumu.",
+  "MSG_DOC_ENDED_CALL": "Ārsts ir beigusi zvanu",
+  "MSG_DOC_WAITING_CALL": "Ārsts ir atvienots, gaida atkārtotu pievienošanos",
+  "MSG_DONATION": "Apstipriniet savu ziedojumu?",
+  "MSG_DONATION_CONFIRM": "Paldies par ziedojumu",
+  "MSG_ERROR_FILL_BOXES": "Lūdzu, aizpildiet lodziņus ar pareizām vērtībām",
+  "MSG_FILL_ALL_BOXES": "Lūdzu, aizpildiet visas rūtiņas",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Lūdzu aizpildiet visus šādus laukus",
+  "MSG_FILL_BOXES": "Lūdzu, aizpildiet lodziņus",
+  "MSG_FILL_BOXES_ALL": "Lūdzu, aizpildiet visus laukus",
+  "MSG_FILL_BOXES_PROFILE": "Lūdzu, aizpildiet visas ar zvaigznīti apzīmētās ailes",
+  "MSG_GENERIC_ERROR": "Pārbaudiet savu interneta savienojumu un mēģiniet vēlreiz.",
+  "MSG_GENERIC_FORM_ERROR": "Labojiet kļūdu pirms turpiniet",
+  "MSG_LOGIN_ERROR": "Nevarēja pieteikties: pārbaudiet savus akreditācijas datus un pārliecinieties, ka esat izveidojis savienojumu ar tīklu.",
+  "MSG_LOGIN_ERROR_LOCKED": "Pieteikšanās neizdevās: jūsu konts ir īslaicīgi bloķēts. Lūdzu, mēģiniet vēlāk.",
+  "MSG_MANDATORY_OPTION": "Jums jāļauj ārstam apskatīt medicīnisko failu",
+  "MSG_NO_DOCTORS_FOUND": "Neviens ārsts nav atrasts, nospiediet Atrodiet ārstu, lai mēģinātu vēlreiz.",
+  "MSG_PATIENT_CANCELED_CALL": "Pacients ir atcēlis zvanu, atgriežoties mājās",
+  "MSG_PATIENT_ENDED_CALL": "Pacients ir beidzis zvanu",
+  "MSG_PATIENT_WAITING_CALL": "Pacients ir atvienots, gaida atkārtotu savienojumu",
+  "MSG_POST_CALL_CANCEL": "Pirms videozvana uzsākšanas jūs pabeidzat apmeklēt!",
+  "MSG_POST_CALL_DOCTOR": "Kopsavilkums nosūtīts, atgriežoties mājās.",
+  "MSG_POST_CALL_PATIENT": "Paldies, ka izmantojat SaluberMD. Jūs saņemsiet papildu e-pastu. Lai skatītu informāciju par jūsu apmeklējumu un ārsta norādījumiem, lūdzu, apmeklējiet sadaļu Mana profila apmeklējumu vēsture.",
+  "msg_reconnection_error": "Ierīce ir atvienota. Lūdzu, atvienojiet ierīci",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Paldies .... kāds sazināsies ar tevi",
+  "MSG_REGISTRATION_SUCCESS": "Veiksmīga reģistrācija",
+  "msg_req_videocall1": "ir pieejams videozvansam:",
+  "msg_req_videocall2": "Videozvans ir gatavs sākt. Noklikšķiniet uz šī paziņojuma, lai aktivizētu videozvanu",
+  "msg_req_videocall3": "tagad ir pieejams videozvans. Noklikšķiniet uz šī paziņojuma, lai aktivizētu videozvanu",
+  "MSG_RESET_REQUEST_ERROR": "Lietotājs ar šo lietotājvārdu vai e-pasta adresi nepastāv.",
+  "MSG_RESET_REQUEST_SUCCESS": "Jūs drīz saņemsiet e-pastu, kurā ir saite, lai atiestatītu paroli.",
+  "MSG_RESUME_CALL": "Pastāv zvans, vai vēlaties to atsākt?",
+  "MSG_SCHOOL_MISSING": "Ievietot skolu",
+  "MSG_SELECT_TIMEZONE": "Izvēlieties laika joslu",
+  "MSG_SIGNATURE_MISSING": "Lūdzu, aizpildiet savu parakstu, pretējā gadījumā jūs nevarat nosūtīt receptes.",
+  "MSG_THANKING": "Paldies par jūsu iesniegumu.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Zudis savienojums. Tas varētu būt saistīts ar jūsu interneta pieslēgumu",
+  "MSG_WELCOME_BACK": "Atgriezeniskā saite",
+  "MSG_YEAR_PRACTISE": "Ievietojiet praktiskās darbības gadu",
+  "muscles": "Muskuļi",
+  "myappointment": "Manas tikšanās",
+  "MYFILE_NOFILE": "Jums vēl nav failu",
+  "MYFILE_SECTION": "Jūsu faili",
+  "MYFILE_SUBTITLE": "Noklikšķiniet uz katra vienuma, lai skatītu faila saturu",
+  "MYFILE_TITLE": "Mani faili",
+  "myprofile": "Mans profils",
+  "myreminders": "Mani atgādinājumi",
+  "MY_TICKETS": "Jūsu biļetes",
+  "M_SCHOOL": "Medicīnas skola",
+  "N": "Nē",
+  "name": "Nosaukums",
+  "negative": "Negatīvs",
+  "nervous": "Nervozs",
+  "nessun_appuntamento": "Nav pagātnes tikšanās",
+  "NETWORK_CHECK_MSG": "Jūsu joslas platums ir pārāk zems. Atskaņojot saturu ar zemu joslas platumu, videoklips tiks apturēts.",
+  "NETWORK_CHECK_TITLE": "Zvanu kvalitātes tests",
+  "NETWORK_ERROR": "Interneta savienojuma kļūda. Pamēģini vēlreiz vēlāk",
+  "neutral": "Neitrāls",
+  "newappointment": "Jauna tikšanās no",
+  "newass": "Pievienojiet jaunu asociāciju",
+  "NEWPWD_CONFIRM": "Parole veiksmīgi mainīta. Lūdzu, piesakieties vēlreiz.",
+  "NEWPWD_CONFIRM2": "Parole veiksmīgi mainīta",
+  "NEWPWD_ERROR": "Jauna parole nav atbilstoša.",
+  "newtest": "Nospiediet plus pogu, lai veiktu jaunu pārbaudi.",
+  "NEW_PWD": "Jauna parole",
+  "new_ticket": "Jauna biļete",
+  "NEXT": "Nākamais",
+  "no": "Nē",
+  "noAlarm": "Bez trauksmes iestatīta",
+  "noallergies": "Pašlaik nav alerģiju",
+  "noapatient": "Neviens pacients nav atrasts",
+  "noappointment": "Plānota tikšanās nav paredzēta",
+  "noappointments": "Šim ārstam nav pieejama datuma",
+  "noappointments1": "Ar šo dietologu nav pieejami datumi",
+  "noAppoPat": "Nav neviena iecelšanas saraksta",
+  "noarticles": "Nav uzturvielu rakstu",
+  "noassociatedpatient": "Jūs vēl neesat saņēmis pacientu",
+  "noattachment": "Lūdzu, izvēlieties pielikumu",
+  "noattachment1": "Nav pielikumu",
+  "noavailableoption": "Nav pieejama opcija",
+  "nocomment": "Nav komentāru / ieteikumu",
+  "noconsulenze": "Nav veikta apmeklējumu",
+  "nocorxfound": "CORX nav atrasts",
+  "nodata": "Nav datu",
+  "nodependency": "Pašlaik nav atkarību",
+  "nodesease": "Šobrīd nav slimību",
+  "nodevice": "Nav atrasta neviena ierīce, lūdzu, mēģiniet vēlreiz",
+  "nodoctor": "Netika atrasts neviens ārsts",
+  "nodoctors": "Nav pieejami ārsti",
+  "noDocuments": "Nav augšupielādēti dokumenti",
+  "nodrugselected": "Jūs neesat izvēlējies nevienu narkotiku",
+  "noecg": "Nav uzskaitītas EKG",
+  "noexam": "Nav eksāmenu, ko parādīt",
+  "nofiles": "Pacientam nav augšupielādēti faili",
+  "noHistory": "Šobrīd nav konsultāciju",
+  "nohsh": "Šobrīd nav hospitalizācijas",
+  "noimages": "Pašlaik nav pielikumu",
+  "noimmunization": "Pašlaik nav vakcināciju",
+  "nolabtest": "Netika atrasts laboratorijas tests",
+  "nomedication": "Pašlaik nav zāļu",
+  "nomisure": "Nav pasākuma",
+  "nonterminata": "Zvans ir neveiksmīgs",
+  "nonutritionist": "Nav pieejami uztura speciālisti",
+  "nonuvoair": "Neviena ierīce nav atrasta",
+  "nopharmacy": "Aptiekas nav atrastas",
+  "noprescription": "Šobrīd nav receptes",
+  "noprothesis": "Pašlaik nav protezēšanas",
+  "noreferrals": "Nav norādījumu",
+  "noreminders": "Pašlaik jums nav atgādinājumu",
+  "noresults": "Nekas nav atrasts",
+  "normale": "Normāls",
+  "normalrange": "Normality Range",
+  "normalWeight": "Normāls svars",
+  "nosintomi": "Nav izvēlēts simptoms",
+  "nospecialist": "Nav speciālistu",
+  "note": "Piezīmes",
+  "notests": "Pašlaik nav nevienmērīgu testu",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Noklikšķiniet šeit, lai pabeigtu medicīniskās lietas pabeigšanu",
+  "NOTIFICATIONS_SECTION": "Jūsu paziņojumi",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Saņemiet 1 bezmaksas konsultāciju vai veselības pārbaudes zvanu pēc pilnīgas medicīniskās lietas aizpildīšanas.",
+  "NOTIFICATIONS_SETTINGS": "Iestatiet paziņojumus",
+  "NOTIFICATIONS_TITLE": "Paziņojumi",
+  "notification_setting": "Izvēlieties, no kuras kategorijas vēlaties saņemt paziņojumus",
+  "notimage": "Šis fails nav attēls: ir atļauti tikai BMP, GIF, JPG un PNG",
+  "notNow": "Ne tagad",
+  "notnow_btn": "Ne tagad",
+  "nouser": "Lietotājs nav atrasts",
+  "novantad": "Pēdējās 90 dienas",
+  "novideocall": "Videokamera nav atrasta",
+  "novisit": "Jums vēl nav pacientu apmeklējumu",
+  "noWellnessData": "Nav jaunu veselības datu",
+  "no_certificate": "Nav sertifikāta, kas būtu jāuzskaita",
+  "no_chiosc_data": "Nav apskates laboratorijas testu",
+  "NO_DATA": "Nav datu",
+  "no_doctor_answer1": "Pašlaik nav pieejami ārsti.",
+  "no_doctor_answer2": "Tikšanos var veikt, noklikšķinot uz tālāk redzamās pogas.",
+  "NO_GENETIC_TEST_REQUESTS": "Jūs neesat pieprasījis nevienu ģenētisko pārbaudi",
+  "NO_MSG": "Nav nosūtītas ziņas",
+  "no_notifications": "Jums nav paziņojumu",
+  "no_prescription_download": "Šīs konsultācijas nav saistītas ar receptēm",
+  "no_pull_answer": "Pašlaik nav pieejams neviens ārsts.",
+  "no_referral_download": "Šajā apmeklējumā nav norādījumu",
+  "NO_SECOND_OP_REQUESTS": "Jums nav lūguma sniegt otro atzinumu",
+  "no_specialization": "no_specializācija",
+  "no_specialization_found": "Netika atrasta specializācija",
+  "NO_TICKETS_SENT": "Neviena biļete nav nosūtīta",
+  "NO_USER_FOUND": "Lietotājvārds vai e-pasts nav atrasts",
+  "NPI": "NPI",
+  "ns": "Nervu sistēma",
+  "numberNotSaved": "Saglabājot numuru, radās kļūda",
+  "numberSaved": "Numurs saglabāts veiksmīgi",
+  "nuovoair_connected": "Savienots",
+  "nuovoair_disconnected": "Atvienots",
+  "nutriPen": "Gaida pieprasījumu",
+  "nutriRev": "Pārskatīta anketa",
+  "nutrition": "uzturs",
+  "nutritionist": "Runājiet ar dietologu",
+  "NUTRITIONIST_Q1": "Galvenie mērķi: (pārbaudiet visas lietojumprogrammas)",
+  "NUTRITIONIST_Q10": "Vai jūs esat ievērojami uzbudināms, viegls vai vājš, ja neesat ēdis?",
+  "NUTRITIONIST_Q11": "Pašreizējais vingrinājums: (sirds, rezistence u.tml.)",
+  "NUTRITIONIST_Q12": "Vai jūs smēķējat ?: (Ja jā, cik bieži un cik?)",
+  "NUTRITIONIST_Q13": "Vai jūs dzerat alkoholu ?: (Ja jā, cik bieži un cik?)",
+  "NUTRITIONIST_Q14": "Vai jūs dzerat kofeīnu ?: (Ja jā, cik bieži un cik?)",
+  "NUTRITIONIST_Q15": "Pēdējās fiziskās datuma datums:",
+  "NUTRITIONIST_Q16": "Cik reizes esat saņēmuši antibiotikas pēdējo 2 gadu laikā:",
+  "NUTRITIONIST_Q16_BIS": "Ja jā, kādi un cik bieži (lūdzu, pēc iespējas precīzāk).",
+  "NUTRITIONIST_Q17": "Vai Jūs lietojat zāles? (OTC vai recepte?) Ja jā, kādi un vai jūs lietojat papildinājumus? Ja jā, cik bieži, (Lūdzu, pēc iespējas precīzāk.)",
+  "NUTRITIONIST_Q18": "Vai esat uzpūsts vai aizcietēts vairāk nekā 1-2 dienas nedēļā?",
+  "NUTRITIONIST_Q19": "Vai jums ir problēmas šādās jomās? Ja atbilde ir “jā”, lūdzu, sniedziet detalizētu informāciju par saviem jautājumiem.",
+  "NUTRITIONIST_Q2": "Aptuveni cik ēdienu jūs ēdat dienā? (Izvēlies vienu)",
+  "NUTRITIONIST_Q3": "Ko veido jūsu tipiskās brokastis, un kādu laiku:",
+  "NUTRITIONIST_Q4": "Ko veido jūsu tipiskais pusdienas un kāds laiks:",
+  "NUTRITIONIST_Q5": "Ko veido jūsu tipiskā vakariņas un kurā laikā:",
+  "NUTRITIONIST_Q6": "Ko veido jūsu tipiskās uzkodas, un kādu laiku (-us):",
+  "NUTRITIONIST_Q7": "Vai jūs pārēsties?",
+  "NUTRITIONIST_Q8": "Kādus pārtikas produktus mēdzat pārēsties un cik bieži:",
+  "NUTRITIONIST_Q9": "Vai jums ir kādas pārtikas alerģijas, ierobežojumi vai jutīgums:",
+  "NUTRITIONIST_SUB1": "Svara zudums",
+  "NUTRITIONIST_SUB10": "Slikta dūša / vemšana",
+  "NUTRITIONIST_SUB11": "Sāpes vēderā",
+  "NUTRITIONIST_SUB2": "Svara pieaugums",
+  "NUTRITIONIST_SUB3": "Enerģija / nogurums",
+  "NUTRITIONIST_SUB4": "Labāks miega režīms",
+  "NUTRITIONIST_SUB5": "Gremošanas problēmas",
+  "NUTRITIONIST_SUB6": "Aizcietējums",
+  "NUTRITIONIST_SUB7": "Caureja",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Uzpūšanās / gāze",
+  "nutrition_mail": "Ir pievienots dietologa ziņojums",
+  "nutrition_mail2": "Dietologs jums nosūta failu",
+  "nutrition_questionnaire": "uztura anketa",
+  "nvisit": "Videoklipu skaits pabeigts",
+  "obesity1": "Aptaukošanās",
+  "obesity2": "Sevišķi aptaukošanās",
+  "obesity3": "Morbidly aptaukošanās",
+  "OFFICE_ADDRESS": "Biroja adrese",
+  "offline": "Bezsaistē",
+  "OFFLINE_DOCTOR_MSG": "Šķiet, ka ārsts ir bezsaistē, lūdzu, vēlāk mēģiniet vēlreiz",
+  "OLDPWD_ERROR": "Jauna parole sakrīt ar veco paroli.",
+  "OLD_PASSWORD_WRONG": "Vecā parole ir nepareiza",
+  "OLD_PWD": "Vecā parole",
+  "oneDay": "Viena diena",
+  "one_min": "Pēc 1 minūtes",
+  "online": "Tiešsaistē",
+  "onlinedoctors": "Tiešsaistes ārsti",
+  "openimage": "Noklikšķiniet uz attēla, lai atvērtu pilnekrāna režīmā",
+  "open_ticket": "Atveriet biļeti",
+  "orale": "Ar muti",
+  "other": "Cits",
+  "othercbc": "Citi CBC eksāmeni",
+  "OTHER_PLACEHOLDER": "Lūdzu, norādiet savu specialitāti",
+  "otoscopy": "Otoskopija",
+  "otp_sent_msg": "Mēs uz jūsu tālruņa numuru esam nosūtījuši verifikācijas kodu",
+  "OUR_PRODUCTS_SECTION": "Mūsu ierīces nodrošina reāllaika veselības un labsajūtas datus, lai palīdzētu jums sekot līdzi jūsu veselībai.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Mēģiniet plaušu veselību sekundēs ar profesionālu spirometru",
+  "OUR_PRODUCTS_SECTION_P1": "Gudra valkājama tehnoloģija, kas papildus veselības aprūpes funkcijām nodrošina reāllaika veselības datus",
+  "OUR_PRODUCTS_SECTION_P2": "Fitnesa / labsajūtas ieguvumi",
+  "OUR_PRODUCTS_SECTION_P3": "Jūsu mājas diagnostikas komplekts visai ģimenei.",
+  "OUR_PRODUCTS_SECTION_P4": "iespējas",
+  "OUR_PRODUCTS_SECTION_P5": "Abas ierīces ir izstrādātas, lai mijiedarbotos ar lietotni, lai nodrošinātu labu veselību. Jūsu rezultāti tiks saglabāti tieši lietotnē.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Izmēriet savu spiedienu sekundēs ar profesionālu sfigmometru",
+  "OUR_PRODUCTS_SECTION_SCALX": "Izmēriet savu svaru sekundēs ar profesionālu skalu",
+  "OUR_PRODUCTS_TITLE": "Mūsu produkti",
+  "overeatFoods": "Pārtikas produkti, kas ir pārpildīti",
+  "overeating": "Pārēšanās pārēšanās",
+  "overweight": "Pārmērīgs svars",
+  "pa": "Recepšu asistents",
+  "PASSWORD": "Parole",
+  "passwordchanged": "Parole veiksmīgi mainīta!",
+  "passwordExpiringMessage": "Jūsu parole drīz beigsies. Lūdzu, mainiet to tagad",
+  "passwordExpiringTitle": "Parole beidzas",
+  "PATIENT": "Pacienta",
+  "patientAllergy": "Alerģijas",
+  "patientGeneticRequests": "Ģenētisko testu pieprasījumi",
+  "patientinfo": "Pacienta informācija",
+  "patientlist": "Pacientu saraksts",
+  "patientmanagement": "Pacientu vadīšana",
+  "patientProtesi": "Protezēšana",
+  "PATIENTS_NO_P": "Jums pašlaik nav paredzēta plānota tikšanās",
+  "PATIENTS_SECTION": "Jūsu tikšanās",
+  "PATIENTS_SECTION_SUBTITLE": "Noklikšķiniet uz katra vienuma, lai skatītu pilnu informāciju",
+  "PATIENTS_TITLE": "Pacienti",
+  "patientupdate": "Pacienta",
+  "patientvisit": "Pacienta vizītes vēsture",
+  "PATIENT_PROFILE_OPT1": "Mans profils",
+  "PATIENT_PROFILE_OPT11": "Mani izlases ārsti",
+  "PATIENT_PROFILE_OPT12": "Pievienot iecienīto aptieku",
+  "PATIENT_PROFILE_OPT2": "Mans medicīnas fails",
+  "PATIENT_PROFILE_OPT3": "Mana apmeklējuma vēsture",
+  "PATIENT_PROFILE_OPT4": "Mani mīļākie",
+  "PATIENT_PROFILE_OPT5": "Mani faili",
+  "PATIENT_PROFILE_OPT6": "Mani paziņojumi",
+  "PATIENT_PROFILE_OPT7": "EKG augšupielāde",
+  "PATIENT_PROFILE_OPT8": "Medicīnas ierīču dati",
+  "PATIENT_PROFILE_OPT9": "Mana izlase Aptiekas",
+  "PATIENT_S1": "Pacienta",
+  "PATIENT_S2": "Runājot par",
+  "PATIENT_S3": "Pacienta informācija",
+  "PATIENT_S4": "Apmeklējuma priekšmets",
+  "PATIENT_S5": "Slimības",
+  "PATIENT_S6": "Alerģijas",
+  "PATIENT_S7": "Zāles",
+  "PATIENT_S8": "Pievienotie dokumenti",
+  "PATIENT_S9": "Simptomi?",
+  "PATIENT_SUMMARY": "Pacientu informācijas kopsavilkums",
+  "patologia": "Patoloģija",
+  "payment": "Maksājums",
+  "PAYMENT_DETAILS": "Maksājumu informācija",
+  "PAYMENT_MESSAGE_1": "Jums tiks piešķirta iepriekšēja atļauja par summu",
+  "PAYMENT_MESSAGE_2": "Jums tiks iekasēta maksa video zvana beigās",
+  "PAYMENT_SECTION1": "Izvēlieties karti no saraksta",
+  "PAYMENT_SECTION2": "Ievietojiet kredītkartes vērtības",
+  "PAYMENT_SUCCESS": "Maksājums veiksmīgs!",
+  "PAYMENT_SUCCESSFUL": "Mums ir veiksmīgi iepriekš apstiprināts maksājums",
+  "PAYMENT_UNSUCCESSFUL": "Maksājums pirms atļaujas izsniegšanas neizdevās. Pārbaudiet savu kredītkartes informāciju vai pajautājiet savai bankai.",
+  "paziente_rimosso": "Pacienta statuss ir veiksmīgi mainīts",
+  "paziente_salvato": "Pacients ir veiksmīgi atjaunināts",
+  "pdf_download_error": "Nevar lejupielādēt pdf. Lūdzu, pamēģiniet vēlreiz vēlāk",
+  "pdf_file_error": "Tiek atļauti tikai pdf faili",
+  "period": "Periods",
+  "PERIODIC_HEART_RATE": "Periodiska sirdsdarbības ātruma noteikšana",
+  "personal": "Personīgais",
+  "personalCare": "Personīgā aprūpe",
+  "personalinfo": "Personīgā informācija",
+  "PER_MIN": "/ min",
+  "pharmacies": "Aptiekas",
+  "PHONE": "Telefona numurs",
+  "phone1": "Tālrunis",
+  "pills": "Tabletes",
+  "PILLS_DATE_ERROR": "Sākuma datums ir pēc beigu datuma",
+  "pill_reminder_message": "Ir pienācis laiks lietot tabletes",
+  "placeholder": "Lietotājvārds, e-pasts vai vārds",
+  "placeOfBirth": "Dzimšanas vieta",
+  "place_birth": "Dzimšanas vieta",
+  "platform": "Platforma",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Politikas numurs",
+  "positive": "Pozitīvs",
+  "POSTCALL_DOCTOR_TITLE": "Apmeklējuma kopsavilkums",
+  "POSTCALL_PATIENT_TITLE": "Lūdzu, novērtējiet savu pieredzi",
+  "POUNDS": "mārciņas",
+  "PRACTICE_LENGTH": "Garums praksē",
+  "prenota": "Rezervēt tagad",
+  "prenotatest": "Pieprasīt tikšanos",
+  "preobesity": "Pirms aptaukošanās",
+  "prescription": "Recepte",
+  "prescriptiondiscounts": "Recepšu atlaides",
+  "PRESCRIPTIONS": "Priekšraksti",
+  "prescriptions_sent": "Priekšraksti nosūtīti",
+  "prescription_mail": "Pievienotais ir jūsu recepte",
+  "prescription_mail2": "Paldies, ka izmantojat SaluberMD",
+  "prescription_notification": "Cien. Lietotājs, mēs informējam jūs, ka jūsu recepte tagad ir pieejama programmas laika skalas / konferences vēstures sadaļā",
+  "prescription_pharmacy": "Izvēlieties aptieku, lai nosūtītu recepti",
+  "prescription_preview": "Recepšu priekšskatījums",
+  "prescription_sent": "Izrakstīšana nosūtīta",
+  "PRESCRIPTION_SENT_EMAIL": "Jūsu recepte ir nosūtīta uz jūsu e-pastu ...",
+  "prescription_subject": "Jūsu recepte",
+  "pressbutton": "Nospiediet ierīces pāra pogu un pieskarieties Find Device",
+  "pressbuttonpresx": "Nospiediet un turiet pogas pogu ierīces aizmugurē, lai sāktu savienojumu, un pieskarieties pogai atrast ierīci lietotnē",
+  "pressbuttonscalx": "Nospiediet un turiet pogas pogu ierīces aizmugurē, lai sāktu savienojumu, un pieskarieties pogai atrast ierīci lietotnē",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Asinsspiediens",
+  "PRESX_PROD": "PRESX",
+  "previous": "Iepriekšējā",
+  "pre_period": "Izrakstīšanas periods",
+  "price": "Cena",
+  "price_per_visit": "Maksa par vienu apmeklējumu",
+  "PRICING_SECTION1_P1": "SaluberMD ir apņēmies nodrošināt ērtu un kvalitatīvu aprūpi par pieņemamām cenām bez slēptu maksu vai maksas.",
+  "PRICING_SECTION1_P2": "SaluberMD nodrošina aprūpi jebkurā vietā un laikā, kad tas ir vajadzīgs, izmantojot video vizīti, ar padomes sertificētu ārstu. Mūsu ārsti var apspriest, izpētīt un klausīties, lai diagnosticētu jūsu problēmas vai vienkārši risinātu medicīniskos jautājumus un bažas videozvanas laikā.",
+  "PRICING_SECTION1_P3": "Izmantojot mūsu ekskluzīvo Medicfile, jūs varat nodrošināt savu ārstu ar piekļuvi jūsu slimības vēsturē, attēliem un failiem, lai palīdzētu viņiem nodrošināt visefektīvāko ārstēšanas plānu.",
+  "PRICING_SECTION1_TITLE": "Vienā apmeklējumā",
+  "PRICING_TITLE": "Cenu noteikšana",
+  "primaryConcern": "Galvenās bažas",
+  "primaryMood": "Mood Primary",
+  "print": "Drukāt",
+  "priority": "Prioritāte",
+  "PRIVACY_POLICY_TITLE": "Privātuma politika",
+  "problems": "problēmas",
+  "PROCEED_PAYMENT": "Turpiniet samaksu",
+  "PROFESSIONAL_TITLE": "Profesionālais nosaukums",
+  "PROFILE_SECTION2": "Kontaktinformācija",
+  "protesi": "Protezēšana un medicīniskie palīglīdzekļi",
+  "protesiobbligatorio": "Lūdzu, izvēlieties protēžu tipu",
+  "prov": "paraugs",
+  "publicAppUrl": "Jūsu publiskais iecelšanas URL ir:",
+  "pulldown": "Pabīdiet uz leju, lai atsvaidzinātu",
+  "pull_request_processed": "Paldies, Mēs esam nosūtījuši jūsu pieejamību pacientam",
+  "PWD_NOTMATCH": "Paroles neatbilst",
+  "P_P_Error": "Jums ir jāpieņem privātuma politika",
+  "QUALITY_INDEX": "Kvalitāte",
+  "QUALITY_INDEX_DESCRIPTION": "Fiziskā fiziskā sagatavotība ir elastīguma un garīgās stresa līmenis, kas rodas saistībā ar spēju pielāgoties un risināt situāciju. Fiziskā fiziskās aktivitātes indekss atspoguļo cilvēka ķermeni, lai pielāgotos vides izmaiņām un stresa stimulēšanai, uzturētu un atjaunotu veselības spējas. Fiziskā fiziskā sagatavotība bieži izpaužas cilvēku dzīves, mācīšanās un darba potenciāla, kā arī dabiski fiziskās aktivitātēs. Personas fiziskā kvalitāte ir saistīta ar iedzimtību, bet ir ciešāk saistīta ar uzturu un fizisko aktivitāti. Izmantojot pareizas metodes un pareizu darbību, viņš / viņa var uzlabot savu fizisko sagatavotību visos aspektos.",
+  "quantity": "Daudzums",
+  "quesito": "Bažas",
+  "QUESTIONS_SECTION_TITLE": "Saņemiet 1 bezmaksas konsultāciju vai veselības pārbaudes zvanu pēc pilnīgas medicīniskās lietas aizpildīšanas.",
+  "QUESTIONS_TITLE": "Jautājumi",
+  "quindici": "Pēdējie 15 mērījumi",
+  "ratio": "Attiecība",
+  "reccomendation": "Reccomendation",
+  "reccomendations": "Ieteikumi",
+  "recommendation": "Ieteikumi",
+  "RECOMMENDATIONS": "Ieteikumi",
+  "RECOMMEND_SECTION_P1": "SaluberMD cenšoties apmierināt pieprasījumu pēc kvalitatīvas veselības aprūpes visā pasaulē, piedāvājot saviem klientiem piekļuvi visaptverošai ārstu grupai.",
+  "RECOMMEND_SECTION_P2": "Mēs vienmēr meklējam kvalitātes ārstu, lai pievienotu mūsu brīnišķīgajai komandai. Kā mūsu komandas biedrs mēs cienām un novērtējam jūsu nodošanu.",
+  "RECOMMEND_SECTION_P3": "Lūdzu, aizpildiet zemāk redzamo veidlapu, lai nosūtītu ārstu uz SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Ieteikt kolēģi",
+  "RECOMMEND_TITLE": "Ieteikt",
+  "record_aggiornato": "Ieraksts veiksmīgi atjaunināts",
+  "record_aggiunto": "Ieraksts veiksmīgi pievienots",
+  "record_inserito": "Veiksmīgi pievienots",
+  "record_rimosso": "Ieraksts veiksmīgi dzēsts",
+  "REFERRAL": "Iesniegšana",
+  "REFERRALS": "Nodošana",
+  "referrals_sent": "Sūtītie nosūtījumi",
+  "referral_mail": "Pievienots ir jūsu nosūtījums.",
+  "referral_sent": "Iesūtīšana nosūtīta",
+  "refundrequestsent": "Jūsu pieprasījums ir nosūtīts",
+  "register": "Reģistrēties",
+  "register_report": "Lietotāju reģistrācija",
+  "registration_date": "reģistrācijas datums",
+  "REGISTRATION_HEADER_DOCTOR": "Pievienojieties Saluber MD komandai",
+  "REGISTRATION_HEADER_PATIENT": "Lūdzu aizpildiet laukus un nospiediet reģistrāciju",
+  "releaserefresh": "Atlaidiet, lai atsvaidzinātu",
+  "remarks": "Piezīmes",
+  "removedevice": "Vai vēlaties noņemt šo ierīci?",
+  "removefavorite": "Vai noņemt no favorītiem?",
+  "remove_generic": "Vai vēlaties to noņemt?",
+  "renalFunction": "Nieru darbība",
+  "reoccurring": "Atkārtošanās",
+  "repeat_email": "Apstiprini epastu",
+  "report": "Personīgā klīniskā lieta: Pilns datu pārskats",
+  "report1": "Personīgais klīniskais materiāls:",
+  "report2": "Ziņojums",
+  "reportvisite": "Ziņot par videoklipiem",
+  "report_date": "Pārskata datums",
+  "requestdate": "Pieprasījuma datums",
+  "request_already_taken": "Šo pieprasījumu jau ir atbildējis cits ārsts.",
+  "REQUEST_ERROR": "Apstrādājot jūsu pieprasījumus, radās kļūda. Pārbaudiet savu interneta savienojumu vai mēģiniet vēlreiz vēlāk.",
+  "request_sent": "Jūsu pieprasījums ir veiksmīgi nosūtīts uz backoffice",
+  "required": "Šis lauks ir obligāts.",
+  "required_field": "Iesniegts Nepieciešams",
+  "RESEND_EMAIL": "Nosūtīt atkārtotu apstiprinājuma kodu",
+  "resetCorxFactory": "Vai tiešām vēlaties atiestatīt Corx?",
+  "RESETPWD_BTN": "Atiestatīt paroli",
+  "RESET_PASSWORD": "Ievietojiet e-pastu vai lietotājvārdu, kas tiek izmantots reģistrēšanās laikā",
+  "respiratory": "Elpošana",
+  "RESPIRATORY_RATE": "Elpošanas ātrums",
+  "RESTORE_FACTORY_SETTINGS": "Atjaunot rūpnīcas iestatījumus",
+  "resultfound": "atrast ierakstu",
+  "results": "Rezultāti",
+  "ricettario": "Valsts",
+  "richiediDrug": "Pieprasīt narkotiku",
+  "richiestaAppuntamento": "Iecelšanas pieprasījums",
+  "richiestaRimborso": "Atmaksas pieprasījums",
+  "ricovero": "Hospitalizācija",
+  "riepilogo": "Kopsavilkums",
+  "rightHanded": "Labajā pusē",
+  "rimborso": "Atmaksa",
+  "ripetibile": "Atkārtojams (reizes)",
+  "rr_desc": "Elpošanas ātrums ir elpošanas ātrums. Parastais elpošanas ātrums pieaugušajiem ir 12 līdz 20 elpas minūtē. Tiek uzskatīts, ka elpošanas ātrums ir mazāks par 12 vai vairāk par 25 elpošanas minūtēm, kamēr atpūsties",
+  "rs": "Elpošanas sistēmas",
+  "RUNNING_CALL_OPT1": "Turpināt",
+  "RUNNING_CALL_OPT2": "Beigt zvanu",
+  "RUNNING_CALL_TITLE": "Skriešana",
+  "sa": "Spēcīga autentifikācija",
+  "sadness": "Skumjas",
+  "sai": "Aktivitātes indekss",
+  "sai_desc": "SAI pamatā ir tikai jūsu sirdsdarbības ātrums. Tā ir vienkārša metrika, kas izseko ķermeņa reakciju uz fizisko aktivitāti - daudz vairāk nekā tikai soļus. Atšķirībā no pakāpeniskās uzskaites, SCI piešķir kredītu katrai darbībai, kas paaugstina sirdsdarbības ātrumu: peldēšana, riteņbraukšana, airēšana, dejas. Saglabājiet to zem 30 par labāku un veselīgāku dzīvi.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD pacients",
+  "SATURDAY": "Sestdiena",
+  "savedinfo": "Informācija ir veiksmīgi saglabāta",
+  "SAVE_BTN": "Saglabājiet",
+  "SAVE_MESSAGE": "Ja jūs atstājat, jūsu izmaiņas tiks zaudētas",
+  "sbpi": "Asinsspiediena indekss",
+  "sbpi_desc": "Augsts asinsspiediens ir klusais slepkava. Jūsu sistoliskā un diastoliskā asinsspiediena vērtības tiek novērtētas jebkuras medicīniskās sesijas laikā. Saglabājiet SBPI zem 30, lai iegūtu zemākas izredzes ciest no dzīvībai bīstamiem stāvokļiem, piemēram, insultu un asins recekļu veidošanos.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Svars",
+  "SCALX_PROD": "SCALX",
+  "scan": "Skenēt",
+  "scanningcorx": "Meklēt CORX ... lūdzu, gaidiet",
+  "schedule": "Grafiks",
+  "scheduleAnAppointment": "Plānot tikšanos",
+  "scheduleappointment": "Plānojiet videoklipu ar ārstu",
+  "schtime": "Plānotais laiks",
+  "sci": "Sirds un asinsvadu indekss",
+  "sci_desc": "Analizējot jūsu artēriju pulsa vilni, mēs iegūstam ieskatu par jūsu sirds un asinsvadu sistēmu. SCI indekss ir sirds un asinsvadu veselības kopsavilkums, mēģiniet to saglabāt zem 20!",
+  "sci_title": "SCI",
+  "SEARCH": "Meklēt",
+  "searchallergy": "Meklēt alerģijas",
+  "searchdoctor": "Meklēt ārstu",
+  "searchfordoctor": "Meklēt ārstu pēc vārda vai uzvārda",
+  "searchingdevice": "Meklēt ierīci. Tas var aizņemt laiku",
+  "searching_avail_date": "Meklējot pieejamo datumu ...",
+  "searching_online_doctors": "Notiek notiekošo tiešsaistes ārstu meklēšana ...",
+  "searchmedication": "Meklēt medikamentus",
+  "searchpatient": "Meklēt pacientu",
+  "searchpatologia": "Meklēt medicīnisko stāvokli",
+  "searchsymptom": "Meklēt simptomus",
+  "searchuser": "Meklēt lietotāju",
+  "search_doctor_description": "Meklēt ārstu lietotājvārdam, e-pastam vai vārdam",
+  "search_patient_description": "Meklēt pacientam lietotājvārdu, e-pastu vai vārdu",
+  "search_specialization": "Meklēšanas specializācija",
+  "search_user_description": "Meklēt lietotājvārdu, e-pastu vai uzvārdu",
+  "search_videocall_description": "Meklējiet videoklipu, kas izdarīts ar iniciativu",
+  "search_videocall_title": "Serach Videocall pēc datuma",
+  "secondaryMood": "Mood Secondary",
+  "secondOpinion": "Otrais atzinuma pieprasījums",
+  "seconds": "sekundes",
+  "second_opinion_1": "Ērta, uzticama piekļuve medicīniskajam viedoklim no vadošajiem speciālistiem visā pasaulē.",
+  "second_opinion_2": "Mūsu Medicīnas otrā Atzinības dienests var jums palīdzēt:",
+  "second_opinion_3": "Iegūstiet atbildes uz saviem jautājumiem",
+  "second_opinion_4": "Izvēlieties labāko ārstēšanas plānu",
+  "second_opinion_5": "Nodrošiniet pareizu diagnozi",
+  "second_opinion_body": "Cienījamais lietotāj! <br> jūsu otrais izvēles pieprasījums ir pārņemts no mūsu speciālistiem, kuri pārskata jūsu nosūtītos dokumentus.",
+  "second_opinion_history": "Otrais atzinuma pieprasījums",
+  "second_opinion_msg": "Paldies. Mūsu veselības aizsardzības advokāts pie jums sazināsies nākamo 24 stundu laikā.",
+  "SECOND_OPINION_Q1": "Ko jūs vēlaties runāt ar dietologu?",
+  "second_opinion_question1": "Kas ir otrais atzinums?",
+  "second_opinion_question2": "Augšupielādējiet failu",
+  "second_opinion_step1": "Pabeigt īsu anketu / augšupielādēt savus failus",
+  "second_opinion_step2": "Mūsu ārsti novērtēs jūsu materiālus",
+  "second_opinion_step3": "Ārstu konsultācijas, lai apspriestu savus rezultātus",
+  "secOpChoice": "Lūdzu, atlasiet, kādā veidā vēlaties saņemt otro viedokli",
+  "section": "Lūdzu, atlasiet vienu sadaļu",
+  "security": "Drošība",
+  "seeaprovider": "Skatiet pakalpojumu sniedzēju",
+  "seecommenti": "Skatīt komentārus",
+  "seedoctor": "Tagad skatiet ārstu",
+  "SEE_A_DOCTOR_Q1": "Vai videozvans man vai kādam citam?",
+  "SEE_A_DOCTOR_Q10": "Mēs varam nosūtīt jūsu receptes tiešu aptieku pēc jūsu izvēles",
+  "SEE_A_DOCTOR_Q1B": "Jūsu bērna vārds un dzimšanas datums?",
+  "SEE_A_DOCTOR_Q1_A1": "Mani",
+  "SEE_A_DOCTOR_Q1_A2": "Mans bērns",
+  "SEE_A_DOCTOR_Q2": "Lūdzu, aprakstiet, ar ko vēlaties runāt ar ārstu",
+  "SEE_A_DOCTOR_Q3": "Simptomi?",
+  "SEE_A_DOCTOR_Q4": "Vai vēlaties pievienot fotoattēlu vai dokumentu?",
+  "SEE_A_DOCTOR_Q4_ERROR": "KĻŪDA: faili nedrīkst pārsniegt 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Izvēlieties failu",
+  "SEE_A_DOCTOR_Q4_S2": "Fotogrāfēt",
+  "SEE_A_DOCTOR_Q5": "Vai jūs pašlaik lietojat kādas zāles, ja jā, lūdzu, norādiet nosaukumu",
+  "SEE_A_DOCTOR_Q5_CHILD": "Vai jūsu bērns šobrīd lieto kādas zāles? lūdzu, norādiet vārdu",
+  "SEE_A_DOCTOR_Q5_S1": "Nosaukums:",
+  "SEE_A_DOCTOR_Q5_S2": "Devas:",
+  "SEE_A_DOCTOR_Q6": "Vai jums ir alerģija?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Vai jūsu bērnam nav alerģijas? lūdzu, norādiet vārdu",
+  "SEE_A_DOCTOR_Q7": "Vai jums ir kādi veselības traucējumi?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Vai jūsu bērnam ir kādi veselības traucējumi? lūdzu, norādiet vārdu",
+  "SEE_A_DOCTOR_Q8": "Vai jūs pilnvarojat ārstu, lai skatītu savu tiešsaistes medicīnas lietu?",
+  "SEE_A_DOCTOR_Q9": "Vēlamā aptieka",
+  "SEE_A_DOCTOR_TITLE": "Apmeklēt ārstu",
+  "SEE_A_PROVIDER": "Skatiet pakalpojumu sniedzēju",
+  "segment": "Segmentu",
+  "selectAFile": "Pieskarieties zemāk esošajai pogai, lai izvēlētos failu",
+  "selectaprovider": "Atlasiet pakalpojumu sniedzēju",
+  "selectcarderror": "Lūdzu, izvēlieties karti",
+  "selectdoctor": "Pārvaldīt darba kārtību",
+  "selectdoctor1": "Izvēlieties ārstu",
+  "selectdrug": "Izvēlies medikamentu",
+  "selectedContact": "Kontakta līdzekļi",
+  "selectinitiative": "Atlasiet vienu vai vairākas iniciatīvas ...",
+  "selectnutritionist": "Izvēlies savu diētas speciālistu",
+  "selectpatient": "izvēlētiespatient",
+  "select_country": "Lūdzu, izvēlieties valsti",
+  "select_device": "Izvēlieties ierīci",
+  "select_file": "Izvēlieties failu",
+  "select_file_btn": "Atlasiet failu",
+  "select_patient": "Noklikšķiniet uz rindas, lai skatītu detaļas",
+  "send": "Sūtīt",
+  "sendmessage": "Nosūtīt ziņu",
+  "sendtoken": "Nosūtiet to ārstam, lai ļautu viņam piekļūt jūsu medicīniskajam failam. Šī saite beidzas pēc 10 minūtēm",
+  "SEND_BTN": "Sūtīt",
+  "send_doctor_request": "Nosūtīt pieprasījumu",
+  "sentmessage": "Nosūtītās ziņas",
+  "SERVICE_TYPE": "Pakalpojuma veids",
+  "sessantad": "Pēdējās 60 dienas",
+  "SESSION_EXPIRED": "Jūsu sesija ir beigusies. Lūdzu, piesakieties vēlreiz",
+  "setAlarm": "Iestatīt trauksmes signālus",
+  "settd": "Pēdējās 7 dienas",
+  "settings_saved": "Iestatījumi ir veiksmīgi saglabāti",
+  "setTreshold": "Iestatīt diapazonu",
+  "SET_BTN": "Komplekts",
+  "SET_USER_EMAIL": "Lūdzu, norādiet lietotājvārdu vai e-pastu",
+  "set_vital_signs": "Iestatiet Vital Signs",
+  "sevendays": "7 dienas",
+  "showalldata": "Rādīt visus datus",
+  "showOnEmergency": "Rādīt ārkārtas situācijā",
+  "signature": "Jūsu paraksts (lietots receptēm)",
+  "signature_word": "Paraksts",
+  "SIGNUP_BTN": "Pierakstīties",
+  "sii": "Apdrošināšanas indekss",
+  "sii_desc": "SII ir visu SaluberMD indeksu kombinācija un ir jūsu vispārējā medicīniskā riska spogulis. Ja esat zem 30, Jūs atrodaties drošajā zonā!",
+  "sii_title": "SII",
+  "since": "Kopš",
+  "single": "Viena diena",
+  "singleAccess": "Viena pieeja",
+  "sitreminder": "Sēdēt atgādinājumu",
+  "sit_period": "Periods",
+  "skip": "Izlaist",
+  "skip_pull": "Ignorēt",
+  "skip_step": "Izlaist",
+  "sl": "Stresa līmenis",
+  "SLEEP": "Gulēt",
+  "slotime": "Slots Duration (min)",
+  "sl_alta": "lielāks par 85 minūtēm minūtē",
+  "sl_bassa": "zem 65",
+  "sl_desc": "Sprieguma līmenis tiek aprēķināts, pamatojoties uz sitienu minūtē",
+  "sl_normale": "no 65 līdz 85 bpm",
+  "smoker": "Smēķētājs",
+  "snacks": "Uzkodas",
+  "SOMETIMES": "Dažreiz",
+  "SONNO": "Gulēt",
+  "SOP_Q4": "Pievienojiet savu medicīnisko ziņojumu",
+  "sos": "SOS",
+  "so_specialization": "Specialitāte",
+  "specialists": "Speciālisti",
+  "specialization": "Izvēlies specialitāti",
+  "SPECIALTY": "Specialitāte",
+  "specifyother": "Lūdzu, norādiet citu",
+  "specifyvalue": "Lūdzu, norādiet vērtību",
+  "spirometer": "Spirometrija",
+  "spo2_desc": "SpO2 vai asins skābekļa līmenis ir rādītājs, cik daudz skābekļa jūsu sarkano asins šūnu nes. Normālās vērtības ir no 95% līdz 100%, zemāka par normālu skābekļa līmeni asinīs sauc par hipoksēmiju",
+  "sri": "Elpošanas indekss",
+  "sri_desc": "Mēs analizējam jūsu elpošanas modeļus jebkuras medicīniskās sesijas laikā un miega laikā. Ja SRI ir mazāks par 30, jūsu izredzes ciest no obstruktīviem elpošanas traucējumiem ir zemas.",
+  "sri_title": "SRI",
+  "ssi": "Stresa indekss",
+  "ssi_desc": "Analizējot jūsu sirdsdarbības mainīgumu, mēs aprēķinām jūsu stresa līmeni. Stress, šķiet, pasliktina vai palielina tādu slimību risku kā aptaukošanās, sirds slimības, Alcheimera slimība, diabēts, depresija, kuņģa-zarnu trakta problēmas un astma. Turiet to zem 20, lai būtu drošā pusē!",
+  "ssi_title": "SSI",
+  "start": "Sākt",
+  "startcall": "Sāciet zvanu",
+  "startdate": "No",
+  "starthour": "Sākuma laiks",
+  "startmeasure": "Tagad jūs varat sākt mērīšanu, nospiežot pogu uz ierīces",
+  "startnow": "Sākt tagad",
+  "startRecording": "Nospiediet, lai sāktu balss audio ierakstīšanu",
+  "startyping": "Sāciet rakstīt vārdu",
+  "start_blowing": "Sāciet pūšanu",
+  "start_test": "Sākuma tests",
+  "start_time": "Sākuma laiks",
+  "state": "Valsts",
+  "state1": "Valsts",
+  "STATES_LICENSE": "Valstis licencētas",
+  "state_problem": "Lūdzu, norādiet savu problēmu",
+  "status": "Statuss",
+  "step": "Solis",
+  "STEPS_GOAL": "Soļi mērķis",
+  "stoolTest": "Izkārnījumu pārbaude",
+  "stop": "Apstāties",
+  "stop_test": "Pietura tests",
+  "stress": "Stress",
+  "stroke_vol": "Stroke tilpums",
+  "stroke_volume": "Stroke tilpums",
+  "stroke_volume_desc": "Insultu tilpums ir asins tilpums, ko izspiež katrs kambars uz vienu sitienu",
+  "struttura": "Struktūra",
+  "strutture": "Struktūras",
+  "subject": "Priekšmets",
+  "subject_so": "Temats",
+  "submissionDate": "Iesniegšanas datums",
+  "success": "Panākumi",
+  "SUCCESS_TITLE_NOTIFICATION": "Panākumi",
+  "SUMMARY": "Diagnoze",
+  "summary1": "Kopsavilkums",
+  "SUNDAY": "Svētdiena",
+  "surgery": "Operācija",
+  "surgeryAndHospitalization": "Hospitalizācija un ķirurģiskā vēsture",
+  "surgeryCategory": "Surgery Kategorija",
+  "surname": "Uzvārds",
+  "sv_alta": "pārsniedz 100%",
+  "sv_bassa": "zem 55 ml",
+  "sv_normale": "no 55 līdz 100 ml",
+  "switchsearch": "Pārslēgties uz meklēšanu",
+  "symptoms": "Simptomi",
+  "SYMPTOMS_BTN": "Simptomi",
+  "sync": "Sinhronizēt",
+  "SYNC_TIME": "Sinhronizācijas laiks",
+  "sysdia": "Spiediens",
+  "systolic": "Sistoliskais",
+  "TAKE": "Veikt",
+  "takeAppointment": "Ņemiet tikšanos",
+  "TAKE_APP": "Grafika iecelšana",
+  "TAKE_A_PHOTO": "Fotogrāfēt",
+  "tall": "Cik garš tu esi",
+  "tapconnect": "Pieskarieties, lai izveidotu savienojumu",
+  "tapdisconnect": "Pieskarieties, lai atvienotu",
+  "tap_to_expand": "Pieskarieties, lai izvērstu",
+  "telNameMandatory": "Lūdzu, norādiet vārdu",
+  "telNumberMandatory": "Lūdzu, norādiet tālruņa numuru",
+  "temper": "Temper",
+  "temperDescription": "Emocionāls pasākums, kas aptver runātāja visu garastāvokļa diapazonu. Zemais temperaments raksturo depresijas un drūmas noskaņas. Vidējs raksturs raksturo draudzīgas, siltas un aptverošas noskaņas. Augstas izturēšanās vērtības apraksta konfrontējošas, valdošas un agresīvas noskaņas.",
+  "tendays": "Pēdējās 10",
+  "ten_min": "Pēc 10 minūtēm",
+  "terminata": "Zvans veiksmīgi",
+  "TERMS_TITLE": "Lietošanas noteikumi",
+  "test": "Pārbaude",
+  "testmichele": "Testa michele",
+  "testresult": "Testi rezultāts",
+  "testresults": "Testa rezultāti",
+  "tests": "Testi",
+  "text": "Teksts",
+  "thiscC": "Šī kredītkarte tiks izmantota, lai apmaksātu pakalpojumu",
+  "THURSDAY": "Ceturtdiena",
+  "thyroidTest": "Vairogdziedzera funkcijas testi",
+  "tickets": "Biļetes",
+  "TICKET_HISTORY": "Biļešu vēsture",
+  "TICKET_NUMBER": "Biļetes numurs",
+  "ticket_subject": "Pieprasījuma tēma",
+  "timecallerr": "Atvainojiet, jūs nevarat to izdarīt vēl",
+  "timecallerr1": "Atvainojiet, jūs piesaistiet zvanu, jo esat ārpus plānotā laika",
+  "TIMELINE": "Mana laika grafika",
+  "times": "Cik reizes dienā?",
+  "timesaday": "Reizes dienā",
+  "tipopratica": "Prakses veids",
+  "tipo_struttura": "Struktūras tips",
+  "tipshealt0": "Veselības padomi",
+  "tipshealt1": "Gripas strūkla - man vajadzētu vakcinēties pret gripu?",
+  "tipshealt10": "Noklikšķiniet šeit, lai iegūtu plašāku informāciju",
+  "tipshealt11": "No statīnu ārstēšanas ieguvumi, kas pazemina holesterīna līmeni, atsver risku",
+  "tipshealt12": "Nesen veiktā Lancet pārskatīšanas pētījumā pētnieki secināja, ka ZBL holesterīna līmeņa pazemināšanas ar statīnu terapijas ieguvumi, visticamāk, novērš lielu asinsvadu slimību gadījumus (sirdslēkmes, insultu) un tas pārsniedz šo zāļu radīto risku.",
+  "tipshealt13": "Pēc pētnieku domām, vienīgi nopietnās blakusparādības, kuras, kā pierādīts, izraisa ilgstoša statīna terapija, ir miopātija (definēta kā muskuļu sāpes vai vājums), jaundibinātais cukura diabēts un, iespējams, hemorāģisks insults.",
+  "tipshealt2": "Lai gan gripas vakcīna ne vienmēr nodrošina pilnīgu aizsardzību, ir vērts to iegūt. CDC (Slimību kontroles un profilakses centrs) iesaka ikgadēju vakcīnu pret gripu visiem 6 mēnešus veciem vai vecākiem cilvēkiem. Vakcinācija ir īpaši svarīga cilvēkiem ar paaugstinātu gripas komplikāciju risku, tostarp",
+  "tipshealt3": "Grūtnieces",
+  "tipshealt4": "Vecāki pieaugušie (50 gadi un vecāki)",
+  "tipshealt5": "Mazi bērni (jaunāki par 4 gadiem un vecāki par 6 mēnešiem)",
+  "tipshealt6": "Fiziskā aktivitāte uzlabo atmiņas un domāšanas prasmes",
+  "tipshealt7": "Regulāras fiziskās aktivitātes var uzlabot smadzeņu darbību visā dzīves laikā un mazināt demences risku.",
+  "tipshealt8": "Ir publicēti daudzi pētījumi par regulāro fizisko aktivitāšu ciešo mijiedarbību un priekšrocībām un uzlabotu kognitīvo funkciju.",
+  "tipshealt9": "Ietekme ir tieši uz smadzenēm un netieši, vielmaiņas un fiziskās darbības dēļ organismā.",
+  "title": "Nosaukums",
+  "to": "uz",
+  "todayAppointment": "Šodienas tikšanās",
+  "tooltip1": "Ievadiet ārsta vārdu, uz kuru vēlaties pārvaldīt darba kārtību",
+  "totale": "Kopā",
+  "totalSleepTime": "Kopējais miega laiks",
+  "total_cholesterol_desc": "Šī vērtība ir aprēķināts viss holesterīna līmenis asinīs",
+  "TOTAL_SLEEP_TIME": "Kopējais miega laiks",
+  "tot_non_risposte": "Zvans nav atbildēts",
+  "tot_ricevute": "Saņemts zvans",
+  "tot_visite": "Apmeklējumi ir pabeigti",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Pārsūtīšana",
+  "trenta": "Pēdējie 30 mērījumi",
+  "trentad": "Pēdējās 30 dienas",
+  "triglycerides": "Triglicerīdi",
+  "trig_cholesterol_desc": "Triglicerīdi ir tauku (lipīdu) veids, kas atrodams jūsu asinīs. Šajā tabulā parādīts vērtību diapazons.",
+  "TUESDAY": "Otrdiena",
+  "tutte": "Visi mērījumi",
+  "type": "Tips",
+  "TZONE": "Laika zona",
+  "underweight": "Nepietiekams svars",
+  "unit": "Vienība",
+  "UNIT_SETTING": "Vienības iestatīšana",
+  "uom": "Mērvienība",
+  "upcomingAppointmentPatient": "Gaidāmās",
+  "UPDATE": "Atjaunināt",
+  "updatelist": "Atjaunināt sarakstu",
+  "update_app_message": "Jums ir jāatjaunina lietotne",
+  "UPDATE_AVAILABLE": "Pieejama atjaunināšana",
+  "UPDATE_BTN": "Atjaunināt",
+  "update_completed": "Firmware ir veiksmīgi atjaunināta",
+  "update_firmware_download_error": "Kļūda lejupielādējot programmaparatūru",
+  "update_list": "Atjaunināt",
+  "UPLOAD_ERROR": "KĻŪDA: faili nedrīkst pārsniegt 5 MB",
+  "upload_referral": "Augšupielādējiet savu atsauksmi zemāk redzamajā lodziņā.",
+  "urinTest": "Urīna testi",
+  "user": "Lietotājs",
+  "userdata": "Lietotāja dati",
+  "usermanagement": "Lietotāju pārvaldība",
+  "USERNAME": "Lietotājvārds",
+  "username1": "Lietotājvārds",
+  "utente_aggiunto": "Lietotājs veiksmīgi pievienots",
+  "utente_rimosso": "Lietotājs veiksmīgi izdzēsts",
+  "utente_salvato": "Lietotājs ir veiksmīgi atjaunināts",
+  "vaccinobbligatorio": "Lūdzu, izvēlieties imunizāciju",
+  "vaioffline": "Dodieties bezsaistē",
+  "vaionline": "Doties tiešsaistē",
+  "valence": "Valence",
+  "valenceDescription": "Mainīgais lielums ir no negatīvuma līdz pozitīvam. Klausoties kāda cilvēka sarunu, ir iespējams saprast, cik &quot;pozitīvi&quot; vai &quot;negatīvi&quot; viņi izjūt par apspriežamo priekšmetu, objektu vai notikumu.",
+  "value": "Vērtība",
+  "vascular_age": "Asinsvadu vecums",
+  "vascular_age1": "Asinsvadu vecums",
+  "va_desc": "Asinsvadu vecums sniedz jums mērījumu jūsu artēriju redzamajam vecumam, salīdzinot ar veseliem cilvēkiem. Ja Jūsu asinsvadu vecums ir lielāks par jūsu hronoloģisko vecumu, Jums var būt lielāka risks saslimt ar sirds un asinsvadu slimībām (CVD) vēlāk dzīvē.",
+  "videocall": "Videokamera",
+  "VIDEOCALL_DES1": "Nospiediet tālāk esošo pogu, lai mainītu savu statusu un saņemtu vai nesaņemtu paziņojumus. Atcerieties, ka jūs varat saņemt paziņojumu tikai tad, kad esat tiešsaistē.",
+  "VIDEOCALL_DES2": "Kad saņemat zvanu, noklikšķiniet uz taisnstūra, kurā, šķiet, uzņemsit zvanu.",
+  "videocall_filter": "Filtrēt pēc nosaukuma vai specialitātes",
+  "videocall_request": "Jauns videozvana pieprasījums no",
+  "videocall_request_title": "Videoklipa pieprasījums",
+  "videocall_req_from": "Videoklipa pieprasījums no:",
+  "videodermatoscopy": "Videodermatoskopija",
+  "VIDEO_ANSWER": "Noklikšķiniet, lai aktivizētu videoklipu",
+  "VIDEO_CALL_BTN": "Video zvans",
+  "VIDEO_CALL_BTN_1": "Video",
+  "view": "Skats",
+  "viewmedicalfile": "Skatīt medicīnisko failu",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Izveidojiet savu virtuālo biroju",
+  "VIRTUAL_OFFICE_TITLE": "Virtuālais birojs",
+  "visitdetail": "Noklikšķiniet uz katra objekta, lai redzētu pilnīgu pacienta vēsturi",
+  "visithistory": "Apmeklējiet vēsturi",
+  "visitlist": "Apmeklējumu saraksts",
+  "VISIT_HISTORY_NO_HISTORY": "Jums vēl nav apmeklējumu",
+  "VISIT_HISTORY_SUBTITLE": "Noklikšķiniet uz katra vienuma, lai skatītu pilnu informāciju",
+  "VISIT_HISTORY_TITLE": "Apmeklējiet vēsturi",
+  "volte": "Laiki",
+  "waiting": "Notiek apstrāde ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Siltums",
+  "WARNING_TITLE_NOTIFICATION": "Uzmanību",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Veselības dati",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Wellness dati",
+  "WATCH_DEVICE_DATA_TITLE": "Jūsu pulksteņa ierīces dati",
+  "water": "Ūdens",
+  "weanedoff": "Atlaists?",
+  "WEDNESDAY": "Trešdiena",
+  "week": "Nedēļa",
+  "weight": "Svars",
+  "weightUnit": "Svara vienība",
+  "welcome": "Laipni lūdzam",
+  "wellness": "Wellness",
+  "wellnessdata": "Wellness dati",
+  "wellnessSuccess": "Panākumi",
+  "WHITE_SPACES": "Lietotājvārds nedrīkst saturēt atstarpes",
+  "WRIST_CUT_SCREEN": "Pagrieziet plaukstas griezuma ekrānu",
+  "writtenRep": "Rakstisks ziņojums",
+  "W_RESPIRATORY_RATE": "Elpa",
+  "xray": "X-Ray",
+  "Y": "Jā",
+  "year": "Gads",
+  "years": "gadiem",
+  "yes": "Jā",
+  "yourarousal": "Jūsu uzbudinājums",
+  "youremotion": "Jūsu emocijas",
+  "yourmood": "Jūsu garastāvoklis",
+  "yourtemper": "Tava temperaments",
+  "yourvalence": "Jūsu valence",
+  "your_sai": "Jūsu darbības rādītājs ir:",
+  "your_sbpi": "Jūsu asinsspiediena indekss ir:",
+  "your_sci": "Jūs sirds indekss ir:",
+  "your_sii": "Jūsu apdrošināšanas indekss ir",
+  "your_sri": "Jūsu elpošanas indekss ir:",
+  "your_ssi": "Jūsu stresa indekss ir:",
+  "your_stress": "Jūsu stresa līmenis ir:",
+  "your_va": "Jūsu asinsvadu vecums ir:",
+  "zero_min": "Tagad",
+  "zipCode": "Pasta indekss",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

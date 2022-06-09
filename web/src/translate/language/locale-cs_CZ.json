@@ -1,0 +1,4355 @@
+{
+  "aboutus": "O nás",
+  "ABOUT_US_CONDITION_1": "Studená a chřipka",
+  "ABOUT_US_CONDITION_2": "Kožní podmínky",
+  "ABOUT_US_CONDITION_3": "Alergie",
+  "ABOUT_US_CONDITION_4": "Bolest krku",
+  "ABOUT_US_CONDITION_5": "Bolení břicha",
+  "ABOUT_US_DOCTOR_BENEFIT1": "ZVÝŠIT VÝNOS:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Můžete vidět až šest pacientů za hodinu (virtuální návštěva obvykle trvá asi 10 minut);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "POSKYTUJTE PÉČE O PACIENTA Z JAKÉHOKOLIV ZEMÍ:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Zvyšte pacientské vztahy se schopností léčby současných a nových pacientů z jakéhokoli místa na světě;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "ZÍSKAJTE VIRTUÁLNÍ PRAXI ZDARMA:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Rozšiřte svou současnou praxi a nabízejte pacientům další možnosti;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "VÍCE VÝROBNÍ PACIENTY:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Pacienti vám mohou posílat dokumenty, fotografie, laboratorní výsledky, aniž byste museli odejít domů a dálkově sledovat zdraví pacienta;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Zjistěte, kdo potřebuje okamžitou péči a kdo může využívat vzdálené léčby bez opuštění domova.",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "ZVÝŠIT VÝNOS:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "FLEXIBILNÍ HODINY:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Schopnost nastavit vlastní hodiny a nastavit vlastní plán.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Připojte se k hnutí, abyste získali spolehlivý, cenově dostupný globální přístup ke zdravotní péči do 15 minut nebo méně.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD je navržen tak, aby přetvořil vztahy mezi lékařem a pacientem a vytvořil přístup k celosvětové zdravotní péči nepřetržitě.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Výhody pro lékaře",
+  "ABOUT_US_DOCTOR_TITLE": "O nás",
+  "about_us_section1_p1": "SaluberMD je digitální zdravotní platforma, která vám umožní převzít kontrolu nad vaším zdravím WHENEVER a WHEREVER. Naše aplikace poskytuje pohodlné, časově úsporné, cenově dostupné, nepřetržitý přístup k certifikačním týmům z celého světa. Společnost SaluberMD také poskytuje nástroje, jako je osobní zdravotní záznam, sledování EKG a rodina, které všechny spolupracují s aplikací, aby vám poskytly kompletní zdravotní řešení. Naše zařízení mohou být použita jednotlivě nebo kombinovaná, aby získali lepší přístup k zdraví a wellness.",
+  "ABOUT_US_SECTION1_TITLE": "O nás",
+  "ABOUT_US_SECTION2_P1": "Prostřednictvím geo-lokalizace naši aplikace najdou nejlepší lékaře u vás. Lékaři SaluberMD mohou diagnostikovat, léčit nebo diskutovat o vašem zdravotním stavu prostřednictvím videa a poskytnout vám vhodný léčebný plán. Mnoho z nejběžnějších stavů léčených v ordinaci lékaře může být ošetřeno návštěvou videa. <br/> Některé z podmínek, které sami zacházíme:",
+  "ABOUT_US_SECTION2_P2": "Zde u společnosti SaluberMD vám poskytneme osobní zdravotní záznam, který uchová všechny vaše zdravotní data, obrázky a soubory. Sledujte své zdraví s nepřetržitým přístupem ke všem lékařským záznamům. Ať už jste doma nebo cestujete do zahraničí, vaše informace jsou na dosah ruky a sdílejte s vaším zdravotníkem. Snadno použitelný osobní lékařský záznam je k dispozici ve 20 jazycích.",
+  "ABOUT_US_SECTION2_TITLE": "Jak to funguje?",
+  "ABOUT_US_SECTION3_P1": "Pouze špičkové certifikované lékaře poskytují lékařskou péči na SaluberMD. Tito profesionálové jsou ověřeni, rozsáhle prověřováni a vyškoleni tak, aby poskytovali špičkovou kvalitu péče. Každý lékař má bio, kde si můžete prohlédnout své pozadí, pověření a zkušenosti. Společnost SaluberMD se zavázala k trvalému řízení kvality našich lékařů. Ratingový systém umožňuje pacientům hodnotit lékaře a hodnotit celkové hodnocení lékařů.",
+  "ABOUT_US_SECTION3_TITLE": "Naši lékaři",
+  "ABOUT_US_TITLE": "O nás",
+  "above_warning": "Výše uvedené hodnoty jsou ohroženy",
+  "accept": "Akceptovat",
+  "acceptablerange": "Přijatelný rozsah",
+  "ACCEPT_BTN": "Akceptovat",
+  "acquire": "Získejte data",
+  "acronym": "Akronym",
+  "action": "Akce",
+  "actions": "Akce",
+  "actionTaken": "Podniknuté kroky",
+  "activity": "Aktivita",
+  "acutecare": "Akutní péče",
+  "add": "Nový",
+  "addavailability": "Přidejte svou dostupnost",
+  "addcomment": "Přidat komentář zde",
+  "adddescription": "Přidejte zde svůj popis",
+  "adddrugs": "Vyhledávejte drogu pomocí vyhledávacího pole níže a zaškrtněte políčko a přidejte ji k předpisu",
+  "addedFavourite": "Úspěšně jste přidali své oblíbené položky",
+  "addedFavourite2": "Úspěšně jste přidali své oblíbené položky. stisknutím tlačítka aktualizace ji zobrazíte.",
+  "addedFavourite3": "Úspěšně bylo přidáno  nNemožno obnovit",
+  "addFavourite": "Přidat do oblíbených",
+  "ADDING_SLOT": "Přidání slotů .... to může chvíli trvat.",
+  "addNew": "Přidat nový",
+  "addpharmacies": "Klikněte na tlačítko pro přidání oblíbených lékáren",
+  "addpharmacy": "Přidat lékárnu",
+  "addreminder": "Stiskněte tlačítko plus pro přidání připomínek k lékům.",
+  "address": "Adresa",
+  "address2": "Doručovací adresa",
+  "address3": "Adresa pro službu",
+  "addsintomi": "Přidejte příznaky",
+  "addslot": "Přidat slot",
+  "add_description_file": "Přidat popis (není povinné)",
+  "add_new": "Přidat",
+  "affaticamento_grave": "Těžká únava",
+  "affaticamento_minore": "Malá únava",
+  "agenda": "Moje agenda",
+  "agenda_report": "Nahlásit schůzky",
+  "aggiungi": "Vytvořit",
+  "AGREE_BTN": "Souhlasím",
+  "alcoholDesc": "Předpokládá se alkohol",
+  "all": "Všechno",
+  "alldata": "Všechny data",
+  "allergia": "Alergie",
+  "allergia_aggiunta": "Alergie byla úspěšně vytvořena",
+  "allergia_rimossa": "Alergie pacienta byla úspěšně smazána",
+  "allergia_salvata": "Alergie pacienta byla úspěšně aktualizována",
+  "allergie": "Alergie",
+  "allimages": "Všechny obrázky",
+  "alreadyAddedF": "Tato lékárna je již ve vašich oblíbených místech",
+  "alreadyRegistred": "Tato e-mailová adresa již v systému existuje. Přihlaste se do aplikace a domluvte si schůzku.",
+  "alreadyTaken": "Jmenování již bylo přijato",
+  "alta": "Vysoký",
+  "alto": "Vysoký",
+  "amonth": "30 dní",
+  "anger": "Hněv",
+  "annoinizio": "Rok zahájení",
+  "antibiotics": "Antibiotika",
+  "an_error_occurred": "Jejda! V současné době nemůžeme vaši žádost zpracovat. Zkuste to později",
+  "appointment": "Jmenování",
+  "appointmentlist": "Seznam událostí",
+  "appointments": "Setkání",
+  "appointmentsDescription": "Seznam schůzek schůzek",
+  "appointment_body_doc": "Nová schůzka naplánována na",
+  "appointment_calcelled_title": "Jmenování bylo zrušeno",
+  "appointment_cancelled": "zrušil jeho jmenování",
+  "appointment_email_body": "Potvrzujeme vaši schůzku s lékařem",
+  "appointment_history": "Historie schůzek",
+  "appointment_now": "Vaše jmenování začíná nyní",
+  "appremainder": "Zbývající termín",
+  "appremainder1": "Máte videokalendář naplánovaný za 5 minut",
+  "appremainder2": "Po 30 minutách máte videoklip",
+  "appremainder3": "Pro 120 minut máte videoklip",
+  "APPROX_DATA": "Jiné Wellness údaje",
+  "appuntamenti": "Setkání",
+  "appuntamenti_presi": "Plánovaná událost",
+  "appuntamento_clinica": "Vyžádání klinické žádosti",
+  "APPUNTAMENTO_CONGIUNTO": "Chcete si objednat videohovor?",
+  "app_description": "Do pole níže zadejte důvody svého jmenování",
+  "app_details": "Podrobnosti schůzky",
+  "app_missing": "Aplikace podpory není nainstalována",
+  "ARIAX": "Dechová frekvence",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Vzrušení",
+  "arousalDescription": "Proměnná, která se pohybuje od klidu nebo nudy až po bdělost a vzrušení. To odpovídá podobným pojmům, jako je úroveň aktivace a stimulace.",
+  "assign_specialist": "K požadavku přidělte specialistu",
+  "associa": "Spolupracovník",
+  "attachment": "Příloha",
+  "ATTACH_A_PHOTO": "Připojte fotografii",
+  "BACKGROUND": "Pozadí",
+  "BACKGROUND_PLCHOLDER": "Zadejte krátkou biografii.",
+  "backhomeconfirm": "Opravdu se vrátíš domů?",
+  "BACK_BTN": "Zadní",
+  "BACK_LOGIN": "Zpět k přihlášení",
+  "bad_file": "Soubor nelze otevřít",
+  "basicinfo": "Základní informace",
+  "bassa": "Nízký",
+  "basso": "nízký",
+  "below_warning": "Níže uvedená hodnota je ohrožena",
+  "benefits": "Výhody concierge",
+  "beyondverbal": "Emoce řídí všechno, co děláme, a přitom stále nejdůležitějším, dosud neprobádaným rozhraním zůstává analytická analýza poháněná hlasem. Za Verbal se zavazuje to změnit.",
+  "beyondverbal_analyze": "Analyzujte svou náladu",
+  "beyondverbal_history": "Historické výsledky",
+  "beyondverbal_instruction": "Když jste připraveni odpovědět na otázku, stiskněte tlačítko start",
+  "BIRTHDATE": "Datum narození",
+  "birthday": "Narozeniny",
+  "blank_agenda": "Pro dnešek není žádný slot",
+  "bloatedOrContipated": "Bloated nebo zácpa",
+  "bluetooth_error": "Chcete-li pokračovat, povolte bluetooth",
+  "BOARD": "Certifikovaný výbor",
+  "bones": "Bones",
+  "bp": "Krevní tlak",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Referenční tabulka hodnot krevního tlaku",
+  "breakfast": "Snídaně",
+  "btnback": "Zadní",
+  "btndelete": "Odstranit",
+  "btndisabledoctor": "Deaktivujte lékaře",
+  "btndisablepatient": "Deaktivujte pacienta",
+  "btnenabledoctor": "Povolit lékaře",
+  "btnenablepatient": "Povolit pacienta",
+  "btnsave": "Uložit",
+  "BTN_LOAD_MORE": "Načíst další",
+  "buttonsearch": "Vyhledávání",
+  "bvFailed": "Analýza vašeho hlasu se nepodařilo, musíte mluvit více!",
+  "bvInstruction": "Jen mluvte 20 sekund nebo déle",
+  "bvInstruction2": "Stačí jen mluvit 20 sekund",
+  "ca": "Kardiovaskulární systém",
+  "call": "Volání",
+  "callCancel": "Nelze zrušit vypršení volání",
+  "calldoctor": "Zavolejte lékaře",
+  "calling_number": "Číslo volání",
+  "callthedoctor": "Zavolejte doktora",
+  "calltransfer": "Přenos hovoru ...",
+  "CALL_ALREADY_TAKEN": "Už přijatá volání",
+  "CALL_DOCTOR_INFO": "Informace o doktorovi",
+  "CALL_DURATION": "Délka hovoru",
+  "call_instruction": "Jakmile vám zavoláme lékaře, zašleme vám oznámení. Klikněte na oznámení, jakmile jej obdržíte pro spuštění videocalllu. V případě, že jste oznámení smazali, můžete je získat v sekci oznámení v mém zdravotním profilu.",
+  "CALL_NOTIFICATIONS": "Telefonní hovory",
+  "CALL_NO_INCOMING": "Žádné příchozí hovory",
+  "CALL_TRANSFER_INFO": "Informace o přenosu hovoru",
+  "CALL_WAITING": "Počkejte prosím, hledáme lékaře",
+  "CALL_WAITING_2": "Počkejte, dokud lékař zkontroluje váš soubor",
+  "calories": "Kalorie",
+  "cancel": "zrušení",
+  "cancelAppointment": "Zrušit tuto schůzku",
+  "CANCEL_BTN": "zrušení",
+  "CAP": "PSČ",
+  "cardiac_output": "Srdeční výdej",
+  "cardiac_output1": "Srdeční výdej",
+  "cardiac_output_desc": "Srdeční výkon je prostě množství krve čerpané srdcem za minutu.",
+  "cardiovascular": "Kardiovaskulární",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "Neplatný kód CVC",
+  "CARD_EXPIRY_DATE": "Datum ukončení platnosti",
+  "CARD_MONTH_ERROR": "Neplatný měsíc",
+  "CARD_NUMBER": "Číslo karty",
+  "CARD_NUMBER_ERROR": "Neplatné číslo CC",
+  "CARD_YEAR_ERROR": "Neplatný rok",
+  "category": "Kategorie",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "Požadováno CCV",
+  "CERROR": "Špatný kontakt",
+  "certificate_attachment": "V příloze je váš lékařský certifikát",
+  "certificate_email": "Připojeno je vaše lékařské osvědčení",
+  "certificate_header": "Na základě provedeného lékařského ohodnocení se uvádí:",
+  "certificate_sent": "Certifikát byl odeslán",
+  "certification_subject": "Vaše lékařské osvědčení",
+  "cf": "Daňový kód",
+  "cf_error": "Zadejte svůj daňový kód",
+  "changeschedule": "Upravit čas",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Platnost hesla vypršela, prosím, změňte jej.",
+  "CHANGE_PWD_SECTION_TITLE": "Změnit heslo",
+  "CHANGE_PWD_TITLE": "Vaše heslo vyprší, změňte ho",
+  "checking_net_condition": "Kontrola připojení k internetu ...",
+  "CHECK_PARAMETERS_CORX": "Vložte váhu a výšku do profilové části, abyste vypočítali správné hodnoty wellness.",
+  "CHL_TOT": "Celkový cholesterol",
+  "choosedate": "Vyberte datum",
+  "chooseDateDescription": "Klepnutím na datum jej rozbalte a vyberte hodinu",
+  "chooseprofile": "Ty jsi?",
+  "choosespeciality": "Vyberte lékařské speciality",
+  "choosetransferdoctor": "Vyberte lékaře",
+  "CHOOSE_A_DOCTOR": "Vyberte si svého lékaře",
+  "chosedoctor": "Vyberte lékaře",
+  "city": "Město",
+  "city1": "Město",
+  "city2": "Město",
+  "clearsignature": "Jasný podpis",
+  "clickitem": "Klepnutím na každou položku zobrazíte úplné podrobnosti",
+  "clickrow": "Klepněte na řádek pro výběr",
+  "clickToOpen": "Klepnutím otevřete soubor",
+  "click_to_start_call": "Hovor zahájíte kliknutím na lékaře",
+  "clinics": "Kliniky",
+  "CLOCK_FORMAT": "Formát hodin",
+  "closeappconfirm": "Opravdu zavřete aplikaci?",
+  "CLOSE_BTN": "Zavřít",
+  "cm": "cm",
+  "CODE": "Kód",
+  "code_not_valid": "Vložený kód není platný",
+  "code_verified": "Kód byl úspěšně ověřen!",
+  "coffeeDesc": "Káva se předpokládala",
+  "COMMENT": "komentář",
+  "commenti": "Komentáře",
+  "COMPANY_NAME": "Společnost",
+  "COMPLAIN": "Stěžte si",
+  "COMPLETE_PROFILE": "Pro pokračování dokončete svůj profil",
+  "COMPLETE_PROFILE_TITLE": "Dokončete svůj profil",
+  "complications": "Komplikace",
+  "concernlist": "Uveďte prosím svůj hlavní obavu / obavy",
+  "CONFIRM": "OK",
+  "confirm_app": "Potvrďte svou schůzku",
+  "CONFIRM_EMAIL_TITLE": "potvrdit email",
+  "CONFIRM_PWD": "Potvrďte heslo",
+  "connect": "Stiskněte tlačítko Připojit pro připojení zařízení",
+  "connectbtn": "Připojit",
+  "connectedto": "Připojen k",
+  "connecting": "Připojování ... Počkejte prosím",
+  "connection_progress": "Připojení k zařízení ...",
+  "CONSULT": "Stěžte si",
+  "consult1": "Konzultovat",
+  "consultation": "Konzultace",
+  "consultationHistory": "Historie konzultací",
+  "contact": "Kontakt",
+  "CONTACT_US_BTN": "Kontaktujte nás",
+  "CONTACT_US_SECTION_TITLE": "Kontaktujte nás prosím s jakýmikoli otázkami nebo pomocí nápovědy.",
+  "CONTACT_US_TITLE": "Kontaktujte nás",
+  "contatti": "Kontakt",
+  "continue": "Pokračovat",
+  "copy_url": "Kopírovat adresu URL",
+  "CORX": "EKG",
+  "corxDidFailEcg": "Chyba při získávání EKG",
+  "corxDidFailWellness": "Chyba při získávání údajů o wellness",
+  "corxDidNoEcg": "Neexistují žádné údaje EKG",
+  "corxDidNoWellness": "Neexistují žádné údaje o zdraví",
+  "CORX_DATA": "Data CorX",
+  "corx_disconnected": "Corx je odpojen",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Uveďte, prosím, váhu a výšku, abyste mohli správně vypočítat vitální parametry.",
+  "COUNTRY": "Země",
+  "country1": "Země",
+  "county": "Hrabství",
+  "co_alta": "větší než 8 l / min",
+  "co_bassa": "nižší než 4 L / min",
+  "co_normale": "mezi 4 a 8 l / min",
+  "creditCard_selected": "Za tuto službu bude účtována vybraná karta",
+  "currency": "Měna",
+  "C_SPECIALTY": "Vlastní specialita",
+  "dailyuse": "Denní potřeba",
+  "dashboardVideocall": "Dashboard Videocall",
+  "dataerror": "Datum / čas, který jste vybrali, překročil aktuální datum / čas",
+  "dataexists": "K dispozici je již událost s vybraným datem a časem",
+  "datafetching": "Načítání vašich osobních údajů ... Počkejte prosím.",
+  "dataPrenotazione": "Datum rezervace",
+  "dataVaccinazione": "očkování Datum",
+  "date": "Datum",
+  "dateDiscovered": "datum objevení",
+  "dateStart": "Datum zahájení",
+  "datipersonali": "Osobní informace",
+  "datiScaricati": "Údaje byly úspěšně staženy",
+  "day": "Den",
+  "deassociate_corx_alert": "Chcete oddělit Corx?",
+  "decline": "Pokles",
+  "DECLINE_BTN": "Pokles",
+  "DEEP_SLEEP_TIME": "Hluboký spánek",
+  "defaultQuestion": "Stiskněte start a řekněte nám, jak se cítíte dnes",
+  "delete": "Odstranit",
+  "deleteAlarm": "Chcete smazat tento poplach?",
+  "deleteAppointment": "Chcete zrušit schůzku?",
+  "deleteDescription": "Bude odstraněn okamžitě.",
+  "deleteMessage": "Opravdu chcete toto smazat?",
+  "deleteMultipleDesctiption": "Počet slotů, které budou smazány:",
+  "deleteNumber": "Opravdu chcete smazat toto číslo?",
+  "deleteSlotDay": "Odstraní všechny volné pozice tohoto dne",
+  "deleteSlotMonth": "Odstraní všechny volné sloty tento měsíc",
+  "deleteSlotWeek": "Odstraní všechny volné pozice tento týden",
+  "deletevalue_q": "Opravdu chcete hodnotu smazat?",
+  "DELETE_NOTIFICATION_MSG": "Chcete smazat všechna minulá oznámení?",
+  "demo": "Toto demo, žádné peníze nebudou účtovány.",
+  "dependencies": "Závislosti",
+  "description": "Popis",
+  "descriptionMandatory": "Zadejte prosím popis",
+  "deseaseCategory": "Kategorie nemoci",
+  "desirable": "Žádoucí",
+  "dettagli": "Podrobnosti",
+  "dettaglio_struttura": "Detail struktury",
+  "device": "přístroj",
+  "devicefound": "Nalezeno zařízení",
+  "devices": "Zařízení",
+  "devicetype": "Typ zařízení",
+  "DEVICE_BLOOD_PRESSURE": "Krevní tlak",
+  "DEVICE_CALORIES": "Vypálené kalorie",
+  "DEVICE_CARDIAC": "Monitorování srdečního selhání",
+  "DEVICE_CHL": "Lipidický profil",
+  "DEVICE_DATA_SECTION_TITLE": "Vaše údaje o zdravotnických prostředcích",
+  "DEVICE_DATA_TITLE": "Data zařízení",
+  "DEVICE_DATA_TITLE_1": "Data zdravotnických zařízení",
+  "DEVICE_EKG": "ECG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness sledování",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glukometr",
+  "DEVICE_HEART_RATE": "Tepová frekvence",
+  "DEVICE_PEDOMETER": "Krokoměr",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Respirační frekvence",
+  "DEVICE_SPO2": "Spo2",
+  "DEVICE_TEMPERATURE": "Teplota",
+  "DIAGNOSIS": "Diagnóza",
+  "diastolic": "Diastolický",
+  "dieci": "Posledních deset měření",
+  "diet": "Strava",
+  "digestion": "Problémy s trávením",
+  "dinner": "Večeře",
+  "dipendenza": "Závislost",
+  "disableAlarm": "Alarm povolen",
+  "disabled": "Zakázáno",
+  "DISABLE_PANIC_BUTTON": "Povolit tlačítko Panic",
+  "DISABLE_PUNIC_BUTTON": "Zakázat punic tlačítko",
+  "disconnectall": "Nastavit offline",
+  "disconnectbtn": "Odpojit",
+  "DISDICI": "zrušení",
+  "disease": "Chronické nemoci",
+  "diseasemanagement": "Správa nemocí",
+  "diseases": "Nemoci",
+  "disease_1": "Nemoc",
+  "dissocia": "Oddělit",
+  "DISTANCE": "Vzdálenost",
+  "dm_section_description_1": "Zde můžete připojit soubory",
+  "DND": "Nerušit",
+  "DOCEMAIL": "Lékařský e-mail",
+  "DOCNAME": "Jméno lékaře",
+  "DOCPHONE": "Telefonní číslo pro lékaře",
+  "DOCTOR": "Doktor",
+  "doctor1": "Doktor",
+  "doctorAtHome": "Doktor doma",
+  "doctorAtHomeQuestion1": "Chci domácí pomoc pro:",
+  "doctorAtHomeQuestion2": "Vyberte si domácí pomoc, kterou potřebujete",
+  "doctorAtHomeQuestion2Answer1": "Obecná praxe",
+  "doctorAtHomeQuestion2Answer2": "Pediatrická",
+  "doctorAtHomeQuestion2Answer3": "Zdravotní sestřička",
+  "doctorAtHomeQuestion3": "Zadejte důvod, proč chcete získat pomoc",
+  "doctorAtHomeQuestion4": "Uveďte ve formuláři níže adresu, kterou chcete získat pomoc",
+  "doctorAtHomeRequestBtn": "Odeslat žádost",
+  "doctorAtHomeRequestSuccess": "Obdrželi jsme vaši žádost. Budete kontaktováni po dobu 2 hodin, abyste si domluvili domácí službu",
+  "doctorAtHomeTitle": "Doktor doma",
+  "doctorbusy": "Doktor je zaneprázdněn v dalším hovoru",
+  "doctorbusy1": "Lékař je zaneprázdněn v dalším hovoru",
+  "doctorlist": "Seznam lékařů",
+  "doctormanagement": "Správa lékařů",
+  "doctoroffline": "Lékař je offline, zkuste to znovu",
+  "doctorupdate": "Doktor",
+  "DOCTOR_PROFILE_OPT1": "Profil",
+  "DOCTOR_PROFILE_OPT2": "Historie návštěv pacientů",
+  "DOCTOR_PROFILE_OPT3": "Doporučit kolegovi",
+  "DOCTOR_PROFILE_SECTION1": "Tvůj profil",
+  "DOCTOR_PROFILE_TITLE": "Profil",
+  "doctor_request_sent": "Vaši žádost jsme poslali našim lékařům. Odpověď obdržíte do dvou minut.",
+  "documents": "Dokumenty",
+  "DOCUMENT_BTN": "Dokumenty",
+  "doestake": "Přijali jste",
+  "DONATION_TITLE": "Potvrďte darování",
+  "done": "Údaje Trackxu byly úspěšně staženy. Najdete je v sekci Údaje o wellness",
+  "doneAppointmentPatient": "Minulé schůzky",
+  "DONE_BTN": "Hotovo",
+  "dontknow": "Nepamatuji se",
+  "DORMIVEGLIA": "Ospalost",
+  "dosage": "Dávkování",
+  "dosetake1": "Vzali jste si léky?",
+  "dottore_rimosso": "Doktorský stav byl úspěšně aktualizován",
+  "dottore_salvato": "Doktor byl úspěšně aktualizován",
+  "download": "Stažení",
+  "downloadaspdf": "Stáhnout jako PDF",
+  "downloadecg": "Stáhněte si EKG",
+  "DOWNLOADING_DEVICE_DATA": "Stahování ...",
+  "downloadwellnessdata": "Stažení dat wellness ...",
+  "downloadWellnessResult": "opatření bylo přidáno",
+  "DOWNLOAD_CERTIFICATE": "Stáhnout certifikát",
+  "DOWNLOAD_ERROR_GENERIC": "Jejda. Při pokusu o stažení souboru došlo k chybě. Prosím zkuste to znovu později.",
+  "DOWNLOAD_SO_REPORT": "Stáhnout doporučení",
+  "DO_NOT_DISTURB": "Nerušit",
+  "drugsAtHome": "Drogy doma",
+  "drugsAtHomeQuestion1": "Chcete dostávat léky předepsané lékařem přímo doma?",
+  "drugsAtHomeRequestBtn": "Odeslat žádost",
+  "drugsAtHomeRequestSuccess": "Obdrželi jsme vaši žádost. Léky budou odeslány do 24 hodin",
+  "drugsAtHomeSection1": "Ve formuláři uveďte telefonní číslo a adresu, kterou chcete léky dostávat.",
+  "drugsAtHomeTitle": "Drogy doma",
+  "drug_name": "Název léku",
+  "duration": "Doba trvání",
+  "ecg": "EKG",
+  "ecgadded": "EKG se úspěšně přidal do seznamu",
+  "ECGBP": "EKG BP",
+  "ecgdata_header": "EKG data",
+  "ecgdetail": "Klepnutím na každou položku zobrazíte obrázek EKG",
+  "ECG_DELETE_Q": "Opravdu chcete vymazat EKG?",
+  "ecg_not_found": "Nesprávný soubor EKG zkuste jinou misuaraci.",
+  "ECG_REMOVED": "EKG byla úspěšně smazána",
+  "edit": "editovat",
+  "EKG_SECTION_TITLE": "Výsledky elektrokardiogramu (EKG / EKG)",
+  "EKG_TITLE": "Nahrávání EKG",
+  "EMAIL": "E-mail",
+  "email1": "E-mailem",
+  "email_do_not_match": "E-maily neodpovídají",
+  "ematicTest": "Ematické testy",
+  "Emergency": "Zobrazit v nouzi",
+  "emergency1": "Nouzový",
+  "emergencyLoginCode": "Kód pro nouzové přihlášení",
+  "emergency_numbers": "Nouzová čísla",
+  "emergency_number_description": "V případě nouze přidejte telefonní čísla, která chcete volat",
+  "emotionDescription": "Kombinace různých základních emocí, vyjádřených hlasem uživatelů během analyzované hlasové sekce.",
+  "emotions": "Kombinované emoce",
+  "emptypassword": "Zadejte prosím heslo",
+  "EMPTY_ALLERGIES": "Kliknutím na tlačítko přidáte nemoc do svého zdravotního záznamu",
+  "empty_dataset": "Nejsou žádná data",
+  "EMPTY_DEPENDENCIES": "Kliknutím na tlačítko přidáte závislost na svém zdravotním záznamu",
+  "EMPTY_DISEASE": "Kliknutím na tlačítko přidáte nemoc do svého zdravotního záznamu",
+  "EMPTY_DOCUMENTS": "Kliknutím na tlačítko přidáte dokument do svého zdravotního záznamu",
+  "EMPTY_IMAGES": "Kliknutím na tlačítko přidáte obrázek do svého zdravotního záznamu",
+  "EMPTY_IMMUNIZATION": "Kliknutím na tlačítko přidáte imunizaci do svého zdravotního záznamu",
+  "EMPTY_MEDICATION": "Kliknutím na tlačítko přidáte lék do svého zdravotního záznamu",
+  "empty_otp": "Neplatný kód OTP",
+  "EMPTY_PROSTHESIS": "Kliknutím na tlačítko přidáte protézu do svého zdravotního záznamu",
+  "EMPTY_TESTS": "Kliknutím na tlačítko přidáte test do svého zdravotního záznamu",
+  "enabled": "Povoleno",
+  "endate": "Na",
+  "endcall": "Ukončit hovor",
+  "endDate": "Datum ukončení",
+  "endhour": "Čas ukončení",
+  "end_time": "Čas ukončení",
+  "END_VIDEOCALL_Q1": "Opravdu chcete ukončit konzultaci bez zahájení videohovoru?",
+  "END_VISIT_BTN": "Koncová návštěva",
+  "error": "Chyba",
+  "error_call_timeout": "Doba, po kterou se videohovor ukončí. Chcete-li videohovor vyvolat, proces opakujte znovu.",
+  "ERROR_EMAIL_DUPPLICATE": "Vypadá to, že tato e-mailová adresa je již registrována. Zkuste to s jiným.",
+  "error_price": "Uveďte poplatek",
+  "ERROR_SPECIFY_DAYS": "Zadejte alespoň jeden týdenní den",
+  "ERROR_SPECIFY_HOUR": "Uveďte prosím čas",
+  "ERROR_TITLE_NOTIFICATION": "Chyba",
+  "ERROR_TRACKX": "Zapněte službu Trackx",
+  "error_update": "Chyba při aktualizaci firmwaru",
+  "ERROR_USERNAME_DUPPLICATE": "Toto uživatelské jméno již bylo přijato, vyberte jiné",
+  "ERROR_WHITELIST": "Je nám líto, ale vaše zařízení nemá povoleno videohovor",
+  "esameobbligatorio": "Zvolte prosím zkoušku",
+  "exam_name": "Název zkoušky",
+  "exercise": "Cvičení",
+  "exercisereminders": "Moje připomínky k cvičení",
+  "existentassoc": "Existují sdružení",
+  "existentrelation": "Tento vztah již existuje",
+  "expandfordetails": "Rozbalte další podrobnosti",
+  "EXP_MONTH": "Měsíc Spotřeby",
+  "EXP_MONTH_REQUIRED": "Vyžaduje se měsíc vypršení platnosti",
+  "EXP_YEAR": "Rok vypršení platnosti",
+  "EXP_YEAR_REQUIRED": "Vyžaduje se rok vypršení platnosti",
+  "e_prescribing": "E-předepisování",
+  "F": "ženský",
+  "farmaci": "Medikace",
+  "farmaco": "Lék",
+  "fat": "Tlustý",
+  "FATIGUE_INDEX": "Únava",
+  "FATIGUE_INDEX_DESCRIPTION": "Práce, práce a zkušenosti způsobené stupněm únavy. Nadměrná únava snadno vede k ztuhnutí svalů v rameni, bolesti hlavy, nespavosti, únava, bolesti v pasu a snadno vedou k nervovému systému, endokrinním poruchám, což vede k mnoha chronickým chorobám a duševní únavě.",
+  "favoriteslist": "Seznam oblíbených položek",
+  "FAVORITES_NO": "Do seznamu oblíbených dosud jste nepřidali žádné lékaře",
+  "FAVORITES_NO_PHARMACIES": "Do vaší oblíbené listiny dosud jste nepřidali žádnou lékárnu",
+  "FAVORITES_SECTION_SUBTITLE": "Klepnutím na každou položku zobrazíte úplné podrobnosti",
+  "FAVORITES_SECTION_TITLE": "Tvůj oblíbený lékař",
+  "FAVORITES_TITLE": "Oblíbené",
+  "favourite_pharmacy": "Oblíbené lékárny",
+  "FEE": "Správa poplatků",
+  "FEET": "chodidla",
+  "female": "ženský",
+  "fileloaded": "Soubor byl načten",
+  "fileloaded1": "Fle úspěšně odeslán",
+  "fileName": "Název souboru",
+  "filenotfound": "Soubor nebyl nalezen",
+  "file_upload_instruction": "Instrukce pro nahrávání",
+  "filldate": "Zvolte prosím datum",
+  "filldoctor": "Prosím, vyberte lékaře",
+  "fillpeciality": "Vyberte prosím specializaci",
+  "fillthebox": "Vyplňte krabici",
+  "fill_indication": "Vyplňte prosím indikační pole",
+  "fill_indication_for": "Uveďte prosím označení pro",
+  "fill_quantity": "Vyplňte prosím pole s množstvím",
+  "fill_quantity_for": "Uveďte prosím množství pro",
+  "fill_your_doubt": "Ve výše uvedeném poli prosím uveďte popis.",
+  "filter": "Filtr",
+  "finddoctor": "Najděte lékaře",
+  "findFarmacia": "Vyhledat lékárnu",
+  "findpatient": "Najděte pacienta",
+  "findspcialist": "Najděte odborníka",
+  "findStruttura": "Struktura vyhledávání",
+  "finduser": "Najít uživatele",
+  "FIND_A_DOCTOR": "Najděte lékaře",
+  "find_device": "Najít zařízení",
+  "FIND_THE_BRACELET": "Najděte náramek",
+  "fingerprint_btn": "Povolit přihlášení k odtržení prstů",
+  "fingerprint_hint": "Chcete-li pokračovat, potvrďte otisk prstu",
+  "fingerprint_hint2": "Chcete-li pokračovat, potvrďte otisk prstu",
+  "fingerprint_question": "Chcete aktivovat autentizaci otisků prstů?",
+  "FIRMWARE_UPDATE": "Aktualizace firmware",
+  "FIRMWARE_UPDATED": "Firmware Aktualizováno",
+  "firstName": "Jméno",
+  "five_min": "Za 5 minut",
+  "fixappointment": "Chcete naplánovat tuto schůzku?",
+  "forever": "Navždy",
+  "forgotPassword": "Zapomněli jste heslo?",
+  "forgot_password": "Zapomenuté heslo?",
+  "forma": "druh",
+  "formafarmaco": "Zdravotní dotazník",
+  "formatError": "Cena musí být číselná hodnota.",
+  "found_devices": "Nalezená zařízení",
+  "FRIDAY": "pátek",
+  "GENDER": "Pohlaví",
+  "gender1": "Pohlaví",
+  "general": "Všeobecné",
+  "generalInfo": "Obecné informace",
+  "genericName": "Obecné jméno",
+  "GENERIC_ERROR": "OOps! Něco se pokazilo. Prosím zkuste to znovu později",
+  "geneticTest": "Genetický test",
+  "geneticTestHeader2": "Pomocí genetických testů se můžete dozvědět více o svém zdraví a dělat správnou věc, jak udržet zdravé zdraví.",
+  "geneticTestHeader3": "Jak to funguje",
+  "geneticTestProduct": "Nutriční profil",
+  "geneticTestRequestBtn": "Požádejte o test",
+  "geneticTestRequestSuccess": "Vaše objednávka byla potvrzena. Sadu dostanete přímo doma",
+  "geneticTestSection1": "Chtěli byste nyní, jestliže to, co jíte, je dostatečné pro vaše tělo a váš metabolismus?",
+  "geneticTestSection2": "Chcete vědět, zda zdravější jídlo pro vaše tělo nehrozí chronické nemoci?",
+  "geneticTestSection3": "Výživový test vám umožní zjistit vztah mezi vaší DNA a stravou.",
+  "geneticTestSection4": "Přidejte zde své telefonní číslo a adresu, kterou chcete sadu zaslat",
+  "geneticTestStep1": "1. Objednejte si test",
+  "geneticTestStep1Subtitle": "Proveďte objednávku s aplikací a získejte kit přímo doma.",
+  "geneticTestStep2Subtitle": "Vezměte vzorku a pošlete nám poštovní službou pomocí obálky, kterou vám poskytneme.",
+  "geneticTestStep3": "3. Získejte výsledky",
+  "geneticTestStep3Subtitle": "Po týdnu obdržíte zprávu, která vás informuje o tom, že výsledky genetického testu budou k dispozici v aplikaci.",
+  "geneticTestTitle": "Genetický test",
+  "GLUCOMETER": "Glukometr",
+  "glucosio": "Glukóza",
+  "HAND_BRIGHTEN": "Zvedněte ruku, aby se rozjasnila",
+  "happiness": "Štěstí",
+  "HDL": "HDL cholesterol",
+  "hdl_cholesterol_desc": "Cholesterol lipoproteinů s vysokou hustotou (HDL) je známý jako „dobrý“ cholesterol. Následující tabulka ukazuje rozsah hodnot.",
+  "healthtips": "Zdraví",
+  "HEALTH_INDEX": "Zdraví",
+  "HEALTH_INDEX_DESCRIPTION": "Index zdravotního stavu HRV je prostřednictvím analýzy průměrné HR srdeční frekvence a variability srdeční frekvence HRV a dalších parametrů založených na měření v reálném čase výsledků Holterovu pro analýzu zdravotních parametrů těla, zvýšení zdravotního indexu, který představuje zdravotní stav těla lepší; zdravotní index klesl, jménem těla Musí dávat pozor na každodenní zdravý život.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Srdce",
+  "HEART_INDEX_DESCRIPTION": "Kardiální funkce Uživatelé měří srdeční stav člověka a jejich výkon je odlišný kvůli různým úrovním lásky k srdci a celkovému zdravotnímu stavu. Rozvíjet zdravý životní styl a stravovací návyky: rozumnou strategií, jak cvičit srdce, aby násilím přilákal vápníkový doplněk vápníku, chránil krevní cévy, mohl aktivně zabránit výskytu onemocnění srdce, je posílení strategie srdečních funkcí.",
+  "height": "Výška",
+  "height1": "Výška je potřebná pro správný výpočet BMI",
+  "heightUnit": "Výška jednotky",
+  "hepaticFunction": "Jaterní funkce",
+  "hide": "Skrýt",
+  "high1": "Vysoký",
+  "high_risk": "Vysoké riziko",
+  "history": "Historie konzultací",
+  "homepage": "domů",
+  "HOME_WARNING_MESSAGE": "Opravdu chcete odjít z této stránky? Vaše modifikace bude ztracena.",
+  "hormonalTest": "Test na hormonální funkce",
+  "hospDate": "Hosp.date",
+  "hospit": "Důvod hospitalizace",
+  "hospital": "Nemocnice",
+  "hospitalization": "Hospitalizace",
+  "hour": "Hodina",
+  "hours": "Hodiny",
+  "HOURS_BANK_DONATE_BTN": "Darovat",
+  "HOURS_BANK_DONATION": "Hodiny v současné době darované:",
+  "HOURS_BANK_H": "Hodiny Banka:",
+  "HOURS_BANK_SECTION_P1": "Zdraví je naší nejvyšší prioritou v programu SaluberMD a chceme sloužit co nejvíce lidem. Prostřednictvím naší platformy umožňujeme těm, kteří potřebují, mít přístup ke zdravotní péči. Náš terénní tým je odhodlán poskytovat zdravotní péči organizacím, jednotlivcům a rodinám v nouzi.",
+  "HOURS_BANK_SECTION_P2": "Jednoduše klikněte na odkaz, kolik hodin chcete darovat a přidáme je do naší banky.",
+  "HOURS_BANK_SECTION_P3": "Budeme vás kontaktovat prostřednictvím aplikace, abyste mohli vyčerpat hodiny a kdy budete k dispozici, jednoduše klikněte na tlačítko Přijmout, abyste mohli vidět pacienty.",
+  "HOURS_BANK_SECTION_TITLE": "Připojte se k nám a dárce zdravotní péče!",
+  "HOURS_BANK_TITLE": "Hodiny Bank",
+  "howto": "Jak",
+  "howto1": "Dostupné sloty jsou označeny zelenou koulí",
+  "howto2": "Vyberte buňku se zelenou koulí a klikněte na ni pro rozbalení a výběr času. Když jste připraveni, klikněte na symbol tužky, abyste viděli podrobnosti a přijali schůzku",
+  "howToPrice": "Cena musí být číselná hodnota. Povoleny jsou nejvýše dvě desetinná čísla. Jako oddělovače lze použít tečku nebo čárku",
+  "hrv_buono": "Dobrý",
+  "hrv_eccellente": "Vynikající",
+  "hrv_generale": "Všeobecné",
+  "hr_alta": "Větší než 100",
+  "hr_bassa": "Méně než 60",
+  "HR_DESCRIPTION": "Referenční tabulka normálních klidových srdečních frekvencí",
+  "HR_INTERVAL": "Interval měření HR",
+  "hr_normale": "Mezi 60 a 100 lety",
+  "hsh": "Historie hospitalizace a chirurgických zákroků",
+  "IBAN": "IBAN",
+  "idx": "Indexy",
+  "image": "obraz",
+  "images": "snímky",
+  "immunization": "Imunizace",
+  "immunizationmenu": "Imunizace",
+  "importhealth": "Importovat údaje o zdraví",
+  "impossible_transfer": "Nelze přesměrovat hovor",
+  "INCH": "Palec",
+  "indexes": "Indexy",
+  "indication": "Indikace",
+  "INFO_BTN": "Informace",
+  "info_salvate": "Údaje byly úspěšně uloženy",
+  "iniezione": "Injekce",
+  "initiative": "Iniciativa",
+  "initiativeerror": "Vyberte jednu iniciativu",
+  "insert": "Vložit",
+  "inserttext": "Vložte zde text",
+  "insert_otp_code": "Sem vložte kód",
+  "internet_missing": "Nejste připojeni k internetu",
+  "invalidemail": "neplatná emailová adresa",
+  "invoice": "Faktura",
+  "irregulartest": "nepravidelné test",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Testy funkce ledvin",
+  "labtesting": "Síť",
+  "LANGUAGE": "Jazyk",
+  "LANGUAGE_TYPE": "Jazyk",
+  "lastmeasure": "Poslední opatření",
+  "lastName": "Příjmení",
+  "lastPhysical": "Poslední fyzikální",
+  "lastSync": "Poslední synchronizace",
+  "lastTimeOnline": "Naposledy online",
+  "lastvisit": "Poslední návštěva",
+  "last_login_date": "Poslední přihlášení",
+  "last_time_taken": "Naposledy pořízeno",
+  "LDL": "LDL cholesterol",
+  "ldl_cholesterol_desc": "LDL neboli lipoprotein s nízkou hustotou je „špatný“ cholesterol. Následující tabulka ukazuje rozsah hodnot",
+  "leggero": "Světlo",
+  "LICENSE_NUMBER": "Číslo licence",
+  "LIGHT_SLEEP_TIME": "Lehký spánek",
+  "listcall": "Seznam hotových videí",
+  "litri": "Litr",
+  "liverExam": "Test jaterních funkcí",
+  "LIVE_ECG": "Nové měření",
+  "live_ecg_downloading": "Stahování EKG. Prosím, čekejte...",
+  "loadEcgList": "Načíst seznam EKG ...",
+  "loading": "Načítání dat...",
+  "loading1": "Načítání...",
+  "loading_list": "Načítá se ...",
+  "loading_list_nutritionist": "Načítání odborníků na výživu ...",
+  "LOAD_INDEX": "Zatížení",
+  "LOAD_INDEX_DESCRIPTION": "Stupeň a únava, stres Komplexní úvahy o tom, že tělo nese index zatížení, které odráží fyzické a psychologické aspekty lidí, nesou zatížení. Externí sociální, životní a konkurenční a další faktory, ale také jejich vlastní fyzický stav a duševní stav.",
+  "LOAD_ITEMS": "Načítání...",
+  "LOGGING_IN": "Přihlášení ...",
+  "LOGGING_OUT": "Odhlášení...",
+  "LOGIN_BTN": "Přihlásit se",
+  "LOGIN_ERROR": "Chybné uživatelské jméno nebo heslo",
+  "Logout": "Odhlásit se",
+  "logout1": "Odhlásit se",
+  "LOGOUT_BTN": "Odhlásit se",
+  "low1": "Nízký",
+  "lunch": "Oběd",
+  "lungtest": "Pojďme udělat plicní test",
+  "M": "mužský",
+  "male": "mužský",
+  "manageapp": "Spravujte schůzky",
+  "manageslot": "Správa volného slotu",
+  "MANAGE_CORX": "Správa Corx",
+  "mandatoryDays": "Uveďte počet dní",
+  "mandatoryfield": "Vyplňte prosím všechna povinná pole",
+  "map": "Mapa",
+  "max_file_size": "Velikost souboru musí být menší než",
+  "meals": "Jídla",
+  "medicalconsultation": "Konzultace",
+  "medicalfile": "snímky",
+  "medicalform": "Lékařské formuláře",
+  "medicalforms": "Lékařské formuláře",
+  "medicalinfo": "Zdravotní informace",
+  "medicalrecord": "Zdravotní záznam",
+  "medical_2option": "Druhý lékařský posudek",
+  "MEDICAL_CERTIFICATE": "Lékařské osvědčení",
+  "MEDICAL_FILE_BTN": "Lékařský soubor",
+  "medication": "Lék",
+  "medication_name": "Název léku",
+  "medicinereminders": "Moje lék Připomenutí",
+  "medio": "Střední",
+  "medium1": "Střední",
+  "message": "Zpráva",
+  "messagesent": "zpráva úspěšně odeslána",
+  "metabolismTest": "Testy metabolismu",
+  "method": "Metoda",
+  "METRIC": "Metrický",
+  "middedcall2": "Máte nezodpovězené volání",
+  "minutes": "minut",
+  "missedcall": "SaluberMd Zmeškaný videohovor",
+  "missedcall1": "Zmeškaný hovor",
+  "missedNotiAlert": "Máte některá zmeškaná oznámení.",
+  "misurazioni": "Evidence",
+  "misure": "Opatření",
+  "mobile": "mobilní, pohybliví",
+  "mobile_required": "Přidejte prosím vaše telefonní číslo, abychom vás mohli kontaktovat, abyste si dohodli schůzku.",
+  "moderate_risk": "Mírné riziko",
+  "MONDAY": "pondělí",
+  "month": "Měsíc",
+  "mood": "Skupina nálad",
+  "moodDescription": "Klíčový indikátor emočního stavu reproduktorů během analyzované hlasové sekce. API produkuje celkem 11 náladových skupin, od hněvu, osamělosti a sebeovládání po štěstí a vzrušení.",
+  "moreDays": "Další dny",
+  "motivazione": "Důvod",
+  "MRGraph": "Historie medicíny",
+  "msgAppointment": "Tato událost byla úspěšně naplánována. Vaše schůzka najdete v sekci &quot;Příjemci služeb&quot;.",
+  "msgsurveysent": "Průzkum úspěšně odeslán",
+  "msg_call_reconnection": "Pokus o opětovné připojení ...",
+  "MSG_CALL_TRANSFERED": "Videohovor byl úspěšně převeden",
+  "MSG_CHOOSE_OPTION": "Vyberte prosím jednu z možností",
+  "MSG_CHOOSE_OPTION4": "Vyberte jednu z možností",
+  "MSG_CHOOSE_OPTION5": "Popište snídani",
+  "MSG_CHOOSE_OPTION6": "Popište svou večeři",
+  "MSG_CHOOSE_OPTION7": "Popište svůj oběd",
+  "MSG_CHOOSE_OPTION8": "Popište své snaky",
+  "MSG_CHOOSE_OPTION9": "Odpovězte prosím na všechny otázky",
+  "MSG_CHOOSE_OPTION_2": "Vložte prosím popis",
+  "MSG_CHOOSE_OPTION_3": "Vyberte alespoň jednu možnost",
+  "MSG_COMPLETE_PROFILE": "Chtěli byste jít teď?",
+  "MSG_CONFIRM_EMAIL": "Prosím, potvrďte svůj email",
+  "MSG_CONFIRM_EMAIL_TEXT": "Poslali jsme vám e-mail s pokyny k potvrzení vaší e-mailové adresy. Zkontrolujte prosím doručenou poštu.",
+  "msg_connected": "Successfully Connected",
+  "MSG_CONTACT_SUCCESS": "Děkujeme za vaše podání.",
+  "MSG_DOC_ENDED_CALL": "Lékař ukončil hovor",
+  "MSG_DOC_WAITING_CALL": "Doktor byl odpojen a čeká na opětovné připojení",
+  "MSG_DONATION": "Potvrdit svůj dar?",
+  "MSG_DONATION_CONFIRM": "Děkujeme za váš dar",
+  "MSG_ERROR_FILL_BOXES": "Vyplňte kolonky se správnými hodnotami",
+  "MSG_FILL_ALL_BOXES": "Vyplňte prosím všechna pole",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Vyplňte prosím všechna následující pole",
+  "MSG_FILL_BOXES": "Vyplňte prosím políčka",
+  "MSG_FILL_BOXES_ALL": "Prosím vyplňte všechna políčka",
+  "MSG_FILL_BOXES_PROFILE": "Vyplňte prosím všechna políčka označená hvězdičkou",
+  "MSG_GENERIC_ERROR": "Zkontrolujte připojení k internetu a zkuste to znovu.",
+  "MSG_GENERIC_FORM_ERROR": "Opravte chybu před pokračováním",
+  "MSG_LOGIN_ERROR": "Přihlášení se nezdařilo: zkontrolujte své pověření a ujistěte se, že jste připojeni k síti.",
+  "MSG_LOGIN_ERROR_LOCKED": "Přihlášení se nezdařilo: váš účet je dočasně uzamčen. Zkuste to prosím později.",
+  "MSG_MANDATORY_OPTION": "Musíš povolit lékaři, aby viděl zdravotní dokumentaci",
+  "MSG_NO_DOCTORS_FOUND": "Nebyli nalezeni doktoři, stiskněte Najít lékaře, abyste se pokusili znovu.",
+  "MSG_PATIENT_CANCELED_CALL": "Pacient zrušil hovor a vrátil se domů",
+  "MSG_PATIENT_ENDED_CALL": "Pacient ukončil hovor",
+  "MSG_PATIENT_WAITING_CALL": "Pacient byl odpojen a čeká na opětovné připojení",
+  "MSG_POST_CALL_CANCEL": "Ukončili jste návštěvu před zahájením videohovoru!",
+  "MSG_POST_CALL_DOCTOR": "Shrnutí posláno zpět domů.",
+  "MSG_POST_CALL_PATIENT": "Děkujeme vám za používání aplikace SaluberMD. Získáte další e-mail. Chcete-li zobrazit podrobnosti o návštěvě a pokyny svého lékaře, navštivte prosím Můj profil - návštěvu historie.",
+  "msg_reconnection_error": "Zařízení bylo odpojeno. Znovu připojte zařízení",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Díky ... někdo vás bude kontaktovat",
+  "MSG_REGISTRATION_SUCCESS": "Úspěšná registrace",
+  "msg_req_videocall1": "je k dispozici pro videohovor v:",
+  "msg_req_videocall2": "Videohovor je připraven ke spuštění. Kliknutím na toto upozornění aktivujete videohovor",
+  "msg_req_videocall3": "je nyní k dispozici pro videohovor. Kliknutím na toto upozornění aktivujete videohovor",
+  "MSG_RESET_REQUEST_ERROR": "Uživatel s tímto uživatelským jménem nebo e-mailovou adresou neexistuje.",
+  "MSG_RESET_REQUEST_SUCCESS": "Brzy obdržíte e-mail s odkazem na obnovení hesla.",
+  "MSG_RESUME_CALL": "Je běžící hovor, chcete jej pokračovat?",
+  "MSG_SCHOOL_MISSING": "Vložte škola",
+  "MSG_SELECT_TIMEZONE": "Vyberte časové pásmo",
+  "MSG_SIGNATURE_MISSING": "Vyplňte svůj podpis, jinak nemůžete odesílat žádné předpisy.",
+  "MSG_THANKING": "Děkujeme za vaše podání.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Ztráta spojení. Může to být kvůli připojení k internetu",
+  "MSG_WELCOME_BACK": "Vítej zpět",
+  "MSG_YEAR_PRACTISE": "Vložte rok praxe",
+  "muscles": "Svaly",
+  "myappointment": "Moje schůzky",
+  "MYFILE_NOFILE": "Nemáte dosud žádné soubory",
+  "MYFILE_SECTION": "Vaše soubory",
+  "MYFILE_SUBTITLE": "Klepnutím na každou položku zobrazíte obsah souboru",
+  "MYFILE_TITLE": "Mé soubory",
+  "myprofile": "Můj profil",
+  "myreminders": "Moje připomenutí",
+  "MY_TICKETS": "Vaše lístky",
+  "M_SCHOOL": "Lékařská škola",
+  "N": "Ne",
+  "name": "Jméno",
+  "negative": "Negativní",
+  "nervous": "Nervový",
+  "nessun_appuntamento": "Neexistují žádné minulé události",
+  "NETWORK_CHECK_MSG": "Vaše šířka pásma je příliš nízká. Přehrávání obsahu s nízkou šířkou pásma způsobí pozastavení videa.",
+  "NETWORK_CHECK_TITLE": "Test kvality hovorů",
+  "NETWORK_ERROR": "Chyba připojení k Internetu. Zkuste to později znovu",
+  "neutral": "Neutrální",
+  "newappointment": "Nová schůzka z",
+  "newass": "Přidat novou sdružení",
+  "NEWPWD_CONFIRM": "Heslo úspěšně změněno. Přihlaste se znovu.",
+  "NEWPWD_CONFIRM2": "Heslo bylo úspěšně změněno",
+  "NEWPWD_ERROR": "Nové heslo neodpovídá.",
+  "newtest": "Stiskněte tlačítko plus pro provedení nového testu.",
+  "NEW_PWD": "Nové heslo",
+  "new_ticket": "Nový lístek",
+  "NEXT": "další",
+  "no": "Ne",
+  "noAlarm": "Žádný alarm není nastaven",
+  "noallergies": "V tuto chvíli nejsou žádné alergie",
+  "noapatient": "Nebyl nalezen žádný pacient",
+  "noappointment": "Žádná schůzka není naplánována",
+  "noappointments": "Tento lékař nemá k dispozici datum",
+  "noappointments1": "Nejsou k dispozici žádné data s tímto odborníkem na výživu",
+  "noAppoPat": "Neexistují žádné schůzky, které mají být uvedeny",
+  "noarticles": "Žádné výživové výrobky",
+  "noassociatedpatient": "Nemáte dosud přidruženého pacienta",
+  "noattachment": "Vyberte přílohu",
+  "noattachment1": "Bez přílohy",
+  "noavailableoption": "K dispozici není žádná volba",
+  "nocomment": "Žádné komentáře / doporučení",
+  "noconsulenze": "Nebyly provedeny žádné návštěvy",
+  "nocorxfound": "Žádný CORX nenalezl",
+  "nodata": "Žádná data",
+  "nodependency": "V tuto chvíli nejsou žádné závislostí",
+  "nodesease": "V tuto chvíli nejsou žádné nemoci",
+  "nodevice": "Nebylo nalezeno žádné zařízení, zkuste to znovu",
+  "nodoctor": "Nebyli nalezeni lékaři",
+  "nodoctors": "Žádní lékaři nejsou k dispozici",
+  "noDocuments": "Nebyly nahrány žádné dokumenty",
+  "nodrugselected": "Vybrali jste žádnou drogu",
+  "noecg": "Žádné EKG uvedené",
+  "noexam": "Neexistují žádné zkoušky k zobrazení",
+  "nofiles": "Nebyly nahrány žádné soubory",
+  "noHistory": "V tuto chvíli nejsou žádné konzultace",
+  "nohsh": "V současné době neexistuje žádná hospitalizace",
+  "noimages": "V tuto chvíli nejsou žádné přílohy",
+  "noimmunization": "V tuto chvíli nejsou žádné očkování",
+  "nolabtest": "Nebyly nalezeny laboratorní testy",
+  "nomedication": "Momentálně nejsou žádné léky",
+  "nomisure": "Neexistují žádná opatření",
+  "nonterminata": "Neúspěšné volání",
+  "nonutritionist": "Není k dispozici výživa",
+  "nonuvoair": "Nebylo nalezeno žádné zařízení",
+  "nopharmacy": "Nebyly nalezeny lékárny",
+  "noprescription": "V současné době neexistují žádné předpisy",
+  "noprothesis": "V současné době nejsou žádné protesty",
+  "noreferrals": "Nejsou uvedeny žádné doporučení",
+  "noreminders": "Momentálně nemáte žádné připomenutí",
+  "noresults": "Nebyly nalezeny žádné výsledky.",
+  "normale": "Normální",
+  "normalrange": "Rozsah normálnosti",
+  "normalWeight": "Normální hmotnost",
+  "nosintomi": "Nebyl vybrán žádný příznak",
+  "nospecialist": "Neexistují odborníci",
+  "note": "Poznámky",
+  "notests": "V tuto chvíli nejsou žádné nepravidelné testy",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Klepnutím sem dokončíte dokončení vašeho zdravotního spisu",
+  "NOTIFICATIONS_SECTION": "Vaše oznámení",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Po dokončení zdravotního spisu obdržíte 1 bezplatnou konzultaci nebo posouzení zdravotního stavu.",
+  "NOTIFICATIONS_SETTINGS": "Nastavit oznámení",
+  "NOTIFICATIONS_TITLE": "Oznámení",
+  "notification_setting": "Vyberte, ze které kategorie chcete přijímat oznámení",
+  "notimage": "Soubor není obraz: jsou povoleny pouze soubory BMP, GIF, JPG a PNG",
+  "notNow": "Teď ne",
+  "notnow_btn": "Teď ne",
+  "nouser": "Nebyl nalezen žádný uživatel",
+  "novantad": "Posledních 90 dní",
+  "novideocall": "Nebyl nalezen videokabel",
+  "novisit": "Nemáte ještě žádné návštěvy pacienta",
+  "noWellnessData": "Žádné nové údaje o zdraví",
+  "no_certificate": "Není uveden žádný certifikát",
+  "no_chiosc_data": "Žádný laboratorní test k zobrazení",
+  "NO_DATA": "Žádná data",
+  "no_doctor_answer1": "Momentálně nejsou k dispozici lékaři.",
+  "no_doctor_answer2": "Schůzku můžete provést kliknutím na tlačítko níže.",
+  "NO_GENETIC_TEST_REQUESTS": "Nepožadovali jste žádný genetický test",
+  "NO_MSG": "Žádné odeslané zprávy",
+  "no_notifications": "Nemáte žádné oznámení",
+  "no_prescription_download": "Neexistuje žádný předpis spojený s touto konzultací",
+  "no_pull_answer": "Momentálně není k dispozici žádný lékař.",
+  "no_referral_download": "K této návštěvě není přiděleno žádné postoupení",
+  "NO_SECOND_OP_REQUESTS": "Nemáte žádnou žádost o druhou službu pro otázky",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Nebyla nalezena žádná specializace",
+  "NO_TICKETS_SENT": "Nebyly odeslány žádné vstupenky",
+  "NO_USER_FOUND": "Uživatelské jméno nebo e-mail nebyl nalezen",
+  "NPI": "NPI",
+  "ns": "Nervový systém",
+  "numberNotSaved": "Chyba při ukládání čísla",
+  "numberSaved": "Číslo bylo úspěšně uloženo",
+  "nuovoair_connected": "Připojeno",
+  "nuovoair_disconnected": "Odpojeno",
+  "nutriPen": "Žádost čekající na vyřízení",
+  "nutriRev": "Revidovaný dotazník",
+  "nutrition": "výživa",
+  "nutritionist": "Promluvte si s odborníkem na výživu",
+  "NUTRITIONIST_Q1": "Primární cíle: (Zkontrolujte všechny Aplikovat)",
+  "NUTRITIONIST_Q10": "Jste znatelně podrážděný, lehký nebo slabý, pokud jste nejedli?",
+  "NUTRITIONIST_Q11": "Aktuální režim cvičení: (kardio, odpor, atd.)",
+  "NUTRITIONIST_Q12": "Kouříte? (Pokud ano, jak často a kolik?)",
+  "NUTRITIONIST_Q13": "Pijete alkohol ?: (Pokud ano, jak často a kolik?)",
+  "NUTRITIONIST_Q14": "Pijete kofein ?: (Pokud ano, jak často a kolik?)",
+  "NUTRITIONIST_Q15": "Datum posledního fyzického:",
+  "NUTRITIONIST_Q16": "Kolikrát vám byly předepsány antibiotika za poslední 2 roky:",
+  "NUTRITIONIST_Q16_BIS": "Pokud ano, jaké a jak často (prosím, zadejte co nejpřesnější údaje).",
+  "NUTRITIONIST_Q17": "Užíváte léky? (OTC nebo předpis?) Pokud ano, které z nich a užíváte doplňky? Pokud ano, jak často, (prosím, je to co nejpřesnější.)",
+  "NUTRITIONIST_Q18": "Jste nafouknutý nebo zácpa více než 1-2 dny v týdnu?",
+  "NUTRITIONIST_Q19": "Máte problémy v následujících oblastech? Pokud ano, podrobně popište své problémy v zadaných prostorech.",
+  "NUTRITIONIST_Q2": "Přibližně kolik jídel jedíte denně? (Vyber jeden)",
+  "NUTRITIONIST_Q3": "Co se skládá ze své typické snídaně a kolik hodin:",
+  "NUTRITIONIST_Q4": "Co obsahuje Váš typický oběd a kdy:",
+  "NUTRITIONIST_Q5": "Co se skládá z vaší typické večeře a kdy:",
+  "NUTRITIONIST_Q6": "Jaká jsou Vaše typická občerstvení a kolik času:",
+  "NUTRITIONIST_Q7": "Přejíždíte?",
+  "NUTRITIONIST_Q8": "Jaké potraviny máte tendenci přejídat a jak často:",
+  "NUTRITIONIST_Q9": "Máte nějaké potravinové alergie, omezení nebo citlivost:",
+  "NUTRITIONIST_SUB1": "Ztráta váhy",
+  "NUTRITIONIST_SUB10": "Nevolnost / zvracení",
+  "NUTRITIONIST_SUB11": "Bolest břicha",
+  "NUTRITIONIST_SUB2": "Přibývání na váze",
+  "NUTRITIONIST_SUB3": "Energie / Únava",
+  "NUTRITIONIST_SUB4": "Lepší spánek",
+  "NUTRITIONIST_SUB5": "Problémy s trávením",
+  "NUTRITIONIST_SUB6": "Zácpa",
+  "NUTRITIONIST_SUB7": "Průjem",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Nadýmání / plyn",
+  "nutrition_mail": "Připojeno je zpráva o výživě",
+  "nutrition_mail2": "Výživář vám pošle spis",
+  "nutrition_questionnaire": "výživového dotazníku",
+  "nvisit": "Počet hotových videoklipů",
+  "obesity1": "Obézní",
+  "obesity2": "Těžko obézní",
+  "obesity3": "Morbidně obézní",
+  "OFFICE_ADDRESS": "Adresa kanceláře",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Zdá se, že lékař je offline, zkuste to znovu později",
+  "OLDPWD_ERROR": "Nové heslo odpovídá starému heslu.",
+  "OLD_PASSWORD_WRONG": "Staré heslo je špatné",
+  "OLD_PWD": "Staré heslo",
+  "oneDay": "Jednoho dne",
+  "one_min": "Za 1 minutu",
+  "online": "Online",
+  "onlinedoctors": "On-line lékaři",
+  "openimage": "Kliknutím na obrázek otevřete celou obrazovku",
+  "open_ticket": "Otevřete jízdenku",
+  "orale": "Mouth",
+  "other": "jiný",
+  "othercbc": "Další zkoušky CBC",
+  "OTHER_PLACEHOLDER": "Upřesněte prosím svou specialitu",
+  "otoscopy": "Otoskopie",
+  "otp_sent_msg": "Na vaše telefonní číslo jsme vám zaslali ověřovací kód",
+  "OUR_PRODUCTS_SECTION": "Naše zařízení poskytují údaje o zdraví a wellness v reálném čase, které vám pomohou sledovat vaše zdraví.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Změřte zdraví plic v sekundách pomocí profesionálního spirometru",
+  "OUR_PRODUCTS_SECTION_P1": "Inteligentní nositelná technologie, která kromě wellness funkcí poskytuje zdravotní data v reálném čase",
+  "OUR_PRODUCTS_SECTION_P2": "Fitness / Wellness Výhody",
+  "OUR_PRODUCTS_SECTION_P3": "Vaše domácí diagnostická sada pro celou rodinu.",
+  "OUR_PRODUCTS_SECTION_P4": "Funkce",
+  "OUR_PRODUCTS_SECTION_P5": "Obě zařízení jsou navržena tak, aby spolupracovaly s aplikací, aby poskytly dobře zaokrouhlené zkušenosti se zdravotnictvím. Výsledky budou uloženy přímo v aplikaci.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Změřte svůj tlak v sekundách pomocí profesionálního sfygmometru",
+  "OUR_PRODUCTS_SECTION_SCALX": "Změřte hmotnost v sekundách v profesionální měřítku",
+  "OUR_PRODUCTS_TITLE": "Naše výrobky",
+  "overeatFoods": "Jídlo, které je poražené",
+  "overeating": "Přejídání",
+  "overweight": "Nadváha",
+  "pa": "Asistent na předepisování",
+  "PASSWORD": "Heslo",
+  "passwordchanged": "Heslo úspěšně změněno!",
+  "passwordExpiringMessage": "Vaše heslo brzy vyprší. Změňte to teď",
+  "passwordExpiringTitle": "Platnost hesla končí",
+  "PATIENT": "Trpěliví",
+  "patientAllergy": "Alergie",
+  "patientGeneticRequests": "Žádosti o genetické testy",
+  "patientinfo": "Informace o pacientovi",
+  "patientlist": "Seznam pacient",
+  "patientmanagement": "Řízení pacientů",
+  "patientProtesi": "Protéza",
+  "PATIENTS_NO_P": "V současné době nejsou naplánovány žádné schůzky pacienta",
+  "PATIENTS_SECTION": "Vaše schůzky",
+  "PATIENTS_SECTION_SUBTITLE": "Klepnutím na každou položku zobrazíte úplné podrobnosti",
+  "PATIENTS_TITLE": "Pacienti",
+  "patientupdate": "Trpěliví",
+  "patientvisit": "Historie návštěv pacientů",
+  "PATIENT_PROFILE_OPT1": "Můj profil",
+  "PATIENT_PROFILE_OPT11": "Moje oblíbené lékaře",
+  "PATIENT_PROFILE_OPT12": "Přidat oblíbenou lékárnu",
+  "PATIENT_PROFILE_OPT2": "Můj lékařský soubor",
+  "PATIENT_PROFILE_OPT3": "Moje historie návštěv",
+  "PATIENT_PROFILE_OPT4": "Můj oblíbený",
+  "PATIENT_PROFILE_OPT5": "Mé soubory",
+  "PATIENT_PROFILE_OPT6": "Moje upozornění",
+  "PATIENT_PROFILE_OPT7": "Nahrávání EKG",
+  "PATIENT_PROFILE_OPT8": "Data o zdravotnických zařízeních",
+  "PATIENT_PROFILE_OPT9": "Mé oblíbené lékárny",
+  "PATIENT_S1": "Trpěliví",
+  "PATIENT_S2": "Mluvit o",
+  "PATIENT_S3": "Informace o pacientech",
+  "PATIENT_S4": "Předmět návštěvy",
+  "PATIENT_S5": "Nemoci",
+  "PATIENT_S6": "Alergie",
+  "PATIENT_S7": "Léky",
+  "PATIENT_S8": "Přiložené dokumenty",
+  "PATIENT_S9": "Symptomy?",
+  "PATIENT_SUMMARY": "Shrnutí informací o pacientech",
+  "patologia": "Patologie",
+  "payment": "Platba",
+  "PAYMENT_DETAILS": "Platební údaje",
+  "PAYMENT_MESSAGE_1": "Budete předeforizováni za částku",
+  "PAYMENT_MESSAGE_2": "Na konci videohovoru vám budou účtovány poplatky",
+  "PAYMENT_SECTION1": "Vyberte kartu ze seznamu",
+  "PAYMENT_SECTION2": "Vložte hodnoty platební karty",
+  "PAYMENT_SUCCESS": "Platba úspěšná!",
+  "PAYMENT_SUCCESSFUL": "Úspěšně jsme platbu předem autorizovali",
+  "PAYMENT_UNSUCCESSFUL": "Platba před autorizací se nezdařila. Zkontrolujte informace o své kreditní kartě nebo požádejte svou banku.",
+  "paziente_rimosso": "Stav pacienta se úspěšně změnil",
+  "paziente_salvato": "Pacient úspěšně aktualizován",
+  "pdf_download_error": "Nelze stáhnout PDF. Prosím zkuste to znovu později",
+  "pdf_file_error": "Přijímány jsou pouze soubory PDF",
+  "period": "Doba",
+  "PERIODIC_HEART_RATE": "Periodická srdeční frekvence",
+  "personal": "Osobní",
+  "personalCare": "Osobní péče",
+  "personalinfo": "Osobní informace",
+  "PER_MIN": "/ min",
+  "pharmacies": "Lékárny",
+  "PHONE": "Telefon",
+  "phone1": "Telefon",
+  "pills": "Pilulky",
+  "PILLS_DATE_ERROR": "Datum zahájení je po datu ukončení",
+  "pill_reminder_message": "Je čas vzít si pilulky",
+  "placeholder": "Uživatelské jméno, e-mail nebo jméno",
+  "placeOfBirth": "Místo narození",
+  "place_birth": "Místo narození",
+  "platform": "Plošina",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Číslo politiky",
+  "positive": "Pozitivní",
+  "POSTCALL_DOCTOR_TITLE": "Shrnutí návštěvy",
+  "POSTCALL_PATIENT_TITLE": "Prosím, ohodnoťte své zkušenosti",
+  "POUNDS": "liber",
+  "PRACTICE_LENGTH": "Délka v praxi",
+  "prenota": "Zarezervovat hned",
+  "prenotatest": "Požádejte o schůzku",
+  "preobesity": "Pre-obezita",
+  "prescription": "Předpis",
+  "prescriptiondiscounts": "Slevy na předpis",
+  "PRESCRIPTIONS": "Předpisy",
+  "prescriptions_sent": "Předepsané předpisy byly zaslány",
+  "prescription_mail": "Připojený je váš předpis",
+  "prescription_mail2": "Děkujeme vám za používání aplikace SaluberMD",
+  "prescription_notification": "Vážení uživatelé, informujeme vás, že váš předpis je nyní k dispozici v části historie časové osy / konference aplikace",
+  "prescription_pharmacy": "Chcete-li odeslat lékařský předpis, vyberte lékárnu",
+  "prescription_preview": "Náhled náhledu",
+  "prescription_sent": "Předepsaný předpis byl odeslán",
+  "PRESCRIPTION_SENT_EMAIL": "Váš předpis byl zaslán na váš e-mail ...",
+  "prescription_subject": "Váš předpis",
+  "pressbutton": "Stiskněte tlačítko dvojice na zařízení a klepněte na Najít zařízení",
+  "pressbuttonpresx": "Stiskněte a podržte pákové tlačítko na zadní straně zařízení a spusťte připojení a klepněte na tlačítko najít zařízení v aplikaci",
+  "pressbuttonscalx": "Stiskněte a podržte pákové tlačítko na zadní straně zařízení a spusťte připojení a klepněte na tlačítko najít zařízení v aplikaci",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Krevní tlak",
+  "PRESX_PROD": "PRESX",
+  "previous": "Předchozí",
+  "pre_period": "Předepsaná doba",
+  "price": "Cena",
+  "price_per_visit": "Poplatek za návštěvu",
+  "PRICING_SECTION1_P1": "Společnost SaluberMD se zavazuje poskytovat pohodlnou, kvalitní péči za přijatelné ceny bez skrytých poplatků nebo poplatků.",
+  "PRICING_SECTION1_P2": "Společnost SaluberMD poskytuje péči všude tam, kde ji budete potřebovat, a to prostřednictvím videoprezentace s lékařem certifikovaným z desky. Naši lékaři mohou diskutovat, zkoumat a poslouchat diagnostiku vašich problémů nebo jednoduše řešit lékařské otázky a obavy během videohovoru.",
+  "PRICING_SECTION1_P3": "Pomocí našeho exkluzivního souboru Medicfile můžete poskytnout lékaři přístup k lékařské anamnéze, obrázkům a souborům, které jim pomohou poskytnout nejúčinnější léčebný plán.",
+  "PRICING_SECTION1_TITLE": "Za návštěvu",
+  "PRICING_TITLE": "Ceny",
+  "primaryConcern": "Primární obavy",
+  "primaryMood": "Nálada primární",
+  "print": "Tisk",
+  "priority": "Přednost",
+  "PRIVACY_POLICY_TITLE": "Zásady ochrany osobních údajů",
+  "problems": "problémy",
+  "PROCEED_PAYMENT": "Pokračujte s platbou",
+  "PROFESSIONAL_TITLE": "Profesionální titul",
+  "PROFILE_SECTION2": "Kontaktní informace",
+  "protesi": "Protetické a zdravotní pomůcky",
+  "protesiobbligatorio": "Vyberte prosím typ protézy",
+  "prov": "vzorek",
+  "publicAppUrl": "Vaše veřejná adresa URL pro jmenování je:",
+  "pulldown": "Zatlačte dolů a obnovte je",
+  "pull_request_processed": "Děkujeme Vám, poslali jsme vaši dostupnost pacientovi",
+  "PWD_NOTMATCH": "hesla se neshodují",
+  "P_P_Error": "Musíte přijmout zásady ochrany osobních údajů",
+  "QUALITY_INDEX": "Kvalitní",
+  "QUALITY_INDEX_DESCRIPTION": "Fyzická zdatnost je úroveň odolnosti a psychického stresu, které se vyskytují tváří v tvář schopnosti přizpůsobit se a zvládat situaci. Index tělesné zdatnosti odráží lidské tělo, aby se přizpůsobil změnám životního prostředí a stresové stimulaci, udržoval a obnovil zdravotní schopnosti. Fyzická zdatnost se často projevuje v potenciálu života lidí, učení a práci, ale také přirozeně ve fyzickém cvičení. Fyzická kvalita člověka souvisí s dědičností, ale blíže souvisí s získanou výživou a tělesným cvičením. Prostřednictvím správných metod a správného cvičení může zlepšit svou fyzickou zdatnost ve všech ohledech.",
+  "quantity": "Množství",
+  "quesito": "Znepokojení",
+  "QUESTIONS_SECTION_TITLE": "Po dokončení zdravotního spisu obdržíte 1 bezplatnou konzultaci nebo posouzení zdravotního stavu.",
+  "QUESTIONS_TITLE": "Otázky",
+  "quindici": "Posledních 15 měření",
+  "ratio": "Poměr",
+  "reccomendation": "Doporučení",
+  "reccomendations": "Doporučení",
+  "recommendation": "Doporučení",
+  "RECOMMENDATIONS": "Doporučení",
+  "RECOMMEND_SECTION_P1": "Ve společnosti SaluberMD usilujeme o uspokojení poptávky po kvalitní zdravotní péči po celém světě tím, že nabízíme našim zákazníkům přístup k dobře zaoblené skupině lékařů.",
+  "RECOMMEND_SECTION_P2": "Neustále hledáme kvalitní lékaře, kteří se přidávají do našeho skvělého týmu. Jako člen našeho týmu respektujeme a oceňujeme vaše doporučení.",
+  "RECOMMEND_SECTION_P3": "Vyplňte níže uvedený formulář a obraťte se na lékaře společnosti SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Doporučit kolegovi",
+  "RECOMMEND_TITLE": "Doporučit",
+  "record_aggiornato": "Záznam byl úspěšně aktualizován",
+  "record_aggiunto": "Záznam byl úspěšně přidán",
+  "record_inserito": "Successfully added",
+  "record_rimosso": "Záznam byl úspěšně smazán",
+  "REFERRAL": "Postoupení",
+  "REFERRALS": "Doporučení",
+  "referrals_sent": "Odeslaná doporučení",
+  "referral_mail": "Připojeno je vaše doporučení.",
+  "referral_sent": "Odesláno bylo odesláno",
+  "refundrequestsent": "Vaše žádost byla odeslána",
+  "register": "Registrovat",
+  "register_report": "Registrace uživatelů",
+  "registration_date": "datum registrace",
+  "REGISTRATION_HEADER_DOCTOR": "Připojte se do týmu společnosti Saluber MD",
+  "REGISTRATION_HEADER_PATIENT": "Vyplňte prosím pole a stiskněte registrační formulář",
+  "releaserefresh": "Uvolněte pro obnovení",
+  "remarks": "Poznámky",
+  "removedevice": "Chcete toto zařízení odebrat?",
+  "removefavorite": "Odstranit z oblíbených?",
+  "remove_generic": "Chcete jej odstranit?",
+  "renalFunction": "Renální funkce",
+  "reoccurring": "Reoccurring",
+  "repeat_email": "potvrdit email",
+  "report": "Osobní klinický soubor: Úplný přehled o datech",
+  "report1": "Osobní klinický soubor:",
+  "report2": "Zpráva",
+  "reportvisite": "Nahlásit videokomory",
+  "report_date": "Nahlásit datum",
+  "requestdate": "Datum požadavku",
+  "request_already_taken": "Tento požadavek již převzal jiný lékař.",
+  "REQUEST_ERROR": "Při zpracování vašich požadavků došlo k chybě. Zkontrolujte připojení k internetu nebo zkuste to později.",
+  "request_sent": "Požadavek byl úspěšně odeslán do kanceláře",
+  "required": "Toto pole je povinné.",
+  "required_field": "Soubor požadován",
+  "RESEND_EMAIL": "Potvrďte potvrzovací kód",
+  "resetCorxFactory": "Opravdu chcete obnovit Corx?",
+  "RESETPWD_BTN": "Obnovit heslo",
+  "RESET_PASSWORD": "Vložte e-mail nebo uživatelské jméno použité při registraci",
+  "respiratory": "Respirační",
+  "RESPIRATORY_RATE": "Dechová frekvence",
+  "RESTORE_FACTORY_SETTINGS": "Obnovit tovární nastavení",
+  "resultfound": "nalezen záznam",
+  "results": "Výsledky",
+  "ricettario": "Země",
+  "richiediDrug": "Žádost o lék",
+  "richiestaAppuntamento": "Žádost o schůzku",
+  "richiestaRimborso": "Žádost o vrácení peněz",
+  "ricovero": "Hospitalizace",
+  "riepilogo": "souhrn",
+  "rightHanded": "Pravá",
+  "rimborso": "Vrácení platby",
+  "ripetibile": "Opakovatelné pro (časy)",
+  "rr_desc": "Dýchací frekvence je rychlost, při které dochází k dechu. Obvyklá míra respirace u dospělého v klidu je 12 až 20 dechů za minutu. Dýchání pod 12 nebo více než 25 dechů za minutu během odpočinku je považováno za abnormální",
+  "rs": "Dýchací systém",
+  "RUNNING_CALL_OPT1": "Životopis",
+  "RUNNING_CALL_OPT2": "Ukončit hovor",
+  "RUNNING_CALL_TITLE": "Běžící hovor",
+  "sa": "Silná autentizace",
+  "sadness": "Smutek",
+  "sai": "Index aktivit",
+  "sai_desc": "SAI je čistě založeno na vaší srdeční frekvenci. Jedná se o jednoduchou metriku, která sleduje odpověď těla na fyzickou aktivitu - mnohem víc než jen kroky. Na rozdíl od sledování kroků, SCI dává úvěr za každou činnost, která zvyšuje srdeční frekvenci: plavání, cyklistika, veslování, tanec, cokoliv. Udržujte ji pod 30 let pro lepší a zdravější život.",
+  "sai_title": "SAI",
+  "saluberAccess": "pacient SaluberMD",
+  "SATURDAY": "sobota",
+  "savedinfo": "Informace byly úspěšně uloženy",
+  "SAVE_BTN": "Uložit",
+  "SAVE_MESSAGE": "Pokud odejdete, vaše změny budou ztraceny",
+  "sbpi": "Index krevního tlaku",
+  "sbpi_desc": "Vysoký krevní tlak je tichý zabiják. Vaše systolické a diastolické hodnoty krevního tlaku jsou odhadovány během každé lékařské relace, kterou provádíte. Uchovávejte SBPI pod 30, abyste měli nižší pravděpodobnost, že budete trpět život ohrožujícími podmínkami, jako je mrtvice a krevní sraženiny.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Hmotnost",
+  "SCALX_PROD": "SCALX",
+  "scan": "Skenovat",
+  "scanningcorx": "Hledání CORX ... Prosím, počkejte",
+  "schedule": "Plán",
+  "scheduleAnAppointment": "Naplánovat schůzku",
+  "scheduleappointment": "Naplánujte videohovor s lékařem",
+  "schtime": "Naplánovaný čas",
+  "sci": "Kardiovaskulární index",
+  "sci_desc": "Analyzováním arteriální pulsní vlny získáváme přehled o vašem kardiovaskulárním systému. Index SCI je souhrn vašeho kardiovaskulárního zdraví, snažte se ho udržet pod 20!",
+  "sci_title": "SCI",
+  "SEARCH": "Vyhledávání",
+  "searchallergy": "Vyhledat alergii",
+  "searchdoctor": "Vyhledat lékaře",
+  "searchfordoctor": "Vyhledat lékaře podle jména nebo příjmení",
+  "searchingdevice": "Vyhledávací zařízení. Může chvíli trvat",
+  "searching_avail_date": "Hledání dostupného data ...",
+  "searching_online_doctors": "Hledání online lékařů ...",
+  "searchmedication": "Vyhledat léky",
+  "searchpatient": "Vyhledávání Patient",
+  "searchpatologia": "Vyhledat zdravotní stav",
+  "searchsymptom": "Search symptom",
+  "searchuser": "Hledat uživatele",
+  "search_doctor_description": "Vyhledat lékaře pro uživatelské jméno, e-mail nebo jméno",
+  "search_patient_description": "Vyhledávejte pacientovi uživatelské jméno, e-mail nebo jméno",
+  "search_specialization": "Specializace v oblasti vyhledávání",
+  "search_user_description": "Vyhledávejte uživatelské jméno, e-mail nebo příjmení",
+  "search_videocall_description": "Vyhledejte videohovor provedený iniciativními",
+  "search_videocall_title": "Sledujte Videocall podle data",
+  "secondaryMood": "Nálada sekundární",
+  "secondOpinion": "Druhé žádosti o stanovisko",
+  "seconds": "sekundy",
+  "second_opinion_1": "Pohodlný a spolehlivý přístup k lékařskému druhému názoru předních odborníků z celého světa.",
+  "second_opinion_2": "Naše lékařská služba druhého stanoviska Vám může pomoci:",
+  "second_opinion_3": "Získejte odpovědi na vaše dotazy",
+  "second_opinion_4": "Vyberte nejlepší plán léčby",
+  "second_opinion_5": "Zajistěte správnou diagnózu",
+  "second_opinion_body": "Drahý uživateli, <br> Vaše druhá žádost o opion byla převzata od našich specialistů, kteří kontrolují dokumenty, které jste poslali.",
+  "second_opinion_history": "Druhé žádosti o stanovisko",
+  "second_opinion_msg": "Děkuji. Náš advokát pro zdraví vás bude kontaktovat během následujících 24 hodin.",
+  "SECOND_OPINION_Q1": "Co byste chtěli mluvit s výživou?",
+  "second_opinion_question1": "Kdo je pro druhé stanovisko?",
+  "second_opinion_question2": "Nahrát soubor",
+  "second_opinion_step1": "Vyplňte krátký dotazník / Nahrajte své soubory",
+  "second_opinion_step2": "Naši lékaři vyhodnotí vaše materiály",
+  "second_opinion_step3": "Lékařské konzultace pro projednání výsledků",
+  "secOpChoice": "Vyberte, jakým způsobem chcete získat druhý názor",
+  "section": "Vyberte jednu sekci",
+  "security": "Bezpečnostní",
+  "seeaprovider": "Podívejte se na poskytovatele",
+  "seecommenti": "Zobrazit komentáře",
+  "seedoctor": "Podívejte se na lékaře",
+  "SEE_A_DOCTOR_Q1": "Je to videohovor pro mě nebo pro někoho jiného?",
+  "SEE_A_DOCTOR_Q10": "Můžeme Vám zaslat Váš předpis přímo do lékárny dle vašeho výběru",
+  "SEE_A_DOCTOR_Q1B": "Jméno a datum narození vašeho dítěte?",
+  "SEE_A_DOCTOR_Q1_A1": "Mě",
+  "SEE_A_DOCTOR_Q1_A2": "Moje dítě",
+  "SEE_A_DOCTOR_Q2": "Popište, s čím byste chtěli mluvit s lékařem",
+  "SEE_A_DOCTOR_Q3": "Symptomy?",
+  "SEE_A_DOCTOR_Q4": "Chcete připojit fotografii nebo dokument?",
+  "SEE_A_DOCTOR_Q4_ERROR": "Chyba: Soubory nesmí překročit 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Vyberte soubor",
+  "SEE_A_DOCTOR_Q4_S2": "Vyfoť",
+  "SEE_A_DOCTOR_Q5": "V současné době užíváte jakoukoli lék? Pokud ano, uveďte název",
+  "SEE_A_DOCTOR_Q5_CHILD": "Užívá vaše dítě nějaké léky? pokud ano, prosím uveďte jméno",
+  "SEE_A_DOCTOR_Q5_S1": "Název:",
+  "SEE_A_DOCTOR_Q5_S2": "Dávkování:",
+  "SEE_A_DOCTOR_Q6": "Máte nějaké alergie?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Má vaše dítě alergie? pokud ano, prosím uveďte jméno",
+  "SEE_A_DOCTOR_Q7": "Máte nějaké zdravotní potíže?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Má vaše dítě nějaké zdravotní potíže? pokud ano, prosím uveďte jméno",
+  "SEE_A_DOCTOR_Q8": "Opravňujete lékaře, abyste si prohlédli svůj online zdravotní soubor?",
+  "SEE_A_DOCTOR_Q9": "Preferovaná lékárna",
+  "SEE_A_DOCTOR_TITLE": "Podívejte se na doktora",
+  "SEE_A_PROVIDER": "Podívejte se na poskytovatele",
+  "segment": "Segment",
+  "selectAFile": "Klepnutím na tlačítko níže vyberte soubor",
+  "selectaprovider": "Vyberte poskytovatele",
+  "selectcarderror": "Vyberte kartu",
+  "selectdoctor": "Spravujte program",
+  "selectdoctor1": "Vyberte lékaře",
+  "selectdrug": "Zvolte léčbu",
+  "selectedContact": "Prostředky kontaktu",
+  "selectinitiative": "Vyberte jednu nebo více iniciativ ...",
+  "selectnutritionist": "Vyberte si svého odborníka na výživu",
+  "selectpatient": "vybraný pacient",
+  "select_country": "Vyberte zemi",
+  "select_device": "Vyberte zařízení",
+  "select_file": "Zvolte soubor",
+  "select_file_btn": "Vyberte soubor",
+  "select_patient": "Kliknutím na řádek zobrazíte podrobnosti",
+  "send": "Poslat",
+  "sendmessage": "Poslat zprávu",
+  "sendtoken": "Pošlete to lékaři, aby mu umožnil přístup k vašemu lékařskému souboru. Platnost tohoto odkazu vyprší za 10 minut",
+  "SEND_BTN": "Poslat",
+  "send_doctor_request": "Odeslat požadavek",
+  "sentmessage": "Odeslané zprávy",
+  "SERVICE_TYPE": "Typ služby",
+  "sessantad": "Posledních 60 dní",
+  "SESSION_EXPIRED": "Vaše relace vypršela. Prosím, přihlaste se znovu",
+  "setAlarm": "Nastavit alarmy",
+  "settd": "Posledních 7 dní",
+  "settings_saved": "Nastavení byla úspěšně uložena",
+  "setTreshold": "Nastavte rozsah",
+  "SET_BTN": "Soubor",
+  "SET_USER_EMAIL": "Zadejte buď uživatelské jméno nebo e-mail",
+  "set_vital_signs": "Nastavte živé znamení",
+  "sevendays": "7 dní",
+  "showalldata": "Zobrazit všechny údaje",
+  "showOnEmergency": "Show On Emergency",
+  "signature": "Váš podpis (používaný pro předpis)",
+  "signature_word": "Podpis",
+  "SIGNUP_BTN": "Přihlásit se",
+  "sii": "Index pojištění",
+  "sii_desc": "SII je kombinací všech indexů SaluberMD a je zrcadlem vašeho všeobecného zdravotního rizika. Pokud jste pod 30, ocitnete se v bezpečné zóně!",
+  "sii_title": "SII",
+  "since": "Protože",
+  "single": "Jeden den",
+  "singleAccess": "Jeden přístup",
+  "sitreminder": "Sedněte si připomenutí",
+  "sit_period": "Doba",
+  "skip": "Přeskočit",
+  "skip_pull": "Ignorovat",
+  "skip_step": "Přeskočit",
+  "sl": "Stresová úroveň",
+  "SLEEP": "Spát",
+  "slotime": "Délka slotu (min)",
+  "sl_alta": "větší než 85 bpm",
+  "sl_bassa": "nižší než 65",
+  "sl_desc": "Stresová hladina se vypočte na základě rychlosti za minutu",
+  "sl_normale": "mezi 65 a 85 bpm",
+  "smoker": "Kuřák",
+  "snacks": "Občerstvení",
+  "SOMETIMES": "Někdy",
+  "SONNO": "Spát",
+  "SOP_Q4": "Připojte lékařskou zprávu",
+  "sos": "SOS",
+  "so_specialization": "Specialita",
+  "specialists": "Specialisté",
+  "specialization": "Vyberte si specializaci",
+  "SPECIALTY": "Specialita",
+  "specifyother": "Uveďte prosím další",
+  "specifyvalue": "Uveďte prosím hodnotu",
+  "spirometer": "Spirometrie",
+  "spo2_desc": "SpO2 nebo hladina kyslíku v krvi je měřítkem toho, kolik kyslíku vaše červené krvinky nesou. Normální hodnoty jsou mezi 95% a 100%. Nižší hladina kyslíku v krvi se nazývá hypoxemie",
+  "sri": "Respirační index",
+  "sri_desc": "Analyzujeme vaše dechové vzory během jakéhokoliv zdravotního pobytu a během spánku. Pokud je SRI nižší než 30, vaše šance na obstrukční respirační onemocnění jsou nízké.",
+  "sri_title": "SRI",
+  "ssi": "Stresový index",
+  "ssi_desc": "Analýzou variability srdeční frekvence kvantifikujeme úroveň stresu. Zdá se, že stres zhoršuje nebo zvyšuje riziko onemocnění, jako je obezita, srdeční onemocnění, Alzheimerova choroba, diabetes, deprese, gastrointestinální problémy a astma. Uchovávejte pod 20, abyste byli na bezpečném místě!",
+  "ssi_title": "SSI",
+  "start": "Start",
+  "startcall": "Spusťte hovor",
+  "startdate": "Z",
+  "starthour": "Doba spuštění",
+  "startmeasure": "Nyní můžete měření spustit stisknutím levého tlačítka na zařízení",
+  "startnow": "Začněte hned",
+  "startRecording": "Stisknutím tlačítka start zahájíte hlasový zvuk",
+  "startyping": "Začněte psát název",
+  "start_blowing": "Začněte foukat",
+  "start_test": "Začněte test",
+  "start_time": "Doba spuštění",
+  "state": "Stát",
+  "state1": "Stát",
+  "STATES_LICENSE": "Státy s licencí",
+  "state_problem": "Prosím, uveďte svůj problém",
+  "status": "Postavení",
+  "step": "Krok",
+  "STEPS_GOAL": "Cíle kroků",
+  "stoolTest": "Test stolice",
+  "stop": "Stop",
+  "stop_test": "Zastavte test",
+  "stress": "Stres",
+  "stroke_vol": "Hlasitost zdvihu",
+  "stroke_volume": "Hlasitost zdvihu",
+  "stroke_volume_desc": "Objem mrtvice je objem krve vytlačené každou komorou na tloušťku",
+  "struttura": "Struktura",
+  "strutture": "Struktury",
+  "subject": "Předmět",
+  "subject_so": "Předmět",
+  "submissionDate": "Datum podání",
+  "success": "Úspěch",
+  "SUCCESS_TITLE_NOTIFICATION": "Úspěch",
+  "SUMMARY": "Diagnóza",
+  "summary1": "souhrn",
+  "SUNDAY": "Neděle",
+  "surgery": "Chirurgie",
+  "surgeryAndHospitalization": "Historie hospitalizace a chirurgických zákroků",
+  "surgeryCategory": "Kategorie chirurgie",
+  "surname": "Příjmení",
+  "sv_alta": "větší než 100",
+  "sv_bassa": "nižší než 55 ml",
+  "sv_normale": "mezi 55 a 100 ml",
+  "switchsearch": "Přepnout na vyhledávání",
+  "symptoms": "Symptomy",
+  "SYMPTOMS_BTN": "Problémy",
+  "sync": "Synchronizace",
+  "SYNC_TIME": "Doba synchronizace",
+  "sysdia": "Tlak",
+  "systolic": "Systolický",
+  "TAKE": "Vzít",
+  "takeAppointment": "Udělejte schůzku",
+  "TAKE_APP": "Plánování schůzky",
+  "TAKE_A_PHOTO": "Vyfoť",
+  "tall": "Jak jsi vysoký",
+  "tapconnect": "Klepnutím se připojte",
+  "tapdisconnect": "Klepnutím se odpojíte",
+  "tap_to_expand": "Klepnutím rozbalte",
+  "telNameMandatory": "Zadejte prosím název",
+  "telNumberMandatory": "Zadejte prosím telefonní číslo",
+  "temper": "Zmírnit",
+  "temperDescription": "Emocionální opatření, které pokrývá celou řadu nálad. Nízká nálada popisuje depresivní a ponuré nálady. Středně temperamentní nálada popisuje přátelské, teplé a objímavé nálady. Hodnoty vysoké teploty popisují konfrontační, dominantní a agresivní nálady.",
+  "tendays": "Poslední 10",
+  "ten_min": "Za 10 minut",
+  "terminata": "Volání úspěšné",
+  "TERMS_TITLE": "Podmínky použití",
+  "test": "Test",
+  "testmichele": "Test michele",
+  "testresult": "Výsledek testů",
+  "testresults": "Výsledky testů",
+  "tests": "test",
+  "text": "Text",
+  "thiscC": "Tato kreditní karta bude použita k platbě za službu",
+  "THURSDAY": "Čtvrtek",
+  "thyroidTest": "Testy funkce štítné žlázy",
+  "tickets": "Vstupenky",
+  "TICKET_HISTORY": "Historie vstupenek",
+  "TICKET_NUMBER": "Číslo lístku",
+  "ticket_subject": "Předmět požadavku",
+  "timecallerr": "Omlouváme se, ale zatím nemůžete volat",
+  "timecallerr1": "Promiňte, zavoláte, protože jste mimo plánovaný čas",
+  "TIMELINE": "Moje časové osy",
+  "times": "Kolikrát denně?",
+  "timesaday": "Časy za den",
+  "tipopratica": "Typ cvičení",
+  "tipo_struttura": "Typ konstrukce",
+  "tipshealt0": "Tipy pro zdraví",
+  "tipshealt1": "Chřipka - Mám se očkovat proti chřipce?",
+  "tipshealt10": "Klikněte zde pro více informací",
+  "tipshealt11": "Výhody léčby statiny, snížení hladin cholesterolu, převažují nad riziky",
+  "tipshealt12": "V nedávném recenzovaném článku v Lancetu vědci dospěli k závěru, že přínosy snížení LDL cholesterolu a léčby statinem pravděpodobně zabrání velkým cévním příhodám (srdeční záchvaty, mrtvice) a převáží rizika léků.",
+  "tipshealt13": "Podle výzkumníků jsou jedinými závažnými nežádoucími účinky, u kterých bylo prokázáno, že jsou způsobeny dlouhodobou léčbou statiny, myopatie (definovaná jako bolest nebo slabost svalů), nově vznikající diabetes mellitus a pravděpodobně hemoragická mrtvice.",
+  "tipshealt2": "Ačkoli vakcína proti chřipce ne vždy poskytuje úplnou ochranu, stojí za to dostat. CDC (Centra pro kontrolu a prevenci onemocnění) doporučuje roční očkování proti chřipce pro všechny osoby ve věku 6 měsíců nebo starší. Očkování je zvláště důležité pro osoby s vysokým rizikem komplikací chřipky, včetně",
+  "tipshealt3": "Těhotná žena",
+  "tipshealt4": "Starší dospělí (50 let a starší)",
+  "tipshealt5": "Malé děti (do 4 let a starší 6 měsíců)",
+  "tipshealt6": "Fyzická aktivita zlepšuje paměť a myšlení",
+  "tipshealt7": "Pravidelná fyzická aktivita může zlepšit funkci mozku po celou dobu života a snížit riziko demence.",
+  "tipshealt8": "Byla publikována řada studií o úzké interakci a výhodách pravidelné fyzické aktivity a zlepšené kognitivní funkce.",
+  "tipshealt9": "Vliv je přímo na mozek a nepřímo prostřednictvím metabolických a fyzických akcí na těle.",
+  "title": "Titul",
+  "to": "na",
+  "todayAppointment": "Dnešní jmenování",
+  "tooltip1": "Zadejte jméno lékaře, který chcete program spravovat",
+  "totale": "Celkový",
+  "totalSleepTime": "Celková doba spánku",
+  "total_cholesterol_desc": "Tato hodnota je odhadem veškerého cholesterolu v krvi",
+  "TOTAL_SLEEP_TIME": "Celkový čas spánku",
+  "tot_non_risposte": "Nevolat hovor",
+  "tot_ricevute": "Přijatý hovor",
+  "tot_visite": "Návštěvy byly dokončeny",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Převod",
+  "trenta": "Poslední 30 měření",
+  "trentad": "Za posledních 30 dní",
+  "triglycerides": "Triglyceridy",
+  "trig_cholesterol_desc": "Triglyceridy jsou druh tuku (lipidů), který se nachází v krvi. Následující tabulka ukazuje rozsah hodnot.",
+  "TUESDAY": "úterý",
+  "tutte": "Všechna měření",
+  "type": "druh",
+  "TZONE": "Časové pásmo",
+  "underweight": "Podváha",
+  "unit": "Jednotka",
+  "UNIT_SETTING": "Nastavení jednotky",
+  "uom": "Měrná jednotka",
+  "upcomingAppointmentPatient": "Nadcházející schůzky",
+  "UPDATE": "Aktualizace",
+  "updatelist": "Aktualizovat seznam",
+  "update_app_message": "Je třeba aktualizovat aplikaci",
+  "UPDATE_AVAILABLE": "Aktualizace k dispozici",
+  "UPDATE_BTN": "Aktualizovat",
+  "update_completed": "Aktualizace firmwaru byla úspěšně aktualizována",
+  "update_firmware_download_error": "Při stahování firmwaru došlo k chybě",
+  "update_list": "Aktualizace",
+  "UPLOAD_ERROR": "Chyba: Soubory nesmí překročit 5 MB",
+  "upload_referral": "Nahrajte své doporučení do pole níže.",
+  "urinTest": "Močové testy",
+  "user": "Uživatel",
+  "userdata": "Uživatelská data",
+  "usermanagement": "Správa uživatelů",
+  "USERNAME": "Uživatelské jméno",
+  "username1": "Uživatelské jméno",
+  "utente_aggiunto": "Uživatel úspěšně přidán",
+  "utente_rimosso": "Uživatel byl úspěšně smazán",
+  "utente_salvato": "Uživatel byl úspěšně aktualizován",
+  "vaccinobbligatorio": "Prosím, vyberte imunizaci",
+  "vaioffline": "Přejít do režimu offline",
+  "vaionline": "Přejít do režimu online",
+  "valence": "Mocenství",
+  "valenceDescription": "Proměnná od negativity po pozitivitu. Při poslechu osobního rozhovoru je možné pochopit, jak se cítí &quot;pozitivní&quot; nebo &quot;negativní&quot;, pokud jde o diskutovaný předmět, předmět nebo událost.",
+  "value": "Hodnota",
+  "vascular_age": "Cévní věk",
+  "vascular_age1": "Cévní věk",
+  "va_desc": "Vaskulární věk vám poskytuje míru zjevného věku vašich tepen, ve srovnání se zdravými lidmi. Pokud je váš cévní věk vyšší než váš chronologický věk, můžete mít vyšší riziko vzniku kardiovaskulárních onemocnění (CVD) později v životě.",
+  "videocall": "Videokal",
+  "VIDEOCALL_DES1": "Stisknutím tlačítka níže změníte stav a přijmete nebo neobdržíte oznámení. Nezapomeňte, že oznámení můžete dostávat pouze v případě, že jste online.",
+  "VIDEOCALL_DES2": "Po přijetí hovoru klikněte na obdélník, který se bude zdát, že přijme hovor.",
+  "videocall_filter": "Filtrujte podle názvu nebo speciality",
+  "videocall_request": "Nový požadavek na videohovor od uživatele",
+  "videocall_request_title": "Žádost o videohovor",
+  "videocall_req_from": "Žádost o videohovor z:",
+  "videodermatoscopy": "Videodermatoskopie",
+  "VIDEO_ANSWER": "Klepnutím aktivujte video",
+  "VIDEO_CALL_BTN": "Videohovor",
+  "VIDEO_CALL_BTN_1": "Video",
+  "view": "Zobrazit",
+  "viewmedicalfile": "Zobrazit lékařský soubor",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Vytvořte svou virtuální kancelář",
+  "VIRTUAL_OFFICE_TITLE": "Virtuální kancelář",
+  "visitdetail": "Klepnutím na každou položku zobrazíte celou historii pacienta",
+  "visithistory": "Navštivte historii",
+  "visitlist": "Seznam návštěv",
+  "VISIT_HISTORY_NO_HISTORY": "Zatím nemáte žádné návštěvy",
+  "VISIT_HISTORY_SUBTITLE": "Klepnutím na každou položku zobrazíte úplné podrobnosti",
+  "VISIT_HISTORY_TITLE": "Navštivte historii",
+  "volte": "Times",
+  "waiting": "Zpracovává se...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Teplo",
+  "WARNING_TITLE_NOTIFICATION": "Pozor",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Zdravotní údaje",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Wellness Data",
+  "WATCH_DEVICE_DATA_TITLE": "Vaše data sledovacího zařízení",
+  "water": "Voda",
+  "weanedoff": "Rok ukončení",
+  "WEDNESDAY": "středa",
+  "week": "Týden",
+  "weight": "Hmotnost",
+  "weightUnit": "Jednotka hmotnosti",
+  "welcome": "Vítejte",
+  "wellness": "Wellness",
+  "wellnessdata": "Wellness Data",
+  "wellnessSuccess": "Úspěch",
+  "WHITE_SPACES": "Uživatelské jméno nesmí obsahovat bílé mezeru",
+  "WRIST_CUT_SCREEN": "Otočte obrazovku prořezávání zápěstí",
+  "writtenRep": "Psaná zpráva",
+  "W_RESPIRATORY_RATE": "Dech",
+  "xray": "X-Ray",
+  "Y": "Ano",
+  "year": "Rok",
+  "years": "roky",
+  "yes": "Ano",
+  "yourarousal": "Vaše vzrušení",
+  "youremotion": "Vaše emoce",
+  "yourmood": "Tvoje nálada",
+  "yourtemper": "Váš temperament",
+  "yourvalence": "Vaše valence",
+  "your_sai": "Váš index aktivity je:",
+  "your_sbpi": "Váš index krevního tlaku je:",
+  "your_sci": "Index srdce je:",
+  "your_sii": "Váš index pojištění je",
+  "your_sri": "Váš respirační index je:",
+  "your_ssi": "Váš stresový index je:",
+  "your_stress": "Vaše úroveň stresu je:",
+  "your_va": "Váš vaskulární věk je:",
+  "zero_min": "Nyní",
+  "zipCode": "PSČ",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

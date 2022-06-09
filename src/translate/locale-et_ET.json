@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Meist",
+  "ABOUT_US_CONDITION_1": "Külm ja gripp",
+  "ABOUT_US_CONDITION_2": "Nahatingimused",
+  "ABOUT_US_CONDITION_3": "Allergia",
+  "ABOUT_US_CONDITION_4": "Käre kurk",
+  "ABOUT_US_CONDITION_5": "Kõhuvalu",
+  "ABOUT_US_DOCTOR_BENEFIT1": "KASVU TULU:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Näete kuni kuus patsienti tunnis (virtuaalne külastus kestab tavaliselt umbes 10 minutit);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "KASUTADA PATSIENTIDE HOOLDUS TEIE MAAILMAS:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Suurendage patsiendi suhteid võimega ravida praeguseid ja uusi patsiente kõikjalt maailmast;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "TASUTA VIRTUAALPRAKTIKA:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Kasvake oma praegust tava ja pakkige patsientidele rohkem võimalusi;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "KASUTATAVAD PATSIENTIDE VÄLJAD:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Patsiendid võivad saata teile dokumente, fotosid, laboratoorseid tulemusi, ilma et peaksite kodust lahkuma ja saate jälgida oma patsiendi tervist eemalt;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Määrake, kes vajab kohe käte hooldamiseks ja kes saavad kaugetest ilma kodust lahkumata;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "KASVU TULU:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "Painduvad tundid:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Võime seada oma tunde ja seada oma ajakava.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Liitu liikumisega usaldusväärse ja taskukohase tervishoiuteenuse kättesaadavuse tagamiseks 15 minuti jooksul või vähem.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD eesmärk on pöörduda arsti ja patsiendi suhete poole, luues kogu maailmas tervishoiuteenuste 24/7 juurdepääsu.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Arsti eelised",
+  "ABOUT_US_DOCTOR_TITLE": "Meist",
+  "about_us_section1_p1": "SaluberMD on digitaalne tervise platvorm, mis võimaldab teil oma tervist kontrollida KUI ja kõikjal. Meie rakendus pakub mugavat, aja säästvat ja taskukohast 24/7 juurdepääsu juhatuse sertifitseeritud arstidele kõikjalt maailmast. SaluberMD pakub ka selliseid tööriistu nagu Personal Medical Record, EKG Watch ja Family seadet, mis kõik kasutavad rakendust, et pakkuda teile terviklikku terviklikku lahendust. Meie seadmeid saab kasutada individuaalselt või kombineeritult tervislikumaks ja tervislikumaks tervislikumaks lähenemiseks.",
+  "ABOUT_US_SECTION1_TITLE": "Meist",
+  "ABOUT_US_SECTION2_P1": "Geo-lokaliseerimise abil leiab teie rakendus teie läheduses parimad arstid. SaluberMD arstid saavad video abil diagnoosida, ravida või arutada oma tervislikku seisundit ja pakkuda teile asjakohast ravi kava. Arsti kabinetis ravitavaid kõige sagedasemaid seisundeid saab ravida videokülastusega. <br/> Mõned tingimused, mida me kohtleme:",
+  "ABOUT_US_SECTION2_P2": "SaluberMD-s esitame teile terviseandmete, piltide ja failide salvestamiseks isikliku meditsiinilise kirje. Jälgige oma tervist 24/7 pääsuga kõigile oma tervisekaartidele. Ükskõik, kas olete kodus või välismaal reisides, on teie teave teie käeulatuses tervishoiuspetsialistiga jagamiseks. Lihtsalt kasutatav isiklik meditsiiniline dokument on saadaval 20 keeles.",
+  "ABOUT_US_SECTION2_TITLE": "Kuidas see töötab?",
+  "ABOUT_US_SECTION3_P1": "SaluberMD-d pakuvad meditsiinilist abi ainult tipptasemel sertifitseeritud arstid. Need spetsialistid on kontrollitud, laialdaselt läbi vaadatud ja koolitatud, et pakkuda parima kvaliteediga hooldust. Igal arstil on bio, kus saate vaadata tausta, mandaate ja kogemusi. SaluberMD on pühendunud meie arstide pidevale kvaliteedijuhtimisele. Hindamissüsteem võimaldab patsientidel hinnata arste ja vaadata arstide üldist hinnangut.",
+  "ABOUT_US_SECTION3_TITLE": "Meie arstid",
+  "ABOUT_US_TITLE": "Meist",
+  "above_warning": "Ülaltoodud väärtused on ohus",
+  "accept": "Nõus",
+  "acceptablerange": "Lubatud vahemik",
+  "ACCEPT_BTN": "Nõus",
+  "acquire": "Hankige andmed",
+  "acronym": "Lühend",
+  "action": "Meede",
+  "actions": "Meetmed",
+  "actionTaken": "Võetud tegevus",
+  "activity": "Tegevus",
+  "acutecare": "Äge hooldus",
+  "add": "Uus",
+  "addavailability": "Lisage oma kättesaadavus",
+  "addcomment": "Lisage siia teie kommentaar",
+  "adddescription": "Lisage siia oma kirjeldus",
+  "adddrugs": "Otsi uimasti, kasutades allolevat otsingukasti, ja märkige ruut selle retsepti lisamiseks",
+  "addedFavourite": "Teie lemmikute hulka on lisatud edukalt",
+  "addedFavourite2": "Teie lemmikute hulka on lisatud edukalt. vajutage selle kuvamiseks värskendusnuppu.",
+  "addedFavourite3": "Edukalt lisati  nTühjendamiseks värskenda",
+  "addFavourite": "Lisa lemmikutesse",
+  "ADDING_SLOT": "Teenindusaegade lisamine ... see võib võtta natuke aega.",
+  "addNew": "Lisa uus",
+  "addpharmacies": "Klõpsake nupul, et lisada oma lemmikute apteekid",
+  "addpharmacy": "Lisage apteek",
+  "addreminder": "Ravimi meeldetuletuse lisamiseks vajutage plussnuppu.",
+  "address": "Aadress",
+  "address2": "Saaja aadress",
+  "address3": "Teenuse aadress",
+  "addsintomi": "Sümptomid",
+  "addslot": "Lisage pesa",
+  "add_description_file": "Lisa kirjeldus (mitte kohustuslik)",
+  "add_new": "Lisama",
+  "affaticamento_grave": "Raske väsimus",
+  "affaticamento_minore": "Väike väsimus",
+  "agenda": "Minu päevakord",
+  "agenda_report": "Teatage kohtumistest",
+  "aggiungi": "Loo",
+  "AGREE_BTN": "Ma nõustun",
+  "alcoholDesc": "Eeldatakse alkoholi",
+  "all": "Kõik",
+  "alldata": "Kõik andmed",
+  "allergia": "Allergia",
+  "allergia_aggiunta": "Allergia on edukalt loodud",
+  "allergia_rimossa": "Patsiendi allergia on edukalt kustutatud",
+  "allergia_salvata": "Patsiendi allergia on edukalt uuendatud",
+  "allergie": "Allergia",
+  "allimages": "Kõik pildid",
+  "alreadyAddedF": "See apteek on juba teie lemmikutes",
+  "alreadyRegistred": "See e-posti aadress on süsteemis juba olemas. Kohtumise saamiseks logige rakendusse sisse.",
+  "alreadyTaken": "Ametissenimetamine on juba võetud",
+  "alta": "Kõrge",
+  "alto": "Kõrge",
+  "amonth": "30 päeva",
+  "anger": "Viha",
+  "annoinizio": "Aasta algas",
+  "antibiotics": "Antibiootikumid",
+  "an_error_occurred": "Vabandust! Praegu ei saa me teie taotlust ennustada. Proovige hiljem uuesti",
+  "appointment": "Ametisse nimetamine",
+  "appointmentlist": "Ametikohtade loend",
+  "appointments": "Ametisse nimetamine",
+  "appointmentsDescription": "Nimekirja ajakava kohtumisi",
+  "appointment_body_doc": "Uus kohtumine on kavandatud koos",
+  "appointment_calcelled_title": "Kohtumine tühistati",
+  "appointment_cancelled": "on tühistanud oma ametisse nimetamise",
+  "appointment_email_body": "Kinnitame teie vastuvõtu arstiga",
+  "appointment_history": "Kohtumise ajalugu",
+  "appointment_now": "Teie kohtumine algab kohe",
+  "appremainder": "Ametisse nimetamise ülejäänud osa",
+  "appremainder1": "Teil on videokõne kavandatud 5 minutiga",
+  "appremainder2": "Teil on videokõne 30 minutiga",
+  "appremainder3": "Teil on videokõne 120 minutiga",
+  "APPROX_DATA": "Muud terviseandmed",
+  "appuntamenti": "Ametisse nimetamine",
+  "appuntamenti_presi": "Planeeritud kohtumine",
+  "appuntamento_clinica": "Kliiniku nimetamise taotlemine",
+  "APPUNTAMENTO_CONGIUNTO": "Kas soovite broneerida videokõne?",
+  "app_description": "Lisage allolevasse lahtrisse oma kohtumise põhjused",
+  "app_details": "Ametisse nimetamise üksikasjad",
+  "app_missing": "Toetusrakendus pole installitud",
+  "ARIAX": "Hingamise kiirus",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Armastus",
+  "arousalDescription": "Muutuja, mis ulatub vaikusest või igavusest tähelepanuta ja põnevusse. See vastab sarnastele mõistetele nagu aktivatsiooni ja stimulatsiooni tase.",
+  "assign_specialist": "Määrake päringule spetsialist",
+  "associa": "Assotsieerunud",
+  "attachment": "Manus",
+  "ATTACH_A_PHOTO": "Lisage foto",
+  "BACKGROUND": "Taust",
+  "BACKGROUND_PLCHOLDER": "Palun sisesta lühike biograafia.",
+  "backhomeconfirm": "Kas olete kindel, et lähete tagasi koju?",
+  "BACK_BTN": "tagasi",
+  "BACK_LOGIN": "Tagasi sisselogimisele",
+  "bad_file": "Faili ei saa avada",
+  "basicinfo": "Põhiandmed",
+  "bassa": "Madal",
+  "basso": "madal",
+  "below_warning": "Allpool toodud väärtus on ohus",
+  "benefits": "Concierge&#39;i hüvitised",
+  "beyondverbal": "Emotsioonid juhivad kõike, mida me teeme, kuid hääle juhitud emotsioonide analüüsimine on tänapäeval kõige olulisem, uurimata liides. Beyond Verbal on pühendunud selle muutmisele.",
+  "beyondverbal_analyze": "Analüüsige oma meeleolu",
+  "beyondverbal_history": "Ajaloolised tulemused",
+  "beyondverbal_instruction": "Kui olete valmis küsimusele vastama, vajutage nuppu start",
+  "BIRTHDATE": "Sünnikuupäev",
+  "birthday": "Sünnipäev",
+  "blank_agenda": "Täna pole pesa",
+  "bloatedOrContipated": "Paisunud või kõhukinnisus",
+  "bluetooth_error": "Enne bluetoothi ​​lubamist jätkake",
+  "BOARD": "Juhatuse sertifitseeritud",
+  "bones": "Luud",
+  "bp": "Vererõhk",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Vererõhu väärtuste tabel",
+  "breakfast": "Hommikusöök",
+  "btnback": "tagasi",
+  "btndelete": "Kustutama",
+  "btndisabledoctor": "Keela arst",
+  "btndisablepatient": "Keela patsient",
+  "btnenabledoctor": "Luba arst",
+  "btnenablepatient": "Luba patsient",
+  "btnsave": "Salvesta",
+  "BTN_LOAD_MORE": "Lae rohkem",
+  "buttonsearch": "Otsing",
+  "bvFailed": "Teie hääle analüüsimine ebaõnnestus, peate rääkima rohkem!",
+  "bvInstruction": "Pidage 20 sekundit või rohkem räägi",
+  "bvInstruction2": "Lihtsalt räägi 20 sekundiga",
+  "ca": "Südame-veresoonkonna süsteem",
+  "call": "Helistama",
+  "callCancel": "Aegunud kõnet ei saa tühistada",
+  "calldoctor": "Helistage arstile",
+  "calling_number": "Helistamisnumber",
+  "callthedoctor": "Helistage arstile",
+  "calltransfer": "Kõne edastamine ...",
+  "CALL_ALREADY_TAKEN": "Kõne juba tehtud",
+  "CALL_DOCTOR_INFO": "Doctor Info",
+  "CALL_DURATION": "Kõne kestus",
+  "call_instruction": "Me saadame teile teate niipea, kui saate arstile helistada. Klõpsa teate niipea, kui saate selle videolõigu käivitamiseks. Kui olete teateid kustutanud, saate selle minu terviseprofiili teavitusosas.",
+  "CALL_NOTIFICATIONS": "Telefonikõned",
+  "CALL_NO_INCOMING": "Sissetulevaid kõnesid pole",
+  "CALL_TRANSFER_INFO": "Kõne edastamise info",
+  "CALL_WAITING": "Oota, me otsime arsti",
+  "CALL_WAITING_2": "Oodake, kuni arst teie faili vaatab",
+  "calories": "Kaloreid",
+  "cancel": "Tühista",
+  "cancelAppointment": "Tühista see kohtumine",
+  "CANCEL_BTN": "Tühista",
+  "CAP": "Postiindeks",
+  "cardiac_output": "Südame väljund",
+  "cardiac_output1": "Südame väljund",
+  "cardiac_output_desc": "Südame väljundväärtus on lihtsalt südame poolt minutis pumpatav vere kogus.",
+  "cardiovascular": "Kardiovaskulaarne",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "Kehtetu CVC",
+  "CARD_EXPIRY_DATE": "Aegumiskuupäev",
+  "CARD_MONTH_ERROR": "Kehtetu kuu",
+  "CARD_NUMBER": "Kaardi number",
+  "CARD_NUMBER_ERROR": "Kehtetu CC-number",
+  "CARD_YEAR_ERROR": "Kehtetu aasta",
+  "category": "Kategooria",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "Nõutav CCV",
+  "CERROR": "Kehv kontakt",
+  "certificate_attachment": "Selle juurde on lisatud teie arstitõend",
+  "certificate_email": "Manustatud on teie arstitõend",
+  "certificate_header": "Läbiviidud meditsiinilise hindamise põhjal öeldakse järgmist:",
+  "certificate_sent": "Sertifikaat on saadetud",
+  "certification_subject": "Teie arstlik tõend",
+  "cf": "Maksuseadustik",
+  "cf_error": "Palun täpsustage oma maksukood",
+  "changeschedule": "Muuda aega",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Teie parool on aegunud, palun muutke seda.",
+  "CHANGE_PWD_SECTION_TITLE": "Muuda salasõna",
+  "CHANGE_PWD_TITLE": "Teie parool aegub, seda muuta",
+  "checking_net_condition": "Interneti-ühenduse kontrollimine ...",
+  "CHECK_PARAMETERS_CORX": "Palun sisestage profiililemendi kaal ja kõrgus, et arvutada õiged tervise väärtused.",
+  "CHL_TOT": "Üldkolesterool",
+  "choosedate": "Valige kuupäev",
+  "chooseDateDescription": "Selle laiendamiseks klõpsake kuupäeva ja valige tund",
+  "chooseprofile": "Sa oled?",
+  "choosespeciality": "Valige meditsiinieriala",
+  "choosetransferdoctor": "Valige arst",
+  "CHOOSE_A_DOCTOR": "Valige oma arst",
+  "chosedoctor": "Palun vali arst",
+  "city": "Linn",
+  "city1": "Linn",
+  "city2": "Linn",
+  "clearsignature": "Selge allkiri",
+  "clickitem": "Kõigi üksikasjade vaatamiseks klikkige igal üksusel",
+  "clickrow": "Klõpsake realt, et valida",
+  "clickToOpen": "Klõpsake faili avamiseks",
+  "click_to_start_call": "Kõne alustamiseks klõpsake arstil",
+  "clinics": "Kliinikud",
+  "CLOCK_FORMAT": "Kelliformaat",
+  "closeappconfirm": "Kas soovite kindlasti rakenduse sulgeda?",
+  "CLOSE_BTN": "Sulge",
+  "cm": "cm",
+  "CODE": "Kood",
+  "code_not_valid": "Sisestatud kood ei kehti",
+  "code_verified": "Kood on edukalt kinnitatud!",
+  "coffeeDesc": "Kohv eeldatakse",
+  "COMMENT": "kommentaar",
+  "commenti": "Kommentaarid",
+  "COMPANY_NAME": "Ettevõte",
+  "COMPLAIN": "Kaebama, kurtma",
+  "COMPLETE_PROFILE": "Jätkamiseks täitke oma profiil enne",
+  "COMPLETE_PROFILE_TITLE": "Täitke oma profiil",
+  "complications": "Tüsistused",
+  "concernlist": "Palun loetlege oma peamine mure / probleem",
+  "CONFIRM": "Okei",
+  "confirm_app": "Kinnitage oma kohtumine",
+  "CONFIRM_EMAIL_TITLE": "Kinnita email",
+  "CONFIRM_PWD": "Kinnita salasõna",
+  "connect": "Vajutage seadme ühendamiseks nuppu Ühenda",
+  "connectbtn": "Ühenda",
+  "connectedto": "Ühendatud",
+  "connecting": "Ühendamine ... palun oodake",
+  "connection_progress": "Seadmega ühendamine ...",
+  "CONSULT": "Kaebama, kurtma",
+  "consult1": "Konsulteerige",
+  "consultation": "Konsulteerimine",
+  "consultationHistory": "Konsulteerimise ajalugu",
+  "contact": "Kontakt",
+  "CONTACT_US_BTN": "Võta meiega ühendust",
+  "CONTACT_US_SECTION_TITLE": "Palun võtke meiega ühendust, et saada lisateavet või abi.",
+  "CONTACT_US_TITLE": "Võta meiega ühendust",
+  "contatti": "Kontaktinfo",
+  "continue": "Jätka",
+  "copy_url": "Kopeeri URL",
+  "CORX": "EKG",
+  "corxDidFailEcg": "Viga EKG saamisel",
+  "corxDidFailWellness": "Terviseandmete kogumise viga",
+  "corxDidNoEcg": "EKG andmeid pole",
+  "corxDidNoWellness": "Puuduvad tervisealased andmed",
+  "CORX_DATA": "CorX andmed",
+  "corx_disconnected": "Corx katkestatud",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Palun täpsustage oma kaal ja kõrgus orederis, et õigesti arvutada elusparameetrid.",
+  "COUNTRY": "Riik",
+  "country1": "Riik",
+  "county": "Maakond",
+  "co_alta": "suurem kui 8 l / min",
+  "co_bassa": "väiksem kui 4 l / min",
+  "co_normale": "vahemikus 4 kuni 8 l / min",
+  "creditCard_selected": "Selle teenuse eest võetakse valitud kaardilt tasu",
+  "currency": "Valuuta",
+  "C_SPECIALTY": "Kohandatud eriala",
+  "dailyuse": "Igapäevane kasutamine",
+  "dashboardVideocall": "Armatuurlaud Videocall",
+  "dataerror": "Valitud kuupäev / kellaaeg on praeguse kuupäeva / kellaajast möödas",
+  "dataexists": "Kuupäev ja kellaaeg on juba valitud",
+  "datafetching": "Teie isikuandmete toomine ... palun oodake.",
+  "dataPrenotazione": "Broneeringu kuupäev",
+  "dataVaccinazione": "Immuniseerimise kuupäev",
+  "date": "Kuupäev",
+  "dateDiscovered": "Kuupäev avastatud",
+  "dateStart": "Algus kuupäev",
+  "datipersonali": "Isiklik info",
+  "datiScaricati": "Andmed edukalt alla laaditud",
+  "day": "Päev",
+  "deassociate_corx_alert": "Kas soovite Corxi eraldada?",
+  "decline": "Langema",
+  "DECLINE_BTN": "Langema",
+  "DEEP_SLEEP_TIME": "Sügav uni",
+  "defaultQuestion": "Vajuta start ja ütle meile, kuidas täna tunnete",
+  "delete": "Kustutama",
+  "deleteAlarm": "Kas kustutada see alarm?",
+  "deleteAppointment": "Kas soovite kohtumise tühistada?",
+  "deleteDescription": "See kustutatakse kohe.",
+  "deleteMessage": "Kas olete kindel, et soovite selle kustutada?",
+  "deleteMultipleDesctiption": "Kustutatava pesa arv:",
+  "deleteNumber": "Kas olete kindel, et soovite selle numbri kustutada?",
+  "deleteSlotDay": "Kustutab kogu vaba pesa sellel päeval",
+  "deleteSlotMonth": "Kustutab kõik vabad teenindusajad sel kuul",
+  "deleteSlotWeek": "Kustutab kogu vaba pesa sel nädalal",
+  "deletevalue_q": "Kas olete kindel, et soovite selle väärtuse kustutada?",
+  "DELETE_NOTIFICATION_MSG": "Kas soovite kustutada kõik varasemad teatised?",
+  "demo": "See demo, raha ei võeta.",
+  "dependencies": "Sõltuvad",
+  "description": "Kirjeldus",
+  "descriptionMandatory": "Palun täpsustage kirjeldus",
+  "deseaseCategory": "Haiguse kategooria",
+  "desirable": "Soovitav",
+  "dettagli": "Andmed",
+  "dettaglio_struttura": "Struktuuri üksikasjad",
+  "device": "Seade",
+  "devicefound": "Seade on leitud",
+  "devices": "Seadmed",
+  "devicetype": "Seadme tüüp",
+  "DEVICE_BLOOD_PRESSURE": "Vererõhk",
+  "DEVICE_CALORIES": "Põletatud kalorid",
+  "DEVICE_CARDIAC": "Südame monitooring",
+  "DEVICE_CHL": "Lipiidne profiil",
+  "DEVICE_DATA_SECTION_TITLE": "Teie meditsiiniseadme andmed",
+  "DEVICE_DATA_TITLE": "Seadme andmed",
+  "DEVICE_DATA_TITLE_1": "Meditsiiniseadmete andmed",
+  "DEVICE_EKG": "EKG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glükomeetriga",
+  "DEVICE_HEART_RATE": "Südamerütm",
+  "DEVICE_PEDOMETER": "Pedomeeter",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Hingamisteede sagedus",
+  "DEVICE_SPO2": "SpO2",
+  "DEVICE_TEMPERATURE": "Temperatuur",
+  "DIAGNOSIS": "Diagnoosimine",
+  "diastolic": "Diastoolne",
+  "dieci": "Viimased 10 mõõtmist",
+  "diet": "Dieet",
+  "digestion": "Seedimist puudutavad küsimused",
+  "dinner": "Õhtusöök",
+  "dipendenza": "Sõltuvus",
+  "disableAlarm": "Äratus on sisse lülitatud",
+  "disabled": "Keelatud",
+  "DISABLE_PANIC_BUTTON": "Luba paanika nupp",
+  "DISABLE_PUNIC_BUTTON": "Keela Punic nupp",
+  "disconnectall": "Määrake ühenduseta",
+  "disconnectbtn": "Katkesta ühendus",
+  "DISDICI": "Loobu",
+  "disease": "Krooniline haigus",
+  "diseasemanagement": "Haiguste juhtimine",
+  "diseases": "Haigused",
+  "disease_1": "Haigus",
+  "dissocia": "Disassociate",
+  "DISTANCE": "Kaugus",
+  "dm_section_description_1": "Siin saate oma faile lisada",
+  "DND": "Ära sega",
+  "DOCEMAIL": "Arsti e-post",
+  "DOCNAME": "Arsti nimi",
+  "DOCPHONE": "Arsti telefoninumber",
+  "DOCTOR": "Arst",
+  "doctor1": "Arst",
+  "doctorAtHome": "Arst kodus",
+  "doctorAtHomeQuestion1": "Ma tahan, et koduabi osutataks:",
+  "doctorAtHomeQuestion2": "Valige vajaminev koduabi",
+  "doctorAtHomeQuestion2Answer1": "Üldpraktika",
+  "doctorAtHomeQuestion2Answer2": "Lapsed",
+  "doctorAtHomeQuestion2Answer3": "Õde",
+  "doctorAtHomeQuestion3": "Määrake põhjus, miks soovite abi saada",
+  "doctorAtHomeQuestion4": "Esitage vorm, mis asub aadressil, millele soovite abi saada",
+  "doctorAtHomeRequestBtn": "Saatke päring",
+  "doctorAtHomeRequestSuccess": "Oleme saanud teie taotluse. Koduteenuse korraldamiseks võetakse ühendust 2 tundi",
+  "doctorAtHomeTitle": "Arst kodus",
+  "doctorbusy": "Arst on hõivatud teise kõnega",
+  "doctorbusy1": "Arst on hõivatud teise kõnega",
+  "doctorlist": "Arstide loend",
+  "doctormanagement": "Arstide juhtimine",
+  "doctoroffline": "Arst on võrguühenduseta, proovige uuesti",
+  "doctorupdate": "Arst",
+  "DOCTOR_PROFILE_OPT1": "Profiil",
+  "DOCTOR_PROFILE_OPT2": "Patsiendi külastuse ajalugu",
+  "DOCTOR_PROFILE_OPT3": "Soovitage kolleegi",
+  "DOCTOR_PROFILE_SECTION1": "Sinu profiil",
+  "DOCTOR_PROFILE_TITLE": "Profiil",
+  "doctor_request_sent": "Me oleme saatnud teie taotluse meie arstidele. Saad vastuse kahe minuti jooksul.",
+  "documents": "Dokumendid",
+  "DOCUMENT_BTN": "Dokumendid",
+  "doestake": "Kas olete võtnud",
+  "DONATION_TITLE": "Kinnita annetus",
+  "done": "Trackx andmed edukalt alla laaditud. Te leiate need wellness andmete jaotisest",
+  "doneAppointmentPatient": "Varasemad kohtumised",
+  "DONE_BTN": "Valmis",
+  "dontknow": "Ma ei mäleta",
+  "DORMIVEGLIA": "Unisus",
+  "dosage": "Annustamine",
+  "dosetake1": "Kas olete võtnud oma ravimeid?",
+  "dottore_rimosso": "Arsti staatus edukalt uuendatud",
+  "dottore_salvato": "Arst uuendati edukalt",
+  "download": "Lae alla",
+  "downloadaspdf": "Laadi alla PDF-failina",
+  "downloadecg": "EKG allalaadimine",
+  "DOWNLOADING_DEVICE_DATA": "Allalaadimine ...",
+  "downloadwellnessdata": "Terviseandmete allalaadimine ...",
+  "downloadWellnessResult": "meede lisatud",
+  "DOWNLOAD_CERTIFICATE": "Laadige alla sertifikaat",
+  "DOWNLOAD_ERROR_GENERIC": "Vabandust. Faili allalaadimise ajal ilmnes erros. Palun proovi hiljem uuesti.",
+  "DOWNLOAD_SO_REPORT": "Lae soovitus",
+  "DO_NOT_DISTURB": "Ära sega",
+  "drugsAtHome": "Narkootikumid kodus",
+  "drugsAtHomeQuestion1": "Kas soovite saada arsti poolt määratud ravimeid otse kodus?",
+  "drugsAtHomeRequestBtn": "Saatke päring",
+  "drugsAtHomeRequestSuccess": "Oleme saanud teie taotluse. Ravimid saadetakse 24 tunni jooksul",
+  "drugsAtHomeSection1": "Esitage vorm telefoninumbri ja aadressi all, kuhu soovite ravimeid vastu võtta.",
+  "drugsAtHomeTitle": "Narkootikumid kodus",
+  "drug_name": "Narkootikumide nimetus",
+  "duration": "Kestus",
+  "ecg": "EKG",
+  "ecgadded": "EKG lisati nimekirja edukalt",
+  "ECGBP": "EKG BP",
+  "ecgdata_header": "EKG andmed",
+  "ecgdetail": "EKG kujutise vaatamiseks klõpsake iga üksust",
+  "ECG_DELETE_Q": "Kas olete kindel, et soovite EKG kustutada?",
+  "ecg_not_found": "Ebaõige EKG-fail, proovige teist veateate.",
+  "ECG_REMOVED": "EKG on edukalt kustutatud",
+  "edit": "Muuda",
+  "EKG_SECTION_TITLE": "Elektrokardiogramm (EKG / EKG) Tulemused",
+  "EKG_TITLE": "EKG üleslaadimine",
+  "EMAIL": "E-post",
+  "email1": "E-post",
+  "email_do_not_match": "E-kirjad ei sobi",
+  "ematicTest": "Emaatilised testid",
+  "Emergency": "Näita hädaolukorras",
+  "emergency1": "Hädaolukord",
+  "emergencyLoginCode": "Hädaabi sisselogimise kood",
+  "emergency_numbers": "Hädaabinumbrid",
+  "emergency_number_description": "Lisage hädaolukorras helistamiseks vajalikud telefoninumbrid",
+  "emotionDescription": "Erinevate aluseliste emotsioonide kombinatsioon, mida väljendab kasutaja hääl analüüsitava hääleõiguse sektsioonis.",
+  "emotions": "Kombineeritud emotsioonid",
+  "emptypassword": "Palun täpsustage salasõna",
+  "EMPTY_ALLERGIES": "Klõpsa nupule, et lisada oma tervisekontrolli haigus",
+  "empty_dataset": "Andmeid pole",
+  "EMPTY_DEPENDENCIES": "Klõpsake nupul, et lisada sõltuvus teie tervisekontrollist",
+  "EMPTY_DISEASE": "Klõpsa nupule, et lisada oma tervisekontrolli haigus",
+  "EMPTY_DOCUMENTS": "Klõpsa nupule, et lisada arstile dokument",
+  "EMPTY_IMAGES": "Klõpsake nupul, et lisada oma tervisekontrolli pilt",
+  "EMPTY_IMMUNIZATION": "Klõpsake nupul, et lisada oma tervisekontrolli immuniseerimine",
+  "EMPTY_MEDICATION": "Klõpsa nupule, et lisada oma meditsiinilisele dokumendile ravim",
+  "empty_otp": "Kehtetu OTP-kood",
+  "EMPTY_PROSTHESIS": "Klõpsa nupule, et lisada oma meditsiinilisele dokumendile protees",
+  "EMPTY_TESTS": "Klõpsake nupul, et lisada oma tervisekontrolli test",
+  "enabled": "Lubatud",
+  "endate": "Et",
+  "endcall": "Lõpeta kõne",
+  "endDate": "Lõppkuupäev",
+  "endhour": "Lõpuaeg",
+  "end_time": "Lõpuaeg",
+  "END_VIDEOCALL_Q1": "Kas olete kindel, et soovite lõpetada konsultatsioonid ilma videokõne alustamata?",
+  "END_VISIT_BTN": "Lõpp külastus",
+  "error": "Viga",
+  "error_call_timeout": "Videokõne tegemise aeg on möödas. Videokõne tegemiseks korrake protsessi uuesti.",
+  "ERROR_EMAIL_DUPPLICATE": "Tundub, et see e-posti aadress on juba registreeritud. Proovige teist.",
+  "error_price": "Palun täpsustage tasu",
+  "ERROR_SPECIFY_DAYS": "Palun täpsustage vähemalt ühe nädala päev",
+  "ERROR_SPECIFY_HOUR": "Palun täpsustage aeg",
+  "ERROR_TITLE_NOTIFICATION": "Viga",
+  "ERROR_TRACKX": "Lülitage Trackx sisse",
+  "error_update": "Viga püsivara värskendamisel",
+  "ERROR_USERNAME_DUPPLICATE": "See kasutajanimi on juba tehtud, valige teine",
+  "ERROR_WHITELIST": "Kahjuks pole teie seade videokõne tegemiseks lubatud",
+  "esameobbligatorio": "Valige eksam",
+  "exam_name": "Eksami nimi",
+  "exercise": "Harjutus",
+  "exercisereminders": "Minu treeningu meeldetuletused",
+  "existentassoc": "Olemasolevad ühendused",
+  "existentrelation": "See seos on juba olemas",
+  "expandfordetails": "Laiendage lisateabe saamiseks",
+  "EXP_MONTH": "Aegumiskuu",
+  "EXP_MONTH_REQUIRED": "Nõutav aegumiskuu",
+  "EXP_YEAR": "Aegumise aasta",
+  "EXP_YEAR_REQUIRED": "Vajalik aegumisaasta",
+  "e_prescribing": "E-retseptid",
+  "F": "Naine",
+  "farmaci": "Ravimid",
+  "farmaco": "Ravimid",
+  "fat": "Rasva",
+  "FATIGUE_INDEX": "Väsimus",
+  "FATIGUE_INDEX_DESCRIPTION": "Töö, töö ja kogemused, mis on tingitud väsimusest. Liigne väsimus põhjustab lihtsalt õla lihase jäikus, peavalu, unetust, väsimust, lülisamba valu ja kergesti närvisüsteemi, sisesekretsiooni häireid, mille tagajärjeks on palju kroonilisi haigusi ja vaimset väsimust.",
+  "favoriteslist": "Minu lemmikute nimekiri",
+  "FAVORITES_NO": "Te pole veel oma lemmikute loendisse lisanud arste",
+  "FAVORITES_NO_PHARMACIES": "Te pole veel oma lemmikute nimekirja veel apteeki lisanud",
+  "FAVORITES_SECTION_SUBTITLE": "Kõigi üksikasjade vaatamiseks klikkige igal üksusel",
+  "FAVORITES_SECTION_TITLE": "Teie lemmik arstid",
+  "FAVORITES_TITLE": "Lemmikud",
+  "favourite_pharmacy": "Lemmik apteegid",
+  "FEE": "Halda tasusid",
+  "FEET": "jalad",
+  "female": "Naine",
+  "fileloaded": "Fail on laaditud",
+  "fileloaded1": "Laev edukalt üles laaditud",
+  "fileName": "Faili nimi",
+  "filenotfound": "Faili ei leitud",
+  "file_upload_instruction": "Üleslaadimise juhend",
+  "filldate": "Palun vali kuupäev",
+  "filldoctor": "Palun vali arst",
+  "fillpeciality": "Palun vali eriala",
+  "fillthebox": "Täitke kasti",
+  "fill_indication": "Palun täitke märkide välja",
+  "fill_indication_for": "Palun täpsustage märge",
+  "fill_quantity": "Palun täitke koguse väli",
+  "fill_quantity_for": "Palun täpsustage kogus",
+  "fill_your_doubt": "Palun esitage ülaltoodud kasti kirjeldus.",
+  "filter": "Filtreeri",
+  "finddoctor": "Leia arstid",
+  "findFarmacia": "Otsi apteeki",
+  "findpatient": "Leidke patsient",
+  "findspcialist": "Leia spetsialist",
+  "findStruttura": "Otsing struktuur",
+  "finduser": "Leia kasutaja",
+  "FIND_A_DOCTOR": "Leia arst",
+  "find_device": "Otsi seadet",
+  "FIND_THE_BRACELET": "Leia käevõru",
+  "fingerprint_btn": "Luba sõrmejälje sisselogimine",
+  "fingerprint_hint": "Kinnitage sõrmejälg jätkamiseks",
+  "fingerprint_hint2": "Kinnitage sõrmejälg jätkamiseks",
+  "fingerprint_question": "Kas soovite aktiveerida sõrmejälgi?",
+  "FIRMWARE_UPDATE": "Püsivara uuendamine",
+  "FIRMWARE_UPDATED": "Püsivara uuendatud",
+  "firstName": "Eesnimi",
+  "five_min": "5 minuti pärast",
+  "fixappointment": "Kas soovite selle kohtumise ajakava järgi planeerida?",
+  "forever": "Igavesti",
+  "forgotPassword": "Unustasid salasõna?",
+  "forgot_password": "Unustasid parooli?",
+  "forma": "Tüüp",
+  "formafarmaco": "Ravimi vorm",
+  "formatError": "Hind peab olema arvväärtus.",
+  "found_devices": "Leitud seadmed",
+  "FRIDAY": "Reede",
+  "GENDER": "Sugu",
+  "gender1": "Sugu",
+  "general": "Peasekretär",
+  "generalInfo": "Üldine teave",
+  "genericName": "Üldnimetus",
+  "GENERIC_ERROR": "OOps! Midagi läks valesti. Palun proovi hiljem uuesti",
+  "geneticTest": "Geneetiline test",
+  "geneticTestHeader2": "Geneetiliste testide abil saate rohkem teada oma tervise kohta ja teha õigeid asju, et hoida terve.",
+  "geneticTestHeader3": "Kuidas see töötab",
+  "geneticTestProduct": "Toiteväärtus",
+  "geneticTestRequestBtn": "Küsi testi",
+  "geneticTestRequestSuccess": "Teie tellimus on kinnitatud. Komplekti saate otse kodus",
+  "geneticTestSection1": "Kas soovite nüüd, kui teie süüa piisab teie keha ja ainevahetuse jaoks?",
+  "geneticTestSection2": "Kas soovite teada, kas tervislikum toit toidab teie keha krooniliste haiguste eest?",
+  "geneticTestSection3": "Toiteväärtuse test võimaldab teil teada seost DNA ja dieedi vahel.",
+  "geneticTestSection4": "Lisage siia oma telefoninumber ja aadress, mida soovite komplekti vastu võtta",
+  "geneticTestStep1": "1. Telli test",
+  "geneticTestStep1Subtitle": "Tehke oma tellimus rakendusega ja võtke komplekt otse kodus.",
+  "geneticTestStep2Subtitle": "Võtke proov ja saatke meile postiteenuse abil ümbrik, mille me teile anname.",
+  "geneticTestStep3": "3. Saage tulemused",
+  "geneticTestStep3Subtitle": "Mõne nädala pärast saate teate, et geneetilise testi tulemused on saadaval rakenduses.",
+  "geneticTestTitle": "Geneetiline test",
+  "GLUCOMETER": "Glükomeeter",
+  "glucosio": "Glükoos",
+  "HAND_BRIGHTEN": "Tõstke oma käsi heledamaks",
+  "happiness": "Õnn",
+  "HDL": "HDL-kolesterool",
+  "hdl_cholesterol_desc": "Suure tihedusega lipoproteiinide (HDL) kolesterooli tuntakse kui “head” kolesterooli. Järgmine tabel näitab väärtuste vahemikku.",
+  "healthtips": "Tervisetopsid",
+  "HEALTH_INDEX": "Tervis",
+  "HEALTH_INDEX_DESCRIPTION": "HRV tervise indeks on läbi keskmise südame löögisageduse HR ja südame löögisageduse varieeruvuse HRV ja muude parameetrite analüüsi, mis põhineb Holteri tulemuste reaalajas mõõtmisel, et analüüsida keha tervisenäitajaid, terviseindeksi suurenemist, kehas tervist esindavat parem; tervise indeks vähenes keha nimel Vajadus pöörata tähelepanu igapäevasele tervislikule elule.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Süda",
+  "HEART_INDEX_DESCRIPTION": "Südame funktsioon Kasutajad mõõdavad inimese südamehaigust ja nende jõudlus on erinev, kuna nende erinevus on armastus südame ja üldise tervisliku seisundi suhtes. Tervisliku eluviisi ja toitumisharjumuste arendamiseks: mõistlik strateegia südame löögisageduse rakendamiseks südame kaltsiumi naatriumisisalduse täiendamiseks, et kaitsta veresooni, võib aktiivselt vältida südamehaiguste esinemist, on tugevdada südamefunktsiooni strateegiat.",
+  "height": "Kõrgus",
+  "height1": "BMI õigeks arvutamiseks on vajalik kõrgus",
+  "heightUnit": "Kõrguse ühik",
+  "hepaticFunction": "Maksafunktsioon",
+  "hide": "Peida",
+  "high1": "Kõrge",
+  "high_risk": "Kõrge riskiga",
+  "history": "Konsulteerimise ajalugu",
+  "homepage": "Kodu",
+  "HOME_WARNING_MESSAGE": "Kas olete kindel, et soovite sellest lehest eemale liikuda? Teie muudatus kaob.",
+  "hormonalTest": "Hormonaalse funktsiooni test",
+  "hospDate": "Hosp.date",
+  "hospit": "Hospitaliseeritud",
+  "hospital": "Haigla",
+  "hospitalization": "Hospitaliseerimine",
+  "hour": "Tund",
+  "hours": "Tunnid",
+  "HOURS_BANK_DONATE_BTN": "Annetada",
+  "HOURS_BANK_DONATION": "Tundid on praegu annetatud:",
+  "HOURS_BANK_H": "Tundide pank:",
+  "HOURS_BANK_SECTION_P1": "Tervis on SaluberMD-i peamine prioriteet ja me tahame olla nii palju inimesi kui võimalik. Meie platvormi kaudu võimaldame neile, kellel on vajadus tervishoiuteenuste järele. Meie teavitustegevuse meeskond on pühendunud pakkuma tervishoiuteenuseid organisatsioonidele, üksikisikutele ja vajaduse korral peredele.",
+  "HOURS_BANK_SECTION_P2": "Lihtsalt klõpsake linkil, mitu tundi soovite annetada, ja lisame need meie pangale.",
+  "HOURS_BANK_SECTION_P3": "Me võtame teiega rakenduse kaudu ühendust, et tunnid lunastada ja kui olete saadaval, klõpsake lihtsalt patsientide nägemiseks nuppu Nõustun.",
+  "HOURS_BANK_SECTION_TITLE": "Liitu meiega tervishoiuteenuse kingituse andmisel!",
+  "HOURS_BANK_TITLE": "Tundi pank",
+  "howto": "Kuidas",
+  "howto1": "Olemasolevad teenindusajad on tähistatud rohelise palliga",
+  "howto2": "Valige lahtine roheline pall ja klõpsake seda, et laiendada ja valida aeg. Kui olete valmis, klõpsake pliiatsi sümbolil, et näha üksikasju ja võtta kohtumine",
+  "howToPrice": "Hind peab olema arvväärtus. Lubatud on maksimaalselt kaks koma. Punkti või koma saab kasutada eraldajana",
+  "hrv_buono": "Hea",
+  "hrv_eccellente": "Suurepärane",
+  "hrv_generale": "Üldine",
+  "hr_alta": "Suurem kui 100",
+  "hr_bassa": "Alla 60",
+  "HR_DESCRIPTION": "Normaalse südame löögisageduse allika tabel",
+  "HR_INTERVAL": "HR Measure Interval",
+  "hr_normale": "60 kuni 100",
+  "hsh": "Hospitaliseerimine ja kirurgiajalugu",
+  "IBAN": "IBAN",
+  "idx": "Indeksid",
+  "image": "Pilt",
+  "images": "Pildid",
+  "immunization": "Immuniseerimine",
+  "immunizationmenu": "Immuniseerimine",
+  "importhealth": "Importige terviseandmeid",
+  "impossible_transfer": "Kõne suunamine võimatu",
+  "INCH": "Inch",
+  "indexes": "Indeksid",
+  "indication": "Näidustus",
+  "INFO_BTN": "Info",
+  "info_salvate": "Andmed edukalt salvestatud",
+  "iniezione": "Süstimine",
+  "initiative": "Algatus",
+  "initiativeerror": "Valige üks algatus",
+  "insert": "Sisesta",
+  "inserttext": "Sisesta siia tekst",
+  "insert_otp_code": "Sisestage kood siia",
+  "internet_missing": "Te pole internetiga ühendatud",
+  "invalidemail": "vale emaili aadress",
+  "invoice": "Arve",
+  "irregulartest": "Ebaregulaarne test",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Neerufunktsiooni testid",
+  "labtesting": "Võrk",
+  "LANGUAGE": "Keele",
+  "LANGUAGE_TYPE": "Keel",
+  "lastmeasure": "Viimane meede",
+  "lastName": "Perekonnanimi",
+  "lastPhysical": "Viimane füüsiline",
+  "lastSync": "Viimane sünkroonimine",
+  "lastTimeOnline": "Viimane aeg võrgus",
+  "lastvisit": "Viimane külastus",
+  "last_login_date": "Viimase sisselogimise kuupäev",
+  "last_time_taken": "Viimane kord tehtud",
+  "LDL": "LDL-kolesterool",
+  "ldl_cholesterol_desc": "LDL ehk madala tihedusega lipoproteiin on halb kolesterool. Järgmine tabel näitab väärtuste vahemikku",
+  "leggero": "Valgus",
+  "LICENSE_NUMBER": "Litsentsi number",
+  "LIGHT_SLEEP_TIME": "Kerge uni",
+  "listcall": "Videokõne tegemine on tehtud",
+  "litri": "Liter",
+  "liverExam": "Maksafunktsiooni test",
+  "LIVE_ECG": "Uus mõõtmine",
+  "live_ecg_downloading": "EKG allalaadimine. Palun oota...",
+  "loadEcgList": "EKG nimekirja laadimine ...",
+  "loading": "Andmete laadimine ...",
+  "loading1": "Laadimine ...",
+  "loading_list": "Nimekirja laadimine ...",
+  "loading_list_nutritionist": "Toitumisspetsialistide laadimine ...",
+  "LOAD_INDEX": "Koormus",
+  "LOAD_INDEX_DESCRIPTION": "Kraad ja väsimus, rõhk Koguindeksit kandev tervislik kaalutlus, mis peegeldab inimeste kehalisi ja psühholoogilisi aspekte, katab koormust. Väline sotsiaalne, elu ja konkurents ning muud tegurid, aga ka nende füüsiline seisund ja vaimne seisund.",
+  "LOAD_ITEMS": "Laadimine ...",
+  "LOGGING_IN": "Sisse logima...",
+  "LOGGING_OUT": "Väljalogimine ...",
+  "LOGIN_BTN": "Logi sisse",
+  "LOGIN_ERROR": "Vale kasutajanimi või parool",
+  "Logout": "Logi välja",
+  "logout1": "Logi välja",
+  "LOGOUT_BTN": "Logi välja",
+  "low1": "Madal",
+  "lunch": "Lõunasöök",
+  "lungtest": "Teeme kopsutesti",
+  "M": "Mees",
+  "male": "Mees",
+  "manageapp": "Halda kohtumisi",
+  "manageslot": "Hallake vaba pesa",
+  "MANAGE_CORX": "Halda Corxit",
+  "mandatoryDays": "Palun täpsustage päevade arv",
+  "mandatoryfield": "Palun täitke kõik kohustuslikud väljad",
+  "map": "Kaart",
+  "max_file_size": "Faili suurus peab olema väiksem kui",
+  "meals": "Söögikorrad",
+  "medicalconsultation": "Konsulteerimine",
+  "medicalfile": "Pildid",
+  "medicalform": "Meditsiinilised vormid",
+  "medicalforms": "Meditsiinilised vormid",
+  "medicalinfo": "Meditsiiniline info",
+  "medicalrecord": "Meditsiiniline kirje",
+  "medical_2option": "Meditsiiniline teine ​​arvamus",
+  "MEDICAL_CERTIFICATE": "Arstitõend",
+  "MEDICAL_FILE_BTN": "Meditsiiniline fail",
+  "medication": "Ravimid",
+  "medication_name": "Ravimi nimetus",
+  "medicinereminders": "Minu ravim meeldetuletusi",
+  "medio": "Keskmine",
+  "medium1": "Keskmine",
+  "message": "Sõnum",
+  "messagesent": "Sõnum edukalt saadetud",
+  "metabolismTest": "Ainevahetuse testid",
+  "method": "Meetod",
+  "METRIC": "Metric",
+  "middedcall2": "Teil on vastamata kõne",
+  "minutes": "minutit",
+  "missedcall": "SaluberMd Vastamata videokõnesid",
+  "missedcall1": "Vastamata kõne",
+  "missedNotiAlert": "Teil on mõni vastamata teade.",
+  "misurazioni": "Rekordid",
+  "misure": "Meede",
+  "mobile": "Mobiilne",
+  "mobile_required": "Lisage oma telefoninumber, et saaksime teiega kohtumise korraldamiseks ühendust võtta.",
+  "moderate_risk": "Mõõdukas risk",
+  "MONDAY": "Esmaspäev",
+  "month": "Kuu",
+  "mood": "Mood grupp",
+  "moodDescription": "Rääkija emotsionaalse seisundi põhinäitaja analüüsitava hääleõiguse sektsioonis. API toodab kokku 11 meeleolu gruppi, mis ulatuvad vihast, üksindusest ja enesekontrollist õnne ja põnevuseni.",
+  "moreDays": "Veel päeva",
+  "motivazione": "Põhjus",
+  "MRGraph": "Meditsiin võttis ajalugu",
+  "msgAppointment": "Kohtumine on edukalt planeeritud. Leiad oma kohtumise uksehoidja eeliste osas.",
+  "msgsurveysent": "Küsitlus saadeti edukalt",
+  "msg_call_reconnection": "Katse uuesti ühendada ...",
+  "MSG_CALL_TRANSFERED": "Videokõnesid on edukalt üle antud",
+  "MSG_CHOOSE_OPTION": "Palun vali valik",
+  "MSG_CHOOSE_OPTION4": "Valisite valiku",
+  "MSG_CHOOSE_OPTION5": "Kirjeldage oma hommikusööki",
+  "MSG_CHOOSE_OPTION6": "Kirjeldage oma õhtusööki",
+  "MSG_CHOOSE_OPTION7": "Kirjeldage oma lõunasööki",
+  "MSG_CHOOSE_OPTION8": "Kirjeldage oma nuhtleid",
+  "MSG_CHOOSE_OPTION9": "Palun vastake kõigile küsimustele",
+  "MSG_CHOOSE_OPTION_2": "Palun sisestage kirjeldus",
+  "MSG_CHOOSE_OPTION_3": "Valige vähemalt üks valik",
+  "MSG_COMPLETE_PROFILE": "Kas sa tahaksid minna nüüd?",
+  "MSG_CONFIRM_EMAIL": "Kinnitage oma e-kiri",
+  "MSG_CONFIRM_EMAIL_TEXT": "Me saatisime teile e-posti, millel on juhised e-posti aadressi kinnitamiseks. Palun kontrollige oma postkasti.",
+  "msg_connected": "Succesfully Connected",
+  "MSG_CONTACT_SUCCESS": "Täname teid esitamise eest.",
+  "MSG_DOC_ENDED_CALL": "Arst on kõne lõpetanud",
+  "MSG_DOC_WAITING_CALL": "Arst on lahti ühendatud ja ootab taasühendamist",
+  "MSG_DONATION": "Kinnitage annetust?",
+  "MSG_DONATION_CONFIRM": "Täname annetuse eest",
+  "MSG_ERROR_FILL_BOXES": "Palun täitke õiged väärtused",
+  "MSG_FILL_ALL_BOXES": "Palun täitke kõik kastid",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Palun täitke kõik järgmised väljad",
+  "MSG_FILL_BOXES": "Palun täitke lahtrid",
+  "MSG_FILL_BOXES_ALL": "Palun täitke kõik väljad",
+  "MSG_FILL_BOXES_PROFILE": "Palun täitke kõik tärniga tähistatud kastid",
+  "MSG_GENERIC_ERROR": "Kontrollige oma Interneti-ühendust ja proovige uuesti.",
+  "MSG_GENERIC_FORM_ERROR": "Vea parandamine enne jätkamist",
+  "MSG_LOGIN_ERROR": "Sisselogimine ebaõnnestus: kontrollige oma mandaate ja veenduge, et olete võrku ühendatud.",
+  "MSG_LOGIN_ERROR_LOCKED": "Sisselogimine ebaõnnestus: teie konto on ajutiselt lukustatud. Palun proovige hiljem uuesti.",
+  "MSG_MANDATORY_OPTION": "Sa pead andma arstile meditsiinilise faili vaatamiseks loa",
+  "MSG_NO_DOCTORS_FOUND": "Arstid ei leidnud, vajutage uuesti arsti leidmiseks arstile.",
+  "MSG_PATIENT_CANCELED_CALL": "Patsient on tühistanud kõne, naasnud koju",
+  "MSG_PATIENT_ENDED_CALL": "Patsient on kõne lõpetanud",
+  "MSG_PATIENT_WAITING_CALL": "Patsient on lahti ühendatud, oodates uuestiühendamist",
+  "MSG_POST_CALL_CANCEL": "Enne videokõne alustamist lõpetasite visiidi!",
+  "MSG_POST_CALL_DOCTOR": "Kokkuvõte saadeti koju tagasi.",
+  "MSG_POST_CALL_PATIENT": "Tänan teid SaluberMD kasutamise eest. Te saate järelkontrolli. Külastuste üksikasjade vaatamiseks ja arsti juhiste saamiseks külastage minu profiili külastuse ajalugu.",
+  "msg_reconnection_error": "Seade on lahutatud. Palun ühendage seade uuesti",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Tänan .... keegi võtab sinuga ühendust",
+  "MSG_REGISTRATION_SUCCESS": "Edukas registreerimine",
+  "msg_req_videocall1": "on saadaval videokõne jaoks",
+  "msg_req_videocall2": "Videokõne on alustamiseks valmis. Videokõne aktiveerimiseks klõpsake seda teadet",
+  "msg_req_videocall3": "on saadaval videokõne jaoks. Videokõne aktiveerimiseks klõpsake seda teadet",
+  "MSG_RESET_REQUEST_ERROR": "Seda kasutajanime või e-posti kasutajat pole olemas.",
+  "MSG_RESET_REQUEST_SUCCESS": "Sa saad varsti e-kirja, mis sisaldab parooli lähtestamiseks lingit.",
+  "MSG_RESUME_CALL": "Kas käib kõne, kas soovite seda jätkata?",
+  "MSG_SCHOOL_MISSING": "Lisa kool",
+  "MSG_SELECT_TIMEZONE": "Valige ajavöönd",
+  "MSG_SIGNATURE_MISSING": "Palun täitke oma allkiri, vastasel korral ei saa saata retsepte.",
+  "MSG_THANKING": "Täname teid esitamise eest.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Kaotas ühendus. See võib olla tingitud internetiühendusest",
+  "MSG_WELCOME_BACK": "Tere tulemast tagasi",
+  "MSG_YEAR_PRACTISE": "Lisage praktika aasta",
+  "muscles": "Lihased",
+  "myappointment": "Minu kohtumised",
+  "MYFILE_NOFILE": "Teil pole veel faile",
+  "MYFILE_SECTION": "Teie failid",
+  "MYFILE_SUBTITLE": "Kõigi failide vaatamiseks klõpsake faili sisu vaatamiseks",
+  "MYFILE_TITLE": "Minu failid",
+  "myprofile": "Minu profiil",
+  "myreminders": "Minu meeldetuletused",
+  "MY_TICKETS": "Teie piletid",
+  "M_SCHOOL": "Meditsiinikool",
+  "N": "Ei",
+  "name": "Nimi",
+  "negative": "Negatiivne",
+  "nervous": "Närviline",
+  "nessun_appuntamento": "Mingeid kohtumisi pole",
+  "NETWORK_CHECK_MSG": "Teie ribalaius on liiga madal. Väikese ribalaiusega sisu mängimine põhjustab video pausi.",
+  "NETWORK_CHECK_TITLE": "Kõne kvaliteedi test",
+  "NETWORK_ERROR": "Interneti-ühenduse viga. Proovige hiljem uuesti",
+  "neutral": "Neutraalne",
+  "newappointment": "Uus kohtumine alates",
+  "newass": "Lisage uus ühendus",
+  "NEWPWD_CONFIRM": "Parooli muutmine õnnestus. Palun logige uuesti sisse.",
+  "NEWPWD_CONFIRM2": "Parool muutus edukalt",
+  "NEWPWD_ERROR": "Uus parool ei sobi.",
+  "newtest": "Uue testi tegemiseks vajutage pluss-nuppu.",
+  "NEW_PWD": "Uus salasõna",
+  "new_ticket": "Uus pilet",
+  "NEXT": "Järgmine",
+  "no": "Ei",
+  "noAlarm": "Häire ei ole seatud",
+  "noallergies": "Praegu pole allergiat",
+  "noapatient": "Ükski patsient ei leitud",
+  "noappointment": "Planeeritud koosolekut ei toimu",
+  "noappointments": "Selle arstiga ei ole kuupäeva saadaval",
+  "noappointments1": "Selle toitumisspetsialisti kohta pole kuupäevad saadaval",
+  "noAppoPat": "Nimekirjas olevaid kohtumisi pole",
+  "noarticles": "Toitumisalaseid artikleid ei ole",
+  "noassociatedpatient": "Teil pole veel patsiendiga seotud",
+  "noattachment": "Palun valige manus",
+  "noattachment1": "Ükski manus",
+  "noavailableoption": "Ükski valik pole saadaval",
+  "nocomment": "Kommentaare / soovitusi pole",
+  "noconsulenze": "Külastusi pole tehtud",
+  "nocorxfound": "CORX pole leitud",
+  "nodata": "Andmeid pole",
+  "nodependency": "Praegu pole sõltuvust",
+  "nodesease": "Praegu puuduvad haigused",
+  "nodevice": "Seadet ei leitud, proovige uuesti",
+  "nodoctor": "Arstid ei leitud",
+  "nodoctors": "Arstid pole kättesaadavad",
+  "noDocuments": "Ühtegi dokumenti pole üles laaditud",
+  "nodrugselected": "Te pole mingit ravimit valinud",
+  "noecg": "EKG pole loetletud",
+  "noexam": "Kuvatavaid eksameid pole",
+  "nofiles": "Patsiendile pole üleslaaditud faile",
+  "noHistory": "Hetkel pole konsultatsioone",
+  "nohsh": "Hetkel pole haiglaravi",
+  "noimages": "Praegu ei ole manust",
+  "noimmunization": "Praegu ei ole immuniseerimisi",
+  "nolabtest": "Ei leitud ühtegi laboritesti",
+  "nomedication": "Hetkel pole ravimeid",
+  "nomisure": "Meedet pole",
+  "nonterminata": "Helistage ebaõnnestumiseks",
+  "nonutritionist": "No Nutritionist pole saadaval",
+  "nonuvoair": "Seadet ei leitud",
+  "nopharmacy": "Apteeke ei leitud",
+  "noprescription": "Praegu ei ole retsepte",
+  "noprothesis": "Hetkel pole proteesi",
+  "noreferrals": "Nimekirjas puuduvad viited",
+  "noreminders": "Praegu pole teile meeldetuletusi",
+  "noresults": "Tulemusi ei leitud",
+  "normale": "Tavaline",
+  "normalrange": "Normaalsusvahemik",
+  "normalWeight": "Normaalne kaal",
+  "nosintomi": "Sümptom pole valitud",
+  "nospecialist": "Spetsialistid puuduvad",
+  "note": "Märkused",
+  "notests": "Hetkel pole ebatäpsusi",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Meditsiinilise faili lõpetamiseks klõpsake siin",
+  "NOTIFICATIONS_SECTION": "Teie märguanded",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Saate 1 tasuta konsultatsiooni või tervisekontrolli kutse pärast tervisliku toimiku täielikku täitmist.",
+  "NOTIFICATIONS_SETTINGS": "Määra teatised",
+  "NOTIFICATIONS_TITLE": "Teated",
+  "notification_setting": "Valige, millist kategooriat soovite märguandeid saada",
+  "notimage": "Fail ei ole pilt: lubatud ainult BMP, GIF, JPG ja PNG",
+  "notNow": "Mitte praegu",
+  "notnow_btn": "Mitte praegu",
+  "nouser": "Kasutajat ei leitud",
+  "novantad": "Viimase 90 päeva jooksul",
+  "novideocall": "Videokõnet ei leitud",
+  "novisit": "Teil pole veel külastajaid",
+  "noWellnessData": "Uusi terviseandmeid pole",
+  "no_certificate": "Loendisse ei kuulu ühtegi sertifikaati",
+  "no_chiosc_data": "Vaadata pole laborikatset",
+  "NO_DATA": "Andmeid pole",
+  "no_doctor_answer1": "Hetkel pole arste saadaval.",
+  "no_doctor_answer2": "Kohtumise saate teha klõpsates allpool olevat nuppu.",
+  "NO_GENETIC_TEST_REQUESTS": "Te pole taotlenud ühtegi geenitesti",
+  "NO_MSG": "Saatmata sõnumeid pole",
+  "no_notifications": "Teil pole teatisi",
+  "no_prescription_download": "Sellele konsultatsioonile ei kuulu retsepti",
+  "no_pull_answer": "Ükski arst pole praegu saadaval.",
+  "no_referral_download": "Selle külastusega pole seotud viiteid",
+  "NO_SECOND_OP_REQUESTS": "Te ei soovi teist arvamusteenust",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Spetsialiseerumist ei leitud",
+  "NO_TICKETS_SENT": "Pileteid ei saadetud",
+  "NO_USER_FOUND": "Kasutajat või e-posti ei leitud",
+  "NPI": "NPI",
+  "ns": "Närvisüsteem",
+  "numberNotSaved": "Viga numbri salvestamisel",
+  "numberSaved": "Number Salvestatud edukalt",
+  "nuovoair_connected": "Ühendatud",
+  "nuovoair_disconnected": "Ühendatud",
+  "nutriPen": "Ootel päring",
+  "nutriRev": "Uuendatud küsimustik",
+  "nutrition": "toit",
+  "nutritionist": "Räägi toitumisspetsialistiga",
+  "NUTRITIONIST_Q1": "Peamised eesmärgid: (kontrollige kõiki rakendusi)",
+  "NUTRITIONIST_Q10": "Kas te olete märgatavalt ärritunud, kerge või nõrk, kui te pole söönud?",
+  "NUTRITIONIST_Q11": "Praeguse harjutuse režiim: (kardio, vastupanu jne)",
+  "NUTRITIONIST_Q12": "Kas suitsetate ?: (Kui jah, siis kui tihti ja kui palju?)",
+  "NUTRITIONIST_Q13": "Kas juua alkoholi ?: (Kui jah, siis kui tihti ja kui palju?)",
+  "NUTRITIONIST_Q14": "Kas juua kofeiini ?: (Kui jah, siis kui tihti ja kui palju?)",
+  "NUTRITIONIST_Q15": "Viimase füüsilise kuupäeva kuupäev:",
+  "NUTRITIONIST_Q16": "Mitu korda olete viimase 2 aasta jooksul teile määratud antibiootikume:",
+  "NUTRITIONIST_Q16_BIS": "Kui jah, siis millised ja kui tihti (palun, võimalikult täpselt).",
+  "NUTRITIONIST_Q17": "Kas te võtate ravimeid? (OTC või retsept?) Kui jah, siis millised ja kas te võtate toidulisandeid? Kui jah, siis kui tihti, (palun, võimalikult täpselt).",
+  "NUTRITIONIST_Q18": "Kas olete ülepõletatud või kõhukinnisus rohkem kui 1-2 päeva nädalas?",
+  "NUTRITIONIST_Q19": "Kas teil on probleeme järgmistes valdkondades? Kui jah, kirjeldage oma küsimusi üksikasjalikult antud ruumides.",
+  "NUTRITIONIST_Q2": "Ligikaudu, kui palju toite päevas sööte? (Vali üks)",
+  "NUTRITIONIST_Q3": "Mida teie tavaline hommikusöök koosneb ja millal:",
+  "NUTRITIONIST_Q4": "Mida teie tüüpiline lõunasöök koosneb ja millal:",
+  "NUTRITIONIST_Q5": "Mida teie tüüpiline õhtusöök koosneb ja millal:",
+  "NUTRITIONIST_Q6": "Mida teie tavapärased suupisted koosnevad ja millisel ajal:",
+  "NUTRITIONIST_Q7": "Kas sa liigud?",
+  "NUTRITIONIST_Q8": "Milliseid toiduaineid sa kipuvad üle sööma ja kui tihti:",
+  "NUTRITIONIST_Q9": "Kas teil on mingeid toiduallergiaid, piiranguid või tundlikkust:",
+  "NUTRITIONIST_SUB1": "Kaalukaotus",
+  "NUTRITIONIST_SUB10": "Iiveldus / oksendamine",
+  "NUTRITIONIST_SUB11": "Kõhuvalu",
+  "NUTRITIONIST_SUB2": "Kaalutõus",
+  "NUTRITIONIST_SUB3": "Energia / väsimus",
+  "NUTRITIONIST_SUB4": "Parem puhkeolek",
+  "NUTRITIONIST_SUB5": "Seedimise probleemid",
+  "NUTRITIONIST_SUB6": "Kõhukinnisus",
+  "NUTRITIONIST_SUB7": "Kõhulahtisus",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Puhastamine / gaas",
+  "nutrition_mail": "Lisatud on toitumisspetsialisti aruanne",
+  "nutrition_mail2": "Toitumisspetsialist saadab sulle faili",
+  "nutrition_questionnaire": "toitumisalane küsimustik",
+  "nvisit": "Videokõne lõpetatud arv",
+  "obesity1": "Rasvumine",
+  "obesity2": "Tugevalt rasvunud",
+  "obesity3": "Morbidly rasvunud",
+  "OFFICE_ADDRESS": "Büroo aadress",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Tundub, et arst pole ühenduseta, proovige hiljem uuesti",
+  "OLDPWD_ERROR": "Uus parool vastab vana parooliga.",
+  "OLD_PASSWORD_WRONG": "Vana parool on vale",
+  "OLD_PWD": "Vana parool",
+  "oneDay": "Üks päev",
+  "one_min": "1 minuti pärast",
+  "online": "Online",
+  "onlinedoctors": "Online-arstid",
+  "openimage": "Klikkige pildil, et avada täisekraanil",
+  "open_ticket": "Avage pilet",
+  "orale": "Suu kaudu",
+  "other": "Muu",
+  "othercbc": "Muud CBC eksamid",
+  "OTHER_PLACEHOLDER": "Palun täpsustage oma eriala",
+  "otoscopy": "Otoskoopia",
+  "otp_sent_msg": "Saatsime teile teie telefoninumbril kinnituskoodi",
+  "OUR_PRODUCTS_SECTION": "Meie seadmed pakuvad reaalajas tervise- ja terviseandmeid, mis aitavad teil teie tervist jälgida.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Mõõdetage oma kopsu tervist sekunditega professionaalse spiromeetriga",
+  "OUR_PRODUCTS_SECTION_P1": "Nutikas kaasaskantav tehnoloogia, mis lisaks tervise funktsioonidele pakub reaalajas terviseandmeid",
+  "OUR_PRODUCTS_SECTION_P2": "Fitness / heaolu eelised",
+  "OUR_PRODUCTS_SECTION_P3": "Teie kodu-põhine diagnostikakomplekt kogu perele.",
+  "OUR_PRODUCTS_SECTION_P4": "Omadused",
+  "OUR_PRODUCTS_SECTION_P5": "Mõlemad seadmed on loodud suhtlema rakendusega, et tagada ümardatud tervisekogemus. Teie tulemused salvestatakse otse rakenduses.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Mõõdetage oma boold-rõhku sekunditega professionaalse sfügmomeetriga",
+  "OUR_PRODUCTS_SECTION_SCALX": "Mõõda oma kaal sekundites professionaalse skaalaga",
+  "OUR_PRODUCTS_TITLE": "Meie tooted",
+  "overeatFoods": "Toiduained, mis on ülekoormatud",
+  "overeating": "Ülekuumenemise kalduvus",
+  "overweight": "Ülekaaluline",
+  "pa": "Retsepti assistent",
+  "PASSWORD": "Parool",
+  "passwordchanged": "Parooli muutmine õnnestus!",
+  "passwordExpiringMessage": "Teie parool aegub peagi. Palun muutke seda kohe",
+  "passwordExpiringTitle": "Parool aegub",
+  "PATIENT": "Patsient",
+  "patientAllergy": "Allergia",
+  "patientGeneticRequests": "Geneetiliste testide taotlused",
+  "patientinfo": "Patsiendi andmed",
+  "patientlist": "Patsientide nimekiri",
+  "patientmanagement": "Patsiendi juhtimine",
+  "patientProtesi": "Proteesimine",
+  "PATIENTS_NO_P": "Praegu teil pole määratud isiklikke kohtumisi",
+  "PATIENTS_SECTION": "Teie kohtumised",
+  "PATIENTS_SECTION_SUBTITLE": "Kõigi üksikasjade vaatamiseks klikkige igal üksusel",
+  "PATIENTS_TITLE": "Patsiendid",
+  "patientupdate": "Patsient",
+  "patientvisit": "Patsient külastab ajalugu",
+  "PATIENT_PROFILE_OPT1": "Minu profiil",
+  "PATIENT_PROFILE_OPT11": "Minu lemmikud arstid",
+  "PATIENT_PROFILE_OPT12": "Lisa lemmik apteek",
+  "PATIENT_PROFILE_OPT2": "Minu meditsiiniline fail",
+  "PATIENT_PROFILE_OPT3": "Minu külastuse ajalugu",
+  "PATIENT_PROFILE_OPT4": "Minu lemmikud",
+  "PATIENT_PROFILE_OPT5": "Minu failid",
+  "PATIENT_PROFILE_OPT6": "Minu märguanded",
+  "PATIENT_PROFILE_OPT7": "EKG üleslaadimine",
+  "PATIENT_PROFILE_OPT8": "Meditsiiniseadme andmed",
+  "PATIENT_PROFILE_OPT9": "Minu lemmikute apteegid",
+  "PATIENT_S1": "Patsient",
+  "PATIENT_S2": "Rääkima",
+  "PATIENT_S3": "Patsiendi info",
+  "PATIENT_S4": "Külastuse teema",
+  "PATIENT_S5": "Haigused",
+  "PATIENT_S6": "Allergia",
+  "PATIENT_S7": "Ravimid",
+  "PATIENT_S8": "Lisatud dokumendid",
+  "PATIENT_S9": "Sümptomid?",
+  "PATIENT_SUMMARY": "Patsiendi andmete kokkuvõte",
+  "patologia": "Patoloogia",
+  "payment": "Makse",
+  "PAYMENT_DETAILS": "Makse andmed",
+  "PAYMENT_MESSAGE_1": "Teil on eelvolitus summas",
+  "PAYMENT_MESSAGE_2": "Teilt võetakse tasu videokõne lõpus",
+  "PAYMENT_SECTION1": "Valige loendist kaart",
+  "PAYMENT_SECTION2": "Sisestage krediitkaardi väärtused",
+  "PAYMENT_SUCCESS": "Makse õnnestus!",
+  "PAYMENT_SUCCESSFUL": "Meil on makse eelnevalt heaks kiidetud",
+  "PAYMENT_UNSUCCESSFUL": "Makse eelvalik ei õnnestunud. Kontrollige oma krediitkaardi andmeid või küsige pangalt.",
+  "paziente_rimosso": "Patsiendi staatus edukalt muudetud",
+  "paziente_salvato": "Patsiendile edukalt uuendatud",
+  "pdf_download_error": "Pdf-faili ei saa alla laadida. Palun proovi hiljem uuesti",
+  "pdf_file_error": "Lubatud on ainult pdf-failid",
+  "period": "Periood",
+  "PERIODIC_HEART_RATE": "Perioodiline südame löögisagedus",
+  "personal": "Isiklik",
+  "personalCare": "Isiklik hügieen",
+  "personalinfo": "Isiklik informatsioon",
+  "PER_MIN": "/ min",
+  "pharmacies": "Apteegid",
+  "PHONE": "Telefoninumber",
+  "phone1": "Telefon",
+  "pills": "Tabletid",
+  "PILLS_DATE_ERROR": "Alguskuupäev on pärast lõppkuupäeva",
+  "pill_reminder_message": "On aeg võtta teie pillid",
+  "placeholder": "Kasutajanimi, e-post või nimi",
+  "placeOfBirth": "Sünnikoht",
+  "place_birth": "Sünnikoht",
+  "platform": "Platvorm",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Politsei number",
+  "positive": "Positiivne",
+  "POSTCALL_DOCTOR_TITLE": "Visiidi kokkuvõte",
+  "POSTCALL_PATIENT_TITLE": "Palun hinnake oma kogemusi",
+  "POUNDS": "naela",
+  "PRACTICE_LENGTH": "Pikkus praktikas",
+  "prenota": "Broneeri kohe",
+  "prenotatest": "Nõuda kohtumist",
+  "preobesity": "Pre-rasvumine",
+  "prescription": "Retsept",
+  "prescriptiondiscounts": "Retsepti allahindlused",
+  "PRESCRIPTIONS": "Ettekirjutused",
+  "prescriptions_sent": "Käskkirjad saadetakse",
+  "prescription_mail": "Seal on teie retsept",
+  "prescription_mail2": "Tänan teid SaluberMD kasutamise eest",
+  "prescription_notification": "Hea kasutaja, teavitame teid, et teie retsept on nüüd saadaval rakenduse ajakava / konverentsi ajaloos",
+  "prescription_pharmacy": "Valige retsepti saatmiseks apteek",
+  "prescription_preview": "Retsepti eelvaade",
+  "prescription_sent": "Retseptid saadetakse",
+  "PRESCRIPTION_SENT_EMAIL": "Teie retsepti on saadetud teie e-posti aadressile ...",
+  "prescription_subject": "Teie retsepti",
+  "pressbutton": "Vajutage seadme paarinuppu ja puudutage valikut Find Device",
+  "pressbuttonpresx": "Ühenduse käivitamiseks vajutage seadme tagaküljel olevat paarinuppu ja hoidke seda all ning puudutage rakenduses rakenduse nuppu",
+  "pressbuttonscalx": "Ühenduse käivitamiseks vajutage seadme tagaküljel olevat paarinuppu ja hoidke seda all ning puudutage rakenduses rakenduse nuppu",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Vererõhk",
+  "PRESX_PROD": "PRESX",
+  "previous": "Eelmine",
+  "pre_period": "Retseptiperiood",
+  "price": "Hind",
+  "price_per_visit": "Tasu külastuse kohta",
+  "PRICING_SECTION1_P1": "SaluberMD on pühendunud mugavate ja kvaliteetsete hooldusteenuste pakkumisele taskukohase hinnaga ilma varjatud tasudeta.",
+  "PRICING_SECTION1_P2": "SaluberMD pakub hooldust kõikjal ja igal ajal, kui seda vajate, külalislauaga sertifitseeritud arsti kaudu. Meie arstid saavad arutleda, uurida ja kuulata oma probleeme diagnoosida või lihtsalt videokõne ajal meditsiinilisi küsimusi ja muresid lahendada.",
+  "PRICING_SECTION1_P3": "Meie ainuõigusega Medicfile abil saate oma arstile juurdepääsu oma haigusloole, oma piltidele ja failidele, et aidata neil pakkuda kõige tõhusamat raviskeemi.",
+  "PRICING_SECTION1_TITLE": "Külastuse kohta",
+  "PRICING_TITLE": "Hinnakujundus",
+  "primaryConcern": "Esmane mure",
+  "primaryMood": "Mood Peamine",
+  "print": "Prindi",
+  "priority": "Prioriteet",
+  "PRIVACY_POLICY_TITLE": "Privaatsuspoliitika",
+  "problems": "probleeme",
+  "PROCEED_PAYMENT": "Jätkake maksega",
+  "PROFESSIONAL_TITLE": "Kutsenimetus",
+  "PROFILE_SECTION2": "Kontaktinfo",
+  "protesi": "Protees ja meditsiinilised abivahendid",
+  "protesiobbligatorio": "Palun vali proteesi tüüp",
+  "prov": "proov",
+  "publicAppUrl": "Teie avalik kohtumisaadress on:",
+  "pulldown": "Tühjendage värskendamiseks allapoole",
+  "pull_request_processed": "Täname teid, oleme saatnud teie kättesaadavuse patsiendile",
+  "PWD_NOTMATCH": "Paroolid ei sobi kokku",
+  "P_P_Error": "Peate nõustuma privaatsuseeskirjadega",
+  "QUALITY_INDEX": "Kvaliteet",
+  "QUALITY_INDEX_DESCRIPTION": "Füüsiline sobivus on vastupidavuse ja vaimse stressi tase, mis on tekkinud olukorra kohandamise ja käsitlemisega. Füüsilise sobivuse indeks peegeldab inimese keha kohaneda keskkonnamuutustega ja stressi stimuleerimisega, säilitada ja taastada tervisevõimet. Füüsiline sobivus avaldub tihti inimeste elude, õppimise ja töötamise potentsiaalil, aga ka loomulikult füüsilises tegevuses. Inimese füüsiline kvaliteet on seotud pärilikkusega, kuid on tihedamalt seotud omandatud toitumise ja kehalise harjutusega. Õigete meetodite ja nõuetekohase kasutamise abil saab ta parandada oma füüsilist sobivust kõigis aspektides.",
+  "quantity": "Kogus",
+  "quesito": "Mure",
+  "QUESTIONS_SECTION_TITLE": "Saate 1 tasuta konsultatsiooni või tervisekontrolli kutse pärast tervisliku toimiku täielikku täitmist.",
+  "QUESTIONS_TITLE": "Küsimused",
+  "quindici": "Viimased 15 mõõtmist",
+  "ratio": "Suhe",
+  "reccomendation": "Korduma kippuvad küsimused",
+  "reccomendations": "Soovitused",
+  "recommendation": "Soovitused",
+  "RECOMMENDATIONS": "Soovitused",
+  "RECOMMEND_SECTION_P1": "SaluberMD-s püüame täita nõudlust kvaliteetsete tervishoiuteenuste järele kogu maailmas, pakkudes klientidele juurdepääsu terviklikule arstide grupile.",
+  "RECOMMEND_SECTION_P2": "Me otsime alati kvaliteetseid arste, et saaksime oma suurepärase meeskonna juurde lisada. Meeskonna liige austab ja hindab teie viiteid.",
+  "RECOMMEND_SECTION_P3": "Palun täitke alljärgnev vorm, et saata arst SaluberMD-le",
+  "RECOMMEND_SECTION_TITLE": "Soovitage kolleegi",
+  "RECOMMEND_TITLE": "Soovita",
+  "record_aggiornato": "Salvestus edukalt uuendatud",
+  "record_aggiunto": "Salvestus edukalt lisatud",
+  "record_inserito": "Edukalt lisatud",
+  "record_rimosso": "Salvestus edukalt kustutatud",
+  "REFERRAL": "Viide",
+  "REFERRALS": "Viited",
+  "referrals_sent": "Viited saadeti",
+  "referral_mail": "Lisatud on teie viide.",
+  "referral_sent": "Viide saadeti",
+  "refundrequestsent": "Teie taotlus on saadetud",
+  "register": "Registreeru",
+  "register_report": "Kasutajate registreerimine",
+  "registration_date": "Registreerimiskuupäev",
+  "REGISTRATION_HEADER_DOCTOR": "Liitu saluber MD meeskonnaga",
+  "REGISTRATION_HEADER_PATIENT": "Palun täitke väljad ja vajutage registrit",
+  "releaserefresh": "Vabastage värskenda",
+  "remarks": "Märkused",
+  "removedevice": "Kas soovite selle seadme eemaldada?",
+  "removefavorite": "Eemalda lemmikutest?",
+  "remove_generic": "Kas soovite selle eemaldada?",
+  "renalFunction": "Neerufunktsioon",
+  "reoccurring": "Kordumine",
+  "repeat_email": "Kinnita email",
+  "report": "Isiklik kliiniline fail: täieliku andmeside aruanne",
+  "report1": "Isiklik kliiniline fail:",
+  "report2": "Aruanne",
+  "reportvisite": "Teata Videokõnesid",
+  "report_date": "Aruande kuupäev",
+  "requestdate": "Taotluse kuupäev",
+  "request_already_taken": "Seda taotlust on juba võtnud vastu teine arst.",
+  "REQUEST_ERROR": "Teie taotluste töötlemisel ilmnes viga. Kontrollige oma Interneti-ühendust või proovige hiljem uuesti.",
+  "request_sent": "Teie nõue on edukalt saadetud backoffice&#39;isse",
+  "required": "Selle välja täitmine on kohustuslik.",
+  "required_field": "Filed Required",
+  "RESEND_EMAIL": "Saada kinnituskood uuesti",
+  "resetCorxFactory": "Kas olete kindel, et soovite Corxi taastada?",
+  "RESETPWD_BTN": "Lähtesta parool",
+  "RESET_PASSWORD": "Sisestage sisselogimise ajal kasutatav e-posti aadress või kasutajanimi",
+  "respiratory": "Hingamisteede",
+  "RESPIRATORY_RATE": "Hingamissagedus",
+  "RESTORE_FACTORY_SETTINGS": "Tehase seadete taastamine",
+  "resultfound": "leitud leitud",
+  "results": "Tulemused",
+  "ricettario": "Riik",
+  "richiediDrug": "Taotlege ravimit",
+  "richiestaAppuntamento": "Ametisse nimetamise taotlus",
+  "richiestaRimborso": "Tagasimakse taotlus",
+  "ricovero": "Hospitaliseerimine",
+  "riepilogo": "Kokkuvõte",
+  "rightHanded": "Paremakäeline",
+  "rimborso": "Tagasimaksed",
+  "ripetibile": "Korratav (korda)",
+  "rr_desc": "Hingamissagedus on hingamisteede kiirus. Tavaline hingamissagedus täiskasvanud inimesel on 12 kuni 20 hingetõmmet minutis. Hingamiskiirust alla 12 või üle 25 hingetõmme minutis, kui puhkeolekut peetakse ebatavaliseks",
+  "rs": "Hingamissüsteem",
+  "RUNNING_CALL_OPT1": "Jätka",
+  "RUNNING_CALL_OPT2": "Lõpeta kõne",
+  "RUNNING_CALL_TITLE": "Kõne lõpetamine",
+  "sa": "Tugev autentimine",
+  "sadness": "Kurbus",
+  "sai": "Tegevusindeks",
+  "sai_desc": "SAI põhineb ainult teie südame löögisagedusel. See on lihtne mõõdik, mis jälgib keha vastust füüsilisele aktiivsusele - palju rohkem kui lihtsalt samme. Erinevalt sammude jälgimisest annab SCI lootust iga südame löögisageduse tõstmiseks: ujumine, jalgrattasõit, sõudmine, tantsimine, mis iganes. Parema ja tervislikuma elu tagamiseks hoidke seda allpool 30 ° C.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD patsiendi",
+  "SATURDAY": "Laupäev",
+  "savedinfo": "Teave edukalt salvestatud",
+  "SAVE_BTN": "Salvesta",
+  "SAVE_MESSAGE": "Kui lahkute, kaotatakse teie muudatused",
+  "sbpi": "Vererõhu indeks",
+  "sbpi_desc": "Kõrge vererõhk on vaikne tapja. Teie süstoolse ja diastoolse vererõhu väärtusi hinnatakse mis tahes meditsiinilise sessiooni ajal. Hoidke SBPI alla 30 ° C, et teil oleksid väiksemad võimalused eluohtlike seisundite, näiteks insultide ja verehüüvete all.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Kaal",
+  "SCALX_PROD": "SCALX",
+  "scan": "Skannimine",
+  "scanningcorx": "CORXi otsimine ... palun oodake",
+  "schedule": "Ajakava",
+  "scheduleAnAppointment": "Planeerige kohtumine",
+  "scheduleappointment": "Planeerige videokõne arstiga",
+  "schtime": "Plaanitud aeg",
+  "sci": "Kardiovaskulaarne indeks",
+  "sci_desc": "Arteriaalse pulsilaine analüüsimisel tuletame oma südame-veresoonkonna süsteemi kohta teadmisi. SCI indeks on teie südame-veresoonkonna tervise kokkuvõte, püüdke seda hoida alla 20!",
+  "sci_title": "SCI",
+  "SEARCH": "Otsing",
+  "searchallergy": "Otsi allergiat",
+  "searchdoctor": "Otsige arst",
+  "searchfordoctor": "Otsige arstile nime või perekonnanime järgi",
+  "searchingdevice": "Seadme otsimine See võib võtta veidi aega",
+  "searching_avail_date": "Olemasoleva kuupäeva otsimine ...",
+  "searching_online_doctors": "Käimasolevate online-arstide otsimine ...",
+  "searchmedication": "Otsi ravimeid",
+  "searchpatient": "Otsige patsient",
+  "searchpatologia": "Otsige meditsiinilist seisundit",
+  "searchsymptom": "Otsi sümptomit",
+  "searchuser": "Otsi kasutajat",
+  "search_doctor_description": "Otsige arstile kasutajanime, e-posti või nime",
+  "search_patient_description": "Otsige patsiendi kasutajanimi, e-posti aadress või nimi",
+  "search_specialization": "Otsing spetsialiseerumine",
+  "search_user_description": "Otsi kasutajat kasutajanime, e-posti või perekonnanime jaoks",
+  "search_videocall_description": "Otsige videokõnesid läbi initsiatiivi",
+  "search_videocall_title": "Serach Videocall kuupäeva järgi",
+  "secondaryMood": "Mood Sekundaarne",
+  "secondOpinion": "Teine arvamuse taotlus",
+  "seconds": "sekundit",
+  "second_opinion_1": "Mugav, usaldusväärne juurdepääs maailma juhtivate spetsialistide arvamusküsitlusele.",
+  "second_opinion_2": "Meie teise meditsiinilise arvamuse teenistus aitab teil:",
+  "second_opinion_3": "Hankige vastused oma küsimustele",
+  "second_opinion_4": "Valige parim raviplaan",
+  "second_opinion_5": "Kontrollige õiget diagnoosi",
+  "second_opinion_body": "Lugupeetud kasutaja! <br> teie teine valikupäring on vastutav meie spetsialistide poolt, kes vaatavad teie saadetud dokumente üle.",
+  "second_opinion_history": "Teine arvamuse taotlus",
+  "second_opinion_msg": "Aitäh. Meie terviseohutuse esindaja jõuab teie juurde järgmise 24 tunni jooksul.",
+  "SECOND_OPINION_Q1": "Mida sa tahad toitumisspetsialistiga rääkida?",
+  "second_opinion_question1": "Kes on teine ​​arvamus?",
+  "second_opinion_question2": "Laadige üles fail",
+  "second_opinion_step1": "Täitke lühike küsimustik / üleslaadige failid",
+  "second_opinion_step2": "Meie arstid hindavad teie materjale",
+  "second_opinion_step3": "Arsti konsultatsioon, et teie tulemusi arutada",
+  "secOpChoice": "Valige, kuidas soovite saada teist arvamust",
+  "section": "Palun valige üks osa",
+  "security": "Turvalisus",
+  "seeaprovider": "Vaadake pakkujat",
+  "seecommenti": "Vaadake kommentaare",
+  "seedoctor": "Vaadake arsti kohe",
+  "SEE_A_DOCTOR_Q1": "Kas videokõne minule või kellelegi teisele?",
+  "SEE_A_DOCTOR_Q10": "Saame oma retsepti saata otse teie valitud apteeki",
+  "SEE_A_DOCTOR_Q1B": "Teie lapse nimi ja sünnipäev?",
+  "SEE_A_DOCTOR_Q1_A1": "Mina",
+  "SEE_A_DOCTOR_Q1_A2": "Mu laps",
+  "SEE_A_DOCTOR_Q2": "Palun kirjeldage, mida soovite arstiga rääkida",
+  "SEE_A_DOCTOR_Q3": "Sümptomid?",
+  "SEE_A_DOCTOR_Q4": "Kas soovite lisada foto või dokumendi?",
+  "SEE_A_DOCTOR_Q4_ERROR": "VIGA: failid ei tohi ületada 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Valige fail",
+  "SEE_A_DOCTOR_Q4_S2": "Pildista",
+  "SEE_A_DOCTOR_Q5": "Kas te võtate mõnda ravimit, kui see nii, palun loetlege nimi",
+  "SEE_A_DOCTOR_Q5_CHILD": "Kas teie laps võtab praegu mingeid ravimeid? kui jah, palun nimetage nimi",
+  "SEE_A_DOCTOR_Q5_S1": "Nimi:",
+  "SEE_A_DOCTOR_Q5_S2": "Annustamine:",
+  "SEE_A_DOCTOR_Q6": "Kas teil on allergiaid?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Kas teie lapsel on allergiaid? kui jah, palun nimetage nimi",
+  "SEE_A_DOCTOR_Q7": "Kas teil on meditsiinilised seisundid?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Kas teie lapsel on tervisehäireid? kui jah, palun nimetage nimi",
+  "SEE_A_DOCTOR_Q8": "Kas lubate arstil teie meditsiinilist faili vaadata?",
+  "SEE_A_DOCTOR_Q9": "Eelistatud farmaatsia",
+  "SEE_A_DOCTOR_TITLE": "Vaadake arsti",
+  "SEE_A_PROVIDER": "Vaadake pakkujat",
+  "segment": "Segmendi",
+  "selectAFile": "Puudutage faili valimiseks allolevat nuppu",
+  "selectaprovider": "Valige pakkuja",
+  "selectcarderror": "Palun vali kaart",
+  "selectdoctor": "Päevakava haldamine",
+  "selectdoctor1": "Valige arst",
+  "selectdrug": "Valige ravimeid",
+  "selectedContact": "Kontaktvahendid",
+  "selectinitiative": "Valige üks või mitu algatust ...",
+  "selectnutritionist": "Valige oma toitumisspetsialist",
+  "selectpatient": "Valige patsient",
+  "select_country": "Valige riik",
+  "select_device": "Valige seade",
+  "select_file": "Valige fail",
+  "select_file_btn": "Valige fail",
+  "select_patient": "Üksikasjade vaatamiseks klõpsake reas",
+  "send": "Saada",
+  "sendmessage": "Saada sõnum",
+  "sendtoken": "Saada see arstile, et võimaldada tal juurdepääs oma meditsiinilisele failile. See link lõpeb 10 minuti pärast",
+  "SEND_BTN": "Saada",
+  "send_doctor_request": "Saada päring",
+  "sentmessage": "Saadetud sõnumid",
+  "SERVICE_TYPE": "Teenuse tüüp",
+  "sessantad": "Viimased 60 päeva",
+  "SESSION_EXPIRED": "Teie seanss on aegunud. Palun logi uuesti sisse",
+  "setAlarm": "Häirete seadmine",
+  "settd": "Viimase 7 päeva jooksul",
+  "settings_saved": "Seaded on edukalt salvestatud",
+  "setTreshold": "Määra vahemik",
+  "SET_BTN": "Seatud",
+  "SET_USER_EMAIL": "Palun täpsustage kas kasutajanimi või e-kiri",
+  "set_vital_signs": "Määra elutähtsad märgid",
+  "sevendays": "7 päeva",
+  "showalldata": "Kuva kõik andmed",
+  "showOnEmergency": "Näidake hädaolukorras",
+  "signature": "Teie allkiri (kasutatakse ettekirjutusteks)",
+  "signature_word": "Allkiri",
+  "SIGNUP_BTN": "Registreeri",
+  "sii": "Kindlustusindeks",
+  "sii_desc": "SII on kõigi SaluberMD indeksite kombinatsioon ja see on teie üldise meditsiinilise riski peegeldus. Kui olete alla 30, olete turvalises tsoonis!",
+  "sii_title": "SII",
+  "since": "Kuna",
+  "single": "Üksik päev",
+  "singleAccess": "Ühekordne juurdepääs",
+  "sitreminder": "Sit meeldetuletus",
+  "sit_period": "Periood",
+  "skip": "Vahele jätma",
+  "skip_pull": "Ignoreeri",
+  "skip_step": "Vahele jätma",
+  "sl": "Stressitase",
+  "SLEEP": "Magada",
+  "slotime": "Pesa kestus (min)",
+  "sl_alta": "üle 85 bpm",
+  "sl_bassa": "alla 65",
+  "sl_desc": "Stressitase arvutatakse võidu kohta minutis",
+  "sl_normale": "vahemikus 65 kuni 85 bpm",
+  "smoker": "Suitsetaja",
+  "snacks": "Suupisted",
+  "SOMETIMES": "Mõnikord",
+  "SONNO": "Magada",
+  "SOP_Q4": "Kinnitage arsti aruanne",
+  "sos": "SOS",
+  "so_specialization": "Eriala",
+  "specialists": "Spetsialistid",
+  "specialization": "Valige eriala",
+  "SPECIALTY": "Eriala",
+  "specifyother": "Palun täpsustage muud",
+  "specifyvalue": "Palun täpsustage väärtus",
+  "spirometer": "Spiromeetria",
+  "spo2_desc": "SpO2 või vere hapniku tase näitab, kui palju hapnikku teie punased verelibled kannavad. Normaalsed väärtused on vahemikus 95% kuni 100%, madalamat normaalset vere hapnikutaset nimetatakse hüpoksiaks",
+  "sri": "Hingamisteede indeks",
+  "sri_desc": "Me analüüsime teie hingamisteid meditsiinilise sessiooni ajal ja magama ajal. Kui SRI on alla 30, on teie võimalus kannatada obstruktiivsete hingamisteede seisundis madal.",
+  "sri_title": "SRI",
+  "ssi": "Stressiindeks",
+  "ssi_desc": "Südame löögisageduse varieeruvuse analüüsimisel mõõdame teie stressi taset. Stress näib halvenevat või suurendavad selliste haiguste riski nagu rasvumine, südamehaigused, Alzheimeri tõbi, diabeet, depressioon, seedetrakti probleemid ja astma. Hoidke see allpool 20 °, et olla turvalisel poolel!",
+  "ssi_title": "SSI",
+  "start": "Alusta",
+  "startcall": "Alusta kõnet",
+  "startdate": "Alates",
+  "starthour": "Algusaeg",
+  "startmeasure": "Nüüd saate mõõtmist alustada, vajutades seadmel olevat nuppu",
+  "startnow": "Alusta kohe",
+  "startRecording": "Häälsageduse salvestamiseks vajutage alustamist",
+  "startyping": "Alusta nime sisestamist",
+  "start_blowing": "Alusta puhumist",
+  "start_test": "Start-test",
+  "start_time": "Algusaeg",
+  "state": "Riik",
+  "state1": "Riik",
+  "STATES_LICENSE": "Litsentseeritud riigid",
+  "state_problem": "Palun öelge oma probleem",
+  "status": "Olek",
+  "step": "Samm",
+  "STEPS_GOAL": "Sammud Eesmärk",
+  "stoolTest": "Väljaheite test",
+  "stop": "Peatus",
+  "stop_test": "Stoppkatse",
+  "stress": "Stress",
+  "stroke_vol": "Löögikogus",
+  "stroke_volume": "Löögikogus",
+  "stroke_volume_desc": "Löögikogus on iga vatsakese poolt väljatõmmatud vere maht",
+  "struttura": "Struktuur",
+  "strutture": "Konstruktsioonid",
+  "subject": "Teema",
+  "subject_so": "Teema",
+  "submissionDate": "Esitamise kuupäev",
+  "success": "Edu",
+  "SUCCESS_TITLE_NOTIFICATION": "Edu",
+  "SUMMARY": "Diagnoosimine",
+  "summary1": "Kokkuvõte",
+  "SUNDAY": "Pühapäev",
+  "surgery": "Kirurgia",
+  "surgeryAndHospitalization": "Hospitaliseerimine ja kirurgiajalugu",
+  "surgeryCategory": "Kirurgia kategooria",
+  "surname": "Perekonnanimi",
+  "sv_alta": "üle 100",
+  "sv_bassa": "alla 55 ml",
+  "sv_normale": "vahemikus 55 kuni 100 ml",
+  "switchsearch": "Vaheta otsingusse",
+  "symptoms": "Sümptomid",
+  "SYMPTOMS_BTN": "Sümptomid",
+  "sync": "Sünkroonimine",
+  "SYNC_TIME": "Sünkroniseerimise aeg",
+  "sysdia": "Rõhk",
+  "systolic": "Süstoolne",
+  "TAKE": "Võtke",
+  "takeAppointment": "Võtke kohtumine",
+  "TAKE_APP": "Ajakava määramine",
+  "TAKE_A_PHOTO": "Pildista",
+  "tall": "Kui pikk sa oled",
+  "tapconnect": "Puudutage ühenduse loomiseks",
+  "tapdisconnect": "Katkestamiseks puudutage",
+  "tap_to_expand": "Laiendamiseks koputage",
+  "telNameMandatory": "Palun täpsustage nimi",
+  "telNumberMandatory": "Palun täpsustage telefoninumber",
+  "temper": "Kannatama",
+  "temperDescription": "Emotsionaalne mõõde, mis katab kõneleja terve meeleolu. Madalat temperatuuri kirjeldab depressiivset ja sünge meeleolu. Keskmine tantsus kirjeldab sõbralikke, sooja ja kehasõbralikke meeleolusid. Kõrge iseloomu väärtused kirjeldavad vastasseisu, domineerivat ja agressiivset meeleolu.",
+  "tendays": "Viimane 10",
+  "ten_min": "10 minuti pärast",
+  "terminata": "Helista edukalt",
+  "TERMS_TITLE": "Kasutustingimused",
+  "test": "Katse",
+  "testmichele": "Test michele",
+  "testresult": "Testi tulemused",
+  "testresults": "Testi tulemused",
+  "tests": "Testid",
+  "text": "Tekst",
+  "thiscC": "Seda krediitkaarti kasutatakse teenuse eest tasumiseks",
+  "THURSDAY": "Neljapäev",
+  "thyroidTest": "Kilpnäärme talitluse testid",
+  "tickets": "Piletid",
+  "TICKET_HISTORY": "Piletite ajalugu",
+  "TICKET_NUMBER": "Pileti number",
+  "ticket_subject": "Taotluse teema",
+  "timecallerr": "Vabandust, te ei saa veel helistada",
+  "timecallerr1": "Vabandust, te ei räägi helist, kuna olete väljaspool kavandatud kellaaega",
+  "TIMELINE": "Minu ajakava",
+  "times": "Mitu korda päevas",
+  "timesaday": "Kord päevas",
+  "tipopratica": "Harjutuse tüüp",
+  "tipo_struttura": "Struktuuri tüüp",
+  "tipshealt0": "Terviseprojektid",
+  "tipshealt1": "Flu shot - Kas mul peaks vaktsineeritud gripi vastu?",
+  "tipshealt10": "Lisateabe saamiseks klõpsake siin",
+  "tipshealt11": "Statiinravi, kolesteroolisisaldust vähendavate ravimite kasulikkus kaalub üles riskid",
+  "tipshealt12": "Lancet&#39;i hiljutises ülevaatearuandes jõudsid teadlased järeldusele, et LDL-kolesterooli alandamise kasu koos statiinravi abil võib tõenäoliselt vältida suurte vaskulaarsete sündmuste (südameinfarkt, insulti) tekkimist ja kaalub üles ravimite riskid.",
+  "tipshealt13": "Uurijate sõnul on ainsaks tõsiseks kõrvaltoimeks, mis on osutunud pikaajalise statiinravi poolt põhjustatudks, müopaatia (määratletud lihasvalu või nõrkuseks), diabeedihaige ja tõenäoliselt hemorraagiline insult.",
+  "tipshealt2": "Kuigi gripivaktsiin ei paku alati täielikku kaitset, on selle väärt saada. CDC (Haiguste tõrje ja ennetamise keskused) soovitab iga-aastaseid kuni 6-kuuliseid või vanemaid gripivaktsiine. Vaktsineerimine on eriti oluline inimestele, kellel on kõrge gripiviiruse tüsistuste risk, sealhulgas",
+  "tipshealt3": "Rasedad naised",
+  "tipshealt4": "Vanemad täiskasvanud (50-aastased ja vanemad)",
+  "tipshealt5": "Väikelapsed (alla 4-aastased ja vanemad kui 6 kuud)",
+  "tipshealt6": "Füüsiline aktiivsus parandab mälu ja mõtlemisoskust",
+  "tipshealt7": "Regulaarne kehaline aktiivsus võib kogu elu jooksul parandada aju funktsiooni ja vähendada dementsuse riski.",
+  "tipshealt8": "On avaldatud mitmeid uuringuid regulaarse kehalise aktiivsuse ja täiustatud kognitiivse funktsiooni vastastikuse sidumise kohta.",
+  "tipshealt9": "Mõju on otseselt ajus ja kaudselt ainevahetus- ja kehaliste tegevuste kaudu organismis.",
+  "title": "Pealkiri",
+  "to": "et",
+  "todayAppointment": "Tänane kohtumine",
+  "tooltip1": "Sisestage selle arsti nimi, kellele soovite päevakorda juhtida",
+  "totale": "Kokku",
+  "totalSleepTime": "Kokku puhkeaeg",
+  "total_cholesterol_desc": "See väärtus on hinnang vere kolesteroolisisaldusele",
+  "TOTAL_SLEEP_TIME": "Kogu puhkeaeg",
+  "tot_non_risposte": "Helista ei vastata",
+  "tot_ricevute": "Saadetud kõne",
+  "tot_visite": "Külastused on valmis",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Üleandmine",
+  "trenta": "Viimati 30 mõõtmist",
+  "trentad": "Viimase 30 päeva jooksul",
+  "triglycerides": "Triglütseriidid",
+  "trig_cholesterol_desc": "Triglütseriidid on teatud tüüpi rasv (lipiidid), mida leidub teie veres. Järgmine tabel näitab väärtuste vahemikku.",
+  "TUESDAY": "Teisipäev",
+  "tutte": "Kõik mõõtmised",
+  "type": "Tüüp",
+  "TZONE": "Ajavöönd",
+  "underweight": "Alakaal",
+  "unit": "Üksus",
+  "UNIT_SETTING": "Seadme seadistamine",
+  "uom": "Mõõtühik",
+  "upcomingAppointmentPatient": "Eelseisvad kohtumised",
+  "UPDATE": "Uuenda",
+  "updatelist": "Uuenda nimekirja",
+  "update_app_message": "Te peate oma rakendust värskendama",
+  "UPDATE_AVAILABLE": "Uuendus saadaval",
+  "UPDATE_BTN": "Uuenda",
+  "update_completed": "Püsivara uuendati edukalt",
+  "update_firmware_download_error": "Viga püsivara allalaadimisel",
+  "update_list": "Uuenda",
+  "UPLOAD_ERROR": "VIGA: failid ei tohi ületada 5 MB",
+  "upload_referral": "Laadige oma viide allolevasse kasti.",
+  "urinTest": "Uriini testid",
+  "user": "Kasutaja",
+  "userdata": "Kasutaja andmed",
+  "usermanagement": "Kasutaja juhtimine",
+  "USERNAME": "Kasutajanimi",
+  "username1": "Kasutajanimi",
+  "utente_aggiunto": "Kasutaja on edukalt lisatud",
+  "utente_rimosso": "Kasutaja edukalt kustutatud",
+  "utente_salvato": "Kasutaja uuendati edukalt",
+  "vaccinobbligatorio": "Palun valige immuniseerimine",
+  "vaioffline": "Mine võrguühenduseta",
+  "vaionline": "Mine Internetis",
+  "valence": "Valence",
+  "valenceDescription": "Muutuja ulatub negatiivsusest positiivsusele. Inimeste rääkimise kuulamisel on võimalik mõista, kuidas &quot;positiivset&quot; või &quot;negatiivset&quot; nad mõjutavad arutataval teemal, objektil või sündmusel.",
+  "value": "Väärtus",
+  "vascular_age": "Vaskulaarne vanus",
+  "vascular_age1": "Vaskulaarne vanus",
+  "va_desc": "Vaskulaarne vanus annab teile arterite ilmset vanust, võrreldes tervete inimestega. Kui teie veresoonte vanus on suurem kui teie kronoloogiline vanus, võib teil olla suurem risk kardiovaskulaarsete haiguste (CVD) tekkeks hilisemas elus.",
+  "videocall": "Videokõne",
+  "VIDEOCALL_DES1": "Vajutage allolevat nuppu oma oleku muutmiseks ja teatiste saamiseks või mitte. Pidage meeles, et saate teate saata ainult siis, kui olete võrgus.",
+  "VIDEOCALL_DES2": "Kui saate kõne, klõpsake ristkülikul, mis näib olevat kõne võtnud.",
+  "videocall_filter": "Filtreeri nime või eriala järgi",
+  "videocall_request": "Uus videokõne päring",
+  "videocall_request_title": "Videokõne taotlus",
+  "videocall_req_from": "Videokõne päring:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "Klõpsake video aktiveerimiseks",
+  "VIDEO_CALL_BTN": "Videokõne",
+  "VIDEO_CALL_BTN_1": "Video",
+  "view": "Vaade",
+  "viewmedicalfile": "Vaadake meditsiinilist faili",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Loo oma virtuaalne büroo",
+  "VIRTUAL_OFFICE_TITLE": "Virtuaalne büroo",
+  "visitdetail": "Klõpsake iga üksuse jaoks, et näha patsiendi täielikku ajalugu",
+  "visithistory": "Külastage ajalugu",
+  "visitlist": "Külastuste loend",
+  "VISIT_HISTORY_NO_HISTORY": "Teil pole veel külastusi",
+  "VISIT_HISTORY_SUBTITLE": "Kõigi üksikasjade vaatamiseks klikkige igal üksusel",
+  "VISIT_HISTORY_TITLE": "Külastage ajalugu",
+  "volte": "Korda",
+  "waiting": "Töötlemine ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Soojus",
+  "WARNING_TITLE_NOTIFICATION": "Tähelepanu",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Tervisandmed",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Wellness Andmed",
+  "WATCH_DEVICE_DATA_TITLE": "Teie kella seadme andmed",
+  "water": "Vesi",
+  "weanedoff": "Heitis ära?",
+  "WEDNESDAY": "Kolmapäev",
+  "week": "Nädal",
+  "weight": "Kaal",
+  "weightUnit": "Kaaluühik",
+  "welcome": "Tere tulemast",
+  "wellness": "Wellness",
+  "wellnessdata": "Wellness Andmed",
+  "wellnessSuccess": "Edu",
+  "WHITE_SPACES": "Kasutajanimi ei tohi sisaldada tühikuid",
+  "WRIST_CUT_SCREEN": "Keerake randmepikenduse ekraan",
+  "writtenRep": "Kirjalik aruanne",
+  "W_RESPIRATORY_RATE": "Hingetõmme",
+  "xray": "X-Ray",
+  "Y": "Jah",
+  "year": "Aasta",
+  "years": "aastat",
+  "yes": "Jah",
+  "yourarousal": "Sinu ärritus",
+  "youremotion": "Sinu emotsioonid",
+  "yourmood": "Sinu meeleolu",
+  "yourtemper": "Sinu tuju",
+  "yourvalence": "Sinu valence",
+  "your_sai": "Teie tegevusindeks on:",
+  "your_sbpi": "Teie vererõhu indeks on:",
+  "your_sci": "Teie südameindeks on:",
+  "your_sii": "Teie kindlustusindeks on",
+  "your_sri": "Teie hingamisteede indeks on:",
+  "your_ssi": "Teie stressiindeks on:",
+  "your_stress": "Teie stressitase on:",
+  "your_va": "Teie veresoonkonna vanus on:",
+  "zero_min": "Nüüd",
+  "zipCode": "Postiindeks",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

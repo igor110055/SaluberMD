@@ -1,0 +1,5093 @@
+{
+	"doctorupdate": "Doctor",
+	"search_user_description": "Search user for username, email or last name",
+	"findpatient": "Find a Patient",
+	"specifyDateExam": "Please, specify the date",
+	"finduser": "Find a User",
+	"cancel": "Cancel",
+	"sa": "Strong authentication",
+	"register": "Register",
+	"userdata": "User data",
+	"find_devices": "Find devices",
+	"record_aggiornato": "Record successfully updated",
+	"totale": "Total",
+	"user": "User",
+	"nodatafound": "No data found",
+	"spo2Limit": "Spo needs to be between 80 and 100",
+	"tempLimit": "Temperature needs to be between 25 and 50",
+	"SUBJECTIVE_REASON": "Subjective reason",
+	"OBJECTIVE_REASON": "Objective reason",
+	"ASSESSMENT": "Assessment",
+	"PERSCRIPTION": "Perscription",
+	"alreadyRegistred": "This email address already exists in out system. Please log in to the app to make an appointment.",
+	"PAYMENT_DETAILS": "Payment details",
+	"SERVICE_TYPE": "Service Type",
+	"EXP_MONTH": "Expiration Month",
+	"EXP_YEAR": "Expiration Year",
+	"EXP_MONTH_REQUIRED": "Expiration month required",
+	"EXP_YEAR_REQUIRED": "Expiration year required",
+	"CCV_REQUIRED": "CCV required",
+	"PROCEED_PAYMENT": "Proceed with the payment",
+	"proceed": "Proceed",
+	"schtime": "Scheduled time: ",
+	"exam_name": "Exam Name",
+	"empty_dataset": "There is no data",
+	"addNew": "Add new exam",
+	"uom": "Unit of measure",
+	"TAKE_APP": "Take appointment",
+	"R": "I’d rather not say",
+	"PAYMENT_SUCCESS": "Payment Successfull!",
+	"value": "Value",
+	"richiediDrug": "Request drug",
+	"noexam": "There are no exam to display",
+	"acronym": "Acronym",
+	"specifyUserPassword": "Please, specify Username and Password",
+	"deleteNumber": "Are you sure you want to delete this Number?",
+	"bookAppointment": "Are you sure you want to change this Appointment?",
+	"kcal": "kcal",
+	"publicAppUrl": "Your public url for appointment is: ",
+	"app_description": "Add the reasons of your appointment in the box below",
+	"app_details": "Appointment details",
+	"ERROR_WHITELIST": "Sorry, your device is not enabled to do the videocall",
+	"yourvalence": "Your valence",
+	"yourarousal": "Your arousal",
+	"yourtemper": "Your temper",
+	"yourmood": "Your mood",
+	"youremotion": "Your emotions",
+	"doctorlist": "Doctor's List",
+	"add": "New",
+	"chioscData": "Medical Corner",
+	"forgot_password": "Forgot Password?",
+	"MSG_FILL_BOXES_ALL": "Please, fill in all the fields",
+	"terminata": "Call Successfull",
+	"nonterminata": "Call Unsuccessfull",
+	"search_videocall_title": "Serach Videocall by date",
+	"how_to_scan": "Push the button below to find the devices",
+	"numberSaved": "Number Successfully saved",
+	"numberNotSaved": "Error while saving the number",
+	"emergency_numbers": "Emergency Numbers",
+	"sos": "SOS",
+	"clickonitem": "Click on item to view the attachment",
+	"name_error": "Specify the first name",
+	"surname_error": "Specify the last name",
+	"dob_error": "Specify the date of birth",
+	"country_error": "Specify the country",
+	"city_error": "Specify the city",
+	"address_error": "Specfy the address",
+	"cap_error": "Specify the zip code",
+	"cap1_error": "The zip code is not valid",
+	"enablemediadevices": "Allow your browser webcam and microphone access to receive calls",
+	"required_media_devices_not_found": "Some required media devices were not found: ",
+	"webcam_unavailable": "No webcam was detected.",
+	"mic_unavailable": "No microphone was detected.",
+	"full_waiting_room": "Doctor is busy in another call and waiting room is full! Please retry later.",
+	"already_in_waiting_room": "You are already inside doctor's waiting room. Please wait for doctor to pick up your call or cancel the call and try later.",
+	"an_error_occurred": "Oops! Currently we are not able to precess your request. Try again later",
+	"email_error": "Specify an email",
+	"tel_error": "Specify the phone number",
+	"zipCode": "Zip Code",
+	"COMPLETE_PROFILE": "Complete your profile before to continue",
+	"loadArticle": "Loading article...",
+	"CAP": "Zip Code",
+	"savedinfo": "Information successfully saved",
+	"showalldata": "Show All Data",
+	"calling_number": "Calling Number",
+	"info_salvate": "Data successfully saved",
+	"MSG_POST_CALL_CANCEL": "You ended the visit before starting the videocall!",
+	"END_VIDEOCALL_Q1": "Are you sure you want to end the consultation without starting the videocall?",
+	"MSG_MANDATORY_OPTION": "You must authorize the doctor to see the Medical File",
+	"sendmessage": "Send a message",
+	"nobvrecord": "There is no voice analysis yet",
+	"btndisabledoctor": "Disconnect a Doctor /Disable a Doctor",
+	"allergia_salvata": "Patient's allergies successfully updated",
+	"diseases": "Diseases",
+	"icd10Diseases": "Icd10",
+	"reportvisite": "Report Videocalls",
+	"findStruttura": "Search for a Structure",
+	"record_rimosso": "Record successfully deleted",
+	"record_aggiunto": "Record successfully added",
+	"allergia_aggiunta": "Record successfully added",
+	"emergency_number_description": "Add up to four phone numbers to call in case of emergency",
+	"utente_salvato": "User information successfully updated",
+	"btnenablepatient": "Enable Patient",
+	"associa": "Associate",
+	"to": "to",
+	"btnenabledoctor": "Enable Doctor",
+	"missedcall": "SaluberMd Missed videocall",
+	"insert": "Insert",
+	"noAppoPat": "There are no appointment to be list",
+	"upcomingAppointmentPatient": "Upcoming Appointments of",
+	"done": "Trackx data successfully downloaded. You will find them under the wellness data section",
+	"search_videocall_description": "Search for a videocall, done by  initiative",
+	"bluetooth_error": "Enable your Bluetooth to continue",
+	"selectinitiative": "Please select one or more initatives",
+	"doneAppointmentPatient": "Past Appointments",
+	"paziente_salvato": "Patient successfully updated",
+	"paziente_rimosso": "Patient's status successfully changed",
+	"connecting": "Connecting... Please wait",
+	"ratio": "Ratio",
+	"NO_USER_FOUND": "Username or Email not found",
+	"SET_USER_EMAIL": "Please, specify either the username or the email",
+	"cf": "Fiscal Code",
+	"ecgadded": "EKG successfully added to the list",
+	"OTHER_REASON": "Please, write the readon that you did not take the medicine",
+	"smoker": "Smoker",
+	"loading_list": "Loading list...",
+	"offlineDoctors": "Offline Physician",
+	"DISABLE_PANIC_BUTTON": "Enable Panic Button",
+	"downloadaspdf": "Download as PDF",
+	"actions": "Actions",
+	"open_ticket": "Open a Ticket",
+	"state_problem": "Please, state your problem",
+	"repeat_email": "Confirm Email",
+	"deassociate_corx_alert": "Do you want to deassociate the Corx?",
+	"searching_avail_date": "Searching available date...",
+	"loading1": "Loading...",
+	"email_do_not_match": "The emails do not match",
+	"prenotatest": "Request an Appointment",
+	"ECGBP": "EKG BP",
+	"overweight": "Overweight",
+	"recall_notification": "Notify patient",
+	"DOWNLOAD_CERTIFICATE": "Download certificate",
+	"notification_successfully_sent": "Notification successfully sent",
+	"pressbuttonscalx": "Press and hold the pair button on the back of the device to start the connection and tap the button find device on the app",
+	"pressbuttonpresx": "Press and hold the pair button on the back of the device to start the connection and tap the button find device on the app",
+	"cf_error": "Please, specify your fiscal code",
+	"searchuser": "Search User",
+	"sentmessage": "Sent Messages",
+	"dottore_salvato": "Doctor was successfully updated",
+	"btndisablepatient": "Disconnect a Patient /Disable a Patient",
+	"utente_rimosso": "User has been successfully deleted",
+	"utente_aggiunto": "User has been successfully added",
+	"usermanagement": "User management",
+	"patientmanagement": "Patients management",
+	"fingerprint_question": "Would you like to activate fingerprint login?",
+	"expandfordetails": "Expand for more details",
+	"fingerprint_hint": "Confirm your fingerprint to continue",
+	"fingerprint_hint2": "Confirm your fingerprint to continue",
+	"fingerprint_btn": "Enable fingerprint login",
+	"patientlist": "Patients list",
+	"no_referral_download": "There is no referral associated to this visit",
+	"noreferrals": "There are no referrals listed",
+	"prescription": "Prescription",
+	"descriptionMandatory": "Please, specify a description",
+	"LOC_ERROR": "Failed to retrieve your position.",
+	"SEE_A_PROVIDER": "See a Provider",
+	"numero": "Number",
+	"operatore": "Operator",
+	"no_certificate": "No certificate to be listed",
+	"medical_certificate": "Medical Certificate",
+	"certificate_sent": "Sent certificates",
+	"med_certificate_desc": "On the basis of the medical evaluation carried out, the following is stated:",
+	"telNameMandatory": "Please, specify a name",
+	"telNumberMandatory": "Please, specify a phone number",
+	"ricettario": "Country",
+	"MSG_VIDEOCALL_DISCONNECTED": "Lost connection. This could be due to your internet connection",
+	"PRESCRIPTION_SENT_EMAIL": "Your prescription has been sent to your emailâ€¦",
+	"ripetibile": "Repeatable for (times)",
+	"nocorxfound": "No CORX found",
+	"corxDidNoEcg": "There are no EKG data",
+	"corxDidFailEcg": "Error getting EKG",
+	"corxDidNoWellness": "There are no wellness data",
+	"corxDidFailWellness": "Error getting wellness data",
+	"wellnessSuccess": "Wellness Data Successfully downloaded",
+	"tickets": "Tickets",
+	"REVOKE": "Revoke",
+	"priority": "Priority",
+	"prescription_revoke_confirmation": "Are you sure you wish to revoke this prescription?",
+	"TICKET_HISTORY": "Ticket History",
+	"certification_sent": "Certificate sent",
+	"TICKET_MANAGEMENT": "Ticket Management",
+	"confirmation": "Confirmation",
+	"systolicBloodPressure": "Systolic blood pressure",
+	"diastolicBloodPressure": "Diastolic blood pressure",
+	"MY_TICKETS": "Your tickets",
+	"NO_TICKETS_SENT": "No tickets sent",
+	"TICKET_NUMBER": "Ticket number",
+	"COMMENT": "Comment",
+	"confirmation_success": "Data sucessfully changed.",
+	"age": "Age",
+	"birthdate": "Birthdate",
+	"FIRST_NAME": "First Name",
+	"P_P_Error": "You have to accept the privacy policy",
+	"datiScaricati": "Synchronization Completed",
+	"downloadWellnessResult": "measure added",
+	"noWellnessData": "No New Wellness Data",
+	"medicalrecord": "Medical Record",
+	"rimborso": "Refund",
+	"doctormanagement": "Doctors management",
+	"allergia_rimossa": "Patient's allergy was successfully deleted",
+	"dottore_rimosso": "Doctor's status was successfully updated",
+	"buttonsearch": "Search",
+	"patientupdate": "Patient",
+	"placeholder": "username, email or name",
+	"initiative": "Initiative",
+	"filenotfound": "File not found",
+	"fileName": "File Name",
+	"drug_name": "Drug Name",
+	"noImages": "No images to display",
+	"clickToOpen": "Click to open",
+	"openimage": "Click on the image to open in full screen",
+	"nodrugs": "No medications have been found under this name ",
+	"adddrugs": "Search for a medication using the search box below and click on the checkbox to add it to your prescription list",
+	"adddiseases": "Search for a diseases using the search box below and click on the checkbox to add it to your diseases list",
+	"btnback": "Back",
+	"other": "Other",
+	"choosetransferdoctor": "Choose a doctor",
+	"finddoctor": "Find Doctors",
+	"search_patient_description": "Search for patient under username, email or name",
+	"deleteMessage": "Are you sure you want to delete this?",
+	"deleteDescription": "It will be deleted immediately.",
+	"reportdottori": "Report Activity",
+	"add_description_file": "Add a description (not mandatory)",
+	"search_doctor_description": "Search for Doctor under username, email or name",
+	"searchdoctor": "Search Doctor",
+	"actionTaken": "Action has been taken",
+	"allergie": "Allergies",
+	"patientAllergy": "Allergies",
+	"cf_error_name": "Name and last name does not match codice fiscale",
+	"motivazione": "Reason",
+	"reason": "Specify a reason",
+	"reportprescriptions": "Report Payments",
+	"specError": "The specialization you are adding is not included in the initiatives the doctor belogs to. Proceed anyway?",
+	"allergia": "Allergy",
+	"birthday": "Birthday",
+	"search_orders_title": "Search the payments order by date and initiative",
+	"complications": "Complications",
+	"name": "Name",
+	"DEVICE_CALORIES": "Calories burned  ",
+	"aggiungi": "Create",
+	"dailyuse": "Daily Use",
+	"date": "Date",
+	"internet_missing": "You are not connected to the internet",
+	"dateDiscovered": "Date Discovered",
+	"GENERIC_ERROR": "OOps! Something went wrong. Please, try again later",
+	"NETWORK_ERROR": "The app is taking too long to load. Please ensure that a strong internet connection is available or try again later",
+	"COMPANY_NAME": "Company",
+	"POLICY_NUMBER": "Policy Number",
+	"LOGIN_ERROR": "Username o Password sbagliati",
+	"sendtoken": "Send this code to the physician to allow him the access to the medical file on emergency.salubermd.com, or click on it to send via email. <br> This link expires in 10 minutes",
+	"REQUEST_ERROR": "There was an error while processing your requests. Check your internet connection or try again later.",
+	"emergencyLoginCode": "Emergency Login Code",
+	"btndelete": "Delete",
+	"delete": "Delete",
+	"dipendenza": "Dependency",
+	"description": "Description",
+	"upload_referral": "Upload your referral in the box below.",
+	"file_upload_instruction": "Upload instruction",
+	"select_file_btn": "Select the file",
+	"press_upload_btn": "Press the upload button",
+	"DOWNLOAD_ERROR_GENERIC": "Oops. An erros occured while trying to download the file. Please, try again later.",
+	"doctorbusy1": "The doctor is busy in another call",
+	"disease_1": "Disease",
+	"deseaseCategory": "Disease Category",
+	"dosage": "Dosage",
+	"edit": "Edit",
+	"device_info_spo2": "Turn on the SpO2 and click on 'Measure', wait for the device to connect and measure the temperature",
+	"acquire": "Measure",
+	"report_date": "Report Date",
+	"genericName": "Generic Name",
+	"hospDate": "Hosp.date",
+	"hospital": "Hospital",
+	"surgeryAndHospitalization": "Hospitalization and Surgical History",
+	"myreminders": "My Reminders",
+	"medicinereminders": "My Medicine Reminders",
+	"exercisereminders": "My Exercise Reminders",
+	"noreminders": "You currently have no reminders",
+	"no_questionnaire": "There are no questionnaire sent",
+	"no_specialization": "No specializations available",
+	"hsh": "Hospitalizations and Surgical History",
+	"hospit": "Hospitalized for",
+	"immunization": "Immunization",
+	"dataVaccinazione": "Immunization Date",
+	"irregulartest": "Irregular Tests",
+	"medicalinfo": "Medical Info",
+	"misure": "Measure",
+	"formafarmaco": "Medication Form",
+	"farmaci": "Medications",
+	"exercise": "Exercise",
+	"diet": "Diet",
+	"digestion": "Digestion issues",
+	"alcoholDesc": "Alcohol",
+	"smokerDesc": "Smoker",
+	"coffeeDesc": "Coffee",
+	"disease": "Chronic Diseases",
+	"medication": "Medications",
+	"farmaco": "Medication",
+	"dependencies": "Dependencies",
+	"register_report": "Users Registrations",
+	"protesi": "Prosthetics and Medical Aids",
+	"method": "Method",
+	"not_available_date": "Date not available",
+	"dayOfWeek": "The service is not available during the weekend",
+	"no": "No",
+	"doestake": "Have you taken",
+	"skip": "Postpone",
+	"skip_step": "Skip",
+	"mandatoryDays": "Please, specify the number of days",
+	"select_file": "Select File",
+	"error_price": "Please, specify a numeric fee",
+	"diseasemanagement": "Disease Management",
+	"removeEmoticons": "Please, remove your emojis if you want to go forward",
+	"wait_user_interaction": "Device connected. Waiting for data acquisition",
+	"error_reading": "Invalid readings",
+	"alert_disconnection": "Are you sure you want to disconnect the device?",
+	"requestSlot": "Request a slot",
+	"RS_confirm": "Do you want to request a slot on ",
+	"RS_pending": "Slot is pending approval, do you wish to delete it?",
+	"RS_reserved": "Slot is already reserved, if you are unable to make it contact support",
+	"morning": "in the morning?",
+	"afternoon": "in the afternooon?",
+	"choseRS": "Click a date to expand it and choose the part of day",
+	"available": "Available to book",
+	"pending": "Pending doctor approval",
+	"patSlotRequest": "Patient slot requests",
+	"slotRequests": "Slot requests",
+	"taken": "Reserved",
+	"daySliceError": "Please select slice of day",
+	"have_not_taken": "Skip",
+	"reminder_title": "You have a new reminder",
+	"RE_NOTIFICATION": "There was a problem submitting requests",
+	"RS_pending1": "Slot is pending approval",
+	"RS_requested": "An appointment slot has been requested",
+	"bp": "Blood Pressure",
+	"selectdevice": "Select a device",
+	"doctorCallQuality": "The quality af the call was eligible for the performance",
+	"patientProtesi": "Prosthetics",
+	"enablenotification": "Allow the notifications on your browser to receive calls",
+	"remarks": "Notes",
+	"source": "Source",
+	"btnsave": "Save",
+	"type": "Type",
+	"tipopratica": "Practice Type",
+	"refundrequestsent": "Your request has been sent",
+	"forma": "Type",
+	"searchpatient": "Search patient",
+	"since": "Since",
+	"devices": "Devices",
+	"surgery": "Surgery",
+	"fat": "Fat",
+	"muscles": "Muscles",
+	"water": "Water",
+	"bones": "Bones",
+	"hours": "Hours",
+	"charleft": "Character left",
+	"minutes": "Minutes",
+	"add_new": "Add",
+	"SUBJECTIVE": "Subjective",
+	"OBJECTIVE": "Objective",
+	"PLAN": "Plan",
+	"final_temp": "Final temperature:",
+	"how_to_temp": "Before proceeding with the pairing, remove the thermometer from the case",
+	"device_not_found": "Device not found. Please ensure that the device is near the phone and retry.",
+	"no_doctor_appointment": "No doctors are available for an appointment right now",
+	"measure_in_progress": "Measure in progress...",
+	"nodrugselected": "You have not selected any drugs. Do you want to proceed anyway?",
+	"nodiseaseselected": "You have not selected any diseases. Do you want to proceed anyway?",
+	"surgeryCategory": "Surgery Category",
+	"addedFavourite": "Successfully added to your favorites",
+	"addedFavourite2": "Successfully added to your favorites. Click on the update button to refresh",
+	"pulldown": "Pull down to refresh",
+	"devicefound": "Device found",
+	"device": "Device",
+	"no_online_doctors": "No online doctors",
+	"kiosk": "Vital Care Kit",
+	"select": "Select",
+	"no_prescription_download": "There is no prescription associated to this consultation",
+	"MSG_CHOOSE_OPTION_2": "Please, insert a description",
+	"USERNAME_FORMAT_ERR": "The username cannot contain part of an email adress",
+	"ENABLE_GPS": "Enable the position to continue",
+	"PRIVACY": "Privacy",
+	"MSG_FILL_PRESCRIPTION_BOX": "You need to select al least one medication to view the prescriprion preview",
+	"ERROR_DELIVERY_OPTION": "Please select the delivery option",
+	"ERROR_SELECT_PHARMACY": "Please, select one pharmacy",
+	"tapconnect": "Tap to connect",
+	"startmeasure": "Start your measurement by pressing the button on your devicee",
+	"status": "Status",
+	"lungtest": "Let's do a lung test",
+	"SOP_Q4": "Attach your medical report",
+	"address2": "Delivery address",
+	"selectDeliveryOption": "Select Delivery Option",
+	"pharmacy_picked": "You have picked a pharmacy",
+	"total_price": "Total price",
+	"delete_record": "Delete",
+	"insured": "Are you insured?",
+	"selected_pharmacy": "Selected pharmacy",
+	"delivery": "Delivery",
+	"connect": "Press the 'Connect' button to connect the device",
+	"connectbtn": "Connect",
+	"disconnectbtn": "Disconnect",
+	"newtest": "Press the 'Plus' button to start a new test",
+	"releaserefresh": "Release to refresh",
+	"loading": "Loading data...",
+	"addedFavourite3": "Successfully added.\n Pull down to refresh",
+	"selectnutritionist": "Choose your own nutritionist",
+	"surname": "Last Name",
+	"test": "Test",
+	"tests": "Tests",
+	"msg_reconnection_error": "Device disconnected. Please, recconnect the device",
+	"favourite_pharmacy": "Favorite Pharmacies",
+	"alreadyAddedF": "This pharmacy is already present in your favorites",
+	"county": "County",
+	"what_time": "Select the time you made it",
+	"price": "Price",
+	"time": "Time",
+	"TIMELINE": "My Health profile",
+	"appointment_history": "Appointment History",
+	"map": "Map",
+	"e_prescribing": "E-prescribing",
+	"bad_file": "Cannot open the file",
+	"prefix": "Prefix",
+	"suffix": "Suffix",
+	"middlename": "Middle Name",
+	"phone2": "Mobile Phone",
+	"phone3": "Work Phone",
+	"addressbis": "Address 2",
+	"removefavorite": "Remove from favorites?",
+	"prescription_pharmacy": "Select a pharmacy",
+	"view": "View",
+	"pharmacies": "Pharmacies",
+	"findFarmacia": "Search Pharmacy",
+	"state": "State",
+	"addFavourite": "Add to Favorite",
+	"weanedoff": "Weaned off?",
+	"annoinizio": "Year Started",
+	"scanningdevice": "Scanning for a device in progres...",
+	"yes": "Yes",
+	"nodoctor": "No Doctors found",
+	"fill_your_doubt": "Please, provide a description in the box above.",
+	"connection_progress": "Connecting to the device...",
+	"device_info_temp": "Turn on the thermometer and click on 'Measure', wait for the device to connect and measure the temperature",
+	"nodoctors": "No Doctors available",
+	"click_to_start_call": "Click on a physician to start the call",
+	"nonutritionist": "No nutritionist available",
+	"record_inserito": "Succesfully added",
+	"addpharmacy": "Find a Pharmacy",
+	"concernlist": "Please list your primary concern/concerns",
+	"updatelist": "Update list",
+	"fileloaded": "Fle uploaded",
+	"fileloaded1": "Fle Successfully Uploaded",
+	"dm_section_description_1": "Here you can attach your file and documents",
+	"updated": "List updated",
+	"timesaday": "Times a Day",
+	"invoice": "Invoice",
+	"NO_MSG": "No sent messages",
+	"BOARD": "Board Certified",
+	"Y": "Yes",
+	"N": "No",
+	"NO_DATA": "No Data",
+	"benefits": "Health Services",
+	"dettaglio_struttura": "Structure detail",
+	"request_sent": "Your request has been sent",
+	"tipo_struttura": "Structure Type",
+	"strutture": "Structures",
+	"devicetype": "Device Type",
+	"fill_quantity": "Please, fill the quantity field",
+	"fill_quantity_for": "Please specify the quantity for",
+	"fill_indication": "Please, fill the indication field",
+	"fill_indication_for": "Please specify the indication for",
+	"specify_drug_name": "Please, specify a name for 'other'",
+	"wellness": "Wellness Services",
+	"pills": "Pills",
+	"welcome": "Welcome",
+	"noavailableoption": "No options available",
+	"ecgdetail": "Click on each item to see the EKG images",
+	"nolabtest": "No lab tests found",
+	"nopharmacy": "No Pharmacies found",
+	"prov": "Prov",
+	"dettagli": "Details",
+	"medical_2option": "Medical Second Opinion",
+	"real_age": "Real Age",
+	"oximeter": "Pulse oximeter",
+	"nooximeterfound": "No Pulse Oximeter found",
+	"scanningoximeter": "Searching for Pulse Oximeter...Please wait",
+	"discount": "Prescription discount",
+	"referral_sent": "Referral sent",
+	"labtesting": "Network",
+	"noassociatedpatient": "You have no patients associated yet",
+	"specialists": "Specialists",
+	"nocomment": "No comments/reccomendations",
+	"searchmedication": "Search Medications",
+	"searchdisease": "Search Disease",
+	"selectdrug": "Select a Medication",
+	"searchallergy": "Search Allergies",
+	"searchdiseases": "Search Diseases",
+	"specifyother": "Please specify Other",
+	"emptypassword": "Please specify a Password",
+	"searchpatologia": "Search Medical Condition",
+	"passwordchanged": "Password successfully changed!",
+	"homepage": "Home",
+	"ca": "Cardiovascular System",
+	"required_field": "Filed Required",
+	"BP_DESCRIPTION": "Blood pressure is a measure of the force that your heart uses to pump blood around your body. The systolic pressure is the pressure when your heart pushes blood out, the diastolic pressure the pressure when your heart rests between beats. Below a reference table for Blood Pressure values",
+	"ns": "Nervous System",
+	"rs": "Respiratory System",
+	"idx": "Indexes",
+	"stroke_volume": "Stroke volume",
+	"cardiac_output": "Cardiac output",
+	"vascular_age": "Vascular age",
+	"medio": "Medium",
+	"medium": "medium",
+	"basso": "Low",
+	"sri_desc": "We analyze your breathing patterns during any medical session and during your sleep. If SRI is below 30 your chances to suffer from obstructive respiratory conditions are low.",
+	"sbpi_desc": "High blood pressure is the silent killer. Your Systolic and Diastolic blood pressure values are being estimated during any medical session you perform. Keep the SBPI below 30 to have lower chances to suffer from life threatening conditions such as stroke and blood clots.",
+	"sai_desc": "SAI is purely based on your heart rate. It is a simple metric that tracks the bodyâ€™s response to physical activity â€“ much more than just steps. Unlike step tracking, SCI gives credit for every activity that elevates the heart rate: swimming, biking, rowing, dancing, whatever. Keep it below 30 for better and healthier life.",
+	"sci_desc": "By analyzing your arterial pulse wave we are deriving insights about your cardiovascular system. The SCI index is a summary of your cardiovascular health, try to keep it below 20!",
+	"stroke_volume_desc": "The stroke volume is the volume of blood ejected by each ventricle per beat",
+	"years": "years",
+	"sv_bassa": "lower than 55 ml",
+	"sv_normale": "between 55 and 100 ml",
+	"sv_alta": "greater than 100",
+	"co_bassa": "lower than 4 L/min",
+	"co_normale": "between 4 and 8 L/min",
+	"co_alta": "greater than 8 L/min",
+	"sl_bassa": "lower than 65",
+	"sl_normale": "between 65 and 85 bpm",
+	"sl_alta": "greater than 85 bpm",
+	"waiting": "Processing...",
+	"loading_list_nutritionist": "Loading nutritionists...",
+	"provider": "Providers",
+	"ADD_PROVIDERS": "Providers Settngs",
+	"PROVIDER_TIP": "Configure the providers settings for each initiative",
+	"MSG_COMPLETE_QESTION": "Please specify what do you want to talk with the nutritionist",
+	"MSG_CHOOSE_OPTION1": "Please list your primary concern.",
+	"msgsurveysent": "Survey successfully sent",
+	"MSG_CHOOSE_OPTION4": "Chose an option",
+	"MSG_CHOOSE_OPTION5": "Describe your breakfast",
+	"MSG_CHOOSE_OPTION6": "Describe your dinner",
+	"MSG_CHOOSE_OPTION7": "Describe your lunch",
+	"MSG_CHOOSE_OPTION8": "Describe your snaks",
+	"MSG_CHOOSE_OPTION9": "Please, answer all the questions",
+	"SECOND_OPINION_Q1": "Describe your request?",
+	"DEVICE_NOTIFICATIONS": "Notifications",
+	"CORX_PROD": "CORX",
+	"PRESX_PROD": "PRESX",
+	"SCALX_PROD": "SCALX",
+	"ARIAX_PROD": "ARIAX",
+	"sl_desc": "The stress level is calculated based on the beat per minute",
+	"spo2_desc": "SpO2 or blood oxygen level is a measure of how much oxygen your red blood cells are carrying. Normal values are between 95% and 100%, A below-normal blood oxygen level is called hypoxemia",
+	"rr_desc": "The respiratory rate is the rate at which breathing occurs. The normal respiration rate for an adult at rest is 12 to 20 breaths per minute. A respiration rate under 12 or over 25 breaths per minute while resting is considered abnormal",
+	"your_stress": "Your stress level is:",
+	"your_sci": "You cardiac index is:",
+	"your_sri": "Your Respiratory index is:",
+	"your_sbpi": "Your Blood pressure index is:",
+	"your_sai": "Your Activity index is:",
+	"your_sii": "Your Insurance indexis:",
+	"your_ssi": "Your Stress index is:",
+	"sci_title": "SCI",
+	"sri_title": "SRI",
+	"sii_title": "SII",
+	"sbpi_title": "SBPI",
+	"sai_title": "SAI",
+	"ssi_title": "SSI",
+	"va_desc": "Vascular Age provides you a measure of the apparent age of your arteries, when compared with healthy people. If your vascular age is greater than your chronological age, you may be at more risk of developing cardiovascular disease (CVD) later in life.",
+	"cardiac_output_desc": "The cardiac output is simply the amount of blood pumped by the heart per minute.",
+	"cardiovascular": "Cardiovascular",
+	"your_va": "Your vascular age is:",
+	"nervous": "Nervous",
+	"respiratory": "Respiratory",
+	"indexes": "Indexes",
+	"activity": "Activity",
+	"stress": "Stress",
+	"stroke_vol": "Stroke volume",
+	"cardiac_output1": "Cardiac output",
+	"vascular_age1": "Vascular age",
+	"pressure_index1": "Pressure",
+	"sl": "Stress level",
+	"sci": "Cardiovascular index",
+	"sri": "Respiratory index",
+	"sbpi": "Blood pressure index",
+	"sai": "Activity index",
+	"ssi": "Stress index",
+	"sii": "Insurance Index",
+	"ssi_desc": "By analyzing your heart rate variability we quantify your level of stress. Stress seems to worsen or increase the risk of conditions like obesity, heart disease, Alzheimer's disease, diabetes, depression, gastrointestinal problems, and asthma. Keep it below 20 to be on the safe side!",
+	"sii_desc": "SII is a combination of all SaluberMD indexes and is a mirror of your general medical risk. If below 30 you are in the safe zone",
+	"weight_tracker": "Weight Tracker",
+	"steps": "Steps",
+	"acceptablerange": "Acceptable range",
+	"all": "All",
+	"MSG_CALL_TRANSFERED": "The videocall has been successfully transfered",
+	"calltransfer": "Transfering call...",
+	"alldata": "All Data",
+	"tendays": "Last 10",
+	"sevendays": "7 Days",
+	"amonth": "30 Days",
+	"setTreshold": "Set Range",
+	"primaryGoal": "Primary Goal",
+	"pc60instruction": "To save your measurement shown in the screen, remove the finger from the oximeter and wait for a few seconds.(Clicking on the back button will not save your measurement)",
+	"heartrate": "Heart rate",
+	"spec_requeierd": "Required specialty",
+	"lugtest": "Lug test",
+	"kg": "Kg",
+	"bpm": "bpm",
+	"report2": "Report",
+	"noconsulenze": "No visits done",
+	"tot_visite": "Visits Done",
+	"tot_ricevute": "Call received",
+	"tot_non_risposte": "Call not Answered",
+	"app_missing": "The Support App is not installed",
+	"vaionline": "Go Online",
+	"vaioffline": "Go Offline",
+	"second_opinion_1": "Convenient, reliable access to a medical second opinion from the leading specialists around the world.",
+	"second_opinion_2": "Our Medical Second Opinion Service can help you:",
+	"second_opinion_3": "Get answers to your questions",
+	"second_opinion_4": "Select the best treatment plan",
+	"second_opinion_5": "Ensure a correct diagnosis",
+	"second_opinion_step1": "Complete a brief questionnaire/Upload your files",
+	"second_opinion_step2": "Our Doctors will evaluate your information",
+	"second_opinion_step3": "Doctor consultation to discuss your results",
+	"second_opinion_question1": "Who is the second opinion for?",
+	"second_opinion_question2": "Upload a file",
+	"search_specialization": "Search specialization",
+	"no_specialization_found": "No specialization found",
+	"nofiles": "There are no files uploaded by the patient",
+	"normalrange": "Normality Range",
+	"nomisure": "There are no measure",
+	"spirometer": "Spirometry",
+	"glucosio": "Glucose",
+	"specifyvalue": "Please, specify a value",
+	"type_error": "Please, specify a type",
+	"heartRate": "HR",
+	"sysdia": "Pressure",
+	"systolic": "Systolic",
+	"diastolic": "Diastolic",
+	"dissocia": "Disconnect",
+	"update_list": "Update",
+	"corx_disconnected": "Corx Disconnected",
+	"select_reminder": "Select a reminder type",
+	"second_opinion_msg": "Thank You. Our health advocate will reach out to you within the next 24 hours.",
+	"OUT_OF_RANGE": "Out of range. Take reading again",
+	"step": "Step",
+	"scan": "Scan",
+	"unit": "Unit",
+	"litri": "Liter",
+	"seeaprovider": "See a provider",
+	"selectaprovider": "Select a Provider",
+	"importhealth": "Import Health Data",
+	"scanningcorx": "Searching for CORX... Please Wait",
+	"downloadwellnessdata": "Synchronization in Progress. Please wait...",
+	"NETWORK_CHECK_TITLE": "Call Quality Test",
+	"CHECK_PARAMETERS_CORX": "Please, insert the weight and the height on the profile section in order to calculate the correct wellness values.",
+	"NETWORK_CHECK_MSG": "Your Bandwidth is too low. Playing content with low bandwidth will cause the video to pause.",
+	"SEND_BTN": "Send",
+	"SET_BTN": "Set",
+	"PRIVACY_POLICY_TITLE": "Privacy Policy",
+	"TERMS_TITLE": "Terms of Use",
+	"title": "Title",
+	"noQuestionnaire": "There are no questionnaire",
+	"ABOUT_US_TITLE": "About Us",
+	"ABOUT_US_SECTION1_TITLE": "About Us",
+	"about_us_section1_p1": "SaluberMD is a Digital Health organization dedicated to transforming the delivery of medical services\nand products to improve health outcomes worldwide. Our Digital Medical Concierge services, provide\n access to health and wellness benefits, board certified physicians, personal medical file in 18 languages, \nwearables to monitor your health, and access to a network of healthcare professionals and services. ",
+	"contatti": "Contact Information",
+	"prescriptiondiscounts": "Prescription Discounts",
+	"mobile": "Mobile",
+	"changeschedule": "Modify time",
+	"hrv_generale": "General",
+	"hrv_buono": "Good",
+	"leggero": "Light",
+	"alto": "High",
+	"request_app": "Request an appointment",
+	"hideReservedSlots": "Hide reserved slot requests",
+	"searching_online_doctors": "Searching online doctors in progress...",
+	"formatError": "The price must be a numeric value between 0.00 (free) and 999.99.",
+	"agenda_report": "Report Appointments",
+	"registration_date": "Registration Date",
+	"howToPrice": "The price must be a numeric value between 0.00 (free) and 999.99. At most two decimal value are allowed. Dot or comma can be used as separators",
+	"ecgdata_header": "EKG data",
+	"recupero_dati": "Getting data...",
+	"totalSleepTime": "Total sleep time",
+	"affaticamento_minore": "Minor Fatigue",
+	"affaticamento_grave": "Severe Fatigue",
+	"hrv_eccellente": "Excellent",
+	"FEES": "Manage fees",
+	"direct_call": "Direct Call",
+	"howToDocuments": "In this section you can upload PDF a file of at most 5 MB",
+	"error_update": "Error Updating Firmware",
+	"update_firmware_download_error": "Error downloading the firmware",
+	"ecg_not_found": "Incorrect ECG File, try another misuration.",
+	"resetCorxFactory": "Are you sure you want to reset the Corx?",
+	"continue": "Continue",
+	"mobile_required": "Please, add your phone number so that we can contact you to arrange an appointment.",
+	"bassa": "Low",
+	"normale": "Normal",
+	"alta": "High",
+	"allRequests": "All requests",
+	"chooseSlot": "Choose a slot or create a new one",
+	"appoRequest": "Appointment Requests",
+	"app_requests": "Appointment Requests",
+	"START_EXAM": "Start exam",
+	"EXAMS_TIP": "If there are no exams associated to one initiative then by default all will be visible",
+	"POC_INFO_1": "Power on the device, then click on 'Start exam'",
+	"SCANNING": "Scanning..",
+	"NO_DATA_TO_SAVE": "No data to save",
+	"SAVE_EXIT": "Are you sure to save and exit?",
+	"POC_INFO_2": "put oximeter on finger before proceeding",
+	"POC_INFO_3": "Place presx on the arm",
+	"POC_INFO_4_PRESX": "Press 1 on presx for start, then click on 'Start acquisition'",
+	"POC_INFO_5_PRESX": "Keep hold button 2 for the presx pairing, then press on 'Start Exam'",
+	"START_ACQUISITION": "Start acquisition",
+	"pickPat": "Pick a patient",
+	"noRequests": "There are no requests in the next 5 days",
+	"patQuest": "Questionnaire submitted",
+	"select_quest": "Click on a row to see the details",
+	"day_slice": "Day slice",
+	"appointment_requests": "Appointment requests",
+	"add_submember": "New member",
+	"no_appointment_requests": "You don't have any appointment requests.",
+	"reserved": "Reserved",
+	"reviewed": "Reviewed",
+	"delete_member": "Member has been successfully deleted",
+	"pending_request": "Pending",
+	"submember_exists": "Name and surname are already taken by another member.",
+	"update_submember": "Update member",
+	"gender_member": "Gender",
+	"update_member_success": "Member successfully updated",
+	"invalid_bpm": "The BPM value must be positive and less tha 200",
+	"sub_members": "View all members",
+	"switch_member": "Are you sure you want to switch on this member?",
+	"success_switch": "You are switching to user",
+	"request_shceduled": "This request is scheduled",
+	"hide": "Hide",
+	"NO_GENETIC_TEST_REQUESTS": "You haven't requested any genetic test",
+	"TEMPERATURE": "Body Temperature",
+	"POUNDS": "lbs",
+	"FEET": "Feet",
+	"last_time_taken": "Last time taken",
+	"weightUnit": "Weight Unit",
+	"heightUnit": "Height Unit",
+	"patient_calling": "Calling the patient...",
+	"above_warning": "Values above are at risk",
+	"below_warning": "Value below are at risk",
+	"total_cholesterol_desc": "This value is an estimate of all the cholesterol in the blood. The following table shows the range of the values.",
+	"ldl_cholesterol_desc": "LDL, or low-density lipoprotein, is the 'bad' cholesterol. The following table shows the range of the values.",
+	"hdl_cholesterol_desc": "High-density lipoprotein (HDL) cholesterol is known as the 'good' cholesterol. The following table shows the range of the values",
+	"trig_cholesterol_desc": "Triglycerides are a type of fat (lipid) found in your blood. The following table shows the range of the values",
+	"desirable": "Desirable",
+	"moderate_risk": "Moderate risk",
+	"high_risk": "High risk",
+	"settings_saved": "Settings successfully saved",
+	"hr_bassa": "Less than 60",
+	"corx_wh": "Please, specify you weight and height in oreder to correctly calculate the vitals parameters.",
+	"hr_normale": "Between 60 and 100",
+	"hr_alta": "Greater than 100",
+	"live_ecg_downloading": "Downloading ECG from CORX...",
+	"missedNotiAlert": "You have some missed notifications.",
+	"LIVE_ECG": "New measurement",
+	"RESPIRATORY_RATE": "Respiratory Rate",
+	"UPDATE_AVAILABLE": "Update Available",
+	"FIRMWARE_UPDATE": "Firmware Update",
+	"W_RESPIRATORY_RATE": "Breath",
+	"PER_MIN": "/min",
+	"FIRMWARE_UPDATED": "Firmware Updated",
+	"ECG_DELETE_Q": "Are you sure you want to delete the EKG?",
+	"ECG_REMOVED": "EKG successfully deleted",
+	"MSG_DOC_REJECTED_CALL": "The doctor has rejected the call",
+	"HOUR": "H",
+	"MINUTE": "M",
+	"STEPS_GOAL": "Steps Goal",
+	"DONE_BTN": "Done",
+	"CERROR": "Poor Contact",
+	"DISTANCE": "Distance",
+	"HR_DESCRIPTION": "Reference table of normal resting Heart Rates",
+	"HEALTH_INDEX_DESCRIPTION": "HRV health index is through analysis of the average heart rate HR and heart rate variability HRV and other parameters, based on the real-time measurement of the results of Holter to analyze the body's health parameters, health index increased, representing the health of the body better; health index decreased, on behalf of the body Need to pay attention to daily healthy life.",
+	"FATIGUE_INDEX_DESCRIPTION": "Work, work and experience caused by the degree of fatigue. Excessive fatigue easily leads to shoulder muscle stiffness, headache, insomnia, fatigue, waist pain, and easily lead to the nervous system, endocrine disorders, resulting in many chronic diseases and mental fatigue.",
+	"LOAD_INDEX_DESCRIPTION": "Degree and fatigue, stress Comprehensive consideration of the body to bear the load index, reflecting on the physical and psychological aspects of the people bear the load situation. External social, life and competition and other factors, but also by their own physical condition and mental state.",
+	"QUALITY_INDEX_DESCRIPTION": "Physical fitness is the level of resilience and mental stress encountered in the face of the ability to adapt and handle the situation. Physical fitness index reflects the human body to adapt to environmental changes and stress stimulation, maintain and restore the health ability. Physical fitness is often manifested in the potential of people's lives, learning, and work, but also naturally in physical exercise. A person's physical quality is related to heredity but is more closely related to acquired nutrition and physical exercise. Through correct methods and proper exercise, he / she can improve his physical fitness in all aspects.",
+	"HEART_INDEX_DESCRIPTION": "Cardiac Function Users measure a person's heart condition, and their performance is different due to their different levels of love for the heart and overall health status. To develop a healthy lifestyle and eating habits: a reasonable strategy to exercise heart to force the heart calcium sodium supplement, to protect the blood vessels, can actively prevent the occurrence of heart disease, is to strengthen cardiac function strategy.",
+	"SYNC_TIME": "Sync Time",
+	"FIND_THE_BRACELET": "Find the Bracelet",
+	"RESTORE_FACTORY_SETTINGS": "Restore factory settings",
+	"UNIT_SETTING": "Unit Setting",
+	"CLOCK_FORMAT": "Clock Format",
+	"LANGUAGE_TYPE": "Language",
+	"HAND_BRIGHTEN": "Raise your Hand to Brighten",
+	"DND": "Do Not Disturb",
+	"WRIST_CUT_SCREEN": "Turn Wrist Cut Screen",
+	"PERIODIC_HEART_RATE": "Periodic Heart Rate",
+	"DO_NOT_DISTURB": "Do not disturb",
+	"METRIC": "Km",
+	"cm": "cm",
+	"INCH": "Mile",
+	"DOWNLOADING_DEVICE_DATA": "Downloading...",
+	"APPROX_DATA": "Other Wellness Data",
+	"HEALTH_INDEX": "Health",
+	"FATIGUE_INDEX": "Fatigue",
+	"LOAD_INDEX": "Load",
+	"QUALITY_INDEX": "Quality",
+	"HEART_INDEX": "Heart",
+	"TOTAL_SLEEP_TIME": "Total Sleep Time",
+	"DEEP_SLEEP_TIME": "Deep Sleep",
+	"LIGHT_SLEEP_TIME": "Light Sleep",
+	"DORMIVEGLIA": "Drowsiness",
+	"SONNO": "Sleep",
+	"MANAGE_CORX": "Manage Corx",
+	"SLEEP": "Sleep",
+	"ABOUT_US_SECTION2_TITLE": "How Does It Work?",
+	"ABOUT_US_SECTION2_P1": "Through geo-localization our app will find the best Physician near you. SaluberMD Physicians can diagnose, treat, or discuss your medical condition through video and provide you with an appropriate treatment plan. Many of the most common conditions treated in a doctor's office can be treated with a video visit.<br/>Some of the conditions we treat:",
+	"ABOUT_US_CONDITION_1": "Cold & Flu",
+	"ABOUT_US_CONDITION_2": "Skin Conditions",
+	"ABOUT_US_CONDITION_3": "Allergies",
+	"ABOUT_US_CONDITION_4": "Sore Throat",
+	"ABOUT_US_CONDITION_5": "Stomach Ache",
+	"ABOUT_US_SECTION2_P2": "Your Personal Medical Record is a convenient place to store all of your health data, images and files. Keep track of your health with 24/7 access to all of your medical records. Whether you are at home or travelling abroad, your information is at your fingertips to share with your health professional. The easy to use personal medical record is available in 36 languages.",
+	"ABOUT_US_SECTION3_TITLE": "Our Doctors",
+	"ABOUT_US_SECTION3_P1": "Only the top board-certified Physicians provide medical care on SaluberMD. These professionals are verified, extensively screened and trained to provide the best quality care.  Each Physician has a bio where you can view their background, credentials, and experience. SaluberMD is committed to ongoing quality management of our Physicians. A rating system allows patients to rate doctors and to view a doctors overall rating.",
+	"PRICING_TITLE": "Pricing",
+	"PRICING_SECTION1_TITLE": "Per Visit",
+	"VISITS": "Visits",
+	"PRICING_SECTION1_P1": "SaluberMD is committed to providing convenient, quality care at affordable prices with no hidden fees or charges.",
+	"PRICING_SECTION1_P2": "SaluberMD provides care wherever and whenever you need it via a video call visit with a board certified physician. Our physicians can discuss, examine, listen and diagnose your issue,  or simply address medical questions and concerns while on the video call.",
+	"PRICING_SECTION1_P3": "With our exclusive Personal Medical Record you can provide your physician with access to your medical history, your images and files to help them provide the most effective treatment plan.",
+	"ABOUT_US_DOCTOR_TITLE": "About Us",
+	"ABOUT_US_DOCTOR_SECTION1_P1": "Join the movement to provide reliable, affordable, global access to healthcare within 15 minutes or less.",
+	"ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD is designed to revolutionize doctor-patient relationships by creating 24/7 access to healthcare globally.",
+	"ABOUT_US_DOCTOR_SECTION1_P3": "Doctor Benefits",
+	"ABOUT_US_DOCTOR_BENEFIT1": "INCREASE INCOME:",
+	"ABOUT_US_DOCTOR_BENEFIT1_DESC": "You can see up to six patients an hour (a virtual visit typically lasts about 10 minutes);",
+	"ABOUT_US_DOCTOR_BENEFIT2": "PROVIDE PATIENT CARE FROM ANYWHERE IN THE WORLD:",
+	"ABOUT_US_DOCTOR_BENEFIT2_DESC": "Increase patient relationships with the ability to treat current and new patients from anywhere in the world;",
+	"ABOUT_US_DOCTOR_BENEFIT3": "GET A FREE VIRTUAL PRACTICE:",
+	"ABOUT_US_DOCTOR_BENEFIT3_DESC": "Grow your current practice and offer more options for patients;",
+	"ABOUT_US_DOCTOR_BENEFIT4": "MORE PRODUCTIVE PATIENT VISITS:",
+	"ABOUT_US_DOCTOR_BENEFIT4_DESC": "Patients can send you documents, photos, lab results without having to leave home and you can monitor your patient's health remotely;",
+	"ABOUT_US_DOCTOR_BENEFIT5": "Identify which patients need hands on care right away and who can benefit from remote treatment without leaving home",
+	"ABOUT_US_DOCTOR_BENEFIT5_DESC": "INCREASE INCOME:",
+	"ABOUT_US_DOCTOR_BENEFIT6": "FLEXIBLE HOURS:",
+	"ABOUT_US_DOCTOR_BENEFIT6_DESC": "The ability to set your own hours and set your own schedule.",
+	"CONTACT_US_TITLE": "Contact Us",
+	"CONTACT_US_SECTION_TITLE": "Type in your question or comment and click the send button",
+	"CONTACT_US_SECTION_TITLE1": "Please contact us with any questions or if you need help using the app.",
+	"CONTACT_US_BTN": "Contact Us",
+	"EKG_TITLE": "EKG Upload",
+	"online": "Online",
+	"offline": "Offline",
+	"SIGNUP_STEP1": "Enter your credentials",
+	"SIGNUP_STEP2": "Enter your profile information",
+	"SIGNUP_STEP3": "Enter your contact information",
+	"EKG_SECTION_TITLE": "Electrocardiogram (EKG/ECG) Results",
+	"HOURS_BANK_TITLE": "Hours Bank",
+	"HOURS_BANK_SECTION_TITLE": "Join us in giving the gift of healthcare!",
+	"HOURS_BANK_SECTION_P1": "Health is our top priority at SaluberMD and we want to serve as many people as possible. Through our platform we are making it possible for those in need to have access to healthcare. Our outreach team is committed to providing healthcare opportunities to organizations, individuals and families in need.",
+	"HOURS_BANK_SECTION_P2": "Simply click on the link and indicate how many hours that you would like to donate and we will add them to our bank.",
+	"HOURS_BANK_SECTION_P3": "We'll contact you via the app to redeem the hours and when you are available simply click 'Accept' to see patients.",
+	"HOURS_BANK_DONATION": "Hours currently donated:",
+	"HOURS_BANK_H": "Hours Bank:",
+	"HOURS_BANK_DONATE_BTN": "Donate",
+	"poc": "PoC",
+	"personalCare": "Personal Care",
+	"DEVICE_DATA_TITLE_1": "Medical Device Data",
+	"DEVICE_DATA_TITLE": "Medical Device Data",
+	"DEVICE_DATA_SECTION_TITLE": "Your Medical Device Data ",
+	"DEVICE_EKG": "EKG",
+	"CORX_DATA": "CorX Data",
+	"DEVICE_BLOOD_PRESSURE": "Blood Pressure",
+	"DEVICE_SPO2": "Spo2",
+	"DEVICE_RESPIRATORY_FREQUENCY": "Respiratory Frequency",
+	"DEVICE_CARDIAC": "Cardiac Monitoring",
+	"DEVICE_TEMPERATURE": "Temperature",
+	"DEVICE_GLUCOMETER": "Glucometer",
+	"DEVICE_FR": "FR",
+	"DEVICE_FC": "FC",
+	"DEVICE_HEART_RATE": "Heart Rate",
+	"DEVICE_PEDOMETER": "Pedometer",
+	"DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+	"DEVICE_CHL": "Lipidic Profile",
+	"CHL_TOT": "Total Cholesterol",
+	"LDL": "LDL Cholesterol",
+	"HDL": "HDL Cholesterol",
+	"triglycerides": "Triglycerides",
+	"DOCTOR_PROFILE_TITLE": "Profile",
+	"DOCTOR_PROFILE_OPT1": "Profile",
+	"DOCTOR_PROFILE_OPT2": "Patient Visit History",
+	"PATIENT_PROFILE_OPT1": "My Profile",
+	"PATIENT_PROFILE_OPT2": "My Medical File",
+	"PROFILE_SECTION2": "Contact Information",
+	"DOCTOR_PROFILE_SECTION1": "Your Profile",
+	"WATCH_DEVICE_DATA_TITLE": "Your Watch Device Data",
+	"WATCH_DEVICE_DATA_SECTION1_TITLE": "Health Data ",
+	"WATCH_DEVICE_DATA_SECTION2_TITLE": "Wellness Data",
+	"OUR_PRODUCTS_TITLE": "Our Products",
+	"OUR_PRODUCTS_SECTION_NUVOAIR1": "Measure your lung health in seconds with a professional spirometer",
+	"OUR_PRODUCTS_SECTION": "Our device provides real time health and wellness data to help you keep track of your health.",
+	"OUR_PRODUCTS_SECTION_P1": "Smart wearable technology that provides real time health data in addition to wellness functions",
+	"OUR_PRODUCTS_SECTION_P2": "Fitness/Wellness Benefits",
+	"OUR_PRODUCTS_SECTION_P3": "Your home based diagnostic kit for the whole family.",
+	"OUR_PRODUCTS_SECTION_P4": "Features",
+	"OUR_PRODUCTS_SECTION_P5": "This device is designed to interact with the app and provide a well rounded health experience. Your results will be stored directly in the app.",
+	"VISIT_HISTORY_TITLE": "Visit History",
+	"VISIT_HISTORY_NO_HISTORY": "You have no visits yet",
+	"GENERAL_PRACTICE": "'e.g: General pratictioner",
+	"VISIT_HISTORY_SUBTITLE": "Click on each item to see full details",
+	"RECOMMEND_TITLE": "Recommend",
+	"resultfound": "Records Found",
+	"update_completed": "Firmware Updated Successfully",
+	"DOWNLOADING_FIRMWARE": "Downloaging Firmware...",
+	"RECOMMEND_SECTION_TITLE": "Recommend a Colleague",
+	"RECOMMEND_SECTION_P1": "At SaluberMD we strive to meet the demand for quality healthcare around the world by offering our customers access to a well-rounded and professional group of Physicians.",
+	"RECOMMEND_SECTION_P2": "We are always looking for quality Physicians to add to our wonderful team. As a member of our team we respect and value your referrals.",
+	"RECOMMEND_SECTION_P3": "Please fill out the form below to refer a Physician to SaluberMD",
+	"QUESTIONS_TITLE": "Questions",
+	"QUESTIONS_SECTION_TITLE": "Receive 1 free consultation or health assessment call after fully completing your medical file.",
+	"POSTCALL_DOCTOR_TITLE": "Summary of the visit",
+	"POSTCALL_PATIENT_TITLE": "Please, rate your experience",
+	"PAYMENT_SECTION1": "Select a card from the list",
+	"payment": "Payment",
+	"REFERRALS": "Referrals",
+	"PAYMENT_SECTION2": "Insert your credit card information",
+	"CARD_NUMBER": "Card Number",
+	"CARD_CVC": "CVC",
+	"CARD_EXPIRY_DATE": "Expiry Date",
+	"CARD_NUMBER_ERROR": "Invalid CC Number",
+	"CARD_MONTH_ERROR": "Invalid Month",
+	"CARD_YEAR_ERROR": "Invalid Year",
+	"CARD_CVC_ERROR": "Invalid CVC",
+	"PAYMENT_SUCCESSFUL": "We have Successfully pre-authorized the payment",
+	"PAYMENT_UNSUCCESSFUL": "Payment pre-authorization failed. Check your credit card info or ask your bank.",
+	"MYFILE_TITLE": "My Files",
+	"MYFILE_NOFILE": "You have no files yet",
+	"MYFILE_SECTION": "Your Files",
+	"MYFILE_SUBTITLE": "Click on each item to see the file content",
+	"transfer_call": "Transfer Call",
+	"SUMMARY": "Diagnosis",
+	"COMPLAIN": "Chief Complaint",
+	"DIAGNOSIS": "Diagnosis",
+	"CONSULT": "Chief Complaint",
+	"RECOMMENDATIONS": "Recommendations",
+	"PRESCRIPTIONS": "Prescriptions",
+	"PRESCRIPTION": "Prescription",
+	"REFERRAL": "Referral",
+	"WHITE_SPACES": "The Username must not contain white spaces",
+	"CALL_WAITING": "Please wait for the provider to respond",
+	"CALL_WAITING_2": "Please wait while the provider reviews your file",
+	"CALL_DOCTOR_INFO": "Provider Info",
+	"FIND_A_DOCTOR": "Connect to a Doctor",
+	"CHOOSE_A_DOCTOR": "Choose your own provider",
+	"DISDICI": "Cancel",
+	"CANCEL_BTN": "Cancel",
+	"CLOSE_BTN": "Close",
+	"END_VISIT_BTN": "End visit",
+	"MSG_SCHOOL_MISSING": "Insert School",
+	"MSG_SELECT_TIMEZONE": "Select a timezone",
+	"MSG_YEAR_PRACTISE": "Insert Year of Practise",
+	"MSG_ADDDRESS_MISSING": "Insert Office Address",
+	"SEE_A_DOCTOR_TITLE": "See a Doctor",
+	"SEE_A_DOCTOR_Q1": "Who is this video call for?",
+	"SEE_A_DOCTOR_Q1_A1": "Me",
+	"SEE_A_DOCTOR_Q1_A2": "My child",
+	"SEE_A_DOCTOR_Q1B": "Name and birthdate of your child?",
+	"SEE_A_DOCTOR_Q2": "Please, describe what you would like to talk about.",
+	"SEE_A_DOCTOR_Q3": "Symptoms?",
+	"SEE_A_DOCTOR_Q4": "Would you like to attach a photo?",
+	"SEE_A_DOCTOR_Q4_HINT": "Files must not exceed 5 MB",
+	"SEE_A_DOCTOR_Q4_HINTa": "Files must not exceed 5 MB",
+	"SEE_A_DOCTOR_Q4_HINTb": "(Click on the image name to change it)",
+	"SURVEYS": "Surveys",
+	"NO_SURVEYS": "There are no surveys",
+	"enterName": "Please neter a name for the picture",
+	"removeLargeFiles": "File must not exceed 5MB. Please remove files over 5MB",
+	"registration_terms_label": "Accept the terms and agreements",
+	"registration_privacy_label": "Accept the privacy policy",
+	"SEE_A_DOCTOR_Q4_S1": "Select a File",
+	"SEE_A_DOCTOR_Q4_S2": "Take a Photo",
+	"SEE_A_DOCTOR_Q4_ERROR": "ERROR: Files must not exceed 5 MB",
+	"SEE_A_DOCTOR_Q5": "Are you currently taking any medication, if so please list the name",
+	"SEE_A_DOCTOR_Q5_CHILD": "Does your child is currently taking any medication? if so please list the name",
+	"SEE_A_DOCTOR_Q5_S1": "Name:",
+	"SEE_A_DOCTOR_Q5_S2": "Dosage:",
+	"SEE_A_DOCTOR_Q6": "Do you have any allergies?",
+	"SEE_A_DOCTOR_Q6_CHILD": "Does your child has any allergies? if so please list the name",
+	"SEE_A_DOCTOR_Q7": "Do you have any medical conditions?",
+	"SEE_A_DOCTOR_Q7_CHILD": "Does your child has any medical conditions? if so please list the name",
+	"SEE_A_DOCTOR_Q8": "Do you authorize the doctor to view your Personal Medical Record and receive care via telehealth, and communicate via remote video, text, and email?",
+	"SEE_A_DOCTOR_Q9": "Preferred Pharmacy",
+	"SEE_A_DOCTOR_Q10": "We can send you prescription directly to the pharmacy of your choice.",
+	"SEE_A_DOCTOR_Q11": "Do you have any diseases?",
+	"SEE_A_DOCTOR_Q11_CHILD": "Does your child has any diseases? if so please list the name",
+	"CALL_NO_INCOMING": "No incoming calls",
+	"PATIENT_SUMMARY": "Summary of Patient Information",
+	"DOCTOR_SUMMARY": "Summary of Doctor Information",
+	"PATIENT_S1": "Patient",
+	"PATIENT_S2": "Talking about",
+	"PATIENT_S3": "Patient info",
+	"PATIENT_S4": "Subject of Visit",
+	"PATIENT_S5": "Diseases",
+	"PATIENT_S6": "Allergies",
+	"PATIENT_S7": "Medications",
+	"PATIENT_S8": "Attached Documents",
+	"PATIENT_S9": "Symptoms?",
+	"NUTRITIONIST_Q1": "Primary Goals: (Check all that apply)",
+	"NUTRITIONIST_Q2": "Approximately how many meals do you eat a day? (Choose One)",
+	"NUTRITIONIST_Q3": "What does your typical breakfast consist of? What time do you normally eat it?",
+	"NUTRITIONIST_Q4": "What does your typical lunch consist of? What time do you normally eat it?",
+	"NUTRITIONIST_Q5": "What does your typical dinner consist of? What time do you normally eat it?",
+	"NUTRITIONIST_Q6": "What do your typical snacks consist of? What time do you normally eat them?",
+	"NUTRITIONIST_Q7": "Do You Overeat?",
+	"NUTRITIONIST_Q8": "What foods do you tend to overeat and how often?",
+	"NUTRITIONIST_Q9": "Do you have any food allergies, sensitivities or restrictions? Please list them below:",
+	"NUTRITIONIST_Q10": "Are you noticeably irritable, light headed or weak if you haven't eaten?",
+	"NUTRITIONIST_Q11": "Current Exercise regimen: (Cardio, Resistance, Etc.)",
+	"NUTRITIONIST_Q12": "Do you Smoke? (If yes, how often and how many?)",
+	"NUTRITIONIST_Q13": "Do you Drink Alcohol? (If yes, how often and how many?)",
+	"NUTRITIONIST_Q14": "Do you Drink Caffeine? (If yes, how often and how many?)",
+	"NUTRITIONIST_Q15": "Date of Last Physical:",
+	"NUTRITIONIST_Q16": "How many times have you been prescribed antibiotics in the last 2 years:",
+	"NUTRITIONIST_Q16_BIS": "If so, which ones and how often. (Please be as specific as possible.)",
+	"NUTRITIONIST_Q17": "Do you take medications? (OTC or Prescription?) If so, which ones? Do you take supplements? If so, which ones and how often? (Please be as specific as possible.)",
+	"NUTRITIONIST_Q18": "Are you bloated or constipated more than 1-2 days a week?",
+	"NUTRITIONIST_Q19": "Do you have issues in the following areas? If yes, please describe your issues in detail in the spaces provided.",
+	"NUTRITIONIST_SUB1": "Weight Loss",
+	"NUTRITIONIST_SUB2": "Weight Gain",
+	"NUTRITIONIST_SUB3": "Energy/Fatigue",
+	"NUTRITIONIST_SUB4": "Better Sleep",
+	"NUTRITIONIST_SUB5": "Digestion Issues",
+	"NUTRITIONIST_SUB6": "Constipation",
+	"NUTRITIONIST_SUB7": "Diarrhea",
+	"NUTRITIONIST_SUB8": "IBS",
+	"NUTRITIONIST_SUB9": "Bloating/Gas",
+	"NUTRITIONIST_SUB10": "Nausea/Vomiting",
+	"NUTRITIONIST_SUB11": "Stomach Pain",
+	"MSG_CHOOSE_OPTION_3": "Choose at least one option",
+	"bloatedOrContipated": "Bloated or Constipated",
+	"breakfast": "Breakfast",
+	"lunch": "Lunch",
+	"dinner": "Dinner",
+	"snacks": "Snacks",
+	"problems": "Problems",
+	"lastPhysical": "Last physical date",
+	"antibiotics": "Antibiotics",
+	"nopaprescription": "No prescription sent",
+	"generalInfo": "General Info",
+	"addpharmacies": "Click on the button to add your favourites pharmacies",
+	"overeating": "Overeating tendence",
+	"SAVE_MESSAGE": "If you leave, your changes will be lost",
+	"EMPTY_DISEASE": "Click on the button to add a disease to your medical record",
+	"EMPTY_ALLERGIES": "Click on the button to add a disease to your medical record",
+	"EMPTY_MEDICATION": "Click on the button to add a medication to your medical record",
+	"EMPTY_DEPENDENCIES": "Click on the button to add a dependency to your medical record",
+	"EMPTY_SURGERY": "Click on the button to add a surgery to your medical record",
+	"EMPTY_IMMUNIZATION": "Click on the button to add an immunization to your medical record",
+	"EMPTY_PROSTHESIS": "Click on the button to add a prosthesis to your medical record",
+	"EMPTY_TESTS": "Click on the button to add a test to your medical record",
+	"EMPTY_DOCUMENTS": "Click on the button to add a document to your medical record",
+	"EMPTY_IMAGES": "Click on the button to add an image to your medical record",
+	"LOAD_ITEMS": "Loading...",
+	"LOGGING_IN": "Logging in...",
+	"CMS": "CMS",
+	"noCig": "No",
+	"noCof": "No",
+	"noAlch": "No",
+	"meals": "Meals",
+	"SOMETIMES": "Sometimes",
+	"noarticle": "No article to display",
+	"noarticles": "No nutrition articles",
+	"nutrition_questionnaire": "Nutritionist Questionnaire",
+	"nutriPen": "Pending request",
+	"nutriRev": "Revisioned questionnaire",
+	"primaryConcern": "Primary Concerns",
+	"error_call_timeout": "The time to make the videocall is over. To make the videocall, repeat the process again.",
+	"pull_instruction": "By clicking the below button, a request will be sent to all the online physicians.",
+	"call_instruction": "We will send you a notification as soon as you can call the physician. Click on the notification as soon as you receive it to start the videocalll. In case you deleted the notifications, you can get it on the notification section under my health profile.",
+	"select_patient": "Click on a row to see the details",
+	"no_doctor_answer1": "There are no physicians available at the moment.",
+	"no_doctor_answer2": "You can make an appointment by clicking on the button below.",
+	"no_documents": "No uploaded document",
+	"irritable": "Irritable if do not eat",
+	"INFO_BTN": "Info",
+	"UPDATE": "Update",
+	"HOME_WARNING_MESSAGE": "Are you sure you want to navigate away from this page? Your modification will be lost.",
+	"section": "Please, select one section",
+	"overeatFoods": "Food that is overeated",
+	"quesito": "Concern",
+	"CHANGE_PWD_TITLE": "Your password is going to expire, change it",
+	"NEWPWD_CONFIRM2": "Password sucessfully changed.",
+	"DELETE_NOTIFICATION_MSG": "Do you want to delete all the past notifications?",
+	"ADDING_SLOT": "Adding slots.... this may take a while.",
+	"LOGGING_OUT": "Logging out...",
+	"notNow": "Not Now",
+	"subject_so": "Subject",
+	"secondOpinion": "Second Opinion",
+	"second_opinion_history": "Second Opinion History",
+	"NO_SECOND_OP_REQUESTS": "You have no request for the Second Opinion Service",
+	"SENDING_ECG_DATA": "Processing EKG Data...",
+	"send_doctor_request": "Send a request",
+	"doctor_request_sent": "We have sent your request to our doctors. You will receive an answer in two minutes.",
+	"patientGeneticRequests": "Genetic Test Requests",
+	"so_specialization": "Specialization",
+	"request_already_taken": "This request has been already taken in charge by another physician.",
+	"pull_request_processed": "Thank you<br>We have sent your availability to the patient",
+	"zero_min": "Now",
+	"one_min": "In 1 minute",
+	"five_min": "In 5 minutes",
+	"ten_min": "In 10 minutes",
+	"skip_pull": "Ignore",
+	"videocall_req_from": "Videocall request from: ",
+	"videocall_request_title": "Videocall request",
+	"submissionDate": "Submission date",
+	"lastPhysicalDate": "Last Physical Date",
+	"medicine": "Drugs",
+	"geneticTest": "Genetic Test",
+	"drugsAtHome": "Drugs at Home",
+	"soggetto_so": "Subject",
+	"ticket_subject": "Request Subject",
+	"drugsAtHomeTitle": "Drugs at Home",
+	"doctorAtHome": "Doctor at Home",
+	"geneticTestTitle": "Genetic Test",
+	"doctorAtHomeTitle": "Doctor at Home",
+	"geneticTestHeader1": "Everyone is unique",
+	"geneticTestHeader2": "Through genetic tests you can discover more about your health and do the right thing to keep healthy.",
+	"geneticTestHeader3": "How Does it Work?",
+	"geneticTestStep1": "1. Order your test",
+	"geneticTestStep1Subtitle": "Place your order through the app and receive your testing kit directly at home.",
+	"geneticTestStep2": "2. Spit",
+	"geneticTestStep2Subtitle": "Take a saliva sample and send it back to us via postal service in the envelope we will provide to you.)",
+	"geneticTestStep3": "3. Obtain the results",
+	"geneticTestStep3Subtitle": "After a few weeks you will receive a message informing you that the results of your genetic test are available on the app. Log in to view them on the app.",
+	"geneticTestProduct": "Genetic Test: Nutritional Profile",
+	"geneticTestSection1": "Do you want to know if what you eat is sufficient for your body and your metabolism?",
+	"geneticTestSection2": "Do you want to know the healthiest food to eat to help prevent chronic diseases?",
+	"geneticTestSection3": "The Nutrition test will let you know the links between your DNA and diet.",
+	"geneticTestSection4": "Add your phone number and mailing information below to receive your Nutritional Profile testing kit.",
+	"geneticTestRequestBtn": "Ask for the test",
+	"geneticTestRequestSuccess": "Your order has been confirmed. You will receive the kit directly at home",
+	"doctorAtHomeRequestSuccess": "We have received your request, you will be contacted within 2 hours to arrange for home services.",
+	"doctorAtHomeQuestion1": "I want home assistance for:",
+	"doctorAtHomeQuestion2": "Choose the home assistance you need.",
+	"tapdisconnect": "Tap to disconnect",
+	"address3": "Address for the service",
+	"nonuvoair": "No device found",
+	"saluberAccess": "SaluberMD patient",
+	"singleAccess": "Single access",
+	"doctorAtHomeQuestion3": "Specify the reason why you want to receive assistance",
+	"doctorAtHomeQuestion4": "Provide the address where you want to receive assistance in the form below.",
+	"doctorAtHomeQuestion2Answer1": "General Practice",
+	"doctorAtHomeQuestion2Answer2": "Pediatric",
+	"doctorAtHomeQuestion2Answer3": "Nurse",
+	"doctorAtHomeRequestBtn": "Send the request",
+	"drugsAtHomeRequestBtn": "Send the request",
+	"drugsAtHomeQuestion1": "Do you want to receive the drugs prescribed by your doctor directly at home?",
+	"drugsAtHomeSection1": "Provide in the form below the phone number and the address you want to receive the drugs.",
+	"drugsAtHomeRequestSuccess": "We have received your request. The drugs will be sent within 24 hours",
+	"cfErrorMessage": "Error Cofice fiscale. Invalid format",
+	"UPLOAD_INSTRUCTION_1": "Indication for the medical file",
+	"UPLOAD_INSTRUCTION_2": "Read carefully the following instruction before sending the files:",
+	"UPLOAD_INSTRUCTION_3": "Please send medical documentation not older than two years and related to the concerns",
+	"UPLOAD_INSTRUCTION_4": "For any clarifications send an email to: secondopinion@salubermd.com.",
+	"UPLOAD_INSTRUCTION_5": "Please, make sure that in the documentation there are the following informations:",
+	"UPLOAD_INSTRUCTION_6": "the medical report",
+	"UPLOAD_INSTRUCTION_7": "the medical report should contains then phisical status of the patient, the description of the symptoms and the treatment suggested by the doctor",
+	"UPLOAD_INSTRUCTION_8": "the drugs currently taken.",
+	"SYMPTOMS_BTN": "Symptoms",
+	"DOCUMENT_BTN": "Documents",
+	"VIDEO_CALL_BTN": "Video call",
+	"VIDEO_CALL_BTN_1": "Video",
+	"MEDICAL_FILE_BTN": "My Medical Record",
+	"VIRTUAL_OFFICE_TITLE": "Virtual Office",
+	"VIRTUAL_OFFICE_SECTION_TITLE": "Create your Virtual Office",
+	"UPLOAD_ERROR": "ERROR: Files must not exceed 5 MB",
+	"ATTACH_A_PHOTO": "Attach a Photo",
+	"TAKE_A_PHOTO": "Take a Photo",
+	"surveyId": "Survey ID",
+	"PATIENTS_TITLE": "Patients",
+	"PATIENTS_NO_P": "You currently have no patient appointments scheduled",
+	"PATIENTS_SECTION": "Your Appointments",
+	"PATIENTS_SECTION_SUBTITLE": "Click on each item to see full details",
+	"nutritionist_load_file": "Carica un file per la videoconferenza",
+	"NOTIFICATIONS_TITLE": "Notifications",
+	"NOTIFICATIONS_SETTINGS": "Set Notifications",
+	"NOTIFICATIONS_BTN_MEDICAL_FILE": "Click here to finish completing your medical file",
+	"NOTIFICATIONS_SECTION": "Your Notifications",
+	"NOTIFICATIONS_SECTION_SUBTITLE": "Receive 1 free consultation or health assessment call after fully completing your medical file.",
+	"FAVORITES_TITLE": "Favorites",
+	"FAVORITES_NO": "You have not selected any doctors ",
+	"FAVORITES_NO_PHARMACIES": "You have not selected any pharmacies",
+	"VIDEOCALL_DES1": "Click on the button below to change your status and receive or cancel the notifications. Remember, you will only receive the notifications when you are online.",
+	"VIDEOCALL_DES2": "When you receive a call, click on the rectangle that will appear to take the call.",
+	"videocall": "Video Call",
+	"startcall": "Start Call",
+	"startnow": "Start Now",
+	"endcall": "End Call",
+	"invalid_link": "Invalid or expired link",
+	"FAVORITES_SECTION_TITLE": "Your favorite Doctors",
+	"FAVORITES_SECTION_SUBTITLE": "Click on each item to see full details",
+	"SUCCESS_TITLE_NOTIFICATION": "Success",
+	"WARNING_TITLE_NOTIFICATION": "Attention",
+	"ERROR_TITLE_NOTIFICATION": "Error",
+	"RESET_PASSWORD": "Insert email or username used during the Signup",
+	"MSG_CHOOSE_OPTION": "Please, choose an option",
+	"MSG_CONTACT_SUCCESS": "Thank you for your submission.",
+	"MSG_REGISTRATION_SUCCESS": "Your registration was successful",
+	"MSG_REGISTRATION_DOCTOR_SUCCESS": "Thank you. We will be in contact with you soon",
+	"MSG_RESET_REQUEST_SUCCESS": "You will receive an email link to reset your password.",
+	"MSG_RESET_REQUEST_ERROR": "The user with this username or email address does not exist.",
+	"MSG_FILL_BOXES": "Please fill in the boxes",
+	"MSG_FILL_ALL_BOXES": "Please complete all of the fields",
+	"MSG_FILL_ALL_SELECTED_BOXES": "Please complete all of the following fields",
+	"OUR_PRODUCTS_SECTION_PRESX": "Measure your blood pressure in seconds with a professional sphygmomanometer",
+	"OUR_PRODUCTS_SECTION_SCALX": "Measure your weight in seconds with a professional scale",
+	"MSG_GENERIC_FORM_ERROR": "Please fix the error to continue",
+	"MSG_ERROR_FILL_BOXES": "Please fill in the boxes with the correct values",
+	"MSG_GENERIC_ERROR": "Please check your internet connection to retry.",
+	"MSG_LOGIN_ERROR": "Login failed. Please check your credentials and make sure you're connected to the network.",
+	"MSG_LOGIN_ERROR_LOCKED": "Login failed: your account is temporary locked.\nPlease retry later.",
+	"MSG_WELCOME_BACK": "Welcome Back",
+	"MSG_RESUME_CALL": "You currently have a call, would you like to resume it?",
+	"MSG_SIGNATURE_MISSING": "Please complete your signature in order to send prescriptions.",
+	"RUNNING_CALL_TITLE": "Running call",
+	"RUNNING_CALL_OPT1": "Resume",
+	"RUNNING_CALL_OPT2": "End Call",
+	"CORX": "EKG",
+	"ARIAX": "Breathing Volumes",
+	"SCALX": "Weight",
+	"PRESX": "Blood Pressure",
+	"CALL_TRANSFER_INFO": "Call Transfer Info",
+	"COMPLETE_PROFILE_TITLE": "Please complete your Profile",
+	"MSG_COMPLETE_PROFILE": "Would you like to go now?",
+	"SIGNUP_STEP3_P1": "Primary Care Physician’s Details",
+	"SIGNUP_STEP3_P2": "Emergency contact information",
+	"CONFIRM": "Confirm",
+	"DONATION_TITLE": "Confirm Donation",
+	"MSG_DONATION": "Confirm your donation?",
+	"MSG_DONATION_CONFIRM": "Thank you for your donation",
+	"MSG_DOC_ENDED_CALL": "The doctor has ended the call",
+	"MSG_DOC_WAITING_CALL": "The doctor has been disconnected, please wait for the call to reconnect",
+	"MSG_PATIENT_WAITING_CALL": "The patient has been disconnected, please wait for the call to reconnect",
+	"MSG_PATIENT_CANCELED_CALL": "The patient has canceled the call.",
+	"MSG_PATIENT_ENDED_CALL": "The patient has ended the call",
+	"MSG_END_CALL_SURVEY": "Are you sure you wish to end the survey?",
+	"MSG_NO_DOCTORS_FOUND": "We apologize, doctor is not available at the moment. Please, call another doctor or try again later.",
+	"MSG_POST_CALL_DOCTOR": "Your Summary has been sent. You will return to the Homepage",
+	"MSG_POST_CALL_PATIENT": "Thank You for using SaluberMD. You will receive a follow-up email. To view details about your visit, please visit 'My Health Profile-Visit History'",
+	"MSG_THANKING": "Thank you for your Submission.",
+	"CHANGE_PWD_SECTION_TITLE": "Change password",
+	"CHANGE_PWD_SECTION_SUBTITLE": "Your password has expired, please change it.",
+	"OLD_PWD": "Old password",
+	"NEW_PWD": "New password",
+	"CONFIRM_PWD": "Confirm password",
+	"NEWPWD_ERROR": "New password not matching.",
+	"PWD_NOTMATCH": "The passwords do not match",
+	"OLDPWD_ERROR": "New password cannot be the same as old password.",
+	"NEWPWD_CONFIRM": "Password successfully changed. Please login again.",
+	"OTHER_PLACEHOLDER": "Please select your Specialty",
+	"CALL_DURATION": "Call Duration",
+	"OFFICE_ADDRESS": "Office Address",
+	"CODE": "Code",
+	"BACK_LOGIN": "Back to Login",
+	"REGISTRATION_HEADER_PATIENT": "Please complete the form below and press 'Register'",
+	"REGISTRATION_HEADER_DOCTOR": "Join the SaluberMD team",
+	"PROFESSIONAL_TITLE": "Professional Title",
+	"SPECIALTY": "Specialty",
+	"PRACTICE_LENGTH": "Length in Practice",
+	"SECONDARY_PHONE": "Secondary phone number",
+	"RELATIONSHIP": "Relationship",
+	"DOCNAME": "Physician's Name",
+	"DOCPHONE": "Physician Phone Number",
+	"DOCEMAIL": "Physician's Email",
+	"UPDATE_BTN": "Update",
+	"C_SPECIALTY": "Custom Specialty",
+	"STATES_LICENSE": "States Licensed",
+	"BACKGROUND": "Background",
+	"BACKGROUND_PLCHOLDER": "Please enter a short biography. ",
+	"SEARCH": "Search",
+	"M_SCHOOL": "Medical School",
+	"TZONE": "Timezone",
+	"BACK_BTN": "Back",
+	"ACCEPT_BTN": "Accept",
+	"AGREE_BTN": "I Agree",
+	"DECLINE_BTN": "Decline",
+	"LOGIN_BTN": "Log In",
+	"LOGOUT_BTN": "Logout",
+	"RESETPWD_BTN": "Reset Password",
+	"SAVE_BTN": "Save",
+	"SIGNUP_BTN": "Sign Up",
+	"DOCTOR": "Doctor",
+	"PATIENT": "Patients",
+	"NEXT": "Next",
+	"BIRTHDATE": "Birthdate",
+	"EMAIL": "Email",
+	"IBAN": "IBAN",
+	"GENDER": "Gender",
+	"USERNAME": "Username",
+	"PASSWORD": "Password",
+	"PHONE": "Phone Number",
+	"PAYMENT_MESSAGE_1": "You'll be preauthorized for an amount of ",
+	"EMAIL_NOT_CONFIRMED": "Email not yet verified. Check your inbox.",
+	"ADD_SPECIALTY": "Associate medical specializations",
+	"LANGUAGE": "Language",
+	"M": "Male",
+	"F": "Female",
+	"LICENSE_NUMBER": "License Number",
+	"NPI": "NPI",
+	"DOCTOR_PROFILE_OPT3": "Recommend a Colleague",
+	"PATIENT_PROFILE_OPT3": "My Visit History",
+	"COUNTRY": "Country",
+	"REGISTER_NEW_USER": "Register new user",
+	"login_step1": "SignUp",
+	"PATIENT_SIGN_UP": "Sign Up",
+	"AGREE_BTN_A": "Agree like in point A",
+	"AGREE_BTN_B": "Agree like in point B",
+	"ADD_NEW_RECORD": "Click on add button to add a new measure",
+	"basicinfo": "Basic Information",
+	"testmichele": "test michele",
+	"consultation": "Consultations",
+	"medicalconsultation": "Consultations",
+	"history": "Consultations History",
+	"recommendation": "Recommendations",
+	"symptoms": "Symptoms",
+	"immunizationmenu": "Immunizations",
+	"Logout": "Logout",
+	"Emergency": "Show on emergency",
+	"newass": "Add a new association",
+	"clickrow": "Click on a row to select",
+	"existentassoc": "Existent associations",
+	"showOnEmergency": "Show On Emergency",
+	"fix_appointment": "Schedule appointments",
+	"logout1": "Logout",
+	"emergency1": "Emergency",
+	"email1": "Email",
+	"username1": "Username",
+	"country1": "Country",
+	"doctor1": "Doctor",
+	"consult1": "Consult",
+	"summary1": "Summary",
+	"medicalfile": "Images",
+	"allimages": "All the categories",
+	"images": "Images",
+	"found_devices": "Found devices",
+	"GLUCOMETER": "Glucometer",
+	"general": "General",
+	"generate": "Generate Password",
+	"medicalforms": "Medical Forms",
+	"testresults": "Test Results",
+	"ecg": "EKG",
+	"patient_update_error": "Error updating the patient.",
+	"name_member": "Name",
+	"email_member": "Email",
+	"allMembers": "Members",
+	"SWITCH_BTN": "Switch",
+	"call_divert": "Call divert",
+	"EMAIL_TAKEN": "This email address is already taken by another user.",
+	"viewmembers1": "view members",
+	"MAIN_USER": "Back to main user",
+	"available_members": "No available members",
+	"members": "Members",
+	"surname_member": "Last Name",
+	"SWITCH_IN": "Switching...",
+	"birthday_member": "Birthday",
+	"valore_min": "Minimum value",
+	"valore_max": "Maximum value",
+	"volte": "Times",
+	"calories": "Calories",
+	"CREATE_BTN": "Create",
+	"DOCUMENT_TIP_1": "The blue lines distinguish the documents uploaded by the doctor",
+	"note": "Notes",
+	"times": "How many times a day?",
+	"pre_period": "Prescription Period",
+	"delete_error": "User can't be deleted.",
+	"prescription_sent": "Prescription History",
+	"prenotato1": "The appointment has been successfully scheduled.",
+	"prescriptions_sent": "Prescription History",
+	"referrals_sent": "Referrals sent",
+	"birthdaySelectError": "Birthdate cannot be set in the future",
+	"forever": "Forever",
+	"xray": "X-ray",
+	"personal": "Personal",
+	"add_medication": "Add medication",
+	"impossible_transfer": "Impossible to trasfer the call",
+	"category": "Category",
+	"descrizione": "Description",
+	"infuser": "Infusers",
+	"stop_pumps": "Send STOP to the infuser",
+	"pump_successfully_stopped": "The STOP command has been sent",
+	"pending_commands": "Sent commands",
+	"not_sent": "Not sent",
+	"sent": "sent",
+	"NEW_SESSION": "New session",
+	"MODIFY_INFUSION": "Modify infuser",
+	"notification_setting": "Select the categories that you would like to receive notifications from",
+	"required": "This field is required.",
+	"consultationHistory": "Consultation History",
+	"noHistory": "There are no consultations at the moment",
+	"noprescription": "There are no prescriptions at the moment",
+	"nodependency": "There are no dependencies listed.",
+	"nodesease": "There are no diseases listed.",
+	"noDocuments": "No documents uploaded",
+	"nomedication": "There are no medications listed.",
+	"noimmunization": "There are no immunizations listed.",
+	"noallergies": "There are no allergies listed.",
+	"noprothesis": "There are no prosthetics or medical aids listed.",
+	"notests": "There are no irregular tests listed.",
+	"nohsh": "There are no hospitalizations listed.",
+	"noattachment": "Please, select an attachment",
+	"notimage": "Please, select an image",
+	"upload_image_error": "Please, upload only an image file",
+	"howToImages": "In this section only image file of a maximum size of 5 MB are allowed",
+	"dimension": "Size",
+	"noimages": "There are no attachments at the moment",
+	"noattachment1": "No Attachment",
+	"attachment": "Attachment",
+	"medicalform": "Medical Forms",
+	"testresult": "Tests Result",
+	"transfer": "Transfer",
+	"error": "Error",
+	"success": "Success",
+	"mandatoryfield": "Please, fill all the mandatory fields",
+	"esameobbligatorio": "Please, select an exam",
+	"protesiobbligatorio": "Please, select a prosthetics type",
+	"vaccinobbligatorio": "Please, select an immunization",
+	"noapatient": "No patient found",
+	"nouser": "No user found",
+	"enabled": "Enabled",
+	"disabled": "Disabled",
+	"MSG_EMAIL_SENT": "Email successfully sent",
+	"BTN_LOAD_MORE": "Load More",
+	"invalidemail": "Invalid email address",
+	"contact": "Contact",
+	"initiativeerror": "Please, select one initiative",
+	"SPECIALIZATIONS_TIP": "If there are no specializations associated to one initiative then by default all will be visible.",
+	"documents": "Documents",
+	"hour": "Hour",
+	"datipersonali": "Personal Info",
+	"male": "Male",
+	"female": "Female",
+	"ricovero": "Hospitalization",
+	"patologia": "Pathology",
+	"commenti": "Comments",
+	"seecommenti": "View Comments",
+	"gender1": "Gender",
+	"phone1": "Phone",
+	"dontknow": "I don't remember",
+	"setAlarm": "Set Alarms",
+	"iniezione": "Injection",
+	"sit_period": "Period (Hours)",
+	"orale": "By Mouth",
+	"address": "Address",
+	"city": "City",
+	"struttura": "Location",
+	"hospitalization": "Hospitalization",
+	"nodata": "No Data",
+	"sitreminder": "Sit Reminder",
+	"CALL_NOTIFICATIONS": "Phone Calls",
+	"WHATSAPP": "WhatsApp",
+	"FACEBOOK": "Facebook",
+	"TWITTER": "Twitter",
+	"LINKEDIN": "Linkedin",
+	"SKYPE": "Skype",
+	"VIBER": "Viber",
+	"SMS": "SMS",
+	"LINE": "Line",
+	"QQ": "QQ",
+	"WECHAT": "WeChat",
+	"your_weight": "Specify your weight",
+	"your_height": "Specify your height",
+	"last_login_date": "Last Login Date",
+	"deleteAlarm": "Delete this alarm?",
+	"noAlarm": "No alarm set",
+	"MONDAY": "Monday",
+	"TUESDAY": "Tuesday",
+	"WEDNESDAY": "Wednesday",
+	"THURSDAY": "Thursday",
+	"FRIDAY": "Friday",
+	"SATURDAY": "Saturday",
+	"SUNDAY": "Sunday",
+	"HR_INTERVAL": "HR Measure Interval (minutes)",
+	"ERROR_SPECIFY_HOUR": "Please, specify the time",
+	"ERROR_SPECIFY_DAYS": "Please, specify at least one week day",
+	"disableAlarm": "Alarm enabled",
+	"dashboardVideocall": "Dashboard Videocall",
+	"dashboard": "Dashboard",
+	"select_period": "Select period",
+	"avg": "Average value",
+	"novideocall": "No videocall found",
+	"set_vital_signs": "Set BP calibration",
+	"tap_to_expand": "Tap to expand",
+	"new_ticket": "New Ticket",
+	"wellnessdata": "Wellness Data",
+	"tipshealt1": "Flu shot - Should I get vaccinated against the flu?",
+	"tipshealt2": "Although the flu vaccine doesn't always provide total protection, it's worth getting. The CDC (Centers for Disease Control and Prevention) recommends annual influenza vaccinations for everyone age 6 months or older. Vaccination is especially important for people at high risk of influenza complications, including",
+	"tipshealt3": "Pregnant women",
+	"tipshealt4": "Older adults (50 years and older)",
+	"tipshealt5": "Young children (under 4 years and above 6 months)",
+	"tipshealt6": "Physical activity improves memory and thinking skills",
+	"tipshealt7": "Regular physical activity can improve brain function throughout a lifespan and decrease risk of dementia.",
+	"tipshealt8": "Numerous studies have been published on the close interaction and the advantage of regular physical activity and improved cognitive function.",
+	"tipshealt9": "The influence is directly on the brain and indirectly through metabolic and physical actions on the body.",
+	"tipshealt10": "Click here for more information",
+	"tipshealt11": "The benefits of statins treatment, the lowering cholesterol drugs, outweigh the risks",
+	"tipshealt12": "In a recent review article in Lancet, researchers concluded that the benefits of lowering LDL cholesterol with statin therapy would likely prevent major vascular events (heart attacks, strokes) and it outweighs the risks of the drugs.",
+	"tipshealt13": "According to the researchers the only serious adverse events that have been shown to be caused by long-term statin therapy are myopathy (defined as muscle pain or weakness), new-onset diabetes mellitus, and, probably, haemorrhagic stroke.",
+	"tipshealt0": "Health Tips",
+	"chosedoctor": "Please, Choose a doctor",
+	"switchsearch": "Switch to search",
+	"visithistory": "Visit History",
+	"novisit": "You have no patient visits yet",
+	"patientvisit": "Patient visit history",
+	"clickitem": "Click on each item to see the full details",
+	"reccomendations": "Recommendations",
+	"viewmedicalfile": "View Medical File",
+	"demo": "This a demo, no money will be charged.",
+	"send": "Send",
+	"listcall": "List of completed video calls.",
+	"visitdetail": "Click on each item to see the complete history of a patient",
+	"no_patient": "You currently have no patients",
+	"signature": "Your signature (used for prescriptions)",
+	"clearsignature": "Clear signature",
+	"PATIENT_PROFILE_OPT4": "My Favorites",
+	"PATIENT_PROFILE_OPT5": "My Files",
+	"PATIENT_PROFILE_OPT6": "My Notifications",
+	"PATIENT_PROFILE_OPT7": "EKG Upload",
+	"PATIENT_PROFILE_OPT8": "Medical Device Data",
+	"PATIENT_PROFILE_OPT9": "My Favorite Pharmacies",
+	"PATIENT_PROFILE_OPT12": "Add Favorite Pharmacy",
+	"PATIENT_PROFILE_OPT11": "My Favorite Doctors",
+	"MSG_NO_PATIENT_FOUND": "The patient is currenctly unreachable. Please try again later.",
+	"clinics": "Clinics",
+	"report": "Personal clinical file: Full data report",
+	"print": "Print",
+	"image": "Image",
+	"searchsymptom": "Search symptoms",
+	"results": "Results",
+	"addsintomi": "Add symptoms",
+	"noresults": "No results found",
+	"inserttext": "Insert text here",
+	"text": "Text",
+	"seedoctor": "See a doctor now",
+	"myprofile": "My Profile",
+	"personalinfo": "Personal Information",
+	"aboutus": "About Us",
+	"reccomendation": "Reccomendation",
+	"patientinfo": "Patients' information",
+	"accept": "Accept",
+	"decline": "Decline",
+	"scheduleappointment": "Schedule the videocall with a doctor",
+	"calldoctor": "Call the doctor",
+	"alreadyTaken": "Sorry, the appointment is not available",
+	"oneDay": "One day",
+	"moreDays": "More days",
+	"takeAppointment": "Make an Appointment",
+	"deleteMultipleDesctiption": "Number of slots that will be deleted",
+	"deleteSlotMonth": "Delete all free slots this month",
+	"deleteSlotWeek": "Delete all free slot this week",
+	"deleteSlotDay": "Delete all free slots this day",
+	"chooseDateDescription": "Click a date to expand it and choose the hour",
+	"msgAppointment": "The appointment has been successfully scheduled. You will find your appointment in My Health Profile section.",
+	"choosespeciality": "Choose the Medical Specialty",
+	"fillpeciality": "Please, choose a Speciality",
+	"fillthebox": "Fill the box",
+	"trackx": "Trackx",
+	"filldoctor": "Please, choose a Doctor",
+	"nvisit": "Number of visits",
+	"lastvisit": "Last visit",
+	"lastmeasure": "Last measurement",
+	"loadEcgList": "Loading EKG list...",
+	"filldate": "Please, choose a date",
+	"appointment": "Appointment",
+	"choosedate": "Choose a date",
+	"noappointments": "There are no dates available with this doctor",
+	"slot_request_success": "Your request has been sent",
+	"CALL_LIMIT_REACHED": "You have reached the maximum number of call allowed in your plan",
+	"IN_THE_MORNING": "Morning",
+	"IN_THE_AFTERNOON": "Afternoon",
+	"noappointments1": "There are no dates available with this nutritionist",
+	"call": "Call",
+	"defaultQuestion": "Press start and tell us how you feel today",
+	"startRecording": "Press start to record a voice audio",
+	"bvInstruction": "Continue talking for 20 seconds or more",
+	"bvFailed": "We have failed to analyze your voice, please talk longer!",
+	"visitlist": "List of Visits",
+	"download": "Download",
+	"prescriptionDescription": "List of patient prescriptions",
+	"state1": "State",
+	"city1": "City",
+	"onlinedoctors": "Online Doctors",
+	"downloadecg": "Download EKG",
+	"datafetching": "Fetching your personal data... Please wait.",
+	"searchingdevice": "Searching for device. This might take a moment",
+	"pressbutton": "Press the pair button on the device and tap 'Find Device'",
+	"find_device": "Find Device",
+	"nodevice": "No device found, check if the device is on and retry",
+	"MSG_MANDATORY_MESSAGE": "You must accept the terms to continue",
+	"MSG_CONFIRM_EMAIL": "Please, confirm your email",
+	"MSG_CONFIRM_EMAIL_TEXT": "We have sent you an email with instructions on how to confirm your email address. Please check your inbox. If you don't receive the email within 30 sec, click on 'resend confirmation code'. The old code will be invalidated",
+	"RESEND_EMAIL": "Resend confirmation code",
+	"CONFIRM_EMAIL_TITLE": "Confirm Email",
+	"ERROR_TRACKX": "Turn on Trackx",
+	"MSG_FILL_BOXES_PROFILE": "Please, fill all the boxes marked with a star",
+	"nuovoair_connected": "Connected",
+	"nuovoair_disconnected": "Disconnected",
+	"start_test": "Start test",
+	"stop_test": "Stop test",
+	"start_blowing": "Start blowing",
+	"city2": "City",
+	"connectedto": "Connected to",
+	"msg_connected": "Succesfully Connected",
+	"select_device": "Select a device to connect",
+	"sync": "Sync",
+	"height": "Height",
+	"height1": "Your height is required for correct calculation of BMI",
+	"weight": "Weight",
+	"normalWeight": "Normal weight",
+	"preobesity": "Pre-obesity",
+	"underweight": "Underweight",
+	"obesity1": "Obese",
+	"obesity2": "Severely obese",
+	"obesity3": "Morbidly obese",
+	"tall": "How tall are you?",
+	"remove_generic": "Do you wish to remove it?",
+	"removedevice": "Would you like to remove this device?",
+	"noecg": "There are no EKG listed",
+	"beyondverbal_analyze": "Analyze Your Mood",
+	"beyondverbal_history": "Past Results",
+	"beyondverbal_header": "Analyzing Emotions",
+	"beyondverbal_instruction": "When you are ready to answer the question, press the 'start' button",
+	"bvInstruction2": "Just continue talking for 20 seconds",
+	"valenceDescription": "A variable ranging from negativity to positivity. When listening to a person talk, it is possible to understand how 'positive' or 'negative' they feel about the subject, object or event under discussion.",
+	"arousalDescription": "A variable that ranges from tranquility or boredom to alertness and excitement. It corresponds to similar concepts such as level of activation and stimulation.",
+	"temperDescription": "An emotional measure that covers a speaker's entire mood range. Low temper describes depressive and gloomy moods. Medium temper describes friendly, warm and embracive moods. High temper values describe confrontational, domineering and aggressive moods.",
+	"moodDescription": "A key indicator of a speakerâ€™s emotional state during the analyzed voice section. The API produces a total of 11 mood groups ranging from anger, loneliness and self-control to happiness and excitement.",
+	"emotionDescription": "A combination of various basic emotions, as expressed by the users voice during an analyzed voice section.",
+	"beyondverbal": "Emotions drive everything we do, yet voice-driven emotions analytics remains the most important, unexplored interface today. Beyond Verbal is committed to changing that.",
+	"temper": "Temper",
+	"creditCard_select": "The selected card will be charged for this exam.",
+	"writtenRep": "Written report",
+	"secOpChoice": "Please select which way you would like to recive second opinion.",
+	"selectedContact": "Means of contact",
+	"thisCC": "This credit card will be used to pay for the exam",
+	"code_verified": "Phone number successfully verified!",
+	"insert_otp_code": "Insert the code here",
+	"otp_sent_msg": "We have sent you a verification code on your phone number",
+	"valence": "Valence",
+	"arousal": "Arousal",
+	"primaryMood": "Mood Primary",
+	"secondaryMood": "Mood Secondary",
+	"mood": "Mood Group",
+	"EXPIRED_CODE": "The code will expire in ",
+	"emotions": "Combined Emotions",
+	"segment": "Segment",
+	"start": "Start",
+	"stop": "Stop",
+	"healthtips": "Health Tips",
+	"nutritionist": "Speak to a Nutritionist",
+	"favoriteslist": "My Favorites List",
+	"seconds": "seconds",
+	"callCancel": "Cannot cancel an expired call",
+	"doctoroffline": "The doctor is offline, please try again",
+	"noappointment": "You currently have no scheduled appointments",
+	"appuntamenti": "Appointments",
+	"empty_otp": "Invalid OTP Code",
+	"DOWNLOAD_SO_REPORT": "Download Referral",
+	"ADD_EXAMS": "Exam list configuration",
+	"file_download_error": "Error while downloading the file",
+	"pdf_download_error": "Cannot download pdf. Please, try again later",
+	"single": "Single day",
+	"reoccurring": "Reoccurring",
+	"blank_agenda": "There are no slots for today",
+	"appuntamenti_presi": "Scheduled Appointment",
+	"dataPrenotazione": "Booking date",
+	"timecallerr": "Sorry, you cannot start the call yet",
+	"privacy_answer": "Please, answer to all the points",
+	"timecallerr1": "Sorry, you cannot start the call because you are beyond your scheduled time",
+	"appremainder": "Appointment Reminder",
+	"appremainder1": "You have a video call scheduled in 5 minutes",
+	"appuntamento_clinica": "Request Clinic Appointment",
+	"deletevalue_q": "Are you sure you want to delete the value?",
+	"requestdate": "Request Date",
+	"howto": "How to Schedule",
+	"copy_url": "Copy url",
+	"assign_specialist": "Assign a specialist to the request",
+	"security": "Security",
+	"howto1": "The available slots are marked with a green ball",
+	"howto2": "Select a cell with the green ball and click on it to expand and choose the time. When you are ready click to the pencil symbol to see the details and schedule the appointment",
+	"cancelAppointment": "Cancel this appointment",
+	"confirm": "Confirm",
+	"addslot": "Add slot",
+	"agenda": "My Agenda",
+	"riepilogo": "Summary",
+	"start_time": "Start Time",
+	"disconnectall": "Set Offline",
+	"lastTimeOnline": "Last Time Online",
+	"end_time": "End Time",
+	"fixappointment": "Do you want to schedule this appointment?",
+	"myappointment": "My Appointments",
+	"appointmentsDescription": "List of scheduled appointments",
+	"selectdoctor": "Manage the agenda of",
+	"selectdoctor1": "Select the doctor",
+	"selectpatient": "Select the patient",
+	"startyping": "Start typing the name",
+	"searchfordoctor": "Search doctor by first name or last name",
+	"tooltip1": "Enter the name of the doctor whose agenda you wish to manage",
+	"manageslot": "Manage free slots",
+	"period": "Period",
+	"prenota": "Book now",
+	"addreminder": "Press the 'Plus' button to add your reminder.",
+	"reminder_postponed": "Postponed",
+	"duration": "Duration",
+	"pa": "Reminders",
+	"cronologiappuntamenti": "Appointment History",
+	"appointments": "Make an Appointment",
+	"summary": "Summary",
+	"MRGraph": "Medicine taken history",
+	"scheduleAnAppointment": "Schedule an Appointment",
+	"appointmentlist": "My Appointments List",
+	"prenotato": "The appointment has been successfully scheduled. You will find your appointment in My Health Profile section.",
+	"specialization": "Choose the speciality",
+	"schedule": "Schedule",
+	"dateStart": "Start Date",
+	"existentrelation": "This relation already exists",
+	"icd10Warning": "This disease already chosen",
+	"richiestaRimborso": "Refund Request",
+	"richiestaAppuntamento": "Appointments Request",
+	"tpa": "TPA Management",
+	"icd10Disease": "This disease already exists",
+	"nessun_appuntamento": "There are no past appointments",
+	"take": "done",
+	"dosetake1": "Have you taken your medications?",
+	"confirm_app": "Confirm your appointment",
+	"selectAFile": "Tap the button below to select a file",
+	"lastSync": "Last Sync",
+	"no_notifications": "You have no notifications",
+	"placeOfBirth": "Place Of Birth",
+	"price_per_visit": "Fee per visit",
+	"max_file_size": "The file size must be less than ",
+	"pdf_file_error": "Only pdf files are admitted",
+	"currency": "Currency",
+	"endDate": "End Date",
+	"dataexists": "There is already an appointment scheduled for the selected date",
+	"deleteAppointment": "Do you want to cancel the appointment?",
+	"dataerror": "The date/time you've selected is past the current date/time",
+	"deleteAppointmentDescription": "The appointment will be cancelled immediately",
+	"manageapp": "Manage Appointments",
+	"addavailability": "Add availability",
+	"FAQ": "FAQ",
+	"re_measure": "Retake the measure",
+	"slotime": "Slot Duration (min)",
+	"startdate": "From",
+	"starthour": "Start Time",
+	"endate": "To",
+	"todayAppointment": "Today's Appointments",
+	"endhour": "End Time",
+	"year": "Year",
+	"month": "Month",
+	"week": "Week",
+	"day": "Day",
+	"notnow_btn": "Not now",
+	"indication": "Indication",
+	"medication_name": "Medication name",
+	"quantity": "Quantity",
+	"nosintomi": "No symptoms selected",
+	"report1": "Personal clinical file:",
+	"code_not_valid": "Codice non valido o scaduto",
+	"selectcarderror": "Please, select a card",
+	"filter": "Filter",
+	"videocall_filter": "Filter by name or specialty",
+	"messagesent": "Message successfully sent",
+	"dieci": "Last 10 measurements",
+	"quindici": "Last 15 measurements",
+	"trenta": "Last 30 measurements",
+	"settd": "Last 7 days",
+	"trentad": "Last 30 days",
+	"sessantad": "Last 60 days",
+	"novantad": "Last 90 days",
+	"tutte": "All measurements",
+	"backhomeconfirm": "Are you sure you would like to go back to home?",
+	"closeappconfirm": "Are you sure you want to close the app?",
+	"chooseprofile": "Are you a?",
+	"nutrition": "Nutrition",
+	"nospecialist": "There are no specialists",
+	"findspcialist": "Find a Specialist",
+	"message": "Message",
+	"select_country": "Please, select a country",
+	"APPUNTAMENTO_CONGIUNTO": "Do you want to reserve a videocall?",
+	"subject": "Subject",
+	"misurazioni": "Records",
+	"contatta": "Contact",
+	"contact_patient": "Contact the patient",
+	"authorizations_check_required": "Doctor status set to OFFLINE: please, enable notifications and multimedia devices authorizations.",
+	"MSG_RECONNECTING": "Waiting for reconnection",
+	"update_app_message": "You need to update your app to continue",
+	"prescription_subject": "Your Prescription",
+	"SESSION_EXPIRED": "You session has expired. Please, log in again",
+	"prescription_preview": "Prescription preview",
+	"rightHanded": "Right Handed",
+	"previous": "Previous",
+	"VIDEO_ANSWER": "Click to activate the video",
+	"LANGUAGES": [
+		{
+			"label": "English (US)",
+			"value": "en_US"
+		},
+		{
+			"label": "Italiano",
+			"value": "it_IT"
+		},
+		{
+			"label": "Ñ€ÑƒÑ�Ñ�ÐºÐ¸Ð¹",
+			"value": "ru_RU"
+		},
+		{
+			"label": "espaÃ±ol",
+			"value": "es_ES"
+		},
+		{
+			"label": "Ø¹Ø±Ø¨Ù‰",
+			"value": "ar_AR"
+		}
+	],
+	"GENDERS": [
+		{
+			"label": "Male",
+			"value": "1"
+		},
+		{
+			"label": "Female",
+			"value": "0"
+		},
+		{
+			"label": "I'd rather not say",
+			"value": "2"
+		}
+	],
+	"CURRENCIES": [
+		{
+			"label": "EUR",
+			"value": "1"
+		},
+		{
+			"label": "USD",
+			"value": "0"
+		},
+		{
+			"label": "THB",
+			"value": "2"
+		},
+		{
+			"label": "GBP",
+			"value": "3"
+		}
+	],
+	"TZONES": [
+		{
+			"label": "Dateline Standard Time",
+			"value": "DST",
+			"offset": -12,
+			"isdst": false,
+			"text": "(UTC-12:00) International Date Line West",
+			"utc": [
+				"Etc/GMT+12"
+			]
+		},
+		{
+			"label": "UTC-11",
+			"value": "U",
+			"offset": -11,
+			"isdst": false,
+			"text": "(UTC-11:00) Coordinated Universal Time-11",
+			"utc": [
+				"Etc/GMT+11",
+				"Pacific/Midway",
+				"Pacific/Niue",
+				"Pacific/Pago_Pago"
+			]
+		},
+		{
+			"label": "Hawaiian Standard Time",
+			"value": "HST",
+			"offset": -10,
+			"isdst": false,
+			"text": "(UTC-10:00) Hawaii",
+			"utc": [
+				"Etc/GMT+10",
+				"Pacific/Honolulu",
+				"Pacific/Johnston",
+				"Pacific/Rarotonga",
+				"Pacific/Tahiti"
+			]
+		},
+		{
+			"label": "Alaskan Standard Time",
+			"value": "AKDT",
+			"offset": -8,
+			"isdst": true,
+			"text": "(UTC-09:00) Alaska",
+			"utc": [
+				"America/Anchorage",
+				"America/Juneau",
+				"America/Nome",
+				"America/Sitka",
+				"America/Yakutat"
+			]
+		},
+		{
+			"label": "Pacific Standard Time (Mexico)",
+			"value": "PDT",
+			"offset": -7,
+			"isdst": true,
+			"text": "(UTC-08:00) Baja California",
+			"utc": [
+				"America/Santa_Isabel"
+			]
+		},
+		{
+			"label": "Pacific Standard Time",
+			"value": "PDT",
+			"offset": -7,
+			"isdst": true,
+			"text": "(UTC-08:00) Pacific Time (US & Canada)",
+			"utc": [
+				"America/Dawson",
+				"America/Los_Angeles",
+				"America/Tijuana",
+				"America/Vancouver",
+				"America/Whitehorse",
+				"PST8PDT"
+			]
+		},
+		{
+			"label": "US Mountain Standard Time",
+			"value": "UMST",
+			"offset": -7,
+			"isdst": false,
+			"text": "(UTC-07:00) Arizona",
+			"utc": [
+				"America/Creston",
+				"America/Dawson_Creek",
+				"America/Hermosillo",
+				"America/Phoenix",
+				"Etc/GMT+7"
+			]
+		},
+		{
+			"label": "Mountain Standard Time (Mexico)",
+			"value": "MDT",
+			"offset": -6,
+			"isdst": true,
+			"text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+			"utc": [
+				"America/Chihuahua",
+				"America/Mazatlan"
+			]
+		},
+		{
+			"label": "Mountain Standard Time",
+			"value": "MDT",
+			"offset": -6,
+			"isdst": true,
+			"text": "(UTC-07:00) Mountain Time (US & Canada)",
+			"utc": [
+				"America/Boise",
+				"America/Cambridge_Bay",
+				"America/Denver",
+				"America/Edmonton",
+				"America/Inuvik",
+				"America/Ojinaga",
+				"America/Yellowknife",
+				"MST7MDT"
+			]
+		},
+		{
+			"label": "Central America Standard Time",
+			"value": "CAST",
+			"offset": -6,
+			"isdst": false,
+			"text": "(UTC-06:00) Central America",
+			"utc": [
+				"America/Belize",
+				"America/Costa_Rica",
+				"America/El_Salvador",
+				"America/Guatemala",
+				"America/Managua",
+				"America/Tegucigalpa",
+				"Etc/GMT+6",
+				"Pacific/Galapagos"
+			]
+		},
+		{
+			"label": "Central Standard Time",
+			"value": "CDT",
+			"offset": -5,
+			"isdst": true,
+			"text": "(UTC-06:00) Central Time (US & Canada)",
+			"utc": [
+				"America/Chicago",
+				"America/Indiana/Knox",
+				"America/Indiana/Tell_City",
+				"America/Matamoros",
+				"America/Menominee",
+				"America/North_Dakota/Beulah",
+				"America/North_Dakota/Center",
+				"America/North_Dakota/New_Salem",
+				"America/Rainy_River",
+				"America/Rankin_Inlet",
+				"America/Resolute",
+				"America/Winnipeg",
+				"CST6CDT"
+			]
+		},
+		{
+			"label": "Central Standard Time (Mexico)",
+			"value": "CDT",
+			"offset": -5,
+			"isdst": true,
+			"text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+			"utc": [
+				"America/Bahia_Banderas",
+				"America/Cancun",
+				"America/Merida",
+				"America/Mexico_City",
+				"America/Monterrey"
+			]
+		},
+		{
+			"label": "Canada Central Standard Time",
+			"value": "CCST",
+			"offset": -6,
+			"isdst": false,
+			"text": "(UTC-06:00) Saskatchewan",
+			"utc": [
+				"America/Regina",
+				"America/Swift_Current"
+			]
+		},
+		{
+			"label": "SA Pacific Standard Time",
+			"value": "SPST",
+			"offset": -5,
+			"isdst": false,
+			"text": "(UTC-05:00) Bogota, Lima, Quito",
+			"utc": [
+				"America/Bogota",
+				"America/Cayman",
+				"America/Coral_Harbour",
+				"America/Eirunepe",
+				"America/Guayaquil",
+				"America/Jamaica",
+				"America/Lima",
+				"America/Panama",
+				"America/Rio_Branco",
+				"Etc/GMT+5"
+			]
+		},
+		{
+			"label": "Eastern Standard Time",
+			"value": "EDT",
+			"offset": -4,
+			"isdst": true,
+			"text": "(UTC-05:00) Eastern Time (US & Canada)",
+			"utc": [
+				"America/Detroit",
+				"America/Havana",
+				"America/Indiana/Petersburg",
+				"America/Indiana/Vincennes",
+				"America/Indiana/Winamac",
+				"America/Iqaluit",
+				"America/Kentucky/Monticello",
+				"America/Louisville",
+				"America/Montreal",
+				"America/Nassau",
+				"America/New_York",
+				"America/Nipigon",
+				"America/Pangnirtung",
+				"America/Port-au-Prince",
+				"America/Thunder_Bay",
+				"America/Toronto",
+				"EST5EDT"
+			]
+		},
+		{
+			"label": "US Eastern Standard Time",
+			"value": "UEDT",
+			"offset": -4,
+			"isdst": true,
+			"text": "(UTC-05:00) Indiana (East)",
+			"utc": [
+				"America/Indiana/Marengo",
+				"America/Indiana/Vevay",
+				"America/Indianapolis"
+			]
+		},
+		{
+			"label": "Venezuela Standard Time",
+			"value": "VST",
+			"offset": -4.5,
+			"isdst": false,
+			"text": "(UTC-04:30) Caracas",
+			"utc": [
+				"America/Caracas"
+			]
+		},
+		{
+			"label": "Paraguay Standard Time",
+			"value": "PST",
+			"offset": -4,
+			"isdst": false,
+			"text": "(UTC-04:00) Asuncion",
+			"utc": [
+				"America/Asuncion"
+			]
+		},
+		{
+			"label": "Atlantic Standard Time",
+			"value": "ADT",
+			"offset": -3,
+			"isdst": true,
+			"text": "(UTC-04:00) Atlantic Time (Canada)",
+			"utc": [
+				"America/Glace_Bay",
+				"America/Goose_Bay",
+				"America/Halifax",
+				"America/Moncton",
+				"America/Thule",
+				"Atlantic/Bermuda"
+			]
+		},
+		{
+			"label": "Central Brazilian Standard Time",
+			"value": "CBST",
+			"offset": -4,
+			"isdst": false,
+			"text": "(UTC-04:00) Cuiaba",
+			"utc": [
+				"America/Campo_Grande",
+				"America/Cuiaba"
+			]
+		},
+		{
+			"label": "SA Western Standard Time",
+			"value": "SWST",
+			"offset": -4,
+			"isdst": false,
+			"text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+			"utc": [
+				"America/Anguilla",
+				"America/Antigua",
+				"America/Aruba",
+				"America/Barbados",
+				"America/Blanc-Sablon",
+				"America/Boa_Vista",
+				"America/Curacao",
+				"America/Dominica",
+				"America/Grand_Turk",
+				"America/Grenada",
+				"America/Guadeloupe",
+				"America/Guyana",
+				"America/Kralendijk",
+				"America/La_Paz",
+				"America/Lower_Princes",
+				"America/Manaus",
+				"America/Marigot",
+				"America/Martinique",
+				"America/Montserrat",
+				"America/Port_of_Spain",
+				"America/Porto_Velho",
+				"America/Puerto_Rico",
+				"America/Santo_Domingo",
+				"America/St_Barthelemy",
+				"America/St_Kitts",
+				"America/St_Lucia",
+				"America/St_Thomas",
+				"America/St_Vincent",
+				"America/Tortola",
+				"Etc/GMT+4"
+			]
+		},
+		{
+			"label": "Pacific SA Standard Time",
+			"value": "PSST",
+			"offset": -4,
+			"isdst": false,
+			"text": "(UTC-04:00) Santiago",
+			"utc": [
+				"America/Santiago",
+				"Antarctica/Palmer"
+			]
+		},
+		{
+			"label": "Newfoundland Standard Time",
+			"value": "NDT",
+			"offset": -2.5,
+			"isdst": true,
+			"text": "(UTC-03:30) Newfoundland",
+			"utc": [
+				"America/St_Johns"
+			]
+		},
+		{
+			"label": "E. South America Standard Time",
+			"value": "ESAST",
+			"offset": -3,
+			"isdst": false,
+			"text": "(UTC-03:00) Brasilia",
+			"utc": [
+				"America/Sao_Paulo"
+			]
+		},
+		{
+			"label": "Argentina Standard Time",
+			"value": "AST",
+			"offset": -3,
+			"isdst": false,
+			"text": "(UTC-03:00) Buenos Aires",
+			"utc": [
+				"America/Argentina/La_Rioja",
+				"America/Argentina/Rio_Gallegos",
+				"America/Argentina/Salta",
+				"America/Argentina/San_Juan",
+				"America/Argentina/San_Luis",
+				"America/Argentina/Tucuman",
+				"America/Argentina/Ushuaia",
+				"America/Buenos_Aires",
+				"America/Catamarca",
+				"America/Cordoba",
+				"America/Jujuy",
+				"America/Mendoza"
+			]
+		},
+		{
+			"label": "SA Eastern Standard Time",
+			"value": "SEST",
+			"offset": -3,
+			"isdst": false,
+			"text": "(UTC-03:00) Cayenne, Fortaleza",
+			"utc": [
+				"America/Araguaina",
+				"America/Belem",
+				"America/Cayenne",
+				"America/Fortaleza",
+				"America/Maceio",
+				"America/Paramaribo",
+				"America/Recife",
+				"America/Santarem",
+				"Antarctica/Rothera",
+				"Atlantic/Stanley",
+				"Etc/GMT+3"
+			]
+		},
+		{
+			"label": "Greenland Standard Time",
+			"value": "GDT",
+			"offset": -2,
+			"isdst": true,
+			"text": "(UTC-03:00) Greenland",
+			"utc": [
+				"America/Godthab"
+			]
+		},
+		{
+			"label": "Montevideo Standard Time",
+			"value": "MST",
+			"offset": -3,
+			"isdst": false,
+			"text": "(UTC-03:00) Montevideo",
+			"utc": [
+				"America/Montevideo"
+			]
+		},
+		{
+			"label": "Bahia Standard Time",
+			"value": "BST",
+			"offset": -3,
+			"isdst": false,
+			"text": "(UTC-03:00) Salvador",
+			"utc": [
+				"America/Bahia"
+			]
+		},
+		{
+			"label": "UTC-02",
+			"value": "U",
+			"offset": -2,
+			"isdst": false,
+			"text": "(UTC-02:00) Coordinated Universal Time-02",
+			"utc": [
+				"America/Noronha",
+				"Atlantic/South_Georgia",
+				"Etc/GMT+2"
+			]
+		},
+		{
+			"label": "Mid-Atlantic Standard Time",
+			"value": "MDT",
+			"offset": -1,
+			"isdst": true,
+			"text": "(UTC-02:00) Mid-Atlantic - Old"
+		},
+		{
+			"label": "Azores Standard Time",
+			"value": "ADT",
+			"offset": 0,
+			"isdst": true,
+			"text": "(UTC-01:00) Azores",
+			"utc": [
+				"America/Scoresbysund",
+				"Atlantic/Azores"
+			]
+		},
+		{
+			"label": "Cape Verde Standard Time",
+			"value": "CVST",
+			"offset": -1,
+			"isdst": false,
+			"text": "(UTC-01:00) Cape Verde Is.",
+			"utc": [
+				"Atlantic/Cape_Verde",
+				"Etc/GMT+1"
+			]
+		},
+		{
+			"label": "Morocco Standard Time",
+			"value": "MDT",
+			"offset": 1,
+			"isdst": true,
+			"text": "(UTC) Casablanca",
+			"utc": [
+				"Africa/Casablanca",
+				"Africa/El_Aaiun"
+			]
+		},
+		{
+			"label": "UTC",
+			"value": "CUT",
+			"offset": 0,
+			"isdst": false,
+			"text": "(UTC) Coordinated Universal Time",
+			"utc": [
+				"America/Danmarkshavn",
+				"Etc/GMT"
+			]
+		},
+		{
+			"label": "GMT Standard Time",
+			"value": "GDT",
+			"offset": 1,
+			"isdst": true,
+			"text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+			"utc": [
+				"Atlantic/Canary",
+				"Atlantic/Faeroe",
+				"Atlantic/Madeira",
+				"Europe/Dublin",
+				"Europe/Guernsey",
+				"Europe/Isle_of_Man",
+				"Europe/Jersey",
+				"Europe/Lisbon",
+				"Europe/London"
+			]
+		},
+		{
+			"label": "Greenwich Standard Time",
+			"value": "GST",
+			"offset": 0,
+			"isdst": false,
+			"text": "(UTC) Monrovia, Reykjavik",
+			"utc": [
+				"Africa/Abidjan",
+				"Africa/Accra",
+				"Africa/Bamako",
+				"Africa/Banjul",
+				"Africa/Bissau",
+				"Africa/Conakry",
+				"Africa/Dakar",
+				"Africa/Freetown",
+				"Africa/Lome",
+				"Africa/Monrovia",
+				"Africa/Nouakchott",
+				"Africa/Ouagadougou",
+				"Africa/Sao_Tome",
+				"Atlantic/Reykjavik",
+				"Atlantic/St_Helena"
+			]
+		},
+		{
+			"label": "W. Europe Standard Time",
+			"value": "WEDT",
+			"offset": 2,
+			"isdst": true,
+			"text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+			"utc": [
+				"Arctic/Longyearbyen",
+				"Europe/Amsterdam",
+				"Europe/Andorra",
+				"Europe/Berlin",
+				"Europe/Busingen",
+				"Europe/Gibraltar",
+				"Europe/Luxembourg",
+				"Europe/Malta",
+				"Europe/Monaco",
+				"Europe/Oslo",
+				"Europe/Rome",
+				"Europe/San_Marino",
+				"Europe/Stockholm",
+				"Europe/Vaduz",
+				"Europe/Vatican",
+				"Europe/Vienna",
+				"Europe/Zurich"
+			]
+		},
+		{
+			"label": "Central Europe Standard Time",
+			"value": "CEDT",
+			"offset": 2,
+			"isdst": true,
+			"text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+			"utc": [
+				"Europe/Belgrade",
+				"Europe/Bratislava",
+				"Europe/Budapest",
+				"Europe/Ljubljana",
+				"Europe/Podgorica",
+				"Europe/Prague",
+				"Europe/Tirane"
+			]
+		},
+		{
+			"label": "Romance Standard Time",
+			"value": "RDT",
+			"offset": 2,
+			"isdst": true,
+			"text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+			"utc": [
+				"Africa/Ceuta",
+				"Europe/Brussels",
+				"Europe/Copenhagen",
+				"Europe/Madrid",
+				"Europe/Paris"
+			]
+		},
+		{
+			"label": "Central European Standard Time",
+			"value": "CEDT",
+			"offset": 2,
+			"isdst": true,
+			"text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+			"utc": [
+				"Europe/Sarajevo",
+				"Europe/Skopje",
+				"Europe/Warsaw",
+				"Europe/Zagreb"
+			]
+		},
+		{
+			"label": "W. Central Africa Standard Time",
+			"value": "WCAST",
+			"offset": 1,
+			"isdst": false,
+			"text": "(UTC+01:00) West Central Africa",
+			"utc": [
+				"Africa/Algiers",
+				"Africa/Bangui",
+				"Africa/Brazzaville",
+				"Africa/Douala",
+				"Africa/Kinshasa",
+				"Africa/Lagos",
+				"Africa/Libreville",
+				"Africa/Luanda",
+				"Africa/Malabo",
+				"Africa/Ndjamena",
+				"Africa/Niamey",
+				"Africa/Porto-Novo",
+				"Africa/Tunis",
+				"Etc/GMT-1"
+			]
+		},
+		{
+			"label": "Namibia Standard Time",
+			"value": "NST",
+			"offset": 1,
+			"isdst": false,
+			"text": "(UTC+01:00) Windhoek",
+			"utc": [
+				"Africa/Windhoek"
+			]
+		},
+		{
+			"label": "GTB Standard Time",
+			"value": "GDT",
+			"offset": 3,
+			"isdst": true,
+			"text": "(UTC+02:00) Athens, Bucharest",
+			"utc": [
+				"Asia/Nicosia",
+				"Europe/Athens",
+				"Europe/Bucharest",
+				"Europe/Chisinau"
+			]
+		},
+		{
+			"label": "Middle East Standard Time",
+			"value": "MEDT",
+			"offset": 3,
+			"isdst": true,
+			"text": "(UTC+02:00) Beirut",
+			"utc": [
+				"Asia/Beirut"
+			]
+		},
+		{
+			"label": "Egypt Standard Time",
+			"value": "EST",
+			"offset": 2,
+			"isdst": false,
+			"text": "(UTC+02:00) Cairo",
+			"utc": [
+				"Africa/Cairo"
+			]
+		},
+		{
+			"label": "Syria Standard Time",
+			"value": "SDT",
+			"offset": 3,
+			"isdst": true,
+			"text": "(UTC+02:00) Damascus",
+			"utc": [
+				"Asia/Damascus"
+			]
+		},
+		{
+			"label": "E. Europe Standard Time",
+			"value": "EEDT",
+			"offset": 3,
+			"isdst": true,
+			"text": "(UTC+02:00) E. Europe"
+		},
+		{
+			"label": "South Africa Standard Time",
+			"value": "SAST",
+			"offset": 2,
+			"isdst": false,
+			"text": "(UTC+02:00) Harare, Pretoria",
+			"utc": [
+				"Africa/Blantyre",
+				"Africa/Bujumbura",
+				"Africa/Gaborone",
+				"Africa/Harare",
+				"Africa/Johannesburg",
+				"Africa/Kigali",
+				"Africa/Lubumbashi",
+				"Africa/Lusaka",
+				"Africa/Maputo",
+				"Africa/Maseru",
+				"Africa/Mbabane",
+				"Etc/GMT-2"
+			]
+		},
+		{
+			"label": "FLE Standard Time",
+			"value": "FDT",
+			"offset": 3,
+			"isdst": true,
+			"text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+			"utc": [
+				"Europe/Helsinki",
+				"Europe/Kiev",
+				"Europe/Mariehamn",
+				"Europe/Riga",
+				"Europe/Sofia",
+				"Europe/Tallinn",
+				"Europe/Uzhgorod",
+				"Europe/Vilnius",
+				"Europe/Zaporozhye"
+			]
+		},
+		{
+			"label": "Turkey Standard Time",
+			"value": "TDT",
+			"offset": 3,
+			"isdst": false,
+			"text": "(UTC+03:00) Istanbul",
+			"utc": [
+				"Europe/Istanbul"
+			]
+		},
+		{
+			"label": "Israel Standard Time",
+			"value": "JDT",
+			"offset": 3,
+			"isdst": true,
+			"text": "(UTC+02:00) Jerusalem",
+			"utc": [
+				"Asia/Jerusalem"
+			]
+		},
+		{
+			"label": "Libya Standard Time",
+			"value": "LST",
+			"offset": 2,
+			"isdst": false,
+			"text": "(UTC+02:00) Tripoli",
+			"utc": [
+				"Africa/Tripoli"
+			]
+		},
+		{
+			"label": "Jordan Standard Time",
+			"value": "JST",
+			"offset": 3,
+			"isdst": false,
+			"text": "(UTC+03:00) Amman",
+			"utc": [
+				"Asia/Amman"
+			]
+		},
+		{
+			"label": "Arabic Standard Time",
+			"value": "AST",
+			"offset": 3,
+			"isdst": false,
+			"text": "(UTC+03:00) Baghdad",
+			"utc": [
+				"Asia/Baghdad"
+			]
+		},
+		{
+			"label": "Kaliningrad Standard Time",
+			"value": "KST",
+			"offset": 3,
+			"isdst": false,
+			"text": "(UTC+03:00) Kaliningrad, Minsk",
+			"utc": [
+				"Europe/Kaliningrad",
+				"Europe/Minsk"
+			]
+		},
+		{
+			"label": "Arab Standard Time",
+			"value": "AST",
+			"offset": 3,
+			"isdst": false,
+			"text": "(UTC+03:00) Kuwait, Riyadh",
+			"utc": [
+				"Asia/Aden",
+				"Asia/Bahrain",
+				"Asia/Kuwait",
+				"Asia/Qatar",
+				"Asia/Riyadh"
+			]
+		},
+		{
+			"label": "E. Africa Standard Time",
+			"value": "EAST",
+			"offset": 3,
+			"isdst": false,
+			"text": "(UTC+03:00) Nairobi",
+			"utc": [
+				"Africa/Addis_Ababa",
+				"Africa/Asmera",
+				"Africa/Dar_es_Salaam",
+				"Africa/Djibouti",
+				"Africa/Juba",
+				"Africa/Kampala",
+				"Africa/Khartoum",
+				"Africa/Mogadishu",
+				"Africa/Nairobi",
+				"Antarctica/Syowa",
+				"Etc/GMT-3",
+				"Indian/Antananarivo",
+				"Indian/Comoro",
+				"Indian/Mayotte"
+			]
+		},
+		{
+			"label": "Iran Standard Time",
+			"value": "IDT",
+			"offset": 4.5,
+			"isdst": true,
+			"text": "(UTC+03:30) Tehran",
+			"utc": [
+				"Asia/Tehran"
+			]
+		},
+		{
+			"label": "Arabian Standard Time",
+			"value": "AST",
+			"offset": 4,
+			"isdst": false,
+			"text": "(UTC+04:00) Abu Dhabi, Muscat",
+			"utc": [
+				"Asia/Dubai",
+				"Asia/Muscat",
+				"Etc/GMT-4"
+			]
+		},
+		{
+			"label": "Azerbaijan Standard Time",
+			"value": "ADT",
+			"offset": 5,
+			"isdst": true,
+			"text": "(UTC+04:00) Baku",
+			"utc": [
+				"Asia/Baku"
+			]
+		},
+		{
+			"label": "Russian Standard Time",
+			"value": "RST",
+			"offset": 4,
+			"isdst": false,
+			"text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+			"utc": [
+				"Europe/Moscow",
+				"Europe/Samara",
+				"Europe/Simferopol",
+				"Europe/Volgograd"
+			]
+		},
+		{
+			"label": "Mauritius Standard Time",
+			"value": "MST",
+			"offset": 4,
+			"isdst": false,
+			"text": "(UTC+04:00) Port Louis",
+			"utc": [
+				"Indian/Mahe",
+				"Indian/Mauritius",
+				"Indian/Reunion"
+			]
+		},
+		{
+			"label": "Georgian Standard Time",
+			"value": "GST",
+			"offset": 4,
+			"isdst": false,
+			"text": "(UTC+04:00) Tbilisi",
+			"utc": [
+				"Asia/Tbilisi"
+			]
+		},
+		{
+			"label": "Caucasus Standard Time",
+			"value": "CST",
+			"offset": 4,
+			"isdst": false,
+			"text": "(UTC+04:00) Yerevan",
+			"utc": [
+				"Asia/Yerevan"
+			]
+		},
+		{
+			"label": "Afghanistan Standard Time",
+			"value": "AST",
+			"offset": 4.5,
+			"isdst": false,
+			"text": "(UTC+04:30) Kabul",
+			"utc": [
+				"Asia/Kabul"
+			]
+		},
+		{
+			"label": "West Asia Standard Time",
+			"value": "WAST",
+			"offset": 5,
+			"isdst": false,
+			"text": "(UTC+05:00) Ashgabat, Tashkent",
+			"utc": [
+				"Antarctica/Mawson",
+				"Asia/Aqtau",
+				"Asia/Aqtobe",
+				"Asia/Ashgabat",
+				"Asia/Dushanbe",
+				"Asia/Oral",
+				"Asia/Samarkand",
+				"Asia/Tashkent",
+				"Etc/GMT-5",
+				"Indian/Kerguelen",
+				"Indian/Maldives"
+			]
+		},
+		{
+			"label": "Pakistan Standard Time",
+			"value": "PST",
+			"offset": 5,
+			"isdst": false,
+			"text": "(UTC+05:00) Islamabad, Karachi",
+			"utc": [
+				"Asia/Karachi"
+			]
+		},
+		{
+			"label": "India Standard Time",
+			"value": "IST",
+			"offset": 5.5,
+			"isdst": false,
+			"text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+			"utc": [
+				"Asia/Kolkata"
+			]
+		},
+		{
+			"label": "Sri Lanka Standard Time",
+			"value": "SLST",
+			"offset": 5.5,
+			"isdst": false,
+			"text": "(UTC+05:30) Sri Jayawardenepura",
+			"utc": [
+				"Asia/Colombo"
+			]
+		},
+		{
+			"label": "Nepal Standard Time",
+			"value": "NST",
+			"offset": 5.75,
+			"isdst": false,
+			"text": "(UTC+05:45) Kathmandu",
+			"utc": [
+				"Asia/Katmandu"
+			]
+		},
+		{
+			"label": "Central Asia Standard Time",
+			"value": "CAST",
+			"offset": 6,
+			"isdst": false,
+			"text": "(UTC+06:00) Astana",
+			"utc": [
+				"Antarctica/Vostok",
+				"Asia/Almaty",
+				"Asia/Bishkek",
+				"Asia/Qyzylorda",
+				"Asia/Urumqi",
+				"Etc/GMT-6",
+				"Indian/Chagos"
+			]
+		},
+		{
+			"label": "Bangladesh Standard Time",
+			"value": "BST",
+			"offset": 6,
+			"isdst": false,
+			"text": "(UTC+06:00) Dhaka",
+			"utc": [
+				"Asia/Dhaka",
+				"Asia/Thimphu"
+			]
+		},
+		{
+			"label": "Ekaterinburg Standard Time",
+			"value": "EST",
+			"offset": 6,
+			"isdst": false,
+			"text": "(UTC+06:00) Ekaterinburg",
+			"utc": [
+				"Asia/Yekaterinburg"
+			]
+		},
+		{
+			"label": "Myanmar Standard Time",
+			"value": "MST",
+			"offset": 6.5,
+			"isdst": false,
+			"text": "(UTC+06:30) Yangon (Rangoon)",
+			"utc": [
+				"Asia/Rangoon",
+				"Indian/Cocos"
+			]
+		},
+		{
+			"label": "SE Asia Standard Time",
+			"value": "SAST",
+			"offset": 7,
+			"isdst": false,
+			"text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+			"utc": [
+				"Antarctica/Davis",
+				"Asia/Bangkok",
+				"Asia/Hovd",
+				"Asia/Jakarta",
+				"Asia/Phnom_Penh",
+				"Asia/Pontianak",
+				"Asia/Saigon",
+				"Asia/Vientiane",
+				"Etc/GMT-7",
+				"Indian/Christmas"
+			]
+		},
+		{
+			"label": "N. Central Asia Standard Time",
+			"value": "NCAST",
+			"offset": 7,
+			"isdst": false,
+			"text": "(UTC+07:00) Novosibirsk",
+			"utc": [
+				"Asia/Novokuznetsk",
+				"Asia/Novosibirsk",
+				"Asia/Omsk"
+			]
+		},
+		{
+			"label": "China Standard Time",
+			"value": "CST",
+			"offset": 8,
+			"isdst": false,
+			"text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+			"utc": [
+				"Asia/Hong_Kong",
+				"Asia/Macau",
+				"Asia/Shanghai"
+			]
+		},
+		{
+			"label": "North Asia Standard Time",
+			"value": "NAST",
+			"offset": 8,
+			"isdst": false,
+			"text": "(UTC+08:00) Krasnoyarsk",
+			"utc": [
+				"Asia/Krasnoyarsk"
+			]
+		},
+		{
+			"label": "Singapore Standard Time",
+			"value": "MPST",
+			"offset": 8,
+			"isdst": false,
+			"text": "(UTC+08:00) Kuala Lumpur, Singapore",
+			"utc": [
+				"Asia/Brunei",
+				"Asia/Kuala_Lumpur",
+				"Asia/Kuching",
+				"Asia/Makassar",
+				"Asia/Manila",
+				"Asia/Singapore",
+				"Etc/GMT-8"
+			]
+		},
+		{
+			"label": "W. Australia Standard Time",
+			"value": "WAST",
+			"offset": 8,
+			"isdst": false,
+			"text": "(UTC+08:00) Perth",
+			"utc": [
+				"Antarctica/Casey",
+				"Australia/Perth"
+			]
+		},
+		{
+			"label": "Taipei Standard Time",
+			"value": "TST",
+			"offset": 8,
+			"isdst": false,
+			"text": "(UTC+08:00) Taipei",
+			"utc": [
+				"Asia/Taipei"
+			]
+		},
+		{
+			"label": "Ulaanbaatar Standard Time",
+			"value": "UST",
+			"offset": 8,
+			"isdst": false,
+			"text": "(UTC+08:00) Ulaanbaatar",
+			"utc": [
+				"Asia/Choibalsan",
+				"Asia/Ulaanbaatar"
+			]
+		},
+		{
+			"label": "North Asia East Standard Time",
+			"value": "NAEST",
+			"offset": 9,
+			"isdst": false,
+			"text": "(UTC+09:00) Irkutsk",
+			"utc": [
+				"Asia/Irkutsk"
+			]
+		},
+		{
+			"label": "Tokyo Standard Time",
+			"value": "TST",
+			"offset": 9,
+			"isdst": false,
+			"text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+			"utc": [
+				"Asia/Dili",
+				"Asia/Jayapura",
+				"Asia/Tokyo",
+				"Etc/GMT-9",
+				"Pacific/Palau"
+			]
+		},
+		{
+			"label": "Korea Standard Time",
+			"value": "KST",
+			"offset": 9,
+			"isdst": false,
+			"text": "(UTC+09:00) Seoul",
+			"utc": [
+				"Asia/Pyongyang",
+				"Asia/Seoul"
+			]
+		},
+		{
+			"label": "Cen. Australia Standard Time",
+			"value": "CAST",
+			"offset": 9.5,
+			"isdst": false,
+			"text": "(UTC+09:30) Adelaide",
+			"utc": [
+				"Australia/Adelaide",
+				"Australia/Broken_Hill"
+			]
+		},
+		{
+			"label": "AUS Central Standard Time",
+			"value": "ACST",
+			"offset": 9.5,
+			"isdst": false,
+			"text": "(UTC+09:30) Darwin",
+			"utc": [
+				"Australia/Darwin"
+			]
+		},
+		{
+			"label": "E. Australia Standard Time",
+			"value": "EAST",
+			"offset": 10,
+			"isdst": false,
+			"text": "(UTC+10:00) Brisbane",
+			"utc": [
+				"Australia/Brisbane",
+				"Australia/Lindeman"
+			]
+		},
+		{
+			"label": "AUS Eastern Standard Time",
+			"value": "AEST",
+			"offset": 10,
+			"isdst": false,
+			"text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+			"utc": [
+				"Australia/Melbourne",
+				"Australia/Sydney"
+			]
+		},
+		{
+			"label": "West Pacific Standard Time",
+			"value": "WPST",
+			"offset": 10,
+			"isdst": false,
+			"text": "(UTC+10:00) Guam, Port Moresby",
+			"utc": [
+				"Antarctica/DumontDUrville",
+				"Etc/GMT-10",
+				"Pacific/Guam",
+				"Pacific/Port_Moresby",
+				"Pacific/Saipan",
+				"Pacific/Truk"
+			]
+		},
+		{
+			"label": "Tasmania Standard Time",
+			"value": "TST",
+			"offset": 10,
+			"isdst": false,
+			"text": "(UTC+10:00) Hobart",
+			"utc": [
+				"Australia/Currie",
+				"Australia/Hobart"
+			]
+		},
+		{
+			"label": "Yakutsk Standard Time",
+			"value": "YST",
+			"offset": 10,
+			"isdst": false,
+			"text": "(UTC+10:00) Yakutsk",
+			"utc": [
+				"Asia/Chita",
+				"Asia/Khandyga",
+				"Asia/Yakutsk"
+			]
+		},
+		{
+			"label": "Central Pacific Standard Time",
+			"value": "CPST",
+			"offset": 11,
+			"isdst": false,
+			"text": "(UTC+11:00) Solomon Is., New Caledonia",
+			"utc": [
+				"Antarctica/Macquarie",
+				"Etc/GMT-11",
+				"Pacific/Efate",
+				"Pacific/Guadalcanal",
+				"Pacific/Kosrae",
+				"Pacific/Noumea",
+				"Pacific/Ponape"
+			]
+		},
+		{
+			"label": "Vladivostok Standard Time",
+			"value": "VST",
+			"offset": 11,
+			"isdst": false,
+			"text": "(UTC+11:00) Vladivostok",
+			"utc": [
+				"Asia/Sakhalin",
+				"Asia/Ust-Nera",
+				"Asia/Vladivostok"
+			]
+		},
+		{
+			"label": "New Zealand Standard Time",
+			"value": "NZST",
+			"offset": 12,
+			"isdst": false,
+			"text": "(UTC+12:00) Auckland, Wellington",
+			"utc": [
+				"Antarctica/McMurdo",
+				"Pacific/Auckland"
+			]
+		},
+		{
+			"label": "UTC+12",
+			"value": "U",
+			"offset": 12,
+			"isdst": false,
+			"text": "(UTC+12:00) Coordinated Universal Time+12",
+			"utc": [
+				"Etc/GMT-12",
+				"Pacific/Funafuti",
+				"Pacific/Kwajalein",
+				"Pacific/Majuro",
+				"Pacific/Nauru",
+				"Pacific/Tarawa",
+				"Pacific/Wake",
+				"Pacific/Wallis"
+			]
+		},
+		{
+			"label": "Fiji Standard Time",
+			"value": "FST",
+			"offset": 12,
+			"isdst": false,
+			"text": "(UTC+12:00) Fiji",
+			"utc": [
+				"Pacific/Fiji"
+			]
+		},
+		{
+			"label": "Magadan Standard Time",
+			"value": "MST",
+			"offset": 12,
+			"isdst": false,
+			"text": "(UTC+12:00) Magadan",
+			"utc": [
+				"Asia/Anadyr",
+				"Asia/Kamchatka",
+				"Asia/Magadan",
+				"Asia/Srednekolymsk"
+			]
+		},
+		{
+			"label": "Kamchatka Standard Time",
+			"value": "KDT",
+			"offset": 13,
+			"isdst": true,
+			"text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+		},
+		{
+			"label": "Tonga Standard Time",
+			"value": "TST",
+			"offset": 13,
+			"isdst": false,
+			"text": "(UTC+13:00) Nuku'alofa",
+			"utc": [
+				"Etc/GMT-13",
+				"Pacific/Enderbury",
+				"Pacific/Fakaofo",
+				"Pacific/Tongatapu"
+			]
+		},
+		{
+			"label": "Samoa Standard Time",
+			"value": "SST",
+			"offset": 13,
+			"isdst": false,
+			"text": "(UTC+13:00) Samoa",
+			"utc": [
+				"Pacific/Apia"
+			]
+		}
+	],
+	"PROFESSIONAL_TITLES": [
+		{
+			"value": 1,
+			"label": "MD"
+		},
+		{
+			"value": 2,
+			"label": "DO"
+		},
+		{
+			"value": 3,
+			"label": "PhD"
+		},
+		{
+			"value": 4,
+			"label": "PsyD"
+		}
+	],
+	"SPECIALTIES": [
+		{
+			"value": 1,
+			"label": "Dermatology"
+		},
+		{
+			"value": 2,
+			"label": "Cardiology"
+		},
+		{
+			"value": 3,
+			"label": "Internal Medicine"
+		},
+		{
+			"value": 4,
+			"label": "Emergency Medicine"
+		},
+		{
+			"value": 5,
+			"label": "Family Medicine"
+		},
+		{
+			"value": 6,
+			"label": "General Practice"
+		},
+		{
+			"value": 7,
+			"label": "General Surgeon"
+		},
+		{
+			"value": 8,
+			"label": "Gynecology"
+		},
+		{
+			"value": 9,
+			"label": "Oncology"
+		},
+		{
+			"value": 10,
+			"label": "Pediatrics"
+		},
+		{
+			"value": 11,
+			"label": "Psychiatry"
+		},
+		{
+			"value": 12,
+			"label": "Other"
+		},
+		{
+			"value": 13,
+			"label": "Urology"
+		},
+		{
+			"value": 14,
+			"label": "Otolaryngology"
+		},
+		{
+			"value": 15,
+			"label": "Gastroenterology"
+		},
+		{
+			"value": 16,
+			"label": "Neurology"
+		},
+		{
+			"value": 17,
+			"label": "Orthopedic "
+		},
+		{
+			"value": 18,
+			"label": "Ophthalmology"
+		},
+		{
+			"value": 19,
+			"label": "Nutritionist"
+		},
+		{
+			"value": 20,
+			"label": "Case Manager"
+		},
+		{
+			"value": 21,
+			"label": "Geriatrics"
+		},
+		{
+			"value": 22,
+			"label": "Pulmonology"
+		},
+		{
+			"value": 23,
+			"label": "Dietetics"
+		},
+		{
+			"value": 24,
+			"label": "Psychology"
+		},
+		{
+			"value": 25,
+			"label": "Allergy and Immunology"
+		},
+		{
+			"value": 26,
+			"label": "Angiology"
+		},
+		{
+			"value": 27,
+			"label": "Addiction Medicine"
+		},
+		{
+			"value": 28,
+			"label": "Physiotherapist"
+		},
+		{
+			"value": 29,
+			"label": "Osteopath"
+		},
+		{
+			"value": 30,
+			"label": "Senology"
+		},
+		{
+			"value": 31,
+			"label": "Nephrology"
+		},
+		{
+			"value": 32,
+			"label": "Exam at the medical corner"
+		},
+		{
+			"value": 33,
+			"label": "Radiation Oncologist"
+		},
+		{
+			"value": 34,
+			"label": "Athletic Trainer"
+		},
+		{
+			"value": 35,
+			"label": "Surgery and Cardiosurgery"
+		},
+		{
+			"value": 36,
+			"label": "Plastic Surgery"
+		},
+		{
+			"value": 37,
+			"label": "Hematology"
+		},
+		{
+			"value": 38,
+			"label": "Endocrinology"
+		},
+		{
+			"value": 39,
+			"label": "Pathophysiology"
+		},
+		{
+			"value": 40,
+			"label": "Neurosurgery"
+		},
+		{
+			"value": 41,
+			"label": "Radiology"
+		},
+		{
+			"value": 42,
+			"label": "Obstetrician"
+		},
+		{
+			"value": 43,
+			"label": "Nursery Service"
+		},
+		{
+			"value": 44,
+			"label": "Proctology"
+		},
+		{
+			"value": 45,
+			"label": "Rheumatology"
+		},
+		{
+			"value": 46,
+			"label": "Odontologist"
+		},
+		{
+			"value": 47,
+			"label": "Physiatry"
+		}
+	],
+	"US_STATES": [
+		{
+			"label": "Alabama",
+			"value": "AL"
+		},
+		{
+			"label": "Alaska",
+			"value": "AK"
+		},
+		{
+			"label": "American Samoa",
+			"value": "AS"
+		},
+		{
+			"label": "Arizona",
+			"value": "AZ"
+		},
+		{
+			"label": "Arkansas",
+			"value": "AR"
+		},
+		{
+			"label": "California",
+			"value": "CA"
+		},
+		{
+			"label": "Colorado",
+			"value": "CO"
+		},
+		{
+			"label": "Connecticut",
+			"value": "CT"
+		},
+		{
+			"label": "Delaware",
+			"value": "DE"
+		},
+		{
+			"label": "District Of Columbia",
+			"value": "DC"
+		},
+		{
+			"label": "Federated States Of Micronesia",
+			"value": "FM"
+		},
+		{
+			"label": "Florida",
+			"value": "FL"
+		},
+		{
+			"label": "Georgia",
+			"value": "GA"
+		},
+		{
+			"label": "Guam",
+			"value": "GU"
+		},
+		{
+			"label": "Hawaii",
+			"value": "HI"
+		},
+		{
+			"label": "Idaho",
+			"value": "ID"
+		},
+		{
+			"label": "Illinois",
+			"value": "IL"
+		},
+		{
+			"label": "Indiana",
+			"value": "IN"
+		},
+		{
+			"label": "Iowa",
+			"value": "IA"
+		},
+		{
+			"label": "Kansas",
+			"value": "KS"
+		},
+		{
+			"label": "Kentucky",
+			"value": "KY"
+		},
+		{
+			"label": "Louisiana",
+			"value": "LA"
+		},
+		{
+			"label": "Maine",
+			"value": "ME"
+		},
+		{
+			"label": "Marshall Islands",
+			"value": "MH"
+		},
+		{
+			"label": "Maryland",
+			"value": "MD"
+		},
+		{
+			"label": "Massachusetts",
+			"value": "MA"
+		},
+		{
+			"label": "Michigan",
+			"value": "MI"
+		},
+		{
+			"label": "Minnesota",
+			"value": "MN"
+		},
+		{
+			"label": "Mississippi",
+			"value": "MS"
+		},
+		{
+			"label": "Missouri",
+			"value": "MO"
+		},
+		{
+			"label": "Montana",
+			"value": "MT"
+		},
+		{
+			"label": "Nebraska",
+			"value": "NE"
+		},
+		{
+			"label": "Nevada",
+			"value": "NV"
+		},
+		{
+			"label": "New Hampshire",
+			"value": "NH"
+		},
+		{
+			"label": "New Jersey",
+			"value": "NJ"
+		},
+		{
+			"label": "New Mexico",
+			"value": "NM"
+		},
+		{
+			"label": "New York",
+			"value": "NY"
+		},
+		{
+			"label": "North Carolina",
+			"value": "NC"
+		},
+		{
+			"label": "North Dakota",
+			"value": "ND"
+		},
+		{
+			"label": "Northern Mariana Islands",
+			"value": "MP"
+		},
+		{
+			"label": "Ohio",
+			"value": "OH"
+		},
+		{
+			"label": "Oklahoma",
+			"value": "OK"
+		},
+		{
+			"label": "Oregon",
+			"value": "OR"
+		},
+		{
+			"label": "Palau",
+			"value": "PW"
+		},
+		{
+			"label": "Pennsylvania",
+			"value": "PA"
+		},
+		{
+			"label": "Puerto Rico",
+			"value": "PR"
+		},
+		{
+			"label": "Rhode Island",
+			"value": "RI"
+		},
+		{
+			"label": "South Carolina",
+			"value": "SC"
+		},
+		{
+			"label": "South Dakota",
+			"value": "SD"
+		},
+		{
+			"label": "Tennessee",
+			"value": "TN"
+		},
+		{
+			"label": "Texas",
+			"value": "TX"
+		},
+		{
+			"label": "Utah",
+			"value": "UT"
+		},
+		{
+			"label": "Vermont",
+			"value": "VT"
+		},
+		{
+			"label": "Virgin Islands",
+			"value": "VI"
+		},
+		{
+			"label": "Virginia",
+			"value": "VA"
+		},
+		{
+			"label": "Washington",
+			"value": "WA"
+		},
+		{
+			"label": "West Virginia",
+			"value": "WV"
+		},
+		{
+			"label": "Wisconsin",
+			"value": "WI"
+		},
+		{
+			"label": "Wyoming",
+			"value": "WY"
+		}
+	],
+	"COUNTRIES": [
+		{
+			"label": "Afghanistan",
+			"value": "AF"
+		},
+		{
+			"label": "\u212bland Islands",
+			"value": "AX"
+		},
+		{
+			"label": "Albania",
+			"value": "AL"
+		},
+		{
+			"label": "Algeria",
+			"value": "DZ"
+		},
+		{
+			"label": "American Samoa",
+			"value": "AS"
+		},
+		{
+			"label": "Andorra",
+			"value": "AD"
+		},
+		{
+			"label": "Angola",
+			"value": "AO"
+		},
+		{
+			"label": "Anguilla",
+			"value": "AI"
+		},
+		{
+			"label": "Antarctica",
+			"value": "AQ"
+		},
+		{
+			"label": "Antigua and Barbuda",
+			"value": "AG"
+		},
+		{
+			"label": "Argentina",
+			"value": "AR"
+		},
+		{
+			"label": "Armenia",
+			"value": "AM"
+		},
+		{
+			"label": "Aruba",
+			"value": "AW"
+		},
+		{
+			"label": "Australia",
+			"value": "AU"
+		},
+		{
+			"label": "Austria",
+			"value": "AT"
+		},
+		{
+			"label": "Azerbaijan",
+			"value": "AZ"
+		},
+		{
+			"label": "Bahamas",
+			"value": "BS"
+		},
+		{
+			"label": "Bahrain",
+			"value": "BH"
+		},
+		{
+			"label": "Bangladesh",
+			"value": "BD"
+		},
+		{
+			"label": "Barbados",
+			"value": "BB"
+		},
+		{
+			"label": "Belarus",
+			"value": "BY"
+		},
+		{
+			"label": "Belgium",
+			"value": "BE"
+		},
+		{
+			"label": "Belize",
+			"value": "BZ"
+		},
+		{
+			"label": "Benin",
+			"value": "BJ"
+		},
+		{
+			"label": "Bermuda",
+			"value": "BM"
+		},
+		{
+			"label": "Bhutan",
+			"value": "BT"
+		},
+		{
+			"label": "Bolivia",
+			"value": "BO"
+		},
+		{
+			"label": "Bosnia and Herzegovina",
+			"value": "BA"
+		},
+		{
+			"label": "Botswana",
+			"value": "BW"
+		},
+		{
+			"label": "Bouvet Island",
+			"value": "BV"
+		},
+		{
+			"label": "Brazil",
+			"value": "BR"
+		},
+		{
+			"label": "British Indian Ocean Territory",
+			"value": "IO"
+		},
+		{
+			"label": "Brunei Darussalam",
+			"value": "BN"
+		},
+		{
+			"label": "Bulgaria",
+			"value": "BG"
+		},
+		{
+			"label": "Burkina Faso",
+			"value": "BF"
+		},
+		{
+			"label": "Burundi",
+			"value": "BI"
+		},
+		{
+			"label": "Cambodia",
+			"value": "KH"
+		},
+		{
+			"label": "Cameroon",
+			"value": "CM"
+		},
+		{
+			"label": "Canada",
+			"value": "CA"
+		},
+		{
+			"label": "Cape Verde",
+			"value": "CV"
+		},
+		{
+			"label": "Cayman Islands",
+			"value": "KY"
+		},
+		{
+			"label": "Central African Republic",
+			"value": "CF"
+		},
+		{
+			"label": "Chad",
+			"value": "TD"
+		},
+		{
+			"label": "Chile",
+			"value": "CL"
+		},
+		{
+			"label": "China",
+			"value": "CN"
+		},
+		{
+			"label": "Christmas Island",
+			"value": "CX"
+		},
+		{
+			"label": "Cocos (Keeling) Islands",
+			"value": "CC"
+		},
+		{
+			"label": "Colombia",
+			"value": "CO"
+		},
+		{
+			"label": "Comoros",
+			"value": "KM"
+		},
+		{
+			"label": "Congo",
+			"value": "CG"
+		},
+		{
+			"label": "Congo, The Democratic Republic of the",
+			"value": "CD"
+		},
+		{
+			"label": "Cook Islands",
+			"value": "CK"
+		},
+		{
+			"label": "Costa Rica",
+			"value": "CR"
+		},
+		{
+			"label": "Cote D'Ivoire",
+			"value": "CI"
+		},
+		{
+			"label": "Croatia",
+			"value": "HR"
+		},
+		{
+			"label": "Cuba",
+			"value": "CU"
+		},
+		{
+			"label": "Cyprus",
+			"value": "CY"
+		},
+		{
+			"label": "Czech Republic",
+			"value": "CZ"
+		},
+		{
+			"label": "Denmark",
+			"value": "DK"
+		},
+		{
+			"label": "Djibouti",
+			"value": "DJ"
+		},
+		{
+			"label": "Dominica",
+			"value": "DM"
+		},
+		{
+			"label": "Dominican Republic",
+			"value": "DO"
+		},
+		{
+			"label": "Ecuador",
+			"value": "EC"
+		},
+		{
+			"label": "Egypt",
+			"value": "EG"
+		},
+		{
+			"label": "El Salvador",
+			"value": "SV"
+		},
+		{
+			"label": "Equatorial Guinea",
+			"value": "GQ"
+		},
+		{
+			"label": "Eritrea",
+			"value": "ER"
+		},
+		{
+			"label": "Estonia",
+			"value": "EE"
+		},
+		{
+			"label": "Ethiopia",
+			"value": "ET"
+		},
+		{
+			"label": "Falkland Islands (Malvinas)",
+			"value": "FK"
+		},
+		{
+			"label": "Faroe Islands",
+			"value": "FO"
+		},
+		{
+			"label": "Fiji",
+			"value": "FJ"
+		},
+		{
+			"label": "Finland",
+			"value": "FI"
+		},
+		{
+			"label": "France",
+			"value": "FR"
+		},
+		{
+			"label": "French Guiana",
+			"value": "GF"
+		},
+		{
+			"label": "French Polynesia",
+			"value": "PF"
+		},
+		{
+			"label": "French Southern Territories",
+			"value": "TF"
+		},
+		{
+			"label": "Gabon",
+			"value": "GA"
+		},
+		{
+			"label": "Gambia",
+			"value": "GM"
+		},
+		{
+			"label": "Georgia",
+			"value": "GE"
+		},
+		{
+			"label": "Germany",
+			"value": "DE"
+		},
+		{
+			"label": "Ghana",
+			"value": "GH"
+		},
+		{
+			"label": "Gibraltar",
+			"value": "GI"
+		},
+		{
+			"label": "Greece",
+			"value": "GR"
+		},
+		{
+			"label": "Greenland",
+			"value": "GL"
+		},
+		{
+			"label": "Grenada",
+			"value": "GD"
+		},
+		{
+			"label": "Guadeloupe",
+			"value": "GP"
+		},
+		{
+			"label": "Guam",
+			"value": "GU"
+		},
+		{
+			"label": "Guatemala",
+			"value": "GT"
+		},
+		{
+			"label": "Guernsey",
+			"value": "GG"
+		},
+		{
+			"label": "Guinea",
+			"value": "GN"
+		},
+		{
+			"label": "Guinea-Bissau",
+			"value": "GW"
+		},
+		{
+			"label": "Guyana",
+			"value": "GY"
+		},
+		{
+			"label": "Haiti",
+			"value": "HT"
+		},
+		{
+			"label": "Heard Island and Mcdonald Islands",
+			"value": "HM"
+		},
+		{
+			"label": "Holy See (Vatican City State)",
+			"value": "VA"
+		},
+		{
+			"label": "Honduras",
+			"value": "HN"
+		},
+		{
+			"label": "Hong Kong",
+			"value": "HK"
+		},
+		{
+			"label": "Hungary",
+			"value": "HU"
+		},
+		{
+			"label": "Iceland",
+			"value": "IS"
+		},
+		{
+			"label": "India",
+			"value": "IN"
+		},
+		{
+			"label": "Indonesia",
+			"value": "ID"
+		},
+		{
+			"label": "Iran, Islamic Republic Of",
+			"value": "IR"
+		},
+		{
+			"label": "Iraq",
+			"value": "IQ"
+		},
+		{
+			"label": "Ireland",
+			"value": "IE"
+		},
+		{
+			"label": "Isle of Man",
+			"value": "IM"
+		},
+		{
+			"label": "Israel",
+			"value": "IL"
+		},
+		{
+			"label": "Italia",
+			"value": "IT"
+		},
+		{
+			"label": "Jamaica",
+			"value": "JM"
+		},
+		{
+			"label": "Japan",
+			"value": "JP"
+		},
+		{
+			"label": "Jersey",
+			"value": "JE"
+		},
+		{
+			"label": "Jordan",
+			"value": "JO"
+		},
+		{
+			"label": "Kazakhstan",
+			"value": "KZ"
+		},
+		{
+			"label": "Kenya",
+			"value": "KE"
+		},
+		{
+			"label": "Kiribati",
+			"value": "KI"
+		},
+		{
+			"label": "Democratic People's Republic of Korea",
+			"value": "KP"
+		},
+		{
+			"label": "Korea, Republic of",
+			"value": "KR"
+		},
+		{
+			"label": "Kosovo",
+			"value": "XK"
+		},
+		{
+			"label": "Kuwait",
+			"value": "KW"
+		},
+		{
+			"label": "Kyrgyzstan",
+			"value": "KG"
+		},
+		{
+			"label": "Lao People's Democratic Republic",
+			"value": "LA"
+		},
+		{
+			"label": "Latvia",
+			"value": "LV"
+		},
+		{
+			"label": "Lebanon",
+			"value": "LB"
+		},
+		{
+			"label": "Lesotho",
+			"value": "LS"
+		},
+		{
+			"label": "Liberia",
+			"value": "LR"
+		},
+		{
+			"label": "Libyan Arab Jamahiriya",
+			"value": "LY"
+		},
+		{
+			"label": "Liechtenstein",
+			"value": "LI"
+		},
+		{
+			"label": "Lithuania",
+			"value": "LT"
+		},
+		{
+			"label": "Luxembourg",
+			"value": "LU"
+		},
+		{
+			"label": "Macao",
+			"value": "MO"
+		},
+		{
+			"label": "Macedonia, The Former Yugoslav Republic of",
+			"value": "MK"
+		},
+		{
+			"label": "Madagascar",
+			"value": "MG"
+		},
+		{
+			"label": "Malawi",
+			"value": "MW"
+		},
+		{
+			"label": "Malaysia",
+			"value": "MY"
+		},
+		{
+			"label": "Maldives",
+			"value": "MV"
+		},
+		{
+			"label": "Mali",
+			"value": "ML"
+		},
+		{
+			"label": "Malta",
+			"value": "MT"
+		},
+		{
+			"label": "Marshall Islands",
+			"value": "MH"
+		},
+		{
+			"label": "Martinique",
+			"value": "MQ"
+		},
+		{
+			"label": "Mauritania",
+			"value": "MR"
+		},
+		{
+			"label": "Mauritius",
+			"value": "MU"
+		},
+		{
+			"label": "Mayotte",
+			"value": "YT"
+		},
+		{
+			"label": "Mexico",
+			"value": "MX"
+		},
+		{
+			"label": "Micronesia, Federated States of",
+			"value": "FM"
+		},
+		{
+			"label": "Moldova, Republic of",
+			"value": "MD"
+		},
+		{
+			"label": "Monaco",
+			"value": "MC"
+		},
+		{
+			"label": "Mongolia",
+			"value": "MN"
+		},
+		{
+			"label": "Montenegro",
+			"value": "ME"
+		},
+		{
+			"label": "Montserrat",
+			"value": "MS"
+		},
+		{
+			"label": "Morocco",
+			"value": "MA"
+		},
+		{
+			"label": "Mozambique",
+			"value": "MZ"
+		},
+		{
+			"label": "Myanmar",
+			"value": "MM"
+		},
+		{
+			"label": "Namibia",
+			"value": "NA"
+		},
+		{
+			"label": "Nauru",
+			"value": "NR"
+		},
+		{
+			"label": "Nepal",
+			"value": "NP"
+		},
+		{
+			"label": "Netherlands",
+			"value": "NL"
+		},
+		{
+			"label": "Netherlands Antilles",
+			"value": "AN"
+		},
+		{
+			"label": "New Caledonia",
+			"value": "NC"
+		},
+		{
+			"label": "New Zealand",
+			"value": "NZ"
+		},
+		{
+			"label": "Nicaragua",
+			"value": "NI"
+		},
+		{
+			"label": "Niger",
+			"value": "NE"
+		},
+		{
+			"label": "Nigeria",
+			"value": "NG"
+		},
+		{
+			"label": "Niue",
+			"value": "NU"
+		},
+		{
+			"label": "Norfolk Island",
+			"value": "NF"
+		},
+		{
+			"label": "Northern Mariana Islands",
+			"value": "MP"
+		},
+		{
+			"label": "Norway",
+			"value": "NO"
+		},
+		{
+			"label": "Oman",
+			"value": "OM"
+		},
+		{
+			"label": "Pakistan",
+			"value": "PK"
+		},
+		{
+			"label": "Palau",
+			"value": "PW"
+		},
+		{
+			"label": "Palestinian Territory, Occupied",
+			"value": "PS"
+		},
+		{
+			"label": "Panama",
+			"value": "PA"
+		},
+		{
+			"label": "Papua New Guinea",
+			"value": "PG"
+		},
+		{
+			"label": "Paraguay",
+			"value": "PY"
+		},
+		{
+			"label": "Peru",
+			"value": "PE"
+		},
+		{
+			"label": "Philippines",
+			"value": "PH"
+		},
+		{
+			"label": "Pitcairn",
+			"value": "PN"
+		},
+		{
+			"label": "Poland",
+			"value": "PL"
+		},
+		{
+			"label": "Portugal",
+			"value": "PT"
+		},
+		{
+			"label": "Puerto Rico",
+			"value": "PR"
+		},
+		{
+			"label": "Qatar",
+			"value": "QA"
+		},
+		{
+			"label": "Reunion",
+			"value": "RE"
+		},
+		{
+			"label": "Romania",
+			"value": "RO"
+		},
+		{
+			"label": "Russian Federation",
+			"value": "RU"
+		},
+		{
+			"label": "Rwanda",
+			"value": "RW"
+		},
+		{
+			"label": "Saint Helena",
+			"value": "SH"
+		},
+		{
+			"label": "Saint Kitts and Nevis",
+			"value": "KN"
+		},
+		{
+			"label": "Saint Lucia",
+			"value": "LC"
+		},
+		{
+			"label": "Saint Pierre and Miquelon",
+			"value": "PM"
+		},
+		{
+			"label": "Saint Vincent and the Grenadines",
+			"value": "VC"
+		},
+		{
+			"label": "Samoa",
+			"value": "WS"
+		},
+		{
+			"label": "San Marino",
+			"value": "SM"
+		},
+		{
+			"label": "Sao Tome and Principe",
+			"value": "ST"
+		},
+		{
+			"label": "Saudi Arabia",
+			"value": "SA"
+		},
+		{
+			"label": "Senegal",
+			"value": "SN"
+		},
+		{
+			"label": "Serbia",
+			"value": "RS"
+		},
+		{
+			"label": "Seychelles",
+			"value": "SC"
+		},
+		{
+			"label": "Sierra Leone",
+			"value": "SL"
+		},
+		{
+			"label": "Singapore",
+			"value": "SG"
+		},
+		{
+			"label": "Slovakia",
+			"value": "SK"
+		},
+		{
+			"label": "Slovenia",
+			"value": "SI"
+		},
+		{
+			"label": "Solomon Islands",
+			"value": "SB"
+		},
+		{
+			"label": "Somalia",
+			"value": "SO"
+		},
+		{
+			"label": "South Africa",
+			"value": "ZA"
+		},
+		{
+			"label": "South Georgia and the South Sandwich Islands",
+			"value": "GS"
+		},
+		{
+			"label": "Spain",
+			"value": "ES"
+		},
+		{
+			"label": "Sri Lanka",
+			"value": "LK"
+		},
+		{
+			"label": "Sudan",
+			"value": "SD"
+		},
+		{
+			"label": "Surilabel",
+			"value": "SR"
+		},
+		{
+			"label": "Svalbard and Jan Mayen",
+			"value": "SJ"
+		},
+		{
+			"label": "Swaziland",
+			"value": "SZ"
+		},
+		{
+			"label": "Sweden",
+			"value": "SE"
+		},
+		{
+			"label": "Switzerland",
+			"value": "CH"
+		},
+		{
+			"label": "Syrian Arab Republic",
+			"value": "SY"
+		},
+		{
+			"label": "Taiwan",
+			"value": "TW"
+		},
+		{
+			"label": "Tajikistan",
+			"value": "TJ"
+		},
+		{
+			"label": "Tanzania, United Republic of",
+			"value": "TZ"
+		},
+		{
+			"label": "Thailand",
+			"value": "TH"
+		},
+		{
+			"label": "Timor-Leste",
+			"value": "TL"
+		},
+		{
+			"label": "Togo",
+			"value": "TG"
+		},
+		{
+			"label": "Tokelau",
+			"value": "TK"
+		},
+		{
+			"label": "Tonga",
+			"value": "TO"
+		},
+		{
+			"label": "Trinidad and Tobago",
+			"value": "TT"
+		},
+		{
+			"label": "Tunisia",
+			"value": "TN"
+		},
+		{
+			"label": "Turkey",
+			"value": "TR"
+		},
+		{
+			"label": "Turkmenistan",
+			"value": "TM"
+		},
+		{
+			"label": "Turks and Caicos Islands",
+			"value": "TC"
+		},
+		{
+			"label": "Tuvalu",
+			"value": "TV"
+		},
+		{
+			"label": "Uganda",
+			"value": "UG"
+		},
+		{
+			"label": "Ukraine",
+			"value": "UA"
+		},
+		{
+			"label": "United Arab Emirates",
+			"value": "AE"
+		},
+		{
+			"label": "United Kingdom",
+			"value": "GB"
+		},
+		{
+			"label": "United States",
+			"value": "US"
+		},
+		{
+			"label": "United States Minor Outlying Islands",
+			"value": "UM"
+		},
+		{
+			"label": "Uruguay",
+			"value": "UY"
+		},
+		{
+			"label": "Uzbekistan",
+			"value": "UZ"
+		},
+		{
+			"label": "Vanuatu",
+			"value": "VU"
+		},
+		{
+			"label": "Venezuela",
+			"value": "VE"
+		},
+		{
+			"label": "Viet Nam",
+			"value": "VN"
+		},
+		{
+			"label": "Virgin Islands, British",
+			"value": "VG"
+		},
+		{
+			"label": "Virgin Islands, U.S.",
+			"value": "VI"
+		},
+		{
+			"label": "Wallis and Futuna",
+			"value": "WF"
+		},
+		{
+			"label": "Western Sahara",
+			"value": "EH"
+		},
+		{
+			"label": "Yemen",
+			"value": "YE"
+		},
+		{
+			"label": "Zambia",
+			"value": "ZM"
+		},
+		{
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_WOULD_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"PROFILE_INFO": "Profile Info",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+	"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"COMPLIE_IT_LATER": "Compile it later",
+	"TITLE_WELCOME_SCREEN": "With SaluberMD you can have your Health Profile always in your pocket",
+	"CONTENT_WELCOME_SCREEN": "We recommend you to compile your health profile lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	"TITLE_ANAMNESIS": "The consultation will start within 5 mins",
+	"PLEASE_CONFIRM_HEALTH_PROFILE": "Please, confirm or compile your health information.",
+	"RECOMMENDED_DOCUMENTS": "Recommended Documents",
+	"DESCRIPTION_RECOMMENDED_DOCUMENTS": "The doctor can view your complete health profile. If you need it, you can suggest one or more documents that you believe may be useful to the doctor for the scheduled visit.",
+	"UPLOAD_DOCUMENT": "Upload Document",
+	"TITLE_AFTER_VIDEO_CALL": "Your results will be ready within two hours",
+	"WE_WILL_SEND_RESULTS": "We will send you a notification when the results will be ready.",
+	"TITLE_RATING": "How did the video call go? Give us a feedback in order to improve our service",
+	"AUDIO": "Audio",
+	"ADD_YOUR_COMMENT_HERE": "Add your comment here",
+	"SUBMIT": "Submit",
+	"DO_THIS_LATER": "Do this later",
+	"NO_CHRONIC_DISEASE": "No chronic disease",
+	"NO_ALLERGIES": "No allergies",
+	"NO_MEDICATION": "No medications",
+	"NO_DEPENDENCIES": "No dependencies",
+	"NO_HOSPITALIZATION_OR_SURGICAL": "No Hospitalization or Surgical",
+	"NO_IMMUNIZATION": "No immunization",
+	"NO_IRREGULAR_TEST": "No irregular test",
+	"NO_PROSTHESIS_MEDICAL": "No Prosthesis & Medical",
+	"NOT_COMPLIED": "Not complied",
+	"PHYSICAL_CHARATERISTICS": "Physical characteristics",
+	"PHYSICIAN": "Physician",
+	"CHRONIC_DISEASE": "Chronic Disease",
+	"HOSPITALIZATION_SURGICAL": "Hospitalization & Surgical History",
+	"IRREGULAR_TEST": "Irregular test",
+	"PROSTHESIS_MEDICAL_AIDS": "Prosthesis & Medical Aids",
+	"RECOMMENDED_INFO": "Recommended info",
+	"OTHER_INFO": "Other info",
+	"HEALTH_PROFILE": "Health Profile",
+	"CHOOSE_PHONE_CODE": "Choose Phone Code",
+	"CHOOSE_COUNTRY": "Choose Country",
+	"CHOOSE_STATE": "Choose State",
+	"SELECT_WEIGHT": "Select Weight",
+	"SELECT_HEIGHT": "Select Height",
+	"CHOOSE_COMPLICATION": "Choose Complication",
+	"DO_YOU_CHRONIC_DISEASE": "Do you have any chronic disease?",
+	"SELECT_A_DATE": "Select a date",
+	"INSERT_ANY_OTHER_INFO": "Insert any other info",
+	"NEW_CHRONIC_DISEASE": "New Chronic Disease",
+	"ADD_NEW_DISEASE": "Add new disease",
+	"WHO_IS_FOR": "Who is for?",
+	"PROVIDER": "Provider",
+	"STEP1_QS": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+	"WRITE_TALK_ABOUT":"Write here if you have any symptoms or if you have any doubts to talk about",
+	"CHOOSE_A_PROVIDER": "Choose a provider",
+	"ANY_FREE_PROVIDER": "Any free provider",
+	"CHOOSE_ONE_OF_YOUR_DOCTORS": "Choose one of your Doctors",
+	"ARE_YOU_SURE_TO_EXIT": "Are you sure to exit",
+	"ALL_INFO_ENTERED_WILL_BE_DELETED": "All info entered will be deleted",
+	"CONFIRM_THE_DIRECT_CALL_REQUEST": "Confirm the direct call request",
+	"SPECIALITY": "Speciality",
+	"CONFIRM_REQUEST": "Confirm Request",
+	"FOUND_YOU_A_DOCTOR": "Found you a doctor",
+	"LET_GO_VIDEO_NOW": "Let go to the Video Call now. You can also try find another doctor if you want.",
+	"GO_TO_THE_VIDEO_CALL": "Go to the Video Call",
+	"TRY_ANOTHER_DOCTOR": "Try another doctor",
+	"FINDING_YOUR_DOCTOR": "Finding your Doctor",
+	"FINDING_YOUR_DOCTOR_CONTENT": "We are checking if your doctor is free for a video consultation, this process can take around 2 minutes. Please patient!",
+	"TAKE_AN_APPOINTMENT": "Take an Appointment",
+	"DISMISS": "Dismiss",
+	"NEW_APPOINTMENT": "New Appointment",
+	"CHOOSE_THE_MEDICAL_SPECIALITY" : "Choose the medical speciality",
+	"CONTENT_INFO_CHOOSE_SPECIALITY" : "If you have any doubt about the speciality, ask for a general practitioner",
+	"NEXT_AVAILABILITIES" : "Next availabilities",
+	"NO_DOCTOR_AVAILABLE" : "No doctor available",
+	"NO_DOCTOR_DESCRIPTION" : "There are no doctors available at the moment. Select a day and a time slot in which you would like to do the video-consultation and we will look for a doctor for you.",
+	"OVERTIME" : "Overtime",
+	"CHOOSE_YOUR_AVAILABILITY" : "Chose your availability",
+	"READ_AND_CONFIRM_APPOINTMENT" : "Read and confirm the appointment",
+	"READ_AND_CONFIRM_AVAILABILITY" : "Read and confirm the availability",
+	"DATE_AND_TIME" : "Date & Time",
+	"CONFIRM_APPOINTMENT" : "Confirm Appointment",
+	"CONFIRM_AVAILABILITY" : "Confirm Availability",
+	"THANK_YOU" : "Thank you!",
+	"TITLE_SUCCESSFULLY_REGISTERED_APPOINTMENT" : "We have successfully registered your appointment.",
+	"TITLE_SUCCESSFULLY_REGISTERED_REQUEST" : "We have successfully registered your appointment request.",
+	"DESCRIPTION_SUCCESSFULLY_REGISTERED_APPOINTMENT" : "We recommend that you access the video consultation 5 minutes before the start. We will remind you of the appointment in advance. If you want you can export the appointment to your calendar.",
+	"DESCRIPTION_SUCCESSFULLY_REGISTERED_REQUEST" : "We will notify you as soon as a doctor accepts your request.",
+	"TO_CONFIRM" : "To confirm",
+	"GO_TO_APPOINTMENTS" : "Go to Appointments",
+	"SLOT" : "Slot",
+	"UPCOMING" : "Upcoming",
+	"HISTORY" : "History",
+	"EDIT_PERSONAL_INFO" : "Edit Personal Info",
+	"EDIT_ADDRESS" : "Edit Address",
+	"CONTACT_INFO" : "Contact Info",
+	"EDIT_CONTACT_INFO" : "Edit Contact Info",
+	"FAMILY_PHYSICIAN" : "Family Physician",
+	"EDIT_FAMILY_PHYSICIAN" : "Edit Family Physician",
+	"EMERGENCY_CONTACT" : "Emergency Contact",
+	"EDIT_EMERGENCY_CONTACT" : "Edit Emergency Contact",
+	"TRACKING" : "Tracking",
+	"FILE_ARCHIVE" : "File Archive",
+	"NEW_RECORD": "New record",
+	"RECORD_TYPE": "Record type",
+	"RECORD_TYPE_SELECT": "Please select a category from the list below.",
+	"ITEM_SELECT": "Please select an item from the list below",
+	"SPECIALITY_SELECT": "Please select a speciality from the list below.",
+	"SELECT_A_CATALOGUE": "Select a catalogue",
+	"LOREM_IPSUM_DOLOR": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+	"SET_REMINDER": "This is the place where you can set your reminders",
+	"NEW_MEDICATION": "New Medication",
+	"NEW_ALLERGY": "New Allergy",
+	"NEW_DEPENDENCIES": "New Dependencies",
+	"EG_YES_NO": "eg. Yes, No",
+	"New_Hospitalization_Surgical_History": "New Hospitalization & Surgical History",
+	"CHOOSE_WEANED_OFF": "Choose Weaned Off?",
+	"CHOOSE_TYPE": "Choose Type",
+	"CHOOSE_SURGERY": "Choose Surgery",
+	"CHOOSE_SURGERY_CATEGORY": "Choose Surgery Category",
+	"CHOOSE_HOSPITALIZATION": "Choose Hospitalization",
+	"NEW_IMMUNIZATION": "New Immunization",
+	"NEW_PROSTHETICS": "New Prosthetics and Medical Aids",
+	"EDIT_CHRONIC_DISEASE": "Edit Chronic Disease",
+	"EDIT_ALLERGY": "Edit Allergy",
+	"CHOOSE_DISEASE" : "Choose Disease",
+	"NEW_MESUREMENT": "New Mesurement",
+	"FIND_YOUR_DEVICE": "Scanning for a device in progres...",
+	"POWER_ON_YOUR": "Open the clip and put finger inside the rubber cushions of the clip.",
+	"MANUAL_INPUT": "Manual Input",
+	"MEDICAL_RECORDS" : "Medical Records",
+	"CHOOSE_RELA" : "Choose Relationship",
+	"EDIT_MEDICATION": "Edit Medication",
+	"CHOOSE_MEDICATION" : "Choose Medication",
+	"CHOOSE_MEDICATION_FORM" : "Choose Medication Form",
+	"EDIT_DEPENDENCY" : "Edit Dependency",
+	"EDIT_IMMUNIZATION" : "Edit Immunization",
+	"CHOOSE_IMMUNIZATION" : "Choose Immunization",
+	"CHOOSE_DEPENDENCY" : "Choose Dependency",
+	"CHOOSE_ALLERGY" : "Choose Allergy",
+	"EDIT_IRREGULAR_TEST" : "Edit Irregular Test",
+	"EDIT_PROSTHESIS_MEDICAL_AIDS": "Edit Prosthesis & Medical Aids",
+	"PROSTHESIS" : "Prosthesis",
+	"CHOOSE_PROSTHESIS" : "Choose Prosthesis",
+	"EDIT_HOSPITALIZATION_SURGICAL": "Edit Hospitalization & Surgical",
+	"OTHER_ACCIDENT" : "Other Accident",
+	"OTHER_CANCER_TREATMENT" : "Other Cancer Treatment",
+	"SEARCH_FOR_DOCUMENT" : "Search for document",
+	"NEW_IRREGULAR": "New Irregular",
+	"ACTION_TAKEN": "Action Taken",
+	"SELECT_TEST": "Select test",
+	"FILE_DETAILS" : "File details",
+	"FATHER" : "Father",
+	"MOTHER" : "Mother",
+	"WIFE" : "Wife",
+	"HUSBAND" : "Husband",
+	"SON" : "Son",
+	"DAUGHTER" : "Daughter",
+	"SHARE" : "Share",
+	"EDIT_DOCUMENT" : "Edit document",
+	"CHANGE" : "Change",
+	"UPLOAD_FILE" : "Upload File",
+	"CHOOSE_CATEGORY" : "Choose Category",
+	"RESET_ALL_FILTERS": "Reset All Filters",
+	"SHOW": "Show",
+	"NEW_DOCUMENT" : "New Document",
+	"UPLOAD" : "Upload",
+	"UPLOAD_DOC_PLACEHOLDER" : "Upload a image or .pdf",
+	"ENTER_DOC_TITLE" : "Enter document title",
+	"SELECT_A_CATEGORY" : "Select a category",
+	"LIST_CATEGORY_FILES" : "List Category Files",
+	"NEW_EMERGENCY_CONTACT" : "New Emergency Contact",
+	"ENTRY_TYPE": "Entry Type",
+	"ALL_ENTRIES": "All entries",
+	"MANUAL_ENTRY": "Manual entry",
+	"SUPPORT" : "Support",
+	"FAQs" : "FAQs",
+	"HEALTH_PROFILE_WIZARD" : "Health Profile Wizard",
+	"ARE_YOU_SURE_TO_CLOSE" : "Are you sure to close?",
+	"CONTENT_POPUP_CLOSE" : "Your info will be saved. You can update your info in the Health Profile page.",
+	"CONTENT_POPUP_THANKYOU" : "You can check and update your medical info everytime in your medical profile",
+	"VIEW_PROFILES" : "View Profiles",
+	"MAGAZINE" : "Magazine",
+	"PLACEHOLDER_TEXTINPUT_CONTACT_US" : "Enter your message here...",
+	"CONTENT_DIALOG_CONTACT_US" : "We’ve receive your message and will get back to you within 24 hours.",
+	"LASTEST_ARTICLE" : "Latest Article",
+	"SEE_ALL_ARTICLES" : "See All Articles",
+	"HEALTH_TRACKING": "Health Tracking",
+	"ADD_NEW_MEASUREMENT": "Add New Measurement",
+	"LAST_UPDATAE_AT": "Last update at",
+	"VIEW_PROFILE" : "View Profile",
+	"LAST_UPLOAD" : "Last upload",
+	"PULSE_RATE_IS_WITHIN_THE_RANGE": "Pulse rate is within the range",
+	"NOT_AVALIABLE_IS_WITHIN_THE_RANGE": "Pulse rate is not given",
+	"server_missing": "You are not connected to the Server",
+	"TRY_AGAIN": "Try again",
+	"DEVICE_IS_NOT_SUPPORTED": "Your device is not supported for this function",
+	"ALERT": "Alert",
+	"TOOLS" : "Tools",
+	"SHOW_IN_HOMEPAGE" : "Show in homepage",
+	"PULSE_RATE": "Pulse rate",
+	"EXCERCISE" : "Excercise",
+	"MEASUREMENT" : "Measurement",
+	"PRESCRIPTION_ASSISTANT" : "Prescription assistant",
+	"have_not_taken_it_yet": "Haven't taken it yet",
+	"REASON_FOR_NOT_TAKING_THE_MEDICINE": "Reason for not taking the medicine",
+	"CONFIRM_THE_TIME_YOU_TOOK_THE_MEDICINE": "Confirm the time you took the medicine",
+	"THE_DOCTOR_IS_NOT_AVAILABLE": "The Doctor is not available now.",
+	"PLEEASE_TRY_AGAIN_TAKE_APPOINTMENT": "Please try again later or take an appointment",
+	"View_All_Reminders" : "View All Reminders",
+	"Today_reminder" : "Today's reminders",
+	"Next_reminders" : "Next reminders",
+	"CONTENT_PHARMACY_FIRSTTIME" : "With this widget you can always have your favorite pharmacies at hand.",
+	"CALL_THE_EMERGENCY_NUMBER":"Call The Emergency Number",
+	"CALL_YOUR_EMERGENCY_CONTACT": "Call Your Emergency Contact",
+	"SHARE_YOUR_MEDICAL_RECORD": "Share Your Medical Record",
+	"BUILD_NUMBER" : "Build number",
+	"sendtoken2": "Send this to the doctor to allow him the access to your medical file. This link expires in 10 minutes",
+	"MESSAGE_WHEN_ADD_5_MORE" : "You’ve reached the maximum emergency contacts added. Please try to edit or remove exsiting contact(s) and try again.",
+	"EDIT_DOCUMENT_LIST" : "Edit Document List",
+	"AVATAR_UPDATE_SUCCESSFUL": "Avatar update successful",
+	"DOCUMENT_LIST" : "Document List",
+	"TITLE_DOCUMENT_LIST" : "Select documents to recommend",
+	"Result_of_the_consultation" : "Result of the consultation",
+	"AVAILABLE_PHARMACIES" : "Available Pharmacies",
+	"DIRECT_MAP" : "Direct Map",
+	"at" : "at",
+	"MISSED_BT": "Missed",
+	"SERVICES" : "Services",
+	"SAMPLE" : "Sample",
+	"AVAILABLE_CLINIC" : "Available Clinics",
+	"SELECT_CITY" : "Select City",
+	"SELECT_STATE" : "Select State",
+	"SELECT_COUNTY" : "Select County",
+	"SELECT_STRUCTURE_TYPE" : "Select structure type",
+	"SELECT_SAMPLE" : "Select sample",
+	"CLINIC_APPOINTMENT" : "Clinic Appointment",
+	"NUTRITIONIST" : "Nutritionist",
+	"ASSISTANCE_TYPE" : "Assistance type",
+	"ADD_YOUR_DES_HERE" : "Add your description here",
+	"CURRENT_PASSWORD": "Current password",
+	"NEW_PASSWORD": "New Password",
+	"CONFIRM_NEW_PASSWORD": "Confirm New Password",
+	"RESET_YOUR_PASSWORD": "Reset your password",
+	"EMAIL_OR_USERNAME": "Email or username",
+	"NEW_REQUEST" : "New Request",
+	"MORE_APPOINTMENT" : "more appointments",
+	"CONCERNS" : "Concerns",
+	"YOUR_CHILD_NAME" : "Your Child's Name",
+	"YOUR_CHILD_BIRTHDAY" : "Your Child's Birthday",
+	"CONTENT_NOTI_SETTING" : "Select from which category you want to receive notifications",
+	"WELLNESS" : "Wellness",
+	"QUESTION_MEDICATION_HPW" : "Do you take any medications?",
+	"PH_MEDICATION" : "eg. Aspirin, Insulin etc.",
+	"PH_GENERIC_NAME" : "eg. Medicine, Element etc.",
+	"PH_MEDI_FORM" : "eg. Ampoules, Bottle etc",
+	"PH_NOTE" : "Insert any other info",
+	"ADD_NEW_MEDICINE" : "Add new medicine",
+	"DELETE_MEDICINE" : "Delete Medicine",
+	"PH_COMPLICATION" : "eg. Fever, Infection etc.",
+	"DELETE_DISEASE" : "Delete Disease",
+	"ADD_NEW_ALLERGY" : "Add new allergy",
+	"QUESTION_ALLERGY_HPW" : "Do you have any allergy?",
+	"PH_DEPENDENCY" : "eg. Alcohol, Caffeine etc.",
+	"PH_WEANEDOFF" : "eg. Yes, No",
+	"ADD_NEW_DEPENDENCY" : "Add new dependency",
+	"QUESTION_DEPENDENCY_HPW" : "Do you have any dependencies?",
+	"QUESTION_IMMU_HPW" : "Do you have any immunization?",
+	"ADD_NEW_IMMU" : "Add new immunization",
+	"PH_TEST" : "eg. General, MRI exam etc.",
+	"QUESTION_IRRE_HPW" : "Do you have any irregular test?",
+	"NEW_IRRE_TEST" : "New Irregular Test",
+	"ADD_NEW_TEST" : "Add new test",
+	"DELETE_TEST" : "Delete Irregular Test",
+	"DELETE_IMMU" : "Delete Immunization",
+	"PH_PROSTHESIS" : "eg. Glasses, Hearing aid etc.",
+	"NEW_PROS" : "New Prosthesis and Medical Aids",
+	"PROS_TITLE" : "Prosthesis and Medical Aids",
+	"ADD_NEW_PROS" : "Add new prosthesis",
+	"DELETE_PROS" : "Delete Prosthesis",
+	"QUESTION_HOSPITAL_HPW" : "Do you have any hospitalization and surgical history?",
+	"SELECT_HOS_OR_SUR" : "Select Hospitalization or Surgery",
+	"NEW_HOS_AND_SUR" : "New Hospitalization and Surgical History",
+	"ADD_NEW_HOS" : "Add new hospitalization",
+	"DELETE_HOS_AND_SUR" : "Delete Hospitalization & Surgical",
+	"WAITING_FOR_CONFIRMATION" : "Waiting for confirmation",
+	"STARTING_NOW" : "Starting now",
+	"STARTING_IN" : "Starting in",
+	"START_5M" : "Starting in 5 minutes",
+	"START_4M" : "Starting in 4 minutes",
+	"START_3M" : "Starting in 3 minutes",
+	"START_2M" : "Starting in 2 minutes",
+	"START_1M" : "Starting in 1 minute",
+	"TOMORROW" : "Tomorrow",
+	"TODAY" : "Today",
+	"CHOOSE_SPECIALTY" : "Choose Specialty",
+	"CHOOSE_CURRENCY" : "Choose Currency",
+	"CHOOSE_SLOT" : "Choose Slot",
+	"ITEMS" : "Items",
+	"CONSULTATION_INFO" : "Consultation Info",
+	"CONSULTATION_REQUEST" : "Consultation Request",
+	"DURATION_AND_PRICE" : "Duration & Price",
+	"CONSULTATION_CALL" : "Consultation Call",
+	"CONSULTATION_OUTCOME" : "Consultation Outcome",
+	"OTHER_DOCUMENTS" : "Other Documents",
+	"SAVE_FOR_LATER" : "Save for later",
+	"NEW_MEDICINE" : "New Medicine",
+	"MEDICINE_NAME" : "Medicine Name",
+	"QUESTION_POST_CALL_1" : "Questionnaire saved for later",
+	"CONTENT_Q1_POST_CALL" : "Your questionnare is now available in the consultation history section. Remembre to complete it in the following 2 hour, we will send you a reminder 30 mins before the deadline.",
+	"TITLE_POST_CALL_2" : "Consultation completed",
+	"CONTENT_POST_CALL_2" : "Your questionnaire is now completed, your patient will receive a notification soon.",
+	"NOTI_SUCCESS_TRANSFER_CALL" : "The video call has been successfully transfered",
+	"AGENDA": "Agenda",
+	"AVAILABILITY": "Availability",
+	"AVAILABLE": "Available",
+	"SCHEDULED": "Scheduled",
+	"SCHEDULED_APPOINTMENTS" : "Scheduled appointments",
+	"ORDER" : "Order",
+	"VIDEO_CONSULTATION_INFO" : "Video Consultation Info",
+	"NONE" : "None",
+	"SEARCH_IN_HISTORY" : "Search in history",
+	"NEW_AVAILABILITY": "New Availability",
+	"START_TIME": "Start time",
+	"END_TIME": "End time",
+	"SELECT_DATE": "Select date",
+	"TXT_ADD": "Add",
+	"WEEK_DAYS": "Week days",
+	"SELECT_AN_OPTION": "Select an option",
+	"MINS": "mins",
+	"RECENT_VISITS" : "Recent Visits",
+	"SEE_ALL" : "See all",
+	"OVER_TIME" : "Over Time",
+	"TODAY_ACTIVITES" : "Today activities",
+	"SLOTS" : "Slots",
+	"FREE_SLOT_FOR_TODAY":"Free slot for today",
+	"FREE_SLOT" : "Free slot",
+	"DIRECT_CALL_NEW_APPOINTMENT": "From this widget you can manage your appointments quickly. You can book a New Appointment or make a Direct Call with an available doctor instantly.",
+	"ADD_NEW_AVAILABILITY" : "Add new availability",
+	"DELETE_ALL_FREE_SLOTS" : "Delete all free slots",
+	"TRACKING_NO_DATA" : "Tracking data unavailable",
+	"UPCOMING_NO_DATA" : "You have no upcoming visit",
+	"HISTORY_APPOINTMENT_NO_DATA" : "Your visit history is empty",
+	"DAILY_MEDICINE_WIDGET": "With this widget you can monitor your daily medicines. Let’s get started!",
+	"ADD_MEDICINE_REMINDER": "Add a  Medicine Reminder",
+	"MEDICINE_REMINDER_NO_DATA" : "You don't have any reminder",
+	"FAVORITE_PHARMACY_NO_DATA" : "You don't have any favorite pharmacy",
+	"ALERT_NO_DATA" : "You don’t have any alert yet",
+	"MESSAGE" : "You don’t have any message yet",
+	"FIRST_TIME_DOCTOR_RECENT_VISIT" : "This is the place for the most recent visits, looks a bit empty now, but don't worry, here some tips on how to use them ;)" ,
+	"TODAY_ACTIVITIES_FIRST_TIME_1" : "No available slots,",
+	"TODAY_ACTIVITIES_FIRST_TIME_2" : "Click here to add your availability",
+	"FIRST_TIME_APPOINTMENT_DOCTOR" : "You have no scheduled appointment yet",
+	"FIRST_TIME_APPOINTMENT_REQUEST_DOCTOR" : "There is no slot request for the next 5 days",
+	"PATIENT_LIST" : "Patient List",
+	"PATIENT_DETAIL" : "Patient Details",
+	"CONSULTATION" : "Consultation",
+	"COMMUNICATIONS" : "Communications",
+	"ACTIVE_PATIENTS" : "Active patients",
+	"OLD" : "old",
+	"APPOINTMENT_DETAIL" : "Appointment detail",
+	"INNITIATIVE" : "Initiative",
+	"EDIT_APPOINTMENT" : "Edit appointment",
+	"BOOK" : "Book",
+	"NOT_DOCUMENT_HISTORY" : "The result will be available within 2 hours",
+	"ADD_YOUR_FIRST_MEASUREMENT": "Add Your First Measurement",
+	"FROM_THIS_WIDGET_HEALTH_TRACKING": "From this widget you can track your health data and check trends.",
+	"REQUEST" : "Request",
+	"CONTENT_STEP_SLOT" : "Did not find a slot corresponding to your needs? Contact us for a specific request.",
+	"YESTERDAY" : "Yesterday",
+	"ADD_DOCUMENT" : "Add Attachment",
+	"ABOUT_SALUBERMD": "About SaluberMD",
+	"ABOUT1": "After watching this industry evolve over the last twenty years, we have created SaluberMD to offer an affordable, convenient solution for patients to manage their health from anywhere. The challenge of servicing patients remotely is not a new concept, but with the evolution of technology, the dream of better health outcomes is now within reach.",
+	"FOUNDING_PRINCIPLES": "Founding Principles",
+	"ABOUT2": "We observed that patients had no control over their medical records, scheduling doctors’ appointments and how much time was spent with their doctor. This drove us to the founding principles of SaluberMD:",
+	"ABOUT_US_TXT_1": "To keep the patient at the center of everything we do",
+	"ABOUT_US_TXT_2": "SaluberMD trained doctors will provide an experience that is (almost) as good as being there in person",
+	"ABOUT_US_TXT_3": "Promote a unified approach to health, wellness and disease management, accessible via mobile devices and desktop",
+	"ABOUT_US_TXT_4": "Build a truly global organization with access to care anywhere, anytime",
+	"ABOUT_US_TXT_5": "Be a purpose-driven organization: through our \"Global Care Program\", SaluberMD doctors will be encouraged to donate hours to help those without accessible or affordable medical care",
+	"PRIVACY_1": "NOTICE OF HEALTH INFORMATION PRIVACY PRACTICES",
+	"PRIVACY_2": "Notice of Health Information Privacy Practices (for SaluberMD, LLC. last revised December 7, 2017).\nThis section of our Privacy Policy (Section I, “Notice of Health Information Privacy Practices” or “Notice”) describes how health information about you may be used and disclosed and how you can get access to this information. Please review it carefully.",
+	"PRIVACY_3": "HOW IS PATIENT PRIVACY PROTECTED?",
+	"PRIVACY_4": "As the healthcare professionals providing online medical services through SaluberMD (the “Healthcare Professionals”, “us”, “we”, “our”), we understand that information about you and your health is personal. Because of this, we strive to maintain the confidentiality of your health information. We continuously seek to safeguard that information through administrative, physical and technical means, and otherwise abide by applicable federal and state guidelines.",
+	"PRIVACY_5": "HOW DO WE USE AND DISCLOSE HEALTH INFORMATION?",
+	"PRIVACY_6": "We use and disclose your health information for the normal business activities that the law sees as falling in the categories of treatment, payment and healthcare operations. Below we provide examples of those activities, although not every use or disclosure falling within each category is listed:\n- Treatment – We keep a record of the health information you provide us. This record may include your test results, diagnoses, medications, your response to medications or other therapies, and information we learn about your medical condition through the online Services. We may disclose this information so that other doctors, nurses, and entities such as laboratories can meet your healthcare needs.",
+	"SUBMIT_A_TICKET": "Submit A Ticket",
+	"SUBMIT_CONTENT_TICKET": "If you would like to learn more about our services, please reach out to us using the contact information below.",
+	"CONSULTING": "Consulting",
+	"HOURS_DONATION": "Hours Donation",
+	"EDIT_INFO": "Edit Info",
+	"YEARS": "Years",
+	"DONATED": "Donated",
+	"DONATE_HOURS_TITLE": "Donate Hours",
+	"EDIT_YOUR_PERSONAL_INFO": "Edit Your Personal Info",
+	"SAVE_CHANGES": "Save Changes",
+	"ADD_NEW": "Add New",
+	"FEES_MANAGEMENT": "Fees Management",
+	"YOUR_SIGNATURE": "Your Signature",
+	"ACCOUNT_DETAILS": "Account Details",
+	"EDIT_ACCOUNT_INFO": "Edit Account Info",
+	"ALL_REFERRAL" : "All referral",
+	"ALL_PRESCRIPTION" : "All prescription",
+	"ALL_MEDICAL_CERTIFICATE" : "All Medical Certificate",
+	"NEW_FEE": "New Fee",
+	"ASCENDING" : "Ascending",
+	"DESCENDING" : "Descending",
+	"NEW_MESSAGE" : "New Message",
+	"NEW_MEDICAL_CERTIFICATE" : "New Medical Certificate",
+	"NEW_REFERRAL" : "New Referral",
+	"NEW_PRESCRIPTION" : "New Prescription",
+	"TOPIC" : "Topic",
+	"ALL_MESSAGE" : "All message",
+	"ALL_NOTE" : "All Notes",
+	"NO_DATA_NOTE" : "Are all the values in line with your expectation? Add your first note, this information will not be displayed to the patient",
+	"ACCEPTABLE_RANGE" : "Acceptable range %",
+	"MIN" : "Min",
+	"MAX" : "Max",
+	"TO_STOP": "To stop the measurement, remove the finger from the device and wait for a few seconds",
+	"RECALL" : "Recall",
+	"DRAFT" : "Draft",
+	"OVERDUE" : "Overdue",
+	"COMPLETED" : "Completed",
+	"MINS_LEFT" : "mins left",
+	"CHOOSE_A_TAG" : "Choose a tag",
+	"ADD_A_TAG" : "Add a tag",
+	"BY_CONSULTATIONS" : "By consultations",
+	"BY_LAST_NAME" : "By last name",
+	"BLUETOOTH_TEMPERATURE": "Turn on the thermometer, wait the device to connect and then take the temperature",
+	"DEVICE_CONNECT_TEMPERATURE": "Device connected. Waiting for data acquisition..",
+	"RE_MEASUREMENT": "Re-measurement",
+	"SUGGESTED" : "Suggested",
+	"WELCOME_TIPS" : "Welcome tips",
+	"CONTENT_TIPS" : "This is the place for the most recent visits, as soon as  you lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+	"CONTENT_FILE_DOCTOR" : "The blue lines distinguish the documents uploaded by the doctor",
+	"BLOOD_PRESSURE_VALIDATE": "The Blood pressure value must be a number between 40 and 250",
+	"ADD_MORE" : "Add more",
+	"CONFIRM_PAYMENT": "Confirm Payment",
+	"Start_time_is_after_end_time" : "Start time is after end time",
+	"POST_CALL_SUCCESSFUL" : "Send consultation call successful",
+	"POST_CALL_FAIL" : "Send consultation call failed"
+}

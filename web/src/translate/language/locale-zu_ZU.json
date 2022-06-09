@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Mayelana NATHI",
+  "ABOUT_US_CONDITION_1": "I-cold &amp; flu",
+  "ABOUT_US_CONDITION_2": "Izimo zesikhumba",
+  "ABOUT_US_CONDITION_3": "Amagciwane",
+  "ABOUT_US_CONDITION_4": "Umphimbo obuhlungu",
+  "ABOUT_US_CONDITION_5": "Isisu esibuhlungu",
+  "ABOUT_US_DOCTOR_BENEFIT1": "UKUQALA KWENYAKA:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Ungabona izigulane ezifika kweziyisithupha ngehora (ukuvakashelwa okungokoqobo ngokuvamile kuthatha amaminithi angu-10);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "UKUHLELA UKUPHILA KWEMPAHLA KUNYAKA YONKE EHLABENI:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Ukwandisa ubudlelwane besiguli kanye nekhono lokuphatha iziguli zamanje nezisha kusuka kunoma yikuphi emhlabeni;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "FUNDA I-PRACTICE YOMSEBENZI WAMAHHALA:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Khulisa umkhuba wakho wamanje bese unikeza izinketho eziningi zeziguli;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "IZINDAWO ZEMPILO EZIQHELEKILE:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Iziguli zingakuthumela amadokhumenti, izithombe, imiphumela yebhu ngaphandle kokushiya ekhaya futhi ungakwazi ukuqapha impilo yesiguli sakho kude;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Thola ukuthi ubani odingayo izandla ngokunakekelwa ngokushesha futhi ubani ongazuza emithini yokwelapha ngaphandle kokushiya ekhaya;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "UKUQALA KWENYAKA:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "AMAHORA OKUSEBENZA:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Ikhono lokusetha amahora akho bese usetha isimiso sakho.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Joyina ukunyakaza ukuhlinzeka ngokuthembeka, okungabizi, ukufinyelela emhlabeni wonke ekunakekelweni kwezempilo kungakapheli imizuzu engu-15 noma ngaphansi.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "I-Saluber MD iklanyelwe ukuguqula ubudlelwane nodokotela-mgulane ngokwenza ukufinyelela kwe-24/7 ekunakekelweni kwezempilo emhlabeni wonke.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Izinzuzo zeDokotela",
+  "ABOUT_US_DOCTOR_TITLE": "Mayelana NATHI",
+  "about_us_section1_p1": "I-SaluberMD iyinhlangano ye-Digital Health eyenzelwe ukuguqula ukulethwa kwezinsizakalo zezokwelapha nemikhiqizo ukuthuthukisa imiphumela yezempilo emhlabeni jikelele. Izinsizakalo zethu ze-Digital Medical Concierge, zinikeza ukufinyelela kwezinzuzo zezempilo nempilo, odokotela bebhodi abaqinisekisiwe, ifayela lezokwelapha siqu ngezilimi ezingu-18, izingubo zokugqoka zokuqapha impilo yakho, nokufinyelela kwinethiwekhi yabaqeqeshi bezempilo kanye nezinsizakalo.",
+  "ABOUT_US_SECTION1_TITLE": "Mayelana NATHI",
+  "ABOUT_US_SECTION2_P1": "Ngokusebenzisa i-geo-localization uhlelo lwethu lokusebenza luzothola Udokotela ongcono kakhulu eduze kwakho. I-SaluberMD Physicians ingakwazi ukuxilonga, ukuphatha noma ukuxoxa ngesimo sakho sezokwelapha ngevidiyo futhi ikunikeze uhlelo olufanele lwezokwelapha. Izimo eziningi ezivame ukwelashwa ehhovisi likadokotela zingaphathwa ngokuvakashelwa kwevidiyo. <br/> Ezinye zezimo esiziphathayo:",
+  "ABOUT_US_SECTION2_P2": "Ikhompiyutha Yakho Yezokwelapha yindawo elula yokugcina yonke idatha yakho yezempilo, izithombe namafayela. Gcina ithrekhi yempilo yakho ngokufinyelela kwama-24/7 kuwo wonke amarekhodi akho ezokwelapha. Kungakhathaliseki ukuthi uhlala ekhaya noma uhamba ngaphandle kolwazi lwakho kutholakale kalula ukuze wabelane nochwepheshe wezempilo. I-easy to use rekodi yezokwelapha yomuntu siqu iyatholakala ngezilimi ezingu-18.",
+  "ABOUT_US_SECTION2_TITLE": "Isebenza kanjani?",
+  "ABOUT_US_SECTION3_P1": "Kuphela odokotela abaqinisekisiwe bebhodi abahlinzeka ngokuhlinzekwa ngezokwelapha ku-SaluberMD. Labachwepheshe baqinisekiswa, bahlolwe kakhulu futhi baqeqeshwe ukuhlinzeka ukunakekelwa kwekhwalithi ephezulu. Udokotela ngamunye une-bio lapho ungabuka khona imvelaphi yabo, iziqinisekiso, nesipiliyoni. I-SaluberMD izinikele ekuphathweni kwekhwalithi eqhubekayo yabangcali bethu. Isistimu yokulinganisa ivumela iziguli ukuba zilinganise odokotela futhi zibheke odokotela jikelele isilinganiso.",
+  "ABOUT_US_SECTION3_TITLE": "Odokotela bethu",
+  "ABOUT_US_TITLE": "Mayelana NATHI",
+  "above_warning": "Amanani angenhla asengozini",
+  "accept": "Yamukela",
+  "acceptablerange": "Ibanga elamukelekayo",
+  "ACCEPT_BTN": "Yamukela",
+  "acquire": "Thola idatha",
+  "acronym": "Isigcino",
+  "action": "Isenzo",
+  "actions": "Izenzo",
+  "actionTaken": "Isenzo esithathwe",
+  "activity": "Umsebenzi",
+  "acutecare": "Ukunakekelwa Okumangalisayo",
+  "add": "Okusha",
+  "addavailability": "Engeza ukutholakala kwakho",
+  "addcomment": "Yengeza amazwana lapha",
+  "adddescription": "Engeza incazelo yakho lapha",
+  "adddrugs": "Sesha isidakamizwa esisebenzisa ibhokisi lokusesha ngezansi bese ukhathaza ibhokisi lokuhlola ukuze ulifake emtholampilo wakho",
+  "addedFavourite": "Ungeze ngempumelelo kuzifiso zakho",
+  "addedFavourite2": "Ungeze ngempumelelo kuzifiso zakho. cindezela inkinobho yokubuyekeza ukuze uyibonise.",
+  "addedFavourite3": "Yengezwe ngempumelelo. Donsela phansi ukuze uvuselele",
+  "addFavourite": "Engeza kuzintandokazi",
+  "ADDING_SLOT": "Ukungeza ukubekwa .... lokhu kungathatha isikhashana.",
+  "addNew": "Faka okusha",
+  "addpharmacies": "Chofoza inkinobho ukuze ungeze ama-pharmacy akho ayizintandokazi",
+  "addpharmacy": "Engeza ikhemisi",
+  "addreminder": "Cindezela inkinobho yokuhlanganisa ukuze ungeze imithi yakho yokukhumbuza.",
+  "address": "Ikheli",
+  "address2": "Ikheli lokuthumela",
+  "address3": "Ikheli lenkonzo",
+  "addsintomi": "Engeza izimpawu",
+  "addslot": "Engeza i-slot",
+  "add_description_file": "Engeza incazelo (ayimpoqo)",
+  "add_new": "Engeza",
+  "affaticamento_grave": "Ukhathala Okukhulu",
+  "affaticamento_minore": "Ukukhathala Okuncane",
+  "agenda": "I-ajenda yami",
+  "agenda_report": "Bika Ukuqokwa",
+  "aggiungi": "Dala",
+  "AGREE_BTN": "Ngiyavuma",
+  "alcoholDesc": "Utshwala ucabanga",
+  "all": "Konke",
+  "alldata": "Yonke idatha",
+  "allergia": "Ukungezwani komzimba",
+  "allergia_aggiunta": "Ukuguqulwa kwesifo somzimba kudala ngokuphumelelayo",
+  "allergia_rimossa": "Ukwelashwa kwesifo sengculazi kususiwe ngempumelelo",
+  "allergia_salvata": "Ukwelashwa kwesifo sengculazi kuvuselelwe ngempumelelo",
+  "allergie": "Amagciwane",
+  "allimages": "Zonke Izithombe",
+  "alreadyAddedF": "Lelikhemisi selivele likhona ezintandokazi zakho",
+  "alreadyRegistred": "Leli kheli le-imeyili selivele likhona kuhlelo olungaphandle. Sicela ungene ngemvume kuhlelo lokusebenza ukwenza i-aphoyintimenti.",
+  "alreadyTaken": "Ukuqokwa sekuvele kuthathwe",
+  "alta": "Phezulu",
+  "alto": "Phezulu",
+  "amonth": "Izinsuku ezingu-30",
+  "anger": "Intukuthelo",
+  "annoinizio": "Unyaka uqale",
+  "antibiotics": "Ama-antibiotics",
+  "an_error_occurred": "Hawu! Okwamanje asikwazi ukwengeza isicelo sakho. Zama futhi emuva kwesikhathi",
+  "appointment": "Ukuqokwa",
+  "appointmentlist": "Uhlu lokuqokwa",
+  "appointments": "Ukuqokwa",
+  "appointmentsDescription": "Uhlu lwesimiso sokuqokwa",
+  "appointment_body_doc": "Ukuqokwa okusha kuhlelwe no",
+  "appointment_calcelled_title": "Ukuqokwa kukhanseliwe",
+  "appointment_cancelled": "ukhansele ukuqokwa kwakhe",
+  "appointment_email_body": "Siyaqinisekisa isikhathi sakho nodokotela",
+  "appointment_history": "Umlando wokuqoka",
+  "appointment_now": "Ukuqokwa kwakho kuqale manje",
+  "appremainder": "Ukuqokwa kokuhlala",
+  "appremainder1": "Unevidiyo ehleliwe emizuzu emi-5",
+  "appremainder2": "Unevidiyo yevidiyo ehlelwe ngamaminithi angu-30",
+  "appremainder3": "Unevidiyo yevidiyo ehlelwe ngamaminithi angu-120",
+  "APPROX_DATA": "Olunye ulwazi lwezempilo",
+  "appuntamenti": "Ukuqokwa",
+  "appuntamenti_presi": "Ukuqokwa okuhleliwe",
+  "appuntamento_clinica": "Cela ukuqokwa komtholampilo",
+  "APPUNTAMENTO_CONGIUNTO": "Ngabe ufuna ukubhuka i-videocall?",
+  "app_description": "Faka izizathu zokuqokwa kwakho ebhokisini elingezansi",
+  "app_details": "Imininingwane yokuqokwa",
+  "app_missing": "Uhlelo lokusebenza lokusekela alufakiwe",
+  "ARIAX": "Isilinganiso se-Breath",
+  "ARIAX_PROD": "I-ARIAX",
+  "arousal": "I-Arousal",
+  "arousalDescription": "Inguquko ehlukanisa ukuthula noma ukukhathazeka ukuze uqaphele futhi ujabule. Ihambisana nemigomo efanayo efana nezinga lokusebenza nokuvuselela.",
+  "assign_specialist": "Nika ochwepheshe kwisicelo",
+  "associa": "Hlanganisa",
+  "attachment": "Okunamathiselwe",
+  "ATTACH_A_PHOTO": "Namathisela isithombe",
+  "BACKGROUND": "Ingemuva",
+  "BACKGROUND_PLCHOLDER": "Sicela ufake i-biography emfushane.",
+  "backhomeconfirm": "Uqinisekile ukuthi ubuyela ekhaya?",
+  "BACK_BTN": "Emuva",
+  "BACK_LOGIN": "Buyela emuva ngemvume",
+  "bad_file": "Ayikwazi ukuvula ifayela",
+  "basicinfo": "Ulwazi oluyisisekelo",
+  "bassa": "Okuphansi",
+  "basso": "phansi",
+  "below_warning": "Inani elingezansi lisengozini",
+  "benefits": "Izinzuzo zeConcierge",
+  "beyondverbal": "Imizwelo idonsela konke esikwenzayo, kodwa ukuhlaziywa kwemizwa yemizwelo eqhutshwa ngezwi kuhlale kubaluleke kakhulu, okungaqondakali okubonakalayo namhlanje. Beyond Verbal uzibophezele ekushintsheni lokho.",
+  "beyondverbal_analyze": "Hlola imizwa yakho",
+  "beyondverbal_history": "Imiphumela yomlando",
+  "beyondverbal_instruction": "Uma usulungele ukuphendula umbuzo wokuqalisa ucindezela umbuzo",
+  "BIRTHDATE": "Usuku lokuzalwa",
+  "birthday": "Usuku lokuzalwa",
+  "blank_agenda": "Akukho slot namuhla",
+  "bloatedOrContipated": "Ivinjiwe noma idliwe",
+  "bluetooth_error": "Nika amandla i-bluetooth ngaphambi kokuthi uqhubeke",
+  "BOARD": "IBhodi eliqinisekisiwe",
+  "bones": "Amathoni",
+  "bp": "Ukushaya kwegazi",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Ithebula lesithenjwa ngamanani we-Blood Pressure",
+  "breakfast": "Ukudla kwasekuseni",
+  "btnback": "Emuva",
+  "btndelete": "Susa",
+  "btndisabledoctor": "Khubaza udokotela",
+  "btndisablepatient": "Khubaza isiguli",
+  "btnenabledoctor": "Nika amandla udokotela",
+  "btnenablepatient": "Nika amandla isiguli",
+  "btnsave": "Londoloza",
+  "BTN_LOAD_MORE": "Layisha okuningi",
+  "buttonsearch": "Sesha",
+  "bvFailed": "Yehlulekile ukuhlaziya izwi lakho, udinga ukukhuluma okuningi!",
+  "bvInstruction": "Vele uqhubeke ukhuluma imizuzwana engu-20 noma ngaphezulu",
+  "bvInstruction2": "Vele uqhubeke ukhuluma imizuzwana engu-20",
+  "ca": "Isimo senhliziyo",
+  "call": "Shayela",
+  "callCancel": "Ayikwazi ukukhansela ikholi ephelelwe yisikhathi",
+  "calldoctor": "Shayela udokotela",
+  "calling_number": "Ukushayela Inombolo",
+  "callthedoctor": "Shayela udokotela",
+  "calltransfer": "Ukudlulisela ikholi ...",
+  "CALL_ALREADY_TAKEN": "Ukushayela kakade kuthathwe",
+  "CALL_DOCTOR_INFO": "Ulwazi lweDokotela",
+  "CALL_DURATION": "Ubude bekholi",
+  "call_instruction": "Sizokuthumela isaziso ngokushesha uma ungabiza udokotela. Chofoza kusaziso ngokushesha uma uthola ukuze uqale ividiyo yevidiyo. Uma kwenzeka ususe izaziso, ungayithola kusigaba sesaziso ngaphansi kwephrofayela yami yezempilo.",
+  "CALL_NOTIFICATIONS": "Izingcingo zefoni",
+  "CALL_NO_INCOMING": "Azikho izingcingo ezingenayo",
+  "CALL_TRANSFER_INFO": "Shayela ulwazi lokudlulisa",
+  "CALL_WAITING": "Sicela ulinde ngenkathi sifuna udokotela okhona",
+  "CALL_WAITING_2": "Sicela ulinde ngenkathi udokotela ehlola ifayela lakho",
+  "calories": "Ama-calories",
+  "cancel": "Khansela",
+  "cancelAppointment": "Khansela lokhu kuqokwa",
+  "CANCEL_BTN": "Khansela",
+  "CAP": "Ikhodi ye-ZIP",
+  "cardiac_output": "Ukukhishwa kwe-cardiac",
+  "cardiac_output1": "Ukukhishwa kwe-cardiac",
+  "cardiac_output_desc": "Umkhiqizo we-cardiac umane nje umthamo wegazi ugonywe yinhliziyo ngomzuzu.",
+  "cardiovascular": "I-cardiovascular",
+  "CARD_CVC": "I-CVC",
+  "CARD_CVC_ERROR": "I-CVC engavumelekile",
+  "CARD_EXPIRY_DATE": "Usuku Eliphelela ngalo",
+  "CARD_MONTH_ERROR": "Inyanga engavumelekile",
+  "CARD_NUMBER": "Inombolo yekhadi",
+  "CARD_NUMBER_ERROR": "Inombolo ye-CC engavumelekile",
+  "CARD_YEAR_ERROR": "Unyaka ongavumelekile",
+  "category": "Isigaba",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "CCV liyadingeka",
+  "CERROR": "Ukuthintana Okubi",
+  "certificate_attachment": "Kunamathiselwe isitifiketi sakho sezokwelashwa",
+  "certificate_email": "Kunamathiselwe isitifiketi sakho sokwelashwa",
+  "certificate_header": "Ngokwesisekelo sokuhlolwa kwezokwelapha okwenziwe, okulandelayo kuchaziwe:",
+  "certificate_sent": "Kuthunyelwe Isitifiketi",
+  "certification_subject": "Isitifiketi sakho sezokwelashwa",
+  "cf": "Ikhodi Yezimali",
+  "cf_error": "Sicela, ucacise ikhodi yakho yezimali",
+  "changeschedule": "Shintsha isikhathi",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Iphasiwedi yakho iphelelwe yisikhathi, sicela uyishintshe.",
+  "CHANGE_PWD_SECTION_TITLE": "SHINTSHA iphasiwedi",
+  "CHANGE_PWD_TITLE": "Iphasiwedi yakho izophelelwa yisikhathi, ishintshe",
+  "checking_net_condition": "Ihlola uxhumano lwe-intanethi ...",
+  "CHECK_PARAMETERS_CORX": "Sicela, faka isisindo nokuphakama kusigaba sephrofayela ukuze ubale amanani angempela obuhle.",
+  "CHL_TOT": "Ingqikithi Cholesterol",
+  "choosedate": "Khetha usuku",
+  "chooseDateDescription": "Chofoza usuku ukuze ulwandise futhi ukhethe ihora",
+  "chooseprofile": "Ungu?",
+  "choosespeciality": "Khetha ukhetheka kwezokwelapha",
+  "choosetransferdoctor": "Khetha udokotela",
+  "CHOOSE_A_DOCTOR": "Khetha udokotela wakho",
+  "chosedoctor": "Sicela, ukhethe udokotela",
+  "city": "Idolobha",
+  "city1": "Idolobha",
+  "city2": "Idolobha",
+  "clearsignature": "Sula isignesha",
+  "clickitem": "Chofoza kwento ngayinye ukuze ubone imininingwane egcwele",
+  "clickrow": "Chofoza kumugqa ukuze ukhethe",
+  "clickToOpen": "Chofoza ukuvula ifayela",
+  "click_to_start_call": "Chofoza kudokotela ukuze uqale ucingo",
+  "clinics": "Imitholampilo",
+  "CLOCK_FORMAT": "Ifomethi yewashi",
+  "closeappconfirm": "Uqinisekile ukuthi uvala uhlelo lokusebenza?",
+  "CLOSE_BTN": "Vala",
+  "cm": "cm",
+  "CODE": "Ikhodi",
+  "code_not_valid": "Ikhodi efakiwe ayivumelekile",
+  "code_verified": "Ikhodi iqinisekiswe ngempumelelo!",
+  "coffeeDesc": "Ikhofi ithathwa",
+  "COMMENT": "ehlaziya",
+  "commenti": "Amazwana",
+  "COMPANY_NAME": "Inkampani",
+  "COMPLAIN": "Phakamisa",
+  "COMPLETE_PROFILE": "Gcwalisa iphrofayela yakho ngaphambi kokuthi uqhubeke",
+  "COMPLETE_PROFILE_TITLE": "Sicela ugcwalise iphrofayela yakho",
+  "complications": "Izinkinga",
+  "concernlist": "Sicela ubhale ukukhathazeka okuyinhloko / ukukhathazeka kwakho",
+  "CONFIRM": "Kulungile",
+  "confirm_app": "Qinisekisa ukuqokwa kwakho",
+  "CONFIRM_EMAIL_TITLE": "Qinisela i-Email",
+  "CONFIRM_PWD": "Qinisekisa Iphasiwedi",
+  "connect": "Cindezela inkinobho ye-Connect ukuxhuma idivayisi",
+  "connectbtn": "Xhuma",
+  "connectedto": "Ixhunyiwe ku",
+  "connecting": "Ixhuma ... Sicela ulinde",
+  "connection_progress": "Ixhumeka kudivayisi ...",
+  "CONSULT": "Phakamisa",
+  "consult1": "Bheka",
+  "consultation": "Ukubonisana",
+  "consultationHistory": "Umlando Wokubonisana",
+  "contact": "Othintana naye",
+  "CONTACT_US_BTN": "Xhumana nathi",
+  "CONTACT_US_SECTION_TITLE": "Sicela uxhumane nathi nganoma yimiphi imibuzo noma usizo ngokusebenzisa uhlelo lokusebenza.",
+  "CONTACT_US_TITLE": "Xhumana nathi",
+  "contatti": "Ulwazi lokuxhumana",
+  "continue": "Qhubeka",
+  "copy_url": "Kopisha i-url",
+  "CORX": "ECG",
+  "corxDidFailEcg": "Iphutha ekutholeni i-EKG",
+  "corxDidFailWellness": "Iphutha ekutholeni idatha yezempilo",
+  "corxDidNoEcg": "Ayikho idatha ye-EKG",
+  "corxDidNoWellness": "Ayikho idatha yezempilo",
+  "CORX_DATA": "Idatha yeCorX",
+  "corx_disconnected": "I-Corx ayixhunyiwe",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Sicela, sikuchaze isisindo nokuphakama ku-oreder ukuze ubala ngokufanele imingcele yamagciwane.",
+  "COUNTRY": "Izwe",
+  "country1": "Izwe",
+  "county": "County",
+  "co_alta": "ngaphezulu kuka-8 L / iminithi",
+  "co_bassa": "ngaphansi kuka-4 L / iminithi",
+  "co_normale": "phakathi kuka-4 no-8 L / iminithi",
+  "creditCard_selected": "Ikhadi elikhethiwe lizokhokhiswa le nsiza",
+  "currency": "Imali",
+  "C_SPECIALTY": "Okukhethekile ngokwezifiso",
+  "dailyuse": "Ukusetshenziswa kwansuku zonke",
+  "dashboardVideocall": "Ideshibhodi Videocall",
+  "dataerror": "Usuku / isikhathi osikhethile sidlulile usuku / isikhathi samanje",
+  "dataexists": "Kukhona kakade i-aphoyintimenti nedethi ekhethiwe nesikhathi",
+  "datafetching": "Ilanda idatha yakho yomuntu siqu ... Sicela ulinde.",
+  "dataPrenotazione": "Usuku lokubhuka",
+  "dataVaccinazione": "Usuku lokugoma",
+  "date": "Usuku",
+  "dateDiscovered": "Usuku Lutholiwe",
+  "dateStart": "Usuku okuqalwa ngalo",
+  "datipersonali": "Ulwazi lomuntu siqu",
+  "datiScaricati": "Idatha idliwe ngokuphumelelayo",
+  "day": "Usuku",
+  "deassociate_corx_alert": "Ingabe ufuna ukuhlukanisa i-Corx?",
+  "decline": "Yehla",
+  "DECLINE_BTN": "Yehla",
+  "DEEP_SLEEP_TIME": "Ukulala Okujulile",
+  "defaultQuestion": "Cindezela uqale bese usitshela ukuthi uzizwa kanjani namuhla",
+  "delete": "Susa",
+  "deleteAlarm": "Susa le alamu?",
+  "deleteAppointment": "Ufuna ukukhansela ukuqokwa?",
+  "deleteDescription": "Izosuswa masinyane.",
+  "deleteMessage": "Uqinisekile ukuthi ufuna ukususa lokhu?",
+  "deleteMultipleDesctiption": "Inani le-slot elizosuswa:",
+  "deleteNumber": "Uqinisekile ukuthi ufuna ukususa le Nombolo?",
+  "deleteSlotDay": "Sula wonke isilayi samahhala namhlanje",
+  "deleteSlotMonth": "Susa zonke izintambo zamahhala kule nyanga",
+  "deleteSlotWeek": "Susa wonke isakhiwo samahhala kuleli sonto",
+  "deletevalue_q": "Uqinisekile ukuthi ufuna ukususa inani?",
+  "DELETE_NOTIFICATION_MSG": "Ngabe ufuna ukususa zonke izaziso ezedlule?",
+  "demo": "Le demo, akukho mali ezokhokhiswa.",
+  "dependencies": "Ukuzethemba",
+  "description": "Incazelo",
+  "descriptionMandatory": "Sicela, ucacise incazelo",
+  "deseaseCategory": "Isifo Isifo",
+  "desirable": "Kuyathandeka",
+  "dettagli": "Imininingwane",
+  "dettaglio_struttura": "Imininingwane yesakhiwo",
+  "device": "Idivayisi",
+  "devicefound": "Idivayisi itholakele",
+  "devices": "Amadivaysi",
+  "devicetype": "Uhlobo lwedivayisi",
+  "DEVICE_BLOOD_PRESSURE": "Ukushaya kwegazi",
+  "DEVICE_CALORIES": "Ama-calories ashisiwe",
+  "DEVICE_CARDIAC": "Ukuqapha kwenhliziyo",
+  "DEVICE_CHL": "Iphrofayili ye-Lipidic",
+  "DEVICE_DATA_SECTION_TITLE": "Idatha yedivayisi yakho yezokwelapha",
+  "DEVICE_DATA_TITLE": "Idatha yedivayisi",
+  "DEVICE_DATA_TITLE_1": "Imininingwane Yedivaysi Yezokwelapha",
+  "DEVICE_EKG": "ECG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "I-Glucometer",
+  "DEVICE_HEART_RATE": "Isilinganiso senhliziyo",
+  "DEVICE_PEDOMETER": "I-Pedometer",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Imvamisa yokuphefumula",
+  "DEVICE_SPO2": "I-Spo2",
+  "DEVICE_TEMPERATURE": "Ukushisa",
+  "DIAGNOSIS": "Ukuxilongwa",
+  "diastolic": "I-Diastolic",
+  "dieci": "Izilinganiso zokugcina ezingu-10",
+  "diet": "Ukudla",
+  "digestion": "Izinkinga zokugaya",
+  "dinner": "Dinner",
+  "dipendenza": "Ukuthembela",
+  "disableAlarm": "I-alamu inikwe amandla",
+  "disabled": "Khutshaziwe",
+  "DISABLE_PANIC_BUTTON": "Nika amandla inkinobho ye-Panic",
+  "DISABLE_PUNIC_BUTTON": "Khubaza inkinobho yesi-Punic",
+  "disconnectall": "Setha ungaxhunyiwe ku-inthanethi",
+  "disconnectbtn": "Khubaza",
+  "DISDICI": "Khansela",
+  "disease": "Izifo Ezingapheliyo",
+  "diseasemanagement": "Ukuphathwa kwezifo",
+  "diseases": "Izifo",
+  "disease_1": "Izifo",
+  "dissocia": "Hlanganisa",
+  "DISTANCE": "Ibanga",
+  "dm_section_description_1": "Lapha ungakwazi ukunamathisela amafayela akho",
+  "DND": "Ungaphazamisi",
+  "DOCEMAIL": "I-imeyili yeDokotela",
+  "DOCNAME": "Igama Lomdokotela",
+  "DOCPHONE": "Inombolo yocingo yodokotela",
+  "DOCTOR": "Udokotela",
+  "doctor1": "Udokotela",
+  "doctorAtHome": "Udokotela ekhaya",
+  "doctorAtHomeQuestion1": "Ngifuna usizo lwasekhaya:",
+  "doctorAtHomeQuestion2": "Khetha usizo lwekhaya oyidingayo",
+  "doctorAtHomeQuestion2Answer1": "Ukuzijwayeza Okujwayelekile",
+  "doctorAtHomeQuestion2Answer2": "Izingane",
+  "doctorAtHomeQuestion2Answer3": "Umhlengikazi",
+  "doctorAtHomeQuestion3": "Cacisa ukuthi kungani ufuna ukuthola usizo",
+  "doctorAtHomeQuestion4": "Nikeza ifomu elingezansi kwekheli ofuna ukuthola usizo",
+  "doctorAtHomeRequestBtn": "Thumela isicelo",
+  "doctorAtHomeRequestSuccess": "Sithole isicelo sakho. Uzoxhumana no-2 amahora ukuhlela isevisi yasekhaya",
+  "doctorAtHomeTitle": "Udokotela ekhaya",
+  "doctorbusy": "Udokotela umatasa kwenye ikholi",
+  "doctorbusy1": "Udokotela umatasa kwenye ikholi",
+  "doctorlist": "Odokotela babhalisa",
+  "doctormanagement": "Odokotela abaphathi",
+  "doctoroffline": "Udokotela awuxhunyiwe ku-inthanethi, zama futhi",
+  "doctorupdate": "Udokotela",
+  "DOCTOR_PROFILE_OPT1": "Iphrofayela",
+  "DOCTOR_PROFILE_OPT2": "Umlando Wokuvakasha Obekezelayo",
+  "DOCTOR_PROFILE_OPT3": "Ncoma osebenza naye",
+  "DOCTOR_PROFILE_SECTION1": "Iphrofayela yakho",
+  "DOCTOR_PROFILE_TITLE": "Iphrofayela",
+  "doctor_request_sent": "Sithumele isicelo sakho odokotela bethu. Uzothola impendulo ngemizuzu emibili.",
+  "documents": "Amadokhumenti",
+  "DOCUMENT_BTN": "Amadokhumenti",
+  "doestake": "Uthathe",
+  "DONATION_TITLE": "Qinisekisa iminikelo",
+  "done": "Idatha ye-Trackx ilandwe ngempumelelo. Uzothola ngaphansi kwesigaba sedatha yezempilo",
+  "doneAppointmentPatient": "Ukuqokwa Kwedlule",
+  "DONE_BTN": "Kwenziwe",
+  "dontknow": "Angikhumbuli",
+  "DORMIVEGLIA": "Ukulala",
+  "dosage": "Isilinganiso",
+  "dosetake1": "Uthathe imithi yakho?",
+  "dottore_rimosso": "Isimo soDokotela sivuselelwe ngempumelelo",
+  "dottore_salvato": "Udokotela uvuselelwe ngempumelelo",
+  "download": "Landa",
+  "downloadaspdf": "Landa njenge-PDF",
+  "downloadecg": "Landa i-ECG",
+  "DOWNLOADING_DEVICE_DATA": "Ilanda ...",
+  "downloadwellnessdata": "Ilanda idatha yezempilo ...",
+  "downloadWellnessResult": "isilinganiso esingeziwe",
+  "DOWNLOAD_CERTIFICATE": "Isitifiketi sokulanda",
+  "DOWNLOAD_ERROR_GENERIC": "Eshu. I-erros yenzeke ngenkathi izama ukulanda ifayela. Sicela, uzame futhi emuva kwesikhathi.",
+  "DOWNLOAD_SO_REPORT": "Landa ukudluliselwa",
+  "DO_NOT_DISTURB": "Ungaphazamisi",
+  "drugsAtHome": "Izidakamizwa Ekhaya",
+  "drugsAtHomeQuestion1": "Ingabe ufuna ukuthola izidakamizwa ezibekwa udokotela wakho ngqo ekhaya?",
+  "drugsAtHomeRequestBtn": "Thumela isicelo",
+  "drugsAtHomeRequestSuccess": "Sithole isicelo sakho. Izidakamizwa zizothunyelwa zingakapheli amahora angu-24",
+  "drugsAtHomeSection1": "Nikeza ifomu elingezansi inombolo yefoni nekheli ofuna ukuthola izidakamizwa.",
+  "drugsAtHomeTitle": "Izidakamizwa Ekhaya",
+  "drug_name": "Igama lomuthi",
+  "duration": "Isikhathi",
+  "ecg": "ECG",
+  "ecgadded": "I-ECG yanezela ngempumelelo ohlwini",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "Imininingwane ye-EKG",
+  "ecgdetail": "Chofoza kwento ngayinye ukuze ubone isithombe se-ECG",
+  "ECG_DELETE_Q": "Uqinisekile ukuthi ufuna ukususa i-EKG?",
+  "ecg_not_found": "Ifayela le-ECG engalungile, zama enye ukungaqondakali.",
+  "ECG_REMOVED": "I-EKG isusiwe ngempumelelo",
+  "edit": "Hlela",
+  "EKG_SECTION_TITLE": "I-Electrocardiogram (EKG / ECG) Imiphumela",
+  "EKG_TITLE": "EKG Layisha",
+  "EMAIL": "I-imeyili",
+  "email1": "I-imeyili",
+  "email_do_not_match": "Ama-imeyili awafani",
+  "ematicTest": "Izilingo Zomzwelo",
+  "Emergency": "Bonisa ku-Emergency",
+  "emergency1": "Okuphuthumayo",
+  "emergencyLoginCode": "Ikhodi Yokungena Ephuthumayo",
+  "emergency_numbers": "Izinombolo Eziphuthumayo",
+  "emergency_number_description": "Engeza izinombolo zocingo ukubiza uma kwenzeka eziphuthumayo",
+  "emotionDescription": "Ukuhlanganiswa kwemizwelo ehlukahlukene eyisisekelo, njengoba kuboniswe ngabasebenzisi bezwi phakathi kwesigaba sezwi esihlaziyekile.",
+  "emotions": "Imizwelo ehlanganisiwe",
+  "emptypassword": "Sicela, ucacise isichazamazwi",
+  "EMPTY_ALLERGIES": "Chofoza inkinobho ukwengeza isifo kwirekhodi lakho lezokwelapha",
+  "empty_dataset": "Akukho datha",
+  "EMPTY_DEPENDENCIES": "Chofoza inkinobho ukuze ungeze ukuxhomeka kwirekhodi lakho lezokwelapha",
+  "EMPTY_DISEASE": "Chofoza inkinobho ukwengeza isifo kwirekhodi lakho lezokwelapha",
+  "EMPTY_DOCUMENTS": "Chofoza inkinobho ukwengeza idokhumenti kumarekhodi akho wezokwelapha",
+  "EMPTY_IMAGES": "Chofoza inkinobho ukuze ungeze isithombe kumlando wakho wezokwelapha",
+  "EMPTY_IMMUNIZATION": "Chofoza inkinobho ukwengeza ukugoma kwirekhodi lakho lezokwelapha",
+  "EMPTY_MEDICATION": "Chofoza inkinobho ukwengeza imithi kumlando wakho wezokwelapha",
+  "empty_otp": "Ikhodi ye-OTP engavumelekile",
+  "EMPTY_PROSTHESIS": "Chofoza inkinobho ukuze ungeze isifiso kumlando wakho wezokwelapha",
+  "EMPTY_TESTS": "Chofoza inkinobho ukuze ungeze ukuhlolwa kwirekhodi lakho lezokwelapha",
+  "enabled": "Inikwe amandla",
+  "endate": "Kuya",
+  "endcall": "Qeda ikholi",
+  "endDate": "Usuku Lokuphela",
+  "endhour": "Isikhathi sokuphela",
+  "end_time": "Isikhathi sokuphela",
+  "END_VIDEOCALL_Q1": "Ingabe uqinisekile ukuthi ufuna ukuqeda ukubonisana ngaphandle kokuqala i-videocall?",
+  "END_VISIT_BTN": "Ukuqeda ukuvakasha",
+  "error": "Iphutha",
+  "error_call_timeout": "Isikhathi sokwenza i-videocall iphelile. Ukwenza ividiyo yevidiyo, phinda futhi inqubo.",
+  "ERROR_EMAIL_DUPPLICATE": "Kubonakala sengathi leli kheli le-imeyili selivele libhalise. Zama ngomunye.",
+  "error_price": "Ngiyacela, chaza imali",
+  "ERROR_SPECIFY_DAYS": "Sicela, ucacise okungenani usuku lweviki elilodwa",
+  "ERROR_SPECIFY_HOUR": "Sicela, ucacise isikhathi",
+  "ERROR_TITLE_NOTIFICATION": "Iphutha",
+  "ERROR_TRACKX": "Vula i-Trackx",
+  "error_update": "Iphutha ekubuyekezeni i-Firmware",
+  "ERROR_USERNAME_DUPPLICATE": "Leli gama lomsebenzisi selithathiwe, khetha enye",
+  "ERROR_WHITELIST": "Uxolo, insiza yakho ayinikwe amandla okwenza i-videocall",
+  "esameobbligatorio": "Sicela, ukhethe i-Exam",
+  "exam_name": "Igama Lokubhala",
+  "exercise": "Ukuzivocavoca",
+  "exercisereminders": "Izikhumbuzo zami zokuzivocavoca",
+  "existentassoc": "Izinhlangano ezikhona",
+  "existentrelation": "Lobudlelwano buvele bukhona",
+  "expandfordetails": "Nweba imininingwane eyengeziwe",
+  "EXP_MONTH": "Inyanga Yokuphelelwa Isikhathi",
+  "EXP_MONTH_REQUIRED": "Kudingeka inyanga yokuphelelwa isikhathi",
+  "EXP_YEAR": "Unyaka wokuphelelwa yisikhathi",
+  "EXP_YEAR_REQUIRED": "Kudingeka unyaka wokuphelelwa yisikhathi",
+  "e_prescribing": "E-Prescribing",
+  "F": "Owesifazane",
+  "farmaci": "Imithi",
+  "farmaco": "Imithi",
+  "fat": "Amafutha",
+  "FATIGUE_INDEX": "Ukukhathala",
+  "FATIGUE_INDEX_DESCRIPTION": "Umsebenzi, umsebenzi nokuhlangenwe nakho okubangelwa izinga lokukhathala. Ukukhathala ngokweqile kuholela kalula ekugxileni kwemisipha, ukukhanda ikhanda, ukulala, ukukhathala, ubuhlungu bezinwele, futhi kuholele kalula ohlelweni lwezinzwa, ukuphazamiseka kwe-endocrine, okubangelwa izifo eziningi ezingapheli nokukhathala kwengqondo.",
+  "favoriteslist": "Uhlu lwama-Favorites ami",
+  "FAVORITES_NO": "Awukangeze noma odokotela kunani lakho lezintandokazi okwamanje",
+  "FAVORITES_NO_PHARMACIES": "Awungeze noma iyiphi ikhemisi ohlwini lwakho lwazintandokazi okwamanje",
+  "FAVORITES_SECTION_SUBTITLE": "Chofoza kwento ngayinye ukuze ubone imininingwane egcwele",
+  "FAVORITES_SECTION_TITLE": "Odokotela bakho abathandayo",
+  "FAVORITES_TITLE": "Izintandokazi",
+  "favourite_pharmacy": "Ama-pharmacy ayizintandokazi",
+  "FEE": "Phatha Imali",
+  "FEET": "izinyawo",
+  "female": "Owesifazane",
+  "fileloaded": "Ifayela lilayishiwe",
+  "fileloaded1": "I-Fle ilayishwe ngempumelelo",
+  "fileName": "Igama lefayela",
+  "filenotfound": "Ifayili engatholakali",
+  "file_upload_instruction": "Layisha imfundo",
+  "filldate": "Sicela, ukhethe usuku",
+  "filldoctor": "Sicela, ukhethe udokotela",
+  "fillpeciality": "Sicela, ukhethe okukhethekile",
+  "fillthebox": "Gcwalisa ibhokisi",
+  "fill_indication": "Sicela ugcwalise insimu yokubonisa",
+  "fill_indication_for": "Sicela ucacise isibonakaliso",
+  "fill_quantity": "Sicela ugcwalise insimu yenani",
+  "fill_quantity_for": "Sicela ucacise ubungakanani",
+  "fill_your_doubt": "Sicela, unikeze incazelo ebhokisini ngenhla.",
+  "filter": "Hlunga",
+  "finddoctor": "Thola odokotela",
+  "findFarmacia": "Sesha Pharmacy",
+  "findpatient": "Thola isiguli",
+  "findspcialist": "Thola isazi",
+  "findStruttura": "Isakhiwo Sesesho",
+  "finduser": "Thola umsebenzisi",
+  "FIND_A_DOCTOR": "Xhuma kudokotela",
+  "find_device": "Thola idivayisi",
+  "FIND_THE_BRACELET": "Thola isongo",
+  "fingerprint_btn": "Nika amandla ukungena ngemvume kwaminwe",
+  "fingerprint_hint": "Qinisekisa iminwe yeminwe ukuze uqhubeke",
+  "fingerprint_hint2": "Qinisekisa iminwe yeminwe ukuze uqhubeke",
+  "fingerprint_question": "Ungathanda ukuvuselela ukuqinisekiswa kwezintambo zeminwe?",
+  "FIRMWARE_UPDATE": "Ukubuyekeza kwe-Firmware",
+  "FIRMWARE_UPDATED": "I-Firmware ibuyekeziwe",
+  "firstName": "Igama",
+  "five_min": "Emaminithini angu-5",
+  "fixappointment": "Ingabe ufuna ukuhlela le-aphoyintimenti?",
+  "forever": "Phakade",
+  "forgotPassword": "Ukhohlwe iphasiwedi yakho?",
+  "forgot_password": "Ukhohlwe iphasiwedi?",
+  "forma": "Thayipha",
+  "formafarmaco": "Ifomu leMithi",
+  "formatError": "Intengo kumele ibe yinombolo yezinombolo.",
+  "found_devices": "Amadivayisi atholakele",
+  "FRIDAY": "NgoLwesihlanu",
+  "GENDER": "Ubulili",
+  "gender1": "Ubulili",
+  "general": "Jikelele",
+  "generalInfo": "Ulwazi jikelele",
+  "genericName": "Igama elijwayelekile",
+  "GENERIC_ERROR": "OOps! Kukhona okungahambanga kahle. Sicela, uzame futhi emuva kwesikhathi",
+  "geneticTest": "I-Genetic Test",
+  "geneticTestHeader2": "Ngokuhlolwa kofuzo ungathola okuningi ngempilo yakho futhi wenze into efanele ukugcina unempilo.",
+  "geneticTestHeader3": "Isebenza kanjani",
+  "geneticTestProduct": "Iphrofayela Yokudla",
+  "geneticTestRequestBtn": "Cela ukuhlolwa",
+  "geneticTestRequestSuccess": "I-oda lakho liqinisekisiwe. Uzothola ikhi ngqo ekhaya",
+  "geneticTestSection1": "Ingabe ufuna manje uma lokho okudlayo kukwanele umzimba wakho kanye nesimetabolism sakho?",
+  "geneticTestSection2": "Ingabe ufuna ukwazi ukuthi ukudla okunempilo kungenza umzimba wakho ungabungozi yini izifo ezingapheli?",
+  "geneticTestSection3": "Isivivinyo sokudla sizokwazisa ukuxhumana phakathi kwe-DNA yakho nokudla.",
+  "geneticTestSection4": "Engeza lapha inombolo yakho yocingo kanye nekheli ofuna ukuthola ikhi",
+  "geneticTestStep1": "1. Hlela ukuhlolwa kwakho",
+  "geneticTestStep1Subtitle": "Yenza i-oda yakho ngohlelo lokusebenza futhi wamukele ikhi ngqo ekhaya.",
+  "geneticTestStep2Subtitle": "Thatha isampula bese usithumela ngeposi yokusebenzisa usebenzisa imvilophu esizokunikeza yona.",
+  "geneticTestStep3": "3. Thola imiphumela",
+  "geneticTestStep3Subtitle": "Ngemuva kwesonto elithile uzothola umlayezo ekutshela ukuthi imiphumela yokuhlolwa kofuzo izotholakala ku-App.",
+  "geneticTestTitle": "I-Genetic Test",
+  "GLUCOMETER": "IGlucometer",
+  "glucosio": "I-glucose",
+  "HAND_BRIGHTEN": "Phakamisa isandla sakho ukuze ukhanyise",
+  "happiness": "Injabulo",
+  "HDL": "I-HDL Cholesterol",
+  "hdl_cholesterol_desc": "I-high-density lipoprotein (HDL) cholesterol yaziwa njenge-cholesterol &#39;enhle&#39;. Ithebula elilandelayo libonisa ububanzi bamanani.",
+  "healthtips": "Impilo",
+  "HEALTH_INDEX": "Ezempilo",
+  "HEALTH_INDEX_DESCRIPTION": "Inkomba yezempilo ka-HRV iwukuhlaziya izinga lokushaya kwenhliziyo lika-HR nokuhluka kwezinga le-HRV kanye neminye imingcele, ngokusekelwe kwesilinganiso sangempela sesikhathi semiphumela yeHolter yokuhlaziya imingcele yempilo yomzimba, inani lezempilo landa, elimele impilo yomzimba okungcono; inkomba yezempilo yehle, egameni lomzimba Kudinga ukunakekelwa impilo ephilile nsuku zonke.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Inhliziyo",
+  "HEART_INDEX_DESCRIPTION": "Abasebenzi beCardiac Abasebenzisi balinganisa isimo senhliziyo yomuntu, futhi ukusebenza kwabo kuhlukile ngenxa yamazinga abo ahlukene othando ngenhliziyo nesimo sezempilo jikelele. Ukuthuthukisa indlela yokuphila enempilo kanye nemikhuba yokudla: isu elifanele lokusebenzisa inhliziyo ukuphoqa inhliziyo ye-calcium sodium supplement, ukuvikela imithwalo yegazi, ingavimbela ukutholakala kwesifo senhliziyo, ukuqinisa isu lokusebenza kwenhliziyo.",
+  "height": "Ukuphakama",
+  "height1": "Ukuphakama kuyadingeka ekubaleni okulungile kwe-BMI",
+  "heightUnit": "Uphiko Lokuphakama",
+  "hepaticFunction": "Umsebenzi we-Hepatic",
+  "hide": "Fihla",
+  "high1": "Phezulu",
+  "high_risk": "Ingozi ephezulu",
+  "history": "Umlando Wokubonisana",
+  "homepage": "Ikhaya",
+  "HOME_WARNING_MESSAGE": "Uqinisekile ukuthi ufuna ukusuka kuleli khasi? Ukuguqulwa kwakho kuzolahleka.",
+  "hormonalTest": "Ukuhlolwa Kokusebenza kweHormonal",
+  "hospDate": "Hosp.date",
+  "hospit": "I-Hospitalized for",
+  "hospital": "Isibhedlela",
+  "hospitalization": "Isibhedlela",
+  "hour": "Ihora",
+  "hours": "Amahora",
+  "HOURS_BANK_DONATE_BTN": "Nikela",
+  "HOURS_BANK_DONATION": "Amahora okwamanje anikelwe:",
+  "HOURS_BANK_H": "Amahora weBhange:",
+  "HOURS_BANK_SECTION_P1": "Impilo yinto ebaluleke kakhulu ku-SaluberMD futhi sifuna ukukhonza abantu abaningi ngangokunokwenzeka. Ngesikhulumi sethu senza ukuthi labo abanesidingo bakwazi ukufinyelela ekunakekelweni kwezempilo. Ithimba lethu lokufinyelela lizibophezele ekuhlinzekeni amathuba okunakekelwa kwezempilo ezinhlanganweni, ngabanye kanye nemindeni ekudingayo.",
+  "HOURS_BANK_SECTION_P2": "Vele uchofoze isixhumanisi namahora amangaki ofuna ukuwanikela futhi sizowafaka ebhange lethu.",
+  "HOURS_BANK_SECTION_P3": "Sizoxhumana nawe nge-app ukuhlenga amahora futhi uma ukhona mane uchofoze ukwamukela ukuze ubone iziguli.",
+  "HOURS_BANK_SECTION_TITLE": "Joyina nathi ngokunikeza isipho sokunakekelwa kwezempilo!",
+  "HOURS_BANK_TITLE": "Amahora amaBhange",
+  "howto": "Kanjani",
+  "howto1": "Izintambo ezikhona ziphawulwe ngebhola elihlaza",
+  "howto2": "Khetha iseli ngebhola eluhlaza bese uchofoza kukho ukuze ukwandise bese ukhetha isikhathi. Uma usulungile chofoza uphawu lwepensela ukuze ubone imininingwane bese uthatha ukuqokwa",
+  "howToPrice": "Intengo kumele ibe yinombolo yezinombolo. Inani elivunyelwe lamanani amabili avunyelwe. Ichashazi noma ikhefana lingasetshenziswa njengabahlukanisi",
+  "hrv_buono": "Kuhle",
+  "hrv_eccellente": "Kuhle kakhulu",
+  "hrv_generale": "Jikelele",
+  "hr_alta": "Mkhulu kunezingu-100",
+  "hr_bassa": "Ngaphansi kuka-60",
+  "HR_DESCRIPTION": "Ithebula lesithenjwa sezinga elivamile lokuphumula kwenhliziyo",
+  "HR_INTERVAL": "HR Linganisa Isikhathi",
+  "hr_normale": "Phakathi kuka-60 no-100",
+  "hsh": "Isibhedlela kanye nomlando wokuhlinzeka",
+  "IBAN": "I-IBAN",
+  "idx": "Izinkomba",
+  "image": "Isithombe",
+  "images": "Izithombe",
+  "immunization": "Ukugonywa",
+  "immunizationmenu": "Ukugonywa",
+  "importhealth": "Ngenisa Idatha Yezempilo",
+  "impossible_transfer": "Ayikwazi ukulandelela i-Call",
+  "INCH": "Inch",
+  "indexes": "Izinkomba",
+  "indication": "Isiboniso",
+  "INFO_BTN": "Ulwazi",
+  "info_salvate": "Idatha igcinwe ngempumelelo",
+  "iniezione": "Injection",
+  "initiative": "Okokuqala",
+  "initiativeerror": "Sicela, ukhethe isinyathelo esisodwa",
+  "insert": "Faka",
+  "inserttext": "Faka umbhalo lapha",
+  "insert_otp_code": "Faka ikhodi lapha",
+  "internet_missing": "Awuxhunyiwe kwi-intanethi",
+  "invalidemail": "Ikheli le-imeyili elingavumelekile",
+  "invoice": "I-invoyisi",
+  "irregulartest": "Ukuhlolwa Okungajwayelekile",
+  "kcal": "kcal",
+  "kg": "I-Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Uvivinyo lomsebenzi wezinso",
+  "labtesting": "Inethiwekhi",
+  "LANGUAGE": "Ulimi",
+  "LANGUAGE_TYPE": "Ulimi",
+  "lastmeasure": "Isilinganiso sokugcina",
+  "lastName": "Isibongo",
+  "lastPhysical": "Ukugcina ngokomzimba",
+  "lastSync": "Ukuvumelanisa kokugcina",
+  "lastTimeOnline": "Isikhathi sokugcina ku-intanethi",
+  "lastvisit": "Ukuvakasha kokugcina",
+  "last_login_date": "Idethi yokungena yokugcina",
+  "last_time_taken": "Isikhathi sokugcina sithathiwe",
+  "LDL": "I-LDL Cholesterol",
+  "ldl_cholesterol_desc": "I-LDL, noma i-lipoprotein ephansi, ikholesterol &#39;embi&#39;. Ithebula elilandelayo libonisa ububanzi bamanani",
+  "leggero": "Ukukhanya",
+  "LICENSE_NUMBER": "Inombolo yelayisense",
+  "LIGHT_SLEEP_TIME": "Ukulala Okukhanyayo",
+  "listcall": "Uhlu lwevidiyo lwenziwa",
+  "litri": "Izincwadi",
+  "liverExam": "Ukuhlolwa Kokusebenza kwesibindi",
+  "LIVE_ECG": "Isilinganiso esisha",
+  "live_ecg_downloading": "Ilanda i-ECG. Ngicela ulinde...",
+  "loadEcgList": "Ilayisha uhlu lwe-EKG ...",
+  "loading": "Ilayisha idatha ...",
+  "loading1": "Iyalayisha ...",
+  "loading_list": "Ilayisha uhlu ...",
+  "loading_list_nutritionist": "Ilayisha izondlo zokudla ...",
+  "LOAD_INDEX": "Layisha",
+  "LOAD_INDEX_DESCRIPTION": "I-Degree kanye nokukhathala, ukucindezeleka Ukucatshangelwa okuphelele komzimba ukuthwala indebe yomthwalo, ukucabanga ngezici ezingokomzimba nezingokwengqondo zabantu abathwala isimo somthwalo. Imiphakathi yangaphandle, impilo kanye nokuncintisana nezinye izici, kodwa futhi ngesimo sabo somzimba nesimo sengqondo.",
+  "LOAD_ITEMS": "Iyalayisha ...",
+  "LOGGING_IN": "Ukungena ngemvume ...",
+  "LOGGING_OUT": "Iyaphuma ...",
+  "LOGIN_BTN": "Ngena ngemvume",
+  "LOGIN_ERROR": "Igama lomsebenzisi elingalungile noma iphasiwedi",
+  "Logout": "Phuma",
+  "logout1": "Phuma",
+  "LOGOUT_BTN": "Phuma",
+  "low1": "Okuphansi",
+  "lunch": "Ukudla",
+  "lungtest": "Masenze ukuhlolwa kwamaphaphu",
+  "M": "Owesilisa",
+  "male": "Owesilisa",
+  "manageapp": "Phatha ama-aphoyintimenti",
+  "manageslot": "Phatha i-slot yamahhala",
+  "MANAGE_CORX": "Phatha i-Corx",
+  "mandatoryDays": "Ngiyacela, chaza inani lezinsuku",
+  "mandatoryfield": "Sicela, ugcwalise zonke izinkambu eziphoqelekile",
+  "map": "Imephu",
+  "max_file_size": "Usayizi wefayela kumele ube ngaphansi kuka",
+  "meals": "Ukudla",
+  "medicalconsultation": "Ukubonisana",
+  "medicalfile": "Izithombe",
+  "medicalform": "Amafomu ezempilo",
+  "medicalforms": "Amafomu ezempilo",
+  "medicalinfo": "Ulwazi lwezokwelapha",
+  "medicalrecord": "Irekhodi Lezokwelapha",
+  "medical_2option": "Umbono Wesibili Wezokwelapha",
+  "MEDICAL_CERTIFICATE": "Isitifiketi Sezokwelashwa",
+  "MEDICAL_FILE_BTN": "Ifayela Lezokwelapha",
+  "medication": "Imithi",
+  "medication_name": "Igama lomuthi",
+  "medicinereminders": "Umuthi wami Izikhumbuzo",
+  "medio": "Phakathi",
+  "medium1": "Phakathi",
+  "message": "Umlayezo",
+  "messagesent": "Umlayezo uthunyelwe ngempumelelo",
+  "metabolismTest": "Ukuhlolwa Kwama-Metabolism",
+  "method": "Indlela",
+  "METRIC": "I-Metric",
+  "middedcall2": "Unekholi engaphenduliwe evela",
+  "minutes": "imizuzu",
+  "missedcall": "I-SaluberMd ayikho ividiyo yevidiyo",
+  "missedcall1": "Ikholi engekho",
+  "missedNotiAlert": "Unezaziso ezingaphuthelwa.",
+  "misurazioni": "Amarekhodi",
+  "misure": "Linganisa",
+  "mobile": "Iselula",
+  "mobile_required": "Sicela, engeza inombolo yakho yefoni ukuze sikwazi ukuxhumana nawe ukuhlela i-aphoyintimenti.",
+  "moderate_risk": "Ingozi elinganiselayo",
+  "MONDAY": "NgoMsombuluko",
+  "month": "Inyanga",
+  "mood": "Iqembu le-Mood",
+  "moodDescription": "Isibonakaliso esiyinhloko sesimo sengqondo sesipikha ngesikhathi sezwi lezwi elihlaziyekile. I-API ikhiqiza amaqoqo angu-11 angama-mood avela ekudumeni, enesizungu nokuzithiba ukuze injabulo nenjabulo.",
+  "moreDays": "Izinsuku ezingaphezulu",
+  "motivazione": "Isizathu",
+  "MRGraph": "Umuthi othathe umlando",
+  "msgAppointment": "Ukuqokwa kuqediwe ngempumelelo. Uzothola ukuqokwa kwakho esigabeni sezinzuzo ze-concierge.",
+  "msgsurveysent": "Ukuhlola kuthunyelwe ngempumelelo",
+  "msg_call_reconnection": "Izama ukuxhuma kabusha ...",
+  "MSG_CALL_TRANSFERED": "Ividiyo yevidiyo ihanjiswe ngempumelelo",
+  "MSG_CHOOSE_OPTION": "Sicela, ukhethe okukhethwa kukho",
+  "MSG_CHOOSE_OPTION4": "Khetha okukhethwa kukho",
+  "MSG_CHOOSE_OPTION5": "Chaza ukudla kwasekuseni kwakho",
+  "MSG_CHOOSE_OPTION6": "Chaza ukudla kwakho",
+  "MSG_CHOOSE_OPTION7": "Chaza ukudla kwakho kwasemini",
+  "MSG_CHOOSE_OPTION8": "Chaza izinyoka zakho",
+  "MSG_CHOOSE_OPTION9": "Sicela uphendule yonke imibuzo",
+  "MSG_CHOOSE_OPTION_2": "Sicela, faka incazelo",
+  "MSG_CHOOSE_OPTION_3": "Khetha okungenani ukhetho olulodwa",
+  "MSG_COMPLETE_PROFILE": "Ungathanda ukuhamba manje?",
+  "MSG_CONFIRM_EMAIL": "Sicela uqinisekise i-imeyili yakho",
+  "MSG_CONFIRM_EMAIL_TEXT": "Sikuthumelele i-imeyili enemiyalelo yokuthi ungaqinisekisa kanjani ikheli lakho le-imeyili. Sicela uhlole ibhokisi lokungenayo lakho.",
+  "msg_connected": "Ixhunyiwe ngempumelelo",
+  "MSG_CONTACT_SUCCESS": "Siyabonga ngokuthumela kwakho.",
+  "MSG_DOC_ENDED_CALL": "Udokotela usuphelile ucingo",
+  "MSG_DOC_WAITING_CALL": "Udokotela usekhishiwe, ulinde ukuxhuma kabusha",
+  "MSG_DONATION": "Qinisekisa umnikelo wakho?",
+  "MSG_DONATION_CONFIRM": "Siyabonga ngomnikelo wakho",
+  "MSG_ERROR_FILL_BOXES": "Sicela ugcwalise amabhokisi ngamanani afanele",
+  "MSG_FILL_ALL_BOXES": "Sicela ugcwalise wonke amabhokisi",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Sicela ugcwalise zonke izinkambu ezilandelayo",
+  "MSG_FILL_BOXES": "Sicela ugcwalise amabhokisi",
+  "MSG_FILL_BOXES_ALL": "Sicela ugcwalise zonke izinkambu",
+  "MSG_FILL_BOXES_PROFILE": "Sicela, ugcwalise wonke amabhokisi amakwe ngenkanyezi",
+  "MSG_GENERIC_ERROR": "Sicela uhlole uxhumano lwakho lwe-intanethi ukuze uzame futhi.",
+  "MSG_GENERIC_FORM_ERROR": "Sicela ulungise iphutha ukuze uqhubeke",
+  "MSG_LOGIN_ERROR": "Ukungena kokuyimfihlo ayiphumelelanga. Sicela uhlole iziqinisekiso zakho futhi uqinisekise ukuthi uxhumeke kwinethiwekhi.",
+  "MSG_LOGIN_ERROR_LOCKED": "Ukungena ngemvume kuhlulekile: i-akhawunti yakho ivalwe okwesikhashana. Sicela uzame futhi emuva kwesikhathi.",
+  "MSG_MANDATORY_OPTION": "Wenay kumele ugunyaze udokotela ukuze ubone ifayela lezokwelapha",
+  "MSG_NO_DOCTORS_FOUND": "Siyaxolisa, kodwa akekho odokotela abatholiwe. Cindezela Thola udokotela ukuze uzame futhi",
+  "MSG_PATIENT_CANCELED_CALL": "Isiguli sikhansele ikholi.",
+  "MSG_PATIENT_ENDED_CALL": "Isiguli sesiphelile ucingo",
+  "MSG_PATIENT_WAITING_CALL": "Isiguli sesinqanyuliwe, silinde ukuxhuma kabusha",
+  "MSG_POST_CALL_CANCEL": "Uphelile ukuvakasha ngaphambi kokuqala i-videocall!",
+  "MSG_POST_CALL_DOCTOR": "Isifinyezo sithumele uzobuyela ekhasini eliyisiqalo",
+  "MSG_POST_CALL_PATIENT": "Siyabonga ngokusebenzisa iSububerMD. Uzothola i-imeyili yokulandela. Ukuze ubuke imininingwane mayelana nokuhambela kwakho sicela uvakashele Umlando Wami Wokuvakashela",
+  "msg_reconnection_error": "Idivayisi ixhunyiwe. Sicela uphinde uxhumanise idivayisi",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Siyabonga .... othile uzokuxhumana nawe",
+  "MSG_REGISTRATION_SUCCESS": "Ukubhaliswa kwakho kuphumelele",
+  "msg_req_videocall1": "iyatholakala ku-videocall ku:",
+  "msg_req_videocall2": "I-video yocingo ilungele ukuqala. Chofoza kulesi saziso ukuze usebenzise i-videocall",
+  "msg_req_videocall3": "iyatholakala ku-videocall manje. Chofoza kulesi saziso ukuze usebenzise i-videocall",
+  "MSG_RESET_REQUEST_ERROR": "Umsebenzisi ogama lomsebenzisi noma ikheli le-imeyili akekho.",
+  "MSG_RESET_REQUEST_SUCCESS": "Uzothola maduze i-imeyili equkethe isixhumanisi sokusetha kabusha iphasiwedi.",
+  "MSG_RESUME_CALL": "Njengamanje unakho ucingo, ungathanda ukuqhubeka nalo?",
+  "MSG_SCHOOL_MISSING": "Faka Isikole",
+  "MSG_SELECT_TIMEZONE": "Khetha isikhathi sesikhathi",
+  "MSG_SIGNATURE_MISSING": "Sicela ugcwalise isignesha yakho, ngaphandle kwalokho awukwazi ukuthumela noma yimiphi imibhalo.",
+  "MSG_THANKING": "Siyabonga ngokuthumela kwakho.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Ukuxhumeka okulahlekile. Lokhu kungenxa yokuxhumeka kwakho kwe-intanethi",
+  "MSG_WELCOME_BACK": "Siyakwamukela",
+  "MSG_YEAR_PRACTISE": "Faka Year of Practice",
+  "muscles": "Imisipha",
+  "myappointment": "Ama-aphoyintimenti ami",
+  "MYFILE_NOFILE": "Awunawo amafayela okwamanje",
+  "MYFILE_SECTION": "Amafayela akho",
+  "MYFILE_SUBTITLE": "Chofoza kwento ngayinye ukuze ubone okuqukethwe kwefayela",
+  "MYFILE_TITLE": "Amafayela ami",
+  "myprofile": "Iphrofayela yami",
+  "myreminders": "Izikhumbuzo Zami",
+  "MY_TICKETS": "Amathikithi akho",
+  "M_SCHOOL": "Isikole Sezokwelapha",
+  "N": "Cha",
+  "name": "Igama",
+  "negative": "Okubi",
+  "nervous": "Ukhathazekile",
+  "nessun_appuntamento": "Awekho ama-aphoyintimenti adlule",
+  "NETWORK_CHECK_MSG": "Umkhawulokudonsa wakho uphansi kakhulu. Ukudlala okuqukethwe nge-bandwidth ephansi kuzobangela ividiyo ukuthi imise okwesikhashana.",
+  "NETWORK_CHECK_TITLE": "Ukuhlolwa kwekhwalithi yekholi",
+  "NETWORK_ERROR": "Iphutha lokuxhumeka kwe-intanethi. Zama futhi emuva kwesikhathi",
+  "neutral": "Ukungathathi hlangothi",
+  "newappointment": "Ukuqokwa okusha kusuka",
+  "newass": "Engeza inhlangano entsha",
+  "NEWPWD_CONFIRM": "Iphasiwedi ishintshwe ngempumelelo. Sicela ungene ngemvume futhi.",
+  "NEWPWD_CONFIRM2": "Iphasiwedi ishintshe ngokuphumelelayo",
+  "NEWPWD_ERROR": "Iphasiwedi entsha ayihambisani.",
+  "newtest": "Cindezela inkinobho yokuhlanganisa ukuze wenze ukuhlolwa okusha.",
+  "NEW_PWD": "Iphasiwedi Entsha",
+  "new_ticket": "Ithikithi elisha",
+  "NEXT": "Olandelayo",
+  "no": "Cha",
+  "noAlarm": "Ayikho i-alamu esethiwe",
+  "noallergies": "Azikho izifo ezithathelwanayo ezibalwe ohlwini.",
+  "noapatient": "Asikho isiguli esitholiwe",
+  "noappointment": "Azikho ukuqokwa okuhleliwe",
+  "noappointments": "Ayikho idethi etholakalayo nalo dokotela",
+  "noappointments1": "Azikho izinsuku ezikhona nale nutritionist",
+  "noAppoPat": "Akukho aphoyintimenti okufanele kube ohlwini",
+  "noarticles": "Azikho izihloko zokudla okunomsoco",
+  "noassociatedpatient": "Awunawo isiguli ohambisana naye okwamanje",
+  "noattachment": "Sicela, ukhethe okunamathiselwe",
+  "noattachment1": "Akukho Okunamathiselwe",
+  "noavailableoption": "Ayikho inketho etholakalayo",
+  "nocomment": "Awekho amazwana / ukuhlonishwa",
+  "noconsulenze": "Akukho ukuhambela okwenziwe",
+  "nocorxfound": "Ayikho i-CORX etholwe",
+  "nodata": "Ayikho idatha",
+  "nodependency": "Azikho izixhasi ezibalulwe.",
+  "nodesease": "Azikho izifo ezibalulwe.",
+  "nodevice": "Ayikho idivayisi esitholiwe, sicela uzame futhi",
+  "nodoctor": "Azikho odokotela abazitholile",
+  "nodoctors": "Awekho odokotela abatholakala",
+  "noDocuments": "Awekho amadokhumenti alayishiwe",
+  "nodrugselected": "Awukhethile izidakamizwa",
+  "noecg": "Ayikho i-ECG ebhalwe ohlwini",
+  "noexam": "Akukho ukuhlolwa okufanele kuboniswe",
+  "nofiles": "Awekho amafayela alayishwe isiguli",
+  "noHistory": "Azikho ukubonisana okwamanje",
+  "nohsh": "Azikho izibhedlela ezibalwe ohlwini.",
+  "noimages": "Akukho okunamathiselwe okwamanje",
+  "noimmunization": "Awekho ukugoma okubalulwe.",
+  "nolabtest": "Awekho ukuhlolwa kwelebhu okutholiwe",
+  "nomedication": "Ayikho imithi efakwe ohlwini.",
+  "nomisure": "Asikho isilinganiso",
+  "nonterminata": "Shayela okungahle kwenzeke",
+  "nonutritionist": "Asikho isidlo sezondlo esitholakalayo",
+  "nonuvoair": "Ayikho idivayisi etholakalayo",
+  "nopharmacy": "Awekho ama-pharmacy atholakele",
+  "noprescription": "Ayikho imiyalelo okwamanje",
+  "noprothesis": "Akukho-prosthesis noma usizo lwezokwelapha olubalulwe.",
+  "noreferrals": "Azikho ukuhanjiswa okufakwe ohlwini",
+  "noreminders": "Awunazo izikhumbuzi okwamanje",
+  "noresults": "Ayikho imiphumela etholakalayo",
+  "normale": "Okujwayelekile",
+  "normalrange": "Ukulinganisa okujwayelekile",
+  "normalWeight": "Isisindo esivamile",
+  "nosintomi": "Awekho uphawu olukhethiwe",
+  "nospecialist": "Azikho ochwepheshe",
+  "note": "Amanothi",
+  "notests": "Azikho izivivinyo ezingavamile ezibalwe.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Chofoza lapha ukuqedela ukugcwalisa ifayela lakho lezokwelapha",
+  "NOTIFICATIONS_SECTION": "Izaziso zakho",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Thola ukubonisana okukhululekile noma ucingo lwezempilo ngemuva kokugcwalisa ngokuphelele ifayela lakho lezokwelapha.",
+  "NOTIFICATIONS_SETTINGS": "Setha izaziso",
+  "NOTIFICATIONS_TITLE": "Izaziso",
+  "notification_setting": "Khetha kusuka kusigaba esifuna ukuthola izaziso",
+  "notimage": "Ifayela aliyona isithombe: Kuphela kuvunyelwe i-BMP, i-GIF, i-JPG ne-PNG",
+  "notNow": "Hhayi manje",
+  "notnow_btn": "Hhayi manje",
+  "nouser": "Akukho msebenzisi otholiwe",
+  "novantad": "Izinsuku ezingu-90 zokugcina",
+  "novideocall": "Ayikho ividiyo yevidiyo",
+  "novisit": "Awunaso ukuvakashelwa kwesiguli okwamanje",
+  "noWellnessData": "Ayikho idatha entsha ye-Wellness",
+  "no_certificate": "Akukho sitifiketi esizofakwa ohlwini",
+  "no_chiosc_data": "Akukho ukuhlola kwelebhu okufanele kubukwe",
+  "NO_DATA": "Ayikho idatha",
+  "no_doctor_answer1": "Azikho odokotela atholakalayo okwamanje.",
+  "no_doctor_answer2": "Ungathatha i-aphoyintimenti ngokuchofoza inkinobho ngezansi.",
+  "NO_GENETIC_TEST_REQUESTS": "Awucelanga noma yikuphi ukuhlolwa kofuzo",
+  "NO_MSG": "Ayikho imilayezo ethunyelwe",
+  "no_notifications": "Awunazo izaziso",
+  "no_prescription_download": "Ayikho imithi ehlotshaniswa nalokhu okubonisanayo",
+  "no_pull_answer": "Akukho dokotela olutholakalayo okwamanje.",
+  "no_referral_download": "Akukho ukuhanjiswa okuhlobene nalokhu kuhambela",
+  "NO_SECOND_OP_REQUESTS": "Awunayo isicelo seSevisi Yesibili Yokusebenza",
+  "no_specialization": "akukho_kusezingeni eliphezulu",
+  "no_specialization_found": "Akukho okukhethekile okutholiwe",
+  "NO_TICKETS_SENT": "Awekho amathikithi athunyelwe",
+  "NO_USER_FOUND": "Igama lomsebenzisi noma i-imeyili ayitholakali",
+  "NPI": "I-NPI",
+  "ns": "Uhlelo Lokukhathazeka",
+  "numberNotSaved": "Iphutha ngenkathi ilondoloza inombolo",
+  "numberSaved": "Inombolo igcinwe ngempumelelo",
+  "nuovoair_connected": "Ixhunyiwe",
+  "nuovoair_disconnected": "Ixhunyiwe",
+  "nutriPen": "Isicelo esilindile",
+  "nutriRev": "Imibuzo yemibuzo ebuyekeziwe",
+  "nutrition": "umsoco",
+  "nutritionist": "Khuluma nomnumzane",
+  "NUTRITIONIST_Q1": "Izinjongo eziyinhloko: (Hlola konke ukufaka isicelo)",
+  "NUTRITIONIST_Q10": "Ingabe uphazamiseka ngokucacile, uhloliwe noma ubuthakathaka uma ungadli?",
+  "NUTRITIONIST_Q11": "Umshwalense wokuzivocavoca wamanje: (Cardio, Resistance, Etc.)",
+  "NUTRITIONIST_Q12": "Ingabe u-Moshi ?: (Uma kunjalo, kungaki nokuthi bangaki?)",
+  "NUTRITIONIST_Q13": "Ingabe Uphuza Utshwala ?: (Uma kunjalo, bangaki nokuthi bangaki?)",
+  "NUTRITIONIST_Q14": "Uyayiphuza yini i-Cafeine ?: (Uma kunjalo, bangaki nokuthi bangaki?)",
+  "NUTRITIONIST_Q15": "Usuku lokugcina ngokomzimba:",
+  "NUTRITIONIST_Q16": "Zingaki izikhathi oye wabizwa ngama-antibiotics eminyakeni emibili edlule:",
+  "NUTRITIONIST_Q16_BIS": "Uma kunjalo, Yiliphi futhi kaningi kangakanani, (Sicela ube ngokucacile ngangokunokwenzeka.)",
+  "NUTRITIONIST_Q17": "Uthatha imithi? (OTC noma Imithi?) Uma kunjalo, yiziphi futhi uthatha izithako? Uma kunjalo, kaningi kangakanani, (Sicela ubeke ngokucacile ngangokunokwenzeka.)",
+  "NUTRITIONIST_Q18": "Ingabe uvinjelwe noma uvinjelwe ngaphezu kwezinsuku ezingu-1-2 ngesonto?",
+  "NUTRITIONIST_Q19": "Unenkinga kulezi zindawo ezilandelayo? Uma kunjalo, sicela uchaze izinkinga zakho ngokuningiliziwe ezikhaleni ezinikeziwe.",
+  "NUTRITIONIST_Q2": "Cishe mangaki ukudla odla ngosuku? (Khetha owodwa)",
+  "NUTRITIONIST_Q3": "Iyini Ukudla Kwakho Kokudla Kokudla Okuvamile, futhi ngukuphi isikhathi:",
+  "NUTRITIONIST_Q4": "Iyini i-Typical Lunch Consist yakho, futhi yisiphi isikhathi:",
+  "NUTRITIONIST_Q5": "Iyini i-Typical Dinner Consist yakho, futhi nini isikhathi:",
+  "NUTRITIONIST_Q6": "Yini Yakho Yokudla Okuvamile Okuhambisanayo, futhi nini isikhathi (s):",
+  "NUTRITIONIST_Q7": "Ingabe Udla Ngokudla?",
+  "NUTRITIONIST_Q8": "Yikuphi ukudla okuthambekela ekudleni ngokweqile nokuthi kaningi kangakanani:",
+  "NUTRITIONIST_Q9": "Ingabe unayo yonke imithi yokudla, imikhawulo noma izinzwa:",
+  "NUTRITIONIST_SUB1": "Ukulahlekelwa kwesisindo",
+  "NUTRITIONIST_SUB10": "I-Nausea / Ukuvota",
+  "NUTRITIONIST_SUB11": "Ubuhlungu besisu",
+  "NUTRITIONIST_SUB2": "Ukutholakala kwesisindo",
+  "NUTRITIONIST_SUB3": "Amandla / ukukhathala",
+  "NUTRITIONIST_SUB4": "Ukulala okungcono",
+  "NUTRITIONIST_SUB5": "Izinkinga zokugaya",
+  "NUTRITIONIST_SUB6": "Ukuqokwa",
+  "NUTRITIONIST_SUB7": "Uhudo",
+  "NUTRITIONIST_SUB8": "I-IBS",
+  "NUTRITIONIST_SUB9": "Ukuvimba / igesi",
+  "nutrition_mail": "Kuhlanganisiwe kukhona umbiko wokudla okunomsoco",
+  "nutrition_mail2": "Umsoco wezokudla uzokuthumela ifayela",
+  "nutrition_questionnaire": "umbuzo wokudla okunomsoco",
+  "nvisit": "Inani lamakhompiyutha wevidiyo ayenziwe",
+  "obesity1": "Kulungile",
+  "obesity2": "Ukhuluphele ngokweqile",
+  "obesity3": "Ukuphefumula ngokweqile",
+  "OFFICE_ADDRESS": "Ikheli leHhovisi",
+  "offline": "Akuxhunyiwe ku-inthanethi",
+  "OFFLINE_DOCTOR_MSG": "Udokotela ubukeka engaxhunyiwe ku-inthanethi, sicela uzame futhi emuva kwesikhathi",
+  "OLDPWD_ERROR": "Iphasiwedi entsha ihambisana nephasiwedi endala.",
+  "OLD_PASSWORD_WRONG": "Iphasiwedi endala ayilungile",
+  "OLD_PWD": "Iphasiwedi Endala",
+  "oneDay": "Usuku olulodwa",
+  "one_min": "Ngomzuzu owodwa",
+  "online": "Online",
+  "onlinedoctors": "Online Doctors",
+  "openimage": "Chofoza kusithombe ukuvula isikrini esigcwele",
+  "open_ticket": "Vula iThikithi",
+  "orale": "Ngomlomo",
+  "other": "Okunye",
+  "othercbc": "Ezinye izivivinyo ze-CBC",
+  "OTHER_PLACEHOLDER": "Sicela ukhethe okukhethekile kwakho",
+  "otoscopy": "I-Otoscopy",
+  "otp_sent_msg": "Sithumele ikhodi yokuqinisekisa kunombolo yakho yocingo",
+  "OUR_PRODUCTS_SECTION": "Amadivaysi ethu anikezela ngesikhathi sangempela idatha yezempilo nempilo ukuze ikusize ulandele impilo yakho.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Linganisa impilo yakho yamaphaphu ngemizuzwana nge-spirometer yobuchwepheshe",
+  "OUR_PRODUCTS_SECTION_P1": "Ubuchwepheshe obugugu obuhlakanilayo obuhlinzeka ngemininingwane yangempela yezempilo ngaphezu kwemisebenzi yezempilo",
+  "OUR_PRODUCTS_SECTION_P2": "Izinzuzo zokufaneleka / Ukuphila",
+  "OUR_PRODUCTS_SECTION_P3": "Isitifiketi sakho sokuxilonga ekhaya ekhaya lonke.",
+  "OUR_PRODUCTS_SECTION_P4": "Izici",
+  "OUR_PRODUCTS_SECTION_P5": "Zombili amadivaysi aklanyelwe ukuxhumana nohlelo lokusebenza ukuhlinzeka ngokuhlangenwe nakho kwezempilo okuhlelekile. Imiphumela yakho izogcinwa ngqo kuhlelo lokusebenza.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Linganisa ingcindezi yakho ye-boold ngemizuzwana nge-sphymometer ye-professional",
+  "OUR_PRODUCTS_SECTION_SCALX": "Linganisa isisindo sakho ngemizuzwana ngesilinganiso sobuchwepheshe",
+  "OUR_PRODUCTS_TITLE": "Imikhiqizo yethu",
+  "overeatFoods": "Ukudla okuphazamisayo",
+  "overeating": "Ukukhathazeka ngokweqile",
+  "overweight": "Ukuqhathanisa ngokweqile",
+  "pa": "Umsizi womuthi",
+  "PASSWORD": "Iphasiwedi",
+  "passwordchanged": "Iphasiwedi ishintshwe ngempumelelo!",
+  "passwordExpiringMessage": "Iphasiwedi yakho izophelelwa yisikhathi maduzane. Sicela uyishintshe manje",
+  "passwordExpiringTitle": "Iphasiwedi iphelelwa yisikhathi",
+  "PATIENT": "Isiguli",
+  "patientAllergy": "Amagciwane",
+  "patientGeneticRequests": "Izicelo Zokuhlolwa Kofuzo",
+  "patientinfo": "Ulwazi lomguli",
+  "patientlist": "Uhlu lweziguli",
+  "patientmanagement": "Ukuphathwa kweziguli",
+  "patientProtesi": "I-Prosthesis",
+  "PATIENTS_NO_P": "Okwamanje awunawo ama-aphoyintimenti weziguli ezihleliwe",
+  "PATIENTS_SECTION": "Ama-aphoyintimenti akho",
+  "PATIENTS_SECTION_SUBTITLE": "Chofoza kwento ngayinye ukuze ubone imininingwane egcwele",
+  "PATIENTS_TITLE": "Iziguli",
+  "patientupdate": "Isiguli",
+  "patientvisit": "Isiguli sivakashela umlando",
+  "PATIENT_PROFILE_OPT1": "Iphrofayela yami",
+  "PATIENT_PROFILE_OPT11": "Izintandokazi zami Amantombazane",
+  "PATIENT_PROFILE_OPT12": "Engeza i-Pharmacy oyintandokazi",
+  "PATIENT_PROFILE_OPT2": "Ifayela Lami Lezokwelapha",
+  "PATIENT_PROFILE_OPT3": "Umlando wami wokuvakashela",
+  "PATIENT_PROFILE_OPT4": "Izintandokazi zami",
+  "PATIENT_PROFILE_OPT5": "Amafayela ami",
+  "PATIENT_PROFILE_OPT6": "Izaziso zami",
+  "PATIENT_PROFILE_OPT7": "EKG Layisha",
+  "PATIENT_PROFILE_OPT8": "Idatha yedivayisi yezokwelapha",
+  "PATIENT_PROFILE_OPT9": "Izintandokazi zami Pharmacy",
+  "PATIENT_S1": "Isiguli",
+  "PATIENT_S2": "Ukukhuluma ngakho",
+  "PATIENT_S3": "Imininingwane yesineke",
+  "PATIENT_S4": "Isihloko sokuvakashelwa",
+  "PATIENT_S5": "Izifo",
+  "PATIENT_S6": "Amagciwane",
+  "PATIENT_S7": "Imithi",
+  "PATIENT_S8": "Amadokhumenti afakiwe",
+  "PATIENT_S9": "Izimpawu?",
+  "PATIENT_SUMMARY": "Ukufingqa kolwazi lwesiguli",
+  "patologia": "I-pathology",
+  "payment": "Ukukhokha",
+  "PAYMENT_DETAILS": "Imininingwane Yokukhokha",
+  "PAYMENT_MESSAGE_1": "Uzogunyazwa inani",
+  "PAYMENT_MESSAGE_2": "Uzokhokhiswa ekugcineni kwe-videocall",
+  "PAYMENT_SECTION1": "Khetha ikhadi ohlwini",
+  "PAYMENT_SECTION2": "Faka amanani amakhadi esikweletu",
+  "PAYMENT_SUCCESS": "Ukukhokha Ngokuphumelelayo!",
+  "PAYMENT_SUCCESSFUL": "Sithumelele ngokuphumelelayo ukukhokha",
+  "PAYMENT_UNSUCCESSFUL": "Ukukhokhiswa kokugunyazwa ngaphambilini kuhlulekile. Hlola imininingwane yakho yekhadi lesikweletu noma ubuze ibhange lakho.",
+  "paziente_rimosso": "Isimo sesifuba sishintshe ngempumelelo",
+  "paziente_salvato": "Isiguli silungiswe ngempumelelo",
+  "pdf_download_error": "Ayikwazi ukulanda i-pdf. Sicela, uzame futhi emuva kwesikhathi",
+  "pdf_file_error": "Kuvunyelwe kuphela amafayela we-pdf",
+  "period": "I-Period",
+  "PERIODIC_HEART_RATE": "I-Heart Heart Rate",
+  "personal": "Umuntu siqu",
+  "personalCare": "Ukunakekelwa Komuntu",
+  "personalinfo": "Ulwazi lomuntu siqu",
+  "PER_MIN": "/ iminithi",
+  "pharmacies": "Pharmacy",
+  "PHONE": "Inombolo yocingo",
+  "phone1": "Ifoni",
+  "pills": "Amaphilisi",
+  "PILLS_DATE_ERROR": "Idethi yokuqala ilandela usuku lokuphela",
+  "pill_reminder_message": "Isikhathi sokuthatha amaphilisi akho",
+  "placeholder": "igama lomsebenzisi, i-imeyili noma igama",
+  "placeOfBirth": "Indawo yokuzalwa",
+  "place_birth": "Indawo yokuzalwa",
+  "platform": "Platform",
+  "poc": "I-PoC",
+  "POLICY_NUMBER": "Inombolo yenqubomgomo",
+  "positive": "Okuhle",
+  "POSTCALL_DOCTOR_TITLE": "Isifinyezo sokuvakashelwa",
+  "POSTCALL_PATIENT_TITLE": "Sicela ulinganise okuhlangenwe nakho kwakho",
+  "POUNDS": "amakhilogremu",
+  "PRACTICE_LENGTH": "Ubude ekusebenzeni",
+  "prenota": "Bhala manje",
+  "prenotatest": "Kudinga i-aphoyintimenti",
+  "preobesity": "Ukuqeda ukukhuluphala",
+  "prescription": "Imithi",
+  "prescriptiondiscounts": "Izaphulelo zedokotela",
+  "PRESCRIPTIONS": "Imigomo",
+  "prescriptions_sent": "Imigomo ithunyelwe",
+  "prescription_mail": "Okufakiwe kunemishanguzo yakho",
+  "prescription_mail2": "Siyabonga ngokusebenzisa iSububerMD",
+  "prescription_notification": "Msebenzisi othandekayo, sikukwazisa ukuthi imithi yakho yesimanje manje itholakala ngaphansi kwesigaba somlando wesikhathi / inkomfa lokusebenza",
+  "prescription_pharmacy": "Khetha ikhemisi ukuthumela imithi",
+  "prescription_preview": "Ukuhlola kuqala kwedokhumenti",
+  "prescription_sent": "I-prescription ithunyelwe",
+  "PRESCRIPTION_SENT_EMAIL": "Imithi yakho kadokotela ithunyelwe ku-imeyili yakho ...",
+  "prescription_subject": "Imithi yakho",
+  "pressbutton": "Cindezela inkinobho kabili kudivayisi bese uthepha Thola Idivayisi",
+  "pressbuttonpresx": "Cindezela bese ubamba inkinobho yombili ngemuva kwedivayisi ukuqala uxhumano bese uthepha inkinobho thola idivaysi kuhlelo lokusebenza",
+  "pressbuttonscalx": "Cindezela bese ubamba inkinobho yombili ngemuva kwedivayisi ukuqala uxhumano bese uthepha inkinobho thola idivaysi kuhlelo lokusebenza",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Ukushaya kwegazi",
+  "PRESX_PROD": "I-PRESX",
+  "previous": "Ngaphambilini",
+  "pre_period": "I-Period yesiguli",
+  "price": "Intengo",
+  "price_per_visit": "Imali ekhokhelwa ngokuvakasha ngakunye",
+  "PRICING_SECTION1_P1": "I-SaluberMD izinikele ekuhlinzekeni ukunakekelwa okulula, kwekhwalithi ngamanani angabizi futhi akukho mali efihlekile noma amacala.",
+  "PRICING_SECTION1_P2": "I-SaluberMD inikeza ukunakekelwa nomaphi noma nini lapho uyidinga ngevidiyo ukuvakashela nodokotela oqinisekisiwe webhodi. Odokotela bethu bangaxoxa, bahlole futhi balalele ukuxilonga izinkinga zakho noma bamane ubhekane nemibuzo yezokwelapha nokukhathazeka ngenkathi ushayele ikholi yevidiyo.",
+  "PRICING_SECTION1_P3": "Nge-Medicfile yethu ekhethekile unganikeza udokotela wakho ukufinyelela emlandweni wakho wezokwelapha, izithombe zakho namafayela ukuzisiza ukuthi zinikeze uhlelo olusebenzayo kakhulu yokwelashwa.",
+  "PRICING_SECTION1_TITLE": "ukuvakashelwa ngalunye",
+  "PRICING_TITLE": "Amanani",
+  "primaryConcern": "Ukukhathazeka okuyinhloko",
+  "primaryMood": "I-Mood Primary",
+  "print": "Phrinta",
+  "priority": "Okubaluleke kakhulu",
+  "PRIVACY_POLICY_TITLE": "Inqubomgomo yobumfihlo",
+  "problems": "izinkinga",
+  "PROCEED_PAYMENT": "Qhubeka nenkokhelo",
+  "PROFESSIONAL_TITLE": "Isihloko sobuchwepheshe",
+  "PROFILE_SECTION2": "Ulwazi lokuxhumana",
+  "protesi": "Ama-Prosthesis kanye Nezokwelapha",
+  "protesiobbligatorio": "Sicela, ukhethe uhlobo lwe-prosthesis",
+  "prov": "Sample",
+  "publicAppUrl": "I-url yakho esesidlangalaleni yokuqokwa yile:",
+  "pulldown": "Donsela phansi ukuze uvuselele",
+  "pull_request_processed": "Siyabonga, Sithumele ukutholakala kwakho kwesiguli",
+  "PWD_NOTMATCH": "Amaphasiwedi awahambisani",
+  "P_P_Error": "Kufanele wamukele inqubomgomo yobumfihlo",
+  "QUALITY_INDEX": "Ikhwalithi",
+  "QUALITY_INDEX_DESCRIPTION": "Ukuqina komzimba yizinga lokuqina nokucindezeleka kwengqondo okuhlangene nakho kokukwazi ukujwayela nokubhekana nesimo. Inkomba yempilo yomzimba ibonisa umzimba womuntu ukuvumelanisa nezinguquko zemvelo nokucindezeleka ukuvuselela, ukugcina nokubuyisela ikhono lempilo. Ukuzivocavoca umzimba kuvame ukubonakaliswa ngokusemandleni okuphila kwabantu, ukufunda nokusebenza, kodwa futhi ngokwemvelo ekuzivocavoca umzimba. Ikhwalithi yomzimba yomuntu ihlobene nokuzalwa kodwa isondelene kakhulu nokuthola ukudla okunomsoco nokuzivocavoca umzimba. Ngezindlela ezifanele nokuzivocavoca okufanele, angakwazi ukuthuthukisa ukuqina kwakhe ngokomzimba kuzo zonke izici.",
+  "quantity": "Inani",
+  "quesito": "Ukukhathazeka",
+  "QUESTIONS_SECTION_TITLE": "Thola ukubonisana okukhululekile noma ucingo lwezempilo ngemuva kokugcwalisa ngokuphelele ifayela lakho lezokwelapha.",
+  "QUESTIONS_TITLE": "Imibuzo",
+  "quindici": "Izilinganiso zokugcina ezingu-15",
+  "ratio": "Ukulinganisa",
+  "reccomendation": "Ukubuyiselwa",
+  "reccomendations": "Izincomo",
+  "recommendation": "Izincomo",
+  "RECOMMENDATIONS": "Izincomo",
+  "RECOMMEND_SECTION_P1": "E-SaluberMD silwela ukuhlangabezana nesidingo sokunakekelwa kwezempilo okusezingeni quality ngokunikeza amakhasimende ethu ukufinyelela eqenjini elihle elihle labasebenzi.",
+  "RECOMMEND_SECTION_P2": "Siso sonke sifuna ikhwalithi Abahlengikazi ukungeza eqenjini lethu elimangalisayo. Njengelungu lethimba lethu sihlonipha futhi sibaluleka ukuthumela kwakho.",
+  "RECOMMEND_SECTION_P3": "Sicela ugcwalise ifomu elingezansi ukuze ubheke udokotela ku-SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Ncoma i-Colleague",
+  "RECOMMEND_TITLE": "Ncoma",
+  "record_aggiornato": "Ukurekhoda kubuyekezwe ngempumelelo",
+  "record_aggiunto": "Rekhoda ngempumelelo",
+  "record_inserito": "Ungeze ngempumelelo",
+  "record_rimosso": "Ukurekhoda ngempumelelo kususiwe",
+  "REFERRAL": "Ukudluliselwa",
+  "REFERRALS": "Okudlulisiwe",
+  "referrals_sent": "Ukudluliselwa okuthunyelwe",
+  "referral_mail": "Kuhlanganisiwe kukhona ukuhanjiswa kwakho.",
+  "referral_sent": "Ukudluliselwa okuthunyelwe",
+  "refundrequestsent": "Isicelo sakho sithunyelwe",
+  "register": "Bhalisa",
+  "register_report": "Ukubhaliswa Kwabasebenzisi",
+  "registration_date": "Usuku Lokubhalisa",
+  "REGISTRATION_HEADER_DOCTOR": "Joyina i-team ye-Saluber MD",
+  "REGISTRATION_HEADER_PATIENT": "Sicela ugcwalise ifomu elingezansi bese ucindezela irejista",
+  "releaserefresh": "Khululwa ukuze uvuselele",
+  "remarks": "Amazwana",
+  "removedevice": "Ufuna ukususa le divayisi?",
+  "removefavorite": "Susa kusuka izintandokazi?",
+  "remove_generic": "Ingabe ufuna ukususa?",
+  "renalFunction": "Umsebenzi weRenal",
+  "reoccurring": "Ukuphindaphindiwe",
+  "repeat_email": "Qinisela i-Email",
+  "report": "Ifayela lomtholampilo lomuntu siqu: Umbiko ophelele wedatha",
+  "report1": "Ifayela lomtholampilo lomuntu siqu:",
+  "report2": "Bika",
+  "reportvisite": "Bika ama-Videocalls",
+  "report_date": "Usuku lokubika",
+  "requestdate": "Usuku lokucela",
+  "request_already_taken": "Lesi sicelo sesivele sithathwe omunye udokotela.",
+  "REQUEST_ERROR": "Kube nephutha ngenkathi kucubungula izicelo zakho. Hlola uxhumano lwakho lwe-inthanethi noma uzame futhi emuva kwesikhathi.",
+  "request_sent": "Ocelayo wakho uthunyelwe ngempumelelo ku-backoffice",
+  "required": "Le nkundla iyadingeka.",
+  "required_field": "Okufakiwe kuyadingeka",
+  "RESEND_EMAIL": "Thumela ikhodi yokuqinisekisa",
+  "resetCorxFactory": "Uqinisekile ukuthi ufuna ukusetha kabusha i-Corx?",
+  "RESETPWD_BTN": "Setha kabusha iphasiwedi",
+  "RESET_PASSWORD": "Faka i-imeyili noma igama lomsebenzisi elisetshenziswe ngesikhathi sokubhalisa",
+  "respiratory": "Ukuphefumula",
+  "RESPIRATORY_RATE": "Isilinganiso sokuphefumula",
+  "RESTORE_FACTORY_SETTINGS": "Buyisela izilungiselelo ze-Factory",
+  "resultfound": "irekhodi litholakala",
+  "results": "Imiphumela",
+  "ricettario": "Izwe",
+  "richiediDrug": "Cela Izidakamizwa",
+  "richiestaAppuntamento": "Isicelo sokuqokwa",
+  "richiestaRimborso": "Isicelo sokubuyiselwa imali",
+  "ricovero": "Isibhedlela",
+  "riepilogo": "Isifinyezo",
+  "rightHanded": "Ukunene Kwesokudla",
+  "rimborso": "Ukubuyiselwa imali",
+  "ripetibile": "Iyaphinda (izikhathi)",
+  "rr_desc": "Isilinganiso sokuphefumula yisilinganiso lapho ukuphefumula kwenzeka khona. Izinga lokuphefumula elijwayelekile lomuntu omdala ekuphumula liyi-12 kuya ku-20 ukuphefumula ngomzuzu. Izinga lokuphefumula ngaphansi kuka-12 noma ngaphezulu kwempumulo engu-25 ngomzuzu ngenkathi ukuphumula kubhekwa njengokwejwayelekile",
+  "rs": "System Respiratory",
+  "RUNNING_CALL_OPT1": "Qalisa futhi",
+  "RUNNING_CALL_OPT2": "Qeda ucingo",
+  "RUNNING_CALL_TITLE": "Ukushayela ucingo",
+  "sa": "Ukugunyazwa okunamandla",
+  "sadness": "Usizi",
+  "sai": "Inkomba yomsebenzi",
+  "sai_desc": "I-SAI isekelwe ngokulinganisa kwenhliziyo yakho. I-metric elula elandelela impendulo yomzimba emisebenzini yomzimba - okungaphezulu nje kwezinyathelo. Ngokungafani nokulandela izinyathelo, i-SCI inikeza isikweletu ngemisebenzi yonke ephakamisa izinga lenhliziyo: ukubhukuda, ukuhamba ngebhayisikili, ukugoqa, ukudansa, noma yini. Gcina ngezansi kwe-30 impilo engcono neyimpilweni.",
+  "sai_title": "I-SAI",
+  "saluberAccess": "SaluberMD nesineke",
+  "SATURDAY": "NgoMgqibelo",
+  "savedinfo": "Ulwazi lugcinwe ngempumelelo",
+  "SAVE_BTN": "Londoloza",
+  "SAVE_MESSAGE": "Uma ushiya, izinguquko zakho zizolahleka",
+  "sbpi": "Inkomba yegazi",
+  "sbpi_desc": "Umfutho wegazi ophakeme ngumbulali othulile. Amanani akho wegazi we-Systolic ne-Diastolic acatshangwa phakathi naleso sigaba sezokwelapha owenzayo. Gcina i-SBPI engaphansi kuka-30 ukuba nethuba eliphansi lokuhlupheka ngenxa yezimo zokusongela impilo ezifana nesifo sohlangothi kanye negazi.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Isisindo",
+  "SCALX_PROD": "SCALX",
+  "scan": "Skena",
+  "scanningcorx": "Isesha i-CORX ... Sicela ulinde",
+  "schedule": "Uhlelo",
+  "scheduleAnAppointment": "Hlela i-aphoyintimenti",
+  "scheduleappointment": "Hlela i-videocall nodokotela",
+  "schtime": "Isikhathi esihleliwe",
+  "sci": "Inkomba yezinhliziyo",
+  "sci_desc": "Ngokuhlaziya amagagasi wakho we-pulterial pulse sithola ulwazi mayelana nesistimu yakho ye-cardiovascular. Inkomba ye-SCI isishwankathelo sempilo yakho yesifo senhliziyo, zama ukuyigcina ngezansi kwe-20!",
+  "sci_title": "I-SCI",
+  "SEARCH": "Sesha",
+  "searchallergy": "Sesha ukungezwani",
+  "searchdoctor": "Sesha udokotela",
+  "searchfordoctor": "Sesha udokotela ngegama noma isibongo",
+  "searchingdevice": "Ukuseshwa kwedivayisi. Kungathatha isikhashana",
+  "searching_avail_date": "Isesha idethi etholakalayo ...",
+  "searching_online_doctors": "Ukusesha odokotela be-inthanethi kuqhubeka ...",
+  "searchmedication": "Sesha imithi",
+  "searchpatient": "Sesha isiguli",
+  "searchpatologia": "Sesha isimo sezokwelapha",
+  "searchsymptom": "Sesha uphawu",
+  "searchuser": "Sesha umsebenzisi",
+  "search_doctor_description": "Sesha udokotela lomsebenzisi, i-imeyili noma igama",
+  "search_patient_description": "Sesha isiguli segama lomsebenzisi, i-imeyili noma igama",
+  "search_specialization": "Sesha ngokukhethekile",
+  "search_user_description": "Sesha umsebenzisi ngegama lomsebenzisi, i-imeyili noma isibongo",
+  "search_videocall_description": "Sesha i-videocall eyenziwa yi-iniziative",
+  "search_videocall_title": "Serach Videocall ngosuku",
+  "secondaryMood": "I-Mood Secondary",
+  "secondOpinion": "Izicelo Zesibili Zemibuzo",
+  "seconds": "imizuzwana",
+  "second_opinion_1": "Ukufinyelela okulula, okunokwethenjelwa kombono wesibili wezokwelapha kusuka ochwepheshe abahola emhlabeni jikelele.",
+  "second_opinion_2": "Isevisi Yethu Yezimboni Zezokwelapha ingakusiza:",
+  "second_opinion_3": "Thola izimpendulo zemibuzo yakho",
+  "second_opinion_4": "Khetha uhlelo oluhle lokuphulukisa",
+  "second_opinion_5": "Qinisekisa ukuxilongwa okulungile",
+  "second_opinion_body": "Msebenzisi othandekayo, <br> isicelo sakho sesibili se-opion sesithathiwe kusuka kochwepheshe bethu ababuyekeza amadokhumenti owathumele.",
+  "second_opinion_history": "Izicelo Zesibili Zemibuzo",
+  "second_opinion_msg": "Ngiyabonga. Ummeli wethu wezezempilo uzokufinyelela kuwe emahoreni angu-24 alandelayo.",
+  "SECOND_OPINION_Q1": "Ufuna ukukhuluma nengani?",
+  "second_opinion_question1": "Ubani umbono wesibili?",
+  "second_opinion_question2": "Layisha ifayela",
+  "second_opinion_step1": "Qedela imibuzo emfushane / Layisha amafayela akho",
+  "second_opinion_step2": "Odokotela bethu bazohlola izinto zakho",
+  "second_opinion_step3": "Udokotela ukubonisana ukuxoxa ngemiphumela yakho",
+  "secOpChoice": "Sicela ukhethe ukuthi iyiphi indlela ongathanda ukuthola ngayo umbono wesibili",
+  "section": "Sicela, ukhethe isigaba esisodwa",
+  "security": "Ezokuphepha",
+  "seeaprovider": "Bheka umhlinzeki",
+  "seecommenti": "Buka amazwana",
+  "seedoctor": "Bheka udokotela manje",
+  "SEE_A_DOCTOR_Q1": "Ubani le kholi yevidiyo?",
+  "SEE_A_DOCTOR_Q10": "Singathumela i-prescription yakho iqondise ikhemisi ozikhethelayo",
+  "SEE_A_DOCTOR_Q1B": "Igama nokuzalwa kokuzalwa kwengane yakho?",
+  "SEE_A_DOCTOR_Q1_A1": "Mina",
+  "SEE_A_DOCTOR_Q1_A2": "Ingane yami",
+  "SEE_A_DOCTOR_Q2": "Sicela uchaze ukuthi ungathanda ukukhuluma nodokotela ngani",
+  "SEE_A_DOCTOR_Q3": "Izimpawu?",
+  "SEE_A_DOCTOR_Q4": "Ungathanda ukunamathisela isithombe, noma idokhumenti?",
+  "SEE_A_DOCTOR_Q4_ERROR": "FUTHA: Amafayela akumelwe adlule u-5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Khetha ifayela",
+  "SEE_A_DOCTOR_Q4_S2": "Thatha isithombe",
+  "SEE_A_DOCTOR_Q5": "Ingabe okwamanje uthatha noma yimiphi imithi, uma kunjalo sicela ubhale igama",
+  "SEE_A_DOCTOR_Q5_CHILD": "Ngabe ingane yakho isaphuza noma imuphi umuthi? uma kunjalo sicela ubhale igama",
+  "SEE_A_DOCTOR_Q5_S1": "Igama:",
+  "SEE_A_DOCTOR_Q5_S2": "Isilinganiso:",
+  "SEE_A_DOCTOR_Q6": "Ingabe unayo yonke imithi?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Ngabe ingane yakho inakho ukwaliwa? uma kunjalo sicela ubhale igama",
+  "SEE_A_DOCTOR_Q7": "Unayo izimo zezokwelapha?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Ngabe ingane yakho inazo izimo zempilo? uma kunjalo sicela ubhale igama",
+  "SEE_A_DOCTOR_Q8": "Ingabe ugunyaza udokotela ukubuka ifayela lakho lezokwelapha?",
+  "SEE_A_DOCTOR_Q9": "I-Pharmacy ethandwayo",
+  "SEE_A_DOCTOR_TITLE": "Bheka uDokotela",
+  "SEE_A_PROVIDER": "Bheka umhlinzeki",
+  "segment": "Ingxenye",
+  "selectAFile": "Thepha inkinobho engezansi ukukhetha ifayela",
+  "selectaprovider": "Khetha umhlinzeki",
+  "selectcarderror": "Sicela, ukhethe ikhadi",
+  "selectdoctor": "Phatha i-ajenda ye",
+  "selectdoctor1": "Khetha udokotela",
+  "selectdrug": "Khetha Imithi",
+  "selectedContact": "Izindlela zokuxhumana",
+  "selectinitiative": "Khetha okukodwa noma okuningi ...",
+  "selectnutritionist": "Khetha isondlo sakho sokudla",
+  "selectpatient": "okukhethiwe",
+  "select_country": "Sicela, ukhethe izwe",
+  "select_device": "Khetha idivayisi",
+  "select_file": "Khetha Ifayela",
+  "select_file_btn": "Khetha ifayela",
+  "select_patient": "Chofoza kumugqa ukuze ubone imininingwane",
+  "send": "Thumela",
+  "sendmessage": "Thumela umlayezo",
+  "sendtoken": "Thumela lokhu kudokotela ukuze umvumele ukuba afinyelele kufayili yakho yezokwelapha. Lesi sixhumanisi siphelelwa yisikhathi emaminithini angu-10",
+  "SEND_BTN": "Thumela",
+  "send_doctor_request": "Thumela isicelo",
+  "sentmessage": "Imilayezo ethunyelwe",
+  "SERVICE_TYPE": "Uhlobo Lensizakalo",
+  "sessantad": "Izinsuku ezingu-60 zokugcina",
+  "SESSION_EXPIRED": "Isikhathi sakho siphelelwe yisikhathi. Ngiyacela, ungene futhi ngemvume",
+  "setAlarm": "Hlela ama-alamu",
+  "settd": "Izinsuku ezingu-7 zokugcina",
+  "settings_saved": "Izilungiselelo zigcinwe ngempumelelo",
+  "setTreshold": "Hlela ububanzi",
+  "SET_BTN": "Setha",
+  "SET_USER_EMAIL": "Sicela, ucacise igama lomsebenzisi noma i-imeyili",
+  "set_vital_signs": "Setha izimpawu ze-Vital",
+  "sevendays": "Izinsuku ezingu-7",
+  "showalldata": "Bonisa yonke idatha",
+  "showOnEmergency": "bonisa ku-Emergency",
+  "signature": "Isiginesha sakho (esetshenziselwa imiyalelo)",
+  "signature_word": "Isiginesha",
+  "SIGNUP_BTN": "Bhalisela",
+  "sii": "I-Insurance Index",
+  "sii_desc": "I-SII iyinhlanganisela yazo zonke izinhlamvu zeSaluberMD futhi yisibuko sengozi yakho jikelele yezokwelapha. Uma ungaphansi kuka-30 usendaweni ephephile!",
+  "sii_title": "SII",
+  "since": "Kusukela",
+  "single": "Usuku olulodwa",
+  "singleAccess": "Ukufinyelela okukodwa",
+  "sitreminder": "Hlala Isikhumbuzi",
+  "sit_period": "I-Period",
+  "skip": "Yeqa",
+  "skip_pull": "Ziba",
+  "skip_step": "Yeqa",
+  "sl": "Izinga lokucindezeleka",
+  "SLEEP": "Ukulala",
+  "slotime": "Isikhathi Slot (iminithi)",
+  "sl_alta": "ngaphezulu kuka-85 bpm",
+  "sl_bassa": "ngaphansi kuka-65",
+  "sl_desc": "Izinga lokucindezeleka libalwe ngokusekelwe ekushayweni ngomzuzu",
+  "sl_normale": "phakathi kuka-65 no-85 bpm",
+  "smoker": "Ukubhema",
+  "snacks": "Ukuncintisana",
+  "SOMETIMES": "Ngezinye izikhathi",
+  "SONNO": "Ukulala",
+  "SOP_Q4": "Namathisela umbiko wakho wezokwelapha",
+  "sos": "SOS",
+  "so_specialization": "Okukhethekile",
+  "specialists": "Ochwepheshe",
+  "specialization": "Khetha okukhethekile",
+  "SPECIALTY": "Okukhethekile",
+  "specifyother": "Sicela, ucacise enye",
+  "specifyvalue": "Sicela, ucacise inani",
+  "spirometer": "I-Spirometry",
+  "spo2_desc": "I-SpO2 noma i-blood oxygen level isilinganiso sokuthi ingakanani amangqamuzana egazi obomvu aphetheyo. Amanani avamile aphakathi kuka-95% no-100%, A ngezansi-evamile igazi oksijeni level kuthiwa i-hypoxemia",
+  "sri": "Inkomba yokuphefumula",
+  "sri_desc": "Sihlaziya indlela yakho yokuphefumula nganoma isiphi isikhathi sezokwelashwa nangesikhathi sokulala kwakho. Uma i-SRI ingaphansi kuka-30 amathuba akho okuhlupheka ngenxa yezimo zokuphefumula ezivimbelayo ziphansi.",
+  "sri_title": "I-SRI",
+  "ssi": "Inkinga yokucindezeleka",
+  "ssi_desc": "Ngokuhlaziya ukuhluka kwesimo senhliziyo sakho silinganisa izinga lakho lokucindezeleka. Ukucindezeleka kubonakala kubi kakhulu noma kwandisa ingozi yezimo ezinjengokukhuluphala, isifo senhliziyo, isifo se-Alzheimer, isifo sikashukela, ukucindezeleka, izinkinga zomzimba kanye nesifo se-asthma. Gcina ngezansi kwe-20 ukuba ube ohlangothini oluphephile!",
+  "ssi_title": "SSI",
+  "start": "Qala",
+  "startcall": "Qala ikholi",
+  "startdate": "Kusuka",
+  "starthour": "Isikhathi sokuqala",
+  "startmeasure": "Manje ungaqala isilinganiso ngokucindezela ibhodlela kudivayisi",
+  "startnow": "Qala Manje",
+  "startRecording": "Cindezela uqale ukuqopha umsindo wezwi",
+  "startyping": "Qala ukuthayipha igama",
+  "start_blowing": "Qala ukukhala",
+  "start_test": "Qala ukuhlolwa",
+  "start_time": "Isikhathi sokuqala",
+  "state": "Isimo",
+  "state1": "Isimo",
+  "STATES_LICENSE": "Izizwe zilayisensi",
+  "state_problem": "Sicela, sisho inkinga yakho",
+  "status": "Isimo",
+  "step": "Isinyathelo",
+  "STEPS_GOAL": "Izinyathelo Izinjongo",
+  "stoolTest": "Ukuhlolwa Kwestool",
+  "stop": "Ima",
+  "stop_test": "Misa ukuhlolwa",
+  "stress": "Ukucindezeleka",
+  "stroke_vol": "Ivolumu yesisindo",
+  "stroke_volume": "Ivolumu yesisindo",
+  "stroke_volume_desc": "Ivolumu yesifo ngomsindo wegazi owenziwe yi-ventricle ngayinye ngesithandwa",
+  "struttura": "Isakhiwo",
+  "strutture": "Izakhiwo",
+  "subject": "Isihloko",
+  "subject_so": "Isihloko",
+  "submissionDate": "Usuku lokuhambisa",
+  "success": "Impumelelo",
+  "SUCCESS_TITLE_NOTIFICATION": "Impumelelo",
+  "SUMMARY": "Ukuxilongwa",
+  "summary1": "Isifingqo",
+  "SUNDAY": "NgeSonto",
+  "surgery": "Ukuhlinzwa",
+  "surgeryAndHospitalization": "Isibhedlela kanye nomlando wokuhlinzeka",
+  "surgeryCategory": "Ukwelashwa Isigaba",
+  "surname": "Igama lomsebenzisi",
+  "sv_alta": "ngaphezulu kuka-100",
+  "sv_bassa": "ngaphansi kuka-55 ml",
+  "sv_normale": "phakathi kuka-55 no-100 ml",
+  "switchsearch": "Shintshela ekusesheni",
+  "symptoms": "Izimpawu",
+  "SYMPTOMS_BTN": "Izimpawu",
+  "sync": "Vumelanisa",
+  "SYNC_TIME": "Isikhathi sokuvumelanisa",
+  "sysdia": "Ukucindezela",
+  "systolic": "I-Systolic",
+  "TAKE": "Thatha",
+  "takeAppointment": "Thatha i-aphoyintimenti",
+  "TAKE_APP": "Ukuqokwa koHlelo",
+  "TAKE_A_PHOTO": "Thatha isithombe",
+  "tall": "Umude kangakanani",
+  "tapconnect": "Thepha ukuxhuma",
+  "tapdisconnect": "Thepha ukuze unqamule",
+  "tap_to_expand": "Thepha ukuze wandise",
+  "telNameMandatory": "Sicela, ucacise igama",
+  "telNumberMandatory": "Sicela, ucacise inombolo yocingo",
+  "temper": "I-Temper",
+  "temperDescription": "Isilinganiso esingokomzwelo esihlanganisa uhla lwesikhala sonke sesikhulumi. Ulaka oluphansi luchaza imizwa yokucindezeleka nokukhathazeka. Intukuthelo enembile ichaza imizwelo enobungane, efudumele neyamukelekayo. Amagugu aphakeme kakhulu achaza imizwelo yokuhlukumezeka, yokuphatha nokuhlukumezeka.",
+  "tendays": "Okokugcina okungu-10",
+  "ten_min": "Emaminithini angu-10",
+  "terminata": "Shayela ngempumelelo",
+  "TERMS_TITLE": "Imigomo Yokusebenzisa",
+  "test": "Ukuhlolwa",
+  "testmichele": "test michele",
+  "testresult": "Imiphumela yokuhlola",
+  "testresults": "Imiphumela yokuhlola",
+  "tests": "Uvivinyo",
+  "text": "Umbhalo",
+  "thiscC": "Leli khadi lesikweletu lizosetshenziselwa ukukhokhela insizakalo",
+  "THURSDAY": "NgoLwesine",
+  "thyroidTest": "Izivivinyo zomsebenzi we-thyroid",
+  "tickets": "Amathikithi",
+  "TICKET_HISTORY": "Umlando wamathikithi",
+  "TICKET_NUMBER": "Inombolo yamathikithi",
+  "ticket_subject": "Cela Isihloko",
+  "timecallerr": "Uxolo, awukwazi ukwenza ucingo okwamanje",
+  "timecallerr1": "Uxolo, uyaxhuma ucingo ngoba ungaphezu kwesikhathi esihleliwe",
+  "TIMELINE": "Izikhathi zami",
+  "times": "Zingaki ngosuku?",
+  "timesaday": "Times ngeSuku",
+  "tipopratica": "Uhlobo lokuzijwayeza",
+  "tipo_struttura": "Uhlobo lwesakhiwo",
+  "tipshealt0": "Amathiphu wezeMpilo",
+  "tipshealt1": "I-Flu shot - Ngifanele ngifakwe igciwane yini?",
+  "tipshealt10": "Chofoza lapha ukuze uthole olunye ulwazi",
+  "tipshealt11": "Izinzuzo zokwelashwa kwesimiso, izidakamizwa ezinciphisa i-cholesterol, zidlula izingozi",
+  "tipshealt12": "Esihlokweni sokubuyekezwa kwamuva kuLancet, abacwaningi baphetha ngokuthi izinzuzo zokunciphisa i-cholesterol ye-LDL ne-statin therapy zingase zivimbele izenzakalo ezinkulu ze-vascular (ukuhlaselwa yinhliziyo, ukushaya) futhi kukhulu kakhulu izingozi zezidakamizwa.",
+  "tipshealt13": "Ngokusho kwabacwaningi izenzakalo ezimbi ezimbi eziye zaboniswa ukuthi zibangelwa ukwelashwa kwe-statin isikhathi eside yi-myopathy (echazwa ngokuthi ubuhlungu besisu noma ubuthakathaka), isifo sikashukela esisha esisha, futhi, mhlawumbe, isifo esiwumshayabhuqe.",
+  "tipshealt2": "Nakuba umgomo wokugoma awuhlali njalo uhlinzeka ukuvikelwa okuphelele, kufanelekile ukuthola. I-CDC (Izikhungo Zokulawula Nokuvimbela Izifo) incoma imishanguzo yonyaka wamagciwane wonke umuntu oneminyaka eyi-6 noma ngaphezulu. Ukugoma kubaluleke kakhulu kubantu abasengozini enkulu yemithonya yemfuluwenza, kuhlanganise",
+  "tipshealt3": "Abesifazane abakhulelwe",
+  "tipshealt4": "Abantu abadala (iminyaka engama-50 nangaphezulu)",
+  "tipshealt5": "Izingane ezincane (ngaphansi kweminyaka engama-4 nangaphezulu kwezinyanga ezingu-6)",
+  "tipshealt6": "Umsebenzi womzimba uthuthukisa inkumbulo namakhono okucabanga",
+  "tipshealt7": "Umsebenzi wokuzivocavoca njalo ungathuthukisa ukusebenza kobuchopho phakathi nempilo yonke futhi kunciphise ingozi yokugula komqondo.",
+  "tipshealt8": "Ucwaningo oluningi luye lwashicilelwa ekusebenzisaneni okusheshayo futhi kunenzuzo yokusebenza ngokomzimba njalo nokusebenza kwengqondo okuthuthukisiwe.",
+  "tipshealt9": "Ithonya liqondiswe ngokuqondile ebuchosheni futhi ngokungaqondile ngokusebenzisa izenzo zamathambo nezomzimba emzimbeni.",
+  "title": "Isihloko",
+  "to": "kuya",
+  "todayAppointment": "Ukuqokwa kwanamuhla",
+  "tooltip1": "Faka igama udokotela ofuna ukuphatha i-ajenda",
+  "totale": "Ingqikithi",
+  "totalSleepTime": "Isikhathi sokulala esiphelele",
+  "total_cholesterol_desc": "Leli nani liyisilinganiso sayo yonke i-cholesterol esegazini",
+  "TOTAL_SLEEP_TIME": "Isikhathi sokulala sonke",
+  "tot_non_risposte": "Ukushayela akuphenduliwe",
+  "tot_ricevute": "Ucingo lutholiwe",
+  "tot_visite": "Ukuvakashelwa Kwenziwe",
+  "tpa": "I-TPA",
+  "trackx": "I-Trackx",
+  "transfer": "Kudluliselwa",
+  "trenta": "Izilinganiso zokugcina ezingu-30",
+  "trentad": "Izinsuku ezingu-30 zokugcina",
+  "triglycerides": "Triglycerides",
+  "trig_cholesterol_desc": "I-Triglycerides uhlobo lwamafutha (lipid) atholakala egazini lakho. Ithebula elilandelayo libonisa ububanzi bamanani.",
+  "TUESDAY": "NgoLwesibili",
+  "tutte": "Zonke izilinganiso",
+  "type": "Thayipha",
+  "TZONE": "I-Timezone",
+  "underweight": "Ngaphansi kwesisindo",
+  "unit": "Unit",
+  "UNIT_SETTING": "Ukubeka Uhlu",
+  "uom": "Iyunithi yokulinganisa",
+  "upcomingAppointmentPatient": "Ukuqokwa okuzayo kwe",
+  "UPDATE": "Ukubuyekeza",
+  "updatelist": "Uhlu lokuvuselela",
+  "update_app_message": "Udinga ukubuyekeza uhlelo lwakho lokusebenza",
+  "UPDATE_AVAILABLE": "Isibuyekezo siyatholakala",
+  "UPDATE_BTN": "Ukubuyekeza",
+  "update_completed": "I-Firmware ibuyekezwe ngempumelelo",
+  "update_firmware_download_error": "Iphutha ekulandeni i-firmware",
+  "update_list": "Ukubuyekeza",
+  "UPLOAD_ERROR": "FUTHA: Amafayela akumelwe adlule u-5 MB",
+  "upload_referral": "Layisha ukuhanjiswa kwakho ebhokisini elingezansi.",
+  "urinTest": "Ukuhlolwa komchamo",
+  "user": "Umsebenzisi",
+  "userdata": "Idatha yomsebenzisi",
+  "usermanagement": "Ukuphathwa komsebenzisi",
+  "USERNAME": "Igama lomsebenzisi",
+  "username1": "Igama lomsebenzisi",
+  "utente_aggiunto": "Umsebenzisi ungeze ngempumelelo",
+  "utente_rimosso": "Umsebenzisi ususiwe ngempumelelo",
+  "utente_salvato": "Umsebenzisi uvuselelwe ngempumelelo",
+  "vaccinobbligatorio": "Sicela, ukhethe ukugoma",
+  "vaioffline": "Hamba ungaxhunyiwe ku-inthanethi",
+  "vaionline": "Iya ku-intanethi",
+  "valence": "Valence",
+  "valenceDescription": "Ukuguquguquka okuvela kokungabi nandaba nokuzimela. Uma ulalela inkulumo yomuntu, kungenzeka ukuthi uqonde ukuthi &quot;okuhle&quot; noma &quot;ukungalungi&quot; bazizwa kanjani ngendaba, into noma umcimbi oxoxwa ngawo.",
+  "value": "Inani",
+  "vascular_age": "Ubudala be-Vascular",
+  "vascular_age1": "Ubudala be-Vascular",
+  "va_desc": "I-Vascular Age inikeza isilinganiso esithile seminyaka ebonakalayo yemingcele yakho, uma kuqhathaniswa nabantu abanempilo. Uma ubudala bakho bezinthambo bukhulu kunesikhathi sakho sokulandelana, ungase ube engozini enkulu yokudala isifo senhliziyo (CVD) kamuva ekuphileni.",
+  "videocall": "Videocall",
+  "VIDEOCALL_DES1": "Cindezela inkinobho ngezansi ukuze ushintshe isimo sakho futhi wamukele noma ungamukeli izaziso. Khumbula ukuthi ungathola isaziso kuphela lapho uxhumekile ku-intanethi.",
+  "VIDEOCALL_DES2": "Uma uthola ucingo, chofoza ku-umugqa ozobonakala uthayela ucingo.",
+  "videocall_filter": "Hlunga ngegama noma ngokukhethekile",
+  "videocall_request": "Isicelo esisha sevidiyo esivela ku",
+  "videocall_request_title": "Isicelo se-Videocall",
+  "videocall_req_from": "Isicelo se-Videocall kusuka ku:",
+  "videodermatoscopy": "I-Videodermatoscopy",
+  "VIDEO_ANSWER": "Chofoza ukuze usebenze ividiyo",
+  "VIDEO_CALL_BTN": "Ikholi yevidiyo",
+  "VIDEO_CALL_BTN_1": "Ividiyo",
+  "view": "Buka",
+  "viewmedicalfile": "Buka ifayela lezokwelapha",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Dala i-Office yakho ye-Virtual",
+  "VIRTUAL_OFFICE_TITLE": "I-Virtual Office",
+  "visitdetail": "Chofoza kwento ngayinye ukuze ubone umlando ophelele wesiguli",
+  "visithistory": "Vakashela Umlando",
+  "visitlist": "Uhlu lokuvakashelwa",
+  "VISIT_HISTORY_NO_HISTORY": "Awunazo ukuhambela okwamanje",
+  "VISIT_HISTORY_SUBTITLE": "Chofoza kwento ngayinye ukuze ubone imininingwane egcwele",
+  "VISIT_HISTORY_TITLE": "Vakashela Umlando",
+  "volte": "Izikhathi",
+  "waiting": "Iyacubungula ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Ukufudumala",
+  "WARNING_TITLE_NOTIFICATION": "Ukunakwa",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Idatha yezempilo",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Idatha yezempilo",
+  "WATCH_DEVICE_DATA_TITLE": "Idatha yedatha yakho yokubuka",
+  "water": "Amanzi",
+  "weanedoff": "Unqanyuliwe?",
+  "WEDNESDAY": "NgoLwesithathu",
+  "week": "Iviki",
+  "weight": "Isisindo",
+  "weightUnit": "Isisindo Iyunithi",
+  "welcome": "Siyakwamukela",
+  "wellness": "Ubuhle",
+  "wellnessdata": "Idatha yezempilo",
+  "wellnessSuccess": "Impumelelo",
+  "WHITE_SPACES": "Igama lomsebenzisi akumele libe nezikhala ezimhlophe",
+  "WRIST_CUT_SCREEN": "Shintsha Isikrini Sika Isikrini",
+  "writtenRep": "Umbiko obhaliwe",
+  "W_RESPIRATORY_RATE": "Ukuphefumula",
+  "xray": "X-ray",
+  "Y": "Yebo",
+  "year": "Unyaka",
+  "years": "iminyaka",
+  "yes": "Yebo",
+  "yourarousal": "Ukuvusa kwakho",
+  "youremotion": "Imizwelo yakho",
+  "yourmood": "Umoya wakho",
+  "yourtemper": "Intukuthelo yakho",
+  "yourvalence": "I-valence yakho",
+  "your_sai": "Inkomba yakho yomsebenzi ngu:",
+  "your_sbpi": "Inkomba yakho yegazi yegazi:",
+  "your_sci": "Wena inkomba yezinhliziyo yilezi:",
+  "your_sii": "Inkomba yakho yomshuwalense ikhona",
+  "your_sri": "Inkomba yakho yokuphefumula ngu:",
+  "your_ssi": "Inkomba yakho yokucindezeleka yilezi:",
+  "your_stress": "Izinga lakho lokucindezeleka ngu:",
+  "your_va": "Ubudala bakho bezintathu:",
+  "zero_min": "Manje",
+  "zipCode": "Ikhodi ye-ZIP",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

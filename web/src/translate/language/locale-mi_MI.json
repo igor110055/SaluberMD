@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Mō mātou",
+  "ABOUT_US_CONDITION_1": "Te maama me te pupuhi",
+  "ABOUT_US_CONDITION_2": "Ngā āhuatanga kiri",
+  "ABOUT_US_CONDITION_3": "Nga mate",
+  "ABOUT_US_CONDITION_4": "Tuhinga o mua",
+  "ABOUT_US_CONDITION_5": "Puta Hokona",
+  "ABOUT_US_DOCTOR_BENEFIT1": "TUATAHI MAHI:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Ka taea e koe te kite ake ki te ono nga maimoatanga i te haora (ko te haerenga pai ki te 10 meneti);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "WHAKATOKANGA I TE KAUPAPA KAUPAPA MAI I NGÄ KAUPAPA I TE RUA:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Whakanuia te whanaungatanga maamaa me te kaha ki te atawhai i nga turorotanga o naianei me te hou mai i nga wahi katoa o te ao;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "KAUPAPA I TE KAUPAPA WHAKAMAHI KAUPAPA:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Te whakatipu i to mahi me te tuku atu i nga waahanga mo nga mate;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "MORE PATIENT VISITS:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Ka taea e nga turoro te tuku ki a koe nga tuhinga, nga whakaahua, nga hua o nga mahi me te kore e waiho i te kaainga ka taea e koe te aroturuki i te hauora o to manawanui;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Tautuhia ko wai e hiahia ana i nga ringa ki te tiaki i tenei wa, a ka painga mai i te maimoatanga mamao kaore i mahue i te kainga;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "TUATAHI MAHI:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "MOTU KAUPAPA:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Ko te kaha ki te whakarite i o ake ake haora me te whakarite i to ake waarangi.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Whakauru ki te kaupapa ki te whakarato i te tika, te utu, te uru ki te ao ki te hauora i roto i te 15 meneti iti ranei.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Kua hangaia a Saluber MD hei whakatairanga i nga whanaungatanga a te taote-maamahi ma te hanga 24/7 ki te uru atu ki te hauora huri noa i te ao.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Ratonga Doctor",
+  "ABOUT_US_DOCTOR_TITLE": "Mō mātou",
+  "about_us_section1_p1": "Ko SaluberMD he umanga Hauora Hauora e whakatapua ana ki te whakawhiti i nga ratonga hauora me nga hua hei whakapai ake i nga hua hauora i te ao katoa. To tatou Ratonga Tohu Mamati Mamati, whakarato i te uru ki nga painga hauora me te hauora, nga kaitohutohu rata a te poari, te pepa hauora whaiaro i roto i nga reo 18, ka taea te aroturuki i to hauora, me te uru atu ki te whatunga o nga tohunga hauora me nga ratonga.",
+  "ABOUT_US_SECTION1_TITLE": "Mō mātou",
+  "ABOUT_US_SECTION2_P1": "Na roto i te geo-localization ka kitea e to tatou taupānga te Kaimana pai ki a koe. Ka taea e nga Wānanga o SaluberMD te whakamatautau, te hamani, te matapaki i to mate hauora ma roto i te ataata me te whakarato i tetahi mahere maimoatanga tika. Ko te nuinga o nga tikanga noa ake e mahia ana i te tari o te taote, ka taea te whakahaere i tetahi haerenga ataata. <br/> Ko etahi o nga tikanga e tukuna ana e matou:",
+  "ABOUT_US_SECTION2_P2": "Ko to Pukapuka Tuhituhi Whaiaro he wahi pai ki te penapena i nga raraunga hauora, o nga whakaahua me nga kōnae. Kia mau ki te aroturuki i to hauora me te 24/7 whakauru atu ki nga tuhinga hauora katoa. Ahakoa kei te noho koe i te kainga, kei te haere koe ki waho kei a koe nga korero kei roto i ou ringaringa ki te tuhi me to ngaio ngaio hauora. Ko te ngawari ki te whakamahi i te rekoata whaiaro e wātea ana i nga reo 18.",
+  "ABOUT_US_SECTION2_TITLE": "Pehea e mahi ana?",
+  "ABOUT_US_SECTION3_P1": "Ko te poari runga anake e whakaatuhia ana e nga Whanganui-a-Rohe he atawhai hauora mo SaluberMD. Ka whakamanahia enei tohunga, he nui te whakamahere me te whakangungu ki te whakarato i te atawhai o te kounga teitei. Kei ia Rataha he koiora kei hea e taea ai e koe te tiro i to raatau paanga, toronga, me to wheako. Kei te tino hiahia a SaluberMD ki te whakahaere i te kounga o o tatou Whanui. Ka taea e te mahinga paerewa nga mate ki te huri i nga taakuta me te tiro i nga tatauranga a nga taote.",
+  "ABOUT_US_SECTION3_TITLE": "To tatou taote",
+  "ABOUT_US_TITLE": "Mō mātou",
+  "above_warning": "Ko nga uara kei runga ka pa te mate",
+  "accept": "Whakaae",
+  "acceptablerange": "Te awhe whakaaetia",
+  "ACCEPT_BTN": "Whakaae",
+  "acquire": "Haere raraunga",
+  "acronym": "Akirere",
+  "action": "Mahi",
+  "actions": "Nga mahi",
+  "actionTaken": "Kua Mahihia",
+  "activity": "Mahi",
+  "acutecare": "Tohu Tohu",
+  "add": "New",
+  "addavailability": "Tāpirihia tō wātea",
+  "addcomment": "Tāpirihia tō kōrero ki konei",
+  "adddescription": "Tāpirihia to whakaahua ki konei",
+  "adddrugs": "Rapua he raau taero e whakamahi ana i te pouaka rapu i raro nei ka tohua te pouaka pouaka hei whakapiri atu ki to waitohu",
+  "addedFavourite": "Kua tapiritia angitu ki o koutou makau",
+  "addedFavourite2": "Kua tapiritia angitu ki o koutou makau. patenehia te pātene whakahou hei whakaatu i te reira.",
+  "addedFavourite3": "Kua tapiritia angituhia te  nPuku iho ki te whakaora",
+  "addFavourite": "Tāpirihia ki te Aroha",
+  "ADDING_SLOT": "Te taapiri i nga mokete .... ka roa pea tenei.",
+  "addNew": "Tāpirihia he Hou",
+  "addpharmacies": "Patohia te pihi hei tapiri i o maatau atawhai",
+  "addpharmacy": "Tāpirihia te rongoā",
+  "addreminder": "Patohia te pihikete hei whakauru i to whakamahara o te rongoā.",
+  "address": "Wāhitau",
+  "address2": "Wāhitau tuku",
+  "address3": "Wāhitau mo te ratonga",
+  "addsintomi": "Tāpiri tohu",
+  "addslot": "Tāpirihia te pere",
+  "add_description_file": "Tāpirihia he whakaahuatanga (kaore e whakamana)",
+  "add_new": "Tāpiri",
+  "affaticamento_grave": "Te uaua nui",
+  "affaticamento_minore": "Rauatea iti",
+  "agenda": "Ko taku kaupapa",
+  "agenda_report": "Nga Ripoata Puka",
+  "aggiungi": "Waihanga",
+  "AGREE_BTN": "Whakaae ahau",
+  "alcoholDesc": "Ka mau te waipiro",
+  "all": "Katoa",
+  "alldata": "Katoa Raraunga",
+  "allergia": "Maama",
+  "allergia_aggiunta": "Mahia ana te marearea",
+  "allergia_rimossa": "Mate pai te mate o te Patient",
+  "allergia_salvata": "Kei te pai te whakahou i te mate pāwera o te mate",
+  "allergie": "Nga mate",
+  "allimages": "Katoa Images",
+  "alreadyAddedF": "Kua puta kē tēnei rongoā i roto i ō makau",
+  "alreadyRegistred": "Ko tenei wahitau imeera kua waatea i roto i te punaha. Tena koa takiuru ki te taupānga hei whakarite i to waa whakarite.",
+  "alreadyTaken": "Kua mauhia te whakatau",
+  "alta": "Teitei",
+  "alto": "Teitei",
+  "amonth": "30 Ra",
+  "anger": "Te riri",
+  "annoinizio": "Kua timata te Tau",
+  "antibiotics": "Antibiotics",
+  "an_error_occurred": "Opsops! I tenei wa kaore e taea te whakatika i to tono. Whakamātauria ano i muri mai",
+  "appointment": "Tohu",
+  "appointmentlist": "Whakaritenga Whakarite",
+  "appointments": "Tohua",
+  "appointmentsDescription": "Rārangi o ngā whakaritenga whakarite",
+  "appointment_body_doc": "Kua whakaritea te whakatū hou",
+  "appointment_calcelled_title": "Kua whakakorea te tono",
+  "appointment_cancelled": "Kua whakakorea e ia tana waitohu",
+  "appointment_email_body": "Ka whakapumautia e to maatataka te taote",
+  "appointment_history": "Tohu Whakamana",
+  "appointment_now": "Kua timata to whakatau i tenei wa",
+  "appremainder": "Toenga toenga",
+  "appremainder1": "Kei a koe he ataata ataata i whakaritea i roto i te 5 meneti",
+  "appremainder2": "Kei a koe he ataata ataata i roto i te 30 meneti",
+  "appremainder3": "Kei a koe he ataata ataata i te 120 meneti",
+  "APPROX_DATA": "Ētahi atu Raraunga Hauora",
+  "appuntamenti": "Tohua",
+  "appuntamenti_presi": "Whakaritenga Whakarite",
+  "appuntamento_clinica": "Tonoa te Tohu Hauora",
+  "APPUNTAMENTO_CONGIUNTO": "Kei te hiahia koe ki te tuku i aataataata?",
+  "app_description": "Taapirihia nga take o to tohu i te pouaka i raro nei",
+  "app_details": "Taipitopito tuupapa",
+  "app_missing": "Kāore te taupānga tautoko i te whakauru",
+  "ARIAX": "Raatau Whakatau",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Arousal",
+  "arousalDescription": "He rerekētanga e rere mai ana i te noho humarie, i te ngakau pouri ranei ki te mataara me te ngahau. E hāngai ana ki nga ariā rite rite te taumata o te whakahohe me te whakaongaonga.",
+  "assign_specialist": "Tohua he tohunga ki te tono",
+  "associa": "Hoa",
+  "attachment": "Āpitihanga",
+  "ATTACH_A_PHOTO": "Whakauruhia tetahi whakaahua",
+  "BACKGROUND": "Papamuri",
+  "BACKGROUND_PLCHOLDER": "Tēnā koa whakauruhia he koiora poto.",
+  "backhomeconfirm": "Me haere tonu koe ki te kainga?",
+  "BACK_BTN": "Hoki",
+  "BACK_LOGIN": "Hoki ki te Whakauru",
+  "bad_file": "Kāore e taea te whakatuwhera i te kōnae",
+  "basicinfo": "Mōhiohio Taketake",
+  "bassa": "Raina",
+  "basso": "iti",
+  "below_warning": "Kei te mōrearea te uara o raro iho nei",
+  "benefits": "Hua Painga",
+  "beyondverbal": "Ka peia e nga ngakau nga mea katoa e mahia ana e matou, engari ko te taatai ​​i te waahanga kaore i te whakaari i te waa. I tua atu i te Verbal e tino hiahia ana ki te huri i tera.",
+  "beyondverbal_analyze": "Tātarihia tō āhua",
+  "beyondverbal_history": "Nga hua tawhito",
+  "beyondverbal_instruction": "Ina rite koe ki te whakautu i te pātene tīmata pātene pātai",
+  "BIRTHDATE": "Te whanau",
+  "birthday": "Rangi",
+  "blank_agenda": "Kaore he waahi mo tenei ra",
+  "bloatedOrContipated": "Ngana i te Maamaa ranei",
+  "bluetooth_error": "Whakahohe i te ahumahi i mua i te haere tonu",
+  "BOARD": "Poari Poari",
+  "bones": "Nga pounamu",
+  "bp": "Te Tao toto",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Tepu korero mo nga uara toto",
+  "breakfast": "Parakuihi",
+  "btnback": "Hoki",
+  "btndelete": "Mukua",
+  "btndisabledoctor": "Monokia te taote",
+  "btndisablepatient": "Monokia te manawanui",
+  "btnenabledoctor": "Whakahohea te taote",
+  "btnenablepatient": "Whakahohea te manawanui",
+  "btnsave": "Tiaki",
+  "BTN_LOAD_MORE": "Whakauru atu",
+  "buttonsearch": "Rapua",
+  "bvFailed": "I rahua te tuhi i to reo, me korero koe!",
+  "bvInstruction": "Kati noa te korero mo te 20 hēkona neke atu rānei",
+  "bvInstruction2": "Kati noa te korero mo te 20 hēkona",
+  "ca": "Pūnaha Cardiovascular",
+  "call": "Karanga",
+  "callCancel": "Kaore e taea te whakakore i te karanga kua mate",
+  "calldoctor": "Karangatia te taote",
+  "calling_number": "Karanga Tau",
+  "callthedoctor": "Karangahia te Tohu",
+  "calltransfer": "Ko te karanga whakawhiti ...",
+  "CALL_ALREADY_TAKEN": "Kua karangatia kua karanga",
+  "CALL_DOCTOR_INFO": "Whakaakenga Toi",
+  "CALL_DURATION": "Waea karanga",
+  "call_instruction": "Ka tukuna atu e matou he whakamōhiotanga ki a koe ka taea e koe te karanga i te rata. Patohia te whakamōhiotanga ina whiwhi koe ki te tīmata i te videocalll. Mena ka mukua e koe nga whakamohiotanga, ka taea e koe te tiki i te waahanga whakamohio i raro i taku tohu hauora.",
+  "CALL_NOTIFICATIONS": "Waea Waea",
+  "CALL_NO_INCOMING": "Karekau he piiraa taumai",
+  "CALL_TRANSFER_INFO": "Mōhiohio whakawhitinga karanga",
+  "CALL_WAITING": "Tatari koa ka rapuhia e matou he taakete",
+  "CALL_WAITING_2": "Taria koa ka tirohia e to taakuta to papa",
+  "calories": "Calories",
+  "cancel": "Whakakore",
+  "cancelAppointment": "Whakakore i tenei waitohu",
+  "CANCEL_BTN": "Whakakore",
+  "CAP": "Zip Zip",
+  "cardiac_output": "Te putanga o te Cardiac",
+  "cardiac_output1": "Te putanga o te Cardiac",
+  "cardiac_output_desc": "Ko te putanga o te ngakau pukupuku ko te nui o te toto i pupuhihia e te ngakau i te meneti.",
+  "cardiovascular": "Cardiovascular",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "CVC muhu",
+  "CARD_EXPIRY_DATE": "Rā Whakamutunga",
+  "CARD_MONTH_ERROR": "Ko te marama muhu",
+  "CARD_NUMBER": "Tau nama",
+  "CARD_NUMBER_ERROR": "Tau Uara muhu",
+  "CARD_YEAR_ERROR": "Tau muhu",
+  "category": "Kāwai",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "Hiahiatia CCV",
+  "CERROR": "Poor Whakapā",
+  "certificate_attachment": "Ka uru atu ki to tiwhikete rongoa",
+  "certificate_email": "Ka uru atu ki to tohu hauora",
+  "certificate_header": "I runga i te kaupapa o te aromatawai rongoa e whakahaerehia ana, e whai ake nei:",
+  "certificate_sent": "Tiwhikete Tukuna",
+  "certification_subject": "To tiwhikete hauora",
+  "cf": "Tikanga Moni",
+  "cf_error": "Tena, tautuhi i to waehere moni",
+  "changeschedule": "Whakakitia te wa",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Kua pau to kupuhipa, me hurihia.",
+  "CHANGE_PWD_SECTION_TITLE": "Huria te kupuhipa",
+  "CHANGE_PWD_TITLE": "Ka mutu to kupuhipa, ka hurihia",
+  "checking_net_condition": "Te tirotiro i te hononga Ipurangi ...",
+  "CHECK_PARAMETERS_CORX": "Tena, whakauruhia te taimaha me te teitei i runga i te waahanga waahanga hei tautuhi i nga uara pai.",
+  "CHL_TOT": "Tapeke Cholesterol",
+  "choosedate": "Kōwhiria he ra",
+  "chooseDateDescription": "Pāwhiritia te ra hei whakawhānui ake, ka whiriwhiri i te haora",
+  "chooseprofile": "Koe koe?",
+  "choosespeciality": "Kōwhiritia te Tohuora Motuhake",
+  "choosetransferdoctor": "Kōwhiria he tākuta",
+  "CHOOSE_A_DOCTOR": "Kōwhiritia tō ake tākuta",
+  "chosedoctor": "Tena, whiriwhiri i te taote",
+  "city": "City",
+  "city1": "City",
+  "city2": "City",
+  "clearsignature": "Mukua te waitohu",
+  "clickitem": "Patohia i ia mea hei kite i nga taipitopito katoa",
+  "clickrow": "Pāwhiritia te rarangi hei whiriwhiri",
+  "clickToOpen": "Patohia kia tuwhera te konae",
+  "click_to_start_call": "Patohia he taakuta hei tiimata i te karanga",
+  "clinics": "Nga Hinengaro",
+  "CLOCK_FORMAT": "Whakahōputu Whee",
+  "closeappconfirm": "Me tino kati te taupānga?",
+  "CLOSE_BTN": "Katia",
+  "cm": "cm",
+  "CODE": "Waehere",
+  "code_not_valid": "Ko te waehere waehere he whaimana",
+  "code_verified": "Kua whakamanahia te waehere!",
+  "coffeeDesc": "Ka kohia te kawhe",
+  "COMMENT": "kōrero",
+  "commenti": "Ko nga korero",
+  "COMPANY_NAME": "Kamupene",
+  "COMPLAIN": "Whakawakia",
+  "COMPLETE_PROFILE": "Whakaotia to korero i mua i te haere tonu",
+  "COMPLETE_PROFILE_TITLE": "Tena koa whakaoti i to tohu",
+  "complications": "Ngā uaua",
+  "concernlist": "Tēnā koa tautuhi i to painga / āwangawanga matua",
+  "CONFIRM": "Ok",
+  "confirm_app": "Whakaū o to whakarite",
+  "CONFIRM_EMAIL_TITLE": "Whakaae i te Īmēra",
+  "CONFIRM_PWD": "Whakaae i te kupuhipa",
+  "connect": "Patohia te pātene hono kia hono ai te pūrere",
+  "connectbtn": "Hono",
+  "connectedto": "Kua hono atu ki",
+  "connecting": "Hono ana ... Taria koa",
+  "connection_progress": "Hono ana ki te pūrere ...",
+  "CONSULT": "Whakawakia",
+  "consult1": "Whakaaro",
+  "consultation": "Whakawhitiwhiti whakaaro",
+  "consultationHistory": "Mahere Whakawhitiwhiti",
+  "contact": "Whakapā",
+  "CONTACT_US_BTN": "Whakapā mai",
+  "CONTACT_US_SECTION_TITLE": "Tena koa ki te whakapiri mai ki a maatau ki tetahi uiui, ki te awhina ranei ma te whakamahi i te taupānga.",
+  "CONTACT_US_TITLE": "Whakapā mai",
+  "contatti": "Whakaatu Whakawhiti",
+  "continue": "Haere tonu",
+  "copy_url": "Tāruatia url",
+  "CORX": "ECG",
+  "corxDidFailEcg": "Hapa whiwhi EKG",
+  "corxDidFailWellness": "Hapa ki te whiwhi raraunga pai",
+  "corxDidNoEcg": "Kaore he raraunga EKG",
+  "corxDidNoWellness": "Kaore he raraunga hauora",
+  "CORX_DATA": "Raraunga CorX",
+  "corx_disconnected": "Kua momotuhia a Corx",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Tena koa, tautuhi koe i te taimaha me te teitei i roto i te kaitaha ki te tautuhi tika i nga tawhito o te puna.",
+  "COUNTRY": "Whenua",
+  "country1": "Whenua",
+  "county": "County",
+  "co_alta": "nui atu i te 8 L / min",
+  "co_bassa": "iti iho i te 4 L / min",
+  "co_normale": "i waenga i te 4 me te 8 L / min",
+  "creditCard_selected": "Ka utua te kaari kua whakaritea mo tenei mahi",
+  "currency": "Moni",
+  "C_SPECIALTY": "Rawa ahurei",
+  "dailyuse": "Whakamahia i ia ra",
+  "dashboardVideocall": "Pouaka Ataata Videocall",
+  "dataerror": "Ko te ra / wa i whiriwhiria e koe kua pahemo i te ra / wa oianei",
+  "dataexists": "Kua whakaritea he waahanga me te wa i whakaritea me te wa",
+  "datafetching": "Te tiki i ō raraunga whaiaro ... Taria koa.",
+  "dataPrenotazione": "Ko te rarangi tuhi",
+  "dataVaccinazione": "Rā o te Mate Mate",
+  "date": "Rā",
+  "dateDiscovered": "Rā i Paarahia",
+  "dateStart": "Rā Tīmatanga",
+  "datipersonali": "Mōhiohio Whaiaro",
+  "datiScaricati": "Kua Tikiakehia nga Raraunga",
+  "day": "Ra",
+  "deassociate_corx_alert": "Kei te hiahia koe ki te tuhono i te Corx?",
+  "decline": "Tuhinga",
+  "DECLINE_BTN": "Tuhinga",
+  "DEEP_SLEEP_TIME": "Te moe nui",
+  "defaultQuestion": "Tīmatahia te tīmatanga me te korero mai ki a matou he aha o koutou ahua i tenei ra",
+  "delete": "Mukua",
+  "deleteAlarm": "Mukua tenei whakaoho?",
+  "deleteAppointment": "Kei te hiahia koe ki te whakakore i te waitohu?",
+  "deleteDescription": "Ka mukua tonu.",
+  "deleteMessage": "Kei te hiahia koe ki te muku i tenei?",
+  "deleteMultipleDesctiption": "Te maha o te mokowhiti ka mukua:",
+  "deleteNumber": "Kei te hiahia koe kia mukua tenei Tau?",
+  "deleteSlotDay": "Ka muku i te here katoa i tenei ra",
+  "deleteSlotMonth": "Kapeke i nga here katoa i tenei marama",
+  "deleteSlotWeek": "Ka muku i te here katoa i tenei wiki",
+  "deletevalue_q": "Kei te hiahia koe ki te muku i te uara?",
+  "DELETE_NOTIFICATION_MSG": "Kei te hiahia koe ki te whakakore i nga panui o mua?",
+  "demo": "He tohu tenei, kaore he moni e utua.",
+  "dependencies": "Ngā taunga",
+  "description": "Whakaahuatanga",
+  "descriptionMandatory": "Tena, tautuhi i te whakaahua",
+  "deseaseCategory": "Aukati mate",
+  "desirable": "He pai",
+  "dettagli": "Nga taipitopito",
+  "dettaglio_struttura": "Te taipitopito o te hanganga",
+  "device": "Pūrere",
+  "devicefound": "Kua kitea te Pūrere",
+  "devices": "Pūrere",
+  "devicetype": "Momo Pūrere",
+  "DEVICE_BLOOD_PRESSURE": "Te pati toto",
+  "DEVICE_CALORIES": "Ka wera nga Calories",
+  "DEVICE_CARDIAC": "Te aroturuki Cardiac",
+  "DEVICE_CHL": "Ngakaputa Lipidic",
+  "DEVICE_DATA_SECTION_TITLE": "Ko to raraunga pūrere hauora",
+  "DEVICE_DATA_TITLE": "Raraunga Pūrere",
+  "DEVICE_DATA_TITLE_1": "Raraunga Pūrere",
+  "DEVICE_EKG": "ECG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Whakangungu Toi",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glucometer",
+  "DEVICE_HEART_RATE": "Ko te Heart Rate",
+  "DEVICE_PEDOMETER": "Patohanga",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Nga wahanga rewharewha",
+  "DEVICE_SPO2": "Spo2",
+  "DEVICE_TEMPERATURE": "Temperature",
+  "DIAGNOSIS": "Te whakamātautau",
+  "diastolic": "Te Diastolic",
+  "dieci": "Nga waahanga whakamutunga 10",
+  "diet": "Kai Kai",
+  "digestion": "Nga raru o te digestion",
+  "dinner": "Kai hakari",
+  "dipendenza": "Te hiahia",
+  "disableAlarm": "Kua whakahohea te whakaoho",
+  "disabled": "Nga umanga",
+  "DISABLE_PANIC_BUTTON": "Whakahohe Panuku Panui",
+  "DISABLE_PUNIC_BUTTON": "Monokia te Pouaka Punic",
+  "disconnectall": "Tautuhi Tuimotu",
+  "disconnectbtn": "Momotu",
+  "DISDICI": "Whakakore",
+  "disease": "Mate mate",
+  "diseasemanagement": "Whakahaere Maama",
+  "diseases": "Nga mate",
+  "disease_1": "Mate",
+  "dissocia": "Whakamatea",
+  "DISTANCE": "Te tawhiti",
+  "dm_section_description_1": "I konei ka taea e koe te hono atu i au kōnae",
+  "DND": "Kaua e Ngau",
+  "DOCEMAIL": "Toiora Īmēra",
+  "DOCNAME": "Ingoa o te Taimana",
+  "DOCPHONE": "Tau Waea Taimana",
+  "DOCTOR": "Doctor",
+  "doctor1": "Doctor",
+  "doctorAtHome": "Doctor i te Home",
+  "doctorAtHomeQuestion1": "E hiahia ana ahau ki te awhina i te whare mo:",
+  "doctorAtHomeQuestion2": "Kōwhiritia te āwhina a te kāinga e hiahia ana koe",
+  "doctorAtHomeQuestion2Answer1": "Nga Mahi Whānui",
+  "doctorAtHomeQuestion2Answer2": "Pediatric",
+  "doctorAtHomeQuestion2Answer3": "Nurse",
+  "doctorAtHomeQuestion3": "Tautuhia te take e hiahia ana koe ki te whiwhi awhina",
+  "doctorAtHomeQuestion4": "Whakaratohia i te puka i raro i te wāhitau e hiahia ana koe ki te whiwhi āwhina",
+  "doctorAtHomeRequestBtn": "Tukua te tono",
+  "doctorAtHomeRequestSuccess": "Kua riro mai ta matou tono. Ka whakapä atu koe ki te 2 haora ki te whakarite i te ratonga whare",
+  "doctorAtHomeTitle": "Doctor i te Home",
+  "doctorbusy": "Kei te mahi a te kaimana i tetahi atu karangatanga",
+  "doctorbusy1": "Kei te pukumahi te taakuta i tetahi atu piiraa",
+  "doctorlist": "Rārangi Doctors",
+  "doctormanagement": "Te whakahaere a nga kaitautoko",
+  "doctoroffline": "Kei te tuimotu te taakuta, ka tukuna",
+  "doctorupdate": "Doctor",
+  "DOCTOR_PROFILE_OPT1": "Profile",
+  "DOCTOR_PROFILE_OPT2": "Tirohanga Hītori Tino",
+  "DOCTOR_PROFILE_OPT3": "Whakaaetia he hoa mahi",
+  "DOCTOR_PROFILE_SECTION1": "To tohu",
+  "DOCTOR_PROFILE_TITLE": "Profile",
+  "doctor_request_sent": "Kua tukuna e matou to tono ki o matou taakuta. Ka whiwhi koe i tetahi whakautu i roto i te rua meneti.",
+  "documents": "Tuhinga",
+  "DOCUMENT_BTN": "Tuhinga",
+  "doestake": "Kua tangohia e koe",
+  "DONATION_TITLE": "Whakaaehia te takoha",
+  "done": "He pai te tikiake i nga raraunga Trackx. Ka kitea e koe i raro i te waahanga raraunga pai",
+  "doneAppointmentPatient": "Nga Whakataunga o mua",
+  "DONE_BTN": "Kua oti",
+  "dontknow": "Kaore ahau e mahara",
+  "DORMIVEGLIA": "Tuhinga o mua",
+  "dosage": "Tuhinga",
+  "dosetake1": "Kua mau koe ki a koe maimoatanga?",
+  "dottore_rimosso": "Ka angitu te whakahou i te mana o te kaimana",
+  "dottore_salvato": "He pai te whakahou i te rata",
+  "download": "Tikiake",
+  "downloadaspdf": "Tikiake hei PDF",
+  "downloadecg": "Tikiake ECG",
+  "DOWNLOADING_DEVICE_DATA": "Kei te tikiake ...",
+  "downloadwellnessdata": "Te tikiake raraunga pai ...",
+  "downloadWellnessResult": "ine tapiri",
+  "DOWNLOAD_CERTIFICATE": "Tangohia te tiwhikete",
+  "DOWNLOAD_ERROR_GENERIC": "Tuhinga. I puta tetahi erro i te wa e ngana ana ki te tiki i te kōnae. Tena koa, ngana ano i muri mai.",
+  "DOWNLOAD_SO_REPORT": "Tikiake Whakahaere",
+  "DO_NOT_DISTURB": "Kaua e raruraru",
+  "drugsAtHome": "Nga Toro ki te Whare",
+  "drugsAtHomeQuestion1": "Kei te hiahia koe ki te tango i nga raau taero i tautuhia e to taakuta ki te kainga?",
+  "drugsAtHomeRequestBtn": "Tukua te tono",
+  "drugsAtHomeRequestSuccess": "Kua riro mai ta matou tono. Ka tukuna nga raau taero i roto i nga haora 24",
+  "drugsAtHomeSection1": "Whakarato i te puka i raro i te tau waea me te waahi e hiahia ana koe ki te tango i nga raau taero.",
+  "drugsAtHomeTitle": "Nga Toro ki te Whare",
+  "drug_name": "Ingoa Drug",
+  "duration": "Te roa",
+  "ecg": "ECG",
+  "ecgadded": "I angitu te whakauru o te ECG ki te rarangi",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "EKG raraunga",
+  "ecgdetail": "Patohia i ia mea kia kite i te ahua o te ECG",
+  "ECG_DELETE_Q": "Kei te hiahia koe kia mukua te EKG?",
+  "ecg_not_found": "Kōnae Whakatika ECG kāore i te tika, whakamātauria tetahi atu whakahekenga.",
+  "ECG_REMOVED": "Kua mukua a EKG",
+  "edit": "Whakatika",
+  "EKG_SECTION_TITLE": "Electrocardiogram (EKG / ECG) Hua",
+  "EKG_TITLE": "EKG Tukuna",
+  "EMAIL": "Īmēra",
+  "email1": "Īmēra",
+  "email_do_not_match": "Kaore nga īmēra e ōrite",
+  "ematicTest": "Whakamatau Ngaro",
+  "Emergency": "Whakaatuhia te Pa ohorere",
+  "emergency1": "Te mate",
+  "emergencyLoginCode": "Waehere Uru Uru",
+  "emergency_numbers": "Nama Tauira",
+  "emergency_number_description": "Tāpirihia nga tau waea ki te karanga i roto i te take o te urupare",
+  "emotionDescription": "He huinga o nga ahuatanga taketake, e whakaatuhia ana e te reo kaiwhakamahi i roto i te waahanga reo kua tautuhia.",
+  "emotions": "Ko nga Whakaaetanga Whakauru",
+  "emptypassword": "Tena, tautuhi i te kupuhipa",
+  "EMPTY_ALLERGIES": "Patohia te pihi hei whakapiri atu i tetahi mate ki to reta hauora",
+  "empty_dataset": "Kaore he raraunga",
+  "EMPTY_DEPENDENCIES": "Patohia te pihi hei whakapiri i te whakawhirinaki ki to reta hauora",
+  "EMPTY_DISEASE": "Patohia te pihi hei whakapiri atu i tetahi mate ki to reta hauora",
+  "EMPTY_DOCUMENTS": "Patohia te pihi hei whakapiri i tetahi tuhinga ki to reta hauora",
+  "EMPTY_IMAGES": "Patohia te pihi hei tapiri i tetahi ahua ki to reta rongoa",
+  "EMPTY_IMMUNIZATION": "Patohia te pihi hei whakapiri atu i te kano ārai mate ki tō tuhinga hauora",
+  "EMPTY_MEDICATION": "Patohia te pihi hei whakapiri atu i tetahi rongoā ki o reta hauora",
+  "empty_otp": "Waehere OTP muhu",
+  "EMPTY_PROSTHESIS": "Patohia te pihi hei whakapiri i tetahi tohu ki to reta hauora",
+  "EMPTY_TESTS": "Patohia te pihi hei tapiri i tetahi whakamatautau ki to tuhi hauora",
+  "enabled": "Kua whakahohe",
+  "endate": "Ki",
+  "endcall": "Whakamutua te karanga",
+  "endDate": "Rā Whakamutunga",
+  "endhour": "Waa Whakamutunga",
+  "end_time": "Waa Whakamutunga",
+  "END_VIDEOCALL_Q1": "Kei te hiahia koe ki te mutu i te whakawhitiwhiti korero me te kore e timata i te videocall?",
+  "END_VISIT_BTN": "Whakamutua te haerenga",
+  "error": "Hapa",
+  "error_call_timeout": "Kua pau te wa ki te hanga i te videocall. Ki te hanga i te videocall, te tukurua ano i te tukanga.",
+  "ERROR_EMAIL_DUPPLICATE": "Kei te ahua ano kua rehitatia tenei wāhitau īmēra. Ngana me tetahi atu.",
+  "error_price": "Tena, tohua he utu",
+  "ERROR_SPECIFY_DAYS": "Tena koa, whakapuaki i te ra kotahi wiki",
+  "ERROR_SPECIFY_HOUR": "Tena, tautuhi i te wa",
+  "ERROR_TITLE_NOTIFICATION": "Hapa",
+  "ERROR_TRACKX": "Tahuri Trackx",
+  "error_update": "Hapa e Whakahōu Ana i te Waea",
+  "ERROR_USERNAME_DUPPLICATE": "Kua tangohia tenei ingoa kaiwhakamahi, whiriwhiria tetahi atu",
+  "ERROR_WHITELIST": "Aroha, kaore to taputapu kia taea ki te mahi i te whakaata",
+  "esameobbligatorio": "Koa, tīpakohia he Exam",
+  "exam_name": "Ingoa Whakamātautau",
+  "exercise": "Mahi",
+  "exercisereminders": "Ko aku Whakamahara Mahi",
+  "existentassoc": "Nga huihuinga o mua",
+  "existentrelation": "Kua tīariari tēnei whanaungatanga",
+  "expandfordetails": "Whakawhānuihia mo etahi atu taipitopito",
+  "EXP_MONTH": "Marama Puta",
+  "EXP_MONTH_REQUIRED": "Huringa marama e hiahiatia ana",
+  "EXP_YEAR": "Tau Whakamutunga",
+  "EXP_YEAR_REQUIRED": "Ka pau te tau e hiahiatia ana",
+  "e_prescribing": "E-Whakatikatika",
+  "F": "Wahine",
+  "farmaci": "Nga rongoā",
+  "farmaco": "Maimoatanga",
+  "fat": "Hua",
+  "FATIGUE_INDEX": "Te uaua",
+  "FATIGUE_INDEX_DESCRIPTION": "Te mahi, te mahi me te wheako i puta mai i te tohu o te ngoikoretanga. Ko te ngoikoretanga nui ka arahina ki te pupuhiwi o te uaua pakeke, te mate pukupuku, te hiamoe, te ngoikore, te mamae mamae, me te ngawari ki te arahi i te pūnaha pupuhi, te mamae o te endocrin, te hua o te tini o nga mate kaore i te mate me te ngoikore o te hinengaro.",
+  "favoriteslist": "Rārangi Makau Makau",
+  "FAVORITES_NO": "Kaore ano koe i tapiritia etahi taakete ki to rarangi manakohanga ano",
+  "FAVORITES_NO_PHARMACIES": "Kaore koe i tapiritia tetahi rongoā ki to rarangi manakohanga ano",
+  "FAVORITES_SECTION_SUBTITLE": "Patohia i ia mea hei kite i nga taipitopito katoa",
+  "FAVORITES_SECTION_TITLE": "Ko o koutou kaitohutohu pai",
+  "FAVORITES_TITLE": "Makau",
+  "favourite_pharmacy": "Nga Pakihi Aroha",
+  "FEE": "Whakahaere utu",
+  "FEET": "waewae",
+  "female": "Wahine",
+  "fileloaded": "Kua utaina te pee",
+  "fileloaded1": "I Tukuakehia te Tukuna Ake",
+  "fileName": "Ingoa Kōnae",
+  "filenotfound": "Kāore i kitea te kōnae",
+  "file_upload_instruction": "Tukuake te ako",
+  "filldate": "Koa, whiriwhirihia he ra",
+  "filldoctor": "Tena, whiriwhiri i te taote",
+  "fillpeciality": "Tena, whiriwhirihia he motuhake",
+  "fillthebox": "Whakakiia te pouaka",
+  "fill_indication": "Tena, whakakiia te tohu tohu",
+  "fill_indication_for": "Whakaritea koa te tohu mo te",
+  "fill_quantity": "Tena, whakakiia te rahinga rahinga",
+  "fill_quantity_for": "Whakaritea koa te nui mo te",
+  "fill_your_doubt": "Tena koa, whakarato he whakaahuatanga kei roto i te pouaka i runga nei.",
+  "filter": "Tātari",
+  "finddoctor": "Kimihia nga taote",
+  "findFarmacia": "Rapua Te Toi",
+  "findpatient": "Kimihia te manawanui",
+  "findspcialist": "Rapua tetahi tohunga",
+  "findStruttura": "Rapu Rapu",
+  "finduser": "Rapua te kaiwhakamahi",
+  "FIND_A_DOCTOR": "Hono atu ki te taote",
+  "find_device": "Kimihia te Pūrere",
+  "FIND_THE_BRACELET": "Kimihia te Paa",
+  "fingerprint_btn": "Whakahohe i te takiuru taputapu",
+  "fingerprint_hint": "Whakaaetia te tohuwaewae kia haere tonu",
+  "fingerprint_hint2": "Whakaaetia te tohuwaewae kia haere tonu",
+  "fingerprint_question": "Kei te hiahia koe ki te whakahohe i te tohu motuhake?",
+  "FIRMWARE_UPDATE": "Whakahoutanga Maama",
+  "FIRMWARE_UPDATED": "Kua whakahoutia te Maama",
+  "firstName": "Ingoa Tuatahi",
+  "five_min": "I roto i te 5 meneti",
+  "fixappointment": "Kei te hiahia koe ki te whakarite i tenei waitohu?",
+  "forever": "Motuhake",
+  "forgotPassword": "Ka wareware i to kupu huna?",
+  "forgot_password": "Wareware Kupuhipa?",
+  "forma": "Momo",
+  "formafarmaco": "Puka Tohu",
+  "formatError": "Ko te utu me utu nui.",
+  "found_devices": "Nga taputapu kua kitea",
+  "FRIDAY": "Paraire",
+  "GENDER": "Ira",
+  "gender1": "Ira",
+  "general": "General",
+  "generalInfo": "General info",
+  "genericName": "Ingoa Whānui",
+  "GENERIC_ERROR": "OOps! I hapa tetahi mea. Tena koa, ngana ano i muri mai",
+  "geneticTest": "Te whakamātautau ira",
+  "geneticTestHeader2": "Na roto i nga whakamātautau ira ka taea e koe te kite atu i to hauora me te mahi i te mea tika ki te noho hauora.",
+  "geneticTestHeader3": "Pehea e mahi ana",
+  "geneticTestProduct": "Te Tohu Kairangi",
+  "geneticTestRequestBtn": "Inoi mo te whakamatautau",
+  "geneticTestRequestSuccess": "Kua whakapumautia to tono. Ka whiwhi koe i te kete ki te kainga",
+  "geneticTestSection1": "Kei te hiahia koe inaianei ki te maakaa e koe te kai mo te tinana me o taau taapenga?",
+  "geneticTestSection2": "Kei te hiahia koe ki te mohio mehemea kaore te kai hauora e pai ki to tinana kia kaua e pangia te mate pukupuku?",
+  "geneticTestSection3": "Ko te whakamatautau tipu ka mohio koe ki te hononga i waenganui i to DNA me te kai.",
+  "geneticTestSection4": "Tāpirihia ki konei tō nama waea me te wāhitau e hiahia ana koe ki te tiki i te kete",
+  "geneticTestStep1": "1. Tonohia to whakamatautau",
+  "geneticTestStep1Subtitle": "Whakaritehia to tono me te taupānga, ka whiwhi tonu i te kete ki te kainga.",
+  "geneticTestStep2Subtitle": "Tangohia te tauira me te tuku ia matou ma te ratonga kaute ma te whakamahi i te peehi ka hoatu e matou ki a koe.",
+  "geneticTestStep3": "3. Kawea nga hua",
+  "geneticTestStep3Subtitle": "I muri i te wiki ka whiwhi koe i tetahi karere ka whakamohio atu ki a koe ka puta nga hua o te whakamatautau ira i runga i te App.",
+  "geneticTestTitle": "Te whakamātautau ira",
+  "GLUCOMETER": "Whakaweto",
+  "glucosio": "Glucose",
+  "HAND_BRIGHTEN": "Whakaarahia to ringa ki a Brighten",
+  "happiness": "Te oaoa",
+  "HDL": "HDL Cholesterol",
+  "hdl_cholesterol_desc": "Ko te kohinga lipoprotein nui-teitei (HDL) e mohiotia ana ko te cholesterol pai &#39;pai&#39;. Ko te ripanga e whai ake nei e whakaatu ana i te whānuitanga o nga uara.",
+  "healthtips": "Hauora",
+  "HEALTH_INDEX": "Hauora",
+  "HEALTH_INDEX_DESCRIPTION": "Ko te tohu o te hauora HRV ko te whakamahinga o te toharite toharite o te ngakau HR me te rerekētanga o te ngakau HRV me etahi atu taapiri, i runga i te waahanga o nga hua o Holter hei whakamatautau i nga tawhito hauora o te tinana, kua piki te taurangi hauora, hei tohu i te hauora o te tinana pai; kua heke iho te taurangi hauora, mo te tinana Me whai whakaaro ki te ora hauora i ia ra.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Heart",
+  "HEART_INDEX_DESCRIPTION": "Mahinga Kapihi Ka whakamahia e nga kaiwhakamahi te mana o te tangata, ka rere ke atu to raatau mahi ki te ngakau me te mana hauora katoa. Te whakawhanake i te oranga hauora me nga tikanga kai: he rautaki whaitake hei whakapiki i te ngakau ki te kaha i te taputapu konupūmā konutai, hei tiaki i nga oko toto, ka kaha te ārai i te mate o te mate pukupuku, ko te whakapakari i te rautaki mahi hinengaro.",
+  "height": "Teitei",
+  "height1": "Ko te tiketike e hiahiatia ana mo te tatauranga tika o te BMI",
+  "heightUnit": "Te Wahanga Teitei",
+  "hepaticFunction": "Mahinga Hepatic",
+  "hide": "Huna",
+  "high1": "Teitei",
+  "high_risk": "Te raru nui",
+  "history": "Mahere Whakawhitiwhiti",
+  "homepage": "Home",
+  "HOME_WARNING_MESSAGE": "Kei te hiahia koe kia neke atu i tenei wharangi? Ka ngaro to huringa.",
+  "hormonalTest": "Whakamatau Function Hormalal",
+  "hospDate": "Hosp.date",
+  "hospit": "Tuhinga o mua",
+  "hospital": "Hospital",
+  "hospitalization": "Nga hauora",
+  "hour": "Awa",
+  "hours": "Ngā haora",
+  "HOURS_BANK_DONATE_BTN": "Homai",
+  "HOURS_BANK_DONATION": "Nga wa e homai ana:",
+  "HOURS_BANK_H": "Te Peke Moni:",
+  "HOURS_BANK_SECTION_P1": "Ko te hauora to tatou kaupapa matua ki SaluberMD me te hiahia ki te mahi i te tini o nga tangata ka taea. Na roto i to maatau kaupapa ka taea e te hunga e hiahia ana kia uru atu ki te hauora. Kei te kaha to maatau taangata ki te whakarato i nga huarahi hauora ki nga umanga, ki nga takitahi me nga hapu kei te matea.",
+  "HOURS_BANK_SECTION_P2": "Pato noa i te hono me te maha o nga haora e hiahia ana koe ki te tuku, a ka tapiritia e matou ki ta matou putea.",
+  "HOURS_BANK_SECTION_P3": "Ka whakapā atu mātou ki a koe mā te taupānga hei utu i nga haora me te wa e wātea ana koe ki te whakaae ki te kite i nga mate.",
+  "HOURS_BANK_SECTION_TITLE": "Whakauru mai ki a matou ki te hoatu i te taonga o te hauora!",
+  "HOURS_BANK_TITLE": "Pauna Hoko",
+  "howto": "Pehea ki",
+  "howto1": "Ka tohua nga toenga e wātea ana ki te porowhita matomato",
+  "howto2": "Tīpakohia he pūtau me te pōro matomato me te pāwhiri ki te whakawhānui me te whiriwhiri i te wa. A, ka rite koe ki te tohu pereki kia kite i te taipitopito me te tango i te waitohu",
+  "howToPrice": "Ko te utu me uara tatau. I te nuinga o nga wahanga e rua e whakaaetia ana. Ka taea te whakamahi i nga ira ko te koma ranei",
+  "hrv_buono": "Pai",
+  "hrv_eccellente": "He pai",
+  "hrv_generale": "General",
+  "hr_alta": "Nui atu i te 100",
+  "hr_bassa": "He iti iho i te 60",
+  "HR_DESCRIPTION": "Tepu tohutoro mo nga rerenga o te hinengaro noa",
+  "HR_INTERVAL": "Te Whakaritea Whakararu Hauora",
+  "hr_normale": "I waenga i te 60 me te 100",
+  "hsh": "Nga Mahi Hauora me te Mahinga Tuku",
+  "IBAN": "IBAN",
+  "idx": "Ngā Tauira",
+  "image": "Atahanga",
+  "images": "Ngā whakaahua",
+  "immunization": "Te kano ārai mate",
+  "immunizationmenu": "Te kano ārai mate",
+  "importhealth": "Kawemai Nga Raraunga Hauora",
+  "impossible_transfer": "Kāore e taea te tuku i te piiraa",
+  "INCH": "Inch",
+  "indexes": "Ngā Tauira",
+  "indication": "Whakaatu",
+  "INFO_BTN": "Mōhiohio",
+  "info_salvate": "Kua ora te raraunga",
+  "iniezione": "Injection",
+  "initiative": "Kaupapa",
+  "initiativeerror": "Tena koa, whiriwhiri tetahi kaupapa",
+  "insert": "Kōkuhua",
+  "inserttext": "Kōkuhu kuputuhi ki konei",
+  "insert_otp_code": "Whakauruhia te waehere konei",
+  "internet_missing": "Kaore koe i hono ki te ipurangi",
+  "invalidemail": "Wāhitau īmēra muhu",
+  "invoice": "Tuhinga",
+  "irregulartest": "He Whakamātautau Kore",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Whakamatau Ngakau Puka Mate",
+  "labtesting": "Whatunga",
+  "LANGUAGE": "Reo",
+  "LANGUAGE_TYPE": "Reo",
+  "lastmeasure": "Te mehua whakamutunga",
+  "lastName": "Ingoa Whakamutunga",
+  "lastPhysical": "Te Whakanuia o te Ao",
+  "lastSync": "Tukutahi Mutunga",
+  "lastTimeOnline": "Te Wā Whakamutunga Online",
+  "lastvisit": "Ko te haerenga whakamutunga",
+  "last_login_date": "Rangi Whakamutunga",
+  "last_time_taken": "Te waa i tangohia",
+  "LDL": "LDL Cholesterol",
+  "ldl_cholesterol_desc": "Ko te LDL, ko te lipoprotein iti-te kaha, ko te cholesterol &#39;kino&#39;. Ko te ripanga e whai ake nei e whakaatu ana i te whānuitanga o nga uara",
+  "leggero": "Maama",
+  "LICENSE_NUMBER": "Tau nama",
+  "LIGHT_SLEEP_TIME": "Te moe moe",
+  "listcall": "Rārangi o te videocall kua oti",
+  "litri": "Tuhinga",
+  "liverExam": "Whakamatau Function Liver",
+  "LIVE_ECG": "Te ine hou",
+  "live_ecg_downloading": "Te tikiake i te ECG. Tatari koa ...",
+  "loadEcgList": "Whakamahia te rārangi EKG ...",
+  "loading": "Ko te tukatuka raraunga ...",
+  "loading1": "Kohikohi ...",
+  "loading_list": "Rārangi Mahi ...",
+  "loading_list_nutritionist": "Te whakamahi i nga kairanga kai ...",
+  "LOAD_INDEX": "Te uta",
+  "LOAD_INDEX_DESCRIPTION": "Te toenga me te kaha, te ahotea Ko te whakaaro nui o te tinana ki te kawe i te taurangi utu, te whakaata i nga āhuatanga o te tinana me te hinengaro o te iwi e mau ana i te mahi kawenga. Ko te hapori, te ora me te whakataetae me etahi atu mea, engari na to raatau ake aa-tinana me te taangata hinengaro.",
+  "LOAD_ITEMS": "Kohikohi ...",
+  "LOGGING_IN": "Te takiuru i roto i ...",
+  "LOGGING_OUT": "Takiuru ...",
+  "LOGIN_BTN": "Takiuru",
+  "LOGIN_ERROR": "Ingoa Kaiwhakamahi Hapa ranei Kupuhipa",
+  "Logout": "Whakaaturanga",
+  "logout1": "Whakaaturanga",
+  "LOGOUT_BTN": "Whakaaturanga",
+  "low1": "Raina",
+  "lunch": "Kaikai",
+  "lungtest": "Me mahi he whakamatautau kiri",
+  "M": "Te tane",
+  "male": "Te tane",
+  "manageapp": "Whakahaerehia nga whakaritenga",
+  "manageslot": "Whakahaerehia te mokowhiti noa",
+  "MANAGE_CORX": "Whakahaerehia a Corx",
+  "mandatoryDays": "Tena, tohua te maha o nga ra",
+  "mandatoryfield": "Tena koa, whakakiia nga mahinga whakamana",
+  "map": "Mahere",
+  "max_file_size": "Me iti ake te rahi o te konae",
+  "meals": "Kai",
+  "medicalconsultation": "Whakawhitiwhiti whakaaro",
+  "medicalfile": "Ngā whakaahua",
+  "medicalform": "Puka Puka Motuhake",
+  "medicalforms": "Puka Puka Motuhake",
+  "medicalinfo": "Information Medical",
+  "medicalrecord": "Puka Tuhituhi",
+  "medical_2option": "Kaupapa Whakaaro Tuarua",
+  "MEDICAL_CERTIFICATE": "Tiwhikete rongoa",
+  "MEDICAL_FILE_BTN": "Kōnae Hauora",
+  "medication": "Maimoatanga",
+  "medication_name": "Ingoa maimoatanga",
+  "medicinereminders": "Ko nga whakamaharatanga o taku rongoā",
+  "medio": "Waenga",
+  "medium1": "Waenga",
+  "message": "Karere",
+  "messagesent": "Ka tukuna te karere kia tukuna",
+  "metabolismTest": "Whakamatau Metabolism",
+  "method": "Tikanga",
+  "METRIC": "Momo",
+  "middedcall2": "Kei a koe tetahi waea kaore i whakautu",
+  "minutes": "meneti",
+  "missedcall": "SaluberMd Kua ngaro te videocall",
+  "missedcall1": "Karanga kua ngaro",
+  "missedNotiAlert": "He tika nga tohu i pehia e koe.",
+  "misurazioni": "Records",
+  "misure": "Te ine",
+  "mobile": "Mobile",
+  "mobile_required": "Tena koa, tohaina to tau nama kia taea ai e matou te whakapiri atu ki a koe ki te whakarite i tetahi huihuinga.",
+  "moderate_risk": "Te mōrearea ngawari",
+  "MONDAY": "Rāhina",
+  "month": "Marama",
+  "mood": "Te rōpū o te Mood",
+  "moodDescription": "He tohu matua o te ahua o te aronui o te kaikorero i te wahanga o te waa reo kua tautuhia. Ko te API te kohinga katoa o nga hohenga 11 e rere mai ana i te riri, te noho-kore, me te kaha whaiaro ki te hari me te hari.",
+  "moreDays": "Ētahi atu ra",
+  "motivazione": "Take",
+  "MRGraph": "Nga rongoa i mau hitori",
+  "msgAppointment": "Kua angitu te whakarite o te whakaritenga. Ka kitea e koe to waitohu i roto i te waahanga o nga painga hou.",
+  "msgsurveysent": "I tono angitu te tono",
+  "msg_call_reconnection": "Kei te ngana ki te honohono ...",
+  "MSG_CALL_TRANSFERED": "Kua tukuna angitu te videocall",
+  "MSG_CHOOSE_OPTION": "Tena, whiriwhirihia he kōwhiringa",
+  "MSG_CHOOSE_OPTION4": "He kōwhiringa he kōwhiringa",
+  "MSG_CHOOSE_OPTION5": "Whakaahuatia to parakuihi",
+  "MSG_CHOOSE_OPTION6": "Whakaahuatia to kai kai",
+  "MSG_CHOOSE_OPTION7": "Whakaahuahia to kai kai",
+  "MSG_CHOOSE_OPTION8": "Whakaahuatia o nga pupuhi",
+  "MSG_CHOOSE_OPTION9": "Tena, whakautuhia nga patai",
+  "MSG_CHOOSE_OPTION_2": "Tena, whakauruhia he whakaahuatanga",
+  "MSG_CHOOSE_OPTION_3": "Kōwhiritia kia kotahi te kōwhiringa",
+  "MSG_COMPLETE_PROFILE": "Kei te hiahia koe ki te haere inaianei?",
+  "MSG_CONFIRM_EMAIL": "Tena koa, whakauru i to īmēra",
+  "MSG_CONFIRM_EMAIL_TEXT": "I tonoa e matou he email ki a koe me nga tohutohu mo te whakauru i to wahitau īmēra. Titirohia to pouakaroto.",
+  "msg_connected": "Kua honohonohia",
+  "MSG_CONTACT_SUCCESS": "Mauruuru mo to tukunga.",
+  "MSG_DOC_ENDED_CALL": "Kua mutu te karanga a te taote",
+  "MSG_DOC_WAITING_CALL": "Kua wehe te Doctor, e tatari ana ki te whakahou",
+  "MSG_DONATION": "Whakaae i to tuku?",
+  "MSG_DONATION_CONFIRM": "Mauruuru koe mo to moni",
+  "MSG_ERROR_FILL_BOXES": "Whakakihia nga pouaka ki nga uara tika",
+  "MSG_FILL_ALL_BOXES": "Tena, whakakiia nga pouaka katoa",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Tena whakaotia nga mahinga katoa e whai ake nei",
+  "MSG_FILL_BOXES": "Whakakiia nga pouaka",
+  "MSG_FILL_BOXES_ALL": "Tena ra, whakakiia nga mara katoa",
+  "MSG_FILL_BOXES_PROFILE": "Tena, whakakiia nga pouaka kua tohua ki te whetu",
+  "MSG_GENERIC_ERROR": "Titirohia to hononga ipurangi ki te tukuna.",
+  "MSG_GENERIC_FORM_ERROR": "Whakatikahia te hapa ki te haere tonu",
+  "MSG_LOGIN_ERROR": "Kua rahua te ratonga. Titiro koa ki o taipitopito tuakiri me te whakarite kia hono koe ki te whatunga.",
+  "MSG_LOGIN_ERROR_LOCKED": "Kua rahua te ratonga: kua raukatihia to korero. Titiro koa i muri mai.",
+  "MSG_MANDATORY_OPTION": "Me whakamana e koe te taote kia kite i te Puka Whakaora",
+  "MSG_NO_DOCTORS_FOUND": "Ka mihi matou, engari kaore i kitea he taakuta. Press Tirohia te taakuta kia taea ai te rapu",
+  "MSG_PATIENT_CANCELED_CALL": "Kua whakakorehia te piiraa e te manawanui.",
+  "MSG_PATIENT_ENDED_CALL": "Kua mutu te karanga i te manawanui",
+  "MSG_PATIENT_WAITING_CALL": "Kua wehe te Patient, e tatari ana ki te whakahou",
+  "MSG_POST_CALL_CANCEL": "I mutu te haerenga i mua i te tīmatanga o te videocall!",
+  "MSG_POST_CALL_DOCTOR": "Ka tukuna koe ki te whārangi kāinga",
+  "MSG_POST_CALL_PATIENT": "Mauruuru koe mo te whakamahi i te SaluberMD. Ka whiwhi koe i te īmēra whai ake. Hei tiro i nga taipitopito e pā ana ki to haerenga mai, haere mai ki taku Mahere-Tirohia",
+  "msg_reconnection_error": "Kua wehea te Pūrere. Tena koa, tautuhi i te taputapu",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Mauruuru ... ka whakapā atu tetahi ki a koe",
+  "MSG_REGISTRATION_SUCCESS": "I angitu to rehitatanga",
+  "msg_req_videocall1": "Kei te wātea mo te videocall i:",
+  "msg_req_videocall2": "Kua rite te videocall ki te timata. Patohia tenei whakamōhiotanga hei whakahohe i te videocall",
+  "msg_req_videocall3": "Kei te wātea mo te videocall inaianei. Patohia tenei whakamōhiotanga hei whakahohe i te videocall",
+  "MSG_RESET_REQUEST_ERROR": "Kaore te kaiwhakamahi me tenei ingoa kaiwhakamahi, wāhitau īmēra rānei e tīariari ana.",
+  "MSG_RESET_REQUEST_SUCCESS": "Ka whiwhi koe i tetahi īmēra e whai hononga ana ki te tautuhi i te kupuhipa.",
+  "MSG_RESUME_CALL": "Kei a koe he karanga, kei te hiahia koe ki te haere tonu?",
+  "MSG_SCHOOL_MISSING": "Kōkuhu Kura",
+  "MSG_SELECT_TIMEZONE": "Tīpakohia he rohe rohe",
+  "MSG_SIGNATURE_MISSING": "Tena koa ki te whakakī i to hainatanga, mehemea kaore e taea e koe te tuku tono.",
+  "MSG_THANKING": "Mauruuru mo to tukunga.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Ratonga ngaro. Ka taea tenei ma to hononga ipurangi",
+  "MSG_WELCOME_BACK": "Nau mai",
+  "MSG_YEAR_PRACTISE": "Kōkuhu Tau Taumahi",
+  "muscles": "Nga uaua",
+  "myappointment": "Nga waahanga",
+  "MYFILE_NOFILE": "Kaore he kōnae i a koe",
+  "MYFILE_SECTION": "Ko ō kōnae",
+  "MYFILE_SUBTITLE": "Patohia i ia mea hei kite i te ihirangi kōnae",
+  "MYFILE_TITLE": "Aku Kōnae",
+  "myprofile": "Toku Profile",
+  "myreminders": "Aku mahara",
+  "MY_TICKETS": "Nga tiketi",
+  "M_SCHOOL": "School Medical",
+  "N": "No",
+  "name": "Ingoa",
+  "negative": "Neke",
+  "nervous": "Ngahau",
+  "nessun_appuntamento": "Karekau he waahanga o mua",
+  "NETWORK_CHECK_MSG": "He iti rawa te whitinga o to Paare. Ko te whakaari i nga ihirangi me te papauwhana iti ka meinga kia paahitia te ataata.",
+  "NETWORK_CHECK_TITLE": "Karangatia te Tohu Kounga",
+  "NETWORK_ERROR": "Hapa Ipurangi Ipurangi. Ngana ano i muri",
+  "neutral": "Neutral",
+  "newappointment": "Tuhinga hou mai i",
+  "newass": "Tāpirihia he hononga hou",
+  "NEWPWD_CONFIRM": "I puta ke te kupuhipa. Tena takiuru ano.",
+  "NEWPWD_CONFIRM2": "I hurihia te kupuhipa",
+  "NEWPWD_ERROR": "Karekau he kupuhipa hou.",
+  "newtest": "Patohia te pihikete hei whakauru i te whakamatautau hou.",
+  "NEW_PWD": "Kupuhipa hou",
+  "new_ticket": "Tikikete Hou",
+  "NEXT": "Tuhinga o mua",
+  "no": "No",
+  "noAlarm": "Kaore he whakaoho e whakaturia",
+  "noallergies": "Kaore he mate pukupuku i tuhia.",
+  "noapatient": "Kaore i kitea he manawanui",
+  "noappointment": "Kaore he whakaritenga i whakaritea",
+  "noappointments": "Kaore he ra e tae mai ana ki tenei taote",
+  "noappointments1": "Kaore he ra e wātea ana ki tenei kairanga kai",
+  "noAppoPat": "Kaore he waarangi hei raarangi",
+  "noarticles": "Kāore he tuhinga kai hauora",
+  "noassociatedpatient": "Kaore koe e manawanui ana",
+  "noattachment": "Tēnā, tīpakohia tētahi āpitihanga",
+  "noattachment1": "Kāore he Āpitihanga",
+  "noavailableoption": "Kāore he kōwhiringa e wātea ana",
+  "nocomment": "Kaore he korero / whakatikatika",
+  "noconsulenze": "Kaore he haerenga i mahia",
+  "nocorxfound": "Kāore i kitea CORX",
+  "nodata": "Kāore he raraunga",
+  "nodependency": "Kaore he mahinga kua tuhia.",
+  "nodesease": "Karekau he mate kua tuhia.",
+  "nodevice": "Kaore he taputapu i kitea, koahia ano",
+  "nodoctor": "Kaore he kaitohutohu i kitea",
+  "nodoctors": "Kaore he taiota e wātea ana",
+  "noDocuments": "Kāore he tuhinga i tukuna",
+  "nodrugselected": "Kua whiriwhiria e koe he kore tarukino",
+  "noecg": "Kāore he ECG i whakarārangitia",
+  "noexam": "Kaore he whakamatautau hei whakaatu",
+  "nofiles": "Kaore he kōnae i tukuna e te manawanui",
+  "noHistory": "Kaore he korero i tenei wa",
+  "nohsh": "Kaore he maatatanga kua tuhia.",
+  "noimages": "Kaore he awhina i tenei wa",
+  "noimmunization": "Kaore he maimoatanga kua tohua.",
+  "nolabtest": "Kaore i kitea he whakamatautau taiwhanga",
+  "nomedication": "Kaore he rongoā kua tohua.",
+  "nomisure": "Kaore he mehua",
+  "nonterminata": "Karanga Kore",
+  "nonutritionist": "Karekau he Kaihanga Kairau e wātea ana",
+  "nonuvoair": "Kaore i kitea he taputapu",
+  "nopharmacy": "Kaore i kitea he rongoha",
+  "noprescription": "Kahore he whakaritenga i tenei wa",
+  "noprothesis": "Kaore he takahi, he awhina Medical ranei kua whakarārangitia.",
+  "noreferrals": "Karekau he kaihauturu e tohua ana",
+  "noreminders": "Kaore he whakamaharatanga mo aianei",
+  "noresults": "Kāore he kitenga i kitea",
+  "normale": "Te tikanga",
+  "normalrange": "Tae Maatauranga",
+  "normalWeight": "Te taimaha noa",
+  "nosintomi": "Kaore he tohu kua tohua",
+  "nospecialist": "Kahore he tohunga",
+  "note": "Tuhipoka",
+  "notests": "Kaore he whakamatautau kaore i tuhia.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Pāwhiri ki konei hei whakaoti i to pepa hauora",
+  "NOTIFICATIONS_SECTION": "Ko ou whakamōhiotanga",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Whiwhihia he whakawhitinga korekore, he waea aromatawai hauora ranei i muri i te whakaoti katoa i to reta hauora.",
+  "NOTIFICATIONS_SETTINGS": "Whakaritea nga whakamohio",
+  "NOTIFICATIONS_TITLE": "Ngā whakamōhiotanga",
+  "notification_setting": "Tīpakohia mai i te kāhua e hiahia ana koe ki te whiwhi whakamōhiotanga",
+  "notimage": "Ehara te kōnae i te ahua: Ko anake BMP, GIF, JPG me PNG e whakaaetia ana",
+  "notNow": "Ehara i teianei",
+  "notnow_btn": "Ehara inaianei",
+  "nouser": "Kāore he kaiwhakamahi i kitea",
+  "novantad": "90 nga ra whakamutunga",
+  "novideocall": "Kaore i kitea he videocall",
+  "novisit": "Kaore koe i te toro atu i te manawanui",
+  "noWellnessData": "Karekau he Raraunga Hauora Hou",
+  "no_certificate": "Kaore he tiwhikete e raanga",
+  "no_chiosc_data": "Kaore he whakamatautau tapanga hei tiro",
+  "NO_DATA": "Kāore he raraunga",
+  "no_doctor_answer1": "Kaore he taiota e wātea ana i tenei wa.",
+  "no_doctor_answer2": "Ka taea e koe te tango i tetahi hui ma te panui i te paatene i raro nei.",
+  "NO_GENETIC_TEST_REQUESTS": "Kaore ano kia tono i tetahi whakamātautau ira",
+  "NO_MSG": "Kāore he karere i tukuna",
+  "no_notifications": "Kaore he korero",
+  "no_prescription_download": "Kaore he ota e whai ana ki tenei whiriwhiringa",
+  "no_pull_answer": "Kaore he rata kei te wātea inaianei.",
+  "no_referral_download": "Kaore he korero e pa ana ki tenei haerenga",
+  "NO_SECOND_OP_REQUESTS": "Kaore koe i tono mo te Ratonga Whakaaro Tuarua",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Kaore i kitea he ahumahi",
+  "NO_TICKETS_SENT": "Kaore nga tiketi i tukuna",
+  "NO_USER_FOUND": "Kaore i kitea te ingoa kaiwhakamahi me te Email",
+  "NPI": "NPI",
+  "ns": "Pūnaha Tae",
+  "numberNotSaved": "Hapa i te wa e ora ana te tau",
+  "numberSaved": "Kua angitu te Tiaki Tau",
+  "nuovoair_connected": "Kua hono",
+  "nuovoair_disconnected": "Kua wehea",
+  "nutriPen": "Te tono e tatari ana",
+  "nutriRev": "He uiuinga whakaari",
+  "nutrition": "kai tōtika",
+  "nutritionist": "Korero ki tetahi kaiparau",
+  "NUTRITIONIST_Q1": "Ngā whāinga o te Paraire: (Tirohia te katoa o te tono)",
+  "NUTRITIONIST_Q10": "Kei te mohio koe he ahuareka, he maama te marama, he ngoikore ranei ki te kore koe e kai?",
+  "NUTRITIONIST_Q11": "Nga Mahi Mahi o Naianei: (Cardio, Resistance, Etc.)",
+  "NUTRITIONIST_Q12": "Kei te tahu koe ?: (Mehemea, he wa, he maha ranei?)",
+  "NUTRITIONIST_Q13": "Kei te inu koe i te waipiro ?: (Mehemea, he wa pehea, he maha hoki?)",
+  "NUTRITIONIST_Q14": "E inu ana koe i te kawheine ?: (Mehemea, he wa, he maha ranei?)",
+  "NUTRITIONIST_Q15": "Te ra o te whakamutunga o te tinana:",
+  "NUTRITIONIST_Q16": "E hia nga wa kua whakaritea e koe he rongoā paturopi i nga tau e 2 kua hori:",
+  "NUTRITIONIST_Q16_BIS": "Mena, ko tehea waa me te wa o te wa, (Kia pai te korero.)",
+  "NUTRITIONIST_Q17": "Kei te tango koe i nga rongoā? (OTC or Prescription?) Mena na, ko wai mehemea ka tango koe i nga tapiri? Ki te penei, me pehea, (Me koa kia tino rite.)",
+  "NUTRITIONIST_Q18": "Kua mate koe, kua kaha ake ranei i te 1-2 nga ra i te wiki?",
+  "NUTRITIONIST_Q19": "Kei a koe etahi take i roto i nga waahanga e whai ake nei? Mena he pai, tuhia koa o raatau take ki nga waahi e whakaratohia ana.",
+  "NUTRITIONIST_Q2": "E hia o nga kai e kai ana koe i te ra? (Kōwhiria tetahi)",
+  "NUTRITIONIST_Q3": "He aha te Toenga o te Parakuihi Tino o, me te wa:",
+  "NUTRITIONIST_Q4": "He aha te mea kei a koe te Kai Tatau Tapu, a he aha te wa:",
+  "NUTRITIONIST_Q5": "He aha te Tohu Kaiparau Tohu o, me te wa:",
+  "NUTRITIONIST_Q6": "He aha te mea kei a koe nga Snacks Patupatu, me te wa (s):",
+  "NUTRITIONIST_Q7": "Ka Whakaoho koe?",
+  "NUTRITIONIST_Q8": "He aha nga kai e hiahia ana koe ki te whakatipu me te wa maha:",
+  "NUTRITIONIST_Q9": "Kei a koe tetahi mate pukupuku kai, he here, he waahi ranei:",
+  "NUTRITIONIST_SUB1": "Ngaronga Taumaha",
+  "NUTRITIONIST_SUB10": "Tae / Vomiting",
+  "NUTRITIONIST_SUB11": "Tuhinga o mua",
+  "NUTRITIONIST_SUB2": "Te Kaari Tau",
+  "NUTRITIONIST_SUB3": "Te kaha / te uaua",
+  "NUTRITIONIST_SUB4": "He pai te moe",
+  "NUTRITIONIST_SUB5": "Ngā Take Rauemi",
+  "NUTRITIONIST_SUB6": "Tuhinga",
+  "NUTRITIONIST_SUB7": "Tuhinga o mua",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Pupuhi / Hera",
+  "nutrition_mail": "Ka honohia ki reira ko te ripoata kairangahau",
+  "nutrition_mail2": "Ka tuku atu ki a koe te kairanga kai",
+  "nutrition_questionnaire": "kai kaute",
+  "nvisit": "Te maha o nga kaapatopatioro kua oti",
+  "obesity1": "Tuhinga",
+  "obesity2": "He tino kohu",
+  "obesity3": "Ko te koha",
+  "OFFICE_ADDRESS": "Wāhitau Office",
+  "offline": "Tuimotu",
+  "OFFLINE_DOCTOR_MSG": "Ko te taakuta te ahua kei te tuimotu, pai tonu kia whakamatau i muri ake",
+  "OLDPWD_ERROR": "He rite te kupuhipa hou me te kupuhipa tawhito.",
+  "OLD_PASSWORD_WRONG": "He hē te kupuhipa tawhito",
+  "OLD_PWD": "Kupuhipa tawhito",
+  "oneDay": "I tetahi ra",
+  "one_min": "I te 1 meneti",
+  "online": "Online",
+  "onlinedoctors": "Ngā Kaitautoko Ipurangi",
+  "openimage": "Patohia te whakaahua hei tuwhera i te mata katoa",
+  "open_ticket": "Whakatuwheratia tetahi Tika",
+  "orale": "Na Mouth",
+  "other": "Ētahi atu",
+  "othercbc": "Ko etahi atu whakamatautau CBC",
+  "OTHER_PLACEHOLDER": "Tēnā tīpakohia tō motuhake",
+  "otoscopy": "Otoscopy",
+  "otp_sent_msg": "Kua tukuna atu e matou he tohu whakaotinga i runga i to nama waea",
+  "OUR_PRODUCTS_SECTION": "Ka whakaratohia e o maatau nga raraunga hauora hauora me te waiora hei awhina ia koe ki te aroturuki i to hauora.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Te ine i to hauora hauora i roto i nga hēkona me te waahi ngaio",
+  "OUR_PRODUCTS_SECTION_P1": "Te hangarau rongonui rongonui e whakarato ana i nga raraunga hauora o te wa e pa ana ki nga mahi hauora",
+  "OUR_PRODUCTS_SECTION_P2": "Hauora Hauora / Hauora",
+  "OUR_PRODUCTS_SECTION_P3": "Ko to kete mo te taatai ​​mo te whanau katoa.",
+  "OUR_PRODUCTS_SECTION_P4": "Ngā āhuatanga",
+  "OUR_PRODUCTS_SECTION_P5": "Ko nga whakaaro e rua kua hangaia ki te taunekeneke ki te taupānga hei whakarato i te wheako hauora pai. Ka penapena tonu o hua i roto i te taupānga.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Te ine i to puai kaha i roto i nga hēkona me te sphygmometer ngaio",
+  "OUR_PRODUCTS_SECTION_SCALX": "Te ine i to taumaha i roto i nga hēkona me te tauine ngaio",
+  "OUR_PRODUCTS_TITLE": "Tatou Hua",
+  "overeatFoods": "Ko nga kai e tukuna ana",
+  "overeating": "Te whanaketanga o te kai",
+  "overweight": "Te taumaha",
+  "pa": "Kaihauturu Kaiwhakahaere",
+  "PASSWORD": "Kupuhipa",
+  "passwordchanged": "I puta ke te kupuhipa!",
+  "passwordExpiringMessage": "Ka mate te kupuhipa i a koe. Tena koa te huri i tenei wa",
+  "passwordExpiringTitle": "Kupuhipa ka mutu",
+  "PATIENT": "Te manawanui",
+  "patientAllergy": "Nga mate",
+  "patientGeneticRequests": "Nga Tono Whakamatau Tiki",
+  "patientinfo": "Nga korero a te Patient",
+  "patientlist": "Nga rarangi mate",
+  "patientmanagement": "Te whakahaeretanga o te mate",
+  "patientProtesi": "Tuhinga",
+  "PATIENTS_NO_P": "I tenei wa kaore koe i whakauru i nga waahanga manawanui",
+  "PATIENTS_SECTION": "Nga waahanga",
+  "PATIENTS_SECTION_SUBTITLE": "Patohia i ia mea hei kite i nga taipitopito katoa",
+  "PATIENTS_TITLE": "Nga mate",
+  "patientupdate": "Te manawanui",
+  "patientvisit": "Nga hītori tirotiro whakamatautau",
+  "PATIENT_PROFILE_OPT1": "Ko taku tohu",
+  "PATIENT_PROFILE_OPT11": "Makau Makau Makau",
+  "PATIENT_PROFILE_OPT12": "Tāpirihia te Pakihi rongonui",
+  "PATIENT_PROFILE_OPT2": "Toku Kōnae Hauora",
+  "PATIENT_PROFILE_OPT3": "Ko toku hītori tirotiro",
+  "PATIENT_PROFILE_OPT4": "Aku Makau",
+  "PATIENT_PROFILE_OPT5": "Aku Kōnae",
+  "PATIENT_PROFILE_OPT6": "Aku Aku Whakamutunga",
+  "PATIENT_PROFILE_OPT7": "EKG Tukuna",
+  "PATIENT_PROFILE_OPT8": "Rauemi Waea Hauora",
+  "PATIENT_PROFILE_OPT9": "Waitohu Makau Makau",
+  "PATIENT_S1": "Te manawanui",
+  "PATIENT_S2": "Te korero mo",
+  "PATIENT_S3": "Mōhiohio mate",
+  "PATIENT_S4": "Tuhinga o te haerenga",
+  "PATIENT_S5": "Nga mate",
+  "PATIENT_S6": "Nga mate",
+  "PATIENT_S7": "Nga rongoā",
+  "PATIENT_S8": "Ngā tuhinga kua honohia",
+  "PATIENT_S9": "Nga tohu?",
+  "PATIENT_SUMMARY": "He whakarāpopototanga o ngā mōhiohio manawanui",
+  "patologia": "Nga patopatanga",
+  "payment": "Te utu",
+  "PAYMENT_DETAILS": "Taipitopito utu",
+  "PAYMENT_MESSAGE_1": "Ka waiho koe hei mana-ture mo te nui o te",
+  "PAYMENT_MESSAGE_2": "Ka whakawakia koe ki te mutunga o te kotahono",
+  "PAYMENT_SECTION1": "Tīpakohia he kāri mai i te rārangi",
+  "PAYMENT_SECTION2": "Whakauruhia nga uara kirimana nama",
+  "PAYMENT_SUCCESS": "He utu angitu!",
+  "PAYMENT_SUCCESSFUL": "Kua whakamanahia e matou i mua i te utu",
+  "PAYMENT_UNSUCCESSFUL": "Kua rahua te whakamana i mua i te whakamana. Tirohia to korero kape nama nama, tono atu ranei ki to putea.",
+  "paziente_rimosso": "Kua angitu te mana o te manawanui",
+  "paziente_salvato": "Kua whakahoutia te mate",
+  "pdf_download_error": "Kāore e taea te tiki pdf. Tena koa, ngana ano i muri mai",
+  "pdf_file_error": "Ko nga konae pdf anake e whakaaetia",
+  "period": "Wā",
+  "PERIODIC_HEART_RATE": "Te Whakauru Waeiki o te Ao",
+  "personal": "Whaiaro",
+  "personalCare": "Te tiaki whaiaro",
+  "personalinfo": "Mōhiohio Whaiaro",
+  "PER_MIN": "/ min",
+  "pharmacies": "Nga umanga",
+  "PHONE": "Waea waea",
+  "phone1": "Waea",
+  "pills": "Pire",
+  "PILLS_DATE_ERROR": "Ko te ra tīmatanga i muri i te ra whakamutunga",
+  "pill_reminder_message": "Ko te wa tenei ki te tango i to pire",
+  "placeholder": "ingoa kaiwhakamahi, īmēra, ingoa ranei",
+  "placeOfBirth": "Tuhinga o te whanautanga",
+  "place_birth": "Te wahi whanau",
+  "platform": "Tuhinga",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Tau Kaupapa",
+  "positive": "He pai",
+  "POSTCALL_DOCTOR_TITLE": "He whakarāpopoto o te haerenga",
+  "POSTCALL_PATIENT_TITLE": "Tena koa, whakaatahia to wheako",
+  "POUNDS": "pauna",
+  "PRACTICE_LENGTH": "Te roa o te mahi",
+  "prenota": "Pukahia inaianei",
+  "prenotatest": "Me tono he huihuinga",
+  "preobesity": "Tuhinga o mua",
+  "prescription": "Te waitohu",
+  "prescriptiondiscounts": "Nga Pukapuka Whakatikatika",
+  "PRESCRIPTIONS": "Nga whakaritenga",
+  "prescriptions_sent": "Kua tukuna nga whakaritenga",
+  "prescription_mail": "Kua tohaina ki reira ko to tuunga",
+  "prescription_mail2": "Mauruuru koe mo te whakamahi i te SaluberMD",
+  "prescription_notification": "E te kaiwhakamahi aroha, kei te whakamōhio atu mātou kei a koe i raro i te waahanga hītori wātaka / huihuinga o te taupānga",
+  "prescription_pharmacy": "Tīpakohia he rongoā hei tuku i te tono",
+  "prescription_preview": "Arokite o te waitohu",
+  "prescription_sent": "Ka tukuna te tono",
+  "PRESCRIPTION_SENT_EMAIL": "Kua tukuna to tono ki to email ...",
+  "prescription_subject": "Ko to tono",
+  "pressbutton": "Patohia te pātene rua i runga i te taputapu me te tap Kimihia te Pūrere",
+  "pressbuttonpresx": "Patohia me te pupuri i te pātene rua i muri o te pūrere ki te tīmata i te hononga, me te pāwhiri i te pātene rapu i te pūrere i runga i te taupānga",
+  "pressbuttonscalx": "Patohia me te pupuri i te pātene rua i muri o te pūrere ki te tīmata i te hononga, me te pāwhiri i te pātene rapu i te pūrere i runga i te taupānga",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Te Tao toto",
+  "PRESX_PROD": "PRESX",
+  "previous": "Tuhinga o mua",
+  "pre_period": "Wā Whakaaetanga",
+  "price": "Tau",
+  "price_per_visit": "Utu ia haerenga",
+  "PRICING_SECTION1_P1": "Ko te hiahia a SaluberMD ki te whakarato i te waatea, te atawhai o te kounga utu utu me te kore utu huna, utu utu ranei.",
+  "PRICING_SECTION1_P2": "Kei te manaaki a SaluberMD i nga wa katoa me nga wa katoa e hiahia ana koe ma te torotoro ataata me te rata a te poari. Ka taea e nga taakuta te whakawhiti whakaaro, te whakamatautau, te whakarongo ki te whakamatautau i o take, ki te korero noa i nga patai me nga raruraru i te wa e kii ana koe i te waea ataata.",
+  "PRICING_SECTION1_P3": "Ma to maatau Tohuora noa ka taea e koe te tuku i to rata ki te uru ki to hitori hitori, ki a maatau whakaahua me nga kōnae hei awhina ia ratau ki te whakarato i te mahere maimoatanga tino whai hua.",
+  "PRICING_SECTION1_TITLE": "ia haerenga",
+  "PRICING_TITLE": "Te utu",
+  "primaryConcern": "Ngā āwangawanga o te Primary",
+  "primaryMood": "Mood Primary",
+  "print": "Tāngia",
+  "priority": "Matua",
+  "PRIVACY_POLICY_TITLE": "Kaupapahere Tūmataitinga",
+  "problems": "raruraru",
+  "PROCEED_PAYMENT": "Haere tonu me te utu",
+  "PROFESSIONAL_TITLE": "Ingoa Ngaio",
+  "PROFILE_SECTION2": "Whakaatu Whakawhiti",
+  "protesi": "Ko te Hinengaro me nga awhina Medical",
+  "protesiobbligatorio": "Tēnā koa, tīpako i tētahi momo whakahirahira",
+  "prov": "tauira",
+  "publicAppUrl": "Ko to url mo te iwi ka whakaritea mo:",
+  "pulldown": "Tinohia ki te whakaora",
+  "pull_request_processed": "Mauruuru, Kua tukuna e matou to maatau ki te manawanui",
+  "PWD_NOTMATCH": "Kaore nga kupuhipa e taurite ana",
+  "P_P_Error": "E koe ki te whakaae i te kaupapa here tūmataiti",
+  "QUALITY_INDEX": "Kounga",
+  "QUALITY_INDEX_DESCRIPTION": "Ko te tinana tinana ko te taumata o te kaha me te kaha o te hinengaro ka raruraru i te mata o te kaha ki te urutau me te hapai i te kaupapa. Ko te tautuhinga hauora tinana e whakaatu ana i te tinana o te tangata ki te urutau ki nga huringa taiao me te whakaongaonga o te kaha, te pupuri me te whakaora i te kaha hauora. Ko te tino tinana e whakaatu pinepine ana i te kaha o te noho o te tangata, te ako, me te mahi, engari ano hoki i roto i te mahi tinana. Ko te kounga o te koiora o te tangata e hono ana ki te taatai, engari e tino hono ana ki te kai me te whakakori tinana. Na roto i nga tikanga tika me te mahi tika, ka taea e ia te whakapai ake i tona oranga tinana i nga waahanga katoa.",
+  "quantity": "Maha",
+  "quesito": "Te āwangawanga",
+  "QUESTIONS_SECTION_TITLE": "Whiwhihia he whakawhitinga korekore, he waea aromatawai hauora ranei i muri i te whakaoti katoa i to reta hauora.",
+  "QUESTIONS_TITLE": "Pātai",
+  "quindici": "Nga waahanga whakamutunga 15",
+  "ratio": "Ratonga",
+  "reccomendation": "Te whakamahara",
+  "reccomendations": "Ngā tūtohutanga",
+  "recommendation": "Ngā tūtohutanga",
+  "RECOMMENDATIONS": "Ngā tūtohutanga",
+  "RECOMMEND_SECTION_P1": "I SaluberMD ka tautohe matou ki te whakatutuki i te tono mo te hauora kounga o te ao huri noa i te tuku i to taatau kiritaki ki te uru atu ki te roopu o nga Whanui.",
+  "RECOMMEND_SECTION_P2": "Kei te rapu tonu tatou i nga Toihau ki te pai ki te whakauru atu ki to tatou kapa whakamiharo. Ka rite ki te mema o to taatau taangata, ka whakaute, ka tohaina hoki e koe o maatau.",
+  "RECOMMEND_SECTION_P3": "Tena koa ki te whakakii i te puka i raro nei kia kite i te Taimana ki SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Whakaaetia he hoa mahi",
+  "RECOMMEND_TITLE": "Tūtohu",
+  "record_aggiornato": "Tuhia te whakahoutanga pai",
+  "record_aggiunto": "Tuhia te tuhinga pai",
+  "record_inserito": "Kua tapiritia maatau",
+  "record_rimosso": "Tuhia te tuhinga pai",
+  "REFERRAL": "Tuhinga",
+  "REFERRALS": "Nga korero",
+  "referrals_sent": "Kua tukuna nga tono",
+  "referral_mail": "Kua honohia ki reira ko to korero.",
+  "referral_sent": "Tukuna te tono",
+  "refundrequestsent": "Kua tukuna to tono",
+  "register": "Rēhita",
+  "register_report": "Rēhita Kaiwhakamahi",
+  "registration_date": "Te Rā Rehitatanga",
+  "REGISTRATION_HEADER_DOCTOR": "Hono atu ki te kapa Saluber MD",
+  "REGISTRATION_HEADER_PATIENT": "Tena koa whakaoti i te puka i raro nei me te rēhitatanga press",
+  "releaserefresh": "Tukua ki te whakaora",
+  "remarks": "Nga korero",
+  "removedevice": "Kei te hiahia koe ki te tango i tenei pūrere?",
+  "removefavorite": "Tangohia i nga makau?",
+  "remove_generic": "Kei te hiahia koe ki te tango?",
+  "renalFunction": "Mahinga Renal",
+  "reoccurring": "Reoccurring",
+  "repeat_email": "Whakaae i te Īmēra",
+  "report": "Kōnae hauora whaiaro: Pūrongo raraunga katoa",
+  "report1": "Kōnae hauora whaiaro:",
+  "report2": "Pūrongo",
+  "reportvisite": "Whakaatu Ataata Ataata",
+  "report_date": "Rā Ripoata",
+  "requestdate": "Tono tono",
+  "request_already_taken": "Kua oti tenei tono te whakahaerehia e tetahi atu rata.",
+  "REQUEST_ERROR": "He hapa i te wa e tukuna ana e koe o tono. Tirohia to hononga ipurangi ka ngana ano i muri mai.",
+  "request_sent": "Kua tukuna to tono ki te reta",
+  "required": "Kei te hiahiatia tenei mara.",
+  "required_field": "Whakauru Whakauru",
+  "RESEND_EMAIL": "Whakatikahia te waehere haamauraa",
+  "resetCorxFactory": "Kei te hiahia koe kia tautuhi i te Corx?",
+  "RESETPWD_BTN": "Tautuhi Kupuhipa",
+  "RESET_PASSWORD": "Kōkuhu īmēra, ingoa kaiwhakamahi rānei i whakamahia i te wā o te Waitohu",
+  "respiratory": "Te manawahuhu",
+  "RESPIRATORY_RATE": "Raatau Rehurahu",
+  "RESTORE_FACTORY_SETTINGS": "Whakaorahia nga Tautuhinga Factory",
+  "resultfound": "ka kitea te tuhinga",
+  "results": "Hua",
+  "ricettario": "Whenua",
+  "richiediDrug": "Tono mo te Kaipiro",
+  "richiestaAppuntamento": "Te tono tono",
+  "richiestaRimborso": "Utu Hoko",
+  "ricovero": "Nga hauora",
+  "riepilogo": "Whakarāpopototanga",
+  "rightHanded": "Tika Matau",
+  "rimborso": "Hokona",
+  "ripetibile": "Ka tautuhia mo (wa)",
+  "rr_desc": "Ko te tere o te rewharewha ko te tere e puta ai te manawa. Ko te tere o te rerenga tawhito mo te pakeke i te okiokinga he 12 ki te 20 nga manawa i ia meneti. Ko te reanga o te reanga i raro i te 12 neke atu ranei i te 25 te manawa i te meneti i te wa e maharatia ana te okiokinga he rereke",
+  "rs": "Pūnaha Hauora",
+  "RUNNING_CALL_OPT1": "Whakahou",
+  "RUNNING_CALL_OPT2": "Whakamutunga Piiraa",
+  "RUNNING_CALL_TITLE": "Waea ana",
+  "sa": "Te whakamotuhēhanga kaha",
+  "sadness": "Te pouri",
+  "sai": "Mahinga mahi",
+  "sai_desc": "Ko te SAI kei te pumau tonu i runga i to raatau ngakau. He mahinga noa tenei e aroturuki ana i te urupare a te tinana ki te mahi ahumahi - nui noa atu i nga taahiraa noa. I tua atu i te aroturuki o te taahiraa, ka whakawhiwhia e te SCI he nama mo nga mahi katoa e piki ake ana i te ngakau: te kauhoe, te pahikara, te hīkoi, te kanikani, ahakoa. Kia mau ki raro iho i te 30 mo te pai ake o te ora.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD manawanui",
+  "SATURDAY": "Rāhoroi",
+  "savedinfo": "Kua ora nga korero",
+  "SAVE_BTN": "Tiaki",
+  "SAVE_MESSAGE": "Ki te waiho koe, ka ngaro nga huringa",
+  "sbpi": "Tauanga ngaohiko toto",
+  "sbpi_desc": "Ko te toto toto tiketike te kaipatu mate. Ko nga uara o te toto toto me te Diastolic e whakatauhia ana i tetahi waahanga hauora e mahi ana koe. Kia mau ki te SBPI i raro iho i te 30 kia whai waahi iti atu ki te mamae i nga tikanga whakamataku o te ora, penei i te patunga o te toto me te toto.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Taumaha",
+  "SCALX_PROD": "SCALX",
+  "scan": "Matawai",
+  "scanningcorx": "Rapu ana mo te CORX ... Koa Taria",
+  "schedule": "Tuhinga",
+  "scheduleAnAppointment": "Whakaritea he hui",
+  "scheduleappointment": "Whakaritea te waaataata ki te taote",
+  "schtime": "Te wa whakarite",
+  "sci": "Ratonga Cardiovascular",
+  "sci_desc": "Na roto i te tautuhi i to ohanga taangata kaore e mohiotia ana e koe mo o raatau rorohiko. Ko te taurangi SCI ko te whakariterite o to hauora mate pukupuku, ngana ki te pupuri i raro iho i te 20!",
+  "sci_title": "SCI",
+  "SEARCH": "Rapua",
+  "searchallergy": "Rapua te mate mate",
+  "searchdoctor": "Rapua he tākuta",
+  "searchfordoctor": "Rapua he tākuta, ingoa ingoa ranei",
+  "searchingdevice": "Rapu rapu. Ka roa pea",
+  "searching_avail_date": "Rapu ana i te rā e wātea ana ...",
+  "searching_online_doctors": "Te rapu i nga kaitohutohu ipurangi i te ahunga whakamua",
+  "searchmedication": "Rapua he rongoā",
+  "searchpatient": "Rapua te manawanui",
+  "searchpatologia": "Rapua he mate hauora",
+  "searchsymptom": "He tohu rapu",
+  "searchuser": "Rapu kaiwhakamahi",
+  "search_doctor_description": "Rapua he tākuta mō te ingoa kaiwhakamahi, īmēra, ingoa rānei",
+  "search_patient_description": "Rapua te manawanui mo te ingoa kaiwhakamahi, te īmēra me te ingoa",
+  "search_specialization": "Rapu rapu",
+  "search_user_description": "Rapua he kaiwhakamahi mo te ingoa kaiwhakamahi, īmēra, ingoa ingoa ranei",
+  "search_videocall_description": "Rapu mo te videocall i mahia e te whakauru",
+  "search_videocall_title": "Serach Videocall i te ra",
+  "secondaryMood": "Mood Tuarua",
+  "secondOpinion": "Ko nga pitihana pitihana",
+  "seconds": "hēkona",
+  "second_opinion_1": "He pai, he pono te uru ki te whakaaro tuarua hauora mai i nga tohunga rongonui o te ao.",
+  "second_opinion_2": "Ka awhina to maatau Ratonga Whakaatu Tuarua mo te Whakaora:",
+  "second_opinion_3": "Maua nga whakautu ki a raatau uiui",
+  "second_opinion_4": "Tīpakohia te mahere maimoatanga pai",
+  "second_opinion_5": "Me whakarite i te tautuhinga tika",
+  "second_opinion_body": "Kaiwhakamahi aroha, <br> ko to tono tuarua tuarua kua tangohia mai i a maatau tohunga e arotake ana i nga tuhinga i tukuna e koe.",
+  "second_opinion_history": "Ko nga pitihana pitihana",
+  "second_opinion_msg": "Mauruuru. Ka tae atu to maatau kaitiaki hauora ki a koe i roto i nga haora e 24 e whai ake nei.",
+  "SECOND_OPINION_Q1": "He aha e hiahia ana koe ki te korero ki te kairanga kai?",
+  "second_opinion_question1": "Ko wai te whakaaro tuarua?",
+  "second_opinion_question2": "Tukuake he kōnae",
+  "second_opinion_step1": "Whakaotia he pakihi poto / Tukuna mai o au kōnae",
+  "second_opinion_step2": "Ka aromatawaitia e to taiota o maatau taonga",
+  "second_opinion_step3": "Ko te whakawhitiwhiti whakaaro a nga kaitautoko ki te matapaki i o hua",
+  "secOpChoice": "Tohua koa tehea o te ara e pai ai koe ki te tiki tuarua",
+  "section": "Tēnā, tīpakohia tētahi wāhanga",
+  "security": "Te haumarutanga",
+  "seeaprovider": "Tirohia te Kaiwhakarato",
+  "seecommenti": "Tirohia nga korero",
+  "seedoctor": "Tirohia te taote i tenei wa",
+  "SEE_A_DOCTOR_Q1": "Ko wai tenei waea ataata?",
+  "SEE_A_DOCTOR_Q10": "Ka taea e matou te tuku i to taau tohutohu ki a koe te maimoatanga o to whakatau",
+  "SEE_A_DOCTOR_Q1B": "Te ingoa me te whanau whanau o to tamaiti?",
+  "SEE_A_DOCTOR_Q1_A1": "Ahau",
+  "SEE_A_DOCTOR_Q1_A2": "Taku tamaiti",
+  "SEE_A_DOCTOR_Q2": "Tena koa he aha e hiahia ana koe ki te korero ki te taote",
+  "SEE_A_DOCTOR_Q3": "Nga tohu?",
+  "SEE_A_DOCTOR_Q4": "E hiahia ana koe ki te hono i tetahi whakaahua, tuhinga ranei?",
+  "SEE_A_DOCTOR_Q4_ERROR": "KAUPAPA: Kaua e nui ake te 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Tīpakohia he kōnae",
+  "SEE_A_DOCTOR_Q4_S2": "Tangohia he whakaahua",
+  "SEE_A_DOCTOR_Q5": "Kei te tango koe i tetahi rongoā, ki te mea koa koa tuhia te ingoa",
+  "SEE_A_DOCTOR_Q5_CHILD": "Kei te rongoa a to tamaiti i tenei wa? mena kei te tuhia rarangi ingoa",
+  "SEE_A_DOCTOR_Q5_S1": "Ingoa:",
+  "SEE_A_DOCTOR_Q5_S2": "Tauranga:",
+  "SEE_A_DOCTOR_Q6": "Kei a koe tetahi mate mate?",
+  "SEE_A_DOCTOR_Q6_CHILD": "He mate pāwera a tō tamaiti? mena kei te tuhia rarangi ingoa",
+  "SEE_A_DOCTOR_Q7": "Kei a koe etahi tikanga hauora?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Kei te matea to tamaiti? mena kei te tuhia rarangi ingoa",
+  "SEE_A_DOCTOR_Q8": "Kei te whakamana koe i te taakuta kia kite i to kōnae hauora ipurangi?",
+  "SEE_A_DOCTOR_Q9": "Te hokohoko pai",
+  "SEE_A_DOCTOR_TITLE": "Tirohia te Doctor",
+  "SEE_A_PROVIDER": "Tirohia te Kaiwhakarato",
+  "segment": "Wāhanga",
+  "selectAFile": "Tap te pātene i raro nei ki te whiriwhiri i tetahi konae",
+  "selectaprovider": "Whiriwhiria he Kaiwhakarato",
+  "selectcarderror": "Koa, tīpakohia he kāri",
+  "selectdoctor": "Whakahaerehia te kaupapa o",
+  "selectdoctor1": "Tīpakohia te tākuta",
+  "selectdrug": "Tīpakohia he rongoā",
+  "selectedContact": "Nga momo korero",
+  "selectinitiative": "Tīpakohia tetahi neke atu ranei o nga kaupapa ...",
+  "selectnutritionist": "Tīpakohia to kai ake kai",
+  "selectpatient": "tīpakohia",
+  "select_country": "Koa, tīpakohia he whenua",
+  "select_device": "Tīpakohia tētahi pūrere",
+  "select_file": "Tīpako Kōnae",
+  "select_file_btn": "Tīpakohia te kōnae",
+  "select_patient": "Pāwhiritia te rarangi kia kite i nga taipitopito",
+  "send": "Tukua",
+  "sendmessage": "Tukua he karere",
+  "sendtoken": "Tukua tenei ki te taote kia whakaaetia e ia te uru atu ki to putea hauora. Ka pau tenei hono i te 10 meneti",
+  "SEND_BTN": "Tukua",
+  "send_doctor_request": "Tukuna he tono",
+  "sentmessage": "Karere Tukuna",
+  "SERVICE_TYPE": "Momo Ratonga",
+  "sessantad": "Ko nga ra 60 o muri",
+  "SESSION_EXPIRED": "Kua pau te huihuinga. Tena, takiuru ano",
+  "setAlarm": "Whakanohia nga Alarima",
+  "settd": "Ko nga ra whakamutunga 7",
+  "settings_saved": "Kua tiakina nga tautuhinga",
+  "setTreshold": "Tautuhi Tae",
+  "SET_BTN": "Tautuhi",
+  "SET_USER_EMAIL": "Tena koa, whakapumautia te ingoa kaiwhakamahi, te īmēra rānei",
+  "set_vital_signs": "Whakaritea nga tohu nui",
+  "sevendays": "7 Ra",
+  "showalldata": "Whakaatuhia nga Raraunga katoa",
+  "showOnEmergency": "Whakaatuhia te Whakamatea",
+  "signature": "To hainatanga (whakamahia mo nga whakaritenga)",
+  "signature_word": "Waitohu",
+  "SIGNUP_BTN": "Waitohu Up",
+  "sii": "Indical Insurance",
+  "sii_desc": "Ko te SII he huinga o nga tohu a SaluberMD katoa, a ko te whakaata o to raanei hauora hauora. Mena kei raro 30 kei roto koe i te rohe haumaru!",
+  "sii_title": "SII",
+  "since": "Mai",
+  "single": "Kotahi te ra",
+  "singleAccess": "Te whakauru kotahi",
+  "sitreminder": "Noho Maharahara",
+  "sit_period": "Wā",
+  "skip": "Hurihia",
+  "skip_pull": "Waiho",
+  "skip_step": "Tīpako",
+  "sl": "Te taumata raruraru",
+  "SLEEP": "Moe",
+  "slotime": "Nga wahanga (min)",
+  "sl_alta": "nui atu i te 85 bpm",
+  "sl_bassa": "iti iho i te 65",
+  "sl_desc": "Ko te taumata taumaha e tohua ana i runga i te whiringa i ia meneti",
+  "sl_normale": "i waenga i te 65 me te 85 bpm",
+  "smoker": "Tuhinga o mua",
+  "snacks": "Ngā paramanawa",
+  "SOMETIMES": "I etahi wa",
+  "SONNO": "Moe",
+  "SOP_Q4": "Whakauruhia to ripoata hauora",
+  "sos": "SOS",
+  "so_specialization": "Te motuhake",
+  "specialists": "Ngā tohunga",
+  "specialization": "Kōwhiritia te motuhake",
+  "SPECIALTY": "Te motuhake",
+  "specifyother": "Tena koa, tautuhi atu",
+  "specifyvalue": "Tena, tautuhi i te uara",
+  "spirometer": "Nga mokowhiti",
+  "spo2_desc": "Ko te SpO2 ko te taumata o te koiora toto he mehua o te nui o te oxygen e kawe ana i nga kamera toto whero. Ko nga uara tawhito kei waenganui i te 95% me te 100%, Ka huaina te taumata o te hauora o te toto ki raro nei-ko te hypoxemia",
+  "sri": "Rehitatanga hauora",
+  "sri_desc": "Ka tohatohahia e mätau o äu tauira hiko i roto i tëtahi wähi hauora, i te wä e moe ana koe. Mena kei raro iho i te 30 o te SRI o nga waahi kaore pea he painga ki a koe mo te mate pukupuku.",
+  "sri_title": "SRI",
+  "ssi": "Whakauruhia te taurangi",
+  "ssi_desc": "Na roto i te tautuhi i to huringa o te ngakau ka tohaina e mätau te taumata o te ahotea. Ko te raruraru kei te kino, kei te whakarahi i te raruraru o te ahua me te nui o te mate, te mate o te ngakau, te mate o Alzheimer, te mate huka, te pouri, nga mate pukupuku, me te mate pukupuku. Kia mau ki raro iho i te 20 ki te noho i te taha haumaru!",
+  "ssi_title": "SSI",
+  "start": "Tīmata",
+  "startcall": "Tīmata te karanga",
+  "startdate": "Tuhinga ka whai mai",
+  "starthour": "Tīmata Time",
+  "startmeasure": "Na, ka taea e koe te tīmata i te ine ma te pihikete i te pihikete i runga i te taputapu",
+  "startnow": "Tīmata Naianei",
+  "startRecording": "Ka tīmata te tīmata ki te tuhi i te reo oro",
+  "startyping": "Tīmatahia te tuhi i te ingoa",
+  "start_blowing": "Tīmata Maaka",
+  "start_test": "Tīmata whakamatautau",
+  "start_time": "Tīmata Time",
+  "state": "State",
+  "state1": "State",
+  "STATES_LICENSE": "Nga Tika Raihana",
+  "state_problem": "Tena koa, tuhia to raru",
+  "status": "Tūnga",
+  "step": "Hipanga",
+  "STEPS_GOAL": "Ngā Whāinga",
+  "stoolTest": "Whakamatau pano",
+  "stop": "Kati",
+  "stop_test": "Kati te whakamatautau",
+  "stress": "Tuhinga o mua",
+  "stroke_vol": "Pupuhi wero",
+  "stroke_volume": "Pupuhi wero",
+  "stroke_volume_desc": "Ko te rōrahi whiu te toto o te toto e peia ana e ia ventricle i ia whiunga",
+  "struttura": "Te hanganga",
+  "strutture": "Ngā hanganga",
+  "subject": "Kaupapa",
+  "subject_so": "Kaupapa",
+  "submissionDate": "Rā Tika",
+  "success": "Te angitu",
+  "SUCCESS_TITLE_NOTIFICATION": "Te angitu",
+  "SUMMARY": "Te whakamātautau",
+  "summary1": "Whakarāpopoto",
+  "SUNDAY": "Rātapu",
+  "surgery": "Tohunga",
+  "surgeryAndHospitalization": "Nga Mahi Hauora me te Mahinga Tuku",
+  "surgeryCategory": "Kāwai Mahi",
+  "surname": "Te ingoa ingoa",
+  "sv_alta": "nui atu i te 100",
+  "sv_bassa": "iti iho i te 55 ml",
+  "sv_normale": "i waenganui i te 55 me te 100 ml",
+  "switchsearch": "Whakawhiti ki te rapu",
+  "symptoms": "Nga tohu",
+  "SYMPTOMS_BTN": "Nga tohu",
+  "sync": "Tukutahi",
+  "SYNC_TIME": "Wā Tukutahi",
+  "sysdia": "Tuhinga",
+  "systolic": "Pūnaha",
+  "TAKE": "Tangohia",
+  "takeAppointment": "Tangohia te whakatau",
+  "TAKE_APP": "Apitianga Apiti",
+  "TAKE_A_PHOTO": "Tangohia he whakaahua",
+  "tall": "Kia pehea te roa o koutou",
+  "tapconnect": "Tapia kia hono",
+  "tapdisconnect": "Patohia kia wehe",
+  "tap_to_expand": "Patohia hei whakawhānui ake",
+  "telNameMandatory": "Tena, tautuhi i te ingoa",
+  "telNumberMandatory": "Tena, tautuhi i te tau waea",
+  "temper": "Whakawera",
+  "temperDescription": "He waahanga hinengaro e hipoki ana i te katoa o te tahua o te reo. Ko te iti o te riri e whakaatu ana i nga wairua pouri me te pouri. Ko te manawarangi e whakaatu ana i nga taiao hoahoa, mahana, me te whakahihiri. Ko nga uara teitei e whakaatu ana i nga ahuatanga whaitake, whakahirahira, me te kaha hoki.",
+  "tendays": "Last 10",
+  "ten_min": "I te 10 meneti",
+  "terminata": "Karangatia te Tauranga",
+  "TERMS_TITLE": "Nga Whakamahinga",
+  "test": "Whakamātautau",
+  "testmichele": "te whakamātautau i te tohu",
+  "testresult": "Nga Hua Whakatau",
+  "testresults": "Hua Hua",
+  "tests": "Nga whakamatautau",
+  "text": "Kuputuhi",
+  "thiscC": "Ka whakamahia tenei kaari nama hei utu i te ratonga",
+  "THURSDAY": "Rāpare",
+  "thyroidTest": "Whakamatau Function thyroid",
+  "tickets": "Tikiketa",
+  "TICKET_HISTORY": "History History",
+  "TICKET_NUMBER": "Tau tikiti",
+  "ticket_subject": "Kaupapa Tono",
+  "timecallerr": "Aroha, kaore e taea te karanga i tenei wa",
+  "timecallerr1": "Aroha mai, kaore koe e karanga ana i te piiraa no te mea kei tua atu o te wa i whakaritea",
+  "TIMELINE": "Aku Taimi",
+  "times": "E hia nga wa i te ra?",
+  "timesaday": "Nga waa o te ra",
+  "tipopratica": "Momo momo mahi",
+  "tipo_struttura": "Momo Hanga",
+  "tipshealt0": "Ngā Tohu Hauora",
+  "tipshealt1": "Pupuhi Ngati - Me whiwhi au i te kano ki te rewharewha?",
+  "tipshealt10": "Pāwhiri ki konei mo etahi atu korero",
+  "tipshealt11": "Ko nga painga o te maimoatanga o te ahinei, te whakaheke i nga raukati cholesterol, ka nui atu i nga raruraru",
+  "tipshealt12": "I roto i te tuhinga arotake tata nei i roto i te Lancet, i whakaaro nga kairangahau ko nga painga o te whakaheke i te LDL cholesterol me te hangarau o te rongoā ka awhina i nga kaupapa whanui nui (nga ngakau kaore, nga whiu), kaore ano i te raru o nga raau taero.",
+  "tipshealt13": "E ai ki nga kairangahau ko nga mahi kino kino anake kua whakaatuhia kia puta mai i te waahi tawhito roa ko te myopathy (kua tautuhia ko te mamae mamae me te ngoikore), te mate pukupuku hou, me te pea, te mate o te haemorrhagic.",
+  "tipshealt2": "Ahakoa kaore i te whakaratohia e te mate o te matewhakawhakawhakawhakautanga te tiaki katoa, he pai te whiwhi. Ko te CDC (Centre for Disease Control and Prevention) e whakatairanga ana i nga maimoatanga hauora ā-tau mō te katoa o te 6 marama neke atu rānei. He mea tino nui te mate o te mate ki te hunga e nui ana te raruraru o te mate pukupuku, tae atu ki",
+  "tipshealt3": "Nga wahine hapu",
+  "tipshealt4": "Nga pakeke pakeke (50 tau me te pakeke)",
+  "tipshealt5": "Kaupapa tamariki (kei raro i te 4 tau me te 6 marama)",
+  "tipshealt6": "Ko te ngohe tinana e whakapai ake ana i nga mahara me nga pukenga whakaaro",
+  "tipshealt7": "Ka taea e te mahi ahumahi te whakapai ake i te mahi a te roro i roto i te taiao, me te whakaiti i te mate o te mate.",
+  "tipshealt8": "He maha nga rangahau kua whakaputaina i runga i te taunekeneke tata me te painga o te mahi a-tinana me te whakapai ake i te mahi hinengaro.",
+  "tipshealt9": "He tika te awe ki te roro, me te kore hoki i roto i nga mahi aa-tinana me te tinana i runga i te tinana.",
+  "title": "Taitara",
+  "to": "Tuhinga o mua",
+  "todayAppointment": "Inaianei i whakaritea",
+  "tooltip1": "Whakaurua te ingoa o te taote e hiahia ana koe ki te whakahaere i te kaupapa",
+  "totale": "Tapeke",
+  "totalSleepTime": "Te roa o te moe",
+  "total_cholesterol_desc": "Ko tenei uara he mea whakatau i nga korikora katoa i te toto",
+  "TOTAL_SLEEP_TIME": "Te roa o te moe",
+  "tot_non_risposte": "Kaore e Whakautuhia",
+  "tot_ricevute": "Kua riro te piiraa",
+  "tot_visite": "Kua tae nga haerenga",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Whakawhiti",
+  "trenta": "Nga waahanga whakamutunga 30",
+  "trentad": "Ko nga ra whakamutunga 30",
+  "triglycerides": "Taaehara",
+  "trig_cholesterol_desc": "Ko te Triglycerides tetahi momo momona (lipid) i kitea i roto i to toto. Ko te ripanga e whai ake nei e whakaatu ana i te whānuitanga o nga uara.",
+  "TUESDAY": "Rātū",
+  "tutte": "Nga ine katoa",
+  "type": "Momo",
+  "TZONE": "Rārangi Rā",
+  "underweight": "Te taumaha",
+  "unit": "Unit",
+  "UNIT_SETTING": "Tautuhinga Utu",
+  "uom": "Tuhinga o nga inenga",
+  "upcomingAppointmentPatient": "Tuhinga o mua",
+  "UPDATE": "Whakahou",
+  "updatelist": "Rārangi whakahou",
+  "update_app_message": "Me whakahou i to taupānga",
+  "UPDATE_AVAILABLE": "Whakahōu Kei te wātea",
+  "UPDATE_BTN": "Whakahou",
+  "update_completed": "Kua angitu te Whakawhanakehia o te Kamupene",
+  "update_firmware_download_error": "Hapa i te tikiake i te rūma",
+  "update_list": "Whakahou",
+  "UPLOAD_ERROR": "KAUPAPA: Kaua e nui ake te 5 MB",
+  "upload_referral": "Tukuna mai to tono ki roto i te pouaka i raro nei.",
+  "urinTest": "Nga whakamātautau mimi",
+  "user": "Kaiwhakamahi",
+  "userdata": "Whakamahi raraunga kaiwhakamahi",
+  "usermanagement": "Kaiwhakahaere Kaiwhakamahi",
+  "USERNAME": "Ingoa Kaiwhakamahi",
+  "username1": "Ingoa Kaiwhakamahi",
+  "utente_aggiunto": "Kua honoa te Kaiwhakamahi",
+  "utente_rimosso": "Kua mukua te Kaiwhakamahi",
+  "utente_salvato": "Kua whakahoutia te Kaiwhakamahi",
+  "vaccinobbligatorio": "Tena koa, whiriwhiri i te kano kano",
+  "vaioffline": "Haere Tuimotu",
+  "vaionline": "Haere Online",
+  "valence": "Taurangi",
+  "valenceDescription": "He rerekētanga mai i te kounga ki te huakore. A, no te whakarongo ki te korero a tetahi, ka taea te mohio ki te &quot;pai&quot;, te &quot;kino&quot; ranei e pa ana ki te kaupapa, te ahanoa, te takahanga ranei i raro i te korero.",
+  "value": "Te uara",
+  "vascular_age": "Te pakeke o te tau",
+  "vascular_age1": "Te pakeke o te tau",
+  "va_desc": "Ko te Maatua Maatua e whakarato ana koe i te waahanga o te tau o nga mahi a te tangata, ina whakaritea ki nga tangata hauora. Mena he nui ake to tau pakeke i to tau, ka nui ake pea te whakawhanaketanga o te mate cardiovascular (CVD) i muri mai i te ora.",
+  "videocall": "Videocall",
+  "VIDEOCALL_DES1": "Patohia te pātene i raro nei hei huri i to mana me te whiwhi, kaore hoki e riro nga whakamohiotanga. Kia mahara ka taea e koe te whakamohio i te wa e turangi ana koe.",
+  "VIDEOCALL_DES2": "Ina whiwhi koe i tetahi piiraa, panui i te tapawhiti ka puta mai ki te tango i te piiraa.",
+  "videocall_filter": "Tātari mā te ingoa, motuhake rānei",
+  "videocall_request": "Ko te tono mo te ataata hou mai i",
+  "videocall_request_title": "Whakaaetanga Ataata",
+  "videocall_req_from": "Puka tono ataata mai i:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "Pāwhiritia hei whakahohe i te ataata",
+  "VIDEO_CALL_BTN": "Waea ataata",
+  "VIDEO_CALL_BTN_1": "Ataata",
+  "view": "Tiro",
+  "viewmedicalfile": "Tirohia te kōnae hauora",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Waihangatia to Office Manaha",
+  "VIRTUAL_OFFICE_TITLE": "Office Matapihi",
+  "visitdetail": "Patohia i ia mea kia kite i te hitori katoa o te manawanui",
+  "visithistory": "Tirohia te Hītori",
+  "visitlist": "Rārangi o ngā haerenga",
+  "VISIT_HISTORY_NO_HISTORY": "Kaore koe i tae mai",
+  "VISIT_HISTORY_SUBTITLE": "Patohia i ia mea hei kite i nga taipitopito katoa",
+  "VISIT_HISTORY_TITLE": "Tirohia te Hītori",
+  "volte": "Nga wa",
+  "waiting": "Te tukatuka ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "He mahana",
+  "WARNING_TITLE_NOTIFICATION": "Whakarongo",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Raraunga hauora",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Rauemi Hauora",
+  "WATCH_DEVICE_DATA_TITLE": "Ko to raraunga taputapu mataara",
+  "water": "Te wai",
+  "weanedoff": "Kua werohia?",
+  "WEDNESDAY": "Rā Apa",
+  "week": "He wiki",
+  "weight": "Taumaha",
+  "weightUnit": "Te Taumaha Taumaha",
+  "welcome": "Nau mai",
+  "wellness": "Hauora",
+  "wellnessdata": "Rauemi Hauora",
+  "wellnessSuccess": "Te angitu",
+  "WHITE_SPACES": "Me kaua te Ingoa Kaiwhakamahi e whakauru i nga waahi ma",
+  "WRIST_CUT_SCREEN": "Tahurihia te Mata Mata",
+  "writtenRep": "Pūrongo tuhi",
+  "W_RESPIRATORY_RATE": "Te hau",
+  "xray": "X-hihi",
+  "Y": "Ae",
+  "year": "Tau",
+  "years": "tau",
+  "yes": "Ae",
+  "yourarousal": "Ko to hiahia",
+  "youremotion": "Ko o koutou ngakau",
+  "yourmood": "Ko to ahua",
+  "yourtemper": "Ko to riri",
+  "yourvalence": "To koutou valence",
+  "your_sai": "Ko to Waitohu Mahi ko:",
+  "your_sbpi": "Ko to tautuhinga totohu toto ko:",
+  "your_sci": "Ko te taurangi hinengaro ko:",
+  "your_sii": "Ko to tautuhinga Ingarangi he",
+  "your_sri": "Ko to tautuhi hauhautanga ko:",
+  "your_ssi": "Ko to Tautuhi Tohunga o:",
+  "your_stress": "Ko to taumata taumaha ko:",
+  "your_va": "Ko to tau pakeke he:",
+  "zero_min": "I teie nei",
+  "zipCode": "Zip Zip",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

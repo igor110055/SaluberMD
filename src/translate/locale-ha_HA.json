@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Game da Mu",
+  "ABOUT_US_CONDITION_1": "Cold &amp; Flu",
+  "ABOUT_US_CONDITION_2": "Yanayin fata",
+  "ABOUT_US_CONDITION_3": "Allergies",
+  "ABOUT_US_CONDITION_4": "Sashin Ƙafa",
+  "ABOUT_US_CONDITION_5": "Tsai da saya",
+  "ABOUT_US_DOCTOR_BENEFIT1": "ƘARARIN RAYUWA:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Zaka iya ganin har zuwa marasa lafiya shida a awa daya (ziyara ta musamman yana kusan kimanin minti 10);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "GASKIYA KARANTA DA KUMA A WANNAN DUNIYA:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Ƙara dangantaka da haƙuri tare da iyawa don magance halin yanzu da sababbin marasa lafiya daga ko ina cikin duniya;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "GETA KUMA GASKIYA KUMA:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Shuka aikinka na yanzu kuma bayar da ƙarin zaɓuɓɓuka don marasa lafiya;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "MORE WANNAN BUKATA KUMA:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Marasa lafiya za su iya aika muku takardun, hotuna, lab sakamakon ba tare da barin gida ba kuma za ku iya saka idanu da lafiyar lafiyarku lafiya;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Tabbatar wanda ya bukaci hannunsa a kan kulawa nan da nan kuma wanda zai iya amfana daga magani mai nisa ba tare da barin gida ba;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "ƘARARIN RAYUWA:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "HOUR KUMA:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Da ikon saita lokacinka kuma saita tsarinka.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Ku shiga cikin motsi don samar da abin dogara, mai araha, samun damar duniya a lafiyar lafiya cikin minti 15 ko ƙasa.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD an tsara shi ne don sauya dangantakar likita-haƙuri ta hanyar samar da 24/7 zuwa ga likita a duniya.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Doctor Amfanin",
+  "ABOUT_US_DOCTOR_TITLE": "Game da Mu",
+  "about_us_section1_p1": "SaluberMD ne kungiyar sadarwar Lafiya ta Ƙungiyar Zaɓuɓɓuka ta Ƙarfafawa don sake fasalin sabis na likita da samfurori don inganta sakamakon kiwon lafiya a dukan duniya. Ayyukan Mu na Ƙwararrun Mu na Lambobinmu, samar da damar yin amfani da lafiyar lafiyar lafiya, likitoci na kwararrun likitocin, likita na likita a cikin harsuna 18, waɗanda ba za su iya yin amfani da su ba don duba lafiyarka, da kuma samun dama ga hanyar sadarwa na masu sana&#39;a da kuma ayyuka.",
+  "ABOUT_US_SECTION1_TITLE": "Game da Mu",
+  "ABOUT_US_SECTION2_P1": "Ta hanyar hanyar geo-localization ɗinmu app zai sami likita mafi kyau a kusa da ku. SaluberMD Dikitoci na iya ganewa, bi da su, ko tattauna yanayin lafiyar ku ta bidiyon bidiyo kuma sun ba ku tsari mai kyau. Yawancin al&#39;amuran da suka fi dacewa da su a asibitin likita za a iya bi da su tare da ziyarar bidiyo. <br/> Wasu daga cikin yanayin da muke bi da su:",
+  "ABOUT_US_SECTION2_P2": "Littafin Jakadancinka na sirri ne mai dacewa don adana duk bayanan lafiyarka, hotuna da fayiloli. Kula da lafiyarka tare da 24/7 samun damar yin amfani da duk bayanan likita naka. Ko kun kasance a gida ko tafiya kasashen waje bayaninku yana cikin ƙananan yatsa don raba tare da ma&#39;aikacin lafiyar ku. Mai sauƙin amfani da rikodin lafiyar mutum yana samuwa a cikin harsuna 18.",
+  "ABOUT_US_SECTION2_TITLE": "Ta yaya yake aiki?",
+  "ABOUT_US_SECTION3_P1": "Abin sani kawai likitoci masu kyau sunyi kiwon likita kan SaluberMD. Wadannan masu sana&#39;a sun tabbatar da su, an yi musu horo kuma sun horar da su don samar da kyakkyawan kulawa. Kowace likita yana da kwayar halitta inda za ka iya ganin tushen su, takardun shaida, da kwarewa. SaluberMD yana da ƙwarewa ga ci gaba da kulawa da kwarewar likitocinmu. Tsarin tsarin kulawa yana ba wa marasa lafiya damar likita likitoci da kuma duba likitoci duka ra&#39;ayi.",
+  "ABOUT_US_SECTION3_TITLE": "Mu likitoci",
+  "ABOUT_US_TITLE": "Game da Mu",
+  "above_warning": "Ka&#39;idodin da ke sama suna cikin haɗari",
+  "accept": "Karɓa",
+  "acceptablerange": "Adadi mai karɓa",
+  "ACCEPT_BTN": "Karɓa",
+  "acquire": "Samo bayanai",
+  "acronym": "Acronym",
+  "action": "Action",
+  "actions": "Ayyuka",
+  "actionTaken": "Anyi Ayyukan",
+  "activity": "Ayyuka",
+  "acutecare": "Kulawa mai mahimmanci",
+  "add": "New",
+  "addavailability": "Ƙara kasancewar ku",
+  "addcomment": "Ƙara ku sharhi a nan",
+  "adddescription": "Ƙara bayaninku a nan",
+  "adddrugs": "Binciken wata miyagun ƙwayoyi ta amfani da akwatin bincike a ƙasa kuma ku sanya akwati don ƙara shi zuwa takardar kuɗinku",
+  "addedFavourite": "An yi nasarar ƙarawa zuwa ga masu so",
+  "addedFavourite2": "An yi nasarar ƙarawa zuwa ga masu so. danna maɓallin sabunta don nuna shi.",
+  "addedFavourite3": "An ci gaba da samun nasarar  nKama ƙasa don jin dadi",
+  "addFavourite": "Ƙara zuwa Faɗakarwar",
+  "ADDING_SLOT": "Slotsara ramummuka .... wannan na iya ɗaukar ɗan lokaci.",
+  "addNew": "Newara sabo",
+  "addpharmacies": "Danna kan maballin don ƙara wajan likitan ku",
+  "addpharmacy": "Ƙara kantin magani",
+  "addreminder": "Latsa maɓallin ƙara don ƙara abin tunatar da ku.",
+  "address": "Adireshin",
+  "address2": "Adireshin bayarwa",
+  "address3": "Adireshin sabis",
+  "addsintomi": "Ƙara bayyanar cututtuka",
+  "addslot": "Ƙara slot",
+  "add_description_file": "Ƙara bayanin (ba lallai ba)",
+  "add_new": "Ƙara",
+  "affaticamento_grave": "Wuyar wahala",
+  "affaticamento_minore": "Ƙananan gajiya",
+  "agenda": "My ajanda",
+  "agenda_report": "Rahoton Alkawari",
+  "aggiungi": "Ƙirƙiri",
+  "AGREE_BTN": "Na amince",
+  "alcoholDesc": "Barasa ya zaci",
+  "all": "Duk",
+  "alldata": "Duk Bayanai",
+  "allergia": "Allergy",
+  "allergia_aggiunta": "Al&#39;umma da lafiya sun halitta",
+  "allergia_rimossa": "An kawar da rashin lafiya na rashin lafiyar",
+  "allergia_salvata": "Masarar lafiyar haƙuri ta samu nasarar sabuntawa",
+  "allergie": "Allergies",
+  "allimages": "Duk Hotuna",
+  "alreadyAddedF": "Wannan kantin magani ya riga ya kasance a cikin masu so",
+  "alreadyRegistred": "Wannan adireshin imel ɗin ya wanzu a cikin tsarin da yake gudana. Da fatan za a shiga cikin app ɗin don yin alƙawari.",
+  "alreadyTaken": "An riga an dauki alƙawari",
+  "alta": "High",
+  "alto": "High",
+  "amonth": "30 Days",
+  "anger": "Fushi",
+  "annoinizio": "An fara Farawa",
+  "antibiotics": "Antibiotics",
+  "an_error_occurred": "Kash! A halin yanzu ba mu iya isa ga buƙatarku ba. Sake gwadawa daga baya",
+  "appointment": "Ƙayyadewa",
+  "appointmentlist": "Jerin sunayen sunayen",
+  "appointments": "Ƙayyadewa",
+  "appointmentsDescription": "Jerin jadawalin alƙawari",
+  "appointment_body_doc": "Sabon alƙawari da aka shirya tare da",
+  "appointment_calcelled_title": "An soke majalisa",
+  "appointment_cancelled": "ya soke izininsa",
+  "appointment_email_body": "Mun tabbatar da alƙawarinku da likita",
+  "appointment_history": "Gwargwadon tarihin",
+  "appointment_now": "Farawar ku fara yanzu",
+  "appremainder": "Ƙayyadaddin saurarar",
+  "appremainder1": "Kuna da bidiyo mai bidiyo a cikin minti 5",
+  "appremainder2": "Kuna da bidiyon videocall cikin minti 30",
+  "appremainder3": "Kuna da bidiyon videocall a cikin minti 120",
+  "APPROX_DATA": "Sauran Bayanan Lafiya",
+  "appuntamenti": "Ƙayyadewa",
+  "appuntamenti_presi": "Ƙayyadaddar Kira",
+  "appuntamento_clinica": "Neman Gidan Gida",
+  "APPUNTAMENTO_CONGIUNTO": "Kuna son yin littafin bidiyo?",
+  "app_description": "Sanya dalilan saduwarku a kwalin da ke kasan",
+  "app_details": "Cikakkun bayanan alƙawura",
+  "app_missing": "Ba a shigar da kayan talla ba",
+  "ARIAX": "Rawan Breath",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Arousal",
+  "arousalDescription": "Ƙarin da ke samo daga natsuwa ko rashin tausayi ga farkawa da tashin hankali. Ya dace da mahimmancin ra&#39;ayoyi irin su matakin kunnawa da motsa jiki.",
+  "assign_specialist": "Sanya gwani ga buƙatar",
+  "associa": "Aboki",
+  "attachment": "Abin haɗi",
+  "ATTACH_A_PHOTO": "Haɗa hoto",
+  "BACKGROUND": "Bayani",
+  "BACKGROUND_PLCHOLDER": "Da fatan a shigar da ɗan gajeren lokaci.",
+  "backhomeconfirm": "Shin kuna tabbata za ku koma gida?",
+  "BACK_BTN": "Baya",
+  "BACK_LOGIN": "Komawa zuwa shiga",
+  "bad_file": "Ba za a iya buɗe fayil ba",
+  "basicinfo": "Bayanan Asali",
+  "bassa": "Low",
+  "basso": "low",
+  "below_warning": "Darajar da ke ƙasa suna cikin haɗari",
+  "benefits": "Abubuwan da ake amfani da shi",
+  "beyondverbal": "Ƙwaƙwalwa na motsa duk abin da muke yi, duk da haka murmushin motsin zuciyar kirki ya kasance mafi mahimmanci, ba&#39;a bayyana ba a yau. Bayan Ƙarshe yana da alhakin canja wannan.",
+  "beyondverbal_analyze": "Yi nazarin halinka",
+  "beyondverbal_history": "Sakamakon tarihi",
+  "beyondverbal_instruction": "Lokacin da kake shirye don amsa tambaya ta fara latsawa",
+  "BIRTHDATE": "Ranar haifuwa",
+  "birthday": "Ranar haihuwar",
+  "blank_agenda": "Babu slot ga yau",
+  "bloatedOrContipated": "Rufewa ko Ƙaddara",
+  "bluetooth_error": "Yi amfani da Bluetooth kafin ka ci gaba",
+  "BOARD": "Board Certified",
+  "bones": "Kasusuwa",
+  "bp": "Ruwan jini",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Tallafin mahimmanci game da ƙin jini",
+  "breakfast": "Breakfast",
+  "btnback": "Baya",
+  "btndelete": "Share",
+  "btndisabledoctor": "Kashe likita",
+  "btndisablepatient": "Yi haƙuri",
+  "btnenabledoctor": "Yarda likita",
+  "btnenablepatient": "Yi haƙuri",
+  "btnsave": "Ajiye",
+  "BTN_LOAD_MORE": "Load ƙarin",
+  "buttonsearch": "Binciken",
+  "bvFailed": "Ba a yi nasarar nazarin muryarka ba, kana buƙatar magana da yawa!",
+  "bvInstruction": "Yi magana kawai don 20 seconds ko fiye",
+  "bvInstruction2": "Yi magana kawai don 20 seconds",
+  "ca": "Kwayoyin jijiyoyin jini",
+  "call": "Kira",
+  "callCancel": "Ba za a iya soke kiran da aka ƙare ba",
+  "calldoctor": "Kira likita",
+  "calling_number": "Kira Lambar",
+  "callthedoctor": "Kira Likita",
+  "calltransfer": "Karkatar da kira ...",
+  "CALL_ALREADY_TAKEN": "Kira riga ya karɓa",
+  "CALL_DOCTOR_INFO": "Doctor Info",
+  "CALL_DURATION": "Lokacin kira",
+  "call_instruction": "Za mu aika maka da sanarwar da zaran ka iya kiran likita. Danna kan sanarwar da zaran ka karbi shi don fara videocalll. Idan ka share sanarwar, za ka iya samun shi a sashin sanarwa a ƙarƙashin sanarwa na kiwon lafiya na.",
+  "CALL_NOTIFICATIONS": "Kira",
+  "CALL_NO_INCOMING": "Babu kira mai shigowa",
+  "CALL_TRANSFER_INFO": "Bayanin canja wurin kira",
+  "CALL_WAITING": "Da fatan a jira yayin da muke nemo likitan da yake samuwa",
+  "CALL_WAITING_2": "Da fatan a jira yayin da likita ke duba fayil dinku",
+  "calories": "Calories",
+  "cancel": "Cancel",
+  "cancelAppointment": "A soke wannan alƙawari",
+  "CANCEL_BTN": "Cancel",
+  "CAP": "Lambar titi",
+  "cardiac_output": "Kayan aikin Cardiac",
+  "cardiac_output1": "Kayan aikin Cardiac",
+  "cardiac_output_desc": "Sakamakon na zuciya shine kawai jinin jini da zuciya ta minti daya.",
+  "cardiovascular": "Kwayoyin jijiyoyin jini",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "CVC mara inganci",
+  "CARD_EXPIRY_DATE": "Ranar ƙare",
+  "CARD_MONTH_ERROR": "Watanni mara inganci",
+  "CARD_NUMBER": "Lambar kati",
+  "CARD_NUMBER_ERROR": "Lambar CC mara inganci",
+  "CARD_YEAR_ERROR": "Ƙarshen shekara mara inganci",
+  "category": "Category",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "Ana buƙatar CCV",
+  "CERROR": "Kuskuren Kira",
+  "certificate_attachment": "A haɗe akwai takaddar likita",
+  "certificate_email": "A haɗe akwai takaddun likitan ku",
+  "certificate_header": "Dangane da kimantawar likitanci da aka gudanar, an bayyana abubuwa masu zuwa:",
+  "certificate_sent": "An Ba da Takaddun Shaida",
+  "certification_subject": "Takaddun likitan ku",
+  "cf": "Dokar Kasuwanci",
+  "cf_error": "Don Allah, saka lambar kuɗin kudi",
+  "changeschedule": "Sauya lokaci",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Kalmarka ta ƙare, don Allah canza shi.",
+  "CHANGE_PWD_SECTION_TITLE": "Canza kalmar shiga",
+  "CHANGE_PWD_TITLE": "Kalmar sirrinku zata ƙare, canza shi",
+  "checking_net_condition": "Ana duba haɗin Intanet ...",
+  "CHECK_PARAMETERS_CORX": "Don Allah, saka nauyin nauyi da tsawo a kan sashin layi don lissafta dabi&#39;u mai kyau.",
+  "CHL_TOT": "Jimlar Cholesterol",
+  "choosedate": "Zaɓi kwanan wata",
+  "chooseDateDescription": "Danna kwanan wata don fadada shi kuma zaɓi sa&#39;a",
+  "chooseprofile": "Ku ne?",
+  "choosespeciality": "Zabi Neman Harkokin Kiwon Lafiya",
+  "choosetransferdoctor": "Zaɓi likita",
+  "CHOOSE_A_DOCTOR": "Zabi likitanku",
+  "chosedoctor": "Don Allah, zaɓi likita",
+  "city": "City",
+  "city1": "City",
+  "city2": "City",
+  "clearsignature": "Sunny sanya hannu",
+  "clickitem": "Danna kan kowane abu don ganin cikakkun bayanai",
+  "clickrow": "Danna kan jere don zaɓar",
+  "clickToOpen": "Danna don buɗe fayil ɗin",
+  "click_to_start_call": "Danna kan likita don fara kiran",
+  "clinics": "Clinics",
+  "CLOCK_FORMAT": "Tsarin Clock",
+  "closeappconfirm": "Shin kuna tabbatar da rufe shirin?",
+  "CLOSE_BTN": "Kusa",
+  "cm": "cm",
+  "CODE": "Code",
+  "code_not_valid": "Lamilin da aka saka ba shi da inganci",
+  "code_verified": "An yi nasarar tabbatar da lambar!",
+  "coffeeDesc": "Coffee ya ɗauka",
+  "COMMENT": "sharhin",
+  "commenti": "Comments",
+  "COMPANY_NAME": "Kamfanin",
+  "COMPLAIN": "Gunaguni",
+  "COMPLETE_PROFILE": "Kammala bayaninka kafin ka ci gaba",
+  "COMPLETE_PROFILE_TITLE": "Don Allah cika bayanin ku",
+  "complications": "Matsaloli",
+  "concernlist": "Don Allah a lissafa damuwa ta farko / damuwa",
+  "CONFIRM": "Ko",
+  "confirm_app": "Tabbatar da alƙawarin ku",
+  "CONFIRM_EMAIL_TITLE": "Tabbatar da Imel",
+  "CONFIRM_PWD": "Tabbata kalmar shiga",
+  "connect": "Latsa maɓallin Haɗi don haɗi na&#39;urar",
+  "connectbtn": "Haɗa",
+  "connectedto": "An haɗa zuwa",
+  "connecting": "Haɗawa ... Da fatan a jira",
+  "connection_progress": "Haɗa zuwa na&#39;urar ...",
+  "CONSULT": "Gunaguni",
+  "consult1": "Duba",
+  "consultation": "Tuntuba",
+  "consultationHistory": "Tarihin Tarihi",
+  "contact": "Saduwa",
+  "CONTACT_US_BTN": "Tuntuɓi Mu",
+  "CONTACT_US_SECTION_TITLE": "Da fatan a tuntube mu da wasu tambayoyi ko don taimako ta amfani da app.",
+  "CONTACT_US_TITLE": "Tuntuɓi Mu",
+  "contatti": "Bayanin hulda",
+  "continue": "Ci gaba",
+  "copy_url": "Kwafa url",
+  "CORX": "ECG",
+  "corxDidFailEcg": "Kuskuren samun EKG",
+  "corxDidFailWellness": "Kuskuren samun bayanai na asali",
+  "corxDidNoEcg": "Babu bayanai na EKG",
+  "corxDidNoWellness": "Babu bayanai da kyau",
+  "CORX_DATA": "Bayanin CorX",
+  "corx_disconnected": "Corx Ya katse",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Don Allah, ƙayyade nauyi da tsawo a cikin bidiyon don ƙayyade lambobin siginar.",
+  "COUNTRY": "Ƙasar",
+  "country1": "Ƙasar",
+  "county": "County",
+  "co_alta": "fiye da 8 L / min",
+  "co_bassa": "žasa fiye da 4 L / min",
+  "co_normale": "tsakanin 4 zuwa 8 L / min",
+  "creditCard_selected": "Zaɓaɓɓen katin da aka zaɓa don wannan sabis ɗin",
+  "currency": "Kuɗi",
+  "C_SPECIALTY": "Musamman sana&#39;a",
+  "dailyuse": "Amfani da Daily",
+  "dashboardVideocall": "Dashboard Videocall",
+  "dataerror": "Kwanan wata / lokacin da ka zaɓa ya wuce kwanan wata / lokaci na yanzu",
+  "dataexists": "Akwai alƙawari da kwanan wata da lokaci da aka zaɓa",
+  "datafetching": "Samun bayanan sirrinka ... Don Allah a jira.",
+  "dataPrenotazione": "Kwanan kwanan wata",
+  "dataVaccinazione": "Lissafin rigakafi",
+  "date": "Kwanan wata",
+  "dateDiscovered": "Kwanan wata aka gano",
+  "dateStart": "Fara Farawa",
+  "datipersonali": "Bayanan sirri",
+  "datiScaricati": "Ana Sauke Bayanan Bayanai",
+  "day": "Ranar",
+  "deassociate_corx_alert": "Kuna so ku haɗu da Corx?",
+  "decline": "Ragewa",
+  "DECLINE_BTN": "Ragewa",
+  "DEEP_SLEEP_TIME": "Sannu mai zurfi",
+  "defaultQuestion": "Latsa farawa kuma gaya mana yadda kake ji a yau",
+  "delete": "Share",
+  "deleteAlarm": "Share wannan ƙararrawa?",
+  "deleteAppointment": "Kuna so ku soke alƙawari?",
+  "deleteDescription": "Za a share shi nan da nan.",
+  "deleteMessage": "Shin kuna tabbatar kuna so ku share wannan?",
+  "deleteMultipleDesctiption": "Lambar slot da za a share:",
+  "deleteNumber": "Shin kuna tabbatar kuna so ku share wannan lambar?",
+  "deleteSlotDay": "Kashe dukkan rami kyauta a yau",
+  "deleteSlotMonth": "Kashe dukkan raguwa kyauta a wannan watan",
+  "deleteSlotWeek": "Kashe dukkan shunni kyauta a wannan makon",
+  "deletevalue_q": "Shin kuna tabbatar kuna so ku share darajar?",
+  "DELETE_NOTIFICATION_MSG": "Shin kana son goge duk sanarwar da ta gabata?",
+  "demo": "Wannan gwagwarmaya, babu kudi da za a caje.",
+  "dependencies": "Dalilai",
+  "description": "Bayani",
+  "descriptionMandatory": "Don Allah, saka bayanin",
+  "deseaseCategory": "Cutar Category",
+  "desirable": "Abin so",
+  "dettagli": "Bayanai",
+  "dettaglio_struttura": "Bayani daki-daki",
+  "device": "Na&#39;urar",
+  "devicefound": "Na&#39;urar da aka samo",
+  "devices": "Kayan aiki",
+  "devicetype": "Nau&#39;in Na&#39;ura",
+  "DEVICE_BLOOD_PRESSURE": "Ruwan jini",
+  "DEVICE_CALORIES": "Calories ƙone",
+  "DEVICE_CARDIAC": "Cardiac saka idanu",
+  "DEVICE_CHL": "Bayanan Lafiya",
+  "DEVICE_DATA_SECTION_TITLE": "Bayanan bayanan likita",
+  "DEVICE_DATA_TITLE": "Bayanin na&#39;ura",
+  "DEVICE_DATA_TITLE_1": "Bayanin Na&#39;urar likita",
+  "DEVICE_EKG": "ECG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glucometer",
+  "DEVICE_HEART_RATE": "Zuciya Zuciya",
+  "DEVICE_PEDOMETER": "Pedometer",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Tsarin numfashi",
+  "DEVICE_SPO2": "Spo2",
+  "DEVICE_TEMPERATURE": "Temperatuwan",
+  "DIAGNOSIS": "Sanin asali",
+  "diastolic": "Diastolic",
+  "dieci": "Sakamakon 10 na karshe",
+  "diet": "Abinci",
+  "digestion": "Matsalar narkewa",
+  "dinner": "Abincin dare",
+  "dipendenza": "Dama",
+  "disableAlarm": "An kunna ƙararrawa",
+  "disabled": "Masiha",
+  "DISABLE_PANIC_BUTTON": "Kunna Button Panic",
+  "DISABLE_PUNIC_BUTTON": "Kashe Button Button",
+  "disconnectall": "Saita tsaye",
+  "disconnectbtn": "Cire haɗin",
+  "DISDICI": "Cancel",
+  "disease": "Mawuyacin lokaci",
+  "diseasemanagement": "Gudanar da Cututtuka",
+  "diseases": "Cututtuka",
+  "disease_1": "Cututtuka",
+  "dissocia": "Disassociate",
+  "DISTANCE": "Distance",
+  "dm_section_description_1": "Anan zaka iya hašawa fayilolinku",
+  "DND": "Kar a damemu",
+  "DOCEMAIL": "Email likita",
+  "DOCNAME": "Sunan likita",
+  "DOCPHONE": "Lambar wayar likita",
+  "DOCTOR": "Doctor",
+  "doctor1": "Doctor",
+  "doctorAtHome": "Doctor a Home",
+  "doctorAtHomeQuestion1": "Ina son taimako gida domin:",
+  "doctorAtHomeQuestion2": "Zabi taimako na gida da kake bukata",
+  "doctorAtHomeQuestion2Answer1": "Janar Aiki",
+  "doctorAtHomeQuestion2Answer2": "Pediatric",
+  "doctorAtHomeQuestion2Answer3": "Nurse",
+  "doctorAtHomeQuestion3": "Saka dalilin dalilin da ya sa kake son samun taimako",
+  "doctorAtHomeQuestion4": "Bayyana a cikin hanyar da ke ƙasa adireshin da kake son karɓar taimako",
+  "doctorAtHomeRequestBtn": "Aika buƙatar",
+  "doctorAtHomeRequestSuccess": "Mun karbi buƙatarku. Za&#39;a iya tuntuɓarka tare da 2 hours don shirya aikin gida",
+  "doctorAtHomeTitle": "Doctor a Home",
+  "doctorbusy": "Doctor yana aiki a wani kira",
+  "doctorbusy1": "Dole na aiki a wani kira",
+  "doctorlist": "Jerin likitocin",
+  "doctormanagement": "Doctors management",
+  "doctoroffline": "Likita yana da nesa, sake dubawa",
+  "doctorupdate": "Doctor",
+  "DOCTOR_PROFILE_OPT1": "Profile",
+  "DOCTOR_PROFILE_OPT2": "Binciken Binciken Zuciya",
+  "DOCTOR_PROFILE_OPT3": "Bayar da abokin aiki",
+  "DOCTOR_PROFILE_SECTION1": "Bayanin martaba",
+  "DOCTOR_PROFILE_TITLE": "Profile",
+  "doctor_request_sent": "Mun aika da buƙatarka ga likitocinmu. Za ku sami amsar a cikin minti biyu.",
+  "documents": "Takardun",
+  "DOCUMENT_BTN": "Takardun",
+  "doestake": "Shin kun karba",
+  "DONATION_TITLE": "Tabbatar da kyauta",
+  "done": "Bayanan Trackx da aka sauke da saukewa. Za ku sami su a ƙarƙashin sashin bayanai na jin dadi",
+  "doneAppointmentPatient": "Alkawarin da suka gabata",
+  "DONE_BTN": "Anyi",
+  "dontknow": "Ban tuna ba",
+  "DORMIVEGLIA": "Rashin fata",
+  "dosage": "Yankewa",
+  "dosetake1": "Shin kun dauka magunguna?",
+  "dottore_rimosso": "An kammala aikin likita",
+  "dottore_salvato": "An kammala aikin likita",
+  "download": "Saukewa",
+  "downloadaspdf": "Sauke kamar PDF",
+  "downloadecg": "Download ECG",
+  "DOWNLOADING_DEVICE_DATA": "Saukewa ...",
+  "downloadwellnessdata": "Ana sauke bayanan lafiyar ...",
+  "downloadWellnessResult": "Ƙari ƙara",
+  "DOWNLOAD_CERTIFICATE": "Sauke takardar shaidar",
+  "DOWNLOAD_ERROR_GENERIC": "Oops. Wani ɓacciyar ɓoye ya ɓace yayin ƙoƙarin sauke fayil din. Da fatan a sake gwadawa daga baya.",
+  "DOWNLOAD_SO_REPORT": "Sauke Bayanan",
+  "DO_NOT_DISTURB": "Kar a damemu",
+  "drugsAtHome": "Drugs a gida",
+  "drugsAtHomeQuestion1": "Kuna so ku karbi maganin da likitanku ya umarta kai tsaye a gida?",
+  "drugsAtHomeRequestBtn": "Aika buƙatar",
+  "drugsAtHomeRequestSuccess": "Mun karbi buƙatarku. Za a aika kwayoyi cikin sa&#39;o&#39;i 24",
+  "drugsAtHomeSection1": "Samar da takardar da ke ƙasa da lambar wayar da adireshin da kake son karɓar kwayoyi.",
+  "drugsAtHomeTitle": "Drugs a gida",
+  "drug_name": "Drug Name",
+  "duration": "Duration",
+  "ecg": "ECG",
+  "ecgadded": "ECG ya kara da cewa a cikin jerin",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "Bayanin EKG",
+  "ecgdetail": "Danna kowane abu don ganin hoton ECG",
+  "ECG_DELETE_Q": "Shin kuna tabbatar kuna so ku share EKG?",
+  "ecg_not_found": "Fayil ɗin ECG mara daidai, gwada wani misuaration.",
+  "ECG_REMOVED": "An kori EKG da gogewa",
+  "edit": "Shirya",
+  "EKG_SECTION_TITLE": "Electrocardiogram (EKG / ECG) Sakamako",
+  "EKG_TITLE": "EKG Shigo",
+  "EMAIL": "Imel",
+  "email1": "Imel",
+  "email_do_not_match": "Imel ba su daidaita ba",
+  "ematicTest": "Gwajin Musamman",
+  "Emergency": "Nuna Ana gaggawa",
+  "emergency1": "Gaggawa",
+  "emergencyLoginCode": "Lambar Shiga gaggawa",
+  "emergency_numbers": "Lambobin gaggawa",
+  "emergency_number_description": "Ƙara lambobin waya don kira a yanayin gaggawa",
+  "emotionDescription": "Haɗuwa da mahimmancin motsin zuciyarmu, kamar yadda masu amfani masu amfani suka bayyana a lokacin ɓangaren murya.",
+  "emotions": "Hadin motsin haɗi",
+  "emptypassword": "Don Allah, saka kalmar sirri",
+  "EMPTY_ALLERGIES": "Danna kan maballin don ƙara wata cuta ga rikodin likita",
+  "empty_dataset": "Babu bayanai",
+  "EMPTY_DEPENDENCIES": "Danna maɓallin don ƙara dogara ga rikodin aikin likita",
+  "EMPTY_DISEASE": "Danna kan maballin don ƙara wata cuta ga rikodin likita",
+  "EMPTY_DOCUMENTS": "Danna maɓallin don ƙara wani takardun zuwa ga rikodin likita",
+  "EMPTY_IMAGES": "Danna kan maballin don ƙara hoto zuwa ga rikodin likita",
+  "EMPTY_IMMUNIZATION": "Latsa maɓallin don ƙara wani rigakafi zuwa rikodin likita",
+  "EMPTY_MEDICATION": "Danna kan maballin don ƙara magani zuwa bayanin rikodin ku",
+  "empty_otp": "Lambar OTP mara inganci",
+  "EMPTY_PROSTHESIS": "Danna kan maballin don ƙara wani prosthesis ga rikodin likita",
+  "EMPTY_TESTS": "Danna kan maɓallin don ƙara gwajin zuwa rikodin likita",
+  "enabled": "An kunna",
+  "endate": "To",
+  "endcall": "Karshen kira",
+  "endDate": "Ƙarshe Ranar",
+  "endhour": "Ƙarshen lokaci",
+  "end_time": "Ƙarshen lokaci",
+  "END_VIDEOCALL_Q1": "Kuna tabbata kuna so ku kawo karshen shawarwari ba tare da fara bidiyo bidiyo?",
+  "END_VISIT_BTN": "Taron ƙarshe",
+  "error": "Kuskure",
+  "error_call_timeout": "Lokaci don yin videocall ya ƙare. Don yin bidiyo, sake maimaita tsari.",
+  "ERROR_EMAIL_DUPPLICATE": "Yana kama da wannan adireshin email ɗin an riga an rajista. Gwada wani.",
+  "error_price": "Don Allah, ƙayyade kuɗi",
+  "ERROR_SPECIFY_DAYS": "Don Allah, saka akalla mako ɗaya",
+  "ERROR_SPECIFY_HOUR": "Don Allah, saka lokacin",
+  "ERROR_TITLE_NOTIFICATION": "Kuskure",
+  "ERROR_TRACKX": "Kunna Trackx",
+  "error_update": "Kuskuren Ana Ɗaukaka Firmware",
+  "ERROR_USERNAME_DUPPLICATE": "An riga an dauki sunan mai amfani, zabi wani",
+  "ERROR_WHITELIST": "Yi hakuri, ba a kunna na&#39;urarka don yin wasan bidiyo ba",
+  "esameobbligatorio": "Da fatan za a zabi jarrabawa",
+  "exam_name": "Sunan jarrabawa",
+  "exercise": "Aiki",
+  "exercisereminders": "Abubuwan Tunawa na Aiki",
+  "existentassoc": "Ƙungiyoyin da suka kasance",
+  "existentrelation": "Wannan dangantaka ya wanzu",
+  "expandfordetails": "Ƙara don ƙarin bayani",
+  "EXP_MONTH": "Watan Bala&#39;i",
+  "EXP_MONTH_REQUIRED": "Ana buƙatar watan ƙarewa",
+  "EXP_YEAR": "Shekarar karewa",
+  "EXP_YEAR_REQUIRED": "Ana buƙatar shekara ta ƙarewa",
+  "e_prescribing": "E-Bayyanawa",
+  "F": "Mace",
+  "farmaci": "Magunguna",
+  "farmaco": "Magunguna",
+  "fat": "Fat",
+  "FATIGUE_INDEX": "Wulo",
+  "FATIGUE_INDEX_DESCRIPTION": "Ayyuka, aiki da kwarewa da suka haifar da digiri na gajiya. Rashin wucewa mai yawa zai haifar da kullun tsoka, ciwon kai, rashin barci, gajiya, ciwon kagu, kuma sauƙin kai ga tsarin jin tsoro, cututtukan endocrin, wanda ya haifar da cututtuka da yawa da kuma gajiya.",
+  "favoriteslist": "Jerin Lissafi nawa",
+  "FAVORITES_NO": "Ba ku ƙara likitoci zuwa jerin abubuwan da kuka fi so ba",
+  "FAVORITES_NO_PHARMACIES": "Ba ku ƙara wani kantin magani a jerin jarin ku ba",
+  "FAVORITES_SECTION_SUBTITLE": "Danna kan kowane abu don ganin cikakkun bayanai",
+  "FAVORITES_SECTION_TITLE": "Masanan likita",
+  "FAVORITES_TITLE": "Zaɓuɓɓuka",
+  "favourite_pharmacy": "Pharmacies Ya fi so",
+  "FEE": "Gudanar da Kudin",
+  "FEET": "ƙafa",
+  "female": "Mace",
+  "fileloaded": "An ɗora fayilolin fayil",
+  "fileloaded1": "An gabatar da shi sosai tare",
+  "fileName": "Sunan fayil",
+  "filenotfound": "Ba a samo fayil ba",
+  "file_upload_instruction": "Shiga umarni",
+  "filldate": "Don Allah, zaɓi kwanan wata",
+  "filldoctor": "Don Allah, zaɓi likita",
+  "fillpeciality": "Don Allah, zaɓi sana&#39;a",
+  "fillthebox": "Cika akwatin",
+  "fill_indication": "Da fatan a cika filin da aka nuna",
+  "fill_indication_for": "Da fatan a saka alamar",
+  "fill_quantity": "Don Allah, cika filin da yawa",
+  "fill_quantity_for": "Da fatan a saka adadin don",
+  "fill_your_doubt": "Don Allah, samar da bayanin a cikin akwatin da ke sama.",
+  "filter": "Filter",
+  "finddoctor": "Nemi likitoci",
+  "findFarmacia": "Search Pharmacy",
+  "findpatient": "Nemo haƙuri",
+  "findspcialist": "Nemo gwani",
+  "findStruttura": "Binciken Tsarin",
+  "finduser": "Nemi mai amfani",
+  "FIND_A_DOCTOR": "Haɗa zuwa likita",
+  "find_device": "Nemi Na&#39;ura",
+  "FIND_THE_BRACELET": "Nemo Munduwa",
+  "fingerprint_btn": "Yarda shigar da sahun hannu",
+  "fingerprint_hint": "Tabbatar da yatsa don cigaba",
+  "fingerprint_hint2": "Tabbatar da yatsa don cigaba",
+  "fingerprint_question": "Kuna so ku kunna tabbacin ƙwaƙwalwar yatsa?",
+  "FIRMWARE_UPDATE": "Ɗaukaka Firmware",
+  "FIRMWARE_UPDATED": "An tabbatar da ƙwaƙwalwar ajiya",
+  "firstName": "Sunan rana",
+  "five_min": "A cikin minti 5",
+  "fixappointment": "Kuna so ku tsara wannan ganawa?",
+  "forever": "Har abada",
+  "forgotPassword": "manta da kalmar shigar ki?",
+  "forgot_password": "Manta da kalmar sirri?",
+  "forma": "Rubuta",
+  "formafarmaco": "Misalin magani",
+  "formatError": "Farashi dole ne ya zama adadi.",
+  "found_devices": "Kayan na&#39;urori",
+  "FRIDAY": "Jumma&#39;a",
+  "GENDER": "Gender",
+  "gender1": "Gender",
+  "general": "Janar",
+  "generalInfo": "Janar bayani",
+  "genericName": "Sunan jinsin",
+  "GENERIC_ERROR": "OOps! Wani abu ya ɓace. Da fatan a sake gwadawa daga baya",
+  "geneticTest": "Nazarin Halitta",
+  "geneticTestHeader2": "Ta hanyar gwaje-gwajen kwayoyin za ka iya samun karin bayani game da lafiyar ka kuma yi abin da ke daidai don ci gaba da lafiya.",
+  "geneticTestHeader3": "Ta yaya yake aiki?",
+  "geneticTestProduct": "Farfesa na Farko",
+  "geneticTestRequestBtn": "Tambaya don gwaji",
+  "geneticTestRequestSuccess": "An tabbatar da umarninka. Za ku karɓi kit ɗin tsaye a gida",
+  "geneticTestSection1": "Shin kuna so a yanzu idan abin da kuka ci ya ishe jikinku da metabolism?",
+  "geneticTestSection2": "Kuna so in san idan kayan abinci mafi koshin lafiya don jikinka bazaiyi hadarin cututtukan cututtuka ba?",
+  "geneticTestSection3": "Jarabawar gwajin abinci zai sanar da kai da hanyar haɗi tsakanin DNA da cin abinci.",
+  "geneticTestSection4": "Ƙara a nan lambar wayarka da adireshin da kake son karɓar kit ɗin",
+  "geneticTestStep1": "1. Yi gwajin ku",
+  "geneticTestStep1Subtitle": "Yi umarni tare da app kuma karɓar kit ɗin tsaye a gida.",
+  "geneticTestStep2Subtitle": "Ɗauki samfurin kuma aika mana ta hanyar aika gidan waya ta amfani da envelope da za mu ba ka.",
+  "geneticTestStep3": "3. Sami sakamakon",
+  "geneticTestStep3Subtitle": "Bayan mako guda za ku karbi saƙo da ke sanar da ku cewa sakamakon sakamakon gwaji zai kasance a kan App.",
+  "geneticTestTitle": "Nazarin Halitta",
+  "GLUCOMETER": "Glucometer",
+  "glucosio": "Glucose",
+  "HAND_BRIGHTEN": "Raga hannunka zuwa Brighten",
+  "happiness": "Farin ciki",
+  "HDL": "HDL cholesterol",
+  "hdl_cholesterol_desc": "Mafi yawan lipoprotein (HDL) cholesterol an san shi da suna &#39;kyau&#39; cholesterol. Tebur mai zuwa yana nuna kewayon dabi&#39;u.",
+  "healthtips": "Healthtips",
+  "HEALTH_INDEX": "Lafiya",
+  "HEALTH_INDEX_DESCRIPTION": "Harkokin lafiyar HRV shine ta hanyar nazarin yawancin zuciya na HR da kuma juyayin zuciya HRV da wasu sigogi, bisa la&#39;akari da ainihin sakamakon Holter don nazarin sigogin lafiyar jiki, alamar kiwon lafiya ya karu, wakiltar lafiyar jiki mafi alhẽri; Rahoton kiwon lafiyar ya rage, a madadin jiki Dole ne ku kula da rayuwar lafiyar yau da kullum.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Zuciya",
+  "HEART_INDEX_DESCRIPTION": "Masu amfani da katin Cardiac sun auna yanayin zuciyar mutum, kuma aikin su ya bambanta saboda matakan da suke so ga zuciya da kuma lafiyar lafiyar mutum. Don inganta salon rayuwa mai kyau da kuma halaye masu cin nama: dabarun da za su iya motsa zuciyar zuciya don yin amfani da ƙwayar calcium na sodium, don kare tasoshin jini, zai iya hana rigakafin cututtukan zuciya, shine don ƙarfafa tsarin aikin zuciya.",
+  "height": "Hawan",
+  "height1": "Ana buƙatar tsawo don daidaitawa na BMI",
+  "heightUnit": "Nau&#39;in Tsaro",
+  "hepaticFunction": "Aikin Hepatic",
+  "hide": "Boye",
+  "high1": "High",
+  "high_risk": "Babban haɗari",
+  "history": "Tarihin Tarihi",
+  "homepage": "Home",
+  "HOME_WARNING_MESSAGE": "Shin kuna tabbatar kuna so ku kewaya daga wannan shafin? Za&#39;a rasa canjinku.",
+  "hormonalTest": "Gwajin aikin Hormonal",
+  "hospDate": "Hosp.date",
+  "hospit": "An dakatar da shi don asibiti",
+  "hospital": "Asibitin",
+  "hospitalization": "Samun lafiya",
+  "hour": "Sa&#39;a",
+  "hours": "Hours",
+  "HOURS_BANK_DONATE_BTN": "Donate",
+  "HOURS_BANK_DONATION": "Hours da aka bayar yanzu:",
+  "HOURS_BANK_H": "Bankin Hours:",
+  "HOURS_BANK_SECTION_P1": "Lafiya shine babban fifiko a SaluberMD kuma muna so mu zama mafi yawan mutane yadda ya kamata. Ta hanyar dandalinmu muna samar da yiwuwar wa anda suke bukata su sami damar samun lafiya. Ƙungiyarmu ta sadaukar da kai ta ƙaddara don samar da damar kiwon lafiya ga kungiyoyi, da mutane da kuma iyalan da suke bukata.",
+  "HOURS_BANK_SECTION_P2": "Kawai danna mahadar tare da tsawon sa&#39;o&#39;i da kake son ba da kyauta kuma za mu ƙara su zuwa bankinmu.",
+  "HOURS_BANK_SECTION_P3": "Za mu tuntuɓar ku ta hanyar app don fansar sa&#39;o&#39;i da kuma lokacin da kuke samuwa kawai danna yarda don ganin marasa lafiya.",
+  "HOURS_BANK_SECTION_TITLE": "Ku shiga cikin kyautar lafiyar ku!",
+  "HOURS_BANK_TITLE": "Bankin Hours",
+  "howto": "Yadda za a",
+  "howto1": "Ana nuna ramummukan da aka samo tare da kwallon kore",
+  "howto2": "Zaɓi tantanin halitta tare da kwallon kore kuma danna kan shi don fadada kuma zaɓi lokaci. Lokacin da kake shirye click zuwa alamar fensir don ganin dalla-dalla kuma dauki alƙawari",
+  "howToPrice": "Farashin dole ne ya kasance ƙimar lamba. An yarda da mafi yawan adadin ƙididdiga biyu. Ana iya amfani da dm ko wakafi azaman raba",
+  "hrv_buono": "Kyakkyawan",
+  "hrv_eccellente": "Madalla",
+  "hrv_generale": "Janar",
+  "hr_alta": "Fiye da 100",
+  "hr_bassa": "Kasa da 60",
+  "HR_DESCRIPTION": "Teburin mahimmanci na yawan ƙwaƙwalwar ajiya",
+  "HR_INTERVAL": "Hanya Tsarin Hanya",
+  "hr_normale": "Daga tsakanin 60 zuwa 100",
+  "hsh": "Tsarin lafiya da Tarihin M",
+  "IBAN": "IBAN",
+  "idx": "Sharuɗɗa",
+  "image": "Hoton hoto",
+  "images": "Hotuna",
+  "immunization": "Samun rigakafi",
+  "immunizationmenu": "Samun rigakafi",
+  "importhealth": "Shigo da bayanan Lafiya",
+  "impossible_transfer": "Ba za a iya yin amfani da kira ba",
+  "INCH": "Inch",
+  "indexes": "Sharuɗɗa",
+  "indication": "Bayyanawa",
+  "INFO_BTN": "Bayani",
+  "info_salvate": "An adana bayanan bayanai",
+  "iniezione": "Inuwa",
+  "initiative": "Shirin shirin",
+  "initiativeerror": "Don Allah, zaɓi hanyar daya",
+  "insert": "Saka",
+  "inserttext": "Saka rubutu a nan",
+  "insert_otp_code": "Saka lambar a nan",
+  "internet_missing": "Ba a haɗa ka da intanet ba",
+  "invalidemail": "Adireshin imel mara inganci",
+  "invoice": "Invoice",
+  "irregulartest": "Ƙwalolin gwaji",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kilogiram",
+  "kydneyTests": "Gwajin Aikin Kidne",
+  "labtesting": "Network",
+  "LANGUAGE": "Harshe",
+  "LANGUAGE_TYPE": "Harshe",
+  "lastmeasure": "Ƙimar ƙarshe",
+  "lastName": "Sunan mahaifa",
+  "lastPhysical": "Jiki na ƙarshe",
+  "lastSync": "Aiki na Ƙarshe",
+  "lastTimeOnline": "Lokaci na ƙarshe Online",
+  "lastvisit": "Taron karshe",
+  "last_login_date": "Last Login Date",
+  "last_time_taken": "Lokaci na ƙarshe da aka ɗauka",
+  "LDL": "LDL cholesterol",
+  "ldl_cholesterol_desc": "LDL, ko ƙarancin lipoprotein, shine cholesterol &#39;mara kyau&#39;. Tebur mai zuwa yana nuna kewayon dabi&#39;u",
+  "leggero": "Haske",
+  "LICENSE_NUMBER": "Lambar lasisin",
+  "LIGHT_SLEEP_TIME": "Hasken Haske",
+  "listcall": "Jerin videocall ya aikata",
+  "litri": "Liter",
+  "liverExam": "Gwajin aikin hanta",
+  "LIVE_ECG": "New ji",
+  "live_ecg_downloading": "Ana sauke ECG. Don Allah jira...",
+  "loadEcgList": "Shafin jerin EKG ...",
+  "loading": "Sakamakon bayanai ...",
+  "loading1": "Loading ...",
+  "loading_list": "Jerin da aka ɗauka ...",
+  "loading_list_nutritionist": "Loading nutritionists ...",
+  "LOAD_INDEX": "Load",
+  "LOAD_INDEX_DESCRIPTION": "Degree da gajiya, damuwa Kula da jiki sosai don ɗaukar nauyin kayan aiki, yin la&#39;akari da abubuwan da ke cikin jiki da na tunanin mutane suna ɗaukar nauyin yanayi. Harkokin zamantakewa, rayuwa da gasar da kuma wasu dalilai, amma kuma ta yanayin jiki da halin mutum.",
+  "LOAD_ITEMS": "Loading ...",
+  "LOGGING_IN": "Shiga cikin ...",
+  "LOGGING_OUT": "Shiga cikin ...",
+  "LOGIN_BTN": "Shiga",
+  "LOGIN_ERROR": "Sunan mai amfani ko Kalmar wucewa",
+  "Logout": "Binciken",
+  "logout1": "Binciken",
+  "LOGOUT_BTN": "Binciken",
+  "low1": "Low",
+  "lunch": "Abincin rana",
+  "lungtest": "Bari mu yi gwajin gwaji",
+  "M": "Mace",
+  "male": "Mace",
+  "manageapp": "Sarrafa alƙawura",
+  "manageslot": "Sarrafa rami na kyauta",
+  "MANAGE_CORX": "Sarrafa Corx",
+  "mandatoryDays": "Don Allah, tantance yawan kwanakin",
+  "mandatoryfield": "Don Allah, cika dukkan filin da ake bukata",
+  "map": "Taswira",
+  "max_file_size": "Girman fayil ɗin dole ne ƙasa da",
+  "meals": "Abincin",
+  "medicalconsultation": "Tuntuba",
+  "medicalfile": "Hotuna",
+  "medicalform": "Forms na likita",
+  "medicalforms": "Forms na likita",
+  "medicalinfo": "Bayanan lafiya",
+  "medicalrecord": "Record Medical",
+  "medical_2option": "Bayani na Harkokin Kiwon Lafiya",
+  "MEDICAL_CERTIFICATE": "Takaddun Likita",
+  "MEDICAL_FILE_BTN": "Fayil ɗin lafiya",
+  "medication": "Magunguna",
+  "medication_name": "Sunan magani",
+  "medicinereminders": "Abubuwan Tunawa na Lafiya",
+  "medio": "Matsakaici",
+  "medium1": "Matsakaici",
+  "message": "Saƙo",
+  "messagesent": "Sakon da aka aika da sakon",
+  "metabolismTest": "Gwajewar Tsarin Barin Kwayar cuta",
+  "method": "Hanyar",
+  "METRIC": "Matakan",
+  "middedcall2": "Kana da kira mara amsawa daga",
+  "minutes": "mintuna",
+  "missedcall": "SaluberMd An rasa videocall",
+  "missedcall1": "Kira da aka rasa",
+  "missedNotiAlert": "Kuna da sanarwar da aka rasa.",
+  "misurazioni": "Records",
+  "misure": "Sanya",
+  "mobile": "Mobile",
+  "mobile_required": "Don Allah, ƙara lambar wayar ku domin mu iya tuntuɓar ku don shirya alƙawari.",
+  "moderate_risk": "Hadarin matsakaici",
+  "MONDAY": "Litinin",
+  "month": "Watan",
+  "mood": "Ƙungiyar yanayi",
+  "moodDescription": "Alamar maɓallin alama na halin jinin mai magana a lokacin sashin murya. API na samar da jimlar ƙungiyoyi 11 daga jingina, ƙauna da kuma kula da kai ga farin ciki da jin dadi.",
+  "moreDays": "Karin kwanakin",
+  "motivazione": "Dalili",
+  "MRGraph": "Magunguna sun dauki tarihin",
+  "msgAppointment": "An yi nasarar shirya alƙawari. Za ku sami alƙawarinku a cikin sassan amfani na concierge.",
+  "msgsurveysent": "An gudanar da binciken da aka aika",
+  "msg_call_reconnection": "Ƙoƙarin yin sulhu ...",
+  "MSG_CALL_TRANSFERED": "An sami nasarar watsa bidiyon video",
+  "MSG_CHOOSE_OPTION": "Don Allah, zaɓi wani zaɓi",
+  "MSG_CHOOSE_OPTION4": "Zaɓi wani zaɓi",
+  "MSG_CHOOSE_OPTION5": "Bayyana karin kumallo",
+  "MSG_CHOOSE_OPTION6": "Bayyana abincin ku",
+  "MSG_CHOOSE_OPTION7": "Bayyana abincin ku",
+  "MSG_CHOOSE_OPTION8": "Bayyana magungunan ku",
+  "MSG_CHOOSE_OPTION9": "Don Allah, amsa duk tambayoyin",
+  "MSG_CHOOSE_OPTION_2": "Don Allah, saka bayanin",
+  "MSG_CHOOSE_OPTION_3": "Zaɓi akalla daya zaɓi",
+  "MSG_COMPLETE_PROFILE": "Kuna so ku je yanzu?",
+  "MSG_CONFIRM_EMAIL": "Don Allah, tabbatar da adireshin imel",
+  "MSG_CONFIRM_EMAIL_TEXT": "Mun aika maka da imel tare da umarnin akan yadda za&#39;a tabbatar da adireshin imel naka. Da fatan a duba akwatin saƙo.",
+  "msg_connected": "An haɗa shi da haɗari",
+  "MSG_CONTACT_SUCCESS": "Na gode da biyayya.",
+  "MSG_DOC_ENDED_CALL": "Dole ya ƙare kiran",
+  "MSG_DOC_WAITING_CALL": "An katse Dokita ɗin, yana jiran tarwatsawa",
+  "MSG_DONATION": "Tabbatar da kyauta?",
+  "MSG_DONATION_CONFIRM": "Na gode don kyautarku",
+  "MSG_ERROR_FILL_BOXES": "Don Allah a cika kwalaye da daidaitattun lambobin",
+  "MSG_FILL_ALL_BOXES": "Don Allah, cika dukkan kwalaye",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Da fatan a cika dukkan waɗannan fannoni",
+  "MSG_FILL_BOXES": "Don Allah cika da kwalaye",
+  "MSG_FILL_BOXES_ALL": "Don Allah, cika dukkan filayen",
+  "MSG_FILL_BOXES_PROFILE": "Don Allah, cika dukkan akwatunan da aka alama tare da tauraron",
+  "MSG_GENERIC_ERROR": "Da fatan a duba jigon intanit ɗinku don sake gwadawa.",
+  "MSG_GENERIC_FORM_ERROR": "Da fatan a gyara kuskure don ci gaba",
+  "MSG_LOGIN_ERROR": "An kasa shiga shiga. Da fatan a duba takardun shaidarku kuma ku tabbata an haɗa ku zuwa cibiyar sadarwa.",
+  "MSG_LOGIN_ERROR_LOCKED": "An shiga aikin shiga: asusunku yana kulle wucin gadi. Da fatan a sake dawowa daga baya.",
+  "MSG_MANDATORY_OPTION": "Dole ne ku ba da izinin likita don ganin Fayil ɗin lafiya",
+  "MSG_NO_DOCTORS_FOUND": "Muna rokon, amma babu likitocin da aka samo. Latsa Rika likita domin ya nemi",
+  "MSG_PATIENT_CANCELED_CALL": "Mai haƙuri ya soke kiran.",
+  "MSG_PATIENT_ENDED_CALL": "Mai haƙuri ya ƙare kira",
+  "MSG_PATIENT_WAITING_CALL": "An katse mai haƙuri, yana jiran tarwatsawa",
+  "MSG_POST_CALL_CANCEL": "Ka ƙare ziyarar kafin ka fara videocall!",
+  "MSG_POST_CALL_DOCTOR": "Tsarin da aka aiko da ku zai dawo zuwa shafin yanar gizonku",
+  "MSG_POST_CALL_PATIENT": "Na gode don amfani da SaluberMD. Za ku sami imel ɗin imel. Don duba cikakkun bayanai game da ziyarar ku ziyarci Tarihin Binciken na Binciken-ziyarta",
+  "msg_reconnection_error": "An cire haɗin na&#39;ura. Da fatan a sake sa na&#39;urar",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Godiya ... wani zai tuntube ku",
+  "MSG_REGISTRATION_SUCCESS": "Rijistarku ya ci nasara",
+  "msg_req_videocall1": "yana samuwa ga videocall a cikin:",
+  "msg_req_videocall2": "Hoton bidiyo ya shirya don farawa. Danna wannan sanarwar don kunna videocall",
+  "msg_req_videocall3": "yana samuwa ga videocall yanzu. Danna wannan sanarwar don kunna videocall",
+  "MSG_RESET_REQUEST_ERROR": "Mai amfani da wannan sunan mai amfani ko adireshin email bai wanzu ba.",
+  "MSG_RESET_REQUEST_SUCCESS": "Za ku sami saƙonnin imel nan da nan wanda ke dauke da hanyar haɗi don sake saita kalmar sirri.",
+  "MSG_RESUME_CALL": "Yanzu kuna da kira, kuna so ku sake ci gaba?",
+  "MSG_SCHOOL_MISSING": "Saka Makaranta",
+  "MSG_SELECT_TIMEZONE": "Zaɓi wani lokaci lokaci",
+  "MSG_SIGNATURE_MISSING": "Da fatan a cika sa hannunka, in ba haka ba za ka iya aika wani takaddun bayanai ba.",
+  "MSG_THANKING": "Na gode da biyayya.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Rashin haɗi. Wannan zai iya zama saboda haɗin yanar gizonku",
+  "MSG_WELCOME_BACK": "Barka da dawowa",
+  "MSG_YEAR_PRACTISE": "Shigar da Year of Practice",
+  "muscles": "Ƙungiya",
+  "myappointment": "Ayyukan na",
+  "MYFILE_NOFILE": "Ba ku da fayiloli duk da haka",
+  "MYFILE_SECTION": "Your fayiloli",
+  "MYFILE_SUBTITLE": "Danna kan kowane abu don ganin abun ciki na fayil",
+  "MYFILE_TITLE": "My Files",
+  "myprofile": "My Profile",
+  "myreminders": "Abubuwan tunawata",
+  "MY_TICKETS": "Tikitinku",
+  "M_SCHOOL": "Makarantar Koyon lafiya",
+  "N": "A&#39;a",
+  "name": "Sunan",
+  "negative": "Kuskure",
+  "nervous": "M",
+  "nessun_appuntamento": "Babu alƙawuran da suka gabata",
+  "NETWORK_CHECK_MSG": "Yawan Bandwidth yana da ƙasa ƙwarai. Yin wasa da abun ciki tare da ƙaramin bandwidth zai sa bidiyo ta dakatar.",
+  "NETWORK_CHECK_TITLE": "Kira Gwaran Kira",
+  "NETWORK_ERROR": "Kuskuren Haɗin Intanet. Sake gwadawa daga baya",
+  "neutral": "Neutral",
+  "newappointment": "Sabuwar alƙawari daga",
+  "newass": "Ƙara sabon ƙungiya",
+  "NEWPWD_CONFIRM": "An canza nasarar kalmar sirri. Da fatan a sake sake shiga.",
+  "NEWPWD_CONFIRM2": "Kalmar wucewa ta canza",
+  "NEWPWD_ERROR": "Sabuwar kalmar sirri bata dace ba.",
+  "newtest": "Latsa maɓallin button don yin sabon gwajin.",
+  "NEW_PWD": "Sabuwar kalmar sirri",
+  "new_ticket": "Sabuwar Tikiti",
+  "NEXT": "Kusa",
+  "no": "A&#39;a",
+  "noAlarm": "Babu ƙararrawa",
+  "noallergies": "Babu wani abun da ake kira allergies.",
+  "noapatient": "Babu mai haƙuri da aka samo",
+  "noappointment": "Babu alƙawari da aka tsara",
+  "noappointments": "Babu kwanan wata tare da wannan likita",
+  "noappointments1": "Babu kwanakin da ke da wannan mai gina jiki",
+  "noAppoPat": "Babu alƙawari da za a lissafa",
+  "noarticles": "Babu kayan abinci mai gina jiki",
+  "noassociatedpatient": "Ba ku da haƙuri da ke hade",
+  "noattachment": "Don Allah, zaɓi abin da aka makala",
+  "noattachment1": "Babu Abin da aka saka",
+  "noavailableoption": "Babu zaɓi akwai",
+  "nocomment": "Babu bayani / ƙaddarawa",
+  "noconsulenze": "Babu ziyarar da aka yi",
+  "nocorxfound": "Ba a samu CORX ba",
+  "nodata": "Babu bayanai",
+  "nodependency": "Babu masu dogara da aka jera.",
+  "nodesease": "Babu cututtuka da aka jera.",
+  "nodevice": "Ba a samu na&#39;ura ba, don Allah sake gwadawa",
+  "nodoctor": "Babu likitoci da aka samo",
+  "nodoctors": "Babu likitoci da ke samuwa",
+  "noDocuments": "Babu takardun da aka aika",
+  "nodrugselected": "Ka zaɓi wani magani",
+  "noecg": "Babu ECG da aka jera",
+  "noexam": "Babu jarrabawa don nuna",
+  "nofiles": "Babu fayilolin da aka hako da masu haƙuri",
+  "noHistory": "Babu shawarwari a wannan lokacin",
+  "nohsh": "Babu asibiti da aka jera.",
+  "noimages": "Babu abin da aka makala a wannan lokacin",
+  "noimmunization": "Babu wata rigakafi da aka lissafa.",
+  "nolabtest": "Ba a sami samfurin bincike ba",
+  "nomedication": "Babu magunguna da aka jera.",
+  "nomisure": "Babu ma&#39;auni",
+  "nonterminata": "Kira Ba tare da nasara ba",
+  "nonutritionist": "Babu mai gina jiki mai samuwa",
+  "nonuvoair": "Babu na&#39;urar da aka samo",
+  "nopharmacy": "Babu kantin magani da aka samo",
+  "noprescription": "Babu takaddun bayanai a wannan lokacin",
+  "noprothesis": "Babu wani ƙuƙwarar rigakafi ko taimakon likita da aka jera.",
+  "noreferrals": "Babu wasu sunayen da aka jera",
+  "noreminders": "Ba ku da tunatarwa a yanzu",
+  "noresults": "Ba a sami sakamako ba",
+  "normale": "Na al&#39;ada",
+  "normalrange": "Yanayi na al&#39;ada",
+  "normalWeight": "Nauyin al&#39;ada",
+  "nosintomi": "Babu alama da aka zaɓa",
+  "nospecialist": "Babu kwararru",
+  "note": "Bayanan kula",
+  "notests": "Babu wasu gwaje-gwaje da ba a bi ka&#39;ida ba.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Danna nan don kammala kammala fayil ɗin likita",
+  "NOTIFICATIONS_SECTION": "Sanarwa",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Samun 1 shawarwari kyauta ko sanarwa na kiwon lafiya bayan kammala kammala fayil din likita.",
+  "NOTIFICATIONS_SETTINGS": "Shirya sanarwar",
+  "NOTIFICATIONS_TITLE": "Sanarwa",
+  "notification_setting": "Zaɓa daga cikin category na wich da kake son karɓar sanarwar",
+  "notimage": "Fayil ɗin ba siffar ba ne: An ba da damar BMP, GIF, JPG da PNG",
+  "notNow": "Ba yanzu",
+  "notnow_btn": "Ba yanzu",
+  "nouser": "Babu mai amfani da aka samo",
+  "novantad": "Kwanan baya 90",
+  "novideocall": "Ba a sami videocall ba",
+  "novisit": "Ba ku da hawan haƙuri a yanzu",
+  "noWellnessData": "Ba Sabuwar Bayanan Kulawa",
+  "no_certificate": "Babu takardar shaidar da za a jera",
+  "no_chiosc_data": "Babu gwajin Lab don dubawa",
+  "NO_DATA": "Babu bayanai",
+  "no_doctor_answer1": "Babu likitoci a yanzu.",
+  "no_doctor_answer2": "Zaka iya ɗaukar alƙawari ta danna kan maɓallin da ke ƙasa.",
+  "NO_GENETIC_TEST_REQUESTS": "Ba ku nemi gwajin kwayoyin halitta ba",
+  "NO_MSG": "Ba a aika saƙonni ba",
+  "no_notifications": "Ba ku da sanarwa",
+  "no_prescription_download": "Babu takaddama da ke haɗuwa da wannan shawara",
+  "no_pull_answer": "Babu likita a yanzu.",
+  "no_referral_download": "Babu wani abin da ya shafi wannan ziyarar",
+  "NO_SECOND_OP_REQUESTS": "Ba ku da takardun neman Sabis na Bayani na Biyu",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Ba a samo gwadawa ba",
+  "NO_TICKETS_SENT": "Ba a aika da tikiti ba",
+  "NO_USER_FOUND": "Sunan mai amfani ko Email ba a samo ba",
+  "NPI": "NPI",
+  "ns": "M System",
+  "numberNotSaved": "Kuskure yayin adana lambar",
+  "numberSaved": "Adana da aka adana Suyi nasara",
+  "nuovoair_connected": "An haɗa",
+  "nuovoair_disconnected": "An cire shi",
+  "nutriPen": "Biyan bukata",
+  "nutriRev": "Binciken da aka sake yi",
+  "nutrition": "abinci mai gina jiki",
+  "nutritionist": "Yi magana da wani mai nutrionist",
+  "NUTRITIONIST_Q1": "Manufofin Farko: (Duba duk Aiwatar)",
+  "NUTRITIONIST_Q10": "Kuna lura da fushi, haske ya bishi ko rauni idan ba ku ci ba?",
+  "NUTRITIONIST_Q11": "Dokar Ayyuka na yau da kullum: (Cardio, Resistance, Etc.)",
+  "NUTRITIONIST_Q12": "Shin kuna shan taba ?: (Idan eh, sau nawa kuma sau nawa?)",
+  "NUTRITIONIST_Q13": "Kuna shan Barasa ?: (Idan eh, sau nawa kuma sau nawa?)",
+  "NUTRITIONIST_Q14": "Kuna sha maganin maganin kafeyin ?: (Idan eh, sau nawa kuma sau nawa?)",
+  "NUTRITIONIST_Q15": "Kwanan Kwanan Jiki na ƙarshe:",
+  "NUTRITIONIST_Q16": "Sau nawa ne an riga an umurce ku maganin rigakafi a cikin shekaru 2 da suka gabata:",
+  "NUTRITIONIST_Q16_BIS": "Idan haka ne, waɗanne ne kuma sau nawa, (Don Allah a kasance kamar yadda ya kamata.)",
+  "NUTRITIONIST_Q17": "Kuna shan magunguna? (OTC ko Dokar?) Idan haka ne, waɗanne ne kuma kuna daukan kari? Idan haka ne, sau nawa, (Don Allah a kasance kamar yadda ya kamata.)",
+  "NUTRITIONIST_Q18": "Shin an rufe ku ne ko ƙuntatawa fiye da kwanaki 1-2 a mako?",
+  "NUTRITIONIST_Q19": "Kuna da matsala a cikin yankunan da ke gaba? Idan haka ne, don Allah bayyana abubuwan da suka shafi ku a daki-daki a cikin wuraren da aka ba su.",
+  "NUTRITIONIST_Q2": "Kusan yawan abinci kuke ci a rana? (Zaɓi Daya)",
+  "NUTRITIONIST_Q3": "Mene Ne Abincin Abinci na Abincin Abincin, kuma wane lokaci:",
+  "NUTRITIONIST_Q4": "Mene Ne Abincin Abincin Abincin Abincin Kai, kuma wane lokaci:",
+  "NUTRITIONIST_Q5": "Mene Ne Abincin Abincin Kafiyar Abincinku, da wane lokaci:",
+  "NUTRITIONIST_Q6": "Mene ne Kayan Gudanar da Kayan Kayan Kwace na, da kuma wane lokaci (s):",
+  "NUTRITIONIST_Q7": "Shin Kuna Yarda?",
+  "NUTRITIONIST_Q8": "Waɗanne abinci kuke tasowa da kuma sau nawa:",
+  "NUTRITIONIST_Q9": "Kuna da duk abincin abinci, ƙuntatawa ko hankulan abubuwa:",
+  "NUTRITIONIST_SUB1": "Rashin Lura",
+  "NUTRITIONIST_SUB10": "Nausea / Vomiting",
+  "NUTRITIONIST_SUB11": "Mutuwar Mutu",
+  "NUTRITIONIST_SUB2": "Karfin Gina",
+  "NUTRITIONIST_SUB3": "Energy / Fatigue",
+  "NUTRITIONIST_SUB4": "Barci mai kyau",
+  "NUTRITIONIST_SUB5": "Bayanan narkewa",
+  "NUTRITIONIST_SUB6": "Riba",
+  "NUTRITIONIST_SUB7": "Diarrhea",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Bloating / Gas",
+  "nutrition_mail": "An rattaba hannu a nan akwai rahoto mai gina jiki",
+  "nutrition_mail2": "Mai gina jiki ya aika maka fayil",
+  "nutrition_questionnaire": "abin tambaya mai gina jiki",
+  "nvisit": "Yawan bidiyo da aka yi",
+  "obesity1": "Obese",
+  "obesity2": "Girma obese",
+  "obesity3": "Abese da aka haramta",
+  "OFFICE_ADDRESS": "Adireshin ofishin",
+  "offline": "Haddatse",
+  "OFFLINE_DOCTOR_MSG": "Likitan yana kama da layi, don Allah a sake gwadawa nan gaba",
+  "OLDPWD_ERROR": "Saitunan sababbin kalmomi tare da tsohon kalmar wucewa.",
+  "OLD_PASSWORD_WRONG": "Tsohon kalmar sirri ba daidai ba ne",
+  "OLD_PWD": "Tsohon kalmar shiga",
+  "oneDay": "Wata rana",
+  "one_min": "A cikin minti 1",
+  "online": "Online",
+  "onlinedoctors": "Masanan Lantarki",
+  "openimage": "Danna kan hoton don buɗe a cikakken allo",
+  "open_ticket": "Bude Ticket",
+  "orale": "By Ƙara",
+  "other": "Sauran",
+  "othercbc": "Sauran Gwajin CBC",
+  "OTHER_PLACEHOLDER": "Da fatan a zaɓa da sana&#39;a",
+  "otoscopy": "Likita",
+  "otp_sent_msg": "Mun aiko muku da lambar tabbaci akan lambar wayarku",
+  "OUR_PRODUCTS_SECTION": "Ayyukanmu na samar da ainihin lokacin lafiyar lafiyar ku da kuma kula da lafiyar ku don taimaka muku kiyaye lafiyarku.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Ka auna lafiyar lafiyar ka a cikin hutu tare da kwararren kwararru",
+  "OUR_PRODUCTS_SECTION_P1": "Fasaha marar ƙwarewa wanda ke samar da ainihin lamarin kiwon lafiyar baya ga ayyukan lafiya",
+  "OUR_PRODUCTS_SECTION_P2": "Fitness / Wellness Amfanin",
+  "OUR_PRODUCTS_SECTION_P3": "Abinda aka gano na gida don dukan iyali.",
+  "OUR_PRODUCTS_SECTION_P4": "Ayyukan",
+  "OUR_PRODUCTS_SECTION_P5": "An tsara na&#39;urori biyu don yin hulɗa tare da app don samar da kwarewar lafiya. Za a adana sakamakonka a cikin app.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Sanya matsa lamba naka a cikin gajeren lokaci tare da kwararren sphygmometer",
+  "OUR_PRODUCTS_SECTION_SCALX": "Sanya nauyi a cikin hutu tare da sikelin sana&#39;a",
+  "OUR_PRODUCTS_TITLE": "Ayyukanmu",
+  "overeatFoods": "Abincin da ake ci",
+  "overeating": "Ƙarancin yalwatawa",
+  "overweight": "Girma",
+  "pa": "Mataimakin takaddama",
+  "PASSWORD": "Kalmar sirri",
+  "passwordchanged": "An canza nasarar kalmar shiga!",
+  "passwordExpiringMessage": "Kalmar sirrin ku zai ƙare nan da nan. Don Allah canza shi a yanzu",
+  "passwordExpiringTitle": "Kalmomin wucewa",
+  "PATIENT": "Mai haƙuri",
+  "patientAllergy": "Allergies",
+  "patientGeneticRequests": "Buƙatun gwaji na kwayoyin",
+  "patientinfo": "Bayanin mai haƙuri",
+  "patientlist": "Jerin marasa lafiya",
+  "patientmanagement": "Gudanarwa marasa lafiya",
+  "patientProtesi": "Prosthesis",
+  "PATIENTS_NO_P": "Kuna da halin yanzu babu wani haɓaka mai haɗari",
+  "PATIENTS_SECTION": "Ayyukanku",
+  "PATIENTS_SECTION_SUBTITLE": "Danna kan kowane abu don ganin cikakkun bayanai",
+  "PATIENTS_TITLE": "Marasa lafiya",
+  "patientupdate": "Mai haƙuri",
+  "patientvisit": "Mai haƙuri ya ziyarci tarihin",
+  "PATIENT_PROFILE_OPT1": "Bayanan martaba",
+  "PATIENT_PROFILE_OPT11": "My likita Doctors",
+  "PATIENT_PROFILE_OPT12": "Ƙara Pharmacy mafi kyau",
+  "PATIENT_PROFILE_OPT2": "Fayil na Asibiti",
+  "PATIENT_PROFILE_OPT3": "Abinda na ziyarci tarihin",
+  "PATIENT_PROFILE_OPT4": "My Favorites",
+  "PATIENT_PROFILE_OPT5": "My Files",
+  "PATIENT_PROFILE_OPT6": "Sanarwa nawa",
+  "PATIENT_PROFILE_OPT7": "EKG Shigo",
+  "PATIENT_PROFILE_OPT8": "Bayanan Kula da Lafiya",
+  "PATIENT_PROFILE_OPT9": "My Favorites Pharmacies",
+  "PATIENT_S1": "Mai haƙuri",
+  "PATIENT_S2": "Magana game da",
+  "PATIENT_S3": "Mai haƙuri haƙuri",
+  "PATIENT_S4": "Takardar ziyarar",
+  "PATIENT_S5": "Cututtuka",
+  "PATIENT_S6": "Allergies",
+  "PATIENT_S7": "Magunguna",
+  "PATIENT_S8": "Abubuwan da aka haɗa",
+  "PATIENT_S9": "Kwayar cututtuka?",
+  "PATIENT_SUMMARY": "Takaitaccen bayani game da haƙuri",
+  "patologia": "Pathology",
+  "payment": "Biyan kuɗi",
+  "PAYMENT_DETAILS": "Bayanin Biyan Kuɗi",
+  "PAYMENT_MESSAGE_1": "Za a ba ku izini na adadin",
+  "PAYMENT_MESSAGE_2": "Za a caje ku a ƙarshen vidiyo",
+  "PAYMENT_SECTION1": "Zaɓi katin daga jerin",
+  "PAYMENT_SECTION2": "Saka katin dabi&#39;u na katin bashi",
+  "PAYMENT_SUCCESS": "Biyan Biyan Suzuwa!",
+  "PAYMENT_SUCCESSFUL": "Mun yi nasara da izinin biya",
+  "PAYMENT_UNSUCCESSFUL": "Biyan kuɗin kafin ku biya ya kasa. Bincika bayanan katunan kuɗin ku ko ku tambayi bankin ku.",
+  "paziente_rimosso": "Matsayin haƙuri ya canza",
+  "paziente_salvato": "An sabunta kwanciyar hankali",
+  "pdf_download_error": "Ba za a iya sauke pdf ba. Da fatan a sake gwadawa daga baya",
+  "pdf_file_error": "Fayilolin pdf kawai ake shigar dasu",
+  "period": "Lokaci",
+  "PERIODIC_HEART_RATE": "Zuwan Zuciya na lokaci",
+  "personal": "Personal",
+  "personalCare": "Kulawa da Kai",
+  "personalinfo": "Bayanan Mutum",
+  "PER_MIN": "/ min",
+  "pharmacies": "Pharmacies",
+  "PHONE": "Lambar tarho",
+  "phone1": "Waya",
+  "pills": "Kwayoyi",
+  "PILLS_DATE_ERROR": "Fara kwanan wata ne bayan ƙarshen rana",
+  "pill_reminder_message": "Lokaci ya yi don daukar kwayoyin ku",
+  "placeholder": "sunan mai amfani, imel ko sunan",
+  "placeOfBirth": "Wurin Haihuwa",
+  "place_birth": "Wurin haihuwa",
+  "platform": "Platform",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Lambar Shaida",
+  "positive": "Gaskiya",
+  "POSTCALL_DOCTOR_TITLE": "Takaitaccen ziyarar",
+  "POSTCALL_PATIENT_TITLE": "Da fatan a sake gwada kwarewar ku",
+  "POUNDS": "fam",
+  "PRACTICE_LENGTH": "Length in practice",
+  "prenota": "Littafin yanzu",
+  "prenotatest": "Na buƙatar alƙawari",
+  "preobesity": "Pre-kiba",
+  "prescription": "Dokar",
+  "prescriptiondiscounts": "Lambar Kuɗi Na Musayar",
+  "PRESCRIPTIONS": "Sharuɗɗa",
+  "prescriptions_sent": "Bayanan da aka aika",
+  "prescription_mail": "An haɗa ku akwai takardar kuɗinku",
+  "prescription_mail2": "Na gode don amfani da SaluberMD",
+  "prescription_notification": "Mai ƙaunataccen mai amfani, muna sanar da ku cewa takardar ku a yanzu yana ƙarƙashin ɓangaren lokaci / taro tarihin app",
+  "prescription_pharmacy": "Zaɓi kantin magani don aika da takardar sayan magani",
+  "prescription_preview": "Bayanan rubutun",
+  "prescription_sent": "An aika da umurnin",
+  "PRESCRIPTION_SENT_EMAIL": "An aika da takardar kuɗin ku zuwa imel ku ...",
+  "prescription_subject": "Takardar ku",
+  "pressbutton": "Latsa maballin biyu a kan na&#39;urar kuma ka matsa Find Na&#39;ura",
+  "pressbuttonpresx": "Latsa ka riƙe maɓallin biyu a baya na na&#39;urar don fara haɗi kuma danna maɓallin gano maballin na&#39;urar",
+  "pressbuttonscalx": "Latsa ka riƙe maɓallin biyu a baya na na&#39;urar don fara haɗi kuma danna maɓallin gano maballin na&#39;urar",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Ruwan jini",
+  "PRESX_PROD": "PRESX",
+  "previous": "A baya",
+  "pre_period": "Lokacin Biyan kuɗi",
+  "price": "Farashi",
+  "price_per_visit": "Kudaden kowace ziyarar",
+  "PRICING_SECTION1_P1": "SaluberMD yana da ƙaddara don samar da kyauta, kulawa mai kyau a farashin mai araha ba tare da biyan kuɗi ba ko caji.",
+  "PRICING_SECTION1_P2": "SaluberMD yana ba da kula a duk inda kuma duk lokacin da kake buƙatar ta ta hanyar ziyarar bidiyo tare da likitan likita. Kwararrun likitoci za su iya tattauna, bincika, kuma sauraron bincikar maganganu ko kuma kawai magance tambayoyin kiwon lafiya da damuwa yayin da kake kiran bidiyo.",
+  "PRICING_SECTION1_P3": "Tare da Magunguna na musamman ɗinka za ka iya ba likitanka samun dama ga tarihin likita, hotunanka da fayiloli don taimakawa su samar da tsari mafi mahimmanci.",
+  "PRICING_SECTION1_TITLE": "ta ziyarar",
+  "PRICING_TITLE": "Farashin",
+  "primaryConcern": "Damuwa na farko",
+  "primaryMood": "Matsayin farko",
+  "print": "Buga",
+  "priority": "Fifiko",
+  "PRIVACY_POLICY_TITLE": "takardar kebantawa",
+  "problems": "matsaloli",
+  "PROCEED_PAYMENT": "Ci gaba tare da biyan",
+  "PROFESSIONAL_TITLE": "Nau&#39;in Darajar",
+  "PROFILE_SECTION2": "Bayanin hulda",
+  "protesi": "Harkokin ƙwayoyi da kuma likita",
+  "protesiobbligatorio": "Don Allah, zaɓi nau&#39;i na prosthesis",
+  "prov": "samfurin",
+  "publicAppUrl": "Url jama&#39;a don alƙawari shine:",
+  "pulldown": "Rasa ƙasa don sake kunnawa",
+  "pull_request_processed": "Na gode, Mun aika da samuwa ga mai haƙuri",
+  "PWD_NOTMATCH": "Kalmomin shiga ba su daidaita ba",
+  "P_P_Error": "Dole ku yarda da tsarin tsare sirri",
+  "QUALITY_INDEX": "Quality",
+  "QUALITY_INDEX_DESCRIPTION": "Jiki na jiki shi ne matakin ƙarfin hali da damuwa na tunanin mutum wanda ya fuskanci damar da za a iya daidaitawa da kuma kula da halin da ake ciki. Shafin jiki na jiki yana nuna jikin mutum don daidaitawa da sauyin yanayi da ƙarfin ƙarfafawa, kulawa da sake mayar da lafiyar jiki. Kayan lafiyar jiki yana nunawa a cikin rayuwar mutane, koyo, da kuma aiki, amma har ma a cikin motsa jiki. Halin jikin mutum yana da dangantaka da ladabi amma yana da alaka da haɗin gwaninta da kuma motsa jiki. Ta hanyar hanyoyi masu dacewa da motsa jiki mai kyau, zai iya inganta lafiyar jiki a kowane bangare.",
+  "quantity": "Yawan",
+  "quesito": "Damuwa",
+  "QUESTIONS_SECTION_TITLE": "Samun 1 shawarwari kyauta ko sanarwa na kiwon lafiya bayan kammala kammala fayil din likita.",
+  "QUESTIONS_TITLE": "Tambayoyi",
+  "quindici": "Sakamakon 15 na karshe",
+  "ratio": "Ratio",
+  "reccomendation": "Saukewa",
+  "reccomendations": "Shawara",
+  "recommendation": "Shawara",
+  "RECOMMENDATIONS": "Shawara",
+  "RECOMMEND_SECTION_P1": "A SaluberMD muna ƙoƙari mu sadu da bukatar kula da lafiyar jiki a duniya baki daya ta hanyar ba abokan ciniki damar shiga wata ƙungiyar likitoci.",
+  "RECOMMEND_SECTION_P2": "Muna kullum neman ingancin likitoci don kara wa tawagarmu mai ban mamaki. A matsayin memba na tawagarmu muna mutunta da kuma darajar waɗanda kuka sanya.",
+  "RECOMMEND_SECTION_P3": "Don Allah cika cika da ke ƙasa don komawa likita zuwa SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Yi shawara ga abokin aiki",
+  "RECOMMEND_TITLE": "Shawara",
+  "record_aggiornato": "Yi rikodi da aka sabunta",
+  "record_aggiunto": "Yi rikodin kara da cewa",
+  "record_inserito": "Succesfully kara da cewa",
+  "record_rimosso": "Yi rikodin rikodin nasarar da aka share",
+  "REFERRAL": "Magana",
+  "REFERRALS": "Magana",
+  "referrals_sent": "Abubuwan aikawa sun aiko",
+  "referral_mail": "An haɗa kai a can.",
+  "referral_sent": "Sakon aikawa",
+  "refundrequestsent": "An aiko da buƙatarka",
+  "register": "Rijista",
+  "register_report": "Rijistar Masu amfani",
+  "registration_date": "Ranar Rajista",
+  "REGISTRATION_HEADER_DOCTOR": "Shiga kamfanin Saluber MD",
+  "REGISTRATION_HEADER_PATIENT": "Da fatan a cika fam din da ke ƙasa kuma latsa rijista",
+  "releaserefresh": "Saki don sabuntawa",
+  "remarks": "Bayani",
+  "removedevice": "Kuna so ku cire wannan na&#39;urar?",
+  "removefavorite": "Cire daga favorites?",
+  "remove_generic": "Kuna so ku cire shi?",
+  "renalFunction": "Aikin Renal",
+  "reoccurring": "Languageccurring",
+  "repeat_email": "Tabbatar da Imel",
+  "report": "Fannin asibiti na sirri: Rahoton cikakken bayani",
+  "report1": "Katin asibiti na sirri:",
+  "report2": "Rahoton",
+  "reportvisite": "Rahoto Videocalls",
+  "report_date": "Rahoton Rahoton",
+  "requestdate": "Neman Kwanan wata",
+  "request_already_taken": "Wannan likita ya rigaya ya karbi jagorancin wani likita.",
+  "REQUEST_ERROR": "Akwai kuskure yayin aiwatar da buƙatunku. Bincika haɗin Intanit ko gwadawa daga baya.",
+  "request_sent": "An samu nasarar aikawa da sakonka zuwa baya",
+  "required": "Wannan fillin ana bukatansa.",
+  "required_field": "An buƙaci da ake bukata",
+  "RESEND_EMAIL": "Sabunta lambar tabbatarwa",
+  "resetCorxFactory": "Kuna tabbatar kana son sake saita Corx?",
+  "RESETPWD_BTN": "Sake saita kalmar sirri",
+  "RESET_PASSWORD": "Saka email ko sunan mai amfani da ake amfani dashi a lokacin Sa hannun",
+  "respiratory": "Haske numfashi",
+  "RESPIRATORY_RATE": "Rawan jini na numfashi",
+  "RESTORE_FACTORY_SETTINGS": "Sabunta Saitunan Factory",
+  "resultfound": "rikodin da aka samu",
+  "results": "Sakamako",
+  "ricettario": "Ƙasar",
+  "richiediDrug": "Neman Magunguna",
+  "richiestaAppuntamento": "Neman Gayyata",
+  "richiestaRimborso": "Buƙatar Baya",
+  "ricovero": "Samun lafiya",
+  "riepilogo": "Takaitawa",
+  "rightHanded": "Dama Dama",
+  "rimborso": "Kaya",
+  "ripetibile": "Maimaitawa don (sau)",
+  "rr_desc": "Rashin numfashi shine rawar da numfashi yake faruwa. Rawan respiration na yau da kullum ga mai girma a hutawa yana da numfashi 12 zuwa 20 a minti daya. Rawan motsawa a ƙarƙashin 12 ko fiye da 25 na numfashi a minti daya yayin da ake la&#39;akari da ƙananan rashin lafiya",
+  "rs": "Tsarin numfashi",
+  "RUNNING_CALL_OPT1": "Tsayawa",
+  "RUNNING_CALL_OPT2": "Ƙare Kira",
+  "RUNNING_CALL_TITLE": "Kira mai gudana",
+  "sa": "Ingantaccen ƙarfi",
+  "sadness": "Saduwa",
+  "sai": "Shafin ayyukan aiki",
+  "sai_desc": "SAI yana dogara ne akan ƙimar zuciyarka. Yana da ma&#39;auni mai sauƙi wanda ke biye da amsawar jiki zuwa aikin jiki - fiye da kawai matakai. Ba kamar daidaituwa ba, SCI tana ba da bashi ga kowane aikin da yake ɗaga zuciya: yin iyo, yin motsawa, motsa jiki, rawa, kome. Tsaya shi a kasa 30 don rayuwa mafi kyau da kuma lafiya.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD haƙuri",
+  "SATURDAY": "Asabar",
+  "savedinfo": "An sami nasarar da aka ajiye bayanin",
+  "SAVE_BTN": "Ajiye",
+  "SAVE_MESSAGE": "Idan ka bar, za a rasa canje-canje",
+  "sbpi": "Ƙarar hawan jini",
+  "sbpi_desc": "Halin ƙin jini shine mai kashe kisa. Ana kiyasta ka&#39;idojin ƙwayar jininka da jini na jini tare da kowane lokacin zaman lafiya da kake yi. Rike SBPI a kasa da 30 don samun ƙananan sauƙi na sha wahala daga yanayin barazanar rai kamar jini da jini.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Weight",
+  "SCALX_PROD": "SCALX",
+  "scan": "Scan",
+  "scanningcorx": "Binciken CORX ... Da fatan a jira",
+  "schedule": "Jadawalin",
+  "scheduleAnAppointment": "Jada alƙawari",
+  "scheduleappointment": "Jadawalin videocall tare da likita",
+  "schtime": "Lokaci da aka tsara",
+  "sci": "Shafin zuciya na zuciya",
+  "sci_desc": "Ta hanyar nazarin tarihin kawancin ka na yaudarar mu game da tsarin ka na zuciya. Lissafi na SCI na taƙaita lafiyar zuciya na zuciya, yi kokarin kiyaye shi a kasa 20!",
+  "sci_title": "SCI",
+  "SEARCH": "Binciken",
+  "searchallergy": "Bincike rashin lafiyar",
+  "searchdoctor": "Bincika likita",
+  "searchfordoctor": "Bincika likita ta suna ko sunan mahaifi",
+  "searchingdevice": "Neman na&#39;urar. Yana iya ɗaukar wani lokaci",
+  "searching_avail_date": "Binciken kwanan wata ...",
+  "searching_online_doctors": "Binciken likitoci na kan layi ...",
+  "searchmedication": "Nemo magani",
+  "searchpatient": "Bincika haƙuri",
+  "searchpatologia": "Bincika yanayin likita",
+  "searchsymptom": "Nemo alama",
+  "searchuser": "Bincike mai amfani",
+  "search_doctor_description": "Bincika likita don sunan mai amfani, email ko sunan",
+  "search_patient_description": "Bincika haƙuri ga sunan mai amfani, imel ko sunan",
+  "search_specialization": "Binciken musamman",
+  "search_user_description": "Mai neman mai amfani don sunan mai amfani, imel ko sunan marubucin",
+  "search_videocall_description": "Nemo bidiyon videocall ta hanyar yin amfani da shi",
+  "search_videocall_title": "Ziyarar Videocall ta kwanan wata",
+  "secondaryMood": "Matsayi na biyu",
+  "secondOpinion": "Bincike na biyu da ake nema",
+  "seconds": "seconds",
+  "second_opinion_1": "Aminci, mai dogara ga samun likita na biyu daga manyan kwararru a duniya.",
+  "second_opinion_2": "Sabis ɗinmu na Ƙungiyar Kula da Ƙwararriyar Na Biyu na iya taimaka maka:",
+  "second_opinion_3": "Samu amsoshin tambayoyinku",
+  "second_opinion_4": "Zaɓi tsarin kula mafi kyau",
+  "second_opinion_5": "Tabbatar da daidai ganewar asali",
+  "second_opinion_body": "Dear mai amfani, <br> buƙatunku na opion na biyu an karɓa a cikin kwararrunmu waɗanda suke yin bita kan takaddun da kuka aiko.",
+  "second_opinion_history": "Bincike na biyu da ake nema",
+  "second_opinion_msg": "Na gode. Mai ba da shawara kan lafiyarmu zai zo maka cikin sa&#39;o&#39;i 24 na gaba.",
+  "SECOND_OPINION_Q1": "Me kuke so ku yi magana da mai gina jiki?",
+  "second_opinion_question1": "Wanene ra&#39;ayi na biyu?",
+  "second_opinion_question2": "Shigar fayil",
+  "second_opinion_step1": "Kammala tambayar ɗan gajeren / Shigar da fayiloli",
+  "second_opinion_step2": "Likitocinmu za su gwada kayanku",
+  "second_opinion_step3": "Doctor shawara don tattauna sakamakonku",
+  "secOpChoice": "Da fatan zaɓi hanyar da zaku so karɓar ra&#39;ayi na biyu",
+  "section": "Don Allah, zaɓi sashe guda",
+  "security": "Tsaro",
+  "seeaprovider": "Duba Mai Bayarwa",
+  "seecommenti": "Duba Comments",
+  "seedoctor": "Duba likita a yanzu",
+  "SEE_A_DOCTOR_Q1": "Wane ne wannan bidiyo na kira?",
+  "SEE_A_DOCTOR_Q10": "Za mu iya aika takardar kuɗinka takardan kuɗin kantin magani na zabi",
+  "SEE_A_DOCTOR_Q1B": "Sunan da haihuwar haihuwar ka?",
+  "SEE_A_DOCTOR_Q1_A1": "Ni",
+  "SEE_A_DOCTOR_Q1_A2": "Yana",
+  "SEE_A_DOCTOR_Q2": "Don Allah a bayyana abin da kake son magana da likitan",
+  "SEE_A_DOCTOR_Q3": "Kwayar cututtuka?",
+  "SEE_A_DOCTOR_Q4": "Kuna so ku haɗa hoto, ko takardun?",
+  "SEE_A_DOCTOR_Q4_ERROR": "KURANTA: Files bazai wuce 5 MB ba",
+  "SEE_A_DOCTOR_Q4_S1": "Zaɓi fayil",
+  "SEE_A_DOCTOR_Q4_S2": "Ɗauki hoto",
+  "SEE_A_DOCTOR_Q5": "Kuna shan shan magani yanzu, idan haka don Allah a jerin sunayen",
+  "SEE_A_DOCTOR_Q5_CHILD": "Shin yaronka yanzu yana shan kowane irin magani? idan haka ne don Allah a jera sunan",
+  "SEE_A_DOCTOR_Q5_S1": "Sunan:",
+  "SEE_A_DOCTOR_Q5_S2": "Yankewa:",
+  "SEE_A_DOCTOR_Q6": "Kuna da wani allergies?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Shin yaronka yana da wata alerji? idan haka ne don Allah a jera sunan",
+  "SEE_A_DOCTOR_Q7": "Kuna da wani yanayin likita?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Shin yaronka yana da wani yanayin likita? idan haka ne don Allah a jera sunan",
+  "SEE_A_DOCTOR_Q8": "Kuna izini likitan don duba fayilolin likitancin ku na yanar gizo?",
+  "SEE_A_DOCTOR_Q9": "Amfanin Pharmacy",
+  "SEE_A_DOCTOR_TITLE": "Duba likitan",
+  "SEE_A_PROVIDER": "Duba Mai Bayarwa",
+  "segment": "Kashi",
+  "selectAFile": "Matsa maɓallin da ke ƙasa don zaɓar fayil",
+  "selectaprovider": "Zaɓi Mai bayarwa",
+  "selectcarderror": "Don Allah, zaɓi katin",
+  "selectdoctor": "Sarrafa ajanda na",
+  "selectdoctor1": "Zaɓi likita",
+  "selectdrug": "Zaɓi magani",
+  "selectedContact": "Ma&#39;anar lamba",
+  "selectinitiative": "Zaɓi ɗaya ko fiye da tunani ...",
+  "selectnutritionist": "Zaži kayan cin abinci mai gina jiki",
+  "selectpatient": "zaɓa",
+  "select_country": "Don Allah, zaɓi ƙasa",
+  "select_device": "Zaɓi na&#39;ura",
+  "select_file": "Zaɓi Fayil",
+  "select_file_btn": "Zaɓi fayil",
+  "select_patient": "Danna kan jere don ganin cikakken bayanai",
+  "send": "Aika",
+  "sendmessage": "Aika saƙo",
+  "sendtoken": "Aika wannan ga likita don ba shi damar shiga fayil din likitanka. Wannan haɗin yana ƙare cikin minti 10",
+  "SEND_BTN": "Aika",
+  "send_doctor_request": "Aika buƙatar",
+  "sentmessage": "Aika saƙonni",
+  "SERVICE_TYPE": "Nau&#39;in sabis",
+  "sessantad": "Last 60 days",
+  "SESSION_EXPIRED": "Taron ku ya ƙare. Don Allah, sake shiga",
+  "setAlarm": "Saita Ƙararrawa",
+  "settd": "Last 7 days",
+  "settings_saved": "An ajiye nasarar saituna",
+  "setTreshold": "Saita Range",
+  "SET_BTN": "Saita",
+  "SET_USER_EMAIL": "Don Allah, saka ko dai sunan mai amfani ko email",
+  "set_vital_signs": "Saita alamomi masu muhimmanci",
+  "sevendays": "7 Days",
+  "showalldata": "Nuna duk bayanai",
+  "showOnEmergency": "nuna On Emergency",
+  "signature": "Your sa hannu (amfani da prescriptions)",
+  "signature_word": "Sa hannu",
+  "SIGNUP_BTN": "Sa hannu",
+  "sii": "Asusun Assurance",
+  "sii_desc": "SII na haɗuwa da duk abubuwan da ake kira SaluberMD kuma shi ne madubi na lafiyar lafiyar ku. Idan a ƙasa da 30 kana cikin yankin lafiya!",
+  "sii_title": "SII",
+  "since": "Tun da",
+  "single": "Wata rana",
+  "singleAccess": "Samun dama",
+  "sitreminder": "Zaunin tunawa",
+  "sit_period": "Lokaci",
+  "skip": "Tsaida",
+  "skip_pull": "Nuna",
+  "skip_step": "Tsallake",
+  "sl": "Matsalar damuwa",
+  "SLEEP": "Barci",
+  "slotime": "Slot Duration (min)",
+  "sl_alta": "fiye da 85 bpm",
+  "sl_bassa": "kasa da 65",
+  "sl_desc": "An lasafta matakin ƙalubalanci bisa gwaninta a minti daya",
+  "sl_normale": "tsakanin 65 da 85 bpm",
+  "smoker": "Smoker",
+  "snacks": "Gurasa",
+  "SOMETIMES": "Wani lokaci",
+  "SONNO": "Barci",
+  "SOP_Q4": "Haɗa rahoton ku na likita",
+  "sos": "SOS",
+  "so_specialization": "Musamman",
+  "specialists": "Specialists",
+  "specialization": "Zabi sana&#39;a",
+  "SPECIALTY": "Musamman",
+  "specifyother": "Don Allah, saka wasu",
+  "specifyvalue": "Don Allah, saka adadi",
+  "spirometer": "Spirometry",
+  "spo2_desc": "SpO2 ko jini oxygen matakin shine ma&#39;auni na yawan oxygen da jinin jininka ke ɗauka. Matsakaici na al&#39;ada tsakanin 95% da 100%, Aikin da ke ƙarƙashin yanayi na oxygen shine ake kira hypoxemia",
+  "sri": "Alamar numfashi",
+  "sri_desc": "Muna yin la&#39;akari da alamu na motsinku a duk lokacin zaman lafiya da lokacin barci. Idan SRI yana ƙasa da 30 sauƙin da za a sha wahala daga yanayin numfashi na rikitarwa yana da ƙasa.",
+  "sri_title": "SRI",
+  "ssi": "Matsalar damuwa",
+  "ssi_desc": "Ta hanyar nazarin zuciyarka na iya canzawa mun auna matakinka na damuwa. Damuwar damuwa yana kara damuwa ko ƙara haɗarin yanayi kamar kiba, cututtukan zuciya, cutar Alzheimer, ciwon sukari, ciki, matsalolin gastrointestinal, da kuma asma. Tsayawa a kasa 20 don kasancewa a gefen haɗin!",
+  "ssi_title": "SSI",
+  "start": "Fara",
+  "startcall": "Fara kira",
+  "startdate": "Daga",
+  "starthour": "Fara lokaci",
+  "startmeasure": "Yanzu zaka iya fara karfin ta latsa maballin akan na&#39;urar",
+  "startnow": "Fara Yanzu",
+  "startRecording": "Latsa fara don rikodin muryar murya",
+  "startyping": "Fara farawa sunan",
+  "start_blowing": "Fara Farawa",
+  "start_test": "Fara gwajin",
+  "start_time": "Fara lokaci",
+  "state": "Jihar",
+  "state1": "Jihar",
+  "STATES_LICENSE": "Kasashen da aka lasisi",
+  "state_problem": "Don Allah, faɗi matsalarku",
+  "status": "Matsayi",
+  "step": "Mataki",
+  "STEPS_GOAL": "Matakai Goal",
+  "stoolTest": "Gwajin Stool",
+  "stop": "Tsaya",
+  "stop_test": "Tsaya gwajin",
+  "stress": "Damuwa",
+  "stroke_vol": "Ƙara ƙararrawa",
+  "stroke_volume": "Ƙara ƙararrawa",
+  "stroke_volume_desc": "Ƙarawar bugun jini shine ƙarar jini da kowace ƙwararrawa ta kori",
+  "struttura": "Tsarin",
+  "strutture": "Sassan",
+  "subject": "Subject",
+  "subject_so": "Subject",
+  "submissionDate": "Ranar Shawara",
+  "success": "Success",
+  "SUCCESS_TITLE_NOTIFICATION": "Success",
+  "SUMMARY": "Sanin asali",
+  "summary1": "Takaitaccen",
+  "SUNDAY": "Lahadi",
+  "surgery": "Tiyata",
+  "surgeryAndHospitalization": "Tsarin lafiya da Tarihin M",
+  "surgeryCategory": "Ƙungiyar tiyata",
+  "surname": "Sunan mai suna",
+  "sv_alta": "fiye da 100",
+  "sv_bassa": "kasa da 55 ml",
+  "sv_normale": "tsakanin 55 da 100 ml",
+  "switchsearch": "Canja don bincika",
+  "symptoms": "Cutar cututtuka",
+  "SYMPTOMS_BTN": "Cutar cututtuka",
+  "sync": "Sync",
+  "SYNC_TIME": "Lokaci tare",
+  "sysdia": "Ƙarfin",
+  "systolic": "Tsarin duniya",
+  "TAKE": "A kai",
+  "takeAppointment": "Yi alkawari",
+  "TAKE_APP": "Jadawalin Alkawari",
+  "TAKE_A_PHOTO": "Ɗauki hoto",
+  "tall": "Yaya girmanku",
+  "tapconnect": "Matsa don haɗi",
+  "tapdisconnect": "Matsa don cire haɗin",
+  "tap_to_expand": "Taɓa don fadadawa",
+  "telNameMandatory": "Don Allah, saka sunan",
+  "telNumberMandatory": "Don Allah, saka lambar waya",
+  "temper": "Yawanci",
+  "temperDescription": "Tsarin tunani wanda yake rufe dukkanin yanayin da ake magana da shi. Jinƙan bakin ciki yana bayyana halin takaici da rashin tausayi. Jin matsananciyar fushi yana bayyana sada zumunci, dumi da haɓaka. Matsanancin dabi&#39;u suna nuna lalacewa, cin mutunci da tashin hankali.",
+  "tendays": "Last 10",
+  "ten_min": "A cikin minti 10",
+  "terminata": "Kira Successfull",
+  "TERMS_TITLE": "Terms of Use",
+  "test": "Gwaji",
+  "testmichele": "gwajin gwaji",
+  "testresult": "Sakamakon gwaji",
+  "testresults": "Sakamakon gwaji",
+  "tests": "Tests",
+  "text": "Rubutu",
+  "thiscC": "Za&#39;a yi amfani da wannan katin kuɗi don biyan sabis",
+  "THURSDAY": "Alhamis",
+  "thyroidTest": "Gwajin aikin thyroid",
+  "tickets": "Tikiti",
+  "TICKET_HISTORY": "Tarihin Tikiti",
+  "TICKET_NUMBER": "Lambar tikiti",
+  "ticket_subject": "Neman Magana",
+  "timecallerr": "Yi haƙuri, ba za ku iya yin kira ba tukuna",
+  "timecallerr1": "Yi haƙuri, ba ku san yin kira ba saboda kun wuce lokacin shiryawa",
+  "TIMELINE": "My Timeline",
+  "times": "Sau nawa a rana?",
+  "timesaday": "Lokaci a Ranar",
+  "tipopratica": "Yi aiki iri",
+  "tipo_struttura": "Nau&#39;in Nau&#39;in",
+  "tipshealt0": "Manufofin lafiya",
+  "tipshealt1": "Farin harbi - Dole ne in sami maganin alurar riga kafi?",
+  "tipshealt10": "Danna nan don ƙarin bayani",
+  "tipshealt11": "Amfanin magungunan kwayoyin cutar, da rage yawan kwayoyin cholesterol, ya wuce hatsarin",
+  "tipshealt12": "A cikin wani rahoto na baya-bayan nan a Lancet, masu bincike sun tabbatar da cewa amfani da rage LDL cholesterol tare da farfadowa na statin zai iya hana manyan al&#39;ada (cututtukan zuciya, shanyewar jiki) kuma hakan bai wuce hadarin kwayoyi ba.",
+  "tipshealt13": "Bisa ga masu bincike ne kawai abubuwan da suka faru masu tsanani wadanda aka nuna su da cutar ta hanyar dogon lokaci sune myopathy (a matsayin tsoka ko tsoka), sabon cututtukan ciwon sukari, kuma, mai yiwuwa, cututtukan haemorrhagic.",
+  "tipshealt2": "Kodayake maganin alurar rigakafin ba zai samar da kariya ba, komai yana da daraja. Cibiyar CDC (Cibiyoyin Kula da Cututtuka da Cututtuka) tana bada shawara ga maganin muradin shekara-shekara don kowacce shekara 6 ko fiye. Alurar riga kafi yana da mahimmanci ga mutanen da ke fama da hadarin muradi, ciki har da",
+  "tipshealt3": "Mace masu ciki",
+  "tipshealt4": "Tsofaffi (shekaru 50 da haihuwa)",
+  "tipshealt5": "Yaran yara (a ƙarƙashin shekaru 4 da sama da watanni 6)",
+  "tipshealt6": "Ayyukan jiki na inganta ƙwaƙwalwar ajiya da tunani",
+  "tipshealt7": "Ayyukan jiki na yau da kullum zai iya inganta aikin kwakwalwa a duk tsawon lokaci kuma ya rage hadarin damuwa.",
+  "tipshealt8": "An wallafa littattafai masu yawa a kan hulɗar zumunci da kuma amfani da aikin jiki na yau da kullum da kuma ingantawa aikin aiki.",
+  "tipshealt9": "Rashin rinjayar shine kai tsaye a kan kwakwalwa da kuma kai tsaye ta hanyar aiki ta jiki da kuma jiki a jiki.",
+  "title": "Title",
+  "to": "to",
+  "todayAppointment": "Yau alƙawarin",
+  "tooltip1": "Shigar da sunan likitan da kake son gudanar da ajanda",
+  "totale": "Gaba ɗaya",
+  "totalSleepTime": "Yawan lokacin barci",
+  "total_cholesterol_desc": "Wannan ƙimar kimantawa ce ga ƙwayar cholesterol a cikin jini",
+  "TOTAL_SLEEP_TIME": "Lokaci Mai Girma",
+  "tot_non_risposte": "Kira Ba Amsa",
+  "tot_ricevute": "Kira karɓa",
+  "tot_visite": "Ziyarci Anyi",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Canja wurin",
+  "trenta": "Last 30 ma&#39;aunai",
+  "trentad": "Last 30 days",
+  "triglycerides": "Hakanan",
+  "trig_cholesterol_desc": "Triglycerides wani nau&#39;in mai ne (kitse) da aka samo a cikin jininka. Tebur mai zuwa yana nuna kewayon dabi&#39;u.",
+  "TUESDAY": "Talata",
+  "tutte": "Duk ji",
+  "type": "Rubuta",
+  "TZONE": "Timezone",
+  "underweight": "Underweight",
+  "unit": "Ƙungiya",
+  "UNIT_SETTING": "Saiti Kunshin",
+  "uom": "Rukunin Meauna",
+  "upcomingAppointmentPatient": "Zuwan Alkawurra na",
+  "UPDATE": "Sabuntawa",
+  "updatelist": "Jerin sabuntawa",
+  "update_app_message": "Kana buƙatar sabunta ƙa&#39;idarka",
+  "UPDATE_AVAILABLE": "Update Akwai",
+  "UPDATE_BTN": "Sabuntawa",
+  "update_completed": "An tabbatar da Immalar Imel ta yadda ya dace",
+  "update_firmware_download_error": "Kuskuren saukewa da firmware",
+  "update_list": "Sabuntawa",
+  "UPLOAD_ERROR": "KURANTA: Files bazai wuce 5 MB ba",
+  "upload_referral": "Shigar da adireshinku a akwatin da ke ƙasa.",
+  "urinTest": "Gwajin hanji",
+  "user": "Mai amfani",
+  "userdata": "Bayanin mai amfani",
+  "usermanagement": "Gudanar da mai amfani",
+  "USERNAME": "Sunan mai amfani",
+  "username1": "Sunan mai amfani",
+  "utente_aggiunto": "Mai amfani ya kara da cewa",
+  "utente_rimosso": "Mai amfani ya ƙare share",
+  "utente_salvato": "An sabunta nasarar mai amfani",
+  "vaccinobbligatorio": "Don Allah, zaɓi rigakafi",
+  "vaioffline": "Ku tafi Turanci",
+  "vaionline": "Go Online",
+  "valence": "Valencia",
+  "valenceDescription": "Kyakkyawan canzawa daga jinsi zuwa haɓakawa. Lokacin sauraron mutum magana, yana yiwuwa a gane yadda &quot;tabbatacciyar&quot; ko &quot;korau&quot; suna jin game da batun, abu ko taron a ƙarƙashin tattaunawa.",
+  "value": "Daraja",
+  "vascular_age": "Matsakaicin shekaru",
+  "vascular_age1": "Matsakaicin shekaru",
+  "va_desc": "Age na tsofaffi yana ba ka ma&#39;auni na bayyanar shekarun ka, idan aka kwatanta da mutanen lafiya. Idan shekarun ku na tsofaffi ya fi girma a zamaninku, ƙila ku kasance cikin haɗari na tasowa cutar na zuciya (CVD) daga baya a rayuwa.",
+  "videocall": "Videocall",
+  "VIDEOCALL_DES1": "Latsa maɓallin da ke ƙasa don canja matsayinka kuma karɓar ko karɓar sanarwar. Ka tuna cewa zaka iya karɓar sanarwar kawai lokacin da kake cikin layi.",
+  "VIDEOCALL_DES2": "Lokacin da ka karɓi kira, danna kan rectangle wanda zai bayyana ya dauki kira.",
+  "videocall_filter": "Tace ta sunan ko sana&#39;a",
+  "videocall_request": "Sabuwar bidiyon videocall daga",
+  "videocall_request_title": "Binciken Videocall",
+  "videocall_req_from": "Binciken videocall daga:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "Danna don kunna bidiyo",
+  "VIDEO_CALL_BTN": "Kiran bidiyo",
+  "VIDEO_CALL_BTN_1": "Video",
+  "view": "Duba",
+  "viewmedicalfile": "Dubi fayil na likita",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Create your Virtual Office",
+  "VIRTUAL_OFFICE_TITLE": "Virtual Office",
+  "visitdetail": "Danna kan kowane abu don ganin cikakken tarihin mai haƙuri",
+  "visithistory": "Ziyarci Tarihi",
+  "visitlist": "Jerin ziyara",
+  "VISIT_HISTORY_NO_HISTORY": "Ba ku da wani ziyara a yanzu",
+  "VISIT_HISTORY_SUBTITLE": "Danna kan kowane abu don ganin cikakkun bayanai",
+  "VISIT_HISTORY_TITLE": "Ziyarci Tarihi",
+  "volte": "Lokaci",
+  "waiting": "Aiwatarwa ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Warmth",
+  "WARNING_TITLE_NOTIFICATION": "Hankali",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Bayanan Lafiya",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Bayanan Lafiya",
+  "WATCH_DEVICE_DATA_TITLE": "Bayanan na&#39;urar ku na tsaro",
+  "water": "Ruwa",
+  "weanedoff": "Weaned off?",
+  "WEDNESDAY": "Laraba",
+  "week": "Week",
+  "weight": "Weight",
+  "weightUnit": "Nau&#39;in Weight",
+  "welcome": "Barka da zuwa",
+  "wellness": "Lafiya",
+  "wellnessdata": "Bayanan Lafiya",
+  "wellnessSuccess": "Success",
+  "WHITE_SPACES": "Sunan mai amfani ba dole ya ƙunshi sararin samaniya ba",
+  "WRIST_CUT_SCREEN": "Kunna Allon Kayan Wuta",
+  "writtenRep": "Rahoton da aka rubuta",
+  "W_RESPIRATORY_RATE": "Breath",
+  "xray": "X-ray",
+  "Y": "Ee",
+  "year": "Shekara",
+  "years": "shekaru",
+  "yes": "Ee",
+  "yourarousal": "Ƙarin ku",
+  "youremotion": "Ka motsin zuciyarku",
+  "yourmood": "Halinka",
+  "yourtemper": "Hankalinku",
+  "yourvalence": "Your valence",
+  "your_sai": "Abinda ke aiki shine:",
+  "your_sbpi": "Abinda zafinka na jini shine:",
+  "your_sci": "Kuna alamar zuciya shine:",
+  "your_sii": "Asusun Asusunku yana",
+  "your_sri": "Your respiratory index ne:",
+  "your_ssi": "Matsalarka na damuwa shine:",
+  "your_stress": "Matakan damun ku shine:",
+  "your_va": "Kwanan shekarun ku shine:",
+  "zero_min": "Yanzu",
+  "zipCode": "Lambar titi",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

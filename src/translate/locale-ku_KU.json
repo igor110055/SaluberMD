@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Çûna nava",
+  "ABOUT_US_CONDITION_1": "Cold &amp; Flu",
+  "ABOUT_US_CONDITION_2": "Mercên çerm",
+  "ABOUT_US_CONDITION_3": "Alerjî",
+  "ABOUT_US_CONDITION_4": "Gevî êş",
+  "ABOUT_US_CONDITION_5": "Made êş",
+  "ABOUT_US_DOCTOR_BENEFIT1": "BİXWÎNE BİXWÎNE:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Hûn dikarin şeş nexweşan anîn (serdana mêvanek bi gelemperî nêzîkî 10 deqîqeyan bimîne);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "PÊŞWÎNE BİXWÎNE BİXWÎNE BİXWÎNE:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Têkiliyên nexweşan bi zêdebûna ku nexweşên nuha û nuh ji derveyî cîhanê derman bikin;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "BİXWÎNE BİXWÎNE BİXWÎNE",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Pêwîstiya xwe ya pêşveçûn bikin û ji bo nexweşan bêtir bijartan pêşkêş dikin;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "VISITS MORE PRODUCTIVE:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Nexweş nikare belgeyên belaş, wêne, encamên labê bişînin bêyî ku ji malê vekişînin û hûn dikarin tenduristiya xwe ya nexweşiyê kontrol bikin;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Nasnameya ku destên xwe li ser lênêrîna hewceyê hewce dike û kî dikare ji dermankirinê dûr dorpêçê malê bistînin.",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "BİXWÎNE BİXWÎNE:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "HELP XWÎNE:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Hêza ku hûn demjimêrên xwe saz bikin û wextê xwe bikin.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Tevlêbûna tevgera ku ji bo 15 deqîqeyan an jî kêmtir di nav lênêrîna tendurustiyê de, pêbawer, xurt, gihîştî cîhanî pêşkêş dikin",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD têkoşîn kirin ku têkiliyên doktor-nexweşî ji hêla 24/7-ê veguhestina tenduristiya cîhanê ya cîhanê têkoşînê dike.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Doktorên bijîşk",
+  "ABOUT_US_DOCTOR_TITLE": "Çûna nava",
+  "about_us_section1_p1": "SaluberMD rêxistineke tendurustî ya dîjîtal e ku ji bo veguherandina danûstendina tendurustî û hilberên tenduristiyê ya ku di encamên cîhanê de baştir dike. Di xizmeta tenduristiyê ya doktor ya dîplomatî ya dîjîtal, destûra tendurustî û tendurustî, di pelên bijîşk ên navmalayî de di 18 zimanan de, wesayîtên ku ji bo tendurustiya xwe kontrol dikin, û bi karûbarên pispor û pisporên xizmeta tenduristiyê re bigihîjin.",
+  "ABOUT_US_SECTION1_TITLE": "Çûna nava",
+  "ABOUT_US_SECTION2_P1": "Bi rêya geo-herêmîkirina we dê dixtorê we yê nêzîkî doktorê herî baş bibînin. SaluberMD Bijîşk dikarin bi rêya vîdyoya xwe ya tenduristiyê re binirxînin, derman an jî bipeyivin û planek tedawî ya we bikin. Gelek mercên gelemperî di dermanê doktorek de têne dermankirin dikare bi serdana vîdyoyê re bêne kirin. <br/> Hinek şertên ku em derman dike:",
+  "ABOUT_US_SECTION2_P2": "Daxuyaniya lênêrînê ya kesane ya ku hûn hemî daneyên tendurustiyê, wêneyan û pelên xwe biparêzin, cîhek hêsan e. Tenduristiya tendurustiya xwe bi 24/7 peywendiyên hemî dermanên bijîşkên xwe ve bistînin. Ma tu li malê ye an jî di derveyî welatê xwe de rêwîtiyê we agahdar dike ku hûn bi pîşesaziya tenduristiya xwe re parve bikin. Vebijêrk bi karanîna şexsî ya lênerîna karanîna di zimanên 18 de hene.",
+  "ABOUT_US_SECTION2_TITLE": "Ew çawa dixebite?",
+  "ABOUT_US_SECTION3_P1": "Tenê teknolojî ya serîlêdanê ya Tenê dixtorê SaluberMD de lênêrîna lênêrîna diranan. Ev profesyonel hatine destnîşan kirin, pirfirehî veşartî û perwerde kirin ku ji bo lênêrîna kalîteyê bilind bikin. Her doktorê ku bi hûn dikarin paşnavên xwe, kredî, û tecrûbeyên xwe bibînin. SaluberMD bi birêvebirina kalîteya me ya bijîşkên me ve girêdayî ye. Sîstema rêjeya nexweşan dide ku destnîşankirina bijîşkên bijîşk û hemî bijîşkên bijîşk bibînin.",
+  "ABOUT_US_SECTION3_TITLE": "Doktorên me",
+  "ABOUT_US_TITLE": "Çûna nava",
+  "above_warning": "Nirxên jor xetere ne",
+  "accept": "Baweranîn",
+  "acceptablerange": "Rêjeya pejirandî",
+  "ACCEPT_BTN": "Baweranîn",
+  "acquire": "Daneyên xwe bibînin",
+  "acronym": "Acronym",
+  "action": "Çalakî",
+  "actions": "Actions",
+  "actionTaken": "Çalakiya Taken",
+  "activity": "Çalakî",
+  "acutecare": "Lênêrîna acîl",
+  "add": "Nşh",
+  "addavailability": "Peyda we zêde bike",
+  "addcomment": "Tu li vir şîrove bikin",
+  "adddescription": "Dîroka xwe binivîse",
+  "adddrugs": "Li ser bloka lêgerîna lêgerînek tedbîra lêgerîna lêgerînê binivîse û ji bo ku hûn li ser dermana xwe zêde bike",
+  "addedFavourite": "Serkeftî bi hevalên xwe re zêde kirin",
+  "addedFavourite2": "Serkeftî bi hevalên xwe re zêde kirin. bişkojka rojanekirinê vekin û da ku nîşan bide.",
+  "addedFavourite3": "Serkeftî zêde kir  nPiştî derxistin",
+  "addFavourite": "Add to Favorites",
+  "ADDING_SLOT": "Slotên lê zêde bike .... ev dikare demek bibe.",
+  "addNew": "Nû zêde bikin",
+  "addpharmacies": "Bişkojk bike ku ji bo dermanên xwe yên xwe zêde bike",
+  "addpharmacy": "Dermanxaneyê bikin",
+  "addreminder": "Bişkojka plusê vekin û ji bo bîra xwe ya dermankirinê zêde bike.",
+  "address": "Navnîşan",
+  "address2": "Navnîşana Kirînê",
+  "address3": "Navnîşan ji bo xizmetê",
+  "addsintomi": "Nîşanên din",
+  "addslot": "Slot add",
+  "add_description_file": "Pirtûka zêde bike (ne pêwîst e)",
+  "add_new": "Lêzêdekirin",
+  "affaticamento_grave": "Tenduristiya Severe",
+  "affaticamento_minore": "Fatirue",
+  "agenda": "Rojeva min",
+  "agenda_report": "Serdanan Rapor bikin",
+  "aggiungi": "Xûliqandin",
+  "AGREE_BTN": "Ez razî me",
+  "alcoholDesc": "Alkol fikirî",
+  "all": "Gişt",
+  "alldata": "Hemû Data",
+  "allergia": "Alerjî",
+  "allergia_aggiunta": "Alîkarî bi tevlihev kirin",
+  "allergia_rimossa": "Alîkariya nexweşê bi serkeftî ve xistin",
+  "allergia_salvata": "Alîkariya nexweşê bi serkeftî nûvekirin",
+  "allergie": "Alerjî",
+  "allimages": "Hemû wêneyên",
+  "alreadyAddedF": "Ev dermanxaneyê di berê de li te hezkirî ye",
+  "alreadyRegistred": "Vê navnîşana e-name di pergala derveyî de heye. Ji kerema xwe re têkevî sepanê.",
+  "alreadyTaken": "Hatina betal hatiye girtin",
+  "alta": "Bilind",
+  "alto": "Bilind",
+  "amonth": "30 Rojan",
+  "anger": "Hêrs",
+  "annoinizio": "Sala Destpêk",
+  "antibiotics": "Antibiotics",
+  "an_error_occurred": "Heyf! Heya niha em nekarin pêşwaziya doza we bikin. Paşê dîsa biceribînin",
+  "appointment": "Binavkirî",
+  "appointmentlist": "Lîsteya rûniştinê",
+  "appointments": "Rûniştin",
+  "appointmentsDescription": "List of schedule schedule",
+  "appointment_body_doc": "Bi civînê re civîna nû hate kirin",
+  "appointment_calcelled_title": "Serdanek betal kirin",
+  "appointment_cancelled": "serdana wî betal kir",
+  "appointment_email_body": "Em serlêdana we bi bijîşk re piştrast dikin",
+  "appointment_history": "Dîroka Cihaniyê",
+  "appointment_now": "Destpêkdana we niha",
+  "appremainder": "Rûniştinê bimînin",
+  "appremainder1": "Hûn di 5 deqîqeyan de amadekariyek we heye",
+  "appremainder2": "Di 30 deqîqeyan de we destnîşankirî videocall heye",
+  "appremainder3": "Di 120 deqîqeyan de di nav we de videocall heye",
+  "APPROX_DATA": "Data Wellness Other",
+  "appuntamenti": "Rûniştin",
+  "appuntamenti_presi": "Destnîşankirî Bingehîn",
+  "appuntamento_clinica": "Serlêdana Serdana Clinic",
+  "APPUNTAMENTO_CONGIUNTO": "Ma hûn dixwazin vîdyoyek pirtûk bikin?",
+  "app_description": "Sedemên serlêdana we di quncika jêrîn de zêde bikin",
+  "app_details": "Hûrguliyên tayînkirinê",
+  "app_missing": "App app piştgirî nabe",
+  "ARIAX": "Rêjeyê",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Arousal",
+  "arousalDescription": "Pîvengek ku ji bîranîn an borgê ji bo hişyariyê û dilxweşiyê ve dike. Ew bi awayên wekhevî wekî asta çalakiyê û gavê re peywendîdar e.",
+  "assign_specialist": "Ji pisporek pispor re daxwaz bikin",
+  "associa": "Şirîk",
+  "attachment": "Têkilî",
+  "ATTACH_A_PHOTO": "Daxistina wêneyê",
+  "BACKGROUND": "Paşî",
+  "BACKGROUND_PLCHOLDER": "Ji kerema xwe ji biyenek kurt be.",
+  "backhomeconfirm": "Ma hûn ê gavê vegerin malê?",
+  "BACK_BTN": "Paş",
+  "BACK_LOGIN": "Vegere Têketinê",
+  "bad_file": "Pelê vekirî ne",
+  "basicinfo": "Agahiyên bingehîn",
+  "bassa": "Nizm",
+  "basso": "nizm",
+  "below_warning": "Nirx li jêr xetere ne",
+  "benefits": "Xizmetên Concierge",
+  "beyondverbal": "Hestiyên ku em çi dikin dikin, hê jî analîzên hestyarên dengbêjî yên herî zêde girîng e, îro têgihîştin, bêguman unaştî îro. Ji bilî Verbalal ji bo guhertina wê ye.",
+  "beyondverbal_analyze": "Moodê xwe bisekinin",
+  "beyondverbal_history": "Encamên dîrokî",
+  "beyondverbal_instruction": "Dema ku hûn amadekar e ku bersîva destpêkê ya pevçûnê bersiv bikin",
+  "BIRTHDATE": "Birthdate",
+  "birthday": "Rojbûn",
+  "blank_agenda": "Ji bo îro tune tune",
+  "bloatedOrContipated": "Berbiçavkirin an damezrandin",
+  "bluetooth_error": "Ji ber ku berdewam bike bila Bluetooth-enabled",
+  "BOARD": "Desteya Birêvekirî",
+  "bones": "Hones",
+  "bp": "Pressure Pressure",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Mêjeya referansa ji bo nirxên danûstandina xwînê",
+  "breakfast": "Taştê",
+  "btnback": "Paş",
+  "btndelete": "Jêbirin",
+  "btndisabledoctor": "Doktor bikin",
+  "btndisablepatient": "Sebir bike",
+  "btnenabledoctor": "Bijîşk bijare",
+  "btnenablepatient": "Sebir bike",
+  "btnsave": "Rizgarkirin",
+  "BTN_LOAD_MORE": "Load More",
+  "buttonsearch": "Gerr",
+  "bvFailed": "Fêrbûna te dengê we bisekin, hûn hewce ne bêtir axaftin!",
+  "bvInstruction": "Tenê 20 sec û bêtir dipeyivin",
+  "bvInstruction2": "Tenê 20 secs ji bo dipeyivin",
+  "ca": "Sîstema Cardiovascular",
+  "call": "Bang",
+  "callCancel": "Telefonek demdirêj bisekinin",
+  "calldoctor": "Telefon bikin",
+  "calling_number": "Hejmara telefonê",
+  "callthedoctor": "Doktor bang bikin",
+  "calltransfer": "Call transfer ...",
+  "CALL_ALREADY_TAKEN": "Telefonê jixwe vekişîn",
+  "CALL_DOCTOR_INFO": "Doktor Info",
+  "CALL_DURATION": "Demjimêrek",
+  "call_instruction": "Em ê ku hûn dikarin bijîşkek bang dikin ku hûn zûtirîn agahdariyê bişînin. Li ser agahdariya zûtirîn bitikîne li ser ku hûn wergirtin videocalll dest pê bikin. Dema ku hûn agahdariyên jêbirin, hûn dikarin li ser binê agahdariya tendurustiya min a li ser agahdariyê bigirin.",
+  "CALL_NOTIFICATIONS": "Call Calls",
+  "CALL_NO_INCOMING": "Telefonên naçar nîne",
+  "CALL_TRANSFER_INFO": "Agahdariya veguhastinê",
+  "CALL_WAITING": "Ji kerema xwe digerin ku em digerin bijîşkek bijîşk",
+  "CALL_WAITING_2": "Ji kerema xwe doktor doktorê we binirxîne",
+  "calories": "Calories",
+  "cancel": "Bişûndekirin",
+  "cancelAppointment": "Destnîşankirin vê betal bike",
+  "CANCEL_BTN": "Bişûndekirin",
+  "CAP": "Kode ya postî",
+  "cardiac_output": "Output cardiac",
+  "cardiac_output1": "Output cardiac",
+  "cardiac_output_desc": "Derheqê kartêk bi tenê veqetiya xwînê bi per-per-dil dihêle.",
+  "cardiovascular": "Cardiovascular",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "CVC",
+  "CARD_EXPIRY_DATE": "Expiry date",
+  "CARD_MONTH_ERROR": "Meha çewt",
+  "CARD_NUMBER": "Hejmara karta",
+  "CARD_NUMBER_ERROR": "Hejmarek CC",
+  "CARD_YEAR_ERROR": "Salek çewt",
+  "category": "Liq",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "CCV pêdivî ye",
+  "CERROR": "Têkilî kêm",
+  "certificate_attachment": "Li wir belgeya bijîşkî ya we heye",
+  "certificate_email": "Li wir sertîfîkaya bijîşkî ya we heye",
+  "certificate_header": "Li ser bingeha nirxandina bijîjkî ya ku hatiye pêkanîn, jêrîn tê diyarkirin:",
+  "certificate_sent": "Certificate Sent",
+  "certification_subject": "Sertîfîka bijîşkî ya we",
+  "cf": "Kodê fînansî",
+  "cf_error": "Ji kerema xwe, koda fiscal diyar bikin",
+  "changeschedule": "Guherandinê",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Şîfreya te qediya, kerema xwe biguherînin.",
+  "CHANGE_PWD_SECTION_TITLE": "Şîfreya xwe biguherînî",
+  "CHANGE_PWD_TITLE": "Şîfreya te dê bi dawî bibe, biguherînin",
+  "checking_net_condition": "Têkiliya Înternetê kontrol bikin ...",
+  "CHECK_PARAMETERS_CORX": "Ji kerema xwe, li beşa profesyonelê giran û hewayê binivîsin da ku ji bo nirxên başahiyê rast bike.",
+  "CHL_TOT": "Kolesterolê total",
+  "choosedate": "Dîrok hilbijêre",
+  "chooseDateDescription": "Dîrokek bitikîne ku wê dirêj bike û demjimêr hilbijêre",
+  "chooseprofile": "Tu?",
+  "choosespeciality": "Pisporiya tendurustiyê hilbijêrin",
+  "choosetransferdoctor": "Bijîşkek bijartin",
+  "CHOOSE_A_DOCTOR": "Bijîşkek xwe bijartin",
+  "chosedoctor": "Ji kerema xwe, doktor bijarte",
+  "city": "Bajar",
+  "city1": "Bajar",
+  "city2": "Bajar",
+  "clearsignature": "Îmze dike",
+  "clickitem": "Li ser her tiştek bitikînin ku agahdariya tevahî bibînin",
+  "clickrow": "Li ser rûpela xwe hilbijêre ku hilbijêre",
+  "clickToOpen": "Bikirtînin da ku pelê vekin",
+  "click_to_start_call": "Bila bijîjkek bikirtînin da ku hûn bang bikin",
+  "clinics": "Clinics",
+  "CLOCK_FORMAT": "Format",
+  "closeappconfirm": "Ma hûn bawer bikin ku hûn betal bikin?",
+  "CLOSE_BTN": "Nêzîkî",
+  "cm": "cm",
+  "CODE": "Navê dizî",
+  "code_not_valid": "Kodê têkildar e",
+  "code_verified": "Kod bi serkeftî hate verastkirin!",
+  "coffeeDesc": "Kafê guman kir",
+  "COMMENT": "şirove",
+  "commenti": "Comments",
+  "COMPANY_NAME": "Şîrket",
+  "COMPLAIN": "Gilîkirin",
+  "COMPLETE_PROFILE": "Profîla xwe temam bike berî berdewam bikin",
+  "COMPLETE_PROFILE_TITLE": "Ji kerema xwe profîla xwe bibînin",
+  "complications": "Complications",
+  "concernlist": "Ji kerema xwe xemgîniya bingehîn / fikarên xwe binivîse",
+  "CONFIRM": "Ok",
+  "confirm_app": "Serdana xwe piştrast bikin",
+  "CONFIRM_EMAIL_TITLE": "Şîfreyê bişînin",
+  "CONFIRM_PWD": "Di pêşîyê da em sipas dikin",
+  "connect": "Bişkojka Girêdana Girê vekin ku pêveka cîhaziyê veke",
+  "connectbtn": "Bihevgirêdan",
+  "connectedto": "Ve girêdayî ye",
+  "connecting": "Girêdanê ... Ji kerema xwe bisekinin",
+  "connection_progress": "Girêdanê vekin ...",
+  "CONSULT": "Gilîkirin",
+  "consult1": "Şêwirdan",
+  "consultation": "Şêwir",
+  "consultationHistory": "Dîroka Şêwirmendiyê",
+  "contact": "Têkelî",
+  "CONTACT_US_BTN": "Paqij bûn",
+  "CONTACT_US_SECTION_TITLE": "Ji kerema xwe bi pirsek an alîkarî bi karanînê bi kar re têkilî bikin.",
+  "CONTACT_US_TITLE": "Paqij bûn",
+  "contatti": "Agahiya Têkilî",
+  "continue": "Berdewamkirin",
+  "copy_url": "Url kopî bikin",
+  "CORX": "ECG",
+  "corxDidFailEcg": "Çewtiya EKG",
+  "corxDidFailWellness": "Çewtiya danûstandinên hebûn",
+  "corxDidNoEcg": "Hêzên EKG hene",
+  "corxDidNoWellness": "Daneyên baş hene",
+  "CORX_DATA": "Daneyên CorX",
+  "corx_disconnected": "Corx Disconnected",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Ji kerema xwe, hûn pîvana vîtalên rast bi nirxandina giran û giran binivîsin.",
+  "COUNTRY": "Welat",
+  "country1": "Welat",
+  "county": "Wîlayetê",
+  "co_alta": "ji 8 L / min mezintir e",
+  "co_bassa": "ji 4 L / min kêmtir",
+  "co_normale": "navbera 4 û 8 L / min",
+  "creditCard_selected": "Karta hilbijartî dê ji bo vê karûbarê drav bide",
+  "currency": "Diravcins",
+  "C_SPECIALTY": "Taybetmendiya taybetî",
+  "dailyuse": "Daily Use",
+  "dashboardVideocall": "Dashboard Videocall",
+  "dataerror": "Dîroka / demê ku we bijartî wext / demê berê ye",
+  "dataexists": "Di demek û demdêriya hilbijartinê de heye",
+  "datafetching": "Daneyên xwe yên şexsî bistînin ... Ji kerema xwe bipejirîne",
+  "dataPrenotazione": "Dîroka bihîstinê",
+  "dataVaccinazione": "Daxistina Dîroka",
+  "date": "Rojek",
+  "dateDiscovered": "Dîroka Pirtûka",
+  "dateStart": "Dîroka Destpêk",
+  "datipersonali": "Agahiyên kesane",
+  "datiScaricati": "Dîtin bi serkeftî hatine daxistin",
+  "day": "Roj",
+  "deassociate_corx_alert": "Ma hûn dixwazin ku Corx dabeş bikin?",
+  "decline": "Paşvegerrî",
+  "DECLINE_BTN": "Paşvegerrî",
+  "DEEP_SLEEP_TIME": "Deep Sleep",
+  "defaultQuestion": "Destpêka çapemeniyê bikin û ji me re bibêjin ku hûn îro çawa dikin",
+  "delete": "Jêbirin",
+  "deleteAlarm": "Vê alarmê jê bibîne?",
+  "deleteAppointment": "Ma tu dixwazî ​​serdana xwe betal bikin?",
+  "deleteDescription": "Ew dê yekser betal bibe.",
+  "deleteMessage": "Ma hûn rast binivîsin ku tu dixwazî ​​vê jêbirin?",
+  "deleteMultipleDesctiption": "Jimareya slot ku wê bê jêbirin:",
+  "deleteNumber": "Ma hûn rast binivîsin ku hûn vê hejmarê jêbirin?",
+  "deleteSlotDay": "Vê rojê dakêşî hemî belaş",
+  "deleteSlotMonth": "Vê mehê hemû mehkûmên dirûşm dike",
+  "deleteSlotWeek": "Di vê hefteyê de hemî dirûşmeya serbixwe derxistin",
+  "deletevalue_q": "Ma hûn bawer dikin ku hûn dixwazin valahiyê jêbirin?",
+  "DELETE_NOTIFICATION_MSG": "Ma hûn dixwazin hemî agahdariya paşîn paşde rakin?",
+  "demo": "Ev demo, tu pere neyê birîn.",
+  "dependencies": "Dependencies",
+  "description": "Terîf",
+  "descriptionMandatory": "Ji kerema xwe, şîroveek diyar bikin",
+  "deseaseCategory": "Kategorî",
+  "desirable": "Xwestin",
+  "dettagli": "Agahî",
+  "dettaglio_struttura": "Avahiyên berfirehtir",
+  "device": "Sazî",
+  "devicefound": "Amûda dît",
+  "devices": "Amûr",
+  "devicetype": "Type Type",
+  "DEVICE_BLOOD_PRESSURE": "Zexta xwînê",
+  "DEVICE_CALORIES": "Cenazeyên şewitandin",
+  "DEVICE_CARDIAC": "Çavdêriya cardiac",
+  "DEVICE_CHL": "Profîla lipîdîk",
+  "DEVICE_DATA_SECTION_TITLE": "Daneyên danûstendina tenduristiya we",
+  "DEVICE_DATA_TITLE": "Data Data",
+  "DEVICE_DATA_TITLE_1": "Daneyên Desteya Pizîşkî",
+  "DEVICE_EKG": "ECG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glucometer",
+  "DEVICE_HEART_RATE": "Tewsê dil",
+  "DEVICE_PEDOMETER": "Pedometer",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Frequency",
+  "DEVICE_SPO2": "Spo2",
+  "DEVICE_TEMPERATURE": "Germî",
+  "DIAGNOSIS": "Teşhîs",
+  "diastolic": "Diastolîk",
+  "dieci": "10 pîvana dawî",
+  "diet": "Parêz",
+  "digestion": "Pirsgirêkên digel",
+  "dinner": "Firavîn",
+  "dipendenza": "Girêdayî",
+  "disableAlarm": "Alarm çalak kirin",
+  "disabled": "Bêmecel",
+  "DISABLE_PANIC_BUTTON": "Hilbijêre Panic Disable",
+  "DISABLE_PUNIC_BUTTON": "Qutiya Punic vebirin",
+  "disconnectall": "Vîdyoyî hilbijêre",
+  "disconnectbtn": "Hevqetandin",
+  "DISDICI": "Bişûndekirin",
+  "disease": "Nexweşiya Dermanî",
+  "diseasemanagement": "Rêveberiya Nexweşiyê",
+  "diseases": "Nexweş",
+  "disease_1": "Nexweşî",
+  "dissocia": "Dabeşkirin",
+  "DISTANCE": "Dûrî",
+  "dm_section_description_1": "Li vir hûn pelên xwe bistînin",
+  "DND": "Nehat Nabe",
+  "DOCEMAIL": "Bijîşk E-mail",
+  "DOCNAME": "Navê Navneteweyî",
+  "DOCPHONE": "Hejmara telefonê bijîşk",
+  "DOCTOR": "Pizişk",
+  "doctor1": "Pizişk",
+  "doctorAtHome": "Doktorê Home",
+  "doctorAtHomeQuestion1": "Ez ji bo alîkariyê malê dixwazim:",
+  "doctorAtHomeQuestion2": "Pêdivî ye ku alîkariya xaniyê ku hûn hewce ne",
+  "doctorAtHomeQuestion2Answer1": "Praktîkî Giştî",
+  "doctorAtHomeQuestion2Answer2": "Pediatric",
+  "doctorAtHomeQuestion2Answer3": "Nexweşyare",
+  "doctorAtHomeQuestion3": "Sedema ku hûn dixwazin alîkariyê bistînin binirxînin",
+  "doctorAtHomeQuestion4": "Di navnîşa navnîşana ku hûn dixwazin alîkariyê bistînin binirxînin",
+  "doctorAtHomeRequestBtn": "Daxwazê bişînin",
+  "doctorAtHomeRequestSuccess": "Me daxwaza we qebûl kir. Hûn ê bi du saetan re têkilî bibin ku hûn xizmeta xaniyê malê bikin",
+  "doctorAtHomeTitle": "Doktorê Home",
+  "doctorbusy": "Doktor di bangek din de dijwar e",
+  "doctorbusy1": "Doktor di telefonek din de dijwar e",
+  "doctorlist": "Lîsteya lîsteyê",
+  "doctormanagement": "Bijîşkên bijîşk",
+  "doctoroffline": "Doktor niha negirse, retry",
+  "doctorupdate": "Pizişk",
+  "DOCTOR_PROFILE_OPT1": "Tengal",
+  "DOCTOR_PROFILE_OPT2": "Dîroka Mêjûya Nexweş",
+  "DOCTOR_PROFILE_OPT3": "Pêşniyarê hevpeyman bikin",
+  "DOCTOR_PROFILE_SECTION1": "Profîla te",
+  "DOCTOR_PROFILE_TITLE": "Tengal",
+  "doctor_request_sent": "Me daxwaza doktorên xwe şandin. Hûn ê di du deqîqan de bersiv bidin.",
+  "documents": "Dokumentên",
+  "DOCUMENT_BTN": "Dokumentên",
+  "doestake": "Te kir",
+  "DONATION_TITLE": "Pejirandin",
+  "done": "Daneya Trackx bi serkeftî vekirî ye. Hûn di bin beşa danûstendinê de ew bibînin",
+  "doneAppointmentPatient": "Serlêdanên borî",
+  "DONE_BTN": "Done",
+  "dontknow": "Ez nayê bîra min",
+  "DORMIVEGLIA": "Xemgîniyê",
+  "dosage": "Pîvanîk",
+  "dosetake1": "Hûn dermanên te hene?",
+  "dottore_rimosso": "Rewşa doktor bi serkeftî nûvekirin",
+  "dottore_salvato": "Doktor bi serkeftî nûvekirin",
+  "download": "Download",
+  "downloadaspdf": "Wekî PDF dokumentin",
+  "downloadecg": "ECG daxistin",
+  "DOWNLOADING_DEVICE_DATA": "Daxistin ...",
+  "downloadwellnessdata": "Danûstandinên qenciyê ...",
+  "downloadWellnessResult": "pîvana zêdekirin",
+  "DOWNLOAD_CERTIFICATE": "Belgeya dakêşanê",
+  "DOWNLOAD_ERROR_GENERIC": "Oops Dema ku pelê daxwaza pelê derxistîne. Ji kerema xwe, paşê dîsa dîsa biceribînin.",
+  "DOWNLOAD_SO_REPORT": "Referral",
+  "DO_NOT_DISTURB": "Tengahiyê nekin",
+  "drugsAtHome": "Drugs at Home",
+  "drugsAtHomeQuestion1": "Ma hûn dixwazin ku li dora xwe dixtorê doktorê dermanê dermanên xwe bigirin?",
+  "drugsAtHomeRequestBtn": "Daxwazê bişînin",
+  "drugsAtHomeRequestSuccess": "Me daxwaza we qebûl kir. Derman wê di 24 saetan de şandin",
+  "drugsAtHomeSection1": "Di binê forma navnîşa telefonê û navnîşa ku hûn dixwazin narkotîkan bigirin.",
+  "drugsAtHomeTitle": "Drugs at Home",
+  "drug_name": "Nasnav",
+  "duration": "Demajok",
+  "ecg": "ECG",
+  "ecgadded": "ECG bi serkeftî ve lîsteyê zêde kir",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "Daneyên EKG",
+  "ecgdetail": "Li her cûreyekê binivîse ku ji bo wêneyê ECG bibînin",
+  "ECG_DELETE_Q": "Ma tu dixwazî ​​ku hûn dixwazin EKG jêbirin?",
+  "ecg_not_found": "Daxuyaniya ECG ya çewt, hewldaniyek din dinêrin.",
+  "ECG_REMOVED": "EKG bi serfirazî xilas kir",
+  "edit": "Weşandin",
+  "EKG_SECTION_TITLE": "Encamên Electrocardiogram (EKG / ECG)",
+  "EKG_TITLE": "EKG Upload",
+  "EMAIL": "Email",
+  "email1": "Email",
+  "email_do_not_match": "Emails bi hev nekin",
+  "ematicTest": "Tîmên Ematic",
+  "Emergency": "Li Hêza Hengalî",
+  "emergency1": "Acîlîyet",
+  "emergencyLoginCode": "Kodê Têkiliya Bileziyê",
+  "emergency_numbers": "Hejmarên acîl",
+  "emergency_number_description": "Hejmarên telefonê zêde bike ku di dema rewşên acîl de bang bikin",
+  "emotionDescription": "Jihevhatina gelek hestiyên bingehîn, wekî ku ji hêla dengê bikarhênerên di beşa dengê weya analîzkirî de têne diyar kirin.",
+  "emotions": "Emotions Combined",
+  "emptypassword": "Ji kerema xwe, pasword diyar bikin",
+  "EMPTY_ALLERGIES": "Bişkojka bitikîne ku hûn qeydkirina nexweşiya xwe ya dermanê bike",
+  "empty_dataset": "Daneyê tune",
+  "EMPTY_DEPENDENCIES": "Bişkojka bitikîne ku hûn pêwendiya lênerîna tendurustiya we girêdayî ye",
+  "EMPTY_DISEASE": "Bişkojka bitikîne ku hûn qeydkirina nexweşiya xwe ya dermanê bike",
+  "EMPTY_DOCUMENTS": "Bişkojka bitikîne ku hûn belgeya belgeya doktorê xwe bikin",
+  "EMPTY_IMAGES": "Bişkojka bitikînin ku hûn wêneyek bi qeydkirina bijîşkek xwe re zêde bike",
+  "EMPTY_IMMUNIZATION": "Bişkojka bitikîne ku ji bo parastina dermana xwe ya tendurustî ve zêde bike",
+  "EMPTY_MEDICATION": "Bişkojka bitikîne ku ji bo dermankirina dermana xwe ya lênerîna xwe bike",
+  "empty_otp": "Kodeya OTP ya çewt",
+  "EMPTY_PROSTHESIS": "Bişkojka bitikîne û ji bo pêşveçûna pêvajoyek ji bo wextê doktor bike",
+  "EMPTY_TESTS": "Bişkojka bitikîne ku hûn testa testa xwe ya lênerîna xwe bikeve",
+  "enabled": "Vekirî",
+  "endate": "Ber",
+  "endcall": "Banga dawîn",
+  "endDate": "Dîroka Dawî",
+  "endhour": "Demjimêra Dawîn",
+  "end_time": "Demjimêra Dawîn",
+  "END_VIDEOCALL_Q1": "Ma hûn bawer dikin ku hûn dixwazin pêşniyar bikin ku bêyî videocall?",
+  "END_VISIT_BTN": "Serdana dawîn",
+  "error": "Şaşî",
+  "error_call_timeout": "Wextê ku videocall çêtir e. Ji bo çêkirina videocall, pêvajoyê dîsa careke din.",
+  "ERROR_EMAIL_DUPPLICATE": "Ew xuya dike ku ev e-nameyê berê berê qeydkirî ye. Bi hev re digerin.",
+  "error_price": "Ji kerema xwe, xercek diyar bikin",
+  "ERROR_SPECIFY_DAYS": "Ji kerema xwe, bi kêmanî heft rojek diyar bike",
+  "ERROR_SPECIFY_HOUR": "Ji kerema xwe, wext e",
+  "ERROR_TITLE_NOTIFICATION": "Şaşî",
+  "ERROR_TRACKX": "Trackx veguherînin",
+  "error_update": "Çewtiya Daxistina Firmware",
+  "ERROR_USERNAME_DUPPLICATE": "Navê bikarhêner jixwe ve hatibe hilbijêre, yek jî hilbijêre",
+  "ERROR_WHITELIST": "Bibore, amûrê xwe ne gengaz e ku hûn vîdyoyek çêbikin",
+  "esameobbligatorio": "Ji kerema xwe, testek hilbijêrin",
+  "exam_name": "Navê Ezmûnê",
+  "exercise": "Fêre",
+  "exercisereminders": "Reminderers My Exercise",
+  "existentassoc": "Komeleyên heyî hene",
+  "existentrelation": "Têkilî ev yek heye",
+  "expandfordetails": "Ji bo bêhtir agahdariyê zêde bike",
+  "EXP_MONTH": "Meha Dawî",
+  "EXP_MONTH_REQUIRED": "Meha dirêjkirinê pêdivî ye",
+  "EXP_YEAR": "Sala derbasbûyî",
+  "EXP_YEAR_REQUIRED": "Salê qediyayî hewce ye",
+  "e_prescribing": "E-Prescribing",
+  "F": "Mê",
+  "farmaci": "Dermanan",
+  "farmaco": "Dermankirinê",
+  "fat": "Rûn",
+  "FATIGUE_INDEX": "Westînî",
+  "FATIGUE_INDEX_DESCRIPTION": "Karê kar, kar û tecrûbeyê ji hêla tengahiyê ve têne çêkirin. Bi awayekî tengasî bi hêsantir dibe ku bêhêziya zextê, ​​kêşkêş, nerazîbûn, tehlûk, kêşê kêm, û bi hêsanî bi sîstema nervousî, astengiya endocrine, di encama gelek nexweşiyên derûnî û hişê derûnî de dibe.",
+  "favoriteslist": "Lîsteya My Favorites",
+  "FAVORITES_NO": "Te lîstikên xwe li lîstikên xwe yên bijîşk nehatî nagire",
+  "FAVORITES_NO_PHARMACIES": "Hûn ji bo lîsteya xwe ya lîstikên ku tu carî lîstikên xwe yên bijartî ne zêde kirî",
+  "FAVORITES_SECTION_SUBTITLE": "Li ser her tiştek bitikînin ku agahdariya tevahî bibînin",
+  "FAVORITES_SECTION_TITLE": "Doktorên xwe yên bijartî",
+  "FAVORITES_TITLE": "Favorites",
+  "favourite_pharmacy": "Pharmaciyên Favorite",
+  "FEE": "Xaniyên Rêvebiriyê bikin",
+  "FEET": "lingên",
+  "female": "Mê",
+  "fileloaded": "Pelê barkirin",
+  "fileloaded1": "Fle Serkeftî Uploaded",
+  "fileName": "Navnîşa pelê",
+  "filenotfound": "Pelê nayê dîtin",
+  "file_upload_instruction": "Derhênerê barkirin",
+  "filldate": "Ji kerema xwe, rojek hilbijêre",
+  "filldoctor": "Ji kerema xwe, doktor bijarte",
+  "fillpeciality": "Ji kerema xwe, pisporek hilbijêrin",
+  "fillthebox": "Biçin",
+  "fill_indication": "Ji kerema xwe, qala nîşana nîşanî",
+  "fill_indication_for": "Ji kerema xwe nîşan bide nîşan bide",
+  "fill_quantity": "Ji kerema xwe, qada kalîteyê hilbijêre",
+  "fill_quantity_for": "Ji kerema xwe ji bo hejmarê diyar bikin",
+  "fill_your_doubt": "Ji kerema xwe, li jêrê li jûrnavekek pêşkêş bikin.",
+  "filter": "Parzûn",
+  "finddoctor": "Doktor bibînin",
+  "findFarmacia": "Pharmacy Search",
+  "findpatient": "Nexweş binêrin",
+  "findspcialist": "Pisporek bibînin",
+  "findStruttura": "Structural Search",
+  "finduser": "Bikarhêner bibînin",
+  "FIND_A_DOCTOR": "Bi doktorê ve girêdayî bike",
+  "find_device": "Dihave lêgerîn",
+  "FIND_THE_BRACELET": "Bikin",
+  "fingerprint_btn": "Endamê tilîşa têketinê çalak bikin",
+  "fingerprint_hint": "Pêguman nîşankirina piştrast bike ku berdewam bike",
+  "fingerprint_hint2": "Pêguman nîşankirina piştrast bike ku berdewam bike",
+  "fingerprint_question": "Ma hûn dixwazin dixwazin rastiya fingerprint çalak bikin?",
+  "FIRMWARE_UPDATE": "Update Firmware",
+  "FIRMWARE_UPDATED": "Firmware Updated",
+  "firstName": "Nav",
+  "five_min": "Di 5 deqîqeyan de",
+  "fixappointment": "Ma tu dixwazî ​​vê rûniştinê amade bike?",
+  "forever": "Herdem",
+  "forgotPassword": "Passwordîfreya xwe ji bîr kir?",
+  "forgot_password": "Passwordîfreya xwe ji bîr kir?",
+  "forma": "Awa",
+  "formafarmaco": "Forma dermankirinê",
+  "formatError": "Divê bihayê nirxek hejmar be.",
+  "found_devices": "Amûrên dîtin",
+  "FRIDAY": "Roja Înê",
+  "GENDER": "Cinsî",
+  "gender1": "Cinsî",
+  "general": "Giştî",
+  "generalInfo": "Agahdariya gelemperî",
+  "genericName": "Navê Navîn",
+  "GENERIC_ERROR": "OOps! Tiştek çewt bû. Ji kerema xwe, paşê dîsa dîsa biceribînin",
+  "geneticTest": "Testê Genetic",
+  "geneticTestHeader2": "Bi îmtîhanên genetîk ên ku hûn di derbarê tendurustiya we de bêtir lêgerîn bikin û tiştek rast bikin ku tendurustî bimînin.",
+  "geneticTestHeader3": "Ew çawa dixebite",
+  "geneticTestProduct": "Profile Profile",
+  "geneticTestRequestBtn": "Ji bo ceribandinê bipirsin",
+  "geneticTestRequestSuccess": "Pergala we pejirandiye. Hûn ê kitêvek rasterast li malê bigirin",
+  "geneticTestSection1": "Ma hûn dixwazin ku hûn çi bikin ku hûn ji bedena we û metabolîzma we tê bes e?",
+  "geneticTestSection2": "Ma hûn dixwazin bizanin eger xwarinê tendurustî dermanê xwe bistînin ku nexweşî nexweşiyên cronic ne?",
+  "geneticTestSection3": "Tendurîna tedawiyê dê ji we re têkiliya di navbera DNA û xwarinê de bizanibin.",
+  "geneticTestSection4": "Vê numreya te ya navnîşan û navnîşa ku hûn dixwazî kitêfa xwe bigirin",
+  "geneticTestStep1": "1. Di testa xwe de bistînin",
+  "geneticTestStep1Subtitle": "Armanca xwe bi bi appê bikî û kitêb li ser malê bi rasterast bike.",
+  "geneticTestStep2Subtitle": "Tîmên xwe bistînin û bi rêya xizmetkariya posteyê bişînin em bi şîfreya we bişînin.",
+  "geneticTestStep3": "3. encama encam bikin",
+  "geneticTestStep3Subtitle": "Piştî çend hefteyan, hûnê peyamekê peyda bikin ku hûn ji encamên testê genetîkî dê li ser App App be.",
+  "geneticTestTitle": "Testê Genetic",
+  "GLUCOMETER": "Glucometer",
+  "glucosio": "Glucose",
+  "HAND_BRIGHTEN": "Destê xwe bide Brîtanî",
+  "happiness": "Qismet",
+  "HDL": "HDL Cholesterol",
+  "hdl_cholesterol_desc": "Kolesterolê lîpoproteîn (HDL) bi hûrguliya bilind tê zanîn wekî kolesterolê &#39;baş&#39;. Tabloya jêrîn nirxa rêzikê nîşan dide.",
+  "healthtips": "Tendurustî",
+  "HEALTH_INDEX": "Tendûrûstî",
+  "HEALTH_INDEX_DESCRIPTION": "Indeksa tendurustiyê ya HRV di analîza tendurustiyê ya HR û dilerastiya dilneteweyî ya HRV û pîvanên din de, li gor pîvana rastîn ya encamên Holter ji bo pîvana tenduristiya tenduristiyê, pêşveçûna tenduristiyê, nûnerê tendurustiya laş baştir; Sermaseya tendurustiyê kêm bûye, li ser laşê pêwîst e ku hûn bi jiyanê rojane tendurustiya xwe bala xwe bidin.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Dil",
+  "HEART_INDEX_DESCRIPTION": "Bikaranîna Karîçê ya Karanacê heqê mirovê dil, û çalakiya wan cuda ye ku ji asta xwezayî ji bo dil û hemî rewşa tendurustî ya cuda cuda ye. Ji bo pêşxistina jiyanek tendurustî û pîvanên xwarina tenduristiyê çêbikin: stratejiyeke makekt a dilxwazî ​​ku dilê dilxweşîya sodiumê dil bi hêza hêza xwe bide hêza, ji bo parastina xwînê xwarin, bi awayek çalakî ji bo nexweşîya dil, dibe ku stratejiya fonksiyonê ya xurt bike.",
+  "height": "Bilindî",
+  "height1": "Ji bo hesabkirina rastkirina BMI ya bilind e",
+  "heightUnit": "Yekîneya pîvanê",
+  "hepaticFunction": "Fonksiyonê Hepatic",
+  "hide": "Veşartin",
+  "high1": "Bilind",
+  "high_risk": "Metirsiyek mezin",
+  "history": "Dîroka Şêwirmendiyê",
+  "homepage": "Xane",
+  "HOME_WARNING_MESSAGE": "Ma hûn bawer dikin ku hûn dixwazin ji vê rûpelê vekişînin? Guherandinên we winda bibin.",
+  "hormonalTest": "Testa Fonksiyonê Hormonal",
+  "hospDate": "Hosp.date",
+  "hospit": "Nexweşxaneyê ji bo",
+  "hospital": "Nexweşxane",
+  "hospitalization": "Nexweşxaneyê",
+  "hour": "Seet",
+  "hours": "Saet",
+  "HOURS_BANK_DONATE_BTN": "Bêşdan",
+  "HOURS_BANK_DONATION": "Saet niha davêtin:",
+  "HOURS_BANK_H": "Bexdayê:",
+  "HOURS_BANK_SECTION_P1": "Tenduristiya me yê li ser SaluberMD yê herî bilind e û em dixwazin ku gelek kesan gengaz bikin. Bi rêya platformê me em ji bo kesên ku hewceyê xwedî lênêrîna tenduristiyê dibe mimkin in. Tîmên me yên pêşniyaz e ku ji bo derfetên tendurustiyê, rêxistinên kesan û malbatan hewce dike.",
+  "HOURS_BANK_SECTION_P2": "Tenê li ser vê rûpelê bi çend demjimêrên ku hûn dixwazin bixwazin, li ser binêrin û em ê li bankê xwe zêde bikin.",
+  "HOURS_BANK_SECTION_P3": "Em ê ji we re bi serîlêdanê têkilî bikin ku hûn demjimêr bistînin û dema ku hûn li wir berdestin, bişkojk bikin ku li benda nexweşan bibînin.",
+  "HOURS_BANK_SECTION_TITLE": "Di nav da ku diyariya tendurustiyê bide me bibin.",
+  "HOURS_BANK_TITLE": "Bexdayê",
+  "howto": "Çawa",
+  "howto1": "Dîmên heyî yên bi blokek kesk têne nîşankirin",
+  "howto2": "Bi hucreyek kesk hilbijêre û gavê hilbijêre û da ku pêve bike û wext bike. Dema ku hûn amadekar e ku li ser pencilê pencil bitikînin ku pêşniyarê bibînin û serdana xwe bigirin",
+  "howToPrice": "Divê bihayê nirxek hejmar be. Bi piranî du nirxên bihurî destûr ne. Dot an coma wekî veqetandinê têne bikar anîn",
+  "hrv_buono": "Baş",
+  "hrv_eccellente": "Pirrbidilî",
+  "hrv_generale": "Giştî",
+  "hr_alta": "Ji 100 kesan mezintirîn",
+  "hr_bassa": "Ji 60 salî",
+  "HR_DESCRIPTION": "Tabloya rêjeya ya rûniştina dilheziya dil",
+  "HR_INTERVAL": "HR Interval Measure",
+  "hr_normale": "Di navbera 60 û 100 de",
+  "hsh": "Nexweşxaneyê û Dîroka Surgical",
+  "IBAN": "IBAN",
+  "idx": "Indexes",
+  "image": "Wêne",
+  "images": "Wêne",
+  "immunization": "Immunization",
+  "immunizationmenu": "Immunization",
+  "importhealth": "Daneyên Tenduristiyê Import bikin",
+  "impossible_transfer": "Bêguman ji bo Telefonê bikişîne",
+  "INCH": "Inch",
+  "indexes": "Indexes",
+  "indication": "Delîl",
+  "INFO_BTN": "Agahdariyê",
+  "info_salvate": "Dîtin bi serkeftî rizgar kirin",
+  "iniezione": "Derzîkirinî",
+  "initiative": "Serkêşî",
+  "initiativeerror": "Ji kerema xwe, destek hilbijêre",
+  "insert": "Lêzêdekirin",
+  "inserttext": "Li vir binivîse nivîsîn",
+  "insert_otp_code": "Koda li vir bicîh bikin",
+  "internet_missing": "Tu înternetê ne girêdayî ye",
+  "invalidemail": "Navnîşa nameyek nederbasdar",
+  "invoice": "Biha",
+  "irregulartest": "Tested Irregular",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Testên Fonksiyonên Kincî",
+  "labtesting": "Network",
+  "LANGUAGE": "Ziman",
+  "LANGUAGE_TYPE": "Ziman",
+  "lastmeasure": "Pîvana dawî",
+  "lastName": "Paşnav",
+  "lastPhysical": "Fîzîkî",
+  "lastSync": "Sync Last",
+  "lastTimeOnline": "Demjimêra Dawîn",
+  "lastvisit": "Serdana dawîn",
+  "last_login_date": "Dîroka Dawîn Dîroka Dawîn",
+  "last_time_taken": "Cara paşîn hat girtin",
+  "LDL": "LDL Kolesterol",
+  "ldl_cholesterol_desc": "LDL, an lipoproteînek kêm-danser, kolesterolê &#39;xirab&#39; e. Tabloya jêrîn nirxa rêzikê nîşan dide",
+  "leggero": "Sivik",
+  "LICENSE_NUMBER": "Hejmara belgeyê",
+  "LIGHT_SLEEP_TIME": "Şevê şev",
+  "listcall": "Lîsteya videocall çêkir",
+  "litri": "Literature",
+  "liverExam": "Testa Fonksiyonê ya Liver",
+  "LIVE_ECG": "Pîvana nû",
+  "live_ecg_downloading": "Download ECG. Ji kerema xwe bixwazin ...",
+  "loadEcgList": "Lîsteya EKG",
+  "loading": "Daneyên danekirinê ...",
+  "loading1": "Loading ...",
+  "loading_list": "Lîsteya lêdanê ...",
+  "loading_list_nutritionist": "Loading nutritionists ...",
+  "LOAD_INDEX": "Gazîname",
+  "LOAD_INDEX_DESCRIPTION": "Dersî û tengahî, Stenbol Pirfireh ji bo laşê veguhestina barkirina berbiçav, li ser fonksiyonên fîzîkî û psîkolojîk nîşan dide. Civakî ya civakî, jiyan û pêşbaziyê û faktorên din, lê ji aliyê dewleta xwe ya fîzîkî û dewleta derûnî.",
+  "LOAD_ITEMS": "Loading ...",
+  "LOGGING_IN": "Logging in ...",
+  "LOGGING_OUT": "Derket holê ...",
+  "LOGIN_BTN": "Log In",
+  "LOGIN_ERROR": "Navê bikarhêner yan şîfre çewt",
+  "Logout": "Derkeve",
+  "logout1": "Derkeve",
+  "LOGOUT_BTN": "Derkeve",
+  "low1": "Nizm",
+  "lunch": "Firavîn",
+  "lungtest": "Bila ceribandina laşê bikin",
+  "M": "Nêrî",
+  "male": "Nêrî",
+  "manageapp": "Serdanên birêvebirin",
+  "manageslot": "Arîkariya belaş azad bikin",
+  "MANAGE_CORX": "Corx",
+  "mandatoryDays": "Ji kerema xwe, hejmara rojan diyar bikin",
+  "mandatoryfield": "Ji kerema xwe, qada hemî hewceyan tije bikin",
+  "map": "Qert",
+  "max_file_size": "Pîvana pelê kêmtir be",
+  "meals": "Xwarin",
+  "medicalconsultation": "Şêwir",
+  "medicalfile": "Wêne",
+  "medicalform": "Forma Tendurist",
+  "medicalforms": "Forma Tendurist",
+  "medicalinfo": "Agahdariya lênerînê",
+  "medicalrecord": "Radyoya Tenduristiyê",
+  "medical_2option": "Daxistina Duyemîn a Tenduristiyê",
+  "MEDICAL_CERTIFICATE": "Belgeya bijîşkî",
+  "MEDICAL_FILE_BTN": "Pelê doktorî",
+  "medication": "Dermankirinê",
+  "medication_name": "Navê dermankirinê",
+  "medicinereminders": "Dermanên min My Remeders",
+  "medio": "Medya",
+  "medium1": "Medya",
+  "message": "Agah",
+  "messagesent": "Peyama serkeftî şandin",
+  "metabolismTest": "Testên Metabolîzmê",
+  "method": "Awa",
+  "METRIC": "Metric",
+  "middedcall2": "Hûn telefonek bersivê ji we re ye",
+  "minutes": "deqîqe",
+  "missedcall": "SaluberMd Missed videocall",
+  "missedcall1": "Lêgerîna bêbersiv",
+  "missedNotiAlert": "Tu hin agahdariyên ji bîr kiriye.",
+  "misurazioni": "Radyo",
+  "misure": "Pîvan",
+  "mobile": "Hejî",
+  "mobile_required": "Ji kerema xwe, hejmarek telefonê zêde bike da ku em dikarin ji we re têkilî bikin ku ji bo rûniştinê pêk bikin.",
+  "moderate_risk": "Xetereya nerm",
+  "MONDAY": "Duşem",
+  "month": "Meh",
+  "mood": "Koma moodê",
+  "moodDescription": "Bê nîşanî sereke ya dewleta hestyar a dema beşa dengê analîzkirî de. The API tevahî komên 11 moodê dike ku ji xezeb, xemgîniyê û xwe kontrola xwe ji bo kêfxweş û dilxweşiyê.",
+  "moreDays": "Rojên din",
+  "motivazione": "Semed",
+  "MRGraph": "Derman dîrokê girt",
+  "msgAppointment": "Serdana serkeftî hate diyarkirin. Hûn ê di beşa qezencên kanserê de bibînin.",
+  "msgsurveysent": "Survey bi serkeftî şandin",
+  "msg_call_reconnection": "Têkoşînê bi veşêre ...",
+  "MSG_CALL_TRANSFERED": "Videocall bi serkeftî veguherandiye",
+  "MSG_CHOOSE_OPTION": "Ji kerema xwe, bijartek hilbijêrin",
+  "MSG_CHOOSE_OPTION4": "Hilbijêre bijarte",
+  "MSG_CHOOSE_OPTION5": "Taştê xwe binivîse",
+  "MSG_CHOOSE_OPTION6": "Xwarinê şîrove bike",
+  "MSG_CHOOSE_OPTION7": "Di xwarinê de şîrove bike",
+  "MSG_CHOOSE_OPTION8": "Snaksên xwe binivîse",
+  "MSG_CHOOSE_OPTION9": "Ji kerema xwe, bersiva hemû pirsan",
+  "MSG_CHOOSE_OPTION_2": "Ji kerema xwe, ravekek navnîş bikî",
+  "MSG_CHOOSE_OPTION_3": "Bi kêmanî yek bijare hilbijêrin",
+  "MSG_COMPLETE_PROFILE": "Ma hûn dixwazin ku herin?",
+  "MSG_CONFIRM_EMAIL": "Ji kerema xwe, e-nameyê xwe piştrast bikin",
+  "MSG_CONFIRM_EMAIL_TEXT": "Me ji we re navnîşan bi e-nameyê re şandin ku e-navnîşa xwe ya e-nameyê piştrast bikin. Ji kerema xwe di navnîşa xwe de kontrol bikin.",
+  "msg_connected": "Girêdana Têkilî",
+  "MSG_CONTACT_SUCCESS": "Ji kerema xwe ji bo radestkirina te.",
+  "MSG_DOC_ENDED_CALL": "Doktor gazî dest pê kir",
+  "MSG_DOC_WAITING_CALL": "Doktor vekişandî ye, benda veguhestinê",
+  "MSG_DONATION": "Baweriya we piştrast bikin?",
+  "MSG_DONATION_CONFIRM": "Ji kerema xwe spasiya te",
+  "MSG_ERROR_FILL_BOXES": "Ji kerema xwe bi bloyan re bi nirxên rastîn bigirin",
+  "MSG_FILL_ALL_BOXES": "Ji kerema xwe, hemî bûkan hilbijêre",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Ji kerema xwe zeviyên jêrîn tije bikin",
+  "MSG_FILL_BOXES": "Ji kerema xwe re qeyd bin",
+  "MSG_FILL_BOXES_ALL": "Ji kerema xwe, hemî qadên tije bikin",
+  "MSG_FILL_BOXES_PROFILE": "Ji kerema xwe, hemî qonaxan bi stêrkek nîşankirin dagirtin",
+  "MSG_GENERIC_ERROR": "Ji kerema xwe veguhestina înternetê ya ku dîsa biceribîne kontrol bikin",
+  "MSG_GENERIC_FORM_ERROR": "Ji kerema xwe re çewtiyê rast bikin",
+  "MSG_LOGIN_ERROR": "Têketin têk çû. Ji kerema xwe pêbawerên xwe bibînin û piştrast bikin ku hûn bi torê re girêdayî ye.",
+  "MSG_LOGIN_ERROR_LOCKED": "Têketin neket: hesabê we di demeke dirêj de ye. Ji kerema xwe paşê dîsa biceribînin.",
+  "MSG_MANDATORY_OPTION": "Divê we ji doktorê xwe bide destnîşankirina pelê doktorî",
+  "MSG_NO_DOCTORS_FOUND": "Em apolozie, lê no doktor nehat dîtin. Press doktorê da ku ji bo veguhestinê",
+  "MSG_PATIENT_CANCELED_CALL": "Nexweş telefonê betal kir.",
+  "MSG_PATIENT_ENDED_CALL": "Nexweş telefon kir",
+  "MSG_PATIENT_WAITING_CALL": "Nexşeya vekirî, lêgerîna vekirî ve tê veşartin",
+  "MSG_POST_CALL_CANCEL": "Hûn serdana videocallê dest pê kir.",
+  "MSG_POST_CALL_DOCTOR": "Vê gavê şandin ku hûn ê vegerin malpera xwe",
+  "MSG_POST_CALL_PATIENT": "Ji bo Bikaranîna SaluberMD Ji we re spas. Hûn ê email bişînin. Ji bo serdana xwe ya serdana xwe bibînin, ji kerema xwe peyama xwe ya Profîl-Visit",
+  "msg_reconnection_error": "Amûrek vekirî ye. Ji kerema xwe, destûra xwe vekin",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Sipas .... kesek dê ji we re têkilî",
+  "MSG_REGISTRATION_SUCCESS": "Serîlêdana serkeftî bû",
+  "msg_req_videocall1": "ji bo videocall heye:",
+  "msg_req_videocall2": "Videocall amade ye ku dest pê bike. Li ser vê şertê bikî ku çalak bike videocall",
+  "msg_req_videocall3": "ji bo videocall heye. Li ser vê şertê bikî ku çalak bike videocall",
+  "MSG_RESET_REQUEST_ERROR": "Vê bikarhêner bi vê navnîşê an navnîşa e-nameyê nîne.",
+  "MSG_RESET_REQUEST_SUCCESS": "Hûn ê zûtirîn e-nameyek e-nameyek ku girêdayî şîfreya veguhastina rekêşî be",
+  "MSG_RESUME_CALL": "Hûn niha telefonek heye, gelo hûn dixwazin dîsa vekin?",
+  "MSG_SCHOOL_MISSING": "Insert School",
+  "MSG_SELECT_TIMEZONE": "Demek hilbijêre",
+  "MSG_SIGNATURE_MISSING": "Ji kerema xwe îmza xwe bigirin, neger hûn nikarin dermanên xwe bişînin.",
+  "MSG_THANKING": "Ji kerema xwe ji bo radestkirina te.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Girêdana winda Ev dibe sedema girêdana we înternetê",
+  "MSG_WELCOME_BACK": "Duabre bixêr bên",
+  "MSG_YEAR_PRACTISE": "Dîroka Serdema Derheqê",
+  "muscles": "Muscles",
+  "myappointment": "Serdana min",
+  "MYFILE_NOFILE": "Hûn pelên te tune ne",
+  "MYFILE_SECTION": "Pelên te",
+  "MYFILE_SUBTITLE": "Li her cûreyê binivîse ku naverokê pelê bibînin",
+  "MYFILE_TITLE": "Pelên min",
+  "myprofile": "Profîla min",
+  "myreminders": "Reminders My Reminders",
+  "MY_TICKETS": "Bilêtên we",
+  "M_SCHOOL": "Dibistana bijîşk",
+  "N": "Na",
+  "name": "Nav",
+  "negative": "Nebaş",
+  "nervous": "Rehok",
+  "nessun_appuntamento": "Vebijêrkên berê ne",
+  "NETWORK_CHECK_MSG": "Bandwîdth pir kêm e. Naveroka bandwîdthê bi naveroka lîstikvanê dê dê vîdyoyek bikişîne.",
+  "NETWORK_CHECK_TITLE": "Testê ya Kalîteyê",
+  "NETWORK_ERROR": "Çewtiya Têkiliya Înternetê. Piştre dîsa dîsa bizivin",
+  "neutral": "Bêdeng",
+  "newappointment": "Serdana nû ya ji",
+  "newass": "Komeleya nû ya nû bike",
+  "NEWPWD_CONFIRM": "Şîfreya bi serkeftî guhertin. Ji kerema xwe re dîsa bibîne.",
+  "NEWPWD_CONFIRM2": "Şîfreya bi destûr guhertin",
+  "NEWPWD_ERROR": "Şîfreyek nû naxwaze.",
+  "newtest": "Vebijêrk pirtirkêmtir bike ku ji bo îmtîhaneke nû ve bike.",
+  "NEW_PWD": "Şîfreya nû",
+  "new_ticket": "Bilêtek nû",
+  "NEXT": "Piştî",
+  "no": "Na",
+  "noAlarm": "No alarm set",
+  "noallergies": "Hûn alîgiran tune ne.",
+  "noapatient": "No patient found",
+  "noappointment": "Vê rûniştinê tune",
+  "noappointments": "Di vê doktorê de tune tune",
+  "noappointments1": "Di vê nîvrojeyê de tune tune",
+  "noAppoPat": "Navdêr tune ne ku navnîş bibin",
+  "noarticles": "Naverokên nîne",
+  "noassociatedpatient": "Hûn nexweşî ne girêdayî ye",
+  "noattachment": "Ji kerema xwe, veşartinê hilbijêre",
+  "noattachment1": "Naxwazî ​​tune",
+  "noavailableoption": "Hilbijêre tune",
+  "nocomment": "Tu şîrove / reklamasyonê tune",
+  "noconsulenze": "Ne serdanek nehatiye kirin",
+  "nocorxfound": "Na CORX nehat dîtin",
+  "nodata": "Agahî tune",
+  "nodependency": "Ne girêdayî girêdan tune.",
+  "nodesease": "Ti nexweşiyên lîsteyê hene.",
+  "nodevice": "No device found, please try again",
+  "nodoctor": "Ne doktor nehat dîtin",
+  "nodoctors": "Ne bijîşk tune",
+  "noDocuments": "Ti belgeyên ku nehatiye barkirin",
+  "nodrugselected": "Te tu narkotîkê hilbijêrin",
+  "noecg": "Ti ECG nehatiye lîstekirin",
+  "noexam": "Ji bo nîşandana xilasbûnê ceribandin tune",
+  "nofiles": "Fîlmên ji hêla nexweşiyê ve nehatiye tunekirin hene",
+  "noHistory": "Di vê yekê de şêwirdarî tune",
+  "nohsh": "Nexweşxaneyan tune.",
+  "noimages": "Di vê yekê de pêvek tune",
+  "noimmunization": "Hin parastin tune.",
+  "nolabtest": "Testên ceribandinê tune",
+  "nomedication": "No medications listed listed.",
+  "nomisure": "Pîvana tune",
+  "nonterminata": "Call Unsuccessfull",
+  "nonutritionist": "No Nutritionist available",
+  "nonuvoair": "No device found",
+  "nopharmacy": "No pharmacî nehat dîtin",
+  "noprescription": "Di vê demê de dermanan tune",
+  "noprothesis": "Di navnîşan de hebe tu pêvajoya an tenduristiyê ne.",
+  "noreferrals": "Di navnîşan de nehatiye referendal hene",
+  "noreminders": "Hûn ji bo hûrgelan tune",
+  "noresults": "Ne encam nehat dîtin",
+  "normale": "Normal",
+  "normalrange": "Rêjeya Nermaliyê",
+  "normalWeight": "Giraniya normal",
+  "nosintomi": "No symptom nehat hilbijartin",
+  "nospecialist": "Ne pispor hene",
+  "note": "Notes",
+  "notests": "Vebijêrkên neqeydkirî hene.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Li vir binivîse ku pelê temamî xwe temam bike",
+  "NOTIFICATIONS_SECTION": "Agahdariyên te",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Li ser pelê dermana xwe temam bike piştî şêwirmendiya an tendurustiyê ya tendurustiyê bistînin.",
+  "NOTIFICATIONS_SETTINGS": "Notifications",
+  "NOTIFICATIONS_TITLE": "Notifications",
+  "notification_setting": "Ji kategoriya wichê hilbijêre ku hûn agahdariyê bigirin hilbijêrin",
+  "notimage": "Pelê ne wêne ye: Tenê BMP, GIF, JPG û PNG destûrê ne",
+  "notNow": "Guhê xwe nedenê",
+  "notnow_btn": "Guhê xwe nedenê",
+  "nouser": "No user found",
+  "novantad": "90 rojên dawî",
+  "novideocall": "Videocall tune",
+  "novisit": "Hûn nexweşî mêvan hene",
+  "noWellnessData": "Daxuyaniya Nû ya Nû ya Nû",
+  "no_certificate": "Bê belgeyek ku were navnîş kirin",
+  "no_chiosc_data": "No testa ceribandinê ji bo dîtina",
+  "NO_DATA": "Agahî tune",
+  "no_doctor_answer1": "Di demê de bijîşk hene.",
+  "no_doctor_answer2": "Hûn dikarin li ser doktorê jêrîn bitikînin serdana xwe bigirin.",
+  "NO_GENETIC_TEST_REQUESTS": "We tu ceribandinek genetîkî daxwaz nekiriye",
+  "NO_MSG": "Peyam nehat şandin",
+  "no_notifications": "Hûn agahdariyê tune",
+  "no_prescription_download": "Li ser vê şêwirmendê tune tune",
+  "no_pull_answer": "Ne pijîşk tune ye.",
+  "no_referral_download": "Li ser vê mêvanê têkildar tune ye",
+  "NO_SECOND_OP_REQUESTS": "Hûn ji bo Serdana Bersivê ya Duyemîn Doza we tune",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Tu pispor nehat dîtin",
+  "NO_TICKETS_SENT": "Bilêt nehat şandin",
+  "NO_USER_FOUND": "Navê bikarhêner an email nehat dîtin",
+  "NPI": "NPI",
+  "ns": "Sîstema Nervous",
+  "numberNotSaved": "Di dema ku hejmara tomarkirinê de çewtiyek çewt",
+  "numberSaved": "Hejmara Serkeftî Serkeftî",
+  "nuovoair_connected": "Girêdanê",
+  "nuovoair_disconnected": "Vekirî",
+  "nutriPen": "Daxwaznameya Pending",
+  "nutriRev": "Pirsgirêka revisioned",
+  "nutrition": "xwarin û",
+  "nutritionist": "Ji bo nutriyatek re bipeyivin",
+  "NUTRITIONIST_Q1": "Armancên Pêşîn: (Hemû hemî daxwaz bikin)",
+  "NUTRITIONIST_Q10": "Heke hûn xwar nebûn, hûn bi xemgîniyê, hildana sererast an jî qelsî ne?",
+  "NUTRITIONIST_Q11": "Vebijêrk Pêwîste Niha: ((Cardio, Resistance, Etc.)",
+  "NUTRITIONIST_Q12": "Ma hûn Smoke ?: (Ger heger, carî û çiqasî çend?)",
+  "NUTRITIONIST_Q13": "Ma hûn alkolê vexwarinê? (Heke erê, çend caran û çiqasî?)",
+  "NUTRITIONIST_Q14": "Ma tu Kaffeine vedixwe ?: (Ger heger, çend caran û çiqasî?)",
+  "NUTRITIONIST_Q15": "Dîroka Dawîn:",
+  "NUTRITIONIST_Q16": "Di 2 salên dawî de çend caran çend antibiotics hatine danîn kirin:",
+  "NUTRITIONIST_Q16_BIS": "Ger vî awayî, kîjan û çend caran, (Ji kerema xwe wekî gengaz be taybet be.)",
+  "NUTRITIONIST_Q17": "Ma hûn dermanan bigirin? (OTC yan nivîsandinê?) Ger heger, kîjan e û hûn têr bibin? Heke pir caran, pir caran, (Ji kerema xwe wekî mimkin be taybet be.)",
+  "NUTRITIONIST_Q18": "Hûn di hefteya 1-2 rojan de bêhtir an qeşandin?",
+  "NUTRITIONIST_Q19": "Ma hûn li herêmên jêrîn hene? Heke erê, kerema xwe li pirsên li cihan pêşkêşkirî binivîsin.",
+  "NUTRITIONIST_Q2": "Hûn bi çend rojan hûn rojek dixwin? (Hilbijêre Yek)",
+  "NUTRITIONIST_Q3": "Niştecîhên Niştecîh Çi Niştimanî ye, û çi demê:",
+  "NUTRITIONIST_Q4": "Çawa Konseya Dostê Lênêrîna Niştimanî ya, û çi demê",
+  "NUTRITIONIST_Q5": "Dinner Consistive Dinner-of-what, and what time:",
+  "NUTRITIONIST_Q6": "Nîşeyên Tiştikên Niştimanî yên Pêdivî ye, û çi demê",
+  "NUTRITIONIST_Q7": "Hûn Dibe?",
+  "NUTRITIONIST_Q8": "Çi tiştên xwarinê ji we re dubare dike û pir caran carî dikin:",
+  "NUTRITIONIST_Q9": "Gelo we ji alergeyên xwarinê, sînor an hestiyariyê heye?",
+  "NUTRITIONIST_SUB1": "Nerazîbûna giran",
+  "NUTRITIONIST_SUB10": "Nausea / Vomiting",
+  "NUTRITIONIST_SUB11": "Parmendiya Stomach",
+  "NUTRITIONIST_SUB2": "Baweriya giran",
+  "NUTRITIONIST_SUB3": "Enerjiyê / Fatûnê",
+  "NUTRITIONIST_SUB4": "Better Sleep",
+  "NUTRITIONIST_SUB5": "Pirsgirêkên Digestiyan",
+  "NUTRITIONIST_SUB6": "Xetimandinî",
+  "NUTRITIONIST_SUB7": "Navçûyin",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Bloating / Gas",
+  "nutrition_mail": "Li vir raporek nîvroşkirî heye",
+  "nutrition_mail2": "Pîvana xwarinê ji we re pelê bişîne",
+  "nutrition_questionnaire": "pirsnêrînê",
+  "nvisit": "Hejmarên vîdyoyê hatine kirin",
+  "obesity1": "Obese",
+  "obesity2": "Zehmetî",
+  "obesity3": "Morbidly obese",
+  "OFFICE_ADDRESS": "Navnîşana Navnîşê",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Doktor nexşandî ye, ji kerema xwe paşê paşê biceribîne",
+  "OLDPWD_ERROR": "Nasnameya şîfreya bi şîfreya kevin",
+  "OLD_PASSWORD_WRONG": "Şîfreya kevn çewt e",
+  "OLD_PWD": "Şîfreya kevin",
+  "oneDay": "Yek roj",
+  "one_min": "Di 1 deqîqê de",
+  "online": "Liserxetê",
+  "onlinedoctors": "Doctors",
+  "openimage": "Li wêneyê temaşe bike ku li ser vîdyoyê vekin bike",
+  "open_ticket": "Vebijêrkek vekin",
+  "orale": "Bi Mouth",
+  "other": "Yên din",
+  "othercbc": "Ezmûnên CBC yên din",
+  "OTHER_PLACEHOLDER": "Ji kerema xwe pisporiya xwe hilbijêrin",
+  "otoscopy": "Otoscopy",
+  "otp_sent_msg": "Me li ser hejmara têlefona we koda verastkirinê ji we re şand",
+  "OUR_PRODUCTS_SECTION": "Di cîhazên me de danûstandinên tenduristî û tendurustiya rastîn da ku ji bo ku hûn alîkariya tendurustiya xwe biparêzin.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Bi seksê xwe re pisporê pisporê spirometerek bi tendurustiya xwe bigirin",
+  "OUR_PRODUCTS_SECTION_P1": "Teknolojiya Smart Smartable ku karûbarên tendurustiyê rastîn bi karûbarên tendurustiyê re pêşkêş dike",
+  "OUR_PRODUCTS_SECTION_P2": "Fitness / Wellness Benefits",
+  "OUR_PRODUCTS_SECTION_P3": "Ji malbata malbata bingehîn ya navnîşê ya bingehîn.",
+  "OUR_PRODUCTS_SECTION_P4": "Taybetmendiyên",
+  "OUR_PRODUCTS_SECTION_P5": "Hemavên amadekar têne çêkirin ku ji bo sepana tendurustiya tendurust a baş pêşkêş dikin. Encamên wê dê bi rasterast li ser appê tomar bibin.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Di pêdivî de pisporên sphygmometer ên ku pisporê pîşesaziya xwe ya pîşeyî ye",
+  "OUR_PRODUCTS_SECTION_SCALX": "Bi pîvana pîşesaziya pîşeyî ya xwe di nav de pîvana xwe bide",
+  "OUR_PRODUCTS_TITLE": "Berhemên me",
+  "overeatFoods": "Xwarina ku li ser dorpêçê ye",
+  "overeating": "Pêwîstiya berbiçav",
+  "overweight": "Qelew",
+  "pa": "Alîkariya nivîsandinê",
+  "PASSWORD": "Şîfre",
+  "passwordchanged": "Şîfreya bi serkeftî guhertin!",
+  "passwordExpiringMessage": "Şîfreya te dê demek nêzik bimîne. Ji kerema xwe veguhastin",
+  "passwordExpiringTitle": "Şîfreya şîfreyê",
+  "PATIENT": "Nexweş",
+  "patientAllergy": "Alerjî",
+  "patientGeneticRequests": "Daxwazên Testa Gjenetîkî",
+  "patientinfo": "Agahdariya nexweşan",
+  "patientlist": "Lîsteya nexweşan",
+  "patientmanagement": "Rêveberiya nexweşan",
+  "patientProtesi": "Prosesis",
+  "PATIENTS_NO_P": "Hûn niha rûniştinê nexweşî tune",
+  "PATIENTS_SECTION": "Serdanên we",
+  "PATIENTS_SECTION_SUBTITLE": "Li ser her tiştek bitikînin ku agahdariya tevahî bibînin",
+  "PATIENTS_TITLE": "Nexweşan",
+  "patientupdate": "Nexweş",
+  "patientvisit": "Dîrok dîrok",
+  "PATIENT_PROFILE_OPT1": "Profîla min",
+  "PATIENT_PROFILE_OPT11": "Dozên My Favorites",
+  "PATIENT_PROFILE_OPT12": "Dermanê bijartî",
+  "PATIENT_PROFILE_OPT2": "Pela Doktorê min",
+  "PATIENT_PROFILE_OPT3": "Dîroka My Visit",
+  "PATIENT_PROFILE_OPT4": "My Favorites",
+  "PATIENT_PROFILE_OPT5": "Pelên min",
+  "PATIENT_PROFILE_OPT6": "My Notifications",
+  "PATIENT_PROFILE_OPT7": "EKG Upload",
+  "PATIENT_PROFILE_OPT8": "Data Data",
+  "PATIENT_PROFILE_OPT9": "My Favorites Pharmacies",
+  "PATIENT_S1": "Nexweş",
+  "PATIENT_S2": "Axaftin",
+  "PATIENT_S3": "Agahdariya nexweşan",
+  "PATIENT_S4": "Mijarek serdana",
+  "PATIENT_S5": "Nexweş",
+  "PATIENT_S6": "Alerjî",
+  "PATIENT_S7": "Dermanan",
+  "PATIENT_S8": "Belgeyên peywendîdar",
+  "PATIENT_S9": "Nîşan?",
+  "PATIENT_SUMMARY": "Kurteya agahdariya nexweşan",
+  "patologia": "Pathology",
+  "payment": "Diravdanî",
+  "PAYMENT_DETAILS": "Danûstandinên Payment",
+  "PAYMENT_MESSAGE_1": "Hûn ê ji bo mîqdarek heb bidin pêş",
+  "PAYMENT_MESSAGE_2": "Hûn ê di dawiya vîdyoyê de werin berdan",
+  "PAYMENT_SECTION1": "Ji karta karta hilbijartî hilbijêre",
+  "PAYMENT_SECTION2": "Nirxên nirxên kredî",
+  "PAYMENT_SUCCESS": "Payment Serkeftin!",
+  "PAYMENT_SUCCESSFUL": "Me bi serfiraziya pêşî ya berfireh heye",
+  "PAYMENT_UNSUCCESSFUL": "Daxuyaniya pêş-authorkirinê ne. Agahdariya karta krediyê kontrol bikin an jî banka xwe bipirsin.",
+  "paziente_rimosso": "Rewşa nexweşan bi serkeftî guhertin",
+  "paziente_salvato": "Nexweş bi serkeftî nûvekirin",
+  "pdf_download_error": "Pdf daxistin. Ji kerema xwe, paşê dîsa dîsa biceribînin",
+  "pdf_file_error": "Tenê pelên pdf têne pejirandin",
+  "period": "Nixte",
+  "PERIODIC_HEART_RATE": "Rêjeya demjimêr",
+  "personal": "Şexsî",
+  "personalCare": "Lênêrîna Kesane",
+  "personalinfo": "Agahdariya şexsî",
+  "PER_MIN": "/min",
+  "pharmacies": "Pharmacies",
+  "PHONE": "Jimare telefon",
+  "phone1": "Telefonê",
+  "pills": "Pills",
+  "PILLS_DATE_ERROR": "Dîroka destpêkê piştî roja dawî ye",
+  "pill_reminder_message": "Wexta ku hûn gravên xwe bistînin",
+  "placeholder": "navê bikarhêner, email an jî navê",
+  "placeOfBirth": "Min jî birîya te kirîye",
+  "place_birth": "Min jî birîya te kirîye",
+  "platform": "Rawesta axaftevan",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Hejmara Polîtîkayê",
+  "positive": "Pozîtîf",
+  "POSTCALL_DOCTOR_TITLE": "Dîroka serdana serdana",
+  "POSTCALL_PATIENT_TITLE": "Ji kerema xwe, tecrûbeya we bistînin",
+  "POUNDS": "pound",
+  "PRACTICE_LENGTH": "Dema di pratîkê de",
+  "prenota": "Pirtûka niha",
+  "prenotatest": "Pêdiviya rûniştinê",
+  "preobesity": "Pre-obesity",
+  "prescription": "Reçete",
+  "prescriptiondiscounts": "Disc Discounts",
+  "PRESCRIPTIONS": "Daxistin",
+  "prescriptions_sent": "Şertên şandin",
+  "prescription_mail": "Têkiliya we heye",
+  "prescription_mail2": "Ji bo Bikaranîna SaluberMD Ji we re spas",
+  "prescription_notification": "Ji kerema xwe, we ji we re agahdar kir ku dermana we niha di binê demê / koda dîroka konferansê de heye",
+  "prescription_pharmacy": "Ji bo dermanxaneyê hilbijêre ku dermanxaneyê hilbijêre",
+  "prescription_preview": "Pêşniyara pêşniyarê",
+  "prescription_sent": "Nivîsandina şandin",
+  "PRESCRIPTION_SENT_EMAIL": "Dermana te ji bo e-nameyê şandin.",
+  "prescription_subject": "Nivîsandina we",
+  "pressbutton": "Bişkojka peldanka li ser cîhê vekin û binavkirin Find the app",
+  "pressbuttonpresx": "Bişkojka peldanka peldanka li ser pişta amûran vekin û bicîh bikin ku pêwendiya destpêkê bike û pêvekê pêvek pêveka pêveka dîskê li ser app",
+  "pressbuttonscalx": "Bişkojka peldanka peldanka li ser pişta amûran vekin û bicîh bikin ku pêwendiya destpêkê bike û pêvekê pêvek pêveka pêveka dîskê li ser app",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Pressure Pressure",
+  "PRESX_PROD": "PRESX",
+  "previous": "Pêşî",
+  "pre_period": "Dema nivîsandinê",
+  "price": "Biha",
+  "price_per_visit": "Xerc per serdan",
+  "PRICING_SECTION1_P1": "SaluberMD ji bo bihayên bihayên hêsan, lênêrîna kalîteyê pêşkêşî bihayên ku bi nexşeyên vekirî an bihayên veşartî ne.",
+  "PRICING_SECTION1_P2": "SaluberMD bi rêya ku hûn bi rêya vîdyoyek vîdyoyek bijîşkek bijartî ya ku bi hewceyê hewceyê hewce dike heye. Doktorên me dikarin li ser axaftin, lêpirsîn bikin û guhdarî bikin ku pirsgirêkên xwe diaxînin an jî bi tenê pirsên derman re navnîşan bikin û li ser dema telefonê de fikar dikin.",
+  "PRICING_SECTION1_P3": "Bi tedawiya me ya taybetî ya ku hûn dikarin doktorê xwe bi destûra dîrokek bijîşk, wêneyên we û pelên xwe bidin ku ji bo ku hûn alîkariya plana dermana herî bandor a pêşkêş dikin bidin xwe bidin.",
+  "PRICING_SECTION1_TITLE": "serdanek",
+  "PRICING_TITLE": "Pricing",
+  "primaryConcern": "Fikarên sereke",
+  "primaryMood": "Mood Primary",
+  "print": "Çap",
+  "priority": "Pêşeyî",
+  "PRIVACY_POLICY_TITLE": "Siyaseta Derve",
+  "problems": "pirsgirêkên",
+  "PROCEED_PAYMENT": "Bi dravdan bidomînin",
+  "PROFESSIONAL_TITLE": "Sernavê Profesor",
+  "PROFILE_SECTION2": "Agahiya Têkilî",
+  "protesi": "Prosthesis and Medical Aids",
+  "protesiobbligatorio": "Ji kerema xwe, hilbijêrek pêvajoyek hilbijêre",
+  "prov": "rate",
+  "publicAppUrl": "Url ya raya giştî ya ji bo serlêdana we ev e:",
+  "pulldown": "Ji nû ve veşêre",
+  "pull_request_processed": "Sipasî, Me gihîştiya nexweşê we re şandin",
+  "PWD_NOTMATCH": "Têkilî nayê hev kirin",
+  "P_P_Error": "Divê hûn polîtîkaya nepenîtiyê qebûl bikin",
+  "QUALITY_INDEX": "Çêwe",
+  "QUALITY_INDEX_DESCRIPTION": "Xwesaziya fizîkî asta rîskence û hişkiya hişk e ku di rûyê hêza xwe de çêbikin û pêvajoya çareserkirinê ye. Indeksa fîzîkî ya nîşana mirovê mirovan nîşan dide ku guhertina guhêrînên hawîrdirêj û zordariyê veguhestin, parastin û bicîhkirina tendurustiyê veguherînin. Xweseriya fîzîkî pir caran di potansiyona jiyanê de, fêrbûna kar û kar dike, lê bi xwezayî jî di xebata fîzîkî de tête dîtin. Kalîteya fîzîkî ya kesî bi mîrasî re girêdayî ye, lê nêzîktirîn ji bo xwarin û fizîkî ya fizîkî ye. Bi rêbazên rastîn û karbidestên maqûl, ew dikare di hemî aliyan de fîzîkî xwe çêtir dike.",
+  "quantity": "Jimarî",
+  "quesito": "Şik",
+  "QUESTIONS_SECTION_TITLE": "Li ser pelê dermana xwe temam bike piştî şêwirmendiya an tendurustiyê ya tendurustiyê bistînin.",
+  "QUESTIONS_TITLE": "Pirsên",
+  "quindici": "Pîvana 15 derxistin",
+  "ratio": "Têkilî",
+  "reccomendation": "Recostendation",
+  "reccomendations": "Pêşniyarên",
+  "recommendation": "Pêşniyarên",
+  "RECOMMENDATIONS": "Pêşniyarên",
+  "RECOMMEND_SECTION_P1": "Li SaluberMD em hewce dikin ku daxwaza tendurustiya kalîteyê li dora cîhanê digire ku ji hêla mêvandarên xwe re bi damezirandina komelek bijîşkên bijîşk.",
+  "RECOMMEND_SECTION_P2": "Em her tim her bijîşkvanên kalîteyê digerin ku tîma me teybek zêde bikin. Wekî endamê ku tîma me em rêzgirtin û nirxandinên te.",
+  "RECOMMEND_SECTION_P3": "Ji kerema xwe jêrîn li jêr binivîse ji bo Bijîşkek SaluberMD binivîse",
+  "RECOMMEND_SECTION_TITLE": "Pêşniyar bikin Colleague",
+  "RECOMMEND_TITLE": "Pêşnîyarkirin",
+  "record_aggiornato": "Vebijêrk bi serkeftî nûvekirin",
+  "record_aggiunto": "Record serkeftî zêde kir",
+  "record_inserito": "Serkeftî zêde kirin",
+  "record_rimosso": "Daxistina serkeftî bi serkeftî hat",
+  "REFERRAL": "Referral",
+  "REFERRALS": "Referrals",
+  "referrals_sent": "Referrals şandin",
+  "referral_mail": "Têgihîştina te heye.",
+  "referral_sent": "Referral şandin",
+  "refundrequestsent": "Serdana we şandin",
+  "register": "Fêhrist",
+  "register_report": "Tomarbûnên bikarhêneran",
+  "registration_date": "Dîroka qeydkirinê",
+  "REGISTRATION_HEADER_DOCTOR": "Tîma MD saluber bike",
+  "REGISTRATION_HEADER_PATIENT": "Ji kerema xwe binivîsî binivîse û qeydkirina çapemeniyê",
+  "releaserefresh": "Release to refresh",
+  "remarks": "Remarks",
+  "removedevice": "Ma tu dixwazî ​​vê cîhazê jê bibî?",
+  "removefavorite": "Ji ji dil bikişînin?",
+  "remove_generic": "Ma tu dixwazî ​​jê rake?",
+  "renalFunction": "Fonksiyonê renal",
+  "reoccurring": "Reoccurring",
+  "repeat_email": "Şîfreyê bişînin",
+  "report": "Fîlmek klînîkî: Kesayetiya tevahî agahdarî",
+  "report1": "Pelê klînîkî:",
+  "report2": "Nûçe",
+  "reportvisite": "Videocalls",
+  "report_date": "Dîroka Dîroka",
+  "requestdate": "Dîroka Request",
+  "request_already_taken": "Ev daxwazî ji hêla bijîşkek din ve hatibû dayîn.",
+  "REQUEST_ERROR": "Dema ku daxwazên we didin pêvajoyek çewt bû. Têkiliya înternetê kontrol bikin an jî paşê hewl bikin.",
+  "request_sent": "Pêdiviya we ya serkeftî li paşê paşê şandin",
+  "required": "Ev pêdivî ye.",
+  "required_field": "Pêdivî ye",
+  "RESEND_EMAIL": "Kodê piştrastkirina Resendê",
+  "resetCorxFactory": "Ma hûn bawer dikin ku hûn dixwazin Corx re veguherînin?",
+  "RESETPWD_BTN": "Şîfreya Vehetîne",
+  "RESET_PASSWORD": "Di navnîşana şîfreyê de bikar an email an jî bikar anîn",
+  "respiratory": "Vebijêrk",
+  "RESPIRATORY_RATE": "Rêjeya Saziyê",
+  "RESTORE_FACTORY_SETTINGS": "Settings Settings",
+  "resultfound": "qeyd kirin",
+  "results": "Encam",
+  "ricettario": "Welat",
+  "richiediDrug": "Drug daxwaz bike",
+  "richiestaAppuntamento": "Request Request",
+  "richiestaRimborso": "Request Refund",
+  "ricovero": "Nexweşxaneyê",
+  "riepilogo": "Berhevkirinî",
+  "rightHanded": "Mafê rast",
+  "rimborso": "Şûndadanî",
+  "ripetibile": "Ji bo (caran)",
+  "rr_desc": "Rêjeya respirasyon ev rêjeya ku dibe ku pêhnavê dibe. Rêjeya respirasyonê ya ji bo mezinek mezin her tiştî ye ku her demjimêrek 12 heta 20 salan e. Rêjeya respirasyon di bin 12 an jî 25 salî de, dema ku rûniştina nermî tê hesibandin",
+  "rs": "Sîstema Respiratory",
+  "RUNNING_CALL_OPT1": "Dîsa vekirin",
+  "RUNNING_CALL_OPT2": "Call Call",
+  "RUNNING_CALL_TITLE": "Call calling",
+  "sa": "Nasnameya bihêz",
+  "sadness": "Liberketinî",
+  "sai": "Index index",
+  "sai_desc": "SAI li gor rêjeya dilê te ye. Ew mîkrokek hêsan e ku bersivê bedena laşê çalakiya fîzîkî ye - bi tenê gavtirîn gav. Bêguman gavê bêyî, SCI ji bo her ramanek kredî dide ku rêjeya dilê bilind dike: swimming, biking, rowing, nancing, her tişt. Ji bo ku ji bo çêtirîn û tendurustiya jiyanê bin 30 bin.",
+  "sai_title": "SAI",
+  "saluberAccess": "nexweş SaluberMD",
+  "SATURDAY": "Şemî",
+  "savedinfo": "Agahdariyê bi serkeftî rizgar kirin",
+  "SAVE_BTN": "Rizgarkirin",
+  "SAVE_MESSAGE": "Heke hûn diçin, guhertinên te dê winda bibin",
+  "sbpi": "Indeksa zextê ya xwînê",
+  "sbpi_desc": "Zexta xwîna bilind xwekujek bêdeng e. Lihevhatina xwînê ya Systolic û xwîna dîkastolê di dema rûniştina her tedawî de tê texmîn kirin. SBPI li jêr 30 binçav bikin ku derfetên kêmtir dibin ku ji jiyanê ve tehdît dike ku wekî tehl û xwînê xwîn.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Pîvan",
+  "SCALX_PROD": "SCALX",
+  "scan": "Scan",
+  "scanningcorx": "Pirsgirêka CORX ... Ji kerema xwe bipejirîne",
+  "schedule": "Pîlan",
+  "scheduleAnAppointment": "Destnîşankirina hevdîtinê",
+  "scheduleappointment": "Doktorê bi doktorê veşartin",
+  "schtime": "Dem dema diyarkirî",
+  "sci": "Indeksa Cardiovascular",
+  "sci_desc": "Bi veguhestina we veguhestina xweya navxweyî, em di pergala xweseriya giyanî ya we de derkevin. Indeksa SCI-ê kurteya tendurustiya xweseriya xweser-ê ye, hewl bikin ku li 20 salî bimînin!",
+  "sci_title": "SCI",
+  "SEARCH": "Gerr",
+  "searchallergy": "Alergî bigerin",
+  "searchdoctor": "Doktorê lêgerînê",
+  "searchfordoctor": "Doktorê navnîşê an navê paşnavê bigerin",
+  "searchingdevice": "Amûra Lêgerînakirinê. Ew dibe ku demekê bigirin",
+  "searching_avail_date": "Dîroka peyda heye ...",
+  "searching_online_doctors": "Doktorên xurt li pêşveçûnê lêgerîn ...",
+  "searchmedication": "Dermankirinê bigerin",
+  "searchpatient": "Nexweşînê bibînin",
+  "searchpatologia": "Rewşa tendurustiyê bigerin",
+  "searchsymptom": "Semptomê lêgerîn",
+  "searchuser": "Bikarhêner lêgerîn",
+  "search_doctor_description": "Doktorê bikarhêner ji bo navê bikarhêner, e-nameyê an navê",
+  "search_patient_description": "Ji bo navê bikarhêner, email an jî navnîşê lêgerîn",
+  "search_specialization": "Pisporê lêgerîn",
+  "search_user_description": "Bikarhêner bikarhêner ji bo navê bikarhêner, email an jî paşnav",
+  "search_videocall_description": "Ji bo videocall ji hêla iniziative",
+  "search_videocall_title": "Serach Videocall ji hêja",
+  "secondaryMood": "Mood",
+  "secondOpinion": "Daxuyaniya Duyemîn",
+  "seconds": "çêdike",
+  "second_opinion_1": "Ji hêla pisporê cîhanê ve tê bikaranîn, hêsanî ya ewlehî ji ramanek duyem a ji aliyê pisporên sereke yên din ve.",
+  "second_opinion_2": "Xizmetiya Duyemîn Me Dibistana we dikare alîkariya te bike:",
+  "second_opinion_3": "Bersivên pirsên we bibînin",
+  "second_opinion_4": "Pîlana dermankirinê çêtirîn hilbijêrin",
+  "second_opinion_5": "Vebijêrkek rastîn bikin",
+  "second_opinion_body": "Bikarhênerê hêja, <br> Daxwaza weya duyemîn a vekolînê ji pisporên me yên ku hûn belgeyên ku we şandine vekolîn e.",
+  "second_opinion_history": "Daxuyaniya Duyemîn",
+  "second_opinion_msg": "Sipas ji were. Divê parêzerê tendurustiyê wê di nav 24 saetên saetan de bigihîje we.",
+  "SECOND_OPINION_Q1": "Ma hûn çi dixwazin hûn bi xetarinê re biaxivin?",
+  "second_opinion_question1": "Baweriya duyemîn kî ye?",
+  "second_opinion_question2": "Pelê hilbijêre",
+  "second_opinion_step1": "Pirsgirêka kurt a kurt bikin / pelên xwe hilbijêre",
+  "second_opinion_step2": "Doktorên me dê materyalên we binirxînin",
+  "second_opinion_step3": "Doktorê bijîşk ji bo encamên xwe bipeyivin",
+  "secOpChoice": "Ji kerema xwe bi kîjan awayê hûn dixwazin ramana duyemîn hilbijêrin hilbijêrin",
+  "section": "Ji kerema xwe, beşek yek ji hilbijêre",
+  "security": "Ewlekarî",
+  "seeaprovider": "Provider bibînin",
+  "seecommenti": "View Comments",
+  "seedoctor": "Niha doktor bibînin",
+  "SEE_A_DOCTOR_Q1": "Ev vîdyoyê kî ye?",
+  "SEE_A_DOCTOR_Q10": "Em dikarin dermankirina xwe ya dermanxanê ya bijartina xwe bişînin",
+  "SEE_A_DOCTOR_Q1B": "Nav û jidayikbûnê ya zarokê?",
+  "SEE_A_DOCTOR_Q1_A1": "Min",
+  "SEE_A_DOCTOR_Q1_A2": "Zarokê min",
+  "SEE_A_DOCTOR_Q2": "Ji kerema xwe re bêje ku hûn dixwazin dixwazin li ser doktorî bipeyivin",
+  "SEE_A_DOCTOR_Q3": "Nîşan?",
+  "SEE_A_DOCTOR_Q4": "Ma hûn dixwazin ku wêneyek an belgeyê veşêre?",
+  "SEE_A_DOCTOR_Q4_ERROR": "BİXWÎNE: Divê pelan divê 5 MB ne",
+  "SEE_A_DOCTOR_Q4_S1": "Pelê hilbijêrin",
+  "SEE_A_DOCTOR_Q4_S2": "Dîsa wêne",
+  "SEE_A_DOCTOR_Q5": "Hûn niha her tedawiyê digerin, heger hûn ji kerema xwe navê navnîşan bikin",
+  "SEE_A_DOCTOR_Q5_CHILD": "Zaroka we niha derman digire? ger wusa ye ji kerema xwe navê navnîş bikin",
+  "SEE_A_DOCTOR_Q5_S1": "Nav:",
+  "SEE_A_DOCTOR_Q5_S2": "Pîvanîk:",
+  "SEE_A_DOCTOR_Q6": "Gelo we elektrîkê heye?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Zarokê we alerjî heye? ger wusa ye ji kerema xwe navê navnîş bikin",
+  "SEE_A_DOCTOR_Q7": "Hûn şertên derman hene?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Zarokê we rewşek bijîşkî heye? ger wusa ye ji kerema xwe navê navnîş bikin",
+  "SEE_A_DOCTOR_Q8": "Ma hûn doktorê xwe bide destnîşankirin ku pelê xwe ya lênêrîna xwe ya dermanê bibînin",
+  "SEE_A_DOCTOR_Q9": "Pharmacy",
+  "SEE_A_DOCTOR_TITLE": "Doktor bibînin",
+  "SEE_A_PROVIDER": "Provider bibînin",
+  "segment": "Pardayre",
+  "selectAFile": "Bişkoka jêrîn hilbijêrin ku pelek hilbijêrin",
+  "selectaprovider": "Pêşkêşkerek hilbijêrin",
+  "selectcarderror": "Ji kerema xwe, kartek hilbijêrin",
+  "selectdoctor": "Rêxistina rojane",
+  "selectdoctor1": "Bijîşk bijartin",
+  "selectdrug": "Dermankirinê hilbijêre",
+  "selectedContact": "Wateyên pêwendiyê",
+  "selectinitiative": "Hilbijêre yek an bêtir destûra hilbijêre ...",
+  "selectnutritionist": "Hilbijartina xwarinê xwe hilbijêre",
+  "selectpatient": "hilbijêre",
+  "select_country": "Ji kerema xwe, welatekî hilbijêrin",
+  "select_device": "Cîhazek hilbijêrin",
+  "select_file": "Pelê hilbijêrin",
+  "select_file_btn": "Pelê hilbijêrin",
+  "select_patient": "Li ser rûpela xwe bidin ku agahdariya xwe bibînin",
+  "send": "Şandin",
+  "sendmessage": "Peyamek bişînin",
+  "sendtoken": "Vê vê doktorê bişîne ku destûrê bide pelê xwe ya doktorî. Ev girêdana di 10 deqîqeyan de derbas dibe",
+  "SEND_BTN": "Şandin",
+  "send_doctor_request": "Daxwazek bişînin",
+  "sentmessage": "Sent Messages",
+  "SERVICE_TYPE": "Tîpa Xizmet",
+  "sessantad": "60 rojan paşîn",
+  "SESSION_EXPIRED": "We civîn qediya. Ji kerema xwe, dîsa têkeve",
+  "setAlarm": "Alarms Set",
+  "settd": "7 rojên dawî",
+  "settings_saved": "Sîstemên bi serkeftî rizgar kirin",
+  "setTreshold": "Range Set",
+  "SET_BTN": "Danîn",
+  "SET_USER_EMAIL": "Ji kerema xwe, an jî navê bikarhêner an email eşkere bike",
+  "set_vital_signs": "Vital Signs Set",
+  "sevendays": "7 Rojan",
+  "showalldata": "Hemû Data Show",
+  "showOnEmergency": "Li Hêza Hengalî",
+  "signature": "Îmzeya we (ji bo pêşniyarên bikar anîn)",
+  "signature_word": "Destnîşan",
+  "SIGNUP_BTN": "Tomar kirin",
+  "sii": "Indeksa Sîgorteyê",
+  "sii_desc": "SII eynî yekîneyên hemî SaluberMD e û mirrora rîska tendurustiya we ya gelemperî ye. Ger heya 30ê hûn li herêma ewle ne.",
+  "sii_title": "SII",
+  "since": "Ji ber",
+  "single": "Rojek yek",
+  "singleAccess": "Gihîştina yekane",
+  "sitreminder": "Rem Reminder",
+  "sit_period": "Nixte",
+  "skip": "Hilperkîn",
+  "skip_pull": "Berçavnegirtin",
+  "skip_step": "Hilperkîn",
+  "sl": "Asta astengî",
+  "SLEEP": "Xew",
+  "slotime": "Daxistinê Duration (min)",
+  "sl_alta": "85 bpm",
+  "sl_bassa": "ji 65 salî",
+  "sl_desc": "Asta asta astengiya têkoşînê li ser per-şeş bi bingehîn tê hesibandin",
+  "sl_normale": "navbera 65 û 85 bpm",
+  "smoker": "Smoker",
+  "snacks": "Snacks",
+  "SOMETIMES": "Carna",
+  "SONNO": "Xew",
+  "SOP_Q4": "Raporta lênêrînê ya xwe vekin",
+  "sos": "SOS",
+  "so_specialization": "Xûreka taybetî",
+  "specialists": "Pispor",
+  "specialization": "Taybetmendiyê hilbijêrin",
+  "SPECIALTY": "Xûreka taybetî",
+  "specifyother": "Ji kerema xwe, din diyar bikin",
+  "specifyvalue": "Ji kerema xwe, nirxek nirxandin",
+  "spirometer": "Spirometry",
+  "spo2_desc": "SpO2 an asta oksîgenê xwînê ye ku pîvana xweya xwînê xweya xweya xweya oxygen e. Nirxên normal ên di navbera 95% û 100% de, A asta oxygenê ya xwînê ya jêrîn ya hîmometoxî tê gotin",
+  "sri": "Index index",
+  "sri_desc": "Em di dema her rûniştineke derman û di dema xewna we de ramanên şikandina teşwîq dike. Heke SRI li jêr 30 e ku derfetên we nebe ku ji ber astengiyên tedawî yên astengî kêm e.",
+  "sri_title": "SRI",
+  "ssi": "Index index",
+  "ssi_desc": "Bi nirxandina rêjeya dilê we dilnîşa me em asta asta we kêm bikin. Gelek xuya dibe ku rîska rewşa xemgîniyê, nexweşiya dil, Alzheimer nexweşiya, diabetes, depression, pirsgirêkên gastrojen, û asmma. Bi bin 20-ê de ewle bin!",
+  "ssi_title": "SSI",
+  "start": "Destpêkirin",
+  "startcall": "Dest pê bikin",
+  "startdate": "Ji",
+  "starthour": "Destpêk Destpêk",
+  "startmeasure": "Niha hûn dikarin pîvana li ser destûra serîlêdanê li ser pîvana destpêkê bikin",
+  "startnow": "Destpêk",
+  "startRecording": "Destpêk bikî ku bi dengek dengek deng bike",
+  "startyping": "Navekî navnîşê binivîse",
+  "start_blowing": "Zivistanê",
+  "start_test": "Testê vekin",
+  "start_time": "Destpêk Destpêk",
+  "state": "Rewş",
+  "state1": "Rewş",
+  "STATES_LICENSE": "Dewletên Lîsansê",
+  "state_problem": "Ji kerema xwe, pirsgirêkek xwe bibêjin",
+  "status": "Cî",
+  "step": "Gav",
+  "STEPS_GOAL": "Goal",
+  "stoolTest": "Testa Stolê",
+  "stop": "Rawestan",
+  "stop_test": "Ceribandinê rawestînin",
+  "stress": "Dûbare",
+  "stroke_vol": "Stroke volume",
+  "stroke_volume": "Stroke volume",
+  "stroke_volume_desc": "Hêza hestiyê qeşa xwînê ye ji hêla her vîdyoyê ve xistin eşkere dike",
+  "struttura": "Awayî",
+  "strutture": "Structures",
+  "subject": "Mijar",
+  "subject_so": "Mijar",
+  "submissionDate": "Dîroka Demdariyê",
+  "success": "Serketinî",
+  "SUCCESS_TITLE_NOTIFICATION": "Serketinî",
+  "SUMMARY": "Teşhîs",
+  "summary1": "Berhevkirinî",
+  "SUNDAY": "Yekşem",
+  "surgery": "Emelî",
+  "surgeryAndHospitalization": "Nexweşxaneyê û Dîroka Surgical",
+  "surgeryCategory": "Kategoriya Surgery",
+  "surname": "Paşnav",
+  "sv_alta": "zêdeyî 100",
+  "sv_bassa": "ji 55 ml",
+  "sv_normale": "navbera 55 û 100 ml",
+  "switchsearch": "Guhertina lêgerîn",
+  "symptoms": "Nîşan",
+  "SYMPTOMS_BTN": "Nîşan",
+  "sync": "Sync",
+  "SYNC_TIME": "Sync Time",
+  "sysdia": "Çap",
+  "systolic": "Systolic",
+  "TAKE": "Wergirtin",
+  "takeAppointment": "Bila rûniştinê bidim",
+  "TAKE_APP": "Serdana Vegerîn",
+  "TAKE_A_PHOTO": "Dîsa wêne",
+  "tall": "Tu çiqas mezin in",
+  "tapconnect": "Tap girêdayî ye",
+  "tapdisconnect": "Ji bo vekişînê vekin",
+  "tap_to_expand": "Tapek dirêj bike",
+  "telNameMandatory": "Ji kerema xwe, navnîşek navekî diyar bikin",
+  "telNumberMandatory": "Ji kerema xwe, hejmara telefonê diyar bikin",
+  "temper": "Bitrî",
+  "temperDescription": "Pîvana hestyarî ku rêjeya hemî moodê ve girêdayî ye. Low temper tengahiyê û şewitandinên zirav dike. Pîvana mêjûya mûzîkî, germ û germên xurt dike. Nirxên xweş ên bilind ên dijwar, domîner û êrîşên tundî yên giran dikin.",
+  "tendays": "Dawiyê 10",
+  "ten_min": "Di 10 deqîqeyan de",
+  "terminata": "Call Successfull",
+  "TERMS_TITLE": "Mercên Bikaranîna",
+  "test": "Îmtîhan",
+  "testmichele": "testa michele",
+  "testresult": "Vebijêrin Tests",
+  "testresults": "Test Results",
+  "tests": "Tests",
+  "text": "Nivîstok",
+  "thiscC": "Ev qerta krediyê dê ji bo dayîna karûbarê were bikar anîn",
+  "THURSDAY": "Pêncşem",
+  "thyroidTest": "Testên Fonksiyonê Thyroid",
+  "tickets": "Bilêt",
+  "TICKET_HISTORY": "Dîroka Bilêtê",
+  "TICKET_NUMBER": "Hejmara bilêtê",
+  "ticket_subject": "Mijara Daxwaze",
+  "timecallerr": "Ji kerema xwe, hûn nikarin telefonê nekin",
+  "timecallerr1": "Ji kerema xwe, hûn dibêjin ku hûn ji we re bihîstin",
+  "TIMELINE": "Demên min",
+  "times": "Roj dem çend caran?",
+  "timesaday": "Roja Demjimêr",
+  "tipopratica": "Tîpa praktîk",
+  "tipo_struttura": "Type Type",
+  "tipshealt0": "Alîkariyên Tenduristiyê",
+  "tipshealt1": "Bişkojka Flu - Divê ez li dijî flîna vakslêdanê bimîne?",
+  "tipshealt10": "Ji bo bêtir agahdariyê li vir binêrin",
+  "tipshealt11": "Gelek dermanên dermankirinê, kêmkirina dermanên cholesterolê, ji rîskên xwe derxistin",
+  "tipshealt12": "Di gotara paşîn ya li Lancetê de, lêkolîner gihîştin ku felendeyên kêmkirina lolêya lolê bi tedawiya statenê dê dibe sedema çalakiyên vascular (êrîşên dil, strokes) û ji rîskên dermanan derdikevin.",
+  "tipshealt13": "Li gorî lêkolînerên tenê bûyerên neheq ên ku ji hêla tedawiya derûnî ya dirêj ve têne nîşanî têne vegotin kirin (myopathy) wekî pişkek an jî kêmhêziya xweseriyê ye), nexweşî-mizîtesek nû-mizîtesê, û dibe ku, stemek hemorrhagic.",
+  "tipshealt2": "Her çiqas vakslêdana flayê herdem herdem parastinê ne, ew e. CDC (Navendên Kontrola Pevçûn û Pevçûnan) Pêşniyarên vakslêdana salan ji bo her kesî 6 mehan an mezintir pêşniyar dike. Vakslêdana taybetî ji bo mirovên ku di rîska enfluensza de pir zêde dibe, girîng e",
+  "tipshealt3": "Jinên ducanî",
+  "tipshealt4": "Mezin mezin (50 salî û salî)",
+  "tipshealt5": "Zarokên (4 salî û ji 6 mehan)",
+  "tipshealt6": "Çalakiya fizîkî ya bîranîn û karanîna fikrên baştir dike",
+  "tipshealt7": "Çalakiyek fizîkî dikare di tevahiyê deverên mîz çêtir bikin û rîska deryaya kêm bike.",
+  "tipshealt8": "Gelek lêkolînên li ser hevdîtina nêzîk û çalakiya çalakiya fîzîkî û fonksiyonên cognitive çêtirîn belav kirin.",
+  "tipshealt9": "Bandora bandor li ser mêjî û neyekser bi çalakiyên metabol û fîzîkî li ser bedenê ye.",
+  "title": "Nav",
+  "to": "ber",
+  "todayAppointment": "Serdana îro",
+  "tooltip1": "Navê navnîşê bijîşkek binivîse ku hûn dixwazin ku rojane rêve bikin",
+  "totale": "Hemî",
+  "totalSleepTime": "Bi demê xewê",
+  "total_cholesterol_desc": "Vê nirxê nirxê gişt kolesterolê di nav xwînê de ye",
+  "TOTAL_SLEEP_TIME": "Tevahiya Nîvê Demjimêr",
+  "tot_non_risposte": "Banga bersîv nekiriye",
+  "tot_ricevute": "Telefonê stand",
+  "tot_visite": "Serdan",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Derbaskirin",
+  "trenta": "30 pîvana dawî",
+  "trentad": "30 rojan paşîn",
+  "triglycerides": "Triglycerides",
+  "trig_cholesterol_desc": "Triglycerides celebek rûnê (lipid) e ku di xwîna we de tê dîtin. Tabloya jêrîn nirxa rêzikê nîşan dide.",
+  "TUESDAY": "Sêşem",
+  "tutte": "Hemû pîvana",
+  "type": "Awa",
+  "TZONE": "Qada demê",
+  "underweight": "Underweight",
+  "unit": "Yekbûn",
+  "UNIT_SETTING": "Sîstema Sîstema",
+  "uom": "Yekîneya pîvanê",
+  "upcomingAppointmentPatient": "Serlêdanên Pêşîn ên",
+  "UPDATE": "Rojanekirin",
+  "updatelist": "Lîsteya nûjen bikin",
+  "update_app_message": "Hûn hewce ne ku ji bo serîlêdana xwe bikin",
+  "UPDATE_AVAILABLE": "Update Available",
+  "UPDATE_BTN": "Rojanekirin",
+  "update_completed": "Firmware Serkeftî nûvekirin",
+  "update_firmware_download_error": "Error download firmware",
+  "update_list": "Rojanekirin",
+  "UPLOAD_ERROR": "BİXWÎNE: Divê pelan divê 5 MB ne",
+  "upload_referral": "Di referansa jêrîn de li rûpela xwe hilbijêre.",
+  "urinTest": "Testên urînê",
+  "user": "Bikaranîvan",
+  "userdata": "Daneyên bikarhêner",
+  "usermanagement": "Rêveberiya bikarhêner",
+  "USERNAME": "Navê bikarhêner",
+  "username1": "Navê bikarhêner",
+  "utente_aggiunto": "Bikarhêner serkeftî zêdekirin",
+  "utente_rimosso": "Bikarhêner serkeftî jêbirin",
+  "utente_salvato": "Bikarhêner serkeftî nûvekirî ye",
+  "vaccinobbligatorio": "Ji kerema xwe, ji bo muayeneyê hilbijêrin",
+  "vaioffline": "Go Offline",
+  "vaionline": "Herin Go",
+  "valence": "Valence",
+  "valenceDescription": "Ji celebek ji xemgîniya bi erênî veguherîne. Dema ku guhdariya kesek biaxivin, ew e ku hûn bizanin ka ka &quot;erênî&quot; an &quot;neyînî&quot; çawa li ser mijarê, tiştek an an bûyerê di nav gotûbêjê de bifikirin.",
+  "value": "Giranî",
+  "vascular_age": "Temenê vascular",
+  "vascular_age1": "Temenê vascular",
+  "va_desc": "Dema vascular Dema ku hûn bi mirovên tendurustî re hevrengên temenê xwe yên derewarkirî pêşkêş dikin. Ger temenê vascular ji te temenê kalronolojî mezintir e, hûn dikarin ji rîska pêşveçûna nexweşiya cardiovascular (CVD) paşê di jiyanê de.",
+  "videocall": "Videocall",
+  "VIDEOCALL_DES1": "Ji bo şertên xwe biguherînin û binivîse ku agahdariya wergirtin binivîse jêrîn. Bawer bikin ku hûn tenê agahdariya ku hûn li ser xwe ne.",
+  "VIDEOCALL_DES2": "Dema ku hûn telefonê bistînin, li ser reqameyê binivîse ku dê dê banga ku bistînin.",
+  "videocall_filter": "Filter bi nav an taybetmendiyê",
+  "videocall_request": "Daxwaza nû ya videocall ji",
+  "videocall_request_title": "Videocall Request",
+  "videocall_req_from": "Videocall ji bo daxwaza:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "Click to activate video",
+  "VIDEO_CALL_BTN": "Lêgerîna bidîmen",
+  "VIDEO_CALL_BTN_1": "Video",
+  "view": "Dîtinî",
+  "viewmedicalfile": "Dosya doktorî bibînin",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Office of Virtual Create your own",
+  "VIRTUAL_OFFICE_TITLE": "Office of Virtual",
+  "visitdetail": "Li ser her tiştek bitikînin ku dîrokek temamî ya nexweşek bibînin",
+  "visithistory": "Dîroka Serdana",
+  "visitlist": "Lîsteya serdanan",
+  "VISIT_HISTORY_NO_HISTORY": "Hûn neçar ne",
+  "VISIT_HISTORY_SUBTITLE": "Li ser her tiştek bitikînin ku agahdariya tevahî bibînin",
+  "VISIT_HISTORY_TITLE": "Dîroka Serdana",
+  "volte": "Times",
+  "waiting": "Xebitandinî...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Germa",
+  "WARNING_TITLE_NOTIFICATION": "Baldarî",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Daneyên Tenduristiyê",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Data Wellness",
+  "WATCH_DEVICE_DATA_TITLE": "Daneyên danûstendina we ya we",
+  "water": "Av",
+  "weanedoff": "Xilas kirin?",
+  "WEDNESDAY": "Çarşem",
+  "week": "Hefte",
+  "weight": "Pîvan",
+  "weightUnit": "Yekîneya Weşanê",
+  "welcome": "Bi xêr hatî",
+  "wellness": "Baş",
+  "wellnessdata": "Data Wellness",
+  "wellnessSuccess": "Serketinî",
+  "WHITE_SPACES": "Navnîşan divê nav vala spî ne",
+  "WRIST_CUT_SCREEN": "Dîmenderê Kişandina Kişikê",
+  "writtenRep": "Rapora nivîskî",
+  "W_RESPIRATORY_RATE": "Bîn",
+  "xray": "X-ray",
+  "Y": "Erê",
+  "year": "Sal",
+  "years": "salan",
+  "yes": "Erê",
+  "yourarousal": "Xemgîniya we",
+  "youremotion": "Hestên te",
+  "yourmood": "Moodê te",
+  "yourtemper": "Tewra te",
+  "yourvalence": "Nehêlê te",
+  "your_sai": "Lîsteya çalakiya we ye:",
+  "your_sbpi": "Lîsteya xwînê ya xweya ye:",
+  "your_sci": "Lîsteya kartê ye:",
+  "your_sii": "Indeksa sîgorteyê ye",
+  "your_sri": "Indeksa Sêviya we ye:",
+  "your_ssi": "Indeksa Stressa we ye:",
+  "your_stress": "Asta we ya stresê ye:",
+  "your_va": "Temenê vascular e:",
+  "zero_min": "Niha",
+  "zipCode": "Kode ya postî",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

@@ -1,0 +1,4355 @@
+{
+  "aboutus": "O nas",
+  "ABOUT_US_CONDITION_1": "Przeziębienie",
+  "ABOUT_US_CONDITION_2": "Warunki skóry",
+  "ABOUT_US_CONDITION_3": "Alergie",
+  "ABOUT_US_CONDITION_4": "Ból gardła",
+  "ABOUT_US_CONDITION_5": "Ból brzucha",
+  "ABOUT_US_DOCTOR_BENEFIT1": "PRZYCHODY ZWIĘKSZONE:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Można zobaczyć do sześciu pacjentów na godzinę (wirtualna wizyta zazwyczaj trwa około 10 minut);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "UZYSKAĆ ​​PACJENTA PACJENTA ZE WSZYSTKIMI W ŚWIECIE:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Zwiększyć relacje pacjentów z umiejętnością leczenia aktualnych i nowych pacjentów z dowolnego miejsca na świecie;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "BEZPŁATNA WIRTUALNA PRAKTYKA:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Rozwijaj swoją obecną praktykę i oferuj więcej opcji dla pacjentów;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "WIĘCEJ PRODUKCJI PRACOWNIKÓW PACJENTA:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Pacjenci mogą wysyłać dokumenty, zdjęcia, wyniki badań laboratoryjnych bez wychodzenia z domu i zdiagnozowania zdroju pacjenta;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Identyfikuj, kto od razu potrzebuje pomocy, a kto może skorzystać z leczenia zdalnego bez wychodzenia z domu;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "PRZYCHODY ZWIĘKSZONE:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "ELASTYCZNE GODZINY:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Możliwość ustawiania własnych godzin i ustawiania własnego harmonogramu.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Dołącz do ruchu, aby zapewnić niezawodny, niedrogi, globalny dostęp do opieki zdrowotnej w ciągu 15 minut lub mniej.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD ma na celu zrewolucjonizowanie relacji lekarz-pacjent, tworząc 24/7 dostępu do opieki zdrowotnej na całym świecie.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Korzyści z lekarza",
+  "ABOUT_US_DOCTOR_TITLE": "O nas",
+  "about_us_section1_p1": "SaluberMD to cyfrowa platforma medyczna, która pozwala kontrolować stan zdrowia każdego dnia i wszędzie. Nasza aplikacja zapewnia wygodny, oszczędny czas, przystępny cennik, dostęp do certyfikowanych lekarzy z dowolnego miejsca na całym świecie przez 24 godziny na dobę. SaluberMD udostępnia również narzędzia, takie jak Personal Medical Record, EKG Watch i Family, które wszyscy współpracują z aplikacją, zapewniając COMPLETE zdrowie. Nasze urządzenia mogą być używane indywidualnie lub w kombinacji w celu bardziej wyczerpującego podejścia do zdrowia i dobrego samopoczucia.",
+  "ABOUT_US_SECTION1_TITLE": "O nas",
+  "ABOUT_US_SECTION2_P1": "Dzięki geolokalizacji nasza aplikacja znajdzie najlepszego lekarza blisko Ciebie. SaluberMD Lekarze mogą zdiagnozować, leczyć lub dyskutować o stanie medycznym za pośrednictwem wideo i zapewnić odpowiedni plan leczenia. Wiele z najczęstszych chorób leczonych w biurze lekarskim można uzyskać podczas wizyty wideo. <br/> Niektóre warunki, które traktujemy:",
+  "ABOUT_US_SECTION2_P2": "Tutaj w serwisie SaluberMD udostępniamy Personal Medical Record, aby zapisać wszystkie dane o zdrowiu, obrazy i pliki. Śledź swoje zdrowie z dostępem do wszystkich rejestrów medycznych przez siedem dni w tygodniu. Niezależnie od tego, czy jesteś w domu, czy podróżujesz za granicą, Twoje informacje są na wyciągnięcie ręki, aby podzielić się z lekarzem. Łatwy w użyciu osobisty zapis medyczny jest dostępny w 20 językach.",
+  "ABOUT_US_SECTION2_TITLE": "Jak to działa?",
+  "ABOUT_US_SECTION3_P1": "Tylko lekarze posiadający certyfikat najwyższej klasy zapewniają lekarze SaluberMD. Ci specjaliści są sprawdzani, szeroko badani i przeszkoleni w celu zapewnienia najwyższej jakości opieki. Każdy lekarz ma biologię, w której możesz zobaczyć swoje pochodzenie, poświadczenia i doświadczenie. SaluberMD jest zaangażowany w bieżące zarządzanie jakością naszych lekarzy. System oceny pozwala pacjentom oceniać lekarzy i oceniać ogólne oceny lekarzy.",
+  "ABOUT_US_SECTION3_TITLE": "Nasi lekarze",
+  "ABOUT_US_TITLE": "O nas",
+  "above_warning": "Wartości powyżej są zagrożone",
+  "accept": "Zaakceptować",
+  "acceptablerange": "Akceptowalna ranga",
+  "ACCEPT_BTN": "Zaakceptować",
+  "acquire": "Otrzymać dane",
+  "acronym": "Akronim",
+  "action": "Akcja",
+  "actions": "działania",
+  "actionTaken": "Wykonana czynnosc",
+  "activity": "Czynność",
+  "acutecare": "Ostra opieka",
+  "add": "Nowy",
+  "addavailability": "Dodaj swoją dostępność",
+  "addcomment": "Dodaj tutaj swój komentarz",
+  "adddescription": "Dodaj swój opis tutaj",
+  "adddrugs": "Wyszukaj lek za pomocą poniższego pola wyszukiwania i zaznacz pole wyboru, aby dodać go do swojej recepty",
+  "addedFavourite": "Pomyślnie dodano do ulubionych",
+  "addedFavourite2": "Pomyślnie dodano do ulubionych. naciśnij przycisk aktualizacji, aby go wyświetlić.",
+  "addedFavourite3": "Pomyślnie dodano  nOdniesienie do odświeżenia",
+  "addFavourite": "Dodaj do ulubionych",
+  "ADDING_SLOT": "Dodawanie miejsc… może to chwilę potrwać.",
+  "addNew": "Dodaj nowe",
+  "addpharmacies": "Kliknij przycisk, aby dodać swoje ulubione apteki",
+  "addpharmacy": "Dodaj aptekę",
+  "addreminder": "Naciśnij przycisk plus, aby dodać przypomnienie o leku.",
+  "address": "Adres",
+  "address2": "Adres dostawy",
+  "address3": "Adres usługi",
+  "addsintomi": "Dodaj objawy",
+  "addslot": "Dodaj slot",
+  "add_description_file": "Dodaj opis (nieobowiązkowy)",
+  "add_new": "Dodaj",
+  "affaticamento_grave": "Ciężkie zmęczenie",
+  "affaticamento_minore": "Drobne zmęczenie",
+  "agenda": "Mój program",
+  "agenda_report": "Zgłoś spotkania",
+  "aggiungi": "Stwórz",
+  "AGREE_BTN": "Zgadzam się",
+  "alcoholDesc": "Alkohol założony",
+  "all": "Wszystko",
+  "alldata": "Wszystkie dane",
+  "allergia": "Alergia",
+  "allergia_aggiunta": "Utworzono alergię",
+  "allergia_rimossa": "Alergia pacjenta została pomyślnie usunięta",
+  "allergia_salvata": "Uaktualniono alergię pacjenta",
+  "allergie": "Alergie",
+  "allimages": "Wszystkie zdjęcia",
+  "alreadyAddedF": "Ta apteka jest już dostępna w Twoich ulubionych",
+  "alreadyRegistred": "Ten adres e-mail już istnieje w naszym systemie. Zaloguj się do aplikacji, aby umówić się na spotkanie.",
+  "alreadyTaken": "Mianowanie zostało już podjęte",
+  "alta": "Wysoki",
+  "alto": "Wysoki",
+  "amonth": "30 dni",
+  "anger": "Gniew",
+  "annoinizio": "Od roku",
+  "antibiotics": "Antybiotyki",
+  "an_error_occurred": "Ups! Obecnie nie jesteśmy w stanie zrealizować Twojego żądania. Spróbuj ponownie później",
+  "appointment": "Spotkanie",
+  "appointmentlist": "Lista spotkań",
+  "appointments": "Terminy",
+  "appointmentsDescription": "Lista terminów",
+  "appointment_body_doc": "Nowe spotkanie zaplanowane na",
+  "appointment_calcelled_title": "Odwołanie spotkania",
+  "appointment_cancelled": "anulował jego spotkanie",
+  "appointment_email_body": "Potwierdzamy wizytę u lekarza",
+  "appointment_history": "Historia spotkań",
+  "appointment_now": "Twoje spotkanie rozpocznie się teraz",
+  "appremainder": "Mianowanie pozostałości",
+  "appremainder1": "Masz wideokonferencję zaplanowaną w ciągu 5 minut",
+  "appremainder2": "Masz wideokonferencję zaplanowaną na 30 minut",
+  "appremainder3": "Masz wideokonferencję zaplanowaną na 120 minut",
+  "APPROX_DATA": "Inne dane o Wellness",
+  "appuntamenti": "Nominacje",
+  "appuntamenti_presi": "Zaplanowane spotkanie",
+  "appuntamento_clinica": "Poproś o wizytę w klinice",
+  "APPUNTAMENTO_CONGIUNTO": "Czy chcesz zarezerwować połączenie wideo?",
+  "app_description": "Dodaj powody spotkania w polu poniżej",
+  "app_details": "Szczegóły terminu",
+  "app_missing": "Aplikacja pomocy technicznej nie jest zainstalowana",
+  "ARIAX": "Częstość oddechów",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Pobudzenie",
+  "arousalDescription": "Zmienna, która rozciąga się od spokoju lub nudy do czujności i podekscytowania. Odpowiada on podobnym koncepcjom, takim jak poziom aktywacji i stymulacji.",
+  "assign_specialist": "Przypisz specjalistę do wniosku",
+  "associa": "Współpracownik",
+  "attachment": "Załącznik",
+  "ATTACH_A_PHOTO": "Dołącz zdjęcie",
+  "BACKGROUND": "tło",
+  "BACKGROUND_PLCHOLDER": "Wpisz krótką biografię.",
+  "backhomeconfirm": "Czy na pewno chcesz wracać do domu?",
+  "BACK_BTN": "Plecy",
+  "BACK_LOGIN": "Powrót do logowania",
+  "bad_file": "Nie można otworzyć pliku",
+  "basicinfo": "Podstawowe informacje",
+  "bassa": "Niska",
+  "basso": "Niska",
+  "below_warning": "Wartości poniżej są zagrożone",
+  "benefits": "Korzyści dla Portierów",
+  "beyondverbal": "Emocje napędzają wszystko, co robimy, ale emocje napędzane głosem pozostają najważniejszym, niezbadanym dzisiaj interfejsem. Beyond Verbal zobowiązuje się do zmiany tego.",
+  "beyondverbal_analyze": "Przeanalizuj swój nastrój",
+  "beyondverbal_history": "Wyniki historyczne",
+  "beyondverbal_instruction": "Kiedy będziesz gotowy, aby odpowiedzieć na pytanie, naciśnij przycisk Start",
+  "BIRTHDATE": "Data urodzenia",
+  "birthday": "Urodziny",
+  "blank_agenda": "Na dziś nie ma automatu",
+  "bloatedOrContipated": "Nadęty lub zaparcie",
+  "bluetooth_error": "Włącz bluetooth wcześniej, aby kontynuować",
+  "BOARD": "Zarząd certyfikowany",
+  "bones": "Kości",
+  "bp": "Ciśnienie krwi",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Tabela referencyjna dla wartości ciśnienia krwi",
+  "breakfast": "Śniadanie",
+  "btnback": "Plecy",
+  "btndelete": "Usun",
+  "btndisabledoctor": "Wyłącz lekarza",
+  "btndisablepatient": "Wyłącz pacjenta",
+  "btnenabledoctor": "Włącz lekarza",
+  "btnenablepatient": "Włącz pacjenta",
+  "btnsave": "Zachowaj",
+  "BTN_LOAD_MORE": "Załaduj więcej",
+  "buttonsearch": "Szukanie",
+  "bvFailed": "Nie udało się przeanalizować Twojego głosu, musisz rozmawiać więcej!",
+  "bvInstruction": "Po prostu rozmawiaj przez 20 sekund lub dłużej",
+  "bvInstruction2": "Po prostu rozmawiaj przez 20 sekund",
+  "ca": "Układu sercowo-naczyniowego",
+  "call": "Połączenie",
+  "callCancel": "Nie można anulować nieważnego połączenia",
+  "calldoctor": "Wezwać doktora",
+  "calling_number": "Numer telefonu",
+  "callthedoctor": "Wezwać doktora",
+  "calltransfer": "Przenoszę połączenie ...",
+  "CALL_ALREADY_TAKEN": "Połączenie zostało już odebrane",
+  "CALL_DOCTOR_INFO": "Informacje do lekarza",
+  "CALL_DURATION": "Długość rozmowy",
+  "call_instruction": "Wyślemy Ci powiadomienie, gdy tylko zadzwonisz do lekarza. Kliknij powiadomienie zaraz po jego otrzymaniu, aby rozpocząć filmowanie. W przypadku usunięcia powiadomień można je uzyskać w sekcji powiadomień pod moim profilem zdrowia.",
+  "CALL_NOTIFICATIONS": "Rozmowy telefoniczne",
+  "CALL_NO_INCOMING": "Brak połączeń przychodzących",
+  "CALL_TRANSFER_INFO": "Informacje o przeniesieniu połączenia",
+  "CALL_WAITING": "Proszę czekać, szukamy lekarza",
+  "CALL_WAITING_2": "Poczekaj, a lekarz sprawdzi twój plik",
+  "calories": "Kalorie",
+  "cancel": "Anuluj",
+  "cancelAppointment": "Anuluj to spotkanie",
+  "CANCEL_BTN": "Anuluj",
+  "CAP": "Kod pocztowy",
+  "cardiac_output": "Rzut serca",
+  "cardiac_output1": "Rzut serca",
+  "cardiac_output_desc": "Wyjście serca jest po prostu ilością krwi pompowanej przez serce na minutę.",
+  "cardiovascular": "Układ sercowo-naczyniowy",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "Nieprawidłowe CVC",
+  "CARD_EXPIRY_DATE": "Data wygaśnięcia",
+  "CARD_MONTH_ERROR": "Nieprawidłowy miesiąc",
+  "CARD_NUMBER": "Numer karty",
+  "CARD_NUMBER_ERROR": "Nieprawidłowy numer CC",
+  "CARD_YEAR_ERROR": "Niewłaściwy rok",
+  "category": "Kategoria",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "Wymagane CCV",
+  "CERROR": "Słaby kontakt",
+  "certificate_attachment": "Załączone jest zaświadczenie lekarskie",
+  "certificate_email": "W załączeniu znajduje się Twoja zaświadczenie lekarskie",
+  "certificate_header": "Na podstawie przeprowadzonej oceny medycznej stwierdza się, co następuje:",
+  "certificate_sent": "Certyfikat wysłany",
+  "certification_subject": "Twoje zaświadczenie lekarskie",
+  "cf": "Kod fiskalny",
+  "cf_error": "Proszę podać swój kod fiskalny",
+  "changeschedule": "Zmodyfikuj czas",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Hasło zostało wygasłe, proszę ją zmienić.",
+  "CHANGE_PWD_SECTION_TITLE": "Zmień hasło",
+  "CHANGE_PWD_TITLE": "Twoje hasło wygaśnie, zmień je",
+  "checking_net_condition": "Sprawdzanie połączenia internetowego ...",
+  "CHECK_PARAMETERS_CORX": "Proszę podać wagę i wysokość sekcji profilu, aby obliczyć prawidłowe wartości wellness.",
+  "CHL_TOT": "Cholesterol całkowity",
+  "choosedate": "Wybierz datę",
+  "chooseDateDescription": "Kliknij datę, aby ją rozwinąć i wybierz godzinę",
+  "chooseprofile": "Ty jesteś?",
+  "choosespeciality": "Wybierz specjalność medyczną",
+  "choosetransferdoctor": "Wybierz lekarza",
+  "CHOOSE_A_DOCTOR": "Wybierz swojego lekarza",
+  "chosedoctor": "Proszę wybrać lekarza",
+  "city": "Miasto",
+  "city1": "Miasto",
+  "city2": "Miasto",
+  "clearsignature": "Wyczyść podpis",
+  "clickitem": "Kliknij każdy element, aby zobaczyć szczegóły",
+  "clickrow": "Kliknij wiersz, aby wybrać",
+  "clickToOpen": "Kliknij, aby otworzyć plik",
+  "click_to_start_call": "Kliknij lekarza, aby rozpocząć połączenie",
+  "clinics": "Kliniki",
+  "CLOCK_FORMAT": "Format zegara",
+  "closeappconfirm": "Czy na pewno zamknąć aplikację?",
+  "CLOSE_BTN": "Blisko",
+  "cm": "cm",
+  "CODE": "Kod",
+  "code_not_valid": "Wstawiony kod jest nieprawidłowy",
+  "code_verified": "Kod pomyślnie zweryfikowany!",
+  "coffeeDesc": "Przyjęto kawę",
+  "COMMENT": "komentarz",
+  "commenti": "Komentarze",
+  "COMPANY_NAME": "Firma",
+  "COMPLAIN": "Skarżyć się",
+  "COMPLETE_PROFILE": "Uzupełnij swój profil, aby kontynuować",
+  "COMPLETE_PROFILE_TITLE": "Uzupełnij swój profil",
+  "complications": "Komplikacje",
+  "concernlist": "Proszę wymienić swoje główne obawy / wątpliwości",
+  "CONFIRM": "Ok",
+  "confirm_app": "Potwierdź spotkanie",
+  "CONFIRM_EMAIL_TITLE": "Potwierdź email",
+  "CONFIRM_PWD": "Potwierdź hasło",
+  "connect": "Naciśnij przycisk Connect, aby podłączyć urządzenie",
+  "connectbtn": "Połączyć",
+  "connectedto": "Połączony z",
+  "connecting": "Łączenie ... Proszę czekać",
+  "connection_progress": "Łączę się z urządzeniem ...",
+  "CONSULT": "Skarżyć się",
+  "consult1": "Konsultować",
+  "consultation": "Konsultacja",
+  "consultationHistory": "Historia konsultacji",
+  "contact": "Kontakt",
+  "CONTACT_US_BTN": "Skontaktuj się z nami",
+  "CONTACT_US_SECTION_TITLE": "Skontaktuj się z nami na wszelkie pytania lub za pomocą aplikacji.",
+  "CONTACT_US_TITLE": "Skontaktuj się z nami",
+  "contatti": "Kontakt",
+  "continue": "dalej",
+  "copy_url": "Kopiuj URL",
+  "CORX": "EKG",
+  "corxDidFailEcg": "Błąd podczas pobierania EKG",
+  "corxDidFailWellness": "Błąd podczas pobierania danych o kondycji",
+  "corxDidNoEcg": "Brak danych EKG",
+  "corxDidNoWellness": "Brak danych dotyczących wellness",
+  "CORX_DATA": "Dane CorX",
+  "corx_disconnected": "Corx Disconnected",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Podaj swoją wagę i wzrost uredera, aby poprawnie obliczyć parametry życiowe.",
+  "COUNTRY": "Panstwo",
+  "country1": "Kraj",
+  "county": "Hrabstwo",
+  "co_alta": "większa niż 8 L / min",
+  "co_bassa": "poniżej 4 l / min",
+  "co_normale": "od 4 do 8 L / min",
+  "creditCard_selected": "Wybrana karta zostanie obciążona za tę usługę",
+  "currency": "Waluta",
+  "C_SPECIALTY": "Specjalność specjalna",
+  "dailyuse": "Codzienna kuracja lekowa",
+  "dashboardVideocall": "Pulpit nawigacyjny pulpitu",
+  "dataerror": "Data / godzina wybrana minęła bieżącą datę / godzinę",
+  "dataexists": "Istnieje już spotkanie z wybraną datą i godziną",
+  "datafetching": "Pobieranie danych osobowych ... Proszę czekać.",
+  "dataPrenotazione": "Data rezerwacji",
+  "dataVaccinazione": "Szczepienia Data",
+  "date": "Data",
+  "dateDiscovered": "Data Odkryta",
+  "dateStart": "Data rozpoczęcia",
+  "datipersonali": "Osobiste dane",
+  "datiScaricati": "Dane zostały pomyślnie pobrane",
+  "day": "Dzień",
+  "deassociate_corx_alert": "Czy chcesz zdezocjować Corx?",
+  "decline": "Upadek",
+  "DECLINE_BTN": "Upadek",
+  "DEEP_SLEEP_TIME": "Głęboki sen",
+  "defaultQuestion": "Naciśnij start i powiedz nam, co czujesz dzisiaj",
+  "delete": "Usun",
+  "deleteAlarm": "Usunąć ten alarm?",
+  "deleteAppointment": "Czy chcesz anulować spotkanie?",
+  "deleteDescription": "Zostanie ona usunięta natychmiast.",
+  "deleteMessage": "Czy na pewno chcesz to usunąć?",
+  "deleteMultipleDesctiption": "Liczba gniazd, które zostaną usunięte:",
+  "deleteNumber": "Czy na pewno chcesz usunąć ten numer?",
+  "deleteSlotDay": "Usunięcie wszystkich wolnych slotów w tym dniu",
+  "deleteSlotMonth": "Usuwa w tym miesiącu wszystkie wolne miejsca",
+  "deleteSlotWeek": "Usuwa w tym tygodniu wszystkie wolne miejsca",
+  "deletevalue_q": "Czy na pewno chcesz usunąć tę wartość?",
+  "DELETE_NOTIFICATION_MSG": "Czy chcesz usunąć wszystkie wcześniejsze powiadomienia?",
+  "demo": "To demo, nie ma pieniędzy.",
+  "dependencies": "Uzaleznienia",
+  "description": "Opis",
+  "descriptionMandatory": "Podaj opis",
+  "deseaseCategory": "Kategoria choroby",
+  "desirable": "Pożądany",
+  "dettagli": "Detale",
+  "dettaglio_struttura": "Szczegóły struktury",
+  "device": "Urządzenie",
+  "devicefound": "Znaleziono urządzenie",
+  "devices": "Pomysłowość",
+  "devicetype": "Rodzaj urządzenia",
+  "DEVICE_BLOOD_PRESSURE": "Ciśnienie krwi",
+  "DEVICE_CALORIES": "Spalone kalorie",
+  "DEVICE_CARDIAC": "Monitorowanie układu krążenia",
+  "DEVICE_CHL": "Profil lipidowy",
+  "DEVICE_DATA_SECTION_TITLE": "Twoje dane z urzĘ ... dzenia medycznego",
+  "DEVICE_DATA_TITLE": "Dane urządzenia",
+  "DEVICE_DATA_TITLE_1": "Dane urządzenia medycznego",
+  "DEVICE_EKG": "EKG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glukometr",
+  "DEVICE_HEART_RATE": "Tętno",
+  "DEVICE_PEDOMETER": "Krokomierz",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Częstość oddychania",
+  "DEVICE_SPO2": "SpO2",
+  "DEVICE_TEMPERATURE": "Temperatura",
+  "DIAGNOSIS": "Diagnoza",
+  "diastolic": "Rozkurczowe",
+  "dieci": "Ostatnie 10 pomiarów",
+  "diet": "Dieta",
+  "digestion": "Problemy z trawieniem",
+  "dinner": "Obiad",
+  "dipendenza": "Uzaleznienie",
+  "disableAlarm": "Alarm włączony",
+  "disabled": "Niepełnosprawny",
+  "DISABLE_PANIC_BUTTON": "Włącz przycisk napadowy",
+  "DISABLE_PUNIC_BUTTON": "Wyłącz przycisk punicki",
+  "disconnectall": "Ustaw offline",
+  "disconnectbtn": "Rozłączyć się",
+  "DISDICI": "Anuluj",
+  "disease": "Chroniczne choroby",
+  "diseasemanagement": "Zarządzanie chorobą",
+  "diseases": "Choroby",
+  "disease_1": "Choroba",
+  "dissocia": "Odłącz",
+  "DISTANCE": "Dystans",
+  "dm_section_description_1": "Tutaj możesz załączyć swoje pliki",
+  "DND": "Nie przeszkadzać",
+  "DOCEMAIL": "Lekarz Email",
+  "DOCNAME": "Nazwa lekarza",
+  "DOCPHONE": "Numer telefonu lekarza",
+  "DOCTOR": "Lekarz",
+  "doctor1": "Lekarz",
+  "doctorAtHome": "Doktor w domu",
+  "doctorAtHomeQuestion1": "Potrzebuję pomocy domowej dla:",
+  "doctorAtHomeQuestion2": "Wybierz potrzebną pomoc domową",
+  "doctorAtHomeQuestion2Answer1": "Ogólna praktyka",
+  "doctorAtHomeQuestion2Answer2": "Pediatryczny",
+  "doctorAtHomeQuestion2Answer3": "Pielęgniarka",
+  "doctorAtHomeQuestion3": "Podaj przyczynę, dla której chcesz otrzymać pomoc",
+  "doctorAtHomeQuestion4": "Podaj w formularzu poniżej adres, pod którym chcesz uzyskać pomoc",
+  "doctorAtHomeRequestBtn": "Wyślij żądanie",
+  "doctorAtHomeRequestSuccess": "Otrzymaliśmy twoją prośbę. Skontaktujemy się z Tobą w ciągu 2 godzin, aby umówić się na służbę domową",
+  "doctorAtHomeTitle": "Doktor w domu",
+  "doctorbusy": "Lekarz jest zajęty w innym połączeniu",
+  "doctorbusy1": "Lekarz jest zajęty innym telefonem",
+  "doctorlist": "Lista lekarzy",
+  "doctormanagement": "Zarządzanie lekarzami",
+  "doctoroffline": "Lekarz jest w trybie offline, spróbuj ponownie",
+  "doctorupdate": "Lekarz",
+  "DOCTOR_PROFILE_OPT1": "Profil",
+  "DOCTOR_PROFILE_OPT2": "Historia wizyty u pacjenta",
+  "DOCTOR_PROFILE_OPT3": "Poleć kolegę",
+  "DOCTOR_PROFILE_SECTION1": "Twój profil",
+  "DOCTOR_PROFILE_TITLE": "Profil",
+  "doctor_request_sent": "Wysłaliśmy twoją prośbę do naszych lekarzy. Otrzymasz odpowiedź w ciągu dwóch minut.",
+  "documents": "Dokumenty",
+  "DOCUMENT_BTN": "Dokumenty",
+  "doestake": "Brałeś",
+  "DONATION_TITLE": "Potwierdź darowiznę",
+  "done": "Dane Trackx zostały pomyślnie pobrane. Znajdziesz je w sekcji danych dotyczących zdrowia",
+  "doneAppointmentPatient": "Wcześniejsze spotkania",
+  "DONE_BTN": "Gotowe",
+  "dontknow": "Nie pamiętam",
+  "DORMIVEGLIA": "Senność",
+  "dosage": "Doza",
+  "dosetake1": "Czy wziąłeś swoje leki?",
+  "dottore_rimosso": "Status lekarza został pomyślnie zaktualizowany",
+  "dottore_salvato": "Doktor pomyślnie zaktualizował",
+  "download": "Pobieranie",
+  "downloadaspdf": "Pobierz jako PDF",
+  "downloadecg": "Pobierz EKG",
+  "DOWNLOADING_DEVICE_DATA": "Ściąganie...",
+  "downloadwellnessdata": "Pobieranie danych odnowy biologicznej ...",
+  "downloadWellnessResult": "środek dodany",
+  "DOWNLOAD_CERTIFICATE": "Pobierz certyfikat",
+  "DOWNLOAD_ERROR_GENERIC": "Ups. Wystąpił błąd podczas próby pobrania pliku. Spróbuj ponownie później.",
+  "DOWNLOAD_SO_REPORT": "Pobierz skierowanie",
+  "DO_NOT_DISTURB": "Nie przeszkadzać",
+  "drugsAtHome": "Narkotyki w domu",
+  "drugsAtHomeQuestion1": "Czy chcesz otrzymywać leki przepisane przez lekarza bezpośrednio w domu?",
+  "drugsAtHomeRequestBtn": "Wyślij żądanie",
+  "drugsAtHomeRequestSuccess": "Otrzymaliśmy twoją prośbę. Leki zostaną wysłane w ciągu 24 godzin",
+  "drugsAtHomeSection1": "Podaj w formularzu poniżej numer telefonu i adres, pod który chcesz otrzymywać leki.",
+  "drugsAtHomeTitle": "Narkotyki w domu",
+  "drug_name": "Nazwa leku",
+  "duration": "Trwanie",
+  "ecg": "EKG",
+  "ecgadded": "EKG pomyślnie dodano do listy",
+  "ECGBP": "EKG BP",
+  "ecgdata_header": "Dane EKG",
+  "ecgdetail": "Kliknij każdy element, aby wyświetlić obraz EKG",
+  "ECG_DELETE_Q": "Czy na pewno chcesz usunąć EKG?",
+  "ecg_not_found": "Nieprawidłowy plik EKG, spróbuj jeszcze raz zmylić.",
+  "ECG_REMOVED": "EKG usunięto",
+  "edit": "Edytować",
+  "EKG_SECTION_TITLE": "Wyniki elektrokardiograficzne (EKG / EKG)",
+  "EKG_TITLE": "EKG Upload",
+  "EMAIL": "E-mail",
+  "email1": "E-mail",
+  "email_do_not_match": "E-maile nie pasują",
+  "ematicTest": "Testy emocjonalne",
+  "Emergency": "Pokaż w nagłych wypadkach",
+  "emergency1": "Nagły wypadek",
+  "emergencyLoginCode": "Kod logowania awaryjnego",
+  "emergency_numbers": "Numery alarmowe",
+  "emergency_number_description": "Dodaj numery telefonów, aby zadzwonić w nagłych przypadkach",
+  "emotionDescription": "Połączenie różnych podstawowych emocji wyrażanych przez głos użytkowników w analizowanej sekcji głosowej.",
+  "emotions": "Połączone emocje",
+  "emptypassword": "Proszę określić pasword",
+  "EMPTY_ALLERGIES": "Kliknij przycisk, aby dodać chorobę do swojej dokumentacji medycznej",
+  "empty_dataset": "Nie ma danych",
+  "EMPTY_DEPENDENCIES": "Kliknij przycisk, aby dodać zależność do swojej dokumentacji medycznej",
+  "EMPTY_DISEASE": "Kliknij przycisk, aby dodać chorobę do swojej dokumentacji medycznej",
+  "EMPTY_DOCUMENTS": "Kliknij przycisk, aby dodać dokument do swojej dokumentacji medycznej",
+  "EMPTY_IMAGES": "Kliknij przycisk, aby dodać obraz do swojej dokumentacji medycznej",
+  "EMPTY_IMMUNIZATION": "Kliknij przycisk, aby dodać szczepienie do swojej dokumentacji medycznej",
+  "EMPTY_MEDICATION": "Kliknij przycisk, aby dodać lek do swojej dokumentacji medycznej",
+  "empty_otp": "Nieprawidłowy kod OTP",
+  "EMPTY_PROSTHESIS": "Kliknij przycisk, aby dodać protezę do swojej dokumentacji medycznej",
+  "EMPTY_TESTS": "Kliknij przycisk, aby dodać test do swojej dokumentacji medycznej",
+  "enabled": "Włączone",
+  "endate": "Do",
+  "endcall": "Zakończ rozmowę",
+  "endDate": "Data końcowa",
+  "endhour": "Koniec czasu",
+  "end_time": "Koniec czasu",
+  "END_VIDEOCALL_Q1": "Czy na pewno chcesz zakończyć konsultację bez uruchamiania wideo-konferencji?",
+  "END_VISIT_BTN": "Koniec wizyty",
+  "error": "Błąd",
+  "error_call_timeout": "Czas na wywołanie wideokonferencji dobiegł końca. Aby wykonać połączenie wideo, powtórz proces ponownie.",
+  "ERROR_EMAIL_DUPPLICATE": "Wygląda na to, że ten adres e-mail jest już zarejestrowany. Spróbuj z innym.",
+  "error_price": "Proszę podać opłatę",
+  "ERROR_SPECIFY_DAYS": "Podaj co najmniej jeden dzień tygodnia",
+  "ERROR_SPECIFY_HOUR": "Proszę podać czas",
+  "ERROR_TITLE_NOTIFICATION": "Błąd",
+  "ERROR_TRACKX": "Włącz Trackx",
+  "error_update": "Błąd podczas aktualizacji oprogramowania układowego",
+  "ERROR_USERNAME_DUPPLICATE": "Ta nazwa użytkownika została już podjęta, wybierz inną",
+  "ERROR_WHITELIST": "Przepraszamy, Twoje urządzenie nie ma możliwości wykonania połączenia wideo",
+  "esameobbligatorio": "Proszę wybrać egzamin",
+  "exam_name": "Nazwa egzaminu",
+  "exercise": "Ćwiczenie",
+  "exercisereminders": "Moje przypomnienia o ćwiczeniach",
+  "existentassoc": "Istnieją powiązania",
+  "existentrelation": "Ta relacja już istnieje",
+  "expandfordetails": "Rozwiń, aby uzyskać więcej szczegółów",
+  "EXP_MONTH": "Miesiąc wygaśnięcia",
+  "EXP_MONTH_REQUIRED": "Wymagany miesiąc ważności",
+  "EXP_YEAR": "Rok wygaśnięcia",
+  "EXP_YEAR_REQUIRED": "Wymagany rok ważności",
+  "e_prescribing": "Przepisywanie elektroniczne",
+  "F": "Płeć żeńska",
+  "farmaci": "Lekarstwa",
+  "farmaco": "Lekarstwo",
+  "fat": "Gruby",
+  "FATIGUE_INDEX": "Zmęczenie",
+  "FATIGUE_INDEX_DESCRIPTION": "Praca, praca i doświadczenie spowodowane stopniem zmęczenia. Nadmierne zmęczenie łatwo prowadzi do sztywności mięśni ramion, bólu głowy, bezsenności, zmęczenia, bólu w talii i łatwo prowadzi do układu nerwowego, zaburzeń endokrynologicznych, powodując wiele chronicznych chorób i zmęczenie psychiczne.",
+  "favoriteslist": "Moja lista ulubionych",
+  "FAVORITES_NO": "Nie dodałeś żadnych lekarzy do listy ulubionych",
+  "FAVORITES_NO_PHARMACIES": "Nie dodałeś jeszcze żadnej apteki do swojej listy ulubionych",
+  "FAVORITES_SECTION_SUBTITLE": "Kliknij każdy element, aby zobaczyć szczegóły",
+  "FAVORITES_SECTION_TITLE": "Twoi ulubieni lekarze",
+  "FAVORITES_TITLE": "Ulubione",
+  "favourite_pharmacy": "Ulubione apteki",
+  "FEE": "Zarządzaj opłatami",
+  "FEET": "stopy",
+  "female": "Płeć żeńska",
+  "fileloaded": "Plik załadowany",
+  "fileloaded1": "Udane przesyłanie Fle",
+  "fileName": "Nazwa pliku",
+  "filenotfound": "Nie znaleziono pliku",
+  "file_upload_instruction": "Prześlij instrukcję",
+  "filldate": "Proszę wybrać datę",
+  "filldoctor": "Proszę wybrać lekarza",
+  "fillpeciality": "Proszę wybrać specjalność",
+  "fillthebox": "Wypełnij pudełko",
+  "fill_indication": "Proszę wypełnić pole wskazania",
+  "fill_indication_for": "Proszę podać wskazanie dla",
+  "fill_quantity": "Proszę wypełnić pole ilości",
+  "fill_quantity_for": "Proszę podać ilość dla",
+  "fill_your_doubt": "Proszę podać opis w polu powyżej.",
+  "filter": "Filtr",
+  "finddoctor": "Znajdź lekarzy",
+  "findFarmacia": "Wyszukaj apteka",
+  "findpatient": "Znajdź pacjenta",
+  "findspcialist": "Znajdź specjalistę",
+  "findStruttura": "Wyszukaj strukturę",
+  "finduser": "Znajdź użytkownika",
+  "FIND_A_DOCTOR": "Znajdź lekarza",
+  "find_device": "Znajdź urządzenie",
+  "FIND_THE_BRACELET": "Znajdź bransoletkę",
+  "fingerprint_btn": "Włącz logowanie logowania",
+  "fingerprint_hint": "Potwierdź odcisk palca, aby kontynuować",
+  "fingerprint_hint2": "Potwierdź odcisk palca, aby kontynuować",
+  "fingerprint_question": "Czy chcesz aktywować uwierzytelnianie odciskiem palców?",
+  "FIRMWARE_UPDATE": "Aktualizacja firmware",
+  "FIRMWARE_UPDATED": "Aktualizacja oprogramowania układowego",
+  "firstName": "Imię",
+  "five_min": "Za 5 minut",
+  "fixappointment": "Czy chcesz zaplanować to spotkanie?",
+  "forever": "Na zawsze",
+  "forgotPassword": "Zapomniałeś hasła?",
+  "forgot_password": "Zapomniałeś hasła?",
+  "forma": "Typ",
+  "formafarmaco": "Metoda kuracji",
+  "formatError": "Cena musi być wartością liczbową.",
+  "found_devices": "Znaleziono urządzenia",
+  "FRIDAY": "piątek",
+  "GENDER": "Płeć",
+  "gender1": "Płeć",
+  "general": "Generał",
+  "generalInfo": "Ogólne informacje",
+  "genericName": "Ogolna nazwa",
+  "GENERIC_ERROR": "OOps! Coś poszło nie tak. Spróbuj ponownie później",
+  "geneticTest": "Test genetyczny",
+  "geneticTestHeader2": "Dzięki testom genetycznym możesz dowiedzieć się więcej o swoim zdrowiu i postąpić słusznie, aby zachować zdrowie.",
+  "geneticTestHeader3": "Jak to działa",
+  "geneticTestProduct": "Profil żywieniowy",
+  "geneticTestRequestBtn": "Poproś o test",
+  "geneticTestRequestSuccess": "Twoje zamówienie zostało potwierdzone. Otrzymasz zestaw bezpośrednio w domu",
+  "geneticTestSection1": "Czy chcesz teraz, jeśli to, co jesz, jest wystarczające dla twojego ciała i metabolizmu?",
+  "geneticTestSection2": "Czy chcesz wiedzieć, czy zdrowszy pokarm nie powoduje, że twoje ciało nie ryzykuje chorobami przewlekłymi?",
+  "geneticTestSection3": "Test żywieniowy pozwoli ci poznać związek między twoim DNA a dietą.",
+  "geneticTestSection4": "Dodaj tutaj swój numer telefonu i adres, na który chcesz otrzymać zestaw",
+  "geneticTestStep1": "1. Zamów swój test",
+  "geneticTestStep1Subtitle": "Złóż zamówienie za pomocą aplikacji i odbieraj zestaw bezpośrednio w domu.",
+  "geneticTestStep2Subtitle": "Pobierz próbkę i wyślij do nas pocztą korzystając z koperty, którą Ci dostarczymy.",
+  "geneticTestStep3": "3. Uzyskaj wyniki",
+  "geneticTestStep3Subtitle": "Po tygodniu otrzymasz wiadomość informującą, że wyniki testu genetycznego będą dostępne w aplikacji.",
+  "geneticTestTitle": "Test genetyczny",
+  "GLUCOMETER": "Glukometr",
+  "glucosio": "Glukoza",
+  "HAND_BRIGHTEN": "Podnieś rękę, aby rozjaśnić",
+  "happiness": "Szczęście",
+  "HDL": "Cholesterol HDL",
+  "hdl_cholesterol_desc": "Cholesterol lipoproteinowy o wysokiej gęstości (HDL) jest znany jako „dobry” cholesterol. Poniższa tabela pokazuje zakres wartości.",
+  "healthtips": "Porady zdrowotne",
+  "HEALTH_INDEX": "Zdrowie",
+  "HEALTH_INDEX_DESCRIPTION": "Wskaźnik zdrowia HRV jest analizowany przez średnią HR tętna i zmienność HRV HRV i inne parametry, w oparciu o pomiar w czasie rzeczywistym wyników Holtera do analizy parametrów zdrowotnych organizmu, wzrost wskaźnika zdrowia, reprezentujących zdrowie ciała lepszy; wskaźnik zdrowia zmniejszył się, w imieniu organizmu Należy zwrócić uwagę na codzienne zdrowe życie.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Serce",
+  "HEART_INDEX_DESCRIPTION": "Funkcje serca Użytkownicy mierzą stan serca danej osoby, a ich działanie jest inne z powodu różnych poziomów miłości do serca i ogólnego stanu zdrowia. Aby rozwinąć zdrowy styl życia i nawyki żywieniowe: rozsądna strategia na ćwiczenie serca, aby zmusić serce do uzupełniania sodu wapniowego, do ochrony naczyń krwionośnych, może aktywnie zapobiegać wystąpieniu choroby serca, jest wzmocnienie strategii funkcji serca.",
+  "height": "Wysokość",
+  "height1": "Wysokość jest wymagana do prawidłowego obliczenia BMI",
+  "heightUnit": "Jednostka wysokości",
+  "hepaticFunction": "Funkcja wątroby",
+  "hide": "Ukryć",
+  "high1": "Wysoki",
+  "high_risk": "Wysokie ryzyko",
+  "history": "Historia konsultacji",
+  "homepage": "Dom",
+  "HOME_WARNING_MESSAGE": "Czy na pewno chcesz odejść od tej strony? Twoja modyfikacja zostanie utracona.",
+  "hormonalTest": "Hormonalny test funkcji",
+  "hospDate": "Hosp.date",
+  "hospit": "Przyczyna hospitalizacji",
+  "hospital": "Szpital",
+  "hospitalization": "Hospitalizacja",
+  "hour": "Godzina",
+  "hours": "godziny",
+  "HOURS_BANK_DONATE_BTN": "Podarować",
+  "HOURS_BANK_DONATION": "Godziny aktualnie przekazane:",
+  "HOURS_BANK_H": "Godziny Bank:",
+  "HOURS_BANK_SECTION_P1": "Zdrowie to nasz priorytet w SaluberMD i chcemy służyć jak największej liczbie osób. Dzięki naszej platformie umożliwiamy tym, którzy potrzebują dostępu do opieki zdrowotnej. Nasz zespół zajmuje się dostarczaniem opieki zdrowotnej organizacjom, osobom i rodzinom w potrzebie.",
+  "HOURS_BANK_SECTION_P2": "Wystarczy kliknąć link z liczbą godzin, które chcesz przekazać, a my dodajemy je do naszego banku.",
+  "HOURS_BANK_SECTION_P3": "Skontaktujemy się z Tobą za pośrednictwem aplikacji, aby wykupić godziny, a kiedy są dostępne, po prostu kliknij przycisk akceptuj, aby zobaczyć pacjentów.",
+  "HOURS_BANK_SECTION_TITLE": "Dołącz do nas, dając prezent opieki zdrowotnej!",
+  "HOURS_BANK_TITLE": "Godziny Bank",
+  "howto": "Jak",
+  "howto1": "Dostępne sloty są oznaczone zieloną kulką",
+  "howto2": "Wybierz komórkę z zieloną kulką i kliknij ją, aby rozwinąć i wybrać czas. Kiedy będziesz gotowy, kliknij na symbol ołówka, aby zobaczyć szczegóły i umówić się na spotkanie",
+  "howToPrice": "Cena musi być wartością liczbową. Dozwolone są maksymalnie dwie wartości dziesiętne. Kropki lub przecinki mogą być używane jako separatory",
+  "hrv_buono": "Dobry",
+  "hrv_eccellente": "Doskonały",
+  "hrv_generale": "Generał",
+  "hr_alta": "Większy niż 100",
+  "hr_bassa": "Mniej niż 60",
+  "HR_DESCRIPTION": "Tabela referencyjna normalnych tętno spoczynkowe",
+  "HR_INTERVAL": "HR Measure Interval",
+  "hr_normale": "Między 60 a 100",
+  "hsh": "Hospitalizacja i historia operacji",
+  "IBAN": "IBAN",
+  "idx": "Indeksy",
+  "image": "Obraz",
+  "images": "Obrazy",
+  "immunization": "Immunizacja",
+  "immunizationmenu": "Immunizacja",
+  "importhealth": "Importuj dane dotyczące zdrowia",
+  "impossible_transfer": "Niemożliwe przeniesienie połączenia",
+  "INCH": "Cal",
+  "indexes": "Indeksy",
+  "indication": "Wskazanie",
+  "INFO_BTN": "Informacje",
+  "info_salvate": "Dane zostały pomyślnie zapisane",
+  "iniezione": "Iniekcja",
+  "initiative": "Inicjatywa",
+  "initiativeerror": "Proszę wybrać jedną inicjatywę",
+  "insert": "Wstawić",
+  "inserttext": "Wstaw tekst tutaj",
+  "insert_otp_code": "Wpisz kod tutaj",
+  "internet_missing": "Nie jesteś połączony z Internetem",
+  "invalidemail": "Niepoprawny adres email",
+  "invoice": "Faktura",
+  "irregulartest": "nieregularne test",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Testy czynności nerek",
+  "labtesting": "Sieć",
+  "LANGUAGE": "Język",
+  "LANGUAGE_TYPE": "Język",
+  "lastmeasure": "Ostatni środek",
+  "lastName": "Nazwisko",
+  "lastPhysical": "Ostatni fizyczny",
+  "lastSync": "Ostatnia synchronizacja",
+  "lastTimeOnline": "Last Time Online",
+  "lastvisit": "Ostatnia wizyta",
+  "last_login_date": "Data ostatniego zalogowania się",
+  "last_time_taken": "Ostatni raz wzięty",
+  "LDL": "Cholesterol LDL",
+  "ldl_cholesterol_desc": "LDL lub lipoproteina o niskiej gęstości jest „złym” cholesterolem. Poniższa tabela pokazuje zakres wartości",
+  "leggero": "Lekki",
+  "LICENSE_NUMBER": "Numer licencji",
+  "LIGHT_SLEEP_TIME": "Lekki sen",
+  "listcall": "Lista zrobionych videokomórek",
+  "litri": "Litr",
+  "liverExam": "Test czynności wątroby",
+  "LIVE_ECG": "Nowy pomiar",
+  "live_ecg_downloading": "Pobieranie EKG. Proszę czekać...",
+  "loadEcgList": "Ładowanie listy EKG ...",
+  "loading": "Ładowanie danych...",
+  "loading1": "Ładuję...",
+  "loading_list": "Ładowanie listy ...",
+  "loading_list_nutritionist": "Ładowanie dietetyków ...",
+  "LOAD_INDEX": "Obciążenie",
+  "LOAD_INDEX_DESCRIPTION": "Stopień i zmęczenie, stres Kompleksowe rozważenie ciała, aby nosić wskaźnik obciążenia, odzwierciedlając fizyczne i psychiczne aspekty ludzi ponoszą sytuację obciążenia. Zewnętrzne społeczeństwo, życie, konkurencja i inne czynniki, ale także ich własna kondycja fizyczna i stan psychiczny.",
+  "LOAD_ITEMS": "Ładuję...",
+  "LOGGING_IN": "Logowanie...",
+  "LOGGING_OUT": "Wylogowuję się...",
+  "LOGIN_BTN": "Zaloguj Się",
+  "LOGIN_ERROR": "Zła nazwa użytkownika lub hasło",
+  "Logout": "Wyloguj",
+  "logout1": "Wyloguj",
+  "LOGOUT_BTN": "Wyloguj",
+  "low1": "Niska",
+  "lunch": "Obiad",
+  "lungtest": "Zróbmy test na płuca",
+  "M": "Męski",
+  "male": "Męski",
+  "manageapp": "Zarządzaj spotkaniami",
+  "manageslot": "Zarządzaj wolnym gniazdem",
+  "MANAGE_CORX": "Zarządzaj Corxem",
+  "mandatoryDays": "Podaj liczbę dni",
+  "mandatoryfield": "Proszę wypełnić wszystkie obowiązkowe pola",
+  "map": "Mapa",
+  "max_file_size": "Rozmiar pliku musi być mniejszy niż",
+  "meals": "Posiłki",
+  "medicalconsultation": "Konsultacja",
+  "medicalfile": "Obrazy",
+  "medicalform": "Formularze medyczne",
+  "medicalforms": "Formularze medyczne",
+  "medicalinfo": "Informacje medyczne",
+  "medicalrecord": "Historia choroby",
+  "medical_2option": "Druga opinia medyczna",
+  "MEDICAL_CERTIFICATE": "Certyfikat medyczny",
+  "MEDICAL_FILE_BTN": "Plik medyczny",
+  "medication": "Lekarstwo",
+  "medication_name": "Nazwa leku",
+  "medicinereminders": "Moje przypomnienia o medycynie",
+  "medio": "Średni",
+  "medium1": "Średni",
+  "message": "Wiadomość",
+  "messagesent": "wiadomość wysłana",
+  "metabolismTest": "Testy metaboliczne",
+  "method": "Metoda",
+  "METRIC": "Metryczny",
+  "middedcall2": "Masz nieodebrane połączenie od",
+  "minutes": "minuty",
+  "missedcall": "SaluberMd Przegapił videocall",
+  "missedcall1": "Nieodebrane połączenie",
+  "missedNotiAlert": "Masz niektóre nieodebrane powiadomienia.",
+  "misurazioni": "Dokumentacja",
+  "misure": "Zmierzyć",
+  "mobile": "mobilny",
+  "mobile_required": "Dodaj swój numer telefonu, abyśmy mogli się z Tobą skontaktować, aby umówić się na spotkanie.",
+  "moderate_risk": "Umiarkowane ryzyko",
+  "MONDAY": "poniedziałek",
+  "month": "Miesiąc",
+  "mood": "Grupa nastroju",
+  "moodDescription": "Kluczowy wskaźnik stanu emocjonalnego mówiącego podczas analizowanej sekcji głosowej. API wytwarza łącznie 11 grup nastrojów, od gniewu, samotności i samokontroli do szczęścia i podniecenia.",
+  "moreDays": "Więcej dni",
+  "motivazione": "Powód",
+  "MRGraph": "Historia medycyny",
+  "msgAppointment": "Powołanie zostało pomyślnie zaplanowane. Znajdziesz spotkanie w sekcji świadczeń socjalnych.",
+  "msgsurveysent": "Ankieta została pomyślnie wysłana",
+  "msg_call_reconnection": "Próba ponownego połączenia...",
+  "MSG_CALL_TRANSFERED": "Wideokonferencja została pomyślnie przeniesiona",
+  "MSG_CHOOSE_OPTION": "Wybierz opcję",
+  "MSG_CHOOSE_OPTION4": "Wybierz opcję",
+  "MSG_CHOOSE_OPTION5": "Opisz swoje śniadanie",
+  "MSG_CHOOSE_OPTION6": "Opisz swój obiad",
+  "MSG_CHOOSE_OPTION7": "Opisz swój lunch",
+  "MSG_CHOOSE_OPTION8": "Opisz swoje wabiki",
+  "MSG_CHOOSE_OPTION9": "Proszę, odpowiedz na wszystkie pytania",
+  "MSG_CHOOSE_OPTION_2": "Proszę wstawić opis",
+  "MSG_CHOOSE_OPTION_3": "Wybierz co najmniej jedną opcję",
+  "MSG_COMPLETE_PROFILE": "Chcesz iść teraz?",
+  "MSG_CONFIRM_EMAIL": "Prosze potwierdź swój email",
+  "MSG_CONFIRM_EMAIL_TEXT": "Wysłaliśmy Ci e-mail z instrukcjami, jak potwierdzić swój adres e-mail. Proszę, sprawdź swoją skrzynkę odbiorczą.",
+  "msg_connected": "Z powodzeniem połączony",
+  "MSG_CONTACT_SUCCESS": "Dziękujemy za zgłoszenie.",
+  "MSG_DOC_ENDED_CALL": "Lekarz zakończył rozmowę",
+  "MSG_DOC_WAITING_CALL": "Lekarz został odłączony, czekając na ponowne połączenie",
+  "MSG_DONATION": "Potwierdź swoją darowiznę?",
+  "MSG_DONATION_CONFIRM": "Dzięki za darowiznę",
+  "MSG_ERROR_FILL_BOXES": "Proszę wypełnić pola poprawnymi wartościami",
+  "MSG_FILL_ALL_BOXES": "Proszę wypełnić wszystkie pola",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Wypełnij wszystkie poniższe pola",
+  "MSG_FILL_BOXES": "Proszę wypełnić pola",
+  "MSG_FILL_BOXES_ALL": "Proszę wypełnić wszystkie pola",
+  "MSG_FILL_BOXES_PROFILE": "Proszę wypełnić wszystkie pola oznaczone gwiazdką",
+  "MSG_GENERIC_ERROR": "Sprawdź połączenie internetowe i spróbuj ponownie.",
+  "MSG_GENERIC_FORM_ERROR": "Napraw błąd przed kontynuowaniem",
+  "MSG_LOGIN_ERROR": "Nieudane logowanie: sprawdź poświadczenia i upewnij się, że masz połączenie z siecią.",
+  "MSG_LOGIN_ERROR_LOCKED": "Login failed: Twoje konto jest tymczasowo zablokowane. Spróbuj później.",
+  "MSG_MANDATORY_OPTION": "Musisz upoważnić lekarza, aby zobaczył plik medyczny",
+  "MSG_NO_DOCTORS_FOUND": "Nie znaleziono lekarzy, naciśnij Znajdź lekarza, aby spróbować ponownie.",
+  "MSG_PATIENT_CANCELED_CALL": "Pacjent wyłączył połączenie, wracając do domu",
+  "MSG_PATIENT_ENDED_CALL": "Pacjent zakończył rozmowę",
+  "MSG_PATIENT_WAITING_CALL": "Pacjent został odłączony, czekając na ponowne połączenie",
+  "MSG_POST_CALL_CANCEL": "Zakończyłeś wizytę przed rozpoczęciem wideokomunikacji!",
+  "MSG_POST_CALL_DOCTOR": "Podsumowanie wysłane, wracając do domu.",
+  "MSG_POST_CALL_PATIENT": "Dziękujemy za użycie SaluberMD. Otrzymasz pocztą e-mailową. Aby uzyskać szczegółowe informacje na temat wizyty i instrukcji lekarza, odwiedź Mój profil - Historia odwiedzin.",
+  "msg_reconnection_error": "Urządzenie rozłączone. Proszę, ponownie podłącz urządzenie",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Dzięki .... ktoś się z tobą skontaktuje",
+  "MSG_REGISTRATION_SUCCESS": "Pomyślna rejestracja",
+  "msg_req_videocall1": "jest dostępny dla wideo w:",
+  "msg_req_videocall2": "Wideo jest gotowe do rozpoczęcia. Kliknij to powiadomienie, aby aktywować połączenie wideo",
+  "msg_req_videocall3": "jest teraz dostępny dla wideo. Kliknij to powiadomienie, aby aktywować połączenie wideo",
+  "MSG_RESET_REQUEST_ERROR": "Użytkownik z tą nazwą użytkownika lub adresem e-mail nie istnieje.",
+  "MSG_RESET_REQUEST_SUCCESS": "Wkrótce otrzymasz e-mail zawierający link do zresetowania hasła.",
+  "MSG_RESUME_CALL": "Masz aktywne połączenie, czy chcesz wznowić proces?",
+  "MSG_SCHOOL_MISSING": "Wstaw szkołę",
+  "MSG_SELECT_TIMEZONE": "Wybierz strefę czasową",
+  "MSG_SIGNATURE_MISSING": "Proszę wypełnić swój podpis, w przeciwnym razie nie możesz przesłać żadnych wymagań.",
+  "MSG_THANKING": "Dziękujemy za zgłoszenie.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Utracone połączenie. Może to być spowodowane połączeniem internetowym",
+  "MSG_WELCOME_BACK": "Witamy spowrotem",
+  "MSG_YEAR_PRACTISE": "Wstaw Rok praktyki",
+  "muscles": "Mięśnie",
+  "myappointment": "Moje nominacje",
+  "MYFILE_NOFILE": "Nie masz jeszcze plików",
+  "MYFILE_SECTION": "Twoje pliki",
+  "MYFILE_SUBTITLE": "Kliknij każdy element, aby zobaczyć zawartość pliku",
+  "MYFILE_TITLE": "Moje pliki",
+  "myprofile": "Mój profil",
+  "myreminders": "Moje przypomnienia",
+  "MY_TICKETS": "Twoje bilety",
+  "M_SCHOOL": "Szkoła Medyczna",
+  "N": "Nie",
+  "name": "Nazwisko",
+  "negative": "Negatywny",
+  "nervous": "Nerwowy",
+  "nessun_appuntamento": "Nie ma żadnych przeszłych spotkań",
+  "NETWORK_CHECK_MSG": "Twoja przepustowość jest za niska. Odtwarzanie zawartości z niską przepustowością spowoduje wstrzymanie wideo.",
+  "NETWORK_CHECK_TITLE": "Test jakości połączenia",
+  "NETWORK_ERROR": "Błąd połączenia internetowego. Spróbuj ponownie później",
+  "neutral": "Neutralny",
+  "newappointment": "Nowe spotkanie z",
+  "newass": "Dodaj nowe powiązanie",
+  "NEWPWD_CONFIRM": "Hasło poprawnie zmienione. Proszę, zaloguj się ponownie.",
+  "NEWPWD_CONFIRM2": "Hasło zostało pomyślnie zmienione",
+  "NEWPWD_ERROR": "Nowe hasło nie pasuje.",
+  "newtest": "Naciśnij przycisk plusa, aby wykonać nowy test.",
+  "NEW_PWD": "Nowe hasło",
+  "new_ticket": "Nowy bilet",
+  "NEXT": "Następny",
+  "no": "Nie",
+  "noAlarm": "Brak ustawionego alarmu",
+  "noallergies": "W tej chwili nie ma alergii",
+  "noapatient": "Nie znaleziono żadnego pacjenta",
+  "noappointment": "Nie ma zaplanowanego terminu",
+  "noappointments": "Nie ma dostępnej daty z tym lekarzem",
+  "noappointments1": "Nie ma dostępnych terminów z tym dietetykiem",
+  "noAppoPat": "Nie ma terminu na listę",
+  "noarticles": "Brak artykułów żywieniowych",
+  "noassociatedpatient": "Nie masz jeszcze pacjenta powiązanego",
+  "noattachment": "Wybierz załącznik",
+  "noattachment1": "Brak załącznika",
+  "noavailableoption": "Brak opcji",
+  "nocomment": "Brak komentarzy / reccomendacji",
+  "noconsulenze": "Nie wykonano żadnych wizyt",
+  "nocorxfound": "Nie znaleziono CORX",
+  "nodata": "Brak danych",
+  "nodependency": "W tej chwili nie ma żadnych zależności",
+  "nodesease": "W tej chwili nie ma żadnych zabiegów",
+  "nodevice": "Nie znaleziono urządzenia, spróbuj ponownie",
+  "nodoctor": "Nie znaleziono lekarzy",
+  "nodoctors": "Nie ma lekarzy",
+  "noDocuments": "Brak przesłanych dokumentów",
+  "nodrugselected": "Nie wybrałeś leku",
+  "noecg": "Brak zapisów EKG",
+  "noexam": "Nie ma egzaminu do wyświetlenia",
+  "nofiles": "Nie ma żadnych plików przesłanych przez pacjenta",
+  "noHistory": "W tej chwili nie ma żadnych konsultacji",
+  "nohsh": "Obecnie nie ma hospitalizacji",
+  "noimages": "W tej chwili nie ma przywiązania",
+  "noimmunization": "Obecnie nie ma immunizacji",
+  "nolabtest": "Nie znaleziono testów laboratoryjnych",
+  "nomedication": "Obecnie nie ma lekarstw",
+  "nomisure": "Nie ma miary",
+  "nonterminata": "Zadzwoń na nieudane",
+  "nonutritionist": "Brak dostępnego Dietetyka",
+  "nonuvoair": "Nie znaleziono urządzenia",
+  "nopharmacy": "Nie znaleziono aptek",
+  "noprescription": "W tej chwili nie ma żadnych recepty",
+  "noprothesis": "W tej chwili nie ma protezy",
+  "noreferrals": "Nie ma wymienionych referencji",
+  "noreminders": "Na razie nie masz przypomnień",
+  "noresults": "Nie znaleziono żadnych wyników.",
+  "normale": "Normalna",
+  "normalrange": "Zakres normalności",
+  "normalWeight": "Normalna waga",
+  "nosintomi": "Nie wybrano żadnego objawu",
+  "nospecialist": "Nie ma specjalistów",
+  "note": "Uwagi",
+  "notests": "W tej chwili nie ma nieregularnych testów",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Kliknij tutaj, aby ukończyć dokument medyczny",
+  "NOTIFICATIONS_SECTION": "Twoje powiadomienia",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Otrzymaj 1 bezpłatną konsultację lub ocenę zdrowia po zakończeniu pełnego pliku medycznego.",
+  "NOTIFICATIONS_SETTINGS": "Ustaw powiadomienia",
+  "NOTIFICATIONS_TITLE": "Powiadomienia",
+  "notification_setting": "Wybierz kategorię, z której chcesz otrzymywać powiadomienia",
+  "notimage": "Plik nie jest obrazem: dozwolone są tylko pliki BMP, GIF, JPG i PNG",
+  "notNow": "Nie teraz",
+  "notnow_btn": "Nie teraz",
+  "nouser": "Nie znaleziono użytkownika",
+  "novantad": "Ostatnie 90 dni",
+  "novideocall": "Nie znaleziono wideokomunikacji",
+  "novisit": "Nie masz jeszcze wizyt pacjentów",
+  "noWellnessData": "Brak nowych danych Wellness",
+  "no_certificate": "Brak certyfikatu do wyszczególnienia",
+  "no_chiosc_data": "Brak testu laboratoryjnego do obejrzenia",
+  "NO_DATA": "Brak danych",
+  "no_doctor_answer1": "W tej chwili nie ma lekarzy.",
+  "no_doctor_answer2": "Możesz umówić się na spotkanie, klikając poniższy przycisk.",
+  "NO_GENETIC_TEST_REQUESTS": "Nie poprosiłeś o żaden test genetyczny",
+  "NO_MSG": "Brak wysłanych wiadomości",
+  "no_notifications": "Nie masz powiadomień",
+  "no_prescription_download": "Z tymi konsultacjami nie wiążą się żadne recepty",
+  "no_pull_answer": "Żaden lekarz nie jest obecnie dostępny.",
+  "no_referral_download": "Nie ma odwołania związanego z tą wizytą",
+  "NO_SECOND_OP_REQUESTS": "Nie masz prośby o usługę drugiej opinii",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Brak specjalizacji",
+  "NO_TICKETS_SENT": "Brak wysłanych biletów",
+  "NO_USER_FOUND": "Nie znaleziono nazwy użytkownika lub adresu e-mail",
+  "NPI": "NPI",
+  "ns": "System nerwowy",
+  "numberNotSaved": "Błąd podczas zapisywania numeru",
+  "numberSaved": "Numer zapisany pomyślnie",
+  "nuovoair_connected": "Połączony",
+  "nuovoair_disconnected": "Niepowiązany",
+  "nutriPen": "Żądanie w trybie oczekującym",
+  "nutriRev": "Zmieniony kwestionariusz",
+  "nutrition": "odżywianie",
+  "nutritionist": "Porozmawiaj z dietetykiem",
+  "NUTRITIONIST_Q1": "Główne cele: (Sprawdź wszystkie Aplikuj)",
+  "NUTRITIONIST_Q10": "Czy jesteś wyraźnie drażliwy, lekki lub słaby, jeśli nie jadłeś?",
+  "NUTRITIONIST_Q11": "Aktualny schemat ćwiczeń: (Cardio, Resistance itp.)",
+  "NUTRITIONIST_Q12": "Czy palisz ?: (Jeśli tak, jak często i ile?)",
+  "NUTRITIONIST_Q13": "Czy pijesz alkohol ?: (Jeśli tak, jak często i ile?)",
+  "NUTRITIONIST_Q14": "Czy pijesz kofeinę? (Jeśli tak, jak często i ile?)",
+  "NUTRITIONIST_Q15": "Data ostatniego fizycznego:",
+  "NUTRITIONIST_Q16": "Ile razy byłeś przepisywany antybiotykom w ciągu ostatnich 2 lat:",
+  "NUTRITIONIST_Q16_BIS": "Jeśli tak, to które i jak często (proszę, bądź jak najbardziej konkretny).",
+  "NUTRITIONIST_Q17": "Czy bierzesz leki? (OTC lub recepta?) Jeśli tak, które z nich i czy przyjmujesz suplementy? Jeśli tak, to jak często (proszę, bądź jak najbardziej konkretny).",
+  "NUTRITIONIST_Q18": "Czy jesteś wzdęcia lub zaparcia więcej niż 1-2 dni w tygodniu?",
+  "NUTRITIONIST_Q19": "Czy masz problemy w następujących obszarach? Jeśli tak, proszę szczegółowo opisać swoje problemy w odpowiednich polach.",
+  "NUTRITIONIST_Q2": "W przybliżeniu ile posiłków spożywasz dziennie? (Wybierz jeden)",
+  "NUTRITIONIST_Q3": "Z czego składa się typowe śniadanie i o której godzinie:",
+  "NUTRITIONIST_Q4": "Co składa się na typowy lunch i o której godzinie:",
+  "NUTRITIONIST_Q5": "Na co składa się typowa kolacja i o której godzinie:",
+  "NUTRITIONIST_Q6": "Z czego składają się typowe przekąski i jaka (-a) godzina:",
+  "NUTRITIONIST_Q7": "Czy przejadacie się?",
+  "NUTRITIONIST_Q8": "Jakie pokarmy mają tendencję do przejadania się i jak często:",
+  "NUTRITIONIST_Q9": "Czy masz alergie, ograniczenia lub wrażliwość na jedzenie:",
+  "NUTRITIONIST_SUB1": "Utrata wagi",
+  "NUTRITIONIST_SUB10": "Nudności wymioty",
+  "NUTRITIONIST_SUB11": "Ból brzucha",
+  "NUTRITIONIST_SUB2": "Przybranie na wadze",
+  "NUTRITIONIST_SUB3": "Energia / zmęczenie",
+  "NUTRITIONIST_SUB4": "Lepszy sen",
+  "NUTRITIONIST_SUB5": "Problemy z trawieniem",
+  "NUTRITIONIST_SUB6": "Zaparcie",
+  "NUTRITIONIST_SUB7": "Biegunka",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Wzdęcia / gaz",
+  "nutrition_mail": "Załączone jest sprawozdanie dietetyka",
+  "nutrition_mail2": "Dietetyk wyśle ci plik",
+  "nutrition_questionnaire": "kwestionariusz żywieniowy",
+  "nvisit": "Liczba wykonanych wideokamer",
+  "obesity1": "Otyły",
+  "obesity2": "Ciężko otyłość",
+  "obesity3": "Chorobliwie otyłych",
+  "OFFICE_ADDRESS": "Adres biura",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Lekarz wydaje się być w trybie offline, spróbuj ponownie później",
+  "OLDPWD_ERROR": "Nowe hasła pasują do starego hasła.",
+  "OLD_PASSWORD_WRONG": "Stare hasło jest nieprawidłowe",
+  "OLD_PWD": "Stare hasło",
+  "oneDay": "Pewnego dnia",
+  "one_min": "Za 1 minutę",
+  "online": "Online",
+  "onlinedoctors": "Lekarze online",
+  "openimage": "Kliknij obraz, aby otworzyć go na pełnym ekranie",
+  "open_ticket": "Otwórz bilet",
+  "orale": "Ustami",
+  "other": "Inny",
+  "othercbc": "Inne egzaminy CBC",
+  "OTHER_PLACEHOLDER": "Proszę podać swoją specjalność",
+  "otoscopy": "Otoskopia",
+  "otp_sent_msg": "Wysłaliśmy Ci kod weryfikacyjny na Twój numer telefonu",
+  "OUR_PRODUCTS_SECTION": "Nasze urządzenia dostarczają informacji na temat zdrowia i zdrowia w czasie rzeczywistym, które pomogą Ci śledzić Twoje zdrowie.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Zmierz swoje zdrowie płuc w kilka sekund za pomocą profesjonalnego spirometru",
+  "OUR_PRODUCTS_SECTION_P1": "Inteligentna technologia noszenia, która zapewnia dodatkowe informacje o zdrowiu w czasie rzeczywistym, oprócz funkcji wellness",
+  "OUR_PRODUCTS_SECTION_P2": "Korzyści z fitness / wellness",
+  "OUR_PRODUCTS_SECTION_P3": "Twój domowy zestaw diagnostyczny dla całej rodziny.",
+  "OUR_PRODUCTS_SECTION_P4": "cechy",
+  "OUR_PRODUCTS_SECTION_P5": "Oba urzĘ ... dzenia sĘ ... przeznaczone do interakcji z aplikacjĘ ..., zapewniajĘ ... c zdrowe doznania. Twoje wyniki zostaną zapisane bezpośrednio w aplikacji.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Zmierz ciśnienie w sekundach za pomocą profesjonalnego sfigmometru",
+  "OUR_PRODUCTS_SECTION_SCALX": "Zmierz swoją wagę w kilka sekund za pomocą profesjonalnej wagi",
+  "OUR_PRODUCTS_TITLE": "Nasze produkty",
+  "overeatFoods": "Pokarm przejedzony",
+  "overeating": "Tendencja przejadania się",
+  "overweight": "Nadwaga",
+  "pa": "Asystent recepty",
+  "PASSWORD": "Hasło",
+  "passwordchanged": "Hasło poprawnie zmienione!",
+  "passwordExpiringMessage": "Twoje hasło wkrótce wygaśnie. Zmień to teraz",
+  "passwordExpiringTitle": "Hasło wygasa",
+  "PATIENT": "Cierpliwy",
+  "patientAllergy": "Alergie",
+  "patientGeneticRequests": "Prośby o badania genetyczne",
+  "patientinfo": "Informacje dla pacjenta",
+  "patientlist": "Lista pacjentów",
+  "patientmanagement": "Zarządzanie pacjentami",
+  "patientProtesi": "Zakladanie protez",
+  "PATIENTS_NO_P": "Obecnie nie masz zaplanowanych terminów na leczenie",
+  "PATIENTS_SECTION": "Twoje nominacje",
+  "PATIENTS_SECTION_SUBTITLE": "Kliknij każdy element, aby zobaczyć szczegóły",
+  "PATIENTS_TITLE": "Pacjenci",
+  "patientupdate": "Cierpliwy",
+  "patientvisit": "Pacjenci odwiedzają historię",
+  "PATIENT_PROFILE_OPT1": "Mój profil",
+  "PATIENT_PROFILE_OPT11": "Moje ulubione Lekarze",
+  "PATIENT_PROFILE_OPT12": "Dodaj ulubioną aptekę",
+  "PATIENT_PROFILE_OPT2": "Mój plik medyczny",
+  "PATIENT_PROFILE_OPT3": "Moja historia",
+  "PATIENT_PROFILE_OPT4": "Moje ulubione",
+  "PATIENT_PROFILE_OPT5": "Moje pliki",
+  "PATIENT_PROFILE_OPT6": "Moje powiadomienia",
+  "PATIENT_PROFILE_OPT7": "EKG Upload",
+  "PATIENT_PROFILE_OPT8": "Dane dotyczące urządzeń medycznych",
+  "PATIENT_PROFILE_OPT9": "Moje ulubione apteki",
+  "PATIENT_S1": "Cierpliwy",
+  "PATIENT_S2": "Rozmawiać o",
+  "PATIENT_S3": "Informacje pacjenta",
+  "PATIENT_S4": "Temat wizyty",
+  "PATIENT_S5": "Choroby",
+  "PATIENT_S6": "Alergie",
+  "PATIENT_S7": "Leki",
+  "PATIENT_S8": "Załączone dokumenty",
+  "PATIENT_S9": "Objawy?",
+  "PATIENT_SUMMARY": "Podsumowanie informacji o pacjencie",
+  "patologia": "Patologia",
+  "payment": "Zapłata",
+  "PAYMENT_DETAILS": "Szczegóły płatności",
+  "PAYMENT_MESSAGE_1": "Otrzymasz preautoryzację na pewną kwotę",
+  "PAYMENT_MESSAGE_2": "Opłata zostanie naliczona na końcu połączenia wideo",
+  "PAYMENT_SECTION1": "Wybierz kartę z listy",
+  "PAYMENT_SECTION2": "Wstaw wartości karty kredytowej",
+  "PAYMENT_SUCCESS": "Płatność powiodła się!",
+  "PAYMENT_SUCCESSFUL": "Z powodzeniem wstępnie autoryzowaliśmy płatność",
+  "PAYMENT_UNSUCCESSFUL": "Preautoryzacja płatności nie powiodła się. Sprawdź informacje o karcie kredytowej lub zapytaj w banku.",
+  "paziente_rimosso": "Status pacjenta został zmieniony",
+  "paziente_salvato": "Pacjent z powodzeniem zaktualizował",
+  "pdf_download_error": "Nie można pobrać pdf. Spróbuj ponownie później",
+  "pdf_file_error": "Dopuszczalne są tylko pliki pdf",
+  "period": "Kropka",
+  "PERIODIC_HEART_RATE": "Okresowe tętno",
+  "personal": "Osobisty",
+  "personalCare": "Higieny osobistej",
+  "personalinfo": "Informacje osobiste",
+  "PER_MIN": "/ min",
+  "pharmacies": "Apteki",
+  "PHONE": "Telefon",
+  "phone1": "Telefon",
+  "pills": "Pigułki",
+  "PILLS_DATE_ERROR": "Data rozpoczęcia przypada po dacie zakończenia",
+  "pill_reminder_message": "Czas wziąć pigułki",
+  "placeholder": "Nazwę użytkownika, e-mail lub nazwę",
+  "placeOfBirth": "Miejsce urodzenia",
+  "place_birth": "Miejsce urodzenia",
+  "platform": "Platforma",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Numer polisy",
+  "positive": "Pozytywny",
+  "POSTCALL_DOCTOR_TITLE": "Podsumowanie wizyty",
+  "POSTCALL_PATIENT_TITLE": "Proszę ocenić swoje doświadczenie",
+  "POUNDS": "funty",
+  "PRACTICE_LENGTH": "Długość w praktyce",
+  "prenota": "Rezerwuj teraz",
+  "prenotatest": "Wymagaj spotkania",
+  "preobesity": "Przed otyłością",
+  "prescription": "Recepta",
+  "prescriptiondiscounts": "Zniżki na receptę",
+  "PRESCRIPTIONS": "Recepty",
+  "prescriptions_sent": "Przekazywane recepty",
+  "prescription_mail": "Załączony jest twoja recepta",
+  "prescription_mail2": "Dziękujemy za skorzystanie z SaluberMD",
+  "prescription_notification": "Drogi użytkowniku, informujemy Cię, że twoja recepta jest teraz dostępna w sekcji dotyczącej osi czasu / historii konferencji",
+  "prescription_pharmacy": "Wybierz aptekę, aby wysłać receptę",
+  "prescription_preview": "Podgląd prescription",
+  "prescription_sent": "Przekazano receptę",
+  "PRESCRIPTION_SENT_EMAIL": "Twoja recepta została wysłana na twój adres e-mail ...",
+  "prescription_subject": "Na receptę",
+  "pressbutton": "Naciśnij przycisk pary na urządzeniu i wybierz Znajdź urządzenie",
+  "pressbuttonpresx": "Naciśnij i przytrzymaj przycisk pary z tyłu urządzenia, aby rozpocząć połączenie i dotknij przycisku znajdź urządzenie w aplikacji",
+  "pressbuttonscalx": "Naciśnij i przytrzymaj przycisk pary z tyłu urządzenia, aby rozpocząć połączenie i dotknij przycisku znajdź urządzenie w aplikacji",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Ciśnienie krwi",
+  "PRESX_PROD": "PRESX",
+  "previous": "Poprzedni",
+  "pre_period": "Okres przedawnienia",
+  "price": "Cena £",
+  "price_per_visit": "Opłata za wizytę",
+  "PRICING_SECTION1_P1": "SaluberMD zobowiązuje się do zapewnienia wygodnej, wysokiej jakości opieki w przystępnych cenach bez ukrytych opłat lub opłat.",
+  "PRICING_SECTION1_P2": "SaluberMD zapewnia opiekę wszędzie io każdej porze dnia po wizycie wideo z lekarzem posiadającym certyfikat zarządu. Nasi lekarze mogą dyskutować, badać i słuchać diagnozowania problemów lub po prostu odpowiedzieć na pytania i wątpliwości medyczne podczas rozmowy wideo.",
+  "PRICING_SECTION1_P3": "Dzięki naszemu ekskluzywnemu programowi Medicfile możesz zapewnić lekarzowi dostęp do historii medycznej, zdjęć i plików, aby pomóc im zapewnić najbardziej skuteczny plan leczenia.",
+  "PRICING_SECTION1_TITLE": "Za każdą wizytę",
+  "PRICING_TITLE": "cennik",
+  "primaryConcern": "Główne obawy",
+  "primaryMood": "Nastrój Główny",
+  "print": "Wydrukować",
+  "priority": "Priorytet",
+  "PRIVACY_POLICY_TITLE": "Polityka prywatności",
+  "problems": "problemy",
+  "PROCEED_PAYMENT": "Kontynuuj płatność",
+  "PROFESSIONAL_TITLE": "Profesjonalny tytuł",
+  "PROFILE_SECTION2": "Informacje kontaktowe",
+  "protesi": "Proteza i pomoce lekarskie",
+  "protesiobbligatorio": "Proszę wybrać typ proteza",
+  "prov": "próba",
+  "publicAppUrl": "Twój publiczny adres URL spotkania to:",
+  "pulldown": "Pociągnij w dół, aby odświeżyć",
+  "pull_request_processed": "Dziękujemy, Wysłaliśmy twoją dostępność do pacjenta",
+  "PWD_NOTMATCH": "Hasła się nie zgadzają",
+  "P_P_Error": "Musisz zaakceptować politykę prywatności",
+  "QUALITY_INDEX": "Jakość",
+  "QUALITY_INDEX_DESCRIPTION": "Sprawność fizyczna to poziom odporności i stresu psychicznego napotykany w obliczu zdolności przystosowania się i radzenia sobie z sytuacją. Wskaźnik sprawności fizycznej odzwierciedla ludzkie ciało, aby przystosować się do zmian środowiskowych i stymulacji stresu, utrzymać i przywrócić zdolność zdrowotną. Sprawność fizyczna przejawia się często w potencjale życia, nauki i pracy, ale także w fizycznym ćwiczeniu fizycznym. Fizyczna jakość osoby wiąże się z dziedzicznością, ale jest bardziej związana z nabytym odżywianiem i ćwiczeniami fizycznymi. Poprzez prawidłowe metody i właściwe ćwiczenia może poprawić swoją sprawność fizyczną we wszystkich aspektach.",
+  "quantity": "Ilość",
+  "quesito": "Dotyczyć",
+  "QUESTIONS_SECTION_TITLE": "Otrzymaj 1 bezpłatną konsultację lub ocenę zdrowia po zakończeniu pełnego pliku medycznego.",
+  "QUESTIONS_TITLE": "Pytania",
+  "quindici": "Ostatnie 15 pomiarów",
+  "ratio": "Stosunek",
+  "reccomendation": "Rekomendacja",
+  "reccomendations": "Zalecenia",
+  "recommendation": "Zalecenia",
+  "RECOMMENDATIONS": "Zalecenia",
+  "RECOMMEND_SECTION_P1": "W SaluberMD dążymy do zaspokojenia zapotrzebowania na jakość opieki zdrowotnej na całym świecie oferując naszym klientom dostęp do dobrze zaokrąglonej grupy lekarzy.",
+  "RECOMMEND_SECTION_P2": "Zawsze szukamy wysokiej jakości lekarzy, aby dodać do naszego wspaniałego zespołu. Jako członek naszego zespołu szanujemy i cenimy Twoje referencje.",
+  "RECOMMEND_SECTION_P3": "Proszę wypełnić poniższy formularz, aby skierować lekarza do SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Poleć kolegę",
+  "RECOMMEND_TITLE": "Polecić",
+  "record_aggiornato": "Rekord został zaktualizowany",
+  "record_aggiunto": "Rekord został dodany",
+  "record_inserito": "Dodano powoli",
+  "record_rimosso": "Rekord został skasowany",
+  "REFERRAL": "Odesłanie",
+  "REFERRALS": "Polecenia",
+  "referrals_sent": "Wysłano skierowania",
+  "referral_mail": "W załączeniu jest twoje polecenie.",
+  "referral_sent": "Polecenie wysłane",
+  "refundrequestsent": "Twoje zapytanie zostało wysłane",
+  "register": "Zarejestrować",
+  "register_report": "Rejestracja użytkowników",
+  "registration_date": "Data rejestracji",
+  "REGISTRATION_HEADER_DOCTOR": "Dołącz do zespołu MD Saluber",
+  "REGISTRATION_HEADER_PATIENT": "Proszę wypełnić pola i nacisnąć przycisk",
+  "releaserefresh": "Zwolnij, aby odświeżyć",
+  "remarks": "Uwagi",
+  "removedevice": "Czy chcesz usunąć to urządzenie?",
+  "removefavorite": "Usuń z ulubionych?",
+  "remove_generic": "Czy chcesz go usunąć?",
+  "renalFunction": "Czynność nerek",
+  "reoccurring": "Powracające",
+  "repeat_email": "Potwierdź email",
+  "report": "Osobisty plik kliniczny: Pełne sprawozdanie z badań",
+  "report1": "Osobisty plik kliniczny:",
+  "report2": "Raport",
+  "reportvisite": "Zgłoś wideo",
+  "report_date": "Data raportu",
+  "requestdate": "Data żądania",
+  "request_already_taken": "Ta prośba została już przejęta przez innego lekarza.",
+  "REQUEST_ERROR": "Wystąpił błąd podczas przetwarzania Twoich żądań. Sprawdź połączenie internetowe lub spróbuj ponownie później.",
+  "request_sent": "Twoje zapotrzebowanie zostało pomyślnie wysłane do backoffice",
+  "required": "To pole jest wymagane.",
+  "required_field": "Wymagane",
+  "RESEND_EMAIL": "Wyślij ponownie kod potwierdzenia",
+  "resetCorxFactory": "Czy na pewno chcesz zresetować Corx?",
+  "RESETPWD_BTN": "Zresetuj hasło",
+  "RESET_PASSWORD": "Wstaw e-mail lub nazwę użytkownika wykorzystywaną podczas rejestracji",
+  "respiratory": "Oddechowy",
+  "RESPIRATORY_RATE": "Częstość oddechów",
+  "RESTORE_FACTORY_SETTINGS": "Przywrócić ustawienia fabryczne",
+  "resultfound": "rekord znaleziony",
+  "results": "wyniki",
+  "ricettario": "Kraj",
+  "richiediDrug": "Poproś o lek",
+  "richiestaAppuntamento": "Prośba o spotkanie",
+  "richiestaRimborso": "Żądanie zwrotu kosztów",
+  "ricovero": "Hospitalizacja",
+  "riepilogo": "Podsumowanie",
+  "rightHanded": "Praworęczny",
+  "rimborso": "Zwrot",
+  "ripetibile": "Powtarzalne dla (razy)",
+  "rr_desc": "Częstość oddechów to szybkość, z jaką następuje oddychanie. Normalna częstość oddechów dla osoby dorosłej w spoczynku wynosi od 12 do 20 oddechów na minutę. Częstotliwość oddychania poniżej 12 lub ponad 25 oddechów na minutę podczas odpoczynku jest uważana za nienormalną",
+  "rs": "Układ oddechowy",
+  "RUNNING_CALL_OPT1": "Wznawianie",
+  "RUNNING_CALL_OPT2": "Zakończ rozmowę",
+  "RUNNING_CALL_TITLE": "Uruchamianie połączenia",
+  "sa": "Silne uwierzytelnianie",
+  "sadness": "Smutek",
+  "sai": "Indeks aktywności",
+  "sai_desc": "SAI jest oparte wyłącznie na twoim tętnie. Jest to prosta metryka, która śledzi reakcję organizmu na aktywność fizyczną - o wiele więcej niż kroki. W przeciwieństwie do śledzenia krokowego, SCI daje kredyt za każdą czynność, która podnosi tętno: pływanie, jazda na rowerze, wioślarstwo, taniec, cokolwiek. Przechowywać poniżej 30, aby uzyskać lepsze i zdrowsze życie.",
+  "sai_title": "NOK",
+  "saluberAccess": "SaluberMD pacjent",
+  "SATURDAY": "sobota",
+  "savedinfo": "Informacje zostały pomyślnie zapisane",
+  "SAVE_BTN": "Zapisać",
+  "SAVE_MESSAGE": "Jeśli odejdziesz, Twoje zmiany zostaną utracone",
+  "sbpi": "Wskaźnik ciśnienia krwi",
+  "sbpi_desc": "Wysokie ciśnienie krwi jest cichym zabójcą. Twoje wartości ciśnienia skurczowego i rozkurczowego są szacowane podczas każdej sesji medycznej, którą wykonujesz. Trzymaj SBPI poniżej 30, aby mieć mniejsze szanse na cierpienie z powodu stanów zagrażających życiu, takich jak udar i zakrzepy krwi.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Waga",
+  "SCALX_PROD": "SCALX",
+  "scan": "Skandować",
+  "scanningcorx": "Wyszukiwanie CORX ... Proszę czekać",
+  "schedule": "Harmonogram",
+  "scheduleAnAppointment": "Umówić się",
+  "scheduleappointment": "Zaplanuj wideoklip z lekarzem",
+  "schtime": "Zaplanowany czas",
+  "sci": "Indeks układu sercowo-naczyniowego",
+  "sci_desc": "Analizując tętno fali tętna uzyskujemy wgląd w układ krążenia. Indeks SCI jest streszczeniem twojego układu sercowo-naczyniowego, spróbuj utrzymać go poniżej 20!",
+  "sci_title": "SCI",
+  "SEARCH": "Szukanie",
+  "searchallergy": "Szukaj alergii",
+  "searchdoctor": "Szukaj lekarza",
+  "searchfordoctor": "Wyszukaj lekarza pod imieniem lub nazwiskiem",
+  "searchingdevice": "Wyszukiwanie urządzenia. To może trochę potrwać",
+  "searching_avail_date": "Wyszukiwanie dostępnej daty ...",
+  "searching_online_doctors": "Wyszukiwanie lekarzy online w toku ...",
+  "searchmedication": "Szukaj lekarstwa",
+  "searchpatient": "Szukaj pacjenta",
+  "searchpatologia": "Szukaj stanu medycznego",
+  "searchsymptom": "Objawy wyszukiwania",
+  "searchuser": "Szukaj użytkownika",
+  "search_doctor_description": "Szukaj lekarza na nazwę użytkownika, adres e-mail lub nazwę",
+  "search_patient_description": "Szukaj pacjenta pod nazwę użytkownika, adres e-mail lub nazwę",
+  "search_specialization": "Wyszukaj specjalizację",
+  "search_user_description": "Szukaj użytkownika o nazwę użytkownika, adres e-mail lub nazwisko",
+  "search_videocall_description": "Wyszukaj wideo-konferencję wykonaną przez iniziative",
+  "search_videocall_title": "Sering Videocall według daty",
+  "secondaryMood": "Nastrój wtórne",
+  "secondOpinion": "Wnioski o drugą opinię",
+  "seconds": "towary drugiej jakości",
+  "second_opinion_1": "Wygodny, niezawodny dostęp do drugiej opinii medycznej od wiodących specjalistów na całym świecie.",
+  "second_opinion_2": "Nasza usługa drugiej opinii medycznej może pomóc:",
+  "second_opinion_3": "Uzyskaj odpowiedzi na swoje pytania",
+  "second_opinion_4": "Wybierz najlepszy plan leczenia",
+  "second_opinion_5": "Zapewnij poprawną diagnozę",
+  "second_opinion_body": "Drogi Użytkowniku, <br> Twoje drugie żądanie opcji zostało przejęte od naszych specjalistów, którzy przeglądają przesłane dokumenty.",
+  "second_opinion_history": "Wnioski o drugą opinię",
+  "second_opinion_msg": "Dziękuję Ci. Nasz specjalista ds. Zdrowia skontaktuje się z Tobą w ciągu 24 godzin.",
+  "SECOND_OPINION_Q1": "Co chcesz porozmawiać z dietetykiem?",
+  "second_opinion_question1": "Dla kogo jest druga opinia?",
+  "second_opinion_question2": "Prześlij plik",
+  "second_opinion_step1": "Wypełnij krótki kwestionariusz / Prześlij swoje pliki",
+  "second_opinion_step2": "Nasi lekarze ocenią twoje materiały",
+  "second_opinion_step3": "Konsultacja lekarska w celu omówienia twoich wyników",
+  "secOpChoice": "Wybierz sposób, w jaki chcesz otrzymać drugą opinię",
+  "section": "Proszę wybrać jedną sekcję",
+  "security": "Bezpieczeństwo",
+  "seeaprovider": "Zobacz dostawcę",
+  "seecommenti": "Zobacz komentarze",
+  "seedoctor": "Przejdź do lekarza",
+  "SEE_A_DOCTOR_Q1": "Czy rozmowy wideo są dla mnie lub dla kogoś innego?",
+  "SEE_A_DOCTOR_Q10": "Możemy wysłać Ci receptę bezpośrednio do wybranej apteki",
+  "SEE_A_DOCTOR_Q1B": "Imię i data urodzenia dziecka?",
+  "SEE_A_DOCTOR_Q1_A1": "Mnie",
+  "SEE_A_DOCTOR_Q1_A2": "Moje dziecko",
+  "SEE_A_DOCTOR_Q2": "Proszę opisać, co chciałbyś porozmawiać z lekarzem",
+  "SEE_A_DOCTOR_Q3": "Objawy?",
+  "SEE_A_DOCTOR_Q4": "Czy chcesz dołączyć zdjęcie lub dokument?",
+  "SEE_A_DOCTOR_Q4_ERROR": "BŁĄD: pliki nie mogą przekraczać 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Wybierz plik",
+  "SEE_A_DOCTOR_Q4_S2": "Robić zdjęcie",
+  "SEE_A_DOCTOR_Q5": "Czy obecnie przyjmujesz jakieś leki, jeśli tak, proszę wymienić imię",
+  "SEE_A_DOCTOR_Q5_CHILD": "Czy Twoje dziecko obecnie przyjmuje jakieś leki? jeśli tak, proszę podać nazwę",
+  "SEE_A_DOCTOR_Q5_S1": "Nazwa:",
+  "SEE_A_DOCTOR_Q5_S2": "Dawkowanie:",
+  "SEE_A_DOCTOR_Q6": "Czy masz jakieś alergie?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Czy twoje dziecko ma jakieś alergie? jeśli tak, proszę podać nazwę",
+  "SEE_A_DOCTOR_Q7": "Czy masz jakieś choroby?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Czy twoje dziecko ma jakieś schorzenia? jeśli tak, proszę podać nazwę",
+  "SEE_A_DOCTOR_Q8": "Czy upoważniasz lekarza do obejrzenia Twojego pliku medycznego online?",
+  "SEE_A_DOCTOR_Q9": "Preferowana apteka",
+  "SEE_A_DOCTOR_TITLE": "Pójść do doktora",
+  "SEE_A_PROVIDER": "Zobacz dostawcę",
+  "segment": "Człon",
+  "selectAFile": "Naciśnij przycisk poniżej, aby wybrać plik",
+  "selectaprovider": "Wybierz dostawcę",
+  "selectcarderror": "Proszę wybrać kartę",
+  "selectdoctor": "Zarządzaj agendą",
+  "selectdoctor1": "Wybierz lekarza",
+  "selectdrug": "Wybierz lek",
+  "selectedContact": "Środki kontaktu",
+  "selectinitiative": "Wybierz jedną lub więcej inicjatyw ...",
+  "selectnutritionist": "Wybierz własnego dietetyka",
+  "selectpatient": "wybierz pacjenta",
+  "select_country": "Proszę wybrać kraj",
+  "select_device": "Wybierz urządzenie",
+  "select_file": "Wybierz plik",
+  "select_file_btn": "Wybierz plik",
+  "select_patient": "Kliknij wiersz, aby zobaczyć szczegóły",
+  "send": "Wysłać",
+  "sendmessage": "Wysłać wiadomość",
+  "sendtoken": "Wyślij to do lekarza, aby umożliwić mu dostęp do twojej dokumentacji medycznej. Ten link wygasa za 10 minut",
+  "SEND_BTN": "Wysłać",
+  "send_doctor_request": "Wyślij prośbę",
+  "sentmessage": "Wysłane wiadomości",
+  "SERVICE_TYPE": "Rodzaj usługi",
+  "sessantad": "Ostatnie 60 dni",
+  "SESSION_EXPIRED": "Twoja sesja wygasła. Proszę, zaloguj się ponownie",
+  "setAlarm": "Ustaw alarmy",
+  "settd": "Ostatnie 7 dni",
+  "settings_saved": "Ustawienia zostały zapisane",
+  "setTreshold": "Ustaw zakres",
+  "SET_BTN": "Zestaw",
+  "SET_USER_EMAIL": "Podaj nazwę użytkownika lub adres e-mail",
+  "set_vital_signs": "Ustaw Vital Signs",
+  "sevendays": "7 dni",
+  "showalldata": "Pokaż wszystkie dane",
+  "showOnEmergency": "Pokazać na awaryjnym",
+  "signature": "Twój podpis (używany na receptę)",
+  "signature_word": "Podpis",
+  "SIGNUP_BTN": "Zapisz się",
+  "sii": "Indeks ubezpieczeń",
+  "sii_desc": "SII to połączenie wszystkich indeksów SaluberMD i jest odzwierciedleniem ogólnego ryzyka medycznego. Jeśli poniżej 30, jesteś w bezpiecznej strefie!",
+  "sii_title": "SII",
+  "since": "Od",
+  "single": "Jednego dnia",
+  "singleAccess": "Pojedynczy dostęp",
+  "sitreminder": "Usiądź przypomnienie",
+  "sit_period": "Kropka",
+  "skip": "Pominąć",
+  "skip_pull": "Ignorować",
+  "skip_step": "Pominąć",
+  "sl": "Poziom stresu",
+  "SLEEP": "Sen",
+  "slotime": "Czas trwania bębna (min)",
+  "sl_alta": "większa niż 85 uderzeń na minutę",
+  "sl_bassa": "niższy niż 65",
+  "sl_desc": "Poziom stresu jest obliczany na podstawie rytmu na minutę",
+  "sl_normale": "od 65 do 85 uderzeń na minutę",
+  "smoker": "Palący",
+  "snacks": "Przekąski",
+  "SOMETIMES": "Czasami",
+  "SONNO": "Sen",
+  "SOP_Q4": "Dołącz swój raport medyczny",
+  "sos": "SOS",
+  "so_specialization": "Specjalność",
+  "specialists": "Specjaliści",
+  "specialization": "Wybierz specjalność",
+  "SPECIALTY": "Specjalność",
+  "specifyother": "Proszę podać inne",
+  "specifyvalue": "Proszę podać wartość",
+  "spirometer": "Spirometria",
+  "spo2_desc": "SpO2 lub poziom tlenu we krwi to miara ilości tlenu, którą przenosi twoje czerwone ciałka krwi. Normalne wartości wynoszą od 95% do 100%, A poniżej normalnego poziomu tlenu we krwi nazywa się hipoksemią",
+  "sri": "Indeks oddechowy",
+  "sri_desc": "Analizujemy Twoje wzorce oddechowe podczas każdej sesji medycznej i podczas snu. Jeśli SRI jest poniżej 30, szanse na cierpienie z powodu obturacyjnych dróg oddechowych są niskie.",
+  "sri_title": "SRI",
+  "ssi": "Indeks naprężenia",
+  "ssi_desc": "Analizując zmienność rytmu serca, oceniamy poziom stresu. Stres wydaje się pogarszać lub zwiększać ryzyko chorób takich jak otyłość, choroby serca, choroba Alzheimera, cukrzyca, depresja, problemy żołądkowo-jelitowe i astma. Trzymaj go poniżej 20, aby być po bezpiecznej stronie!",
+  "ssi_title": "SSI",
+  "start": "Początek",
+  "startcall": "Rozpocznij połączenie",
+  "startdate": "Od",
+  "starthour": "Czas rozpoczęcia",
+  "startmeasure": "Teraz możesz rozpocząć pomiar, naciskając przycisk na urządzeniu",
+  "startnow": "Zacząć teraz",
+  "startRecording": "Naciśnij start, aby nagrać dźwięk głosowy",
+  "startyping": "Zacznij wpisywać nazwę",
+  "start_blowing": "Zacznij dmuchać",
+  "start_test": "Rozpocznij test",
+  "start_time": "Czas rozpoczęcia",
+  "state": "Stan",
+  "state1": "Stan",
+  "STATES_LICENSE": "Stany licencjonowane",
+  "state_problem": "Proszę podać swój problem",
+  "status": "Status",
+  "step": "Krok",
+  "STEPS_GOAL": "Kroki Cel",
+  "stoolTest": "Badania stolca",
+  "stop": "Zatrzymać",
+  "stop_test": "Zatrzymaj test",
+  "stress": "Naprężenie",
+  "stroke_vol": "Objętość obrysu",
+  "stroke_volume": "Objętość obrysu",
+  "stroke_volume_desc": "Objętość wylewu to objętość krwi wyrzucanej przez każdą komorę na uderzenie",
+  "struttura": "Struktura",
+  "strutture": "Struktury",
+  "subject": "Przedmiot",
+  "subject_so": "Przedmiot",
+  "submissionDate": "Termin składania",
+  "success": "Powodzenie",
+  "SUCCESS_TITLE_NOTIFICATION": "Powodzenie",
+  "SUMMARY": "Diagnoza",
+  "summary1": "Podsumowanie",
+  "SUNDAY": "niedziela",
+  "surgery": "Operacja",
+  "surgeryAndHospitalization": "Hospitalizacja i historia operacji",
+  "surgeryCategory": "Kategorja",
+  "surname": "Nazwisko",
+  "sv_alta": "większe niż 100",
+  "sv_bassa": "poniżej 55 ml",
+  "sv_normale": "od 55 do 100 ml",
+  "switchsearch": "Przełącz na wyszukiwanie",
+  "symptoms": "Objawy",
+  "SYMPTOMS_BTN": "Symptomy",
+  "sync": "Synchronizuj",
+  "SYNC_TIME": "Synchronizuj czas",
+  "sysdia": "Nacisk",
+  "systolic": "Skurczowe",
+  "TAKE": "Brać",
+  "takeAppointment": "Umów się na spotkanie",
+  "TAKE_APP": "umówione spotkanie",
+  "TAKE_A_PHOTO": "Robić zdjęcie",
+  "tall": "Jaki jest Twój wzrost",
+  "tapconnect": "Stuknij, aby połączyć",
+  "tapdisconnect": "Stuknij, aby rozłączyć",
+  "tap_to_expand": "Stuknij, aby rozwinąć",
+  "telNameMandatory": "Proszę podać nazwę",
+  "telNumberMandatory": "Proszę podać numer telefonu",
+  "temper": "Hartować",
+  "temperDescription": "Emocjonalna miara obejmująca cały zakres nastrojów głośnika. Niski temperament opisuje depresyjne i ponure nastroje. Średni temperament opisuje przyjazne, ciepłe i pełne nastrój nastroje. Wartości temperamentu opisują nastroje konfrontacyjne, dominujące i agresywne.",
+  "tendays": "Ostatnie 10",
+  "ten_min": "W 10 minut",
+  "terminata": "Zadzwoń z powodzeniem",
+  "TERMS_TITLE": "Warunki korzystania",
+  "test": "Badanie",
+  "testmichele": "Testować michele",
+  "testresult": "Wyniki testów",
+  "testresults": "Wyniki testu",
+  "tests": "Badania",
+  "text": "Tekst",
+  "thiscC": "Ta karta kredytowa zostanie wykorzystana do zapłaty za usługę",
+  "THURSDAY": "czwartek",
+  "thyroidTest": "Testy funkcji tarczycy",
+  "tickets": "Bilety",
+  "TICKET_HISTORY": "Historia biletów",
+  "TICKET_NUMBER": "Numer biletu",
+  "ticket_subject": "Poproś o przedmiot",
+  "timecallerr": "Przepraszamy, nie można jeszcze zadzwonić",
+  "timecallerr1": "Przepraszam, że nie wykonasz połączenia, ponieważ jesteś poza zaplanowanym czasem",
+  "TIMELINE": "Moje terminy",
+  "times": "Ile razy dziennie?",
+  "timesaday": "Razy dziennie",
+  "tipopratica": "Typ praktyki",
+  "tipo_struttura": "Typ struktury",
+  "tipshealt0": "Porady zdrowotne",
+  "tipshealt1": "Szczepionka przeciw grypie - czy mam zaszczepić się przeciwko grypie?",
+  "tipshealt10": "Kliknij tutaj po więcej informacji",
+  "tipshealt11": "Korzyści płynące z leczenia statynami, obniżania poziomu cholesterolu leków, przewyższają ryzyko",
+  "tipshealt12": "W niedawnym artykule z przeglądu Lancet naukowcy stwierdzili, że korzyści płynące z obniżenia cholesterolu LDL przy użyciu leczenia statyną mogą zapobiegać poważnym zdarzeniom naczyniowym (ataki serca, udar mózgu) i przewyższają ryzyko związane z narkotykami.",
+  "tipshealt13": "Zdaniem naukowców jedynymi poważnymi zdarzeniami niepożądanymi, które okazały się powodować długotrwałą terapię statyną są miopatia (określana jako ból lub osłabienie mięśni), noworodkowa cukrzyca, a prawdopodobnie udar krwotoczny.",
+  "tipshealt2": "Chociaż szczepionka przeciwko grypie nie zawsze zapewnia całkowitą ochronę, warto zacząć. CDC (Centra Kontroli Chorób i Zapobiegania) zaleca roczne szczepienia przeciwko grypie dla osób w wieku 6 miesięcy lub starszych. Szczepienia są szczególnie ważne dla osób z wysokim ryzykiem powikłań grypy, w tym",
+  "tipshealt3": "Kobiety w ciąży",
+  "tipshealt4": "Osoby starsze (50 lat i starsze)",
+  "tipshealt5": "Małe dzieci (poniżej 4 lat i powyżej 6 miesięcy)",
+  "tipshealt6": "Aktywność fizyczna poprawia pamięć i myślenie",
+  "tipshealt7": "Regularna aktywność fizyczna może poprawić funkcjonowanie mózgu przez cały okres życia i zmniejszyć ryzyko otępienia.",
+  "tipshealt8": "Opracowano liczne badania dotyczące bliskiej interakcji i zaletą regularnej aktywności fizycznej oraz poprawie funkcji poznawczych.",
+  "tipshealt9": "Wpływ bezpośrednio na mózg i pośrednio poprzez metaboliczne i fizyczne działania na ciele.",
+  "title": "Tytuł",
+  "to": "do",
+  "todayAppointment": "Dzisiejsze spotkanie",
+  "tooltip1": "Podaj nazwę lekarza, który chcesz zarządzać porządkiem obrad",
+  "totale": "Całkowity",
+  "totalSleepTime": "Całkowity czas snu",
+  "total_cholesterol_desc": "Ta wartość jest szacunkiem całego cholesterolu we krwi",
+  "TOTAL_SLEEP_TIME": "Całkowity czas snu",
+  "tot_non_risposte": "Połączenie nie zostało odebrane",
+  "tot_ricevute": "Połączenie odebrane",
+  "tot_visite": "Odwiedziny wykonane",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Transfer",
+  "trenta": "Ostatnie 30 pomiarów",
+  "trentad": "Ostatnie 30 dni",
+  "triglycerides": "Trójglicerydy",
+  "trig_cholesterol_desc": "Trójglicerydy to rodzaj tłuszczu (lipid) znajdujący się we krwi. Poniższa tabela pokazuje zakres wartości.",
+  "TUESDAY": "wtorek",
+  "tutte": "Wszystkie pomiary",
+  "type": "Typ",
+  "TZONE": "Strefa czasowa",
+  "underweight": "Niedowaga",
+  "unit": "Jednostka",
+  "UNIT_SETTING": "Ustawienie jednostki",
+  "uom": "Jednostka miary",
+  "upcomingAppointmentPatient": "Nadchodzące spotkania z",
+  "UPDATE": "Aktualizacja",
+  "updatelist": "Zaktualizuj listę",
+  "update_app_message": "Musisz zaktualizować aplikację",
+  "UPDATE_AVAILABLE": "Dostępna aktualizacja",
+  "UPDATE_BTN": "Aktualizacja",
+  "update_completed": "Oprogramowanie układowe zostało pomyślnie zakończone",
+  "update_firmware_download_error": "Błąd podczas pobierania oprogramowania układowego",
+  "update_list": "Aktualizacja",
+  "UPLOAD_ERROR": "BŁĄD: pliki nie mogą przekraczać 5 MB",
+  "upload_referral": "Prześlij swoje skierowanie w polu poniżej.",
+  "urinTest": "Testy moczu",
+  "user": "Użytkownik",
+  "userdata": "Dane użytkownika",
+  "usermanagement": "Zarządzanie użytkownikami",
+  "USERNAME": "Nazwa Użytkownika",
+  "username1": "Nazwa Użytkownika",
+  "utente_aggiunto": "Użytkownik pomyślnie dodał",
+  "utente_rimosso": "Pomyślnie usunięto użytkownika",
+  "utente_salvato": "Użytkownik pomyślnie zaktualizował",
+  "vaccinobbligatorio": "Proszę wybrać immunizację",
+  "vaioffline": "Wylogować się",
+  "vaionline": "W trybie online",
+  "valence": "Wartościowość",
+  "valenceDescription": "Zmienna od negatywności do pozytywności. Słuchając głosu osoby, można zrozumieć, jak &quot;pozytywny&quot; lub &quot;negatywny&quot; są one odczuwane w związku z przedmiotem, obiektem lub wydarzeniem, które są przedmiotem dyskusji.",
+  "value": "Wartość",
+  "vascular_age": "Wiek naczyniowy",
+  "vascular_age1": "Wiek naczyniowy",
+  "va_desc": "Wiek naczyniowy zapewnia miarę pozornego wieku twoich tętnic w porównaniu ze zdrowymi ludźmi. Jeśli twój wiek naczyniowy jest większy niż twój wiek chronologiczny, możesz być bardziej narażony na rozwój choroby sercowo-naczyniowej (CVD) w późniejszym życiu.",
+  "videocall": "Videocall",
+  "VIDEOCALL_DES1": "Naciśnij przycisk poniżej, aby zmienić swój status i otrzymywać lub nie otrzymywać powiadomień. Pamiętaj, że możesz otrzymywać powiadomienia tylko wtedy, gdy jesteś online.",
+  "VIDEOCALL_DES2": "Po otrzymaniu połączenia kliknij prostokąt, który pojawi się, aby odebrać połączenie.",
+  "videocall_filter": "Filtruj według nazwy lub specjalizacji",
+  "videocall_request": "Nowe żądanie połączenia wideo z",
+  "videocall_request_title": "Wniosek o połączenie wideo",
+  "videocall_req_from": "Wniosek o połączenie wideo z:",
+  "videodermatoscopy": "Wideodermatoskopia",
+  "VIDEO_ANSWER": "Kliknij, aby aktywować wideo",
+  "VIDEO_CALL_BTN": "Wideo rozmowa",
+  "VIDEO_CALL_BTN_1": "Wideo",
+  "view": "Podglad",
+  "viewmedicalfile": "Zobacz plik medyczny",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Utwórz swoje biuro wirtualne",
+  "VIRTUAL_OFFICE_TITLE": "Wirtualne biuro",
+  "visitdetail": "Kliknij każdy element, aby zobaczyć pełną historię pacjenta",
+  "visithistory": "Odwiedź historię",
+  "visitlist": "Lista wizyt",
+  "VISIT_HISTORY_NO_HISTORY": "Nie masz jeszcze wizyt",
+  "VISIT_HISTORY_SUBTITLE": "Kliknij każdy element, aby zobaczyć szczegóły",
+  "VISIT_HISTORY_TITLE": "Odwiedź historię",
+  "volte": "Czasy",
+  "waiting": "Przetwarzanie...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Ciepło",
+  "WARNING_TITLE_NOTIFICATION": "Uwaga",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Dane o zdrowiu",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Dane Wellness",
+  "WATCH_DEVICE_DATA_TITLE": "Twoje dane o zegarku",
+  "water": "woda",
+  "weanedoff": "Czy odwykl/a?",
+  "WEDNESDAY": "środa",
+  "week": "Tydzień",
+  "weight": "Waga",
+  "weightUnit": "Jednostka wagi",
+  "welcome": "Witamy",
+  "wellness": "Wellness",
+  "wellnessdata": "Dane Wellness",
+  "wellnessSuccess": "Powodzenie",
+  "WHITE_SPACES": "Nazwa użytkownika nie może zawierać spacji",
+  "WRIST_CUT_SCREEN": "Włącz ekran cięcia nadgarstka",
+  "writtenRep": "Pisemny raport",
+  "W_RESPIRATORY_RATE": "Oddech",
+  "xray": "X-Ray",
+  "Y": "tak",
+  "year": "Rok",
+  "years": "lat",
+  "yes": "Tak",
+  "yourarousal": "Twoje podniecenie",
+  "youremotion": "Twoje emocje",
+  "yourmood": "Twój humor",
+  "yourtemper": "Twój temperament",
+  "yourvalence": "Twoja wartość",
+  "your_sai": "Twój indeks aktywności to:",
+  "your_sbpi": "Twój indeks ciśnienia krwi to:",
+  "your_sci": "Twój indeks sercowy to:",
+  "your_sii": "Twój indeks ubezpieczenia jest",
+  "your_sri": "Twój indeks oddechowy wynosi:",
+  "your_ssi": "Twój indeks stresu to:",
+  "your_stress": "Twój poziom stresu to:",
+  "your_va": "Twój wiek naczyniowy to:",
+  "zero_min": "Teraz",
+  "zipCode": "Kod pocztowy",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

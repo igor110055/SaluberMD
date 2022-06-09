@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Kuhusu sisi",
+  "ABOUT_US_CONDITION_1": "Baridi &amp; Flu",
+  "ABOUT_US_CONDITION_2": "Hali ya ngozi",
+  "ABOUT_US_CONDITION_3": "Dawa",
+  "ABOUT_US_CONDITION_4": "Mbaya Nyama",
+  "ABOUT_US_CONDITION_5": "Tumbo Ache",
+  "ABOUT_US_DOCTOR_BENEFIT1": "KUFANYA KATIKA:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Unaweza kuona wagonjwa sita kwa saa (kutembelea kwa kawaida huendelea dakika 10);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "KUTUA PATIENT PAREENT kutoka kila mahali duniani:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Kuongeza mahusiano ya mgonjwa na uwezo wa kutibu wagonjwa wa sasa na wapya kutoka popote duniani;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "Pata MAFUNZO YA VIRTULE YA MAFU:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Kukuza mazoezi yako ya sasa na kutoa chaguzi zaidi kwa wagonjwa;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "VIDUO VYA PATIENT VYA ZAIDI:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Wagonjwa wanaweza kukutumia hati, picha, matokeo ya maabara bila ya kuondoka nyumbani na unaweza kufuatilia afya ya mgonjwa wako mbali;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Kutambua ambao wanahitaji mikono juu ya huduma mara moja na nani anayeweza kufaidika na matibabu ya mbali bila kwenda nyumbani;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "KUFANYA KATIKA:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "HORA ZIDUFU:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Uwezo wa kuweka masaa yako mwenyewe na kuweka ratiba yako mwenyewe.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Jiunge na harakati kutoa uaminifu, nafuu, ufikiaji wa kimataifa wa huduma za afya ndani ya dakika 15 au chini.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "MD Saluber imeundwa kutengeneza mahusiano ya daktari na mgonjwa kwa kuunda 24/7 upatikanaji wa huduma za afya duniani kote.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Faida za Daktari",
+  "ABOUT_US_DOCTOR_TITLE": "Kuhusu sisi",
+  "about_us_section1_p1": "SaluberMD ni Shirika la Afya la Dini linalojitolea ili kubadilisha utoaji wa huduma za matibabu na bidhaa ili kuboresha matokeo ya afya duniani kote. Huduma zetu za Huduma za Concierge Medical, hutoa fursa ya kupata huduma za afya na ustawi, madaktari kuthibitishwa na bodi, faili ya matibabu binafsi katika lugha 18, nguo za kufuatilia afya yako, na upatikanaji wa mtandao wa wataalamu wa huduma za afya.",
+  "ABOUT_US_SECTION1_TITLE": "Kuhusu sisi",
+  "ABOUT_US_SECTION2_P1": "Kupitia geo-ujanibishaji programu yetu itapata Mtaalamu bora karibu nawe. SaluberMD Waganga wanaweza kugundua, kutibu, au kujadili hali yako ya matibabu kupitia video na kukupa mpango sahihi wa matibabu. Masharti mengi ya kawaida yanayotibiwa katika ofisi ya daktari yanaweza kutibiwa na kutembelea video. <br/> Baadhi ya masharti tunayopata:",
+  "ABOUT_US_SECTION2_P2": "Kumbukumbu yako binafsi ya matibabu ni mahali pazuri kuhifadhi data zako zote za afya, picha na faili. Kuweka wimbo wa afya yako na upatikanaji wa 24/7 kwa kumbukumbu zako zote za matibabu. Ikiwa wewe ni nyumbani au uhamiaji nje ya nchi habari zako ni kwenye vidole vyako vya kushirikiana na mtaalamu wako wa afya. Rahisi kutumia rekodi ya matibabu binafsi inapatikana katika lugha 18.",
+  "ABOUT_US_SECTION2_TITLE": "Inafanyaje kazi?",
+  "ABOUT_US_SECTION3_P1": "Tu ya juu ya kuthibitishwa Waganga kutoa huduma ya matibabu juu ya SaluberMD. Wataalamu hawa wanathibitishwa, wamepimwa sana na kufundishwa kutoa huduma ya juu ya juu. Kila Daktari ana bio ambapo unaweza kuona historia, sifa, na uzoefu wao. SaluberMD ni nia ya usimamizi wa ubora unaoendelea wa Waganga wetu. Mfumo wa rating inaruhusu wagonjwa kupima madaktari na kuona madaktari jumla ya rating.",
+  "ABOUT_US_SECTION3_TITLE": "Madaktari wetu",
+  "ABOUT_US_TITLE": "Kuhusu sisi",
+  "above_warning": "Thamani hapo juu ziko hatarini",
+  "accept": "Kukubali",
+  "acceptablerange": "Aina inayokubalika",
+  "ACCEPT_BTN": "Kukubali",
+  "acquire": "Pata data",
+  "acronym": "Acha",
+  "action": "Hatua",
+  "actions": "Vitendo",
+  "actionTaken": "Hatua Kuchukuliwa",
+  "activity": "Shughuli",
+  "acutecare": "Huduma ya Papo hapo",
+  "add": "Mpya",
+  "addavailability": "Ongeza upatikanaji wako",
+  "addcomment": "Ongeza maoni hapa",
+  "adddescription": "Ongeza maelezo yako hapa",
+  "adddrugs": "Tafuta madawa ya kulevya kwa kutumia sanduku la utafutaji chini na tiketi kikasha cha kuzingatia ili kiongeze kwenye dawa yako",
+  "addedFavourite": "Uliongeza kwa mafanikio kwenye vipendwa vyako",
+  "addedFavourite2": "Uliongeza kwa mafanikio kwenye vipendwa vyako. bonyeza kitufe cha sasisho ili uonyeshe.",
+  "addedFavourite3": "Imeongezwa kwa ufanisi. Piga chini ili urejeshe",
+  "addFavourite": "Ongeza kwa Mapenzi",
+  "ADDING_SLOT": "Kuongeza inafaa .... hii inaweza kuchukua muda.",
+  "addNew": "Ongeza Mpya",
+  "addpharmacies": "Bonyeza kwenye kifungo ili kuongeza madaktari wako wapendwa",
+  "addpharmacy": "Ongeza pharmacy",
+  "addreminder": "Bonyeza kifungo zaidi ili kuongeza kumbukumbu yako ya dawa.",
+  "address": "Anwani",
+  "address2": "Anwani ya utoaji",
+  "address3": "Anwani ya huduma",
+  "addsintomi": "Ongeza dalili",
+  "addslot": "Ongeza slot",
+  "add_description_file": "Ongeza maelezo (si lazima)",
+  "add_new": "Ongeza",
+  "affaticamento_grave": "Uchovu mkali",
+  "affaticamento_minore": "Ukosefu mdogo",
+  "agenda": "Yangu ajenda",
+  "agenda_report": "Ripoti Uteuzi",
+  "aggiungi": "Unda",
+  "AGREE_BTN": "Nakubali",
+  "alcoholDesc": "Pombe ilidhani",
+  "all": "Wote",
+  "alldata": "Data zote",
+  "allergia": "Mizigo",
+  "allergia_aggiunta": "Vipindi vya ustaarabu viliundwa",
+  "allergia_rimossa": "Ugonjwa wa mgonjwa ulifanikiwa kufutwa",
+  "allergia_salvata": "Matibabu ya mgonjwa hupangwa kwa urahisi",
+  "allergie": "Dawa",
+  "allimages": "Picha Zote",
+  "alreadyAddedF": "Dawa hii ya dawa tayari iko katika favorites yako",
+  "alreadyRegistred": "Anwani hii ya barua pepe tayari inapatikana katika mfumo wa nje. Tafadhali ingia kwa programu kufanya miadi.",
+  "alreadyTaken": "Uteuzi umechukuliwa",
+  "alta": "Juu",
+  "alto": "Juu",
+  "amonth": "Siku 30",
+  "anger": "Hasira",
+  "annoinizio": "Mwaka ulianza",
+  "antibiotics": "Antibiotics",
+  "an_error_occurred": "Lo! Hivi sasa hatuwezi kupitisha ombi lako. Jaribu tena baadae",
+  "appointment": "Uteuzi",
+  "appointmentlist": "Orodha ya uteuzi",
+  "appointments": "Uteuzi",
+  "appointmentsDescription": "Orodha ya uteuzi wa ratiba",
+  "appointment_body_doc": "Uteuzi mpya uliopangwa na",
+  "appointment_calcelled_title": "Uteuzi umefutwa",
+  "appointment_cancelled": "amekataa kuteuliwa kwake",
+  "appointment_email_body": "Tunathibitisha miadi yako na daktari",
+  "appointment_history": "Historia ya Uteuzi",
+  "appointment_now": "Uteuzi wako kuanza sasa",
+  "appremainder": "Uteuzi wa salio",
+  "appremainder1": "Una videocall iliyopangwa katika dakika 5",
+  "appremainder2": "Una video ya video iliyopangwa kwa dakika 30",
+  "appremainder3": "Una videocall iliyopangwa kwa dakika 120",
+  "APPROX_DATA": "Takwimu nyingine za Ustawi",
+  "appuntamenti": "Uteuzi",
+  "appuntamenti_presi": "Uteuzi uliopangwa",
+  "appuntamento_clinica": "Uteuzi wa Kliniki ya Ombi",
+  "APPUNTAMENTO_CONGIUNTO": "Je! Unataka kitabu videocall?",
+  "app_description": "Ongeza sababu za miadi yako katika sanduku hapa chini",
+  "app_details": "Maelezo ya uteuzi",
+  "app_missing": "Programu ya usaidizi haijawekwa",
+  "ARIAX": "Kiwango cha Breath",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Arousal",
+  "arousalDescription": "Tofauti ambayo inatofautiana kutoka kwa utulivu au upungufu kwa uangalifu na msisimko. Inafanana na dhana zinazofanana na kiwango cha uanzishaji na kusisimua.",
+  "assign_specialist": "Omba mtaalamu kwa ombi",
+  "associa": "Mshirika",
+  "attachment": "Kiambatisho",
+  "ATTACH_A_PHOTO": "Weka picha",
+  "BACKGROUND": "Background",
+  "BACKGROUND_PLCHOLDER": "Tafadhali ingiza maelezo mafupi.",
+  "backhomeconfirm": "Je! Una uhakika wa kurudi nyumbani?",
+  "BACK_BTN": "Rudi",
+  "BACK_LOGIN": "Rudi kwenye Ingia",
+  "bad_file": "Haiwezi kufungua faili",
+  "basicinfo": "Maelezo ya msingi",
+  "bassa": "Chini",
+  "basso": "chini",
+  "below_warning": "Thamani chini iko hatarini",
+  "benefits": "Faida ya Concierge",
+  "beyondverbal": "Hisia zinaendesha kila kitu tunachofanya, lakini uchambuzi wa hisia zinazoendeshwa na sauti bado ni interface muhimu zaidi, isiyojulikana leo. Zaidi ya Maneno ni nia ya kubadilisha hiyo.",
+  "beyondverbal_analyze": "Kuchambua hali yako",
+  "beyondverbal_history": "Matokeo ya kihistoria",
+  "beyondverbal_instruction": "Unapokuwa tayari kujibu kifungo cha habari cha kuanza kifungo",
+  "BIRTHDATE": "Tarehe ya kuzaliwa",
+  "birthday": "Kuzaliwa",
+  "blank_agenda": "Hakuna slot kwa leo",
+  "bloatedOrContipated": "Imezuiwa au imetumwa",
+  "bluetooth_error": "Wezesha bluetooth kabla ya kuendelea",
+  "BOARD": "Bodi ya kuthibitishwa",
+  "bones": "Mifupa",
+  "bp": "Shinikizo la damu",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Jedwali la kumbukumbu kwa maadili ya shinikizo la damu",
+  "breakfast": "Kifungua kinywa",
+  "btnback": "Rudi",
+  "btndelete": "Futa",
+  "btndisabledoctor": "Zima daktari",
+  "btndisablepatient": "Zima mgonjwa",
+  "btnenabledoctor": "Wezesha daktari",
+  "btnenablepatient": "Wezesha mgonjwa",
+  "btnsave": "Hifadhi",
+  "BTN_LOAD_MORE": "Weka zaidi",
+  "buttonsearch": "Tafuta",
+  "bvFailed": "Imeshindwa kuchambua sauti yako, unahitaji kuzungumza zaidi!",
+  "bvInstruction": "Endelea kuzungumza kwa sekunde 20 au zaidi",
+  "bvInstruction2": "Endelea kuzungumza kwa sekunde 20",
+  "ca": "Mfumo wa Mishipa",
+  "call": "Wito",
+  "callCancel": "Haiwezi kufuta wito wa muda",
+  "calldoctor": "Mwita daktari",
+  "calling_number": "Nambari ya kupiga simu",
+  "callthedoctor": "Pigia simu Daktari",
+  "calltransfer": "Inahamisha simu ...",
+  "CALL_ALREADY_TAKEN": "Piga simu tayari",
+  "CALL_DOCTOR_INFO": "Daktari Info",
+  "CALL_DURATION": "Muda wa simu",
+  "call_instruction": "Tutakutumia taarifa baada ya kuwaita daktari. Bofya kwenye arifa mara tu unapoipokea ili uanze videocalll. Ikiwa umefuta arifa, unaweza kupata kwenye sehemu ya taarifa chini ya maelezo yangu ya afya.",
+  "CALL_NOTIFICATIONS": "Simu za Simu",
+  "CALL_NO_INCOMING": "Hakuna wito zinazoingia",
+  "CALL_TRANSFER_INFO": "Piga maelezo ya uhamisho",
+  "CALL_WAITING": "Tafadhali subiri wakati tunatafuta daktari aliyepo",
+  "CALL_WAITING_2": "Tafadhali subiri wakati daktari atakapotazama faili yako",
+  "calories": "Kalori",
+  "cancel": "Futa",
+  "cancelAppointment": "Futa miadi hii",
+  "CANCEL_BTN": "Futa",
+  "CAP": "Namba ya Posta",
+  "cardiac_output": "Pato la moyo",
+  "cardiac_output1": "Pato la moyo",
+  "cardiac_output_desc": "Pato la moyo ni tu kiasi cha damu kinachopigwa na moyo kwa dakika.",
+  "cardiovascular": "Mishipa",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "CVC batili",
+  "CARD_EXPIRY_DATE": "Tarehe ya mwisho wa matumizi",
+  "CARD_MONTH_ERROR": "Mwezi usio sahihi",
+  "CARD_NUMBER": "Namba ya kadi",
+  "CARD_NUMBER_ERROR": "Nambari ya CC batili",
+  "CARD_YEAR_ERROR": "Mwaka usio sahihi",
+  "category": "Jamii",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "CCV inahitajika",
+  "CERROR": "Mawasiliano duni",
+  "certificate_attachment": "Ambapo kuna cheti chako cha matibabu",
+  "certificate_email": "Iliyofunikwa kuna udhibitisho wako wa matibabu",
+  "certificate_header": "Kwa msingi wa tathmini ya matibabu iliyofanywa, yafuatayo imeelezwa:",
+  "certificate_sent": "Hati iliyotumwa",
+  "certification_subject": "Uthibitisho wako wa matibabu",
+  "cf": "Kanuni ya Fedha",
+  "cf_error": "Tafadhali, taja msimbo wako wa kifedha",
+  "changeschedule": "Badilisha wakati",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Nenosiri lako limekufa, tafadhali labadilisha.",
+  "CHANGE_PWD_SECTION_TITLE": "Badilisha neno la siri",
+  "CHANGE_PWD_TITLE": "Nenosiri lako litakufa, libadilika",
+  "checking_net_condition": "Kuangalia uunganisho wa wavuti ...",
+  "CHECK_PARAMETERS_CORX": "Tafadhali, ingiza uzito na urefu kwenye sehemu ya wasifu ili uhesabu maadili sahihi ya ustawi.",
+  "CHL_TOT": "Jumla ya cholesterol",
+  "choosedate": "Chagua tarehe",
+  "chooseDateDescription": "Bofya tarehe ili kupanua na uchague saa",
+  "chooseprofile": "Wewe ni?",
+  "choosespeciality": "Chagua Maalum ya Matibabu",
+  "choosetransferdoctor": "Chagua daktari",
+  "CHOOSE_A_DOCTOR": "Chagua daktari wako mwenyewe",
+  "chosedoctor": "Tafadhali, chagua daktari",
+  "city": "Jiji",
+  "city1": "Jiji",
+  "city2": "Jiji",
+  "clearsignature": "Fungua saini",
+  "clickitem": "Bofya kila kipengee ili uone maelezo kamili",
+  "clickrow": "Bofya kwenye mstari ili ugue",
+  "clickToOpen": "Bonyeza kufungua faili",
+  "click_to_start_call": "Bonyeza kwa daktari ili kuanza simu",
+  "clinics": "Kliniki",
+  "CLOCK_FORMAT": "Aina ya Saa",
+  "closeappconfirm": "Je! Una uhakika wa kufunga programu?",
+  "CLOSE_BTN": "Funga",
+  "cm": "sentimita",
+  "CODE": "Kanuni",
+  "code_not_valid": "Nambari iliyoingizwa sio sahihi",
+  "code_verified": "Nambari imethibitishwa!",
+  "coffeeDesc": "Kahawa ya kudhani",
+  "COMMENT": "ufafanuzi",
+  "commenti": "Maoni",
+  "COMPANY_NAME": "Kampuni",
+  "COMPLAIN": "Kulalamika",
+  "COMPLETE_PROFILE": "Jaza maelezo yako mafupi kabla ya kuendelea",
+  "COMPLETE_PROFILE_TITLE": "Tafadhali jaza maelezo yako mafupi",
+  "complications": "Matatizo",
+  "concernlist": "Tafadhali weka wasiwasi wako wa msingi / wasiwasi",
+  "CONFIRM": "Sawa",
+  "confirm_app": "Thibitisha miadi yako",
+  "CONFIRM_EMAIL_TITLE": "Thibitisha Barua pepe",
+  "CONFIRM_PWD": "Thibitisha nenosiri",
+  "connect": "Bonyeza kifungo cha Connect ili kuunganisha kifaa",
+  "connectbtn": "Unganisha",
+  "connectedto": "Imeunganishwa na",
+  "connecting": "Kuunganisha ... Tafadhali subiri",
+  "connection_progress": "Kuunganisha kwenye kifaa ...",
+  "CONSULT": "Kulalamika",
+  "consult1": "Pata ushauri",
+  "consultation": "Ushauri",
+  "consultationHistory": "Historia ya ushauri",
+  "contact": "Wasiliana",
+  "CONTACT_US_BTN": "Wasiliana nasi",
+  "CONTACT_US_SECTION_TITLE": "Tafadhali wasiliana nasi na maswali yoyote au msaada kwa kutumia programu.",
+  "CONTACT_US_TITLE": "Wasiliana nasi",
+  "contatti": "Maelezo ya Mawasiliano",
+  "continue": "Endelea",
+  "copy_url": "Nakili url",
+  "CORX": "ECG",
+  "corxDidFailEcg": "Hitilafu ya kupata EKG",
+  "corxDidFailWellness": "Hitilafu ya kupata data ya ustawi",
+  "corxDidNoEcg": "Hakuna data ya EKG",
+  "corxDidNoWellness": "Hakuna data ya ustawi",
+  "CORX_DATA": "Takwimu za CorX",
+  "corx_disconnected": "Corx imeunganishwa",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Tafadhali, taja uzito na urefu katika oreder ili uhesabu kwa usahihi vigezo vya vitalu.",
+  "COUNTRY": "Nchi",
+  "country1": "Nchi",
+  "county": "Kata",
+  "co_alta": "zaidi ya 8 L / min",
+  "co_bassa": "chini ya 4 L / min",
+  "co_normale": "kati ya 4 na 8 L / min",
+  "creditCard_selected": "Kadi iliyochaguliwa itatozwa kwa huduma hii",
+  "currency": "Fedha",
+  "C_SPECIALTY": "Utaalamu maalum",
+  "dailyuse": "Matumizi ya kila siku",
+  "dashboardVideocall": "Dashboard Videocall",
+  "dataerror": "Tarehe / wakati uliyochagua umepita tarehe / wakati wa sasa",
+  "dataexists": "Tayari kuna miadi na tarehe na wakati uliochaguliwa",
+  "datafetching": "Inapotosha data yako binafsi ... Tafadhali subiri.",
+  "dataPrenotazione": "Tarehe ya kusajili",
+  "dataVaccinazione": "Tarehe ya chanjo",
+  "date": "Tarehe",
+  "dateDiscovered": "Tarehe Ilifunuliwa",
+  "dateStart": "Tarehe ya Mwanzo",
+  "datipersonali": "Info ya kibinafsi",
+  "datiScaricati": "Takwimu zimepakuliwa kwa ufanisi",
+  "day": "Siku",
+  "deassociate_corx_alert": "Je! Unataka kufuta Corx?",
+  "decline": "Kupungua",
+  "DECLINE_BTN": "Kupungua",
+  "DEEP_SLEEP_TIME": "Kulala sana",
+  "defaultQuestion": "Press kuanza na kutuambia jinsi unajisikia leo",
+  "delete": "Futa",
+  "deleteAlarm": "Futa kengele hii?",
+  "deleteAppointment": "Unataka kufuta miadi?",
+  "deleteDescription": "Itafutwa mara moja.",
+  "deleteMessage": "Una uhakika unataka kufuta hii?",
+  "deleteMultipleDesctiption": "Idadi ya slot ambayo itafutwa:",
+  "deleteNumber": "Una uhakika unataka kufuta Nambari hii?",
+  "deleteSlotDay": "Inafuta slot yote ya bure leo",
+  "deleteSlotMonth": "Inafuta mipaka yote ya bure mwezi huu",
+  "deleteSlotWeek": "Inafuta slot yote ya bure wiki hii",
+  "deletevalue_q": "Una uhakika unataka kufuta thamani?",
+  "DELETE_NOTIFICATION_MSG": "Je! Unataka kufuta arifa zote za zamani?",
+  "demo": "Hii demo, hakuna pesa itashtakiwa.",
+  "dependencies": "Utegemeaji",
+  "description": "Maelezo",
+  "descriptionMandatory": "Tafadhali, taja maelezo",
+  "deseaseCategory": "Magonjwa Jamii",
+  "desirable": "Inastahili",
+  "dettagli": "Maelezo",
+  "dettaglio_struttura": "Maelezo ya muundo",
+  "device": "Kifaa",
+  "devicefound": "Kifaa kimepatikana",
+  "devices": "Vifaa",
+  "devicetype": "Aina ya Kifaa",
+  "DEVICE_BLOOD_PRESSURE": "Shinikizo la damu",
+  "DEVICE_CALORIES": "Calori kuchomwa",
+  "DEVICE_CARDIAC": "Ufuatiliaji wa moyo",
+  "DEVICE_CHL": "Profaili ya Lipidic",
+  "DEVICE_DATA_SECTION_TITLE": "Data yako ya kifaa cha matibabu",
+  "DEVICE_DATA_TITLE": "Data ya Kifaa",
+  "DEVICE_DATA_TITLE_1": "Takwimu ya Kifaa cha Matibabu",
+  "DEVICE_EKG": "ECG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glucometer",
+  "DEVICE_HEART_RATE": "Kiwango cha Moyo",
+  "DEVICE_PEDOMETER": "Pedometer",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Mzunguko wa kupumua",
+  "DEVICE_SPO2": "Spo2",
+  "DEVICE_TEMPERATURE": "Joto",
+  "DIAGNOSIS": "Utambuzi",
+  "diastolic": "Diastoli",
+  "dieci": "Vipimo 10 vya mwisho",
+  "diet": "Mlo",
+  "digestion": "Masuala ya Digestion",
+  "dinner": "Chajio",
+  "dipendenza": "Utegemezi",
+  "disableAlarm": "Alarm imewezeshwa",
+  "disabled": "Walemavu",
+  "DISABLE_PANIC_BUTTON": "Wezesha Button ya Kichwa",
+  "DISABLE_PUNIC_BUTTON": "Lemaza Button ya Punic",
+  "disconnectall": "Weka Offline",
+  "disconnectbtn": "Futa",
+  "DISDICI": "Futa",
+  "disease": "Magonjwa ya Ukimwi",
+  "diseasemanagement": "Usimamizi wa Magonjwa",
+  "diseases": "Magonjwa",
+  "disease_1": "Magonjwa",
+  "dissocia": "Punguza",
+  "DISTANCE": "Umbali",
+  "dm_section_description_1": "Hapa unaweza kuunganisha faili zako",
+  "DND": "Usisumbue",
+  "DOCEMAIL": "Barua ya daktari",
+  "DOCNAME": "Jina la daktari",
+  "DOCPHONE": "Nambari ya simu ya daktari",
+  "DOCTOR": "Daktari",
+  "doctor1": "Daktari",
+  "doctorAtHome": "Daktari nyumbani",
+  "doctorAtHomeQuestion1": "Nataka msaada wa nyumbani kwa:",
+  "doctorAtHomeQuestion2": "Chagua misaada ya nyumbani unayohitaji",
+  "doctorAtHomeQuestion2Answer1": "Kawaida ya Mazoezi",
+  "doctorAtHomeQuestion2Answer2": "Pediatric",
+  "doctorAtHomeQuestion2Answer3": "Muuguzi",
+  "doctorAtHomeQuestion3": "Eleza sababu unataka kupata msaada",
+  "doctorAtHomeQuestion4": "Kutoa fomu chini ya anwani unayotaka kupata msaada",
+  "doctorAtHomeRequestBtn": "Tuma ombi",
+  "doctorAtHomeRequestSuccess": "Tumepokea ombi lako. Utawasiliana na saa 2 kupanga mpango wa nyumbani",
+  "doctorAtHomeTitle": "Daktari nyumbani",
+  "doctorbusy": "Daktari ni busy katika wito mwingine",
+  "doctorbusy1": "Daktari ni busy katika wito mwingine",
+  "doctorlist": "Orodha ya madaktari",
+  "doctormanagement": "Madaktari wa usimamizi",
+  "doctoroffline": "Daktari ni offline, jaribu tena",
+  "doctorupdate": "Daktari",
+  "DOCTOR_PROFILE_OPT1": "Profaili",
+  "DOCTOR_PROFILE_OPT2": "Historia ya Kutembelea Mgonjwa",
+  "DOCTOR_PROFILE_OPT3": "Pendekeza mwenzake",
+  "DOCTOR_PROFILE_SECTION1": "Wasifu wako",
+  "DOCTOR_PROFILE_TITLE": "Profaili",
+  "doctor_request_sent": "Tumetuma ombi lako kwa madaktari wetu. Utapokea jibu kwa dakika mbili.",
+  "documents": "Nyaraka",
+  "DOCUMENT_BTN": "Nyaraka",
+  "doestake": "Je! Umechukua",
+  "DONATION_TITLE": "Thibitisha mchango",
+  "done": "Data ya Trackx imepakuliwa kwa ufanisi. Utawapata chini ya sehemu ya data ya ustawi",
+  "doneAppointmentPatient": "Uteuzi wa Zamani",
+  "DONE_BTN": "Imefanywa",
+  "dontknow": "Sikumbuki",
+  "DORMIVEGLIA": "Usingizi",
+  "dosage": "Kipimo",
+  "dosetake1": "Je! Umechukua dawa zako?",
+  "dottore_rimosso": "Hali ya Daktari inafanikiwa kusasishwa",
+  "dottore_salvato": "Daktari alifanikiwa kurekebishwa",
+  "download": "Pakua",
+  "downloadaspdf": "Pakua kama PDF",
+  "downloadecg": "Pakua ECG",
+  "DOWNLOADING_DEVICE_DATA": "Inapakua ...",
+  "downloadwellnessdata": "Inapakua data ya ustawi ...",
+  "downloadWellnessResult": "kipimo kiliongezwa",
+  "DOWNLOAD_CERTIFICATE": "Cheti cha kupakua",
+  "DOWNLOAD_ERROR_GENERIC": "Oops. An erros ilitokea wakati akijaribu kupakua faili. Tafadhali jaribu tena baadae.",
+  "DOWNLOAD_SO_REPORT": "Pakua Referral",
+  "DO_NOT_DISTURB": "Usisumbue",
+  "drugsAtHome": "Dawa za nyumbani",
+  "drugsAtHomeQuestion1": "Je! Unataka kupokea dawa zilizowekwa na daktari wako moja kwa moja nyumbani?",
+  "drugsAtHomeRequestBtn": "Tuma ombi",
+  "drugsAtHomeRequestSuccess": "Tumepokea ombi lako. Dawa hizo zitatumwa ndani ya masaa 24",
+  "drugsAtHomeSection1": "Kutoa fomu chini ya namba ya simu na anwani unayotaka kupokea madawa ya kulevya.",
+  "drugsAtHomeTitle": "Dawa za nyumbani",
+  "drug_name": "Jina la Dawa",
+  "duration": "Muda",
+  "ecg": "ECG",
+  "ecgadded": "ECG imeongeza kwa mafanikio kwenye orodha",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "Takwimu za EKG",
+  "ecgdetail": "Bofya kila kitu ili uone picha ya ECG",
+  "ECG_DELETE_Q": "Una uhakika unataka kufuta EKG?",
+  "ecg_not_found": "Faili ya ECG isiyo sahihi, jaribu misuaration nyingine.",
+  "ECG_REMOVED": "EKG imefutwa kwa ufanisi",
+  "edit": "Badilisha",
+  "EKG_SECTION_TITLE": "Electrocardiogram (EKG / ECG) Matokeo",
+  "EKG_TITLE": "EKG Upload",
+  "EMAIL": "Barua pepe",
+  "email1": "Barua pepe",
+  "email_do_not_match": "Barua pepe hazilingani",
+  "ematicTest": "Vipimo vya Mhemko",
+  "Emergency": "Onyesha Dharura",
+  "emergency1": "Dharura",
+  "emergencyLoginCode": "Msimbo wa Kuingia kwa Dharura",
+  "emergency_numbers": "Hesabu za dharura",
+  "emergency_number_description": "Ongeza nambari za simu ili kupigia simu ya dharura",
+  "emotionDescription": "Mchanganyiko wa hisia mbalimbali za msingi, kama ilivyoelezwa na sauti ya watumiaji wakati wa sehemu ya sauti iliyochambuliwa.",
+  "emotions": "Mizozo ya Pamoja",
+  "emptypassword": "Tafadhali, taja nenosiri",
+  "EMPTY_ALLERGIES": "Bonyeza kifungo ili kuongeza ugonjwa kwenye rekodi yako ya matibabu",
+  "empty_dataset": "Hakuna data",
+  "EMPTY_DEPENDENCIES": "Bofya kwenye kifungo ili kuongeza utegemezi kwenye rekodi yako ya matibabu",
+  "EMPTY_DISEASE": "Bonyeza kifungo ili kuongeza ugonjwa kwenye rekodi yako ya matibabu",
+  "EMPTY_DOCUMENTS": "Bonyeza kifungo ili kuongeza hati kwenye rekodi yako ya matibabu",
+  "EMPTY_IMAGES": "Bofya kwenye kifungo ili kuongeza picha kwenye rekodi yako ya matibabu",
+  "EMPTY_IMMUNIZATION": "Bonyeza kifungo ili kuongeza chanjo kwenye rekodi yako ya matibabu",
+  "EMPTY_MEDICATION": "Bofya kwenye kifungo ili kuongeza dawa kwenye kumbukumbu yako ya matibabu",
+  "empty_otp": "Msimbo wa OTP usio sahihi",
+  "EMPTY_PROSTHESIS": "Bonyeza kwenye kifungo ili kuongeza kinga kwenye rekodi yako ya matibabu",
+  "EMPTY_TESTS": "Bofya kwenye kifungo ili kuongeza mtihani kwenye rekodi yako ya matibabu",
+  "enabled": "Imewezeshwa",
+  "endate": "Kwa",
+  "endcall": "Mwisho wito",
+  "endDate": "Tarehe ya mwisho",
+  "endhour": "Muda wa Mwisho",
+  "end_time": "Muda wa Mwisho",
+  "END_VIDEOCALL_Q1": "Una uhakika unataka kumaliza mashauriano bila kuanzisha videocall?",
+  "END_VISIT_BTN": "Mwisho wa ziara",
+  "error": "Hitilafu",
+  "error_call_timeout": "Wakati wa kufanya videocall imekwisha. Kufanya video ya video, kurudia tena mchakato.",
+  "ERROR_EMAIL_DUPPLICATE": "Inaonekana kama anwani hii ya barua pepe tayari imesajiliwa. Jaribu na mwingine.",
+  "error_price": "Tafadhali, taja ada",
+  "ERROR_SPECIFY_DAYS": "Tafadhali, taja angalau siku moja ya wiki",
+  "ERROR_SPECIFY_HOUR": "Tafadhali, taja wakati",
+  "ERROR_TITLE_NOTIFICATION": "Hitilafu",
+  "ERROR_TRACKX": "Weka kwenye Trackx",
+  "error_update": "Hitilafu ya Kuboresha Firmware",
+  "ERROR_USERNAME_DUPPLICATE": "Jina la mtumiaji hili limechukuliwa tayari, chagua mwingine",
+  "ERROR_WHITELIST": "Samahani, kifaa chako hakijawezeshwa kufanya videocall",
+  "esameobbligatorio": "Tafadhali, chagua mtihani",
+  "exam_name": "Jina la Mtihani",
+  "exercise": "Zoezi",
+  "exercisereminders": "Kumbukumbu Zangu za Mazoezi",
+  "existentassoc": "Mashirika yanayopo",
+  "existentrelation": "Uhusiano huu tayari upo",
+  "expandfordetails": "Panua kwa maelezo zaidi",
+  "EXP_MONTH": "Mwezi wa kumalizika",
+  "EXP_MONTH_REQUIRED": "Mwezi wa kumalizika unahitajika",
+  "EXP_YEAR": "Mwaka wa kumalizika",
+  "EXP_YEAR_REQUIRED": "Mwaka wa kumalizika unahitajika",
+  "e_prescribing": "E-Prescribing",
+  "F": "Kike",
+  "farmaci": "Madawa",
+  "farmaco": "Dawa",
+  "fat": "Mafuta",
+  "FATIGUE_INDEX": "Fatigue",
+  "FATIGUE_INDEX_DESCRIPTION": "Kazi, kazi na uzoefu unaosababishwa na kiwango cha uchovu. Uchovu mkubwa husababisha kwa urahisi ugumu wa misuli, maumivu ya kichwa, usingizi, uchovu, maumivu ya kiuno, na kusababisha urahisi mfumo wa neva, ugonjwa wa endocrine, na kusababisha magonjwa mengi ya muda mrefu na uchovu wa akili.",
+  "favoriteslist": "Orodha ya Mapendeleo Yangu",
+  "FAVORITES_NO": "Hujaongeza madaktari yoyote kwenye orodha yako ya favorites bado",
+  "FAVORITES_NO_PHARMACIES": "Hujaongeza pharmacy yoyote kwenye orodha yako ya favorites bado",
+  "FAVORITES_SECTION_SUBTITLE": "Bofya kila kipengee ili uone maelezo kamili",
+  "FAVORITES_SECTION_TITLE": "Madaktari wako unaowapenda",
+  "FAVORITES_TITLE": "Mapendeleo",
+  "favourite_pharmacy": "Pharmacies maarufu",
+  "FEE": "Dhibiti Ada",
+  "FEET": "miguu",
+  "female": "Kike",
+  "fileloaded": "Faili imebeba",
+  "fileloaded1": "Fle Imepakia Mafanikio",
+  "fileName": "Jina la faili",
+  "filenotfound": "Fanya haipatikani",
+  "file_upload_instruction": "Weka maagizo",
+  "filldate": "Tafadhali, chagua tarehe",
+  "filldoctor": "Tafadhali, chagua daktari",
+  "fillpeciality": "Tafadhali, chagua maalum",
+  "fillthebox": "Jaza sanduku",
+  "fill_indication": "Tafadhali, jaza uwanja wa dalili",
+  "fill_indication_for": "Tafadhali taja dalili kwa",
+  "fill_quantity": "Tafadhali, jaza shamba la wingi",
+  "fill_quantity_for": "Tafadhali taja kiasi cha",
+  "fill_your_doubt": "Tafadhali, kutoa maelezo katika sanduku hapo juu.",
+  "filter": "Futa",
+  "finddoctor": "Tafuta madaktari",
+  "findFarmacia": "Tafuta Pharmacy",
+  "findpatient": "Pata subira",
+  "findspcialist": "Pata mtaalamu",
+  "findStruttura": "Utafakari wa Uundo",
+  "finduser": "Tafuta mtumiaji",
+  "FIND_A_DOCTOR": "Unganisha na daktari",
+  "find_device": "Pata Kifaa",
+  "FIND_THE_BRACELET": "Pata Bracelet",
+  "fingerprint_btn": "Wezesha kuingia kwa kidole",
+  "fingerprint_hint": "Thibitisha alama za kidole ili uendelee",
+  "fingerprint_hint2": "Thibitisha alama za kidole ili uendelee",
+  "fingerprint_question": "Ungependa kuamsha kuthibitisha alama za kidole?",
+  "FIRMWARE_UPDATE": "Mwisho wa Firmware",
+  "FIRMWARE_UPDATED": "Firmware Imesasishwa",
+  "firstName": "Jina la kwanza",
+  "five_min": "Katika dakika 5",
+  "fixappointment": "Unataka kupanga ratiba hii?",
+  "forever": "Milele",
+  "forgotPassword": "Umesahau nenosiri yako?",
+  "forgot_password": "Umesahau nywila?",
+  "forma": "Weka",
+  "formafarmaco": "Fomu ya Dawa",
+  "formatError": "Bei lazima iwe thamani ya nambari.",
+  "found_devices": "Vifaa vilivyopatikana",
+  "FRIDAY": "Ijumaa",
+  "GENDER": "Jinsia",
+  "gender1": "Jinsia",
+  "general": "Mkuu",
+  "generalInfo": "Maelezo ya jumla",
+  "genericName": "Jina la Generic",
+  "GENERIC_ERROR": "OOps! Kitu fulani kilikuwa kibaya. Tafadhali jaribu tena baadae",
+  "geneticTest": "Mtihani wa Maumbile",
+  "geneticTestHeader2": "Kupitia vipimo vya maumbile unaweza kugundua zaidi kuhusu afya yako na kufanya jambo sahihi ili uwe na afya.",
+  "geneticTestHeader3": "Inafanyaje kazi",
+  "geneticTestProduct": "Profaili ya Lishe",
+  "geneticTestRequestBtn": "Uliza mtihani",
+  "geneticTestRequestSuccess": "Amri yako imethibitishwa. Utapokea kit moja kwa moja nyumbani",
+  "geneticTestSection1": "Je! Unataka sasa kama kile unachokula kinatosha mwili wako na kimetaboliki yako?",
+  "geneticTestSection2": "Je! Unataka kujua kama vyakula vyema vya afya husababisha mwili wako usiwe na hatari ya magonjwa ya kudumu?",
+  "geneticTestSection3": "Mtihani wa lishe utakuwezesha kujua kiungo kati ya DNA yako na chakula.",
+  "geneticTestSection4": "Ongeza hapa simu yako ya simu na anwani unayotaka kupata kit",
+  "geneticTestStep1": "1. Weka mtihani wako",
+  "geneticTestStep1Subtitle": "Panga utaratibu wako na programu na upokea kit moja kwa moja nyumbani.",
+  "geneticTestStep2Subtitle": "Kuchukua sampuli na kututumikia kwa huduma ya posta kwa kutumia envelope tutakupa.",
+  "geneticTestStep3": "3. Kupata matokeo",
+  "geneticTestStep3Subtitle": "Baada ya wiki moja utapokea ujumbe unaokujulisha kuwa matokeo ya mtihani wa maumbile yatapatikana kwenye Programu.",
+  "geneticTestTitle": "Mtihani wa Maumbile",
+  "GLUCOMETER": "Glucometer",
+  "glucosio": "Glucose",
+  "HAND_BRIGHTEN": "Inua mkono wako wa kuangaza",
+  "happiness": "Furaha",
+  "HDL": "HDL Cholesterol",
+  "hdl_cholesterol_desc": "Cholesterol ya kiwango cha juu-wiani lipoprotein (HDL) inajulikana kama cholesterol nzuri. Jedwali lifuatalo linaonyesha anuwai ya maadili.",
+  "healthtips": "Afya",
+  "HEALTH_INDEX": "Afya",
+  "HEALTH_INDEX_DESCRIPTION": "Ripoti ya afya ya HRV ni kupitia uchambuzi wa wastani wa kiwango cha moyo wa HR na kiwango cha moyo wa kutofautiana HRV na vigezo vingine, kulingana na kipimo halisi cha wakati wa matokeo ya Holter kuchambua vigezo vya afya ya mwili, index ya afya iliongezeka, inayowakilisha afya ya mwili bora; ripoti ya afya ilipungua, kwa niaba ya mwili Unahitaji kulipa kipaumbele maisha ya kila siku ya afya.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Moyo",
+  "HEART_INDEX_DESCRIPTION": "Kazi ya Magonjwa Watumiaji wanapima hali ya moyo wa mtu, na utendaji wao ni tofauti kutokana na ngazi zao tofauti za upendo kwa moyo na hali ya afya ya jumla. Kuendeleza maisha ya afya na tabia ya kula: mkakati wa kutosha wa moyo kuimarisha kuongeza kalsiamu ya sodiamu, kulinda mishipa ya damu, inaweza kuzuia kikamilifu tukio la ugonjwa wa moyo, ni kuimarisha mkakati wa kazi ya moyo.",
+  "height": "Urefu",
+  "height1": "Urefu unahitajika kwa uhesabu sahihi wa BMI",
+  "heightUnit": "Sehemu ya Urefu",
+  "hepaticFunction": "Kazi ya hepatic",
+  "hide": "Ficha",
+  "high1": "Juu",
+  "high_risk": "Hatari kubwa",
+  "history": "Historia ya ushauri",
+  "homepage": "Nyumbani",
+  "HOME_WARNING_MESSAGE": "Una uhakika unataka safari mbali na ukurasa huu? Mabadiliko yako yatapotea.",
+  "hormonalTest": "Mtihani wa Kazi ya Hormonal",
+  "hospDate": "Hosp.date",
+  "hospit": "Hospitali kwa",
+  "hospital": "Hospitali",
+  "hospitalization": "Hospitali",
+  "hour": "Saa",
+  "hours": "Masaa",
+  "HOURS_BANK_DONATE_BTN": "Msaidie",
+  "HOURS_BANK_DONATION": "Masaa ya sasa hutolewa:",
+  "HOURS_BANK_H": "Masaa ya Benki:",
+  "HOURS_BANK_SECTION_P1": "Afya ni kipaumbele cha juu katika SaluberMD na tunataka kutumikia watu wengi iwezekanavyo. Kupitia jukwaa yetu tunafanya iwezekanavyo kwa wale wanaohitaji kupata upatikanaji wa huduma za afya. Timu yetu ya ufikiaji ni nia ya kutoa nafasi za huduma za afya kwa mashirika, watu binafsi na familia zinazohitaji.",
+  "HOURS_BANK_SECTION_P2": "Bofya tu kiungo na masaa mingi unayotaka kuchangia na tutawaongeza kwenye benki yetu.",
+  "HOURS_BANK_SECTION_P3": "Tutawasiliana nawe kupitia programu ili ukomboe saa na unapopatikana tu bonyeza kukubali ili kuona wagonjwa.",
+  "HOURS_BANK_SECTION_TITLE": "Kujiunga nasi kwa kutoa zawadi ya huduma za afya!",
+  "HOURS_BANK_TITLE": "Masaa ya Benki",
+  "howto": "Jinsi ya",
+  "howto1": "Hifadhi zilizopo zinawekwa na mpira wa kijani",
+  "howto2": "Chagua kiini na mpira wa kijani na ubofye ili kupanua na kuchagua wakati. Unapokuwa tayari bonyeza alama ya penseli ili uone maelezo zaidi na kuchukua uteuzi",
+  "howToPrice": "Bei lazima iwe thamani ya nambari. Kwa zaidi ya thamani ya decimal mbili inaruhusiwa. Dot au komma inaweza kutumika kama watenganisho",
+  "hrv_buono": "Nzuri",
+  "hrv_eccellente": "Bora",
+  "hrv_generale": "Mkuu",
+  "hr_alta": "Zaidi ya 100",
+  "hr_bassa": "Chini ya 60",
+  "HR_DESCRIPTION": "Jedwali la kumbukumbu ya viwango vya moyo vya kupumzika kawaida",
+  "HR_INTERVAL": "HR Hatua Muda",
+  "hr_normale": "Kati ya 60 na 100",
+  "hsh": "Hospitali na Historia ya Upasuaji",
+  "IBAN": "IBAN",
+  "idx": "Nakala",
+  "image": "Picha",
+  "images": "Picha",
+  "immunization": "Chanjo",
+  "immunizationmenu": "Chanjo",
+  "importhealth": "Ingiza Takwimu za Afya",
+  "impossible_transfer": "Haiwezekani kufuta Simu",
+  "INCH": "Inchi",
+  "indexes": "Nakala",
+  "indication": "Dalili",
+  "INFO_BTN": "Maelezo",
+  "info_salvate": "Data imehifadhiwa kwa ufanisi",
+  "iniezione": "Injection",
+  "initiative": "Mpango",
+  "initiativeerror": "Tafadhali, chagua mpango mmoja",
+  "insert": "Ingiza",
+  "inserttext": "Ingiza maandishi hapa",
+  "insert_otp_code": "Ingiza msimbo hapa",
+  "internet_missing": "Hunaunganishwa na mtandao",
+  "invalidemail": "Anwani ya barua pepe isiyo sahihi",
+  "invoice": "Invoice",
+  "irregulartest": "Mtihani wa kawaida",
+  "kcal": "kcal",
+  "kg": "Kilo",
+  "KG_LABEL": "kilo",
+  "kydneyTests": "Uchunguzi wa kazi ya figo",
+  "labtesting": "Mtandao",
+  "LANGUAGE": "Lugha",
+  "LANGUAGE_TYPE": "Lugha",
+  "lastmeasure": "Hatua ya mwisho",
+  "lastName": "Jina la familia",
+  "lastPhysical": "Mwisho wa kimwili",
+  "lastSync": "Sambamba ya Mwisho",
+  "lastTimeOnline": "Wakati wa Mwisho Online",
+  "lastvisit": "Ziara ya mwisho",
+  "last_login_date": "Tarehe ya Mwisho ya Kuingia",
+  "last_time_taken": "Mara ya mwisho imechukuliwa",
+  "LDL": "Cholesterol ya LDL",
+  "ldl_cholesterol_desc": "LDL, au lipoprotein ya chini-wiani, ni cholesterol &#39;mbaya&#39;. Jedwali lifuatalo linaonyesha anuwai ya maadili",
+  "leggero": "Mwanga",
+  "LICENSE_NUMBER": "Nambari ya leseni",
+  "LIGHT_SLEEP_TIME": "Nuru Kulala",
+  "listcall": "Orodha ya videocall imefanywa",
+  "litri": "Vitabu",
+  "liverExam": "Mtihani wa Kazi ya ini",
+  "LIVE_ECG": "Kipimo kipya",
+  "live_ecg_downloading": "Inapakua ECG. Tafadhali subiri...",
+  "loadEcgList": "Inapakia orodha ya EKG ...",
+  "loading": "Inapakia data ...",
+  "loading1": "Inapakia ...",
+  "loading_list": "Inapakia orodha ...",
+  "loading_list_nutritionist": "Inapakia lishe ...",
+  "LOAD_INDEX": "Mzigo",
+  "LOAD_INDEX_DESCRIPTION": "Mkazo na uchovu, mkazo Kuzingatiwa kwa kina kwa mwili kubeba index ya mzigo, kutafakari juu ya mambo ya kimwili na ya kisaikolojia ya watu hubeba hali ya mzigo. Nje ya kijamii, maisha na ushindani na mambo mengine, lakini pia kwa hali yao ya kimwili na hali ya akili.",
+  "LOAD_ITEMS": "Inapakia ...",
+  "LOGGING_IN": "Ingia katika ...",
+  "LOGGING_OUT": "Kutoka ...",
+  "LOGIN_BTN": "Ingia",
+  "LOGIN_ERROR": "Jina la mtumiaji mbaya au nenosiri",
+  "Logout": "Ingia",
+  "logout1": "Ingia",
+  "LOGOUT_BTN": "Ingia",
+  "low1": "Chini",
+  "lunch": "Chakula cha mchana",
+  "lungtest": "Hebu tufanye mtihani wa mapafu",
+  "M": "Kiume",
+  "male": "Kiume",
+  "manageapp": "Dhibiti uteuzi",
+  "manageslot": "Dhibiti slot bure",
+  "MANAGE_CORX": "Dhibiti Corx",
+  "mandatoryDays": "Tafadhali, taja idadi ya siku",
+  "mandatoryfield": "Tafadhali, jaza mashamba yote ya lazima",
+  "map": "Ramani",
+  "max_file_size": "Saizi ya faili lazima iwe chini ya",
+  "meals": "Chakula",
+  "medicalconsultation": "Ushauri",
+  "medicalfile": "Picha",
+  "medicalform": "Aina za Matibabu",
+  "medicalforms": "Aina za Matibabu",
+  "medicalinfo": "Maelezo ya Matibabu",
+  "medicalrecord": "Rekodi ya Matibabu",
+  "medical_2option": "Mtazamo wa Pili wa Matibabu",
+  "MEDICAL_CERTIFICATE": "Cheti cha matibabu",
+  "MEDICAL_FILE_BTN": "Faili ya Matibabu",
+  "medication": "Dawa",
+  "medication_name": "Jina la dawa",
+  "medicinereminders": "Dawa yangu Wakumbusho",
+  "medio": "Kati",
+  "medium1": "Kati",
+  "message": "Ujumbe",
+  "messagesent": "Ujumbe umetumwa kwa ufanisi",
+  "metabolismTest": "Uchunguzi wa kimetaboliki",
+  "method": "Njia",
+  "METRIC": "Metriki",
+  "middedcall2": "Una wito usiojibiwa kutoka",
+  "minutes": "dakika",
+  "missedcall": "SaluberMd Imepoteza videocall",
+  "missedcall1": "Simu iliyopoteza",
+  "missedNotiAlert": "Una arifa ambazo umekosa.",
+  "misurazioni": "Kumbukumbu",
+  "misure": "Pima",
+  "mobile": "Rununu",
+  "mobile_required": "Tafadhali, ongeza nambari yako ya simu ili tuweze kukuwasiliana na kupanga mpangilio.",
+  "moderate_risk": "Hatari ya wastani",
+  "MONDAY": "Jumatatu",
+  "month": "Mwezi",
+  "mood": "Kikundi cha kihisia",
+  "moodDescription": "Kiashiria muhimu cha hali ya kihisia cha msemaji wakati wa sehemu ya sauti iliyochambuliwa. API inazalisha jumla ya vikundi 11 vya hisia kutoka kwa hasira, upweke na kujizuia kwa furaha na msisimko.",
+  "moreDays": "Siku zaidi",
+  "motivazione": "Sababu",
+  "MRGraph": "Dawa iliyochukuliwa historia",
+  "msgAppointment": "Uteuzi umeandaliwa kwa ufanisi. Utapata uteuzi wako katika sehemu ya faida ya concierge.",
+  "msgsurveysent": "Ufafanuzi uliotumwa kwa mafanikio",
+  "msg_call_reconnection": "Kujaribu kuunganisha tena ...",
+  "MSG_CALL_TRANSFERED": "Video ya video imehamishwa kwa ufanisi",
+  "MSG_CHOOSE_OPTION": "Tafadhali, chagua chaguo",
+  "MSG_CHOOSE_OPTION4": "Chagua chaguo",
+  "MSG_CHOOSE_OPTION5": "Eleza kifungua kinywa chako",
+  "MSG_CHOOSE_OPTION6": "Eleza chakula chako cha jioni",
+  "MSG_CHOOSE_OPTION7": "Eleza chakula chako cha mchana",
+  "MSG_CHOOSE_OPTION8": "Eleza nyoka zako",
+  "MSG_CHOOSE_OPTION9": "Tafadhali, jibu maswali yote",
+  "MSG_CHOOSE_OPTION_2": "Tafadhali, ingiza maelezo",
+  "MSG_CHOOSE_OPTION_3": "Chagua angalau chaguo moja",
+  "MSG_COMPLETE_PROFILE": "Ungependa kwenda sasa?",
+  "MSG_CONFIRM_EMAIL": "Tafadhali, thibitisha barua pepe yako",
+  "MSG_CONFIRM_EMAIL_TEXT": "Tulikutumia barua pepe kwa maelekezo ya jinsi ya kuthibitisha anwani yako ya barua pepe. Tafadhali angalia kikasha chako.",
+  "msg_connected": "Imeunganishwa kwa ufanisi",
+  "MSG_CONTACT_SUCCESS": "Asante kwa kuwasilisha kwako.",
+  "MSG_DOC_ENDED_CALL": "Daktari amekamilisha simu",
+  "MSG_DOC_WAITING_CALL": "Daktari amekatika, akisubiri kuunganisha tena",
+  "MSG_DONATION": "Thibitisha mchango wako?",
+  "MSG_DONATION_CONFIRM": "Asante kwa mchango wako",
+  "MSG_ERROR_FILL_BOXES": "Tafadhali jaza masanduku na maadili sahihi",
+  "MSG_FILL_ALL_BOXES": "Tafadhali, jaza masanduku yote",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Tafadhali fanya yote yafuatayo",
+  "MSG_FILL_BOXES": "Tafadhali jaza masanduku",
+  "MSG_FILL_BOXES_ALL": "Tafadhali jaza shamba zote",
+  "MSG_FILL_BOXES_PROFILE": "Tafadhali, jaza masanduku yote yaliyowekwa na nyota",
+  "MSG_GENERIC_ERROR": "Tafadhali angalia uhusiano wako wa intaneti ili ujaribu tena.",
+  "MSG_GENERIC_FORM_ERROR": "Tafadhali tengeneza kosa ili kuendelea",
+  "MSG_LOGIN_ERROR": "Imeshindikana kujiandikisha kuingia. Tafadhali angalia sifa zako na hakikisha umeunganishwa kwenye mtandao.",
+  "MSG_LOGIN_ERROR_LOCKED": "Ingia imeshindwa: akaunti yako ni ya muda imefungwa. Tafadhali jaribu tena.",
+  "MSG_MANDATORY_OPTION": "Wewey lazima uidhinishe daktari kuona Faili ya Matibabu",
+  "MSG_NO_DOCTORS_FOUND": "Tunaomba, lakini hakuna madaktari wamepatikana. Bonyeza Tafuta daktari ili ujaribu tena",
+  "MSG_PATIENT_CANCELED_CALL": "Mgonjwa amekataza simu.",
+  "MSG_PATIENT_ENDED_CALL": "Mgonjwa amekamilisha simu",
+  "MSG_PATIENT_WAITING_CALL": "Mgonjwa amekatwa, akisubiri kuunganishwa tena",
+  "MSG_POST_CALL_CANCEL": "Ulimaliza ziara kabla ya kuanza video ya video!",
+  "MSG_POST_CALL_DOCTOR": "Muhtasari ulikutuma utarudi kwenye ukurasa wa nyumbani",
+  "MSG_POST_CALL_PATIENT": "Asante kwa kutumia SaluberMD. Utapokea barua pepe ya kufuatilia. Kuangalia maelezo kuhusu ziara yako tafadhali tembelea Historia Yangu ya Historia ya Kutembelea",
+  "msg_reconnection_error": "Kifaa hiki kimeunganishwa. Tafadhali, tambua kifaa",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Asante .... mtu atakuwasiliana na wewe",
+  "MSG_REGISTRATION_SUCCESS": "Usajili wako ulifanikiwa",
+  "msg_req_videocall1": "inapatikana kwa videocall katika:",
+  "msg_req_videocall2": "Video ya video ni tayari kuanza. Bofya kwenye arifa hii ili kuanzisha video ya video",
+  "msg_req_videocall3": "inapatikana kwa video ya sasa ya video. Bofya kwenye arifa hii ili kuanzisha video ya video",
+  "MSG_RESET_REQUEST_ERROR": "Mtumiaji anaye jina la mtumiaji au anwani ya barua pepe haipo.",
+  "MSG_RESET_REQUEST_SUCCESS": "Utapokea hivi karibuni barua pepe iliyo na kiungo cha kuweka upya nenosiri.",
+  "MSG_RESUME_CALL": "Sasa una simu, ungependa kuendelea tena?",
+  "MSG_SCHOOL_MISSING": "Ingiza Shule",
+  "MSG_SELECT_TIMEZONE": "Chagua wakati wa wakati",
+  "MSG_SIGNATURE_MISSING": "Tafadhali jaza saini yako, vinginevyo huwezi kutuma maelezo yoyote.",
+  "MSG_THANKING": "Asante kwa kuwasilisha kwako.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Uunganisho uliopotea. Hii inaweza kuwa kutokana na uhusiano wako wa intaneti",
+  "MSG_WELCOME_BACK": "Karibu tena",
+  "MSG_YEAR_PRACTISE": "Weka Mwaka wa Mazoezi",
+  "muscles": "Misuli",
+  "myappointment": "Uteuzi wangu",
+  "MYFILE_NOFILE": "Huna faili bado",
+  "MYFILE_SECTION": "Faili zako",
+  "MYFILE_SUBTITLE": "Bofya kwenye kila kitu ili uone maudhui ya faili",
+  "MYFILE_TITLE": "Faili Zangu",
+  "myprofile": "Profaili yangu",
+  "myreminders": "Kumbukumbu Zangu",
+  "MY_TICKETS": "Tikiti zako",
+  "M_SCHOOL": "Shule ya Matibabu",
+  "N": "Hapana",
+  "name": "Jina",
+  "negative": "Hasi",
+  "nervous": "Hofu",
+  "nessun_appuntamento": "Hakuna uteuzi wa zamani",
+  "NETWORK_CHECK_MSG": "Bandwidth yako ni ndogo sana. Kucheza maudhui na bandwidth chini itasababisha video kusimamisha.",
+  "NETWORK_CHECK_TITLE": "Mtihani wa Quality Quality",
+  "NETWORK_ERROR": "Hitilafu ya Kuunganisha Mtandao. Jaribu tena baadae",
+  "neutral": "Neutral",
+  "newappointment": "Uteuzi mpya kutoka",
+  "newass": "Ongeza ushirika mpya",
+  "NEWPWD_CONFIRM": "Lebo imebadilishwa kwa ufanisi Tafadhali ingia tena.",
+  "NEWPWD_CONFIRM2": "Nenosiri limebadilishwa kwa ufanisi",
+  "NEWPWD_ERROR": "Nenosiri jipya hailingani.",
+  "newtest": "Bonyeza kifungo zaidi ili kufanya mtihani mpya.",
+  "NEW_PWD": "Nenosiri mpya",
+  "new_ticket": "Tikiti mpya",
+  "NEXT": "Ifuatayo",
+  "no": "Hapana",
+  "noAlarm": "Hakuna kuweka kengele",
+  "noallergies": "Hakuna mihadhara yoyote iliyoorodheshwa.",
+  "noapatient": "Hakuna mgonjwa aliyepatikana",
+  "noappointment": "Hakuna amri iliyopangwa",
+  "noappointments": "Hakuna tarehe iliyopo na daktari huyu",
+  "noappointments1": "Hakuna tarehe zinazopatikana na mchungaji huyu",
+  "noAppoPat": "Hakuna miadi ya kuwa orodha",
+  "noarticles": "Hakuna makala ya lishe",
+  "noassociatedpatient": "Huna mgonjwa aliyehusishwa bado",
+  "noattachment": "Tafadhali, chagua kiambatisho",
+  "noattachment1": "Hakuna Kiambatisho",
+  "noavailableoption": "Hakuna chaguo inapatikana",
+  "nocomment": "Hakuna maoni / mapendekezo",
+  "noconsulenze": "Hakuna ziara zilizofanyika",
+  "nocorxfound": "Hakuna CORX iliyopatikana",
+  "nodata": "Hakuna data",
+  "nodependency": "Hakuna mateteo yanayoorodheshwa.",
+  "nodesease": "Hakuna magonjwa yaliyotajwa.",
+  "nodevice": "Hakuna kifaa kilichopatikana, tafadhali jaribu tena",
+  "nodoctor": "Hakuna madaktari waliopatikana",
+  "nodoctors": "Hakuna madaktari wanaopatikana",
+  "noDocuments": "Hakuna nyaraka zilizopakiwa",
+  "nodrugselected": "Umechagua hakuna dawa",
+  "noecg": "Hakuna ECG iliyoorodheshwa",
+  "noexam": "Hakuna mtihani wa kuonyesha",
+  "nofiles": "Hakuna faili zilizopakiwa na mgonjwa",
+  "noHistory": "Hakuna mashauriano kwa sasa",
+  "nohsh": "Hakuna hospitali zilizoorodheshwa.",
+  "noimages": "Hakuna kiambatisho kwa wakati huu",
+  "noimmunization": "Hakuna chanjo zilizoorodheshwa.",
+  "nolabtest": "Hakuna vipimo vya maabara vilivyopatikana",
+  "nomedication": "Hakuna dawa zilizotajwa.",
+  "nomisure": "Hakuna kipimo",
+  "nonterminata": "Piga simu bila kufanikiwa",
+  "nonutritionist": "Hakuna Nutritionist inapatikana",
+  "nonuvoair": "Hakuna kifaa kilichopatikana",
+  "nopharmacy": "Hakuna maduka ya dawa waliopatikana",
+  "noprescription": "Hakuna maelezo kwa wakati huu",
+  "noprothesis": "Hakuna prosthesis au Misaada ya Matibabu iliyoorodheshwa.",
+  "noreferrals": "Hakuna marejeleo yaliyoorodheshwa",
+  "noreminders": "Huna mawaidha kwa sasa",
+  "noresults": "Hakuna matokeo yaliyopatikana",
+  "normale": "Kawaida",
+  "normalrange": "Mwelekeo wa kawaida",
+  "normalWeight": "Uzito wa kawaida",
+  "nosintomi": "Hakuna dalili iliyochaguliwa",
+  "nospecialist": "Hakuna wataalamu",
+  "note": "Vidokezo",
+  "notests": "Hakuna majaribio yasiyo ya kawaida yameorodheshwa.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Bofya hapa ili kumaliza kukamilisha faili yako ya matibabu",
+  "NOTIFICATIONS_SECTION": "Arifa zako",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Pata ushauri wa bure 1 au simu ya tathmini baada ya kukamilisha faili yako ya matibabu.",
+  "NOTIFICATIONS_SETTINGS": "Weka Arifa",
+  "NOTIFICATIONS_TITLE": "Arifa",
+  "notification_setting": "Chagua kutoka kwa wich jamii unataka kupokea arifa",
+  "notimage": "Faili sio picha: BMP, GIF, JPG na PNG pekee zinaruhusiwa",
+  "notNow": "Sio kwa sasa",
+  "notnow_btn": "Sio kwa sasa",
+  "nouser": "Hakuna mtumiaji aliyepatikana",
+  "novantad": "Siku 90 zilizopita",
+  "novideocall": "Hakuna videocall iliyopatikana",
+  "novisit": "Huna ziara za mgonjwa bado",
+  "noWellnessData": "Hakuna Data Mpya ya Ustawi",
+  "no_certificate": "Hakuna cheti cha kuorodheshwa",
+  "no_chiosc_data": "Hakuna mtihani wa maabara wa kutazama",
+  "NO_DATA": "Hakuna data",
+  "no_doctor_answer1": "Hakuna madaktari wanaopatikana kwa sasa.",
+  "no_doctor_answer2": "Unaweza kuchukua miadi kwa kubonyeza kifungo chini.",
+  "NO_GENETIC_TEST_REQUESTS": "Haujauliza jaribio lolote la maumbile",
+  "NO_MSG": "Hakuna ujumbe uliotumwa",
+  "no_notifications": "Hauna arifa",
+  "no_prescription_download": "Hakuna dawa inayohusishwa na mashauriano haya",
+  "no_pull_answer": "Hakuna daktari anayepatikana sasa hivi.",
+  "no_referral_download": "Hakuna rufaa inayohusiana na ziara hii",
+  "NO_SECOND_OP_REQUESTS": "Huna ombi la Huduma ya Pili ya Maoni",
+  "no_specialization": "hakuna_specialization",
+  "no_specialization_found": "Hakuna ujuzi uliopatikana",
+  "NO_TICKETS_SENT": "Hakuna tikiti zilizotumwa",
+  "NO_USER_FOUND": "Jina la mtumiaji au Barua pepe haipatikani",
+  "NPI": "NPI",
+  "ns": "Mfumo wa neva",
+  "numberNotSaved": "Hitilafu wakati wa kuhifadhi namba",
+  "numberSaved": "Idadi Imehifadhiwa kwa Ufanisi",
+  "nuovoair_connected": "Imeunganishwa",
+  "nuovoair_disconnected": "Imekataliwa",
+  "nutriPen": "Ombi la kusubiri",
+  "nutriRev": "Daftari ya marekebisho",
+  "nutrition": "lishe",
+  "nutritionist": "Ongea na nutrionist",
+  "NUTRITIONIST_Q1": "Malengo ya Msingi: (Angalia Maombi Yote)",
+  "NUTRITIONIST_Q10": "Je! Unaonekana kuwa hasira, unaoelekea mwanga au dhaifu ikiwa haujawa?",
+  "NUTRITIONIST_Q11": "Regimen ya sasa ya Zoezi: (Cardio, Upinzani, nk)",
+  "NUTRITIONIST_Q12": "Je, wewe ni moshi ?: (Kama ndiyo ndiyo, mara ngapi na ngapi?)",
+  "NUTRITIONIST_Q13": "Je! Unywa Pombe ?: (Kama ndiyo ndiyo mara ngapi na ngapi?)",
+  "NUTRITIONIST_Q14": "Je! Unywa Caféine ?: (Kama ndiyo ndiyo mara ngapi na ngapi?)",
+  "NUTRITIONIST_Q15": "Tarehe ya Mwisho Kimwili:",
+  "NUTRITIONIST_Q16": "Umeagizwa mara ngapi antibiotics katika miaka 2 iliyopita:",
+  "NUTRITIONIST_Q16_BIS": "Ikiwa ndivyo, Ni ipi na mara ngapi, (Tafadhali kuwa maalum iwezekanavyo.)",
+  "NUTRITIONIST_Q17": "Je, unachukua dawa? (OTC au Dawa ya Dawa?) Ikiwa ndivyo, ni zipi na unachukua virutubisho? Ikiwa ndivyo, mara ngapi, (Tafadhali kuwa maalum iwezekanavyo.)",
+  "NUTRITIONIST_Q18": "Je! Umezuiwa au kuvimbiwa zaidi ya siku 1-2 kwa wiki?",
+  "NUTRITIONIST_Q19": "Je, una matatizo katika maeneo yafuatayo? Ikiwa ndio, tafadhali soma maswala yako kwa undani katika nafasi zilizotolewa.",
+  "NUTRITIONIST_Q2": "Takribani chakula cha aina gani unachokula siku? (Chagua moja)",
+  "NUTRITIONIST_Q3": "Je! Kifungua kinywa chako cha Kinywa cha kawaida kinatokana na nini, na wakati gani:",
+  "NUTRITIONIST_Q4": "Je, mchanganyiko wako wa Chakula cha Mchana unafanyika nini, na wakati gani:",
+  "NUTRITIONIST_Q5": "Je, chakula chako cha Chakula cha Chakula cha kawaida kinafanana na nini, na wakati gani:",
+  "NUTRITIONIST_Q6": "Je! Je, vita vyako vya kawaida vinajumuisha, na wakati gani (s):",
+  "NUTRITIONIST_Q7": "Je! Unakula Mafuta?",
+  "NUTRITIONIST_Q8": "Je, ni vyakula gani unavyopenda kula na mara ngapi:",
+  "NUTRITIONIST_Q9": "Je! Una chakula chochote cha chakula, vikwazo au unyeti:",
+  "NUTRITIONIST_SUB1": "Kupungua uzito",
+  "NUTRITIONIST_SUB10": "Nausea / Vomiting",
+  "NUTRITIONIST_SUB11": "Maumivu ya tumbo",
+  "NUTRITIONIST_SUB2": "Kupima uzito",
+  "NUTRITIONIST_SUB3": "Nishati / uchovu",
+  "NUTRITIONIST_SUB4": "Kulala Bora",
+  "NUTRITIONIST_SUB5": "Masuala ya Digestion",
+  "NUTRITIONIST_SUB6": "Kudumu",
+  "NUTRITIONIST_SUB7": "Kuhara",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Kuzuia / Gesi",
+  "nutrition_mail": "Imewekwa na ripoti ya lishe",
+  "nutrition_mail2": "Mkulima hukutumia faili",
+  "nutrition_questionnaire": "swali la somo la lishe",
+  "nvisit": "Idadi ya videocalls kufanyika",
+  "obesity1": "Yote",
+  "obesity2": "Kwa kiasi kikubwa",
+  "obesity3": "Kwa kiasi kikubwa",
+  "OFFICE_ADDRESS": "Anwani ya ofisi",
+  "offline": "Hifadhi ya mbali",
+  "OFFLINE_DOCTOR_MSG": "Daktari anaonekana kuwa nje ya mkondo, tafadhali jaribu tena baadaye",
+  "OLDPWD_ERROR": "Nywila mpya inafanana na nenosiri la zamani.",
+  "OLD_PASSWORD_WRONG": "Nywila ya zamani ni sahihi",
+  "OLD_PWD": "Namba ya siri ya zamani",
+  "oneDay": "Siku moja",
+  "one_min": "Katika dakika 1",
+  "online": "Online",
+  "onlinedoctors": "Online Madaktari",
+  "openimage": "Bofya kwenye picha ili kufungua skrini kamili",
+  "open_ticket": "Fungua Tiketi",
+  "orale": "Kwa Mouth",
+  "other": "Nyingine",
+  "othercbc": "Mitihani mingine ya CBC",
+  "OTHER_PLACEHOLDER": "Tafadhali chagua maalum yako",
+  "otoscopy": "Otoscopy",
+  "otp_sent_msg": "Tumekutumia nambari ya ukaguzi kwenye nambari yako ya simu",
+  "OUR_PRODUCTS_SECTION": "Vifaa vyetu vinatoa data halisi ya afya na ustawi wa muda ili kukusaidia kuweka wimbo wa afya yako.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Pima afya yako ya mapafu kwa sekunde na spirometer mtaalamu",
+  "OUR_PRODUCTS_SECTION_P1": "Teknolojia yenye kuvika yenye uwezo ambayo hutoa data ya muda halisi ya afya pamoja na kazi za ustawi",
+  "OUR_PRODUCTS_SECTION_P2": "Faida ya Fitness / Wellness",
+  "OUR_PRODUCTS_SECTION_P3": "Kiti chako cha uchunguzi wa nyumbani kwa familia nzima.",
+  "OUR_PRODUCTS_SECTION_P4": "Vipengele",
+  "OUR_PRODUCTS_SECTION_P5": "Vifaa vyote viliundwa ili kuingiliana na programu ili kutoa uzoefu bora wa afya. Matokeo yako yatahifadhiwa moja kwa moja kwenye programu.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Pima shinikizo lako la boold kwa sekunde na sphymometer ya mtaalamu",
+  "OUR_PRODUCTS_SECTION_SCALX": "Pima uzito wako kwa sekunde na kiwango cha kitaaluma",
+  "OUR_PRODUCTS_TITLE": "Bidhaa zetu",
+  "overeatFoods": "Chakula ambacho kinaathiriwa",
+  "overeating": "Overeating tendence",
+  "overweight": "Kupunguza uzito",
+  "pa": "Msaidizi wa dawa",
+  "PASSWORD": "Nenosiri",
+  "passwordchanged": "Nywila imebadilishwa kwa ufanisi",
+  "passwordExpiringMessage": "Nenosiri lako litaondoa hivi karibuni. Tafadhali subadili sasa",
+  "passwordExpiringTitle": "Nenosiri linatisha",
+  "PATIENT": "Mgonjwa",
+  "patientAllergy": "Dawa",
+  "patientGeneticRequests": "Maombi ya Mtihani wa maumbile",
+  "patientinfo": "Maelezo ya mgonjwa",
+  "patientlist": "Orodha ya wagonjwa",
+  "patientmanagement": "Usimamizi wa wagonjwa",
+  "patientProtesi": "Prosthesis",
+  "PATIENTS_NO_P": "Kwa sasa hauna uteuzi wa wagonjwa uliopangwa",
+  "PATIENTS_SECTION": "Maagizo yako",
+  "PATIENTS_SECTION_SUBTITLE": "Bofya kila kipengee ili uone maelezo kamili",
+  "PATIENTS_TITLE": "Wagonjwa",
+  "patientupdate": "Mgonjwa",
+  "patientvisit": "Historia ya kutembea kwa subira",
+  "PATIENT_PROFILE_OPT1": "Wasifu wangu",
+  "PATIENT_PROFILE_OPT11": "Mapendeleo Yangu Madaktari",
+  "PATIENT_PROFILE_OPT12": "Ongeza Pharmacy favorite",
+  "PATIENT_PROFILE_OPT2": "Faili yangu ya Matibabu",
+  "PATIENT_PROFILE_OPT3": "Historia yangu ya Ziara",
+  "PATIENT_PROFILE_OPT4": "Mapendeleo Yangu",
+  "PATIENT_PROFILE_OPT5": "Faili Zangu",
+  "PATIENT_PROFILE_OPT6": "Arifa zangu",
+  "PATIENT_PROFILE_OPT7": "EKG Upload",
+  "PATIENT_PROFILE_OPT8": "Takwimu za Kifaa cha Matibabu",
+  "PATIENT_PROFILE_OPT9": "Mapenzi yangu Maduka ya dawa",
+  "PATIENT_S1": "Mgonjwa",
+  "PATIENT_S2": "Kuzungumza juu",
+  "PATIENT_S3": "Maelezo ya mgonjwa",
+  "PATIENT_S4": "Somo la ziara",
+  "PATIENT_S5": "Magonjwa",
+  "PATIENT_S6": "Dawa",
+  "PATIENT_S7": "Madawa",
+  "PATIENT_S8": "Nyaraka zilizounganishwa",
+  "PATIENT_S9": "Dalili?",
+  "PATIENT_SUMMARY": "Muhtasari wa habari za mgonjwa",
+  "patologia": "Patholojia",
+  "payment": "Malipo",
+  "PAYMENT_DETAILS": "Maelezo ya Malipo",
+  "PAYMENT_MESSAGE_1": "Utatangazwa kwa kiwango cha",
+  "PAYMENT_MESSAGE_2": "Utatozwa mwisho wa videocall",
+  "PAYMENT_SECTION1": "Chagua kadi kutoka kwenye orodha",
+  "PAYMENT_SECTION2": "Weka maadili ya kadi ya mkopo",
+  "PAYMENT_SUCCESS": "Malipo ya Kufanikiwa!",
+  "PAYMENT_SUCCESSFUL": "Tumewaidhinisha malipo kwa ufanisi",
+  "PAYMENT_UNSUCCESSFUL": "Malipo kabla ya idhini ya kushindwa. Angalia info info card yako au uulize benki yako.",
+  "paziente_rimosso": "Hali ya mgonjwa imebadilishwa kwa mafanikio",
+  "paziente_salvato": "Mgonjwa amesasishwa kwa ufanisi",
+  "pdf_download_error": "Haiwezi kupakua pdf. Tafadhali jaribu tena baadae",
+  "pdf_file_error": "Faili za pdf tu ndizo zinazokubaliwa",
+  "period": "Kipindi",
+  "PERIODIC_HEART_RATE": "Kiwango cha Moyo cha mara kwa mara",
+  "personal": "Binafsi",
+  "personalCare": "Utunzaji wa Kibinafsi",
+  "personalinfo": "Maelezo ya kibinafsi",
+  "PER_MIN": "/ dakika",
+  "pharmacies": "Maduka ya dawa",
+  "PHONE": "Nambari ya simu",
+  "phone1": "Simu",
+  "pills": "Pills",
+  "PILLS_DATE_ERROR": "Tarehe ya kuanza ni baada ya tarehe ya mwisho",
+  "pill_reminder_message": "Ni wakati wa kuchukua dawa zako",
+  "placeholder": "jina la mtumiaji, barua pepe au jina",
+  "placeOfBirth": "Mahali Ya Kuzaliwa",
+  "place_birth": "Mahali ya kuzaliwa",
+  "platform": "Jukwaa",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Idadi ya Sera",
+  "positive": "Chanya",
+  "POSTCALL_DOCTOR_TITLE": "Muhtasari wa ziara",
+  "POSTCALL_PATIENT_TITLE": "Tafadhali, kiwango cha uzoefu wako",
+  "POUNDS": "pauni",
+  "PRACTICE_LENGTH": "Urefu katika mazoezi",
+  "prenota": "Kitabu sasa",
+  "prenotatest": "Inahitaji miadi",
+  "preobesity": "Kabla ya fetma",
+  "prescription": "Dawa",
+  "prescriptiondiscounts": "Punguzo la Dawa",
+  "PRESCRIPTIONS": "Maagizo",
+  "prescriptions_sent": "Maelezo yaliyotumwa",
+  "prescription_mail": "Imewekwa na dawa yako",
+  "prescription_mail2": "Asante kwa kutumia SaluberMD",
+  "prescription_notification": "Mtumiaji mpendwa, tunawajulisha kwamba dawa yako sasa inapatikana chini ya sehemu ya historia ya mstari / mkutano wa programu",
+  "prescription_pharmacy": "Chagua pharmacy kutuma dawa",
+  "prescription_preview": "Hati ya awali ya usajili",
+  "prescription_sent": "Dawa imetumwa",
+  "PRESCRIPTION_SENT_EMAIL": "Dawa yako imetumwa kwa barua pepe yako ...",
+  "prescription_subject": "Dawa yako",
+  "pressbutton": "Bonyeza kifungo cha jozi kwenye kifaa na bomba Tafuta Kifaa",
+  "pressbuttonpresx": "Waandishi wa habari na ushikilie kitufe cha jozi nyuma ya kifaa ili uanzishe uunganisho na piga kifaa cha kupatikana kwenye kitufe",
+  "pressbuttonscalx": "Waandishi wa habari na ushikilie kitufe cha jozi nyuma ya kifaa ili uanzishe uunganisho na piga kifaa cha kupatikana kwenye kitufe",
+  "pressure_index1": "shinikizo_index1",
+  "PRESX": "Shinikizo la damu",
+  "PRESX_PROD": "PRESX",
+  "previous": "Kabla",
+  "pre_period": "Kipindi cha Dawa",
+  "price": "Bei",
+  "price_per_visit": "Ada kwa kila ziara",
+  "PRICING_SECTION1_P1": "SaluberMD ni nia ya kutoa huduma nzuri, huduma bora kwa bei nafuu bila ada za siri au mashtaka.",
+  "PRICING_SECTION1_P2": "SaluberMD hutoa huduma popote na wakati wowote unahitaji kwa njia ya kutembelea video na daktari aliye kuthibitishwa. Madaktari wetu wanaweza kujadili, kuchunguza, na kusikiliza kusikia masuala yako au tu kushughulikia maswali ya matibabu na wasiwasi wakati wa simu ya video.",
+  "PRICING_SECTION1_P3": "Kwa Medicfile yetu ya kipekee unaweza kumpa daktari wako upatikanaji wa historia yako ya matibabu, picha zako na faili ili kuwasaidia kutoa mpango wa matibabu bora zaidi.",
+  "PRICING_SECTION1_TITLE": "kwa ziara",
+  "PRICING_TITLE": "Bei",
+  "primaryConcern": "Maswala ya msingi",
+  "primaryMood": "Msingi Msingi",
+  "print": "Chapisha",
+  "priority": "Kipaumbele",
+  "PRIVACY_POLICY_TITLE": "Sera ya faragha",
+  "problems": "matatizo",
+  "PROCEED_PAYMENT": "Endelea na malipo",
+  "PROFESSIONAL_TITLE": "Title Professional",
+  "PROFILE_SECTION2": "Maelezo ya Mawasiliano",
+  "protesi": "Prosthesis na Misaada ya Matibabu",
+  "protesiobbligatorio": "Tafadhali, chagua aina ya prosthesis",
+  "prov": "Mfano",
+  "publicAppUrl": "Url yako ya umma kwa miadi ni:",
+  "pulldown": "Piga chini ili urejeshe",
+  "pull_request_processed": "Asante, Tumepeleka upatikanaji wako kwa mgonjwa",
+  "PWD_NOTMATCH": "Nywila hazilingani",
+  "P_P_Error": "Lazima ukubali sera ya faragha",
+  "QUALITY_INDEX": "Ubora",
+  "QUALITY_INDEX_DESCRIPTION": "Fitness kimwili ni ngazi ya ujasiri na matatizo ya akili walikutana katika uso wa uwezo wa kukabiliana na kushughulikia hali hiyo. Kiashiria cha fitness kimwili kinaonyesha mwili wa binadamu kukabiliana na mabadiliko ya mazingira na kusisitiza, kushika na kurejesha uwezo wa afya. Fitness kimwili mara nyingi umeonyesha katika uwezekano wa maisha ya watu, kujifunza, na kazi, lakini pia kwa kawaida katika zoezi la kimwili. Mbinu ya kimwili ya mtu ni kuhusiana na urithi lakini ni karibu zaidi kuhusiana na kupata lishe na mazoezi ya kimwili. Kupitia mbinu sahihi na zoezi sahihi, anaweza kuboresha fitness yake ya kimwili katika nyanja zote.",
+  "quantity": "Wingi",
+  "quesito": "Wasiwasi",
+  "QUESTIONS_SECTION_TITLE": "Pata ushauri wa bure 1 au simu ya tathmini baada ya kukamilisha faili yako ya matibabu.",
+  "QUESTIONS_TITLE": "Maswali",
+  "quindici": "Kipimo cha mwisho cha 15",
+  "ratio": "Uwiano",
+  "reccomendation": "Mapokezi",
+  "reccomendations": "Mapendekezo",
+  "recommendation": "Mapendekezo",
+  "RECOMMENDATIONS": "Mapendekezo",
+  "RECOMMEND_SECTION_P1": "Katika SaluberMD tunajitahidi kufikia mahitaji ya huduma bora za afya duniani kote kwa kuwapa wateja wetu upatikanaji wa kundi la Waganga.",
+  "RECOMMEND_SECTION_P2": "Sisi daima tunatafuta ubora wa Madaktari kuongeza kwenye timu yetu nzuri. Kama mwanachama wa timu yetu tunaheshimu na tunathamini uhamisho wako.",
+  "RECOMMEND_SECTION_P3": "Tafadhali jaza fomu hapa chini ili ureje Mganga kwa SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Pendekeza Mshirika",
+  "RECOMMEND_TITLE": "Pendekeza",
+  "record_aggiornato": "Rekodi ya ufanisi",
+  "record_aggiunto": "Rekodi ya mafanikio",
+  "record_inserito": "Imeongezwa kwa ufanisi",
+  "record_rimosso": "Rekodi ya mafanikio imefutwa",
+  "REFERRAL": "Rufaa",
+  "REFERRALS": "Marejeleo",
+  "referrals_sent": "Referrals kutumwa",
+  "referral_mail": "Imetajwa kuna rufaa yako.",
+  "referral_sent": "Rufaa ilitumwa",
+  "refundrequestsent": "Ombi lako limetumwa",
+  "register": "Jisajili",
+  "register_report": "Usajili wa Watumiaji",
+  "registration_date": "Tarehe ya Usajili",
+  "REGISTRATION_HEADER_DOCTOR": "Jiunge na timu ya MD ya Saluber",
+  "REGISTRATION_HEADER_PATIENT": "Tafadhali jaza fomu hapa chini na waandishi wa rejista",
+  "releaserefresh": "Tolewa ili urejeshe",
+  "remarks": "Maelezo",
+  "removedevice": "Unataka kuondoa kifaa hiki?",
+  "removefavorite": "Ondoa kutoka kwa vipendwa?",
+  "remove_generic": "Je, unataka kuiondoa?",
+  "renalFunction": "Kazi ya Jalada",
+  "reoccurring": "Inaendelea tena",
+  "repeat_email": "Thibitisha Barua pepe",
+  "report": "Faili ya kliniki binafsi: Ripoti kamili ya data",
+  "report1": "Faili ya kliniki ya kibinafsi:",
+  "report2": "Ripoti",
+  "reportvisite": "Ripoti Vidokezo",
+  "report_date": "Tarehe ya Ripoti",
+  "requestdate": "Tarehe ya Ombi",
+  "request_already_taken": "Ombi hili limesimwa tayari na daktari mwingine.",
+  "REQUEST_ERROR": "Kulikuwa na hitilafu wakati wa kusindika maombi yako. Angalia uhusiano wako wa mtandao au ujaribu tena baadaye.",
+  "request_sent": "Msaidizi wako ametumwa kwa ufanisi kwa backoffice",
+  "required": "Shamba hii inahitajika.",
+  "required_field": "Iliyosajiliwa Inahitajika",
+  "RESEND_EMAIL": "Tuma msimbo wa uthibitisho",
+  "resetCorxFactory": "Una uhakika unataka kurekebisha Corx?",
+  "RESETPWD_BTN": "Weka upya nenosiri",
+  "RESET_PASSWORD": "Ingiza barua pepe au jina la mtumiaji linalotumika wakati wa Kujiandikisha",
+  "respiratory": "Ufikiaji",
+  "RESPIRATORY_RATE": "Kiwango cha kupumua",
+  "RESTORE_FACTORY_SETTINGS": "Rejesha Mipangilio ya Kiwanda",
+  "resultfound": "rekodi iliyopatikana",
+  "results": "Matokeo",
+  "ricettario": "Nchi",
+  "richiediDrug": "Omba Dawa",
+  "richiestaAppuntamento": "Ombi la Uteuzi",
+  "richiestaRimborso": "Ombi la Marejesho",
+  "ricovero": "Hospitali",
+  "riepilogo": "Muhtasari",
+  "rightHanded": "Iliyosaidiwa",
+  "rimborso": "Rejea",
+  "ripetibile": "Inaweza kurudiwa kwa (mara)",
+  "rr_desc": "Kiwango cha kupumua ni kiwango ambacho kupumua hutokea. Kiwango cha kawaida cha kupumua kwa mtu mzima wakati wa kupumzika ni pumzi 12 hadi 20 kwa dakika. Kiwango cha kupumua chini ya 12 au zaidi ya 25 pumzi kwa dakika wakati kupumzika inachukuliwa kuwa isiyo ya kawaida",
+  "rs": "Mfumo wa Kupumua",
+  "RUNNING_CALL_OPT1": "Rejea",
+  "RUNNING_CALL_OPT2": "Mwisho Wito",
+  "RUNNING_CALL_TITLE": "Simu ya mbio",
+  "sa": "Uthibitishaji wenye nguvu",
+  "sadness": "Uzuni",
+  "sai": "Nambari ya shughuli",
+  "sai_desc": "SAI inategemea kiwango cha moyo wako. Ni metali rahisi ambayo hufuata majibu ya mwili kwa shughuli za kimwili - zaidi ya hatua tu. Tofauti na kufuatilia hatua, SCI inatoa mikopo kwa kila shughuli zinazoinua kiwango cha moyo: kuogelea, baiskeli, kutembea, kucheza, chochote. Kuweka chini ya 30 kwa maisha bora na yenye afya.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD mgonjwa",
+  "SATURDAY": "Jumamosi",
+  "savedinfo": "Habari imehifadhiwa kwa ufanisi",
+  "SAVE_BTN": "Hifadhi",
+  "SAVE_MESSAGE": "Ukiondoka, mabadiliko yako yatapotea",
+  "sbpi": "Damu ya shinikizo la damu",
+  "sbpi_desc": "Shinikizo la damu ni muuaji wa kimya. Vipimo vya shinikizo la damu yako ya Systolic na Diastoli vinazingatiwa wakati wa kikao chochote cha matibabu unachofanya. Weka SBPI chini ya 30 kuwa na nafasi ndogo ya kuteseka kutokana na hali ya kutishia kama vile kiharusi na vidonge vya damu.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Uzito",
+  "SCALX_PROD": "SCALX",
+  "scan": "Scan",
+  "scanningcorx": "Inatafuta CORX ... Tafadhali Subiri",
+  "schedule": "Ratiba",
+  "scheduleAnAppointment": "Ratiba miadi",
+  "scheduleappointment": "Ratiba videocall na daktari",
+  "schtime": "Wakati uliopangwa",
+  "sci": "Matibabu ya mishipa",
+  "sci_desc": "Kwa kuchambua wimbi lako la ugonjwa wa ugonjwa tunapata ufahamu juu ya mfumo wako wa moyo. Ripoti ya SCI ni muhtasari wa afya yako ya moyo, jaribu kuiweka chini ya 20!",
+  "sci_title": "SCI",
+  "SEARCH": "Tafuta",
+  "searchallergy": "Utafuta upungufu",
+  "searchdoctor": "Tafuta daktari",
+  "searchfordoctor": "Tafuta daktari kwa jina au jina la mtumiaji",
+  "searchingdevice": "Kutafuta kifaa. Inaweza kuchukua muda",
+  "searching_avail_date": "Inatafuta tarehe inapatikana ...",
+  "searching_online_doctors": "Kutafuta madaktari mtandaoni unaendelea ...",
+  "searchmedication": "Tafuta dawa",
+  "searchpatient": "Tafuta mgonjwa",
+  "searchpatologia": "Tafuta hali ya matibabu",
+  "searchsymptom": "Tafuta dalili",
+  "searchuser": "Tafuta mtumiaji",
+  "search_doctor_description": "Tafuta daktari kwa jina la mtumiaji, barua pepe au jina",
+  "search_patient_description": "Tafuta mgonjwa kwa jina la mtumiaji, barua pepe au jina",
+  "search_specialization": "Tafuta utaalamu",
+  "search_user_description": "Tafuta mtumiaji kwa jina la mtumiaji, barua pepe au jina la mtumiaji",
+  "search_videocall_description": "Tafuta videocall kufanyika kwa iniziative",
+  "search_videocall_title": "Serach Videocall kwa tarehe",
+  "secondaryMood": "Sekondari ya Mood",
+  "secondOpinion": "Maombi ya Pili ya Maoni",
+  "seconds": "sekunde",
+  "second_opinion_1": "Urahisi, uaminifu upatikanaji wa maoni ya pili ya matibabu kutoka wataalamu wa kuongoza duniani kote.",
+  "second_opinion_2": "Huduma yetu ya Pili ya Maoni ya Matibabu inaweza kukusaidia:",
+  "second_opinion_3": "Pata majibu kwa maswali yako",
+  "second_opinion_4": "Chagua mpango bora wa matibabu",
+  "second_opinion_5": "Hakikisha utambuzi sahihi",
+  "second_opinion_body": "Mtumiaji mpendwa, <br> ombi lako la pili la uchaguzi limesimamiwa kutoka kwa wataalamu wetu ambao wanakagua hati uliotuma.",
+  "second_opinion_history": "Maombi ya Pili ya Maoni",
+  "second_opinion_msg": "Asante. Mtetezi wetu wa afya atawafikia ndani ya masaa 24 ijayo.",
+  "SECOND_OPINION_Q1": "Je, unataka kuzungumza na mchungaji?",
+  "second_opinion_question1": "Nani maoni ya pili kwa?",
+  "second_opinion_question2": "Pakia faili",
+  "second_opinion_step1": "Jaza dodoso fupi / Weka faili zako",
+  "second_opinion_step2": "Madaktari wetu watapima vifaa vyako",
+  "second_opinion_step3": "Daktari kushauriana kujadili matokeo yako",
+  "secOpChoice": "Tafadhali chagua njia ambayo ungependa kupokea maoni ya pili",
+  "section": "Tafadhali, chagua sehemu moja",
+  "security": "Usalama",
+  "seeaprovider": "Tazama Mpeanaji",
+  "seecommenti": "Tazama Maoni",
+  "seedoctor": "Angalia daktari sasa",
+  "SEE_A_DOCTOR_Q1": "Je! Video hii inaita kwa nani?",
+  "SEE_A_DOCTOR_Q10": "Tunaweza kutuma dawa yako ya moja kwa moja kwenye maduka ya dawa ya uchaguzi wako",
+  "SEE_A_DOCTOR_Q1B": "Jina na kuzaliwa kwa mtoto wako?",
+  "SEE_A_DOCTOR_Q1_A1": "Mimi",
+  "SEE_A_DOCTOR_Q1_A2": "Mtoto wangu",
+  "SEE_A_DOCTOR_Q2": "Tafadhali eleza nini ungependa kuzungumza na daktari kuhusu",
+  "SEE_A_DOCTOR_Q3": "Dalili?",
+  "SEE_A_DOCTOR_Q4": "Ungependa kuunganisha picha, au hati?",
+  "SEE_A_DOCTOR_Q4_ERROR": "ERROR: Faili zisizidi 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Chagua faili",
+  "SEE_A_DOCTOR_Q4_S2": "Piga picha",
+  "SEE_A_DOCTOR_Q5": "Je! Sasa unachukua dawa yoyote, kama hivyo tafadhali soma jina",
+  "SEE_A_DOCTOR_Q5_CHILD": "Je! Mtoto wako hivi sasa anachukua dawa yoyote? ikiwa ni hivyo tafadhali andika jina",
+  "SEE_A_DOCTOR_Q5_S1": "Jina:",
+  "SEE_A_DOCTOR_Q5_S2": "Kipimo:",
+  "SEE_A_DOCTOR_Q6": "Je, una mizigo yoyote?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Je! Mtoto wako ana mzio wowote? ikiwa ni hivyo tafadhali andika jina",
+  "SEE_A_DOCTOR_Q7": "Je! Una hali yoyote ya matibabu?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Je! Mtoto wako ana hali yoyote ya matibabu? ikiwa ni hivyo tafadhali andika jina",
+  "SEE_A_DOCTOR_Q8": "Je! Unaidhinisha daktari kutazama faili yako ya matibabu mtandaoni?",
+  "SEE_A_DOCTOR_Q9": "Pharmacy iliyopendekezwa",
+  "SEE_A_DOCTOR_TITLE": "Muone daktari",
+  "SEE_A_PROVIDER": "Tazama Mpeanaji",
+  "segment": "Sehemu",
+  "selectAFile": "Gonga kitufe hapa chini kuchagua faili",
+  "selectaprovider": "Chagua Mtoaji",
+  "selectcarderror": "Tafadhali, chagua kadi",
+  "selectdoctor": "Dhibiti ajenda ya",
+  "selectdoctor1": "Chagua daktari",
+  "selectdrug": "Chagua Madawa",
+  "selectedContact": "Njia za mawasiliano",
+  "selectinitiative": "Chagua mipango moja au zaidi ...",
+  "selectnutritionist": "Chagua lishe yako mwenyewe",
+  "selectpatient": "kuchagua",
+  "select_country": "Tafadhali, chagua nchi",
+  "select_device": "Chagua kifaa",
+  "select_file": "Chagua Picha",
+  "select_file_btn": "Chagua faili",
+  "select_patient": "Bofya kwenye mstari ili uone maelezo",
+  "send": "Tuma",
+  "sendmessage": "Tuma ujumbe",
+  "sendtoken": "Tuma hii kwa daktari kumruhusu upatikanaji wa faili yako ya matibabu. Kiungo hiki kinaisha muda wa dakika 10",
+  "SEND_BTN": "Tuma",
+  "send_doctor_request": "Tuma ombi",
+  "sentmessage": "Ujumbe uliotumwa",
+  "SERVICE_TYPE": "Aina ya Huduma",
+  "sessantad": "Siku 60 zilizopita",
+  "SESSION_EXPIRED": "Kikao chako kimeisha. Tafadhali, ingia tena",
+  "setAlarm": "Weka Alarms",
+  "settd": "Siku 7 zilizopita",
+  "settings_saved": "Mazingira imehifadhiwa kwa ufanisi",
+  "setTreshold": "Weka Rangi",
+  "SET_BTN": "Weka",
+  "SET_USER_EMAIL": "Tafadhali, taja ama jina la mtumiaji au barua pepe",
+  "set_vital_signs": "Weka Ishara Vital",
+  "sevendays": "Siku 7",
+  "showalldata": "Onyesha Data Yote",
+  "showOnEmergency": "Onyesha Dharura",
+  "signature": "Saini yako (kutumika kwa ajili ya maagizo)",
+  "signature_word": "Sahihi",
+  "SIGNUP_BTN": "Ingia",
+  "sii": "Ripoti ya Bima",
+  "sii_desc": "SII ni mchanganyiko wa indeba zote za SaluberMD na ni kioo cha hatari yako ya jumla ya matibabu. Ikiwa chini ya 30 uko katika eneo salama!",
+  "sii_title": "SII",
+  "since": "Tangu",
+  "single": "Siku moja",
+  "singleAccess": "Ufikiaji mmoja",
+  "sitreminder": "Sitisha Kikumbusho",
+  "sit_period": "Kipindi",
+  "skip": "Ruka",
+  "skip_pull": "Puuza",
+  "skip_step": "Skip",
+  "sl": "Kiwango cha shida",
+  "SLEEP": "Kulala",
+  "slotime": "Muda wa Slot (min)",
+  "sl_alta": "zaidi ya 85 bpm",
+  "sl_bassa": "chini ya 65",
+  "sl_desc": "Ngazi ya shida imehesabiwa kulingana na kupigwa kwa dakika",
+  "sl_normale": "kati ya 65 na 85 bpm",
+  "smoker": "Sigara",
+  "snacks": "Vitafunio",
+  "SOMETIMES": "Mara nyingine",
+  "SONNO": "Kulala",
+  "SOP_Q4": "Weka ripoti yako ya matibabu",
+  "sos": "SOS",
+  "so_specialization": "Maalum",
+  "specialists": "Wataalamu",
+  "specialization": "Chagua maalum",
+  "SPECIALTY": "Maalum",
+  "specifyother": "Tafadhali, taja nyingine",
+  "specifyvalue": "Tafadhali, taja thamani",
+  "spirometer": "Spirometry",
+  "spo2_desc": "Kiwango cha SpO2 au kiwango cha oksijeni ni kipimo cha kiasi gani cha oksijeni seli zako nyekundu za damu zinazotekeleza. Maadili ya kawaida ni kati ya 95% na 100%, A chini ya kawaida ya kiwango cha oksijeni ya damu huitwa hypoxemia",
+  "sri": "Ripoti ya kupumua",
+  "sri_desc": "Sisi kuchambua mifumo yako ya kupumua wakati wa kikao chochote cha matibabu na wakati wa usingizi wako. Ikiwa SRI iko chini ya 30 nafasi yako ya kuteseka kutokana na hali ya kupumua imepungua.",
+  "sri_title": "SRI",
+  "ssi": "Orodha ya shida",
+  "ssi_desc": "Kwa kuchambua ubadilishanaji wa kiwango cha moyo wako tunapiga kiwango chako cha dhiki. Mkazo unaonekana kuwa mbaya au kuongeza hatari ya hali kama fetma, ugonjwa wa moyo, ugonjwa wa alzheimer, ugonjwa wa kisukari, unyogovu, matatizo ya utumbo, na pumu. Weka chini ya 20 kuwa upande salama!",
+  "ssi_title": "SSI",
+  "start": "Anza",
+  "startcall": "Anza simu",
+  "startdate": "Kutoka",
+  "starthour": "Anza Muda",
+  "startmeasure": "Sasa unaweza kuanza kipimo kwa kushinikiza botoni kwenye kifaa",
+  "startnow": "Anza sasa",
+  "startRecording": "Waandishi wa habari kuanza kurekodi sauti ya sauti",
+  "startyping": "Anza kuandika jina",
+  "start_blowing": "Anza Kupiga",
+  "start_test": "Anza mtihani",
+  "start_time": "Anza Muda",
+  "state": "Hali",
+  "state1": "Hali",
+  "STATES_LICENSE": "Mataifa yameidhinishwa",
+  "state_problem": "Tafadhali, sema tatizo lako",
+  "status": "Hali",
+  "step": "Hatua",
+  "STEPS_GOAL": "Hatua ya Kusudi",
+  "stoolTest": "Mtihani wa Stool",
+  "stop": "Acha",
+  "stop_test": "Acha mtihani",
+  "stress": "Stress",
+  "stroke_vol": "Kiwango cha kiharusi",
+  "stroke_volume": "Kiwango cha kiharusi",
+  "stroke_volume_desc": "Kiwango cha kiharusi ni kiasi cha damu iliyokatwa na kila ventricle kwa kupigwa",
+  "struttura": "Uundo",
+  "strutture": "Miundo",
+  "subject": "Somo",
+  "subject_so": "Somo",
+  "submissionDate": "Tarehe ya Uwasilishaji",
+  "success": "Mafanikio",
+  "SUCCESS_TITLE_NOTIFICATION": "Mafanikio",
+  "SUMMARY": "Utambuzi",
+  "summary1": "Muhtasari",
+  "SUNDAY": "Jumapili",
+  "surgery": "Upasuaji",
+  "surgeryAndHospitalization": "Hospitali na Historia ya Upasuaji",
+  "surgeryCategory": "Upasuaji Jamii",
+  "surname": "Jina la jina",
+  "sv_alta": "zaidi ya 100",
+  "sv_bassa": "chini ya 55 ml",
+  "sv_normale": "kati ya 55 na 100 ml",
+  "switchsearch": "Badilisha ili utafute",
+  "symptoms": "Dalili",
+  "SYMPTOMS_BTN": "Dalili",
+  "sync": "Sawazisha",
+  "SYNC_TIME": "Muda wa kusawazisha",
+  "sysdia": "Shinikizo",
+  "systolic": "Systolic",
+  "TAKE": "Chukua",
+  "takeAppointment": "Pata miadi",
+  "TAKE_APP": "Uteuzi wa Ratiba",
+  "TAKE_A_PHOTO": "Piga picha",
+  "tall": "Urefu gani",
+  "tapconnect": "Gonga ili kuunganisha",
+  "tapdisconnect": "Gonga ili uondoe",
+  "tap_to_expand": "Gonga ili kupanua",
+  "telNameMandatory": "Tafadhali, taja jina",
+  "telNumberMandatory": "Tafadhali, taja nambari ya simu",
+  "temper": "Temper",
+  "temperDescription": "Hatua ya kihisia ambayo inashughulikia mwelekeo wa mwelekeo mzima wa msemaji. Hali ya chini inaelezea hisia za uchungu na za kusikitisha. Hasira ya kati huelezea hali ya kirafiki, ya joto na ya kukumbatia. Maadili ya hasira yanaelezea hali ya kupambana, uongozi na fujo.",
+  "tendays": "Mwisho wa 10",
+  "ten_min": "Katika dakika 10",
+  "terminata": "Piga Mafanikio",
+  "TERMS_TITLE": "Masharti ya matumizi",
+  "test": "Mtihani",
+  "testmichele": "jaribu michele",
+  "testresult": "Majaribio Matokeo",
+  "testresults": "Matokeo ya Mtihani",
+  "tests": "Majaribio",
+  "text": "Nakala",
+  "thiscC": "Kadi hii ya mkopo itatumika kulipia huduma",
+  "THURSDAY": "Alhamisi",
+  "thyroidTest": "Vipimo vya Kazi ya Tezi",
+  "tickets": "Tikiti",
+  "TICKET_HISTORY": "Historia ya tikiti",
+  "TICKET_NUMBER": "Nambari ya tikiti",
+  "ticket_subject": "Omba Somo",
+  "timecallerr": "Samahani, huwezi kufanya simu bado",
+  "timecallerr1": "Samahani, unaunganisha simu kwa sababu wewe ni zaidi ya wakati uliopangwa",
+  "TIMELINE": "Timelines yangu",
+  "times": "Mara ngapi kwa siku?",
+  "timesaday": "Times kwa Siku",
+  "tipopratica": "Aina ya Mazoezi",
+  "tipo_struttura": "Aina ya Uundo",
+  "tipshealt0": "Vidokezo vya Afya",
+  "tipshealt1": "Flu shot - Je, mimi kupata chanjo dhidi ya homa?",
+  "tipshealt10": "Bofya hapa kwa maelezo zaidi",
+  "tipshealt11": "Faida za matibabu ya kisheria, kupunguza dawa za cholesterol, zinazidi hatari",
+  "tipshealt12": "Katika makala ya mapitio ya hivi karibuni huko Lancet, watafiti walihitimisha kuwa faida za kupunguza cholesterol ya LDL na tiba ya statin inaweza kuzuia matukio makubwa ya mishipa (mashambulizi ya moyo, viharusi) na inakua hatari ya madawa ya kulevya.",
+  "tipshealt13": "Kwa mujibu wa watafiti tu matukio mabaya tu ambayo yameonyeshwa kuwa yanayosababishwa na tiba ya muda mrefu ya kisheria ni myopathy (hufafanuliwa kama maumivu ya misuli au udhaifu), ugonjwa wa ugonjwa wa kisukari mpya, na, labda, kiharusi cha damu.",
+  "tipshealt2": "Ingawa chanjo ya homa haina kutoa ulinzi wa jumla, ni muhimu kupata. CDC (Kituo cha Kudhibiti na Kuzuia Magonjwa) inapendekeza chanjo ya kila mwaka ya mafua kwa kila mtu wa miezi 6 au zaidi. Chanjo ni muhimu sana kwa watu walio na hatari kubwa ya matatizo ya mafua, ikiwa ni pamoja na",
+  "tipshealt3": "Wanawake wajawazito",
+  "tipshealt4": "Wazee wazima (miaka 50 na zaidi)",
+  "tipshealt5": "Watoto wadogo (chini ya miaka 4 na zaidi ya miezi 6)",
+  "tipshealt6": "Shughuli ya kimwili inaboresha kumbukumbu na ujuzi wa kufikiri",
+  "tipshealt7": "Shughuli ya kawaida ya kimwili inaweza kuboresha utendaji wa ubongo katika maisha yote na kupunguza hatari ya ugonjwa wa ugonjwa wa ugonjwa wa akili.",
+  "tipshealt8": "Masomo mengi yamechapishwa juu ya mwingiliano wa karibu na faida ya shughuli za kawaida za kimwili na kazi bora ya utambuzi.",
+  "tipshealt9": "Ushawishi ni moja kwa moja kwenye ubongo na kwa njia ya moja kwa moja kupitia vitendo vya kimetaboliki na kimwili kwenye mwili.",
+  "title": "Kichwa",
+  "to": "kwa",
+  "todayAppointment": "Uteuzi wa leo",
+  "tooltip1": "Ingiza jina la daktari unayotaka kusimamia ajenda",
+  "totale": "Jumla",
+  "totalSleepTime": "Jumla ya muda wa usingizi",
+  "total_cholesterol_desc": "Thamani hii ni makisio ya cholesterol yote kwenye damu",
+  "TOTAL_SLEEP_TIME": "Jumla ya Muda wa Kulala",
+  "tot_non_risposte": "Wito usijibu",
+  "tot_ricevute": "Simu imepokea",
+  "tot_visite": "Ziara zimefanyika",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Uhamisho",
+  "trenta": "Vipimo vya mwisho vya 30",
+  "trentad": "Siku 30 zilizopita",
+  "triglycerides": "Triglycerides",
+  "trig_cholesterol_desc": "Triglycerides ni aina ya mafuta (lipid) inayopatikana katika damu yako. Jedwali lifuatalo linaonyesha anuwai ya maadili.",
+  "TUESDAY": "Jumanne",
+  "tutte": "Kipimo vyote",
+  "type": "Weka",
+  "TZONE": "Timezone",
+  "underweight": "Unyevu wa chini",
+  "unit": "Kitengo",
+  "UNIT_SETTING": "Kuweka Kitengo",
+  "uom": "Sehemu ya kipimo",
+  "upcomingAppointmentPatient": "Uteuzi ujao wa",
+  "UPDATE": "Sasisha",
+  "updatelist": "Sasisha orodha",
+  "update_app_message": "Unahitaji kusasisha programu yako",
+  "UPDATE_AVAILABLE": "Mwisho Inapatikana",
+  "UPDATE_BTN": "Sasisha",
+  "update_completed": "Firmware Imesasishwa Mafanikio",
+  "update_firmware_download_error": "Hitilafu kupakua firmware",
+  "update_list": "Sasisha",
+  "UPLOAD_ERROR": "ERROR: Faili zisizidi 5 MB",
+  "upload_referral": "Pakia rufaa yako kwenye sanduku hapa chini.",
+  "urinTest": "Vipimo vya mkojo",
+  "user": "Mtumiaji",
+  "userdata": "Data ya mtumiaji",
+  "usermanagement": "Usimamizi wa mtumiaji",
+  "USERNAME": "Jina la mtumiaji",
+  "username1": "Jina la mtumiaji",
+  "utente_aggiunto": "Mtumiaji aliongeza kwa ufanisi",
+  "utente_rimosso": "Mtumiaji amefutwa kwa ufanisi",
+  "utente_salvato": "Mtumiaji ametengenezwa vizuri",
+  "vaccinobbligatorio": "Tafadhali, chagua chanjo",
+  "vaioffline": "Nenda mbali mbali",
+  "vaionline": "Nenda mtandaoni",
+  "valence": "Valence",
+  "valenceDescription": "Tofauti inayotokana na upendeleo kwa uwezekano. Wakati wa kusikiliza majadiliano ya mtu, inawezekana kuelewa jinsi &quot;chanya&quot; au &quot;hasi&quot; wanavyojisikia juu ya somo, kitu au tukio linalozungumziwa.",
+  "value": "Thamani",
+  "vascular_age": "Miaka ya vascular",
+  "vascular_age1": "Miaka ya vascular",
+  "va_desc": "Umri wa Vascular hutoa kipimo cha umri wa dhahiri wa mishipa yako, ikilinganishwa na watu wenye afya. Ikiwa umri wako wa vimelea ni mkubwa zaidi kuliko umri wako, unaweza kuwa hatari zaidi ya kuambukizwa na ugonjwa wa moyo (CVD) baadaye.",
+  "videocall": "Videocall",
+  "VIDEOCALL_DES1": "Bonyeza kifungo hapa chini ili kubadilisha hali yako na upokea au usipokea arifa. Kumbuka kwamba unaweza kupokea arifa tu wakati unapokuwa mtandaoni.",
+  "VIDEOCALL_DES2": "Unapopata simu, bofya kwenye mstatili ambao utaonekana kuchukua simu.",
+  "videocall_filter": "Filter kwa jina au utaalam",
+  "videocall_request": "Ombi la videocall mpya kutoka",
+  "videocall_request_title": "Ombi la Videocall",
+  "videocall_req_from": "Ombi la Videocall kutoka:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "Bonyeza ili kuifungua video",
+  "VIDEO_CALL_BTN": "Hangout ya Video",
+  "VIDEO_CALL_BTN_1": "Video",
+  "view": "Angalia",
+  "viewmedicalfile": "Angalia faili ya matibabu",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Unda Ofisi yako ya Virtual",
+  "VIRTUAL_OFFICE_TITLE": "Ofisi ya Virtual",
+  "visitdetail": "Bofya kila kitu ili uone historia kamili ya mgonjwa",
+  "visithistory": "Historia ya Ziara",
+  "visitlist": "Orodha ya ziara",
+  "VISIT_HISTORY_NO_HISTORY": "Huna ziara bado",
+  "VISIT_HISTORY_SUBTITLE": "Bofya kila kipengee ili uone maelezo kamili",
+  "VISIT_HISTORY_TITLE": "Historia ya Ziara",
+  "volte": "Times",
+  "waiting": "Inatengeneza ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Joto",
+  "WARNING_TITLE_NOTIFICATION": "Tazama",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Data ya Afya",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Takwimu za Ustawi",
+  "WATCH_DEVICE_DATA_TITLE": "Data yako ya kifaa cha kuangalia",
+  "water": "Maji",
+  "weanedoff": "Je, umeondolewa?",
+  "WEDNESDAY": "Jumatano",
+  "week": "Wiki",
+  "weight": "Uzito",
+  "weightUnit": "Sehemu ya Uzito",
+  "welcome": "Karibu",
+  "wellness": "Ustawi",
+  "wellnessdata": "Takwimu za Ustawi",
+  "wellnessSuccess": "Mafanikio",
+  "WHITE_SPACES": "Jina la mtumiaji lazima usiwe na nafasi nyeupe",
+  "WRIST_CUT_SCREEN": "Weka Screen Cut Wrist",
+  "writtenRep": "Ripoti iliyoandikwa",
+  "W_RESPIRATORY_RATE": "Pumzi",
+  "xray": "X-ray",
+  "Y": "Ndiyo",
+  "year": "Mwaka",
+  "years": "miaka",
+  "yes": "Ndiyo",
+  "yourarousal": "Kuamka kwako",
+  "youremotion": "Hisia zako",
+  "yourmood": "Mood yako",
+  "yourtemper": "Hasira yako",
+  "yourvalence": "Valence yako",
+  "your_sai": "Nambari ya Shughuli yako ni:",
+  "your_sbpi": "Dalili ya shinikizo la damu yako ni:",
+  "your_sci": "Wewe index index ni:",
+  "your_sii": "Ripoti ya Bima yako ni",
+  "your_sri": "Nambari yako ya kupumua ni:",
+  "your_ssi": "Orodha yako ya Stress ni:",
+  "your_stress": "Kiwango cha matatizo yako ni:",
+  "your_va": "Umri wako wa umri ni:",
+  "zero_min": "Sasa",
+  "zipCode": "Namba ya Posta",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

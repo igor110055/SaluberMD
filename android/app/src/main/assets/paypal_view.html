@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script type="text/javascript" src="GetUrlPaypal.js"></script>
+    <script src="https://www.paypal.com/sdk/js?intent=authorize&client-id=Ad0K6H9O4nejuhDwmLz3JFzt4njdYGfLoencrgW_nfjZ1Q0TNL-i3mfdUO-R3q42YcG7nVDUYGz_gd5Y&currency=USD&locale=en_VN"></script>
+    <script>paypal.Buttons().render('body');</script>
+    <script src="./data.js">
+        var JSLink = url;
+        var JSElement = document.createElement('script');
+        JSElement.src = JSLink;
+        JSElement.id = "urlId"
+        JSElement.onload = OnceLoaded;
+        document.getElementsByTagName('head')[0].appendChild(JSElement);
+
+        
+        function OnceLoaded() {
+            // alert('JS link' + document.getElementById('urlId').src)
+            payWithPayPal(document.getElementById('urlId').src)
+            // document.write("<script src=\"https://www.paypal.com/sdk/js?intent=authorize&client-id=Ad0K6H9O4nejuhDwmLz3JFzt4njdYGfLoencrgW_nfjZ1Q0TNL-i3mfdUO-R3q42YcG7nVDUYGz_gd5Y&currency=USD&locale=en_US\" />")
+
+            document.addEventListener("message", function (data) {
+            var details = JSON.parse(data.data);
+    
+            // payWithPayPal(document.getElementById('urlId').src);
+
+            alert('passing data: ' + data)
+        })
+        }
+
+        function payWithPayPal(url) {
+            // alert('JS payWithPayPal' + url)
+            paypal
+                .Buttons({
+                    createOrder: function (data, actions) {
+                        return actions.order.create({
+                            purchase_units: [{
+                                amount: {
+                                    value: 0.01
+                                }
+                            }]
+                        });
+                    },
+                    onApprove: function (data, actions) {
+                        window.alert("Transaction Successful");
+                        window.postMessage(JSON.stringify({
+                            reference: data.orderID,
+                            message: 'Transaction Successful',
+                            status: 'success'
+                        }));
+                    }
+                }).render("#paypal-button-container");
+            // }
+
+        }
+        document.addEventListener("message", function (data) {
+            var details = JSON.parse(data.data);
+            document.querySelector('p').innerText = "You are about to fund your wallet with USD " + details.amount + " on XYZ. Click on any of the payment options to proceed. Your account will be credited instantly after payment."
+            // payWithPayPal(document.getElementById('urlId').src);
+        })
+    </script>
+</body>
+</html>

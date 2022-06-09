@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Hais txog peb",
+  "ABOUT_US_CONDITION_1": "Mob khaub thuas &amp; Khaub Ncaws",
+  "ABOUT_US_CONDITION_2": "Cov tawv nqaij mob",
+  "ABOUT_US_CONDITION_3": "Kev ua xua",
+  "ABOUT_US_CONDITION_4": "Mob caj pas",
+  "ABOUT_US_CONDITION_5": "Mob plab",
+  "ABOUT_US_DOCTOR_BENEFIT1": "NYIAJ TAU COV NYIAJ TAU LOS:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Koj tuaj yeem pom txog li 6 tus neeg mob ib xuab moos (kev mus ntsib virtual ua haujlwm ntev li 10 feeb);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "KWS KHO MOB LOS NTAWM KEV PAB CUAM NTAWM TXHUA YAM HAUV LUB NTIAJ TEB:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Txhim khu kev sib raug zoo ntawm cov neeg mob nrog lub peev xwm los kho cov neeg mob tam sim no thiab cov neeg mob tshiab ntawm txhua qhov chaw hauv lub ntiaj teb;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "TAU TXAIS TUS NEEG MUAJ PEEV XWM CEEV:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Txhim kho koj cov kev xyaum tam sim no thiab muab ntau txoj kev rau cov neeg mob;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "KHOOM MUAJ TSEV LAG LUAM MUAJ NTXIV:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Cov neeg tuaj kho mob tuaj yeem xa koj cov ntaub ntawv, cov duab, cov qhab nees tsis tas yuav tawm hauv tsev thiab koj tuaj yeem soj ntsuam koj tus neeg mob txoj kev noj qab haus huv;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Paub cov neeg xav tau kev pab tu tam sim ntawd thiab leej twg tuaj yeem tau txais txiaj ntsim los ntawm kev kho mob hauv tsev kho mob uas tsis tas tawm hauv tsev;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "NYIAJ TAU COV NYIAJ TAU LOS:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "SAIB XYUAS:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Lub peev xwm los tsim koj cov sij hawm thiab teem caij rau koj tus kheej lub sijhawm.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Koom nrog lub zog kom muaj kev ntseeg tau, pheej yig, thoob ntiaj teb nkag mus rau kev kho mob tsis pub dhau 15 feeb lossis tsawg dua.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD yog tsim los txhawb kev sib raug zoo ntawm tus kws kho mob-tus neeg mob los ntawm kev tsim kho 24/7 nkag mus rau kev kho mob thoob ntiaj teb.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Tus Kws Kho Mob",
+  "ABOUT_US_DOCTOR_TITLE": "Hais txog peb",
+  "about_us_section1_p1": "SaluberMD yog lub koom haum Digital Health tau hloov los ua kom muaj kev pab kho mob thiab cov khoom siv los txhim kho kev noj qab haus huv thoob ntiaj teb. Peb Cov Kev Pab Kho Mob Digital, muab kev pab cuam rau kev noj qab haus huv thiab kev noj qab haus huv, board certified kws kho mob, ntaub ntawv kho mob rau 18 haiv lus, wearables los soj ntsuam koj kev noj qab haus huv, thiab kev nkag tau rau lub network ntawm cov kws kho mob thiab cov kev pab.",
+  "ABOUT_US_SECTION1_TITLE": "Hais txog peb",
+  "ABOUT_US_SECTION2_P1": "Los ntawm geo-localization peb app yuav nrhiav tau tus kws kho mob zoo tshaj plaws nyob ze koj. SaluberMD Cov kws kho mob tuaj yeem kuaj xyuas, kho, lossis sib tham txog koj tus mob los ntawm kev yees duab thiab muab kev npaj kho mob rau koj. Feem ntau ntawm cov mob uas raug mob ntau tshaj plaws nyob hauv tus kws kho mob lub chaw ua haujlwm tuaj yeem kho nrog kev mus yees duab. <br/> Qee qhov kev mob uas peb kho:",
+  "ABOUT_US_SECTION2_P2": "Koj Cov Ntaub Ntawv Khomob Cov Ntaub Ntawv Khomob yog qhov chaw yooj yim los khaws tag nrho koj cov ntaub ntawv kho mob, cov duab thiab cov ntaub ntawv. Khaws koj txoj kev noj qab haus huv nrog 24/7 nkag mus rau tag nrho koj cov ntaub ntawv kho mob. Txawm hais tias koj nyob hauv tsev los sis mus txawv tebchaws los koj cov ntaub ntawv yog nyob ntawm koj lub ntsis ntiv tes mus nrog koj tus kws kho mob. Kev yoojyim siv cov ntaub ntawv kho mob yog muaj 18 hom lus.",
+  "ABOUT_US_SECTION2_TITLE": "Nws ua hauj lwm li cas?",
+  "ABOUT_US_SECTION3_P1": "Tsuas yog cov thawj kws kho mob sab nraud kws kho mob muab kev kho mob rau SaluberMD. Cov kws kho mob no muaj tseeb, kuaj xyuas thiab tau txais kev cob qhia los muab kev kho mob zoo tshaj plaws. Txhua tus Kws Kho Mob muaj ib qhov bio uas koj tuaj yeem saib lawv cov keeb kwm yav dhau, cov ntaub ntawv pov thawj, thiab kev paub. SaluberMD tau cog lus rau kev tswj xyuas kev tswj hwm ntawm peb Cov kws kho mob. Ib qhov kev ntsuam xyuas tso cai rau cov neeg mob mus rau cov kws kho mob thiab saib cov kws kho mob tag nrho cov kev ntsuam xyuas.",
+  "ABOUT_US_SECTION3_TITLE": "Peb cov kws kho mob",
+  "ABOUT_US_TITLE": "Hais txog peb",
+  "above_warning": "Qhov tseem ceeb saum toj no yog qhov pheej hmoo",
+  "accept": "Txais",
+  "acceptablerange": "Tau txais kev pom zoo",
+  "ACCEPT_BTN": "Txais",
+  "acquire": "Tau txais cov ntaub ntawv",
+  "acronym": "Cov ntawv acr",
+  "action": "Nqis",
+  "actions": "Kev ua",
+  "actionTaken": "Kev Tshawb Fawb",
+  "activity": "Yam Kev Ua",
+  "acutecare": "Kev kho mob",
+  "add": "Tshiab",
+  "addavailability": "Ntxiv koj qhov muaj",
+  "addcomment": "Ntxiv koj saib ntawm no",
+  "adddescription": "Ntxiv koj cov lus piav qhia ntawm no",
+  "adddrugs": "Nrhiav ib txoj hauv kev uas siv cov lus tshawb hauv qab no thiab zais lub checkbox ntxiv rau koj cov tshuaj",
+  "addedFavourite": "Txhim kho ntxiv rau koj cov favorites",
+  "addedFavourite2": "Txhim kho ntxiv rau koj cov favorites. nias lub khawm hloov tshiab los tso saib.",
+  "addedFavourite3": "Txhim kho ntxiv  nPeeb cia rau refresh",
+  "addFavourite": "Ntxiv rau Nyiam",
+  "ADDING_SLOT": "Ntxiv slots .... qhov no yuav siv sijhawm ntev.",
+  "addNew": "Ntxiv Tshiab",
+  "addpharmacies": "Ndliv lub khawm ntxiv koj cov chaw muab tshuaj",
+  "addpharmacy": "Ntxiv lub tsev muag tshuaj",
+  "addreminder": "Nias lub pob ntxiv rau ntxiv koj cov tshuaj noj.",
+  "address": "Chaw nyob",
+  "address2": "Chaw nyob",
+  "address3": "Chaw nyob rau cov kev pabcuam",
+  "addsintomi": "Ntxiv cov tsos mob",
+  "addslot": "Ntxiv slot",
+  "add_description_file": "Ntxiv ib nqe lus piav qhia (tsis yog yuav tsum tau ua)",
+  "add_new": "Ntxiv",
+  "affaticamento_grave": "Phem loj heev",
+  "affaticamento_minore": "Kev Tua Tsiaj Me",
+  "agenda": "Kuv cov txheej txheem",
+  "agenda_report": "Daim Ntawv Qhia Teem Sijhawm",
+  "aggiungi": "Tsim",
+  "AGREE_BTN": "Kuv pom zoo",
+  "alcoholDesc": "Dej cawv lam xav",
+  "all": "Tag nrho",
+  "alldata": "Tag nrho cov Ntaub Ntawv",
+  "allergia": "Kev Ntsuas",
+  "allergia_aggiunta": "Kev ua xaim zoo tsim",
+  "allergia_rimossa": "Tus neeg mob txoj kev fab qoob loo yeej muab tshem tawm",
+  "allergia_salvata": "Tus neeg mob qhov kev tsis haum siab hloov kho",
+  "allergie": "Kev ua xua",
+  "allimages": "Txhua Dluab",
+  "alreadyAddedF": "Lub chaw muag tshuaj no twb tuaj yeem nyob hauv koj cov ntaub ntawv",
+  "alreadyRegistred": "Tus email no twb muaj nyob hauv kev uas siv tas. Thov nkag mus rau hauv app txhawm rau teem sijhawm.",
+  "alreadyTaken": "Lub sij hawm tau teem tseg lawm",
+  "alta": "Siab",
+  "alto": "Siab",
+  "amonth": "30 Hnub",
+  "anger": "Npau taws",
+  "annoinizio": "Xyoo Pib",
+  "antibiotics": "Tshuaj tua kab mob",
+  "an_error_occurred": "Ob! Tam sim no peb tsis muaj peev xwm ua ntej koj qhov kev thov. Rov sim ntxiv tom qab",
+  "appointment": "Lub Sijhawm",
+  "appointmentlist": "Daim ntawv teev caij nyoog",
+  "appointments": "Lub Sijhawm",
+  "appointmentsDescription": "Daim ntawv teev cov sijhawm teem caij nyoog",
+  "appointment_body_doc": "Teem sijhawm tshiab nrog",
+  "appointment_calcelled_title": "Lub sijhawm teem tseg",
+  "appointment_cancelled": "tau tso tseg nws lub sij hawm",
+  "appointment_email_body": "Peb paub meej tias koj lub sijhawm tau ntsib nrog kws kho mob",
+  "appointment_history": "Lub Sijhawm Keeb Kwm",
+  "appointment_now": "Koj lub sijhawm tam sim no pib",
+  "appremainder": "Lub sijhawm seem",
+  "appremainder1": "Koj muaj ib qho video hu ua 5 feeb",
+  "appremainder2": "Koj muaj ib qho videocall nrog rau 30 feeb",
+  "appremainder3": "Koj muaj ib lub video tau muab tso rau hauv 120 feeb",
+  "APPROX_DATA": "Lwm cov ntaub ntawv txog kev nyab xeeb",
+  "appuntamenti": "Lub Sijhawm",
+  "appuntamenti_presi": "Teem Caij Nyoog",
+  "appuntamento_clinica": "Thov Lub Sijhawm Kho Mob",
+  "APPUNTAMENTO_CONGIUNTO": "Koj puas xav phau ntawv teev npe nkauj?",
+  "app_description": "Ntxiv rau qhov laj thawj ntawm koj lub sijhawm teem rau hauv lub thawv hauv qab no",
+  "app_details": "Cov ntsiab lus teem lub sij hawm",
+  "app_missing": "Cov kev txhawb nqa app tsis tau nruab",
+  "ARIAX": "Ntaus Tus Nqi",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Arousal",
+  "arousalDescription": "Ib qho txawv txav uas qhov txawv ntawm qhov tranquility los yog kev nyuaj siab rau kev kub ntxhov thiab kev zoo siab. Nws sib raug zoo rau cov ntsiab lus zoo xws li theem ntawm kev ua kom thiab kev txhawb zog.",
+  "assign_specialist": "Muab ib tus kws paub tshwj xeeb rau qhov kev thov",
+  "associa": "Associate",
+  "attachment": "Ntxuas",
+  "ATTACH_A_PHOTO": "Ntxim ib daim duab",
+  "BACKGROUND": "Tom qab",
+  "BACKGROUND_PLCHOLDER": "Thov sau ib phau ntawv luv luv.",
+  "backhomeconfirm": "Koj puas paub tseeb tias yuav rov qab mus tsev?",
+  "BACK_BTN": "Rov qab",
+  "BACK_LOGIN": "Rov qab mus nkag",
+  "bad_file": "Yuav tsis qhib cov ntaub ntawv",
+  "basicinfo": "Cov Ntaub Ntawv Qhia Txog",
+  "bassa": "Tsawg",
+  "basso": "tsawg",
+  "below_warning": "Tus nqi hauv qab no yog qhov pheej hmoo",
+  "benefits": "Concierge cov kev pab cuam",
+  "beyondverbal": "Cwj pwm tsav tsav txhua yam peb ua, tsis tau lub suab-driven kev xav analytics tseem qhov tseem ceeb, unexplored interface hnub no. Lus Cog Tseg yog cog lus hloov qhov ntawd.",
+  "beyondverbal_analyze": "Tshawb xyuas koj cov mus ob peb vas",
+  "beyondverbal_history": "Keeb kwm kev tshwm sim",
+  "beyondverbal_instruction": "Thaum koj npaj txhij los teb cov nqe lus nug pib khawm",
+  "BIRTHDATE": "Hnub Yug",
+  "birthday": "Hnub yug",
+  "blank_agenda": "Muaj cov tsis muaj qhov teeb meem rau hnub no",
+  "bloatedOrContipated": "Ploj los yog quav tawv",
+  "bluetooth_error": "Pab kom lub bluetooth ua ntej mus ntxiv",
+  "BOARD": "Board Certified",
+  "bones": "Cov pob txha",
+  "bp": "Ntshav Siab",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Siv cov lus qhia txog ntshav siab qhov tseem ceeb",
+  "breakfast": "Noj tshais",
+  "btnback": "Rov qab",
+  "btndelete": "Rho tawm",
+  "btndisabledoctor": "Txiav tus kws kho mob",
+  "btndisablepatient": "Lov tes taw rau tus neeg mob",
+  "btnenabledoctor": "Pab kom tus kws kho mob",
+  "btnenablepatient": "Pab kom tus neeg mob",
+  "btnsave": "Tseg",
+  "BTN_LOAD_MORE": "Thauj Ntau",
+  "buttonsearch": "Tshawb nrhiav",
+  "bvFailed": "Ua tsis tiav rau koj lub suab, koj yuav tsum tham ntxiv!",
+  "bvInstruction": "Cia li sib tham rau 20 vib nas this los yog ntau dua",
+  "bvInstruction2": "Cia li sib tham rau 20 feeb xwb",
+  "ca": "Kab mob",
+  "call": "Hu",
+  "callCancel": "Tuam tsev tsis tuaj yeem hu xov tooj sijhawm tsawg",
+  "calldoctor": "Hu rau tus kws kho mob",
+  "calling_number": "Hu Cov Xov Tooj",
+  "callthedoctor": "Hu Rau Kws Kho Mob",
+  "calltransfer": "Hloov chaw ...",
+  "CALL_ALREADY_TAKEN": "Hu tuaj yeem tau txais",
+  "CALL_DOCTOR_INFO": "Tus kws kho mob",
+  "CALL_DURATION": "Hu rau lub sijhawm",
+  "call_instruction": "Peb yuav xa ib daim ntawv ceeb toom sai li sai tau thaum koj tuaj yeem hu rau tus kws kho mob. Nias qhov ceeb toom sai li sai tau thaum koj tau txais nws los pib lub video. Nyob rau hauv cov ntaub ntawv koj deleted cov ntawv qhia, koj tuaj yeem tau txais nws ntawm cov lus qhia hauv qab ntawm kuv qhov kev kho mob.",
+  "CALL_NOTIFICATIONS": "Xov tooj hu",
+  "CALL_NO_INCOMING": "Tsis muaj kev hu tuaj",
+  "CALL_TRANSFER_INFO": "Hu mus hloov ntaub ntawv",
+  "CALL_WAITING": "Thov tos thaum nrhiav peb tus kws kho mob",
+  "CALL_WAITING_2": "Thov tos thaum kws kho mob soj ntsuam koj cov ntaub ntawv",
+  "calories": "Calories",
+  "cancel": "Tshem tawm",
+  "cancelAppointment": "Tshem tawm lub sijhawm teem tseg",
+  "CANCEL_BTN": "Tshem tawm",
+  "CAP": "Zip Code",
+  "cardiac_output": "Cardiac tso zis",
+  "cardiac_output1": "Cardiac tso zis",
+  "cardiac_output_desc": "Lub zis plawv yog tsuas yog cov ntshav ntuav los ntawm lub plawv ib feeb xwb.",
+  "cardiovascular": "Kev mob plawv",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "CVC tsis tuaj yeem",
+  "CARD_EXPIRY_DATE": "Hnub Txiav Txim",
+  "CARD_MONTH_ERROR": "Invalid lub hli",
+  "CARD_NUMBER": "Daim npav naj npawb",
+  "CARD_NUMBER_ERROR": "CC Number Invalid",
+  "CARD_YEAR_ERROR": "Xyoo tsis tau",
+  "category": "Qeb",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "CCV yuav tsum",
+  "CERROR": "Txom Nyem",
+  "certificate_attachment": "Rhais nrog no yog koj daim ntawv pov thawj kev kho mob",
+  "certificate_email": "Txuas nrog yog koj daim ntawv pov thawj kev kho mob",
+  "certificate_header": "Rau ntawm kev tshuaj xyuas kev khomob uas tau ua, cov hauv qab no tau hais tseg:",
+  "certificate_sent": "Daim Ntawv Pov Thawj Xa",
+  "certification_subject": "Koj cov ntawv pov thawj kho mob",
+  "cf": "Kev Cai Nyiaj",
+  "cf_error": "Thov, qhia meej txog koj cov nyiaj txiag",
+  "changeschedule": "Hloov sijhawm",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Koj tus password tam sim no, thov hloov nws.",
+  "CHANGE_PWD_SECTION_TITLE": "Hloov lo lus zais",
+  "CHANGE_PWD_TITLE": "Koj tus password yuav tas sijhawm, hloov nws",
+  "checking_net_condition": "Xyuas Internet kev twb kev txuas ...",
+  "CHECK_PARAMETERS_CORX": "Thov, ntxig rau qhov nyhav thiab qhov siab ntawm qhov profile seem thiaj li xam tau qhov muaj txiaj ntsig zoo.",
+  "CHL_TOT": "Cov Cholesterol Tag Nrho",
+  "choosedate": "Xaiv ib hnub twg",
+  "chooseDateDescription": "Nias lub hnub kom nthuav nws thiab xaiv lub sijhawm",
+  "chooseprofile": "Koj yog?",
+  "choosespeciality": "Xaiv Medical Specialty",
+  "choosetransferdoctor": "Xaiv ib tus kws kho mob",
+  "CHOOSE_A_DOCTOR": "Xaiv koj tus kws kho mob",
+  "chosedoctor": "Thov, xaiv ib tus kws kho mob",
+  "city": "Nroog",
+  "city1": "Nroog",
+  "city2": "Nroog",
+  "clearsignature": "Daim ntawv kos npe tseeb",
+  "clickitem": "Nias ntawm txhua qhov khoom saib tag nrho cov ntsiab lus",
+  "clickrow": "Nias ntawm kab lus xaiv",
+  "clickToOpen": "Nyem los qhib cov ntaub ntawv",
+  "click_to_start_call": "Nyem rau ntawm tus kws kho mob kom pib hu",
+  "clinics": "Chaw Kho Mob",
+  "CLOCK_FORMAT": "Moos Hom Ntawv",
+  "closeappconfirm": "Koj puas xav kaw qhov app?",
+  "CLOSE_BTN": "Kaw",
+  "cm": "cm",
+  "CODE": "Code",
+  "code_not_valid": "Txoj hlua tso cai tsis siv",
+  "code_verified": "Saib xyuas tus lej dhau lawm!",
+  "coffeeDesc": "Coffee assumed",
+  "COMMENT": "tawm tswv yim",
+  "commenti": "Lus tawm",
+  "COMPANY_NAME": "Lub tuam txhab",
+  "COMPLAIN": "Tsis txaus siab",
+  "COMPLETE_PROFILE": "Ua kom tiav koj qhov profile ua ntej mus ntxiv",
+  "COMPLETE_PROFILE_TITLE": "Thov sau koj qhov profile",
+  "complications": "Teeb meem",
+  "concernlist": "Thov sau koj qhov kev txhawj xeeb / kev txhawj xeeb",
+  "CONFIRM": "Ok",
+  "confirm_app": "Paub meej tias koj lub sij hawm",
+  "CONFIRM_EMAIL_TITLE": "Tshawb xyuas Email",
+  "CONFIRM_PWD": "Confirm password",
+  "connect": "Nias lub khawm Txuas Txuas Txuas Txuas Txuas Xov Xwm",
+  "connectbtn": "Txuas",
+  "connectedto": "Txuas nrog",
+  "connecting": "Txuas ... Thov tos",
+  "connection_progress": "Txuas rau kev ntaus ...",
+  "CONSULT": "Tsis txaus siab",
+  "consult1": "Ntsib",
+  "consultation": "Kev sab laj",
+  "consultationHistory": "Kev Sib Txuas Lus Qhia",
+  "contact": "Hu rau",
+  "CONTACT_US_BTN": "Tiv tauj peb",
+  "CONTACT_US_SECTION_TITLE": "Thov hu rau peb nrog rau cov lus nug los yog kev pab siv lub.",
+  "CONTACT_US_TITLE": "Tiv tauj peb",
+  "contatti": "Kev Hu Xov Xwm",
+  "continue": "Mus txuas ntxiv",
+  "copy_url": "Luam url",
+  "CORX": "ECG",
+  "corxDidFailEcg": "Yuam kev tau txais EKG",
+  "corxDidFailWellness": "Kev yuam kev tau txais cov ntaub ntawv muaj kev nyab xeeb",
+  "corxDidNoEcg": "Tsis muaj cov ntaub ntawv EKG",
+  "corxDidNoWellness": "Muaj cov ntaub ntawv tsis muaj kev nyab xeeb",
+  "CORX_DATA": "Cov Ntaub Ntawv CorX",
+  "corx_disconnected": "Corx Txiav",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Thov, qhia koj qhov hnyav thiab qhov siab hauv oreder kom thwj laij cov tshuaj tsis haum.",
+  "COUNTRY": "Lub teb chaws",
+  "country1": "Lub teb chaws",
+  "county": "Lub Nroog",
+  "co_alta": "ntau tshaj 8 L / min",
+  "co_bassa": "qis dua 4 L / min",
+  "co_normale": "nruab nrab ntawm 4 thiab 8 L / min",
+  "creditCard_selected": "Daim npav xaiv yuav raug them rau qhov kev pabcuam no",
+  "currency": "Txiaj",
+  "C_SPECIALTY": "Kev cai tshwj xeeb",
+  "dailyuse": "Txhua Hnub Siv",
+  "dashboardVideocall": "Dashboard Videocall",
+  "dataerror": "Hnub / lub sij hawm koj xaiv tau yog hnub / lub sij hawm tam sim no",
+  "dataexists": "Muaj twb teem caij nrog lub hnub thiab lub sijhawm xaiv",
+  "datafetching": "Nqa koj cov ntaub ntawv ntiag tug ... Thov tos.",
+  "dataPrenotazione": "Hnub mus",
+  "dataVaccinazione": "Txhaj Tshuaj Tiv Thaiv Hnub Tim",
+  "date": "Hnub tim",
+  "dateDiscovered": "Hnub Tshawb Fawb",
+  "dateStart": "Pib Hnub",
+  "datipersonali": "Tej Ntaub Ntawv",
+  "datiScaricati": "Cov Ntaub Ntawv Kawm Tau Zoo Tshaj",
+  "day": "Hnub",
+  "deassociate_corx_alert": "Koj puas xav deassociate lub Corx?",
+  "decline": "Txiav txim",
+  "DECLINE_BTN": "Txiav txim",
+  "DEEP_SLEEP_TIME": "Sib Pw tsaug zog",
+  "defaultQuestion": "Nias pib thiab qhia rau peb seb koj xav li cas hnub no",
+  "delete": "Rho tawm",
+  "deleteAlarm": "Rho tawm lub tswb no?",
+  "deleteAppointment": "Koj puas xav rho tawm lub sijhawm teem tseg?",
+  "deleteDescription": "Nws yuav muab deleted tam sim ntawd.",
+  "deleteMessage": "Koj puas paub tseeb tias koj xav rho tawm qhov no?",
+  "deleteMultipleDesctiption": "Cov nab npawb ntawm qhov yuav muab deleted:",
+  "deleteNumber": "Koj puas paub tseeb tias koj xav rho tawm cov nab npawb no?",
+  "deleteSlotDay": "Deletes tag nrho cov dawb slot hnub no",
+  "deleteSlotMonth": "Deletes tag nrho cov slots dawb lub hlis no",
+  "deleteSlotWeek": "Deletes tag nrho cov dawb slot lub lim tiam no",
+  "deletevalue_q": "Koj puas paub tseeb tias koj xav rho tawm tus nqi?",
+  "DELETE_NOTIFICATION_MSG": "Koj puas xav rho tawm tag nrho cov ntawv tshaj tawm yav dhau los?",
+  "demo": "Qhov no yog qhov demo, yuav tsis tau them nyiaj.",
+  "dependencies": "Kev Nyab Xeeb",
+  "description": "Kev piav qhia",
+  "descriptionMandatory": "Thov, qhia kom meej meej",
+  "deseaseCategory": "Kab Mob",
+  "desirable": "Ntshaw",
+  "dettagli": "Cov ntsiab lus",
+  "dettaglio_struttura": "Txheej txheem nthuav dav",
+  "device": "Ntaus ntawv",
+  "devicefound": "Ntaus nrhiav",
+  "devices": "Devices",
+  "devicetype": "Ntaus Hom",
+  "DEVICE_BLOOD_PRESSURE": "Ntshav siab",
+  "DEVICE_CALORIES": "Calories hlawv",
+  "DEVICE_CARDIAC": "Kev ntsuas xyuas",
+  "DEVICE_CHL": "Lipidic Profile",
+  "DEVICE_DATA_SECTION_TITLE": "Koj cov ntaub ntawv kho mob",
+  "DEVICE_DATA_TITLE": "Ntaus Ntawv",
+  "DEVICE_DATA_TITLE_1": "Cov Ntaub Ntawv Kho Mob",
+  "DEVICE_EKG": "ECG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Qoj Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glucometer",
+  "DEVICE_HEART_RATE": "Lub plawv dhia",
+  "DEVICE_PEDOMETER": "Pedometer",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Kab mob feem ntau",
+  "DEVICE_SPO2": "Spo2",
+  "DEVICE_TEMPERATURE": "Kub",
+  "DIAGNOSIS": "Kev kuaj mob",
+  "diastolic": "Diastolic",
+  "dieci": "Xeem 10 ntsuas",
+  "diet": "Noj cov zaub mov",
+  "digestion": "Cov teeb meem hauv kev zom",
+  "dinner": "Noj hmo",
+  "dipendenza": "Txaus siab",
+  "disableAlarm": "Tswb enabled",
+  "disabled": "Tsis taus",
+  "DISABLE_PANIC_BUTTON": "Pab Panic Button",
+  "DISABLE_PUNIC_BUTTON": "Lov tes taw Punic khawm",
+  "disconnectall": "Teem offline",
+  "disconnectbtn": "Tshem tawm",
+  "DISDICI": "Tshem tawm",
+  "disease": "Kab Mob",
+  "diseasemanagement": "Kev Tswj Xyuas Kab Mob",
+  "diseases": "Cov kab mob",
+  "disease_1": "Tus kab mob",
+  "dissocia": "Disassociate",
+  "DISTANCE": "Nrug",
+  "dm_section_description_1": "Ntawm no koj tuaj yeem xa koj cov ntaub ntawv",
+  "DND": "Tsis Txhob Tawm",
+  "DOCEMAIL": "Tus kws kho mob Email",
+  "DOCNAME": "Kws Kho Mob Lub Npe",
+  "DOCPHONE": "Tus Kws Kho Mob Tus Xov Tooj",
+  "DOCTOR": "Tus kws kho mob",
+  "doctor1": "Tus kws kho mob",
+  "doctorAtHome": "Tus kws kho mob tom Tsev",
+  "doctorAtHomeQuestion1": "Kuv xav tau kev pab hauv tsev rau:",
+  "doctorAtHomeQuestion2": "Xaiv lub tsev pab koj xav tau",
+  "doctorAtHomeQuestion2Answer1": "General Practice",
+  "doctorAtHomeQuestion2Answer2": "Me nyuam yaus",
+  "doctorAtHomeQuestion2Answer3": "Tus kws kho mob",
+  "doctorAtHomeQuestion3": "Qhia kom meej tias yog vim li cas koj xav tau txais kev pab",
+  "doctorAtHomeQuestion4": "Muab hauv daim ntawv hauv qab qhov chaw koj xav tau txais kev pab",
+  "doctorAtHomeRequestBtn": "Xa daim ntawv thov",
+  "doctorAtHomeRequestSuccess": "Peb tau txais koj daim ntawv thov. Koj tuaj yeem raug hu mus nrog 2 xuab moos kom npaj tau kev pabcuam hauv tsev",
+  "doctorAtHomeTitle": "Tus kws kho mob tom Tsev",
+  "doctorbusy": "Tus kws kho mob yog tibneeg hu tauj coob hauv lwm qhov hu",
+  "doctorbusy1": "Tus kws kho mob tsis khoom rau lwm tus hu",
+  "doctorlist": "Cov kws kho mob sau",
+  "doctormanagement": "Cov kws kho mob kev tswj hwm",
+  "doctoroffline": "Tus kws kho mob yog offline, retry",
+  "doctorupdate": "Tus kws kho mob",
+  "DOCTOR_PROFILE_OPT1": "Profile",
+  "DOCTOR_PROFILE_OPT2": "Tus Neeg Mob Mus Saib yav dhau los",
+  "DOCTOR_PROFILE_OPT3": "Pom zoo rau ib tug neeg pabcuam",
+  "DOCTOR_PROFILE_SECTION1": "Koj qhov profile",
+  "DOCTOR_PROFILE_TITLE": "Profile",
+  "doctor_request_sent": "Peb tau xa koj daim ntawv thov rau peb cov kws kho mob. Koj yuav tau txais ib qho lus teb rau ob feeb.",
+  "documents": "Cov ntaub ntawv",
+  "DOCUMENT_BTN": "Cov ntaub ntawv",
+  "doestake": "Koj puas tau noj",
+  "DONATION_TITLE": "Pom zoo pub dawb",
+  "done": "Trackx cov ntaub ntawv tau ntse downloaded. Koj yuav pom lawv nyob hauv cov lus qhia txog kev nyab xeeb",
+  "doneAppointmentPatient": "Yav Dhau Los Teem Caij",
+  "DONE_BTN": "Ua li cas",
+  "dontknow": "Kuv tsis nco qab",
+  "DORMIVEGLIA": "Kev tsaug zog",
+  "dosage": "Dosage",
+  "dosetake1": "Koj puas tau noj koj cov tshuaj noj?",
+  "dottore_rimosso": "Tus kws kho mob tus txheej xwm tau hloov tshiab",
+  "dottore_salvato": "Tus kws kho mob tau kho tshiab",
+  "download": "Download tau",
+  "downloadaspdf": "Download tau li PDF",
+  "downloadecg": "Download tau ECG",
+  "DOWNLOADING_DEVICE_DATA": "Daus ...",
+  "downloadwellnessdata": "Downloading ntaub ntawv kev nyab xeeb ...",
+  "downloadWellnessResult": "ntsuas ntxiv",
+  "DOWNLOAD_CERTIFICATE": "Rub daim ntawv pov thawj",
+  "DOWNLOAD_ERROR_GENERIC": "Oops. Ib qho erros tshwm sim thaum sim mus download tau cov ntaub ntawv. Thov, sim dua tom qab.",
+  "DOWNLOAD_SO_REPORT": "Download tau xa mus",
+  "DO_NOT_DISTURB": "Tsis txhob cuam tshuam",
+  "drugsAtHome": "Tshuaj hauv Tsev",
+  "drugsAtHomeQuestion1": "Koj puas xav tau txais cov tshuaj uas koj tus kws kho mob qhia hauv tsev?",
+  "drugsAtHomeRequestBtn": "Xa daim ntawv thov",
+  "drugsAtHomeRequestSuccess": "Peb tau txais koj daim ntawv thov. Cov tshuaj yuav raug xa hauv 24 xuab moos",
+  "drugsAtHomeSection1": "Muab rau hauv daim ntawv hauv qab naj npawb xov tooj thiab qhov chaw nyob uas koj xav tau txais cov tshuaj.",
+  "drugsAtHomeTitle": "Tshuaj hauv Tsev",
+  "drug_name": "Tshuaj Lub Npe",
+  "duration": "Ntev",
+  "ecg": "ECG",
+  "ecgadded": "ECG tau zoo ntxiv rau daim ntawv teev npe",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "Cov ntaub ntawv EKG",
+  "ecgdetail": "Nias ntawm txhua qhov khoom kom pom cov duab ECG",
+  "ECG_DELETE_Q": "Koj puas paub tseeb tias koj xav rho tawm cov EKG?",
+  "ecg_not_found": "Cov ntaub ntawv tsis ncaj ncees ECG, sim ua lwm lub lag luam.",
+  "ECG_REMOVED": "EKG tau zoo tshem tawm",
+  "edit": "Kho kom raug",
+  "EKG_SECTION_TITLE": "Electrocardiogram (EKG / ECG) Cov Ntsiab Lus",
+  "EKG_TITLE": "EKG Upload",
+  "EMAIL": "Email",
+  "email1": "Email",
+  "email_do_not_match": "Cov emails tsis phim",
+  "ematicTest": "Ematic Tests",
+  "Emergency": "Qhia Rau Thaum Muaj Xwm Ceev",
+  "emergency1": "Thaum muaj xwm ceev",
+  "emergencyLoginCode": "Tshawb Fawb Teev Xwm Ceev",
+  "emergency_numbers": "Cov Naj Npawb Xwm Ceev",
+  "emergency_number_description": "Ntxiv cov xov tooj hu rau thaum muaj xwm ceev",
+  "emotionDescription": "Kev sib xyaw ua ke ntawm ntau yam kev xav hauv siab, raws li tau hais tawm los ntawm cov neeg siv suab thaum lub sij hawm ntawm cov lus tau hais tseg.",
+  "emotions": "Cov Cwj Pwm Sib Ceg",
+  "emptypassword": "Thov, hais kom meej lo lus nug",
+  "EMPTY_ALLERGIES": "Nias ntawm lub pob ntxiv kom ntxiv rau koj cov ntaub ntawv kho mob",
+  "empty_dataset": "Tsis muaj ntaub ntawv",
+  "EMPTY_DEPENDENCIES": "Nias rau ntawm lub pob kom ntxiv ib qho kev cia siab rau koj cov ntaub ntawv kho mob",
+  "EMPTY_DISEASE": "Nias ntawm lub pob ntxiv kom ntxiv rau koj cov ntaub ntawv kho mob",
+  "EMPTY_DOCUMENTS": "Nias ntawm lub pob ntxiv kom muab ib daim ntawv rau koj cov ntaub ntawv kho mob",
+  "EMPTY_IMAGES": "Ndliv lub khawm ntxiv ib qho duab rau koj cov ntaub ntawv kho mob",
+  "EMPTY_IMMUNIZATION": "Nias ntawm lub pob kom ntxiv txhaj tshuaj rau koj cov ntaub ntawv kho mob",
+  "EMPTY_MEDICATION": "Ndliv lub khawm ntxiv tshuaj ntxiv rau koj cov ntaub ntawv kho mob",
+  "empty_otp": "OTP Code tsis tau",
+  "EMPTY_PROSTHESIS": "Ndliv lub khawm ntxiv ntxiv rau koj cov ntaub ntawv kho mob",
+  "EMPTY_TESTS": "Nias ntawm khawm ntxiv qhov kev sim rau koj cov ntaub ntawv kho mob",
+  "enabled": "Enabled",
+  "endate": "Yuav",
+  "endcall": "Xaus hu",
+  "endDate": "Hnub kawg",
+  "endhour": "Txij lub sij hawm",
+  "end_time": "Txij lub sij hawm",
+  "END_VIDEOCALL_Q1": "Koj puas paub tseeb tias koj xav xaus qhov kev sab laj tsis tau pib lub video?",
+  "END_VISIT_BTN": "Kawg mus xyuas",
+  "error": "Yuam kev",
+  "error_call_timeout": "Lub sijhawm ua qhov videocall lawm. Txhawm rau ua qhov video, rov hais dua dua.",
+  "ERROR_EMAIL_DUPPLICATE": "Nws zoo li no email chaw nyob yog twb sau npe. Sim nrog lwm tus.",
+  "error_price": "Thov, qhia ib tus nqi",
+  "ERROR_SPECIFY_DAYS": "Thov, qhia yam tsawg kawg ib lim tiam ib hnub",
+  "ERROR_SPECIFY_HOUR": "Thov, qhia lub sijhawm",
+  "ERROR_TITLE_NOTIFICATION": "Yuam kev",
+  "ERROR_TRACKX": "Qhib Trackx",
+  "error_update": "Yuam hloov tshiab Firmware",
+  "ERROR_USERNAME_DUPPLICATE": "Qhov username no twb raug coj lawm, xaiv lwm tus",
+  "ERROR_WHITELIST": "Thov txim, koj lub cuab yeej tsis ua haujlwm los ua tus viv ncaus",
+  "esameobbligatorio": "Thov, xaiv ib qho Kev Xeem",
+  "exam_name": "Kev Xeem Npe",
+  "exercise": "Ce",
+  "exercisereminders": "Kuv xyaum nco",
+  "existentassoc": "Muaj cov koom haum ua ke",
+  "existentrelation": "Qhov kev sib raug zoo no tau tshwm sim",
+  "expandfordetails": "Nthuav kom paub ntxiv",
+  "EXP_MONTH": "Lub Hlis tag",
+  "EXP_MONTH_REQUIRED": "Lub hli tas sijhawm",
+  "EXP_YEAR": "Lub Xyoo",
+  "EXP_YEAR_REQUIRED": "Yuav tsum tas xyoo siv",
+  "e_prescribing": "E-Sau",
+  "F": "Poj niam",
+  "farmaci": "Cov tshuaj",
+  "farmaco": "Tshuaj",
+  "fat": "Rog",
+  "FATIGUE_INDEX": "Nkees",
+  "FATIGUE_INDEX_DESCRIPTION": "Kev ua haujlwm, kev ua haujlwm thiab kev paub tshwm sim los ntawm qhov kev nyab xeeb ntawm qib siab. Kev qaug zog dhau mus ua rau cov leeg mob plab, mob taub hau, pw tsis tsaug zog, hnyav, mob lub duav, thiab yooj yim ua rau lub hlwb, qhov kev mob endocrine, ua rau muaj ntau yam kab mob ntev thiab puas siab puas ntsws.",
+  "favoriteslist": "Kuv Cov Lus Qhia",
+  "FAVORITES_NO": "Koj tsis tau ntxiv cov kws kho mob rau koj cov npe tsis tau",
+  "FAVORITES_NO_PHARMACIES": "Koj tsis tau ntxiv cov chaw muag tshuaj rau koj daim ntawv teev npe tsis tau",
+  "FAVORITES_SECTION_SUBTITLE": "Nias ntawm txhua qhov khoom saib tag nrho cov ntsiab lus",
+  "FAVORITES_SECTION_TITLE": "Koj tus kws kho mob nyiam",
+  "FAVORITES_TITLE": "Favorites",
+  "favourite_pharmacy": "Cov Phem Uas Nyiam Xaiv",
+  "FEE": "Tswj Cov Nqi",
+  "FEET": "ko taw",
+  "female": "Poj niam",
+  "fileloaded": "Cov ntaub ntawv loaded",
+  "fileloaded1": "Fleet Uploaded zoo",
+  "fileName": "Cov Ntaub Ntawv Npe",
+  "filenotfound": "Cov ntaub ntawv tsis pom",
+  "file_upload_instruction": "Upload kev qhia",
+  "filldate": "Thov, xaiv ib hnub",
+  "filldoctor": "Thov, xaiv ib tus kws kho mob",
+  "fillpeciality": "Thov, xaiv ib tug kws kho mob tshwj xeeb",
+  "fillthebox": "Sau lub thawv",
+  "fill_indication": "Thov, sau rau thaj chaw cim tseg",
+  "fill_indication_for": "Thov qhia lub ntsiab lus rau",
+  "fill_quantity": "Thov, sau kom tiav cov lus teb",
+  "fill_quantity_for": "Thov qhia kom muaj nuj nqis rau",
+  "fill_your_doubt": "Thov, muab cov lus piav qhia nyob rau hauv lub thawv saum toj no.",
+  "filter": "Lim",
+  "finddoctor": "Nrhiav kws kho mob",
+  "findFarmacia": "Tshawb nrhiav",
+  "findpatient": "Nrhiav tus neeg mob",
+  "findspcialist": "Nrhiav ib tus kws khomob tshwjxeeb",
+  "findStruttura": "Nrhiav Cov Qauv",
+  "finduser": "Nrhiav neeg siv",
+  "FIND_A_DOCTOR": "Txuas mus rau tus kws kho mob",
+  "find_device": "Nrhiav Ntaus",
+  "FIND_THE_BRACELET": "Nrhiav txoj hlua khauj",
+  "fingerprint_btn": "Pab kom nkag mus rau hauv cov thaij duab",
+  "fingerprint_hint": "Tuav kom pom tseeb ntiv tes ntxiv mus",
+  "fingerprint_hint2": "Tuav kom pom tseeb ntiv tes ntxiv mus",
+  "fingerprint_question": "Koj puas xav mus qhib cov ntawv ntiv tes?",
+  "FIRMWARE_UPDATE": "Tshawb Fawb Tawm",
+  "FIRMWARE_UPDATED": "Firmware Updated",
+  "firstName": "Thawj Lub Npe",
+  "five_min": "Hauv 5 feeb",
+  "fixappointment": "Koj puas xav teem caij sib ntsib no?",
+  "forever": "Mus ib si",
+  "forgotPassword": "Tsis nco qab koj tus password?",
+  "forgot_password": "Tsis nco qab lo lus zais?",
+  "forma": "Hom",
+  "formafarmaco": "Daim Ntawv Tshuaj Kho Mob",
+  "formatError": "Nqe yuav tsum yog tus lej.",
+  "found_devices": "Pom muaj pab kiag li lawm",
+  "FRIDAY": "Hnub vas Xuv",
+  "GENDER": "Tub los ntxhais",
+  "gender1": "Tub los ntxhais",
+  "general": "General",
+  "generalInfo": "General info",
+  "genericName": "Generic npe",
+  "GENERIC_ERROR": "OOPS! Ib yam dab tsi mus tsis ncaj ncees lawm. Thov, sim dua tom qab",
+  "geneticTest": "Genetic Test",
+  "geneticTestHeader2": "Los ntawm kev tshuaj ntsuam genetic tests koj tuaj yeem paub ntau ntxiv txog koj kev noj qab haus huv thiab ua qhov zoo tshaj plaws kom muaj kev noj qab nyob zoo.",
+  "geneticTestHeader3": "Nws ua hauj lwm li cas",
+  "geneticTestProduct": "Cov Zaub Mov Nutrition",
+  "geneticTestRequestBtn": "Nug kom tau qhov kev kuaj ntawd",
+  "geneticTestRequestSuccess": "Koj qhov kev txiav txim tau raug lees paub. Koj yuav tau txais cov khoom siv hauv tsev",
+  "geneticTestSection1": "Koj puas xav tau tam sim no yog tias koj noj dab tsi yog txaus rau koj lub cev thiab koj cov metabolism?",
+  "geneticTestSection2": "Koj puas xav paub seb qhov khoom noj khoom haus zoo tshaj plaws ntawm koj lub cev tsis raug kab mob cronic?",
+  "geneticTestSection3": "Kev ntsuam xyuas kev noj haus yuav qhia koj paub qhov txuas ntawm koj cov DNA thiab kev noj haus.",
+  "geneticTestSection4": "Ntxiv ntawm no koj tus xov tooj thiab qhov chaw nyob uas koj xav tau txais pob khoom",
+  "geneticTestStep1": "1. Ua kom koj qhov kev xeem",
+  "geneticTestStep1Subtitle": "Ua kom koj txiav txim nrog lub app thiab tau txais cov khoom siv ncaj qha nyob hauv tsev.",
+  "geneticTestStep2Subtitle": "Coj tus qauv thiab xa tuaj rau peb los ntawm kev xa ntawv siv lub hnab ntawv peb mam qhia koj.",
+  "geneticTestStep3": "3. Tau txais cov txiaj ntsig",
+  "geneticTestStep3Subtitle": "Tom qab ob peb lub hlis koj yuav tau txais ib tsab ntawv qhia rau koj tias qhov kev kuaj tau ntawm kev tshuaj ntsuam genetic test yuav muaj nyob rau ntawm App.",
+  "geneticTestTitle": "Genetic Test",
+  "GLUCOMETER": "Glucometer",
+  "glucosio": "Ntshiab",
+  "HAND_BRIGHTEN": "Tsa koj txhais tes kom Brighten",
+  "happiness": "Kev zoo siab",
+  "HDL": "HDL Roj",
+  "hdl_cholesterol_desc": "Cov roj lipoprotein (HDL) uas muaj roj ntau dua yog cov roj (cholesterol) zoo. Cov lus hauv qab no qhia cov qib ntawm qhov tseem ceeb.",
+  "healthtips": "Healthtips",
+  "HEALTH_INDEX": "Kev noj qab haus huv",
+  "HEALTH_INDEX_DESCRIPTION": "HRV kev noj qab nyob Performance index yog los ntawm kev ntsuas qhov nruab nrab ntawm lub plawv HR thiab lub plawv qhov sib txawv HRV thiab lwm yam tsis, raws li kev ntsuas ntawm qhov tseeb ntawm kev soj ntsuam ntawm Holter los soj ntsuam lub cev tsis muaj mob, kev ntsuas kev noj qab haus huv nce, sawv cev rau kev noj qab haus huv ntawm lub cev zoo dua; kev noj qab nyob Performance index tsawg, rau ntawm lub cev Yuav tsum them sai sai rau lub neej noj qab nyob zoo.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Lub plawv",
+  "HEART_INDEX_DESCRIPTION": "Kev Mob Ntshav Cov neeg siv ntsuas ib tug neeg lub plawv mob, thiab lawv qhov kev ua tau zoo dua vim tias lawv txawv ntawm kev hlub rau lub plawv thiab kev noj qab haus huv. Txhim kho txoj kev noj qab haus huv thiab kev noj zaub mov zoo: ib lub tswv yim tsim nyog siv lub plawv los yuam kom lub plawv calcium sodium ntxiv, tiv thaiv cov hlab ntsha, tuaj yeem tiv thaiv qhov kab mob hauv lub plawv, yog xav txhawb kev mob plawv.",
+  "height": "Qhov siab",
+  "height1": "Qhov siab yuav tsum yog kom muab kev txheeb ntawm BMI",
+  "heightUnit": "Qhov siab ntsuas",
+  "hepaticFunction": "Hepatic muaj nuj nqi",
+  "hide": "Nkaum",
+  "high1": "Siab",
+  "high_risk": "Muaj kev pheej hmoo siab",
+  "history": "Kev Sib Txuas Lus Qhia",
+  "homepage": "Tsev",
+  "HOME_WARNING_MESSAGE": "Koj puas paub tseeb tias koj xav mus sab nraud ntawm nplooj ntawv no? Koj qhov kev hloov kho yuav ploj mus.",
+  "hormonalTest": "Kev Ntsuam Xyuas Kev Ntsuas Hormonal",
+  "hospDate": "Hosp.date",
+  "hospit": "Lub tsev kho mob rau",
+  "hospital": "Tsev kho mob",
+  "hospitalization": "Kev pw hauv tsev kho mob",
+  "hour": "Teev",
+  "hours": "Sijhawm",
+  "HOURS_BANK_DONATE_BTN": "Pub",
+  "HOURS_BANK_DONATION": "Cov sij hawm tam sim no pub dawb:",
+  "HOURS_BANK_H": "Cov Sijhawm Teev Txhab:",
+  "HOURS_BANK_SECTION_P1": "Kev noj qab haus huv yog qhov tseem ceeb tshaj plaws ntawm SaluberMD thiab peb xav kom pab ntau tus neeg li qhov ua tau. Los ntawm peb lub platform peb ua rau nws ua tau rau cov neeg xav tau kev nkag tau rau kev kho mob. Peb cov pabcuam hauv kev koomtes tau cog lus rau kev muab cov sijhawm rau kev kho mob rau cov koomhaum, cov tibneeg thiab cov tsev neeg uas xav tau.",
+  "HOURS_BANK_SECTION_P2": "Cias nias ntawm qhov txuas nrog pes tsawg teev uas koj xav pub thiab peb mam li ntxiv rau peb lub txhab cia nyiaj.",
+  "HOURS_BANK_SECTION_P3": "Peb mam li tiv tauj koj ntawm qhov app kom txhiv tau cov xuab moos thiab thaum twg koj muaj cov nias nyem txais pom cov neeg mob.",
+  "HOURS_BANK_SECTION_TITLE": "Koom peb hauv kev muab khoom plig rau kev kho mob!",
+  "HOURS_BANK_TITLE": "Sijhawm Qhib",
+  "howto": "Yuav ua li cas",
+  "howto1": "Cov slots muaj cov cim nrog lub pob ntsuab",
+  "howto2": "Xaiv ib lub xov tooj cua nrog lub pob ntsuab thiab nias rau nws kom nthuav dav thiab xaiv lub sijhawm. Thaum koj tabtom npaj txhij mus rau lub cim mem tes pom cov lus qhia thiab coj lub sijhawm teem tseg",
+  "howToPrice": "Tus nqi yuav tsum yog tus lej kom muaj nuj nqis. Tsawg kawg ntawm ob tus lej muaj nuj nqis raug tso cai. Dot lossis comma tuaj yeem siv ua cais ua ke",
+  "hrv_buono": "Zoo",
+  "hrv_eccellente": "Zoo heev",
+  "hrv_generale": "General",
+  "hr_alta": "Ntau tshaj 100",
+  "hr_bassa": "Tsawg dua 60 xyoo",
+  "HR_DESCRIPTION": "Siv cov lus ntawm kev so hauv plawv",
+  "HR_INTERVAL": "HR Ntsuas Caij Nyoog",
+  "hr_normale": "Nruab nrab ntawm 60 thiab 100",
+  "hsh": "Kev Tiv Thaiv Kev Kho Mob Hauv Tsev Kho Mob thiab Kev Phais Tshuaj",
+  "IBAN": "IBAN",
+  "idx": "Indexes",
+  "image": "Image",
+  "images": "Dluab",
+  "immunization": "Txhaj tshuaj tiv thaiv",
+  "immunizationmenu": "Txhaj tshuaj tiv thaiv",
+  "importhealth": "Cov Ntaub Ntawv Ntshuam Ntshuam",
+  "impossible_transfer": "Tsis yooj yim sua kom sib cav",
+  "INCH": "Inch",
+  "indexes": "Indexes",
+  "indication": "Kev qhia",
+  "INFO_BTN": "Lus Qhia",
+  "info_salvate": "Cov ntaub ntawv muaj kev vam meej",
+  "iniezione": "Txhaj tshuaj",
+  "initiative": "Initiative",
+  "initiativeerror": "Thov, xaiv ib qho pib",
+  "insert": "Ntxig rau",
+  "inserttext": "Hloov ntawv ntawm no",
+  "insert_otp_code": "Ntxig qhov chaws ntawm no",
+  "internet_missing": "Koj tsis muaj kev cob cog rua internet",
+  "invalidemail": "Invalid email chaw nyob",
+  "invoice": "Invoice",
+  "irregulartest": "Tsis Tuaj Txhim Kho",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Kev Kuaj Rau Mob Raum",
+  "labtesting": "Network",
+  "LANGUAGE": "Lus",
+  "LANGUAGE_TYPE": "Lus",
+  "lastmeasure": "Qhov kawg ntsuas",
+  "lastName": "Lub Xeem",
+  "lastPhysical": "Lub Cev Lub Cev",
+  "lastSync": "Xeem Sync",
+  "lastTimeOnline": "Lub Sij Hawm Tshawb Tau Hauv Internet",
+  "lastvisit": "Lub sijhawm kawg",
+  "last_login_date": "Lub Hnub Nyoog Kawg",
+  "last_time_taken": "Kawg coj",
+  "LDL": "Cov Roj (cholesterol) LDL",
+  "ldl_cholesterol_desc": "LDL, lossis cov lipoprotein tsawg-yog, yog qhov &quot;caj&quot; phem. Cov lus hauv qab no qhia cov qib ntawm qhov tseem ceeb",
+  "leggero": "Lub teeb",
+  "LICENSE_NUMBER": "Tus lej daim ntawv tso cai",
+  "LIGHT_SLEEP_TIME": "Teeb Tsaus",
+  "listcall": "Daim ntawv teev cov videocall uas tau ua tiav",
+  "litri": "Luam",
+  "liverExam": "Kev kuaj xyuas daim siab ua haujlwm",
+  "LIVE_ECG": "Kev ntsuas tshiab",
+  "live_ecg_downloading": "Tshaj ECG. Thov tos ...",
+  "loadEcgList": "Loading qhov chaw EKG ...",
+  "loading": "Loading cov ntaub ntawv ...",
+  "loading1": "Chaw thau khoom ....",
+  "loading_list": "Daim ntawv teev npe chaw ...",
+  "loading_list_nutritionist": "Chaw tso khoom noj khoom haus ...",
+  "LOAD_INDEX": "Thauj khoom",
+  "LOAD_INDEX_DESCRIPTION": "Kev kawm thiab qaug zog, kev nyuab siab Kev txheeb xyuas ntawm lub cev kom txhawb nqa qhov ntsuas ntawm qhov ntsuas, rov qab xav txog ntawm lub cev thiab kev xav ntawm tus neeg mob qhov xwm txheej. Sab nraud kev sib raug zoo, lub neej thiab kev sib tw thiab lwm yam, tiam sis kuj yog lawv tus kheej lub cev thiab lub xeev lub hlwb.",
+  "LOAD_ITEMS": "Chaw thau khoom ....",
+  "LOGGING_IN": "Nkag mus rau hauv ...",
+  "LOGGING_OUT": "Txiav tawm ...",
+  "LOGIN_BTN": "Nkag mus",
+  "LOGIN_ERROR": "Sau Lub Npe lossis Tus Password",
+  "Logout": "Logout",
+  "logout1": "Logout",
+  "LOGOUT_BTN": "Logout",
+  "low1": "Tsawg",
+  "lunch": "Noj su",
+  "lungtest": "Cia peb ua tus kuaj mob ntsws",
+  "M": "Txiv neej",
+  "male": "Txiv neej",
+  "manageapp": "Tswj kev teem caij ntsib",
+  "manageslot": "Tswj cov slot dawb",
+  "MANAGE_CORX": "Tswj Corx",
+  "mandatoryDays": "Thov, qhia muaj pes tsawg tus hnub",
+  "mandatoryfield": "Thov, sau tag nrho cov teb yuav tsum tau ua",
+  "map": "Daim ntawv qhia",
+  "max_file_size": "Cov ntawv loj yuav tsum tsawg dua",
+  "meals": "Noj mov",
+  "medicalconsultation": "Kev sab laj",
+  "medicalfile": "Dluab",
+  "medicalform": "Cov Ntawv Kho Mob",
+  "medicalforms": "Cov Ntawv Kho Mob",
+  "medicalinfo": "Kev Kho Mob",
+  "medicalrecord": "Cov Ntaub Ntawv Kho Mob",
+  "medical_2option": "Kev Ntseeg Tswv Yim Ob",
+  "MEDICAL_CERTIFICATE": "Daim Ntawv Pov Thawj Kho Mob",
+  "MEDICAL_FILE_BTN": "Ntaub Ntawv Kho Mob",
+  "medication": "Tshuaj",
+  "medication_name": "Lub npe tshuaj",
+  "medicinereminders": "Kuv cov tshuaj nco",
+  "medio": "Nruab nrab",
+  "medium1": "Nruab nrab",
+  "message": "Lus sam",
+  "messagesent": "Xov xa tiav",
+  "metabolismTest": "Kev Ntsuas Kab Hlau Ntsuas",
+  "method": "Txoj kev",
+  "METRIC": "Metric",
+  "middedcall2": "Koj muaj ib qho kev hu unanswered ntawm",
+  "minutes": "feeb",
+  "missedcall": "SaluberMd Tsis tuaj yeem ntsib videocall",
+  "missedcall1": "Hu Tsis Tau",
+  "missedNotiAlert": "Koj muaj qee cov ntawv qhia tsis dhau.",
+  "misurazioni": "Cov ntaub ntawv",
+  "misure": "Ntsuas",
+  "mobile": "Txawb",
+  "mobile_required": "Thov, ntxiv rau koj tus xovtooj kom peb thiaj tuaj yeem tiv tauj koj tuaj teem sijhawm.",
+  "moderate_risk": "Kev pheej hmoo pes tsawg",
+  "MONDAY": "Hnub Monday",
+  "month": "Lub Hlis",
+  "mood": "Cov pawg mus ob peb vas",
+  "moodDescription": "Ib qho qhia tseem ceeb ntawm tus neeg hais lus lub siab lub ntsws thaum lub sij hawm hauv lub ntsiab lus uas tau txheeb xyuas. Cov qib API ua kom tag nrho 11 pawg ntawm pawg xws li kev npau taws, kev kho siab thiab kev tswj tus kheej rau kev zoo siab thiab kev zoo siab.",
+  "moreDays": "Ntau hnub",
+  "motivazione": "Vim li cas",
+  "MRGraph": "Tshuaj noj keeb kwm",
+  "msgAppointment": "Lub sij hawm tau teem muaj tiav lawm. Koj tuaj yeem nrhiav koj lub sijhawm teem rau hauv cov kev pabcuam hauv qab no.",
+  "msgsurveysent": "Daim ntawv ntsuam xyuas tau xa tuaj",
+  "msg_call_reconnection": "Sim mus nrhiav dua ...",
+  "MSG_CALL_TRANSFERED": "Cov video hu tau zoo heev",
+  "MSG_CHOOSE_OPTION": "Thov, xaiv ib qho kev xaiv",
+  "MSG_CHOOSE_OPTION4": "Xaiv ib qho kev xaiv",
+  "MSG_CHOOSE_OPTION5": "Piav txog koj tshais",
+  "MSG_CHOOSE_OPTION6": "Piav qhia koj noj hmo",
+  "MSG_CHOOSE_OPTION7": "Qhia txog koj pluas su",
+  "MSG_CHOOSE_OPTION8": "Piav qhia koj cov khoom txom ncauj",
+  "MSG_CHOOSE_OPTION9": "Thov, teb txhua cov lus nug",
+  "MSG_CHOOSE_OPTION_2": "Thov, ntxig rau kev piav qhia",
+  "MSG_CHOOSE_OPTION_3": "Xaiv yam tsawg ib txoj",
+  "MSG_COMPLETE_PROFILE": "Koj puas xav mus tam sim no?",
+  "MSG_CONFIRM_EMAIL": "Thov, paub meej tias koj email",
+  "MSG_CONFIRM_EMAIL_TEXT": "Peb tau xa koj tsab email nrog cov lus qhia txog seb yuav ua li cas kom paub tseeb koj email chaw nyob. Thov mus saib koj tus inbox.",
+  "msg_connected": "Muaj kev sib raug zoo",
+  "MSG_CONTACT_SUCCESS": "Tsaug rau koj qhov kev xa tawm.",
+  "MSG_DOC_ENDED_CALL": "Tus kws kho mob tau hu xov tooj tuaj",
+  "MSG_DOC_WAITING_CALL": "Tus kws kho mob tau raug kaw, tos rau reconnect",
+  "MSG_DONATION": "Paub meej tias koj pub dawb?",
+  "MSG_DONATION_CONFIRM": "Ua tsaug rau koj pub dawb",
+  "MSG_ERROR_FILL_BOXES": "Thov sau rau hauv cov thawv nrog qhov tseeb qhov tseem ceeb",
+  "MSG_FILL_ALL_BOXES": "Thov, kos rau tag nrho cov thawv",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Thov teb kom tiav txhua yam nram qab no",
+  "MSG_FILL_BOXES": "Thov sau rau hauv cov thawv",
+  "MSG_FILL_BOXES_ALL": "Thov sau, sau txhua daim teb",
+  "MSG_FILL_BOXES_PROFILE": "Thov, puv txhua lub thawv cim nrog lub hnub qub",
+  "MSG_GENERIC_ERROR": "Thov saib koj qhov kev twb kev txuas hauv internet kom rov ua dua.",
+  "MSG_GENERIC_FORM_ERROR": "Thov kho qhov yuam kev mus ntxiv",
+  "MSG_LOGIN_ERROR": "ID nkag mus tsis tau. Thov saib koj daim ntawv pov thawj thiab paub tseeb tias koj nyob nraum txuas nrog lub network.",
+  "MSG_LOGIN_ERROR_LOCKED": "ID nkag mus tsis tau: koj tus account yog ib ntus xauv. Thov rov tom qab.",
+  "MSG_MANDATORY_OPTION": "Koj yuav tsum tso cai rau tus kws kho mob kom pom cov ntaub ntawv kho mob",
+  "MSG_NO_DOCTORS_FOUND": "Peb apolozie, tab sis tsis muaj kws kho mob tau pom. Xovxwm Nrhiav kws kho mob xaj kom rov ua dua",
+  "MSG_PATIENT_CANCELED_CALL": "Tus neeg mob tau tso tseg qhov hu.",
+  "MSG_PATIENT_ENDED_CALL": "Tus neeg mob tau xaus kev hu xov tooj",
+  "MSG_PATIENT_WAITING_CALL": "Tus neeg mob tau raug kaw, tos rau reconnect",
+  "MSG_POST_CALL_CANCEL": "Koj tau mus ntsib kws kho mob ua ntej pib ua qhov video!",
+  "MSG_POST_CALL_DOCTOR": "Sau xa koj yuav rov qab mus rau qhov homepage",
+  "MSG_POST_CALL_PATIENT": "Ua tsaug rau koj kev siv SaluberMD. Koj yuav tau txais ib qho email. Xav saib cov ntsiab lus hais txog koj qhov kev mus saib xyuas thov mus saib Kuv Lub Hnub Tim Kho Ncaj Ncees",
+  "msg_reconnection_error": "Ntaus ntaus. Thov, recconnect tus ntaus ntawv",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Tsaug ... ib tug neeg yuav hu rau koj",
+  "MSG_REGISTRATION_SUCCESS": "Koj qhov kev sau npe tau ua tiav",
+  "msg_req_videocall1": "muaj nyob rau hauv cov video tham hauv:",
+  "msg_req_videocall2": "Lub video yog npaj txhij pib. Nias ntawm tsab ntawv ceeb toom no mus qhib lub video",
+  "msg_req_videocall3": "muaj nyob rau hauv video tam sim no. Nias ntawm tsab ntawv ceeb toom no mus qhib lub video",
+  "MSG_RESET_REQUEST_ERROR": "Tus neeg siv nrog lub username lossis email chaw nyob tsis muaj nyob.",
+  "MSG_RESET_REQUEST_SUCCESS": "Koj yuav txais sai sai hauv email uas muaj qhov txuas mus pib dua lo lus zais.",
+  "MSG_RESUME_CALL": "Koj tam sim no muaj kev hu xov tooj, koj puas xav rov qab xav dua?",
+  "MSG_SCHOOL_MISSING": "Insert School",
+  "MSG_SELECT_TIMEZONE": "Xaiv lub timezone",
+  "MSG_SIGNATURE_MISSING": "Thov sau koj kos npe, txwv tsis pub koj tuaj yeem xa cov ntawv yuav tshuaj.",
+  "MSG_THANKING": "Tsaug rau koj qhov kev xa tawm.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Poob kev twb kev txuas. Qhov no yuav yog vim koj qhov kev twb kev txuas hauv internet",
+  "MSG_WELCOME_BACK": "Txais tos qab",
+  "MSG_YEAR_PRACTISE": "Ntxig Year of Xyaum",
+  "muscles": "Cov leeg",
+  "myappointment": "Kuv lub sijhawm",
+  "MYFILE_NOFILE": "Koj tsis muaj cov ntaub ntawv tau",
+  "MYFILE_SECTION": "Koj cov ntaub ntawv",
+  "MYFILE_SUBTITLE": "Nias ntawm txhua qhov khoom los saib cov ntsiab lus",
+  "MYFILE_TITLE": "Kuv Cov Ntaub Ntawv",
+  "myprofile": "Kuv Profile",
+  "myreminders": "Kuv nco",
+  "MY_TICKETS": "Koj daim pib",
+  "M_SCHOOL": "Kho Mob Tsev Kawm Ntawv",
+  "N": "Tsis yog",
+  "name": "Lub npe",
+  "negative": "Tsis zoo",
+  "nervous": "Kev poob siab",
+  "nessun_appuntamento": "Nws tsis muaj kev teem caij li cas",
+  "NETWORK_CHECK_MSG": "Koj qhov Bandwidth yog qhov tsawg dhau. Ua si cov ntsiab lus uas tsis muaj bandwidth yuav ua rau lub yees duab nres.",
+  "NETWORK_CHECK_TITLE": "Hu Qhov Kev Ntsuas Kom Zoo",
+  "NETWORK_ERROR": "Internet yuam kev. Sim dua tom qab",
+  "neutral": "Neutral",
+  "newappointment": "Kev teem sijhawm tshiab los ntawm",
+  "newass": "Ntxiv ib lub koom haum tshiab",
+  "NEWPWD_CONFIRM": "Password successfully hloov. Thov nkag rov tuaj dua.",
+  "NEWPWD_CONFIRM2": "Lo lus zais sucessfully hloov",
+  "NEWPWD_ERROR": "Tshiab password tsis txuam.",
+  "newtest": "Nias lub khawm ntxiv kom paub qhov kev xeem tshiab.",
+  "NEW_PWD": "Tshiab lo lus zais",
+  "new_ticket": "Daim pib tshiab",
+  "NEXT": "Tom ntej",
+  "no": "Tsis yog",
+  "noAlarm": "Tsis muaj lub tswb nrov",
+  "noallergies": "Yog tsis muaj kev fab tshuaj twg.",
+  "noapatient": "Tsis muaj neeg mob",
+  "noappointment": "Tsis muaj teem caij teem tseg",
+  "noappointments": "Nws tsis muaj hnub muaj nrog tus kws kho mob no",
+  "noappointments1": "Nws tsis muaj hnub tim nrog tus kws qhia noj haus no",
+  "noAppoPat": "Koj tsis muaj lub sijhawm los muab sau",
+  "noarticles": "Tsis pub khoom noj khoom haus",
+  "noassociatedpatient": "Koj tsis muaj mob rau tus neeg mob",
+  "noattachment": "Thov, xaiv ib qho txuas",
+  "noattachment1": "Tsis muaj Ntxuas",
+  "noavailableoption": "Tsis muaj kev xaiv",
+  "nocomment": "Tsis muaj comments / reccomendation",
+  "noconsulenze": "Tsis tas mus saib ua li cas",
+  "nocorxfound": "Tsis muaj CORX nrhiav",
+  "nodata": "Tsis muaj cov ntaub ntawv",
+  "nodependency": "Muaj tsis muaj kev sib tos seb.",
+  "nodesease": "Tsis muaj cov kab mob sau tseg.",
+  "nodevice": "Tsis tau pom, thov rov qab ua ke",
+  "nodoctor": "Tsis muaj kws kho mob pom",
+  "nodoctors": "Tsis muaj kws kho mob muaj",
+  "noDocuments": "Tsis muaj cov ntaub ntawv uploaded",
+  "nodrugselected": "Koj tau xaiv tsis muaj tshuaj",
+  "noecg": "Tsis muaj ECG teev",
+  "noexam": "Tsis muaj kev kuaj mob los tso saib",
+  "nofiles": "Tsis muaj cov ntaub ntawv xa los ntawm tus neeg mob",
+  "noHistory": "Tsis muaj kev sab laj thaum lub sijhawm no",
+  "nohsh": "Tsis muaj tsev kho mob uas tau teev tseg.",
+  "noimages": "Tsis muaj ib qho txuas ntawm lub sijhawm no",
+  "noimmunization": "Tsis muaj kev txhaj tshuaj tiv thaiv kab mob.",
+  "nolabtest": "Tsis muaj kev kuaj ntshav kuaj pom",
+  "nomedication": "Tsis muaj cov tshuaj nyob hauv.",
+  "nomisure": "Tsis muaj kev ntsuas",
+  "nonterminata": "Hu Xov Tooj Tsis Txaus Siab",
+  "nonutritionist": "Tsis muaj tus kws qhia noj haus",
+  "nonuvoair": "Tsis ntaus ntawv pom",
+  "nopharmacy": "Tsis muaj chaw muag tshuaj",
+  "noprescription": "Tsis muaj cov ntawv yuav tshuaj thaum lub sijhawm no",
+  "noprothesis": "Nws tsis muaj ib qho kev pom zoo lossis Cov Kev Pab Kho Mob uas tau teev tseg.",
+  "noreferrals": "Tsis muaj cov referrals tau teev tseg",
+  "noreminders": "Koj tsis muaj kev nco txog tamsim no",
+  "noresults": "Tsis pom muaj li cas",
+  "normale": "Qhov qub",
+  "normalrange": "Feem ntau",
+  "normalWeight": "Qhov hnyav li qub",
+  "nosintomi": "Tsis muaj cov cim xaiv",
+  "nospecialist": "Tsis muaj cov kws tshwj xeeb",
+  "note": "Sau ntawv",
+  "notests": "Nws tsis muaj cov kev ntsuam xyuas tsis zoo nyob rau hauv.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Nyem ntawm no los ua kom tiav koj cov ntaub ntawv kho mob",
+  "NOTIFICATIONS_SECTION": "Koj cov ntawv qhia",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Tau txais kev pab dawb 1 los yog kev soj ntsuam kev noj qab haus huv hu tom qab ua tiav koj cov ntaub ntawv kho mob.",
+  "NOTIFICATIONS_SETTINGS": "Muab cov ntawv qhia",
+  "NOTIFICATIONS_TITLE": "Cov ntawv qhia",
+  "notification_setting": "Xaiv ntawm wich qeb koj xav tau txais cov ntawv qhia",
+  "notimage": "Cov ntaub ntawv tsis yog duab: Tsuas pub BMP, GIF, JPG thiab PNG xwb",
+  "notNow": "Tsis Tam Sim No",
+  "notnow_btn": "Tsis yog tam sim no",
+  "nouser": "Tsis muaj neeg nrhiav pom",
+  "novantad": "Lub xeem 90 hnub",
+  "novideocall": "Tsis muaj videocall pom",
+  "novisit": "Koj tsis muaj neeg tuaj ntsib koj",
+  "noWellnessData": "Tsis Muaj Cov Ntawv Qhia Txog Kev Noj Qab Haus Huv Tshiab",
+  "no_certificate": "Tsis muaj daim ntawv pov thawj yuav tsum tau teev",
+  "no_chiosc_data": "Tsis pub kuaj sim saib",
+  "NO_DATA": "Tsis muaj cov ntaub ntawv",
+  "no_doctor_answer1": "Tsis muaj cov kws kho mob nyob rau lub sijhawm no.",
+  "no_doctor_answer2": "Koj tuaj yeem teem caij tau raws li khawm hauv qab no.",
+  "NO_GENETIC_TEST_REQUESTS": "Koj tsis tau thov kom kuaj cov noob caj noob ces",
+  "NO_MSG": "Tsis xa lus",
+  "no_notifications": "Koj tsis muaj ntawv ceeb toom",
+  "no_prescription_download": "Yog tsis muaj cov tshuaj los ntawm qhov kev sib tham no",
+  "no_pull_answer": "Tsis muaj kws kho mob muaj nyob tam sim no.",
+  "no_referral_download": "Tsis muaj kev xa mus rau qhov kev mus ntsib no",
+  "NO_SECOND_OP_REQUESTS": "Koj tsis tuaj yeem thov rau Lub Tswv Yim Kho Ob Lub Tswv Yim",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Tsis muaj kev tshwj xeeb nrhiav tau",
+  "NO_TICKETS_SENT": "Tsis muaj daim pib xa tuaj",
+  "NO_USER_FOUND": "Username lossis Email tsis pom",
+  "NPI": "NPI",
+  "ns": "Lub cev tsis muaj zog",
+  "numberNotSaved": "Yuam kev thaum txuag tus naj npawb",
+  "numberSaved": "Tuag Naj Npawb Zoo",
+  "nuovoair_connected": "Txuas nrog",
+  "nuovoair_disconnected": "Tshem tawm",
+  "nutriPen": "Teem sijhawm rau kev thov",
+  "nutriRev": "Cov Lus Nug Txog Cov Lus Teb",
+  "nutrition": "kev noj haus",
+  "nutritionist": "Hais rau ib tug nutrionist",
+  "NUTRITIONIST_Q1": "Cov Hom Phiaj Tsev: (Kos tag nrho cov ntawv thov)",
+  "NUTRITIONIST_Q10": "Puas yog koj pheej chim siab, taws taws lossis qaug zog yog tias koj tsis tau noj mov?",
+  "NUTRITIONIST_Q11": "Tam sim no qoj ib ce: (Cardio, Kuj, thiab lwm yam)",
+  "NUTRITIONIST_Q12": "Koj Puas Haus Haus Luam Yeeb? (Yog tias yog, ntau npaum li cas thiab pes tsawg?)",
+  "NUTRITIONIST_Q13": "Koj Puas Haus Haus Dej Cawv? (Yog tias yog, ntau npaum li cas thiab pes tsawg?)",
+  "NUTRITIONIST_Q14": "Koj Puas Haus Haus Caffeine ?: (Yog yog, ntau npaum li cas thiab pes tsawg?)",
+  "NUTRITIONIST_Q15": "Hnub Nruab Nrab Tag Nrhav:",
+  "NUTRITIONIST_Q16": "Koj tau raug tshuaj tua kab mob li cas hauv 2 xyoos dhau los:",
+  "NUTRITIONIST_Q16_BIS": "Yog tias muaj, Cov twg thiab ntau npaum li cas, (Thov ua qhov tseeb kom tseeb.)",
+  "NUTRITIONIST_Q17": "Koj puas noj tshuaj? (OTC los yog Tshuaj Ntsuam Kho Mob?) Yog tias muaj, leej twg thiab koj puas noj tshuaj? Yog tias muaj, ntau npaum li cas, (Thov ua qhov tseeb kom meej.)",
+  "NUTRITIONIST_Q18": "Puas yog koj plab los yog cem quav ntau tshaj 1-2 hnub hauv ib lub lim tiam?",
+  "NUTRITIONIST_Q19": "Koj puas muaj teeb meem hauv cov chaw hauv qab no? Yog tias muaj, thov piav qhia txog koj cov teeb meem kom ntxaws ntxaws hauv cov chaw muaj.",
+  "NUTRITIONIST_Q2": "Kwv yees li ntawm pes tsawg noj mov koj puas noj ib hnub? (Xaiv Ib Yam)",
+  "NUTRITIONIST_Q3": "Dab Tsi Koj Noj Noj Kws Khaub Ncaws Li Cas, thiab lub sijhawm twg:",
+  "NUTRITIONIST_Q4": "Koj Lub Hom Pluas Qis Zoo Li Cas, thiab lub sijhawm twg:",
+  "NUTRITIONIST_Q5": "Dab Tsi Koj Lub Caij Noj Ncuav Noj Qab Haus Huv Li, thiab lub sijhawm twg:",
+  "NUTRITIONIST_Q6": "Dab Tsi Ua Rau Koj Qhov Ncauj Mob Teeb Meem Zoo Li Cas, thiab lub sijhawm twg:",
+  "NUTRITIONIST_Q7": "Koj Puas Muaj Ntau Yam?",
+  "NUTRITIONIST_Q8": "Yam khoom noj dab tsi koj nyiam tshaj tawm thiab ntau npaum li cas:",
+  "NUTRITIONIST_Q9": "Koj puas muaj kev tsis haum khoom noj, txwv los yog kev tsis zoo:",
+  "NUTRITIONIST_SUB1": "Luj poob",
+  "NUTRITIONIST_SUB10": "Kev xeev siab / ntuav",
+  "NUTRITIONIST_SUB11": "Lub plab mob",
+  "NUTRITIONIST_SUB2": "Nyhav Nyuaj",
+  "NUTRITIONIST_SUB3": "Zog / Qaug zog",
+  "NUTRITIONIST_SUB4": "Pw zoo zog",
+  "NUTRITIONIST_SUB5": "Cov teeb meem hauv kev zom",
+  "NUTRITIONIST_SUB6": "Cem quav",
+  "NUTRITIONIST_SUB7": "Zawv plab",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Bloating / Roj",
+  "nutrition_mail": "Muab cov ntaub ntawv qhia txog kev noj qab haus huv tshaj tawm",
+  "nutrition_mail2": "Tus kws qhia noj khoom haus xa ib daim ntawv tuaj rau koj",
+  "nutrition_questionnaire": "lus nug kev noj haus",
+  "nvisit": "Tus nab npawb ntawm videocalls tas",
+  "obesity1": "Rog",
+  "obesity2": "Loj heev",
+  "obesity3": "Morbidly rog",
+  "OFFICE_ADDRESS": "Chaw ua haujlwm chaw nyob",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Tus kws kho mob zoo li offline, thov sim dua tom qab",
+  "OLDPWD_ERROR": "Tus tshiab lo lus zais nrog cov laus password.",
+  "OLD_PASSWORD_WRONG": "Tus password tshiab ntawd tsis yog lawm",
+  "OLD_PWD": "Qub password",
+  "oneDay": "Muaj ib hnub",
+  "one_min": "Hauv 1 feeb",
+  "online": "Hauv internet",
+  "onlinedoctors": "Cov kws kho mob hauv internet",
+  "openimage": "Nyem ntawm daim duab qhib rau hauv puv npo",
+  "open_ticket": "Qhib Tus Ticket",
+  "orale": "Los ntawm lub qhov ncauj",
+  "other": "Lwm yam",
+  "othercbc": "Lwm CBC Kev Xeem",
+  "OTHER_PLACEHOLDER": "Thov xaiv koj tus kws kho mob tshwj xeeb",
+  "otoscopy": "Otoscopy",
+  "otp_sent_msg": "Peb tau xa koj tus lej kabke rau ntawm koj tus lej xov tooj",
+  "OUR_PRODUCTS_SECTION": "Peb cov cuab yeej muab cov ntaub ntawv kev noj qab nyob zoo thiab kev noj qab nyob zoo los pab koj taug qab txog koj txoj kev noj qab haus huv.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Ntsuas koj lub ntsws mob hauv vib nas this nrog tus kws ntsuas kab kev lag luam",
+  "OUR_PRODUCTS_SECTION_P1": "Cov cuab yeej ntse ntse uas muab cov ntaub ntawv kev noj qab haus huv rau lub sijhawm ntxiv rau kev noj qab haus huv",
+  "OUR_PRODUCTS_SECTION_P2": "Kev Noj Qab Haus Huv / Kev Noj Qab Haus Huv",
+  "OUR_PRODUCTS_SECTION_P3": "Koj cov khoom siv hauv tsev siv rau tag nrho tsev neeg.",
+  "OUR_PRODUCTS_SECTION_P4": "Nta",
+  "OUR_PRODUCTS_SECTION_P5": "Ob pab kiag li lawm yog tsim los mus koom nrog rau lub txheej xwm los muab kev noj qab haus huv zoo. Koj cov qhabnias yuav muab cia rau hauv lub.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Ntsuas koj lub vij vam boold hauv vib nas this nrog tus kws tshaj lij xyaw",
+  "OUR_PRODUCTS_SECTION_SCALX": "Ntsuas koj qhov hnyav hauv vib nas this nrog ib tus neeg txawj ntse",
+  "OUR_PRODUCTS_TITLE": "Peb Cov Khoom",
+  "overeatFoods": "Khoom noj khoom haus uas yog overeated",
+  "overeating": "Kev qis qeeb",
+  "overweight": "Thawj rog",
+  "pa": "Tus kws kho mob pabcuam",
+  "PASSWORD": "Lo lus zais",
+  "passwordchanged": "Lo lus zais hloov zoo!",
+  "passwordExpiringMessage": "Koj tus password yuav tas rau sai sai. Thov hloov nws tam sim no",
+  "passwordExpiringTitle": "Lo lus zais tas sij hawm",
+  "PATIENT": "Tus neeg mob",
+  "patientAllergy": "Kev ua xua",
+  "patientGeneticRequests": "Kev tshuaj ntsuam txog caj ces",
+  "patientinfo": "Tus neeg mob cov ntaub ntawv",
+  "patientlist": "Cov neeg mob daim ntawv teev npe",
+  "patientmanagement": "Cov neeg mob tswj xyuas",
+  "patientProtesi": "Prosthesis",
+  "PATIENTS_NO_P": "Koj tsis muaj sijhawm teem caij rau neeg mob",
+  "PATIENTS_SECTION": "Koj lub sijhawm teem",
+  "PATIENTS_SECTION_SUBTITLE": "Nias ntawm txhua qhov khoom saib tag nrho cov ntsiab lus",
+  "PATIENTS_TITLE": "Cov neeg mob",
+  "patientupdate": "Tus neeg mob",
+  "patientvisit": "Tus neeg mob tuaj saib keeb kwm",
+  "PATIENT_PROFILE_OPT1": "Kuv qhov profile",
+  "PATIENT_PROFILE_OPT11": "Kuv cov kws kho mob",
+  "PATIENT_PROFILE_OPT12": "Xaiv cov khoom muag nyiam",
+  "PATIENT_PROFILE_OPT2": "Kuv Cov Ntaub Ntawv Kho Mob",
+  "PATIENT_PROFILE_OPT3": "Kuv qhov kev mus xyuas yav dhau los",
+  "PATIENT_PROFILE_OPT4": "Kuv Favorites",
+  "PATIENT_PROFILE_OPT5": "Kuv Cov Ntaub Ntawv",
+  "PATIENT_PROFILE_OPT6": "Kuv cov ntawv qhia",
+  "PATIENT_PROFILE_OPT7": "EKG Upload",
+  "PATIENT_PROFILE_OPT8": "Cov Ntawv Kho Mob Ntaus Ntawv",
+  "PATIENT_PROFILE_OPT9": "Kuv Cov Khoom Phom Laj",
+  "PATIENT_S1": "Tus neeg mob",
+  "PATIENT_S2": "Sib tham txog",
+  "PATIENT_S3": "Patient info",
+  "PATIENT_S4": "Kev txheeb xyuas",
+  "PATIENT_S5": "Cov kab mob",
+  "PATIENT_S6": "Kev ua xua",
+  "PATIENT_S7": "Cov tshuaj",
+  "PATIENT_S8": "Cov ntaub ntawv txuas nrog",
+  "PATIENT_S9": "Cov tsos mob?",
+  "PATIENT_SUMMARY": "Cov lus qhia txog tus neeg mob",
+  "patologia": "Pathology",
+  "payment": "Kev Them Nyiaj",
+  "PAYMENT_DETAILS": "Cov Lus Qhia Them Them Nyiaj",
+  "PAYMENT_MESSAGE_1": "Koj yuav tsum tau kev tso cai rau ntawm tus nqi ntawm",
+  "PAYMENT_MESSAGE_2": "Koj yuav raug them qhov kawg ntawm daim videocall",
+  "PAYMENT_SECTION1": "Xaiv ib daim ntawv los ntawm daim ntawv teev npe",
+  "PAYMENT_SECTION2": "Ntxig rau daim credit card qhov tseem ceeb",
+  "PAYMENT_SUCCESS": "Kev Them Nqi Zoo!",
+  "PAYMENT_SUCCESSFUL": "Peb tau ua tiav kev tso cai ua ntej them nyiaj",
+  "PAYMENT_UNSUCCESSFUL": "Kev them nqi ua ntej kev tso cai ua tsis tau. Xyuas koj cov credit card info lossis nug koj lub txhab nyiaj.",
+  "paziente_rimosso": "Tus neeg mob tus kheej hloov tau zoo",
+  "paziente_salvato": "Tus neeg mob tau kho tshiab",
+  "pdf_download_error": "Yuav tsis download tau pdf. Thov, sim dua tom qab",
+  "pdf_file_error": "Tsuas yog cov ntaub ntawv pdf nkaus xwb",
+  "period": "Lub Sij Hawm",
+  "PERIODIC_HEART_RATE": "Periodic Lub Plawv Dhia",
+  "personal": "Tus kheej",
+  "personalCare": "Kev Tu Tus Kheej",
+  "personalinfo": "Cov Ntaub Ntawv Tus Kheej",
+  "PER_MIN": "/ min",
+  "pharmacies": "Pharmacies",
+  "PHONE": "Xov tooj",
+  "phone1": "Xov tooj",
+  "pills": "Cov tshuaj noj",
+  "PILLS_DATE_ERROR": "Hnub pib yog hnub kawg tom qab",
+  "pill_reminder_message": "Nws yog lub sijhawm noj koj cov tshuaj",
+  "placeholder": "username, email lossis npe",
+  "placeOfBirth": "Qhov chaw yug",
+  "place_birth": "Qhov chaw yug",
+  "platform": "Platform",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Txoj Cai Naj Npawb",
+  "positive": "Zoo",
+  "POSTCALL_DOCTOR_TITLE": "Txoj kev tuaj xyuas",
+  "POSTCALL_PATIENT_TITLE": "Thov, ntaus koj cov kev paub",
+  "POUNDS": "phaus",
+  "PRACTICE_LENGTH": "Ntev nyob rau hauv kev xyaum",
+  "prenota": "Tam sim no phau ntawv",
+  "prenotatest": "Yuav tsum tau teem sijhawm",
+  "preobesity": "Pre-kev rog",
+  "prescription": "Ntawv sau",
+  "prescriptiondiscounts": "Cov Nyiaj Txiag Tseg",
+  "PRESCRIPTIONS": "Cov ntawv sau tshuaj",
+  "prescriptions_sent": "Ntawv xa tshuaj tuaj",
+  "prescription_mail": "Txuas ntxiv yog koj daim ntawv sau tshuaj",
+  "prescription_mail2": "Ua tsaug rau koj kev siv SaluberMD",
+  "prescription_notification": "Nyob zoo cov neeg siv, peb qhia rau koj tias koj cov ntawv sau tshuaj yog tam sim no muaj nyob rau hauv lub sijhawm / sijhawm sablaj yav dhau los ntawm lub",
+  "prescription_pharmacy": "Xaiv lub chaw muag tshuaj xa cov ntawv sau tshuaj",
+  "prescription_preview": "Daim ntawv qhia ua ntej",
+  "prescription_sent": "Ntawv xa mus",
+  "PRESCRIPTION_SENT_EMAIL": "Koj cov ntawv sau tau xa tuaj rau koj tus email ...",
+  "prescription_subject": "Koj cov tshuaj",
+  "pressbutton": "Nias lub khawm khawm ntawm lub ntaus ntawv thiab coj mus muag Nrhiav Ntaus",
+  "pressbuttonpresx": "Nias thiab tuav lub khawm khawm nyob tom qab ntawm lub cuab yeej kom pib qhov kev txuas thiab coj mus rhaub khawm nrhiav ntaus hauv lub",
+  "pressbuttonscalx": "Nias thiab tuav lub khawm khawm nyob tom qab ntawm lub cuab yeej kom pib qhov kev txuas thiab coj mus rhaub khawm nrhiav ntaus hauv lub",
+  "pressure_index1": "siab siab_index1",
+  "PRESX": "Ntshav Siab",
+  "PRESX_PROD": "PRESX",
+  "previous": "Yav dhau los",
+  "pre_period": "Lub Sij Hawm Rau Tshuaj",
+  "price": "Nqi",
+  "price_per_visit": "Nqi ib zaug",
+  "PRICING_SECTION1_P1": "SaluberMD tau cog lus kom muab kev yooj yim, kev saib xyuas zoo ntawm cov nqi pheej yig nrog tsis muaj nqi them los yog nqi.",
+  "PRICING_SECTION1_P2": "SaluberMD muab kev saib xyuas txhua qhov chaw thiab thaum twg koj xav tau nws ntawm kev mus yees duab nrog rau ib lub rooj tsav xwm kws kho mob pom zoo. Peb cov kws kho mob tuaj yeem sib tham, tshuaj xyuas, thiab mloog los kuaj xyuas koj cov teeb meem lossis tsuas nyob ntawm kev kho mob cov lus nug thiab kev txhawj xeeb thaum nyob rau kev hu xov tooj.",
+  "PRICING_SECTION1_P3": "Nrog rau peb cov tshuaj Medicfile tshwj xeeb koj tuaj yeem muab koj tus kws kho mob nkag mus rau koj cov keeb kwm kho mob, koj cov dluab thiab cov ntaub ntawv los pab lawv npaj txoj kev kho mob zoo tshaj plaws.",
+  "PRICING_SECTION1_TITLE": "ib zaug",
+  "PRICING_TITLE": "Nqi",
+  "primaryConcern": "Kev txhawj xeeb hauv lub hauv paus",
+  "primaryMood": "Mood Primary",
+  "print": "Sau",
+  "priority": "Kev Nyab Xeeb Ua Ntej",
+  "PRIVACY_POLICY_TITLE": "Txoj Cai Ntiag Tug",
+  "problems": "teeb meem",
+  "PROCEED_PAYMENT": "Txuas nrog kev them nyiaj",
+  "PROFESSIONAL_TITLE": "Kev Tshaj Tawm Haujlwm",
+  "PROFILE_SECTION2": "Kev Hu Xov Xwm",
+  "protesi": "Kev Tiv Thaiv thiab Kho Mob",
+  "protesiobbligatorio": "Thov, xaiv hom txheej txheem",
+  "prov": "qauv",
+  "publicAppUrl": "Koj qhov url pej xeem rau kev teem caij yog:",
+  "pulldown": "Rub rov qab los kho kom tshiab",
+  "pull_request_processed": "Ua tsaug, Peb tau xa koj qhov muaj txaus rau tus neeg mob",
+  "PWD_NOTMATCH": "Cov passwords tsis phim",
+  "P_P_Error": "Koj yuav tsum lees siv txoj cai ntiag tug",
+  "QUALITY_INDEX": "Zoo",
+  "QUALITY_INDEX_DESCRIPTION": "Lub cev tawm dag zog yog theem kev muaj peev xwm thiab kev ntxhov siab hauv lub ntsej muag uas muaj peev xwm los hloov thiab daws qhov teeb meem no. Kev qoj ib ce muaj zog qhia txog tib neeg lub cev kom hloov tau ib puag ncig hloov thiab kev nyuab siab rau kev ntxhov siab, tswj thiab kho qhov kev muaj mob. Kev ua kom lub cev muaj zog mas feem ntau tshwm sim rau hauv tib neeg lub neej, kev kawm, thiab kev ua hauj lwm, tiam sis kuj yog lub cev qoj ib ce. Ib tug neeg lub cev zoo muaj feem xyuam rau kev heredity tiam sis nws zoo dua qub txog kev noj haus thiab kev qoj ib ce. Los ntawm txoj kev kom yog thiab ua kom ib ce muaj zog, nws yuav ua kom nws lub cev muaj zog nyob hauv txhua yam.",
+  "quantity": "Nqi",
+  "quesito": "Kev txhawj xeeb",
+  "QUESTIONS_SECTION_TITLE": "Tau txais kev pab dawb 1 los yog kev soj ntsuam kev noj qab haus huv hu tom qab ua tiav koj cov ntaub ntawv kho mob.",
+  "QUESTIONS_TITLE": "Lus nug",
+  "quindici": "Xeem 15 ntsuas",
+  "ratio": "Qhov nruab nrab",
+  "reccomendation": "Rov Qab Pom",
+  "reccomendations": "Cov lus pom zoo",
+  "recommendation": "Cov lus pom zoo",
+  "RECOMMENDATIONS": "Cov lus pom zoo",
+  "RECOMMEND_SECTION_P1": "Ntawm SaluberMD peb sib zog ua kom tau raws li qhov kev thov rau kev kho mob zoo nyob thoob ntiaj teb los ntawm kev muab peb cov neeg tuaj yeem nkag mus rau ib pab pawg kws kho mob.",
+  "RECOMMEND_SECTION_P2": "Peb yeej ib txwm nrhiav cov kws kho mob kom zoo ntxiv rau peb cov pab pawg neeg zoo. Raws li ib tug tswv cuab ntawm peb pab pawg peb hwm thiab saib koj cov ntaub ntawv xa mus.",
+  "RECOMMEND_SECTION_P3": "Thov teb cov lus hauv qab no kom xa mus rau Tus Kws Kho Mob mus rau SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Pom kom tau Colleague",
+  "RECOMMEND_TITLE": "Pom zoo",
+  "record_aggiornato": "Cov ntaub ntawv tau muab hloov tshiab",
+  "record_aggiunto": "Cov ntaub ntawv kawm tiav",
+  "record_inserito": "Succesfully ntxiv",
+  "record_rimosso": "Cov ntaub ntawv sau tau zoo",
+  "REFERRAL": "Xa mus",
+  "REFERRALS": "Xa mus",
+  "referrals_sent": "Xa ntawv xa mus",
+  "referral_mail": "Daim ntawv no muaj qhov xa tuaj.",
+  "referral_sent": "Xa mus xa",
+  "refundrequestsent": "Koj qhov kev thov tau xa tuaj",
+  "register": "Sau npe",
+  "register_report": "Cov neeg rau npe",
+  "registration_date": "Hnub Tso Npe",
+  "REGISTRATION_HEADER_DOCTOR": "Koom nrog pab pawg neeg Saluber MD",
+  "REGISTRATION_HEADER_PATIENT": "Thov teb daim ntawv hauv qab no thiab nias sau npe",
+  "releaserefresh": "Tso tawm kom rov ua dua tshiab",
+  "remarks": "Cov lus qhia",
+  "removedevice": "Koj puas xav tshem tus ntaus ntawv no?",
+  "removefavorite": "Tshem tawm ntawm favorites?",
+  "remove_generic": "Koj puas xav kom tshem nws?",
+  "renalFunction": "Cov hlaus muaj nuj nqi",
+  "reoccurring": "Reoccurring",
+  "repeat_email": "Tshawb xyuas Email",
+  "report": "Cov ntaub ntawv ntawm tus kheej: Daim ntawv qhia txog cov ntaub ntawv",
+  "report1": "Tus kheej cov ntaub ntawv soj ntsuam:",
+  "report2": "Tshaj tawm",
+  "reportvisite": "Qhia Xov Tooj",
+  "report_date": "Qhia Hnub Tim",
+  "requestdate": "Thov Hnub",
+  "request_already_taken": "Qhov kev thov no tau raug coj los ntawm lwm tus kws kho mob.",
+  "REQUEST_ERROR": "Muaj ib qho yuam kev thaum ua koj cov lus thov. Kuaj koj qhov internet txuas lossis sim dua tom qab.",
+  "request_sent": "Koj qhov requesst tau raug xa mus rau qhov backoffice",
+  "required": "Qhov no yuav tsum muaj.",
+  "required_field": "Filed Yuav tsum tau",
+  "RESEND_EMAIL": "Resend confirmation code",
+  "resetCorxFactory": "Koj puas paub tseeb tias koj xav mus pib dua lub Corx?",
+  "RESETPWD_BTN": "Pib dua Password",
+  "RESET_PASSWORD": "Ntxig tus email lossis username uas siv rau lub sijhawm Sau npe",
+  "respiratory": "Ua pa",
+  "RESPIRATORY_RATE": "Tus Ntaus Nqi",
+  "RESTORE_FACTORY_SETTINGS": "Restore Factory Settings",
+  "resultfound": "cov ntaub ntawv pom",
+  "results": "Ntsiab lus",
+  "ricettario": "Lub teb chaws",
+  "richiediDrug": "Thov Siv Tshuaj Yeeb",
+  "richiestaAppuntamento": "Lub Sijhawm Thov",
+  "richiestaRimborso": "Kev Thov Them Rov Qab",
+  "ricovero": "Kev pw hauv tsev kho mob",
+  "riepilogo": "Ntsiab lus",
+  "rightHanded": "Txoj Cai Nqes",
+  "rimborso": "Them nyiaj rov qab",
+  "ripetibile": "Repeatable rau (zaug)",
+  "rr_desc": "Tus kab mob ua pa yog qhov tus nqi uas ua pa. Qhov nquag ua rau tus neeg laus so tau yog 12 mus rau 20 zaus ib feeb twg. Tus kab mob ua pa nchuav hauv 12 lossis tshaj 25 zaus ntawm ib feeb thaum lub sij hawm so yog qhov txawv txav",
+  "rs": "Kab Ntshov",
+  "RUNNING_CALL_OPT1": "Xav tau",
+  "RUNNING_CALL_OPT2": "Hu Xov Xwm kawg",
+  "RUNNING_CALL_TITLE": "Khiav hu",
+  "sa": "Muaj zog authentication",
+  "sadness": "Tu siab",
+  "sai": "Kev tshawb xyuas kev ua haujlwm",
+  "sai_desc": "SAI yog purely raws koj lub plawv dhia. Nws yog ib qho yooj yim metric uas taug qab lub cev cov lus teb rau kev siv lub cev - ntau tshaj li cov kauj ruam nkaus xwb. Tsis zoo li cov kauj ruam nrhiav, SCI muab credit rau txhua yam kev ua haujlwm uas txhawb lub plawv dhia: da dej, caij tsheb kauj vab, rowing, seev cev, txawm. Khaws nws rau hauv qab no 30 kom zoo dua thiab muaj lub neej zoo.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD neeg mob",
+  "SATURDAY": "Hnub vas xaum",
+  "savedinfo": "Ntaub ntawv tau txais kev cawmdim",
+  "SAVE_BTN": "Tseg",
+  "SAVE_MESSAGE": "Yog tias koj tawm, koj cov kev hloov yuav poob",
+  "sbpi": "Kev ntsuas ntshav siab",
+  "sbpi_desc": "Ntshav siab yog qhov uas tua tsis tau killer. Koj qhov Systolic thiab Diastolic ntshav siab tseem ceeb yog muab los xyuas thaum muaj kev kho mob koj tau ua. Khaws lub SBPI qis dua 30 kom txo tau txoj kev muaj feem cuam tshuam rau lub neej txoj sia xws li mob stroke thiab ntshav txhaws.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Nyhav",
+  "SCALX_PROD": "SCALX",
+  "scan": "Luam theej duab",
+  "scanningcorx": "Searching for CORX ... Thov tos",
+  "schedule": "Teem sijhawm",
+  "scheduleAnAppointment": "Teem caij mus ntsib",
+  "scheduleappointment": "Teem sijhawm hauv videocall nrog ib tus kws kho mob",
+  "schtime": "Teem sijhawm",
+  "sci": "Kev ntsuas plawv",
+  "sci_desc": "Los ntawm kev ntsuam xyuas koj lub plawv dhia ntshav sab nrauv peb muaj kev sib tw txog koj qhov kev mob plawv. Qhov kev ntsuas SCI yog cov ntsiab lus ntawm koj cov kev mob plawv, sim ua kom nws qis dua 20!",
+  "sci_title": "SCI",
+  "SEARCH": "Tshawb nrhiav",
+  "searchallergy": "Tshaj nrhiav kev ua xua",
+  "searchdoctor": "Nrhiav tus kws kho mob",
+  "searchfordoctor": "Nrhiav tus kws kho mob los ntawm lub npe los yog lub npe",
+  "searchingdevice": "Tshawb nrhiav. Nws yuav siv sij hawm ntev",
+  "searching_avail_date": "Tshawb nrhiav hnub",
+  "searching_online_doctors": "Nrhiav cov kws kho mob hauv online ...",
+  "searchmedication": "Nrhiav tshuaj",
+  "searchpatient": "Nrhiav tus neeg mob",
+  "searchpatologia": "Tshawb nrhiav mob",
+  "searchsymptom": "Tshawb nrhiav",
+  "searchuser": "Nrhiav neeg siv",
+  "search_doctor_description": "Nrhiav tus kws kho mob rau username, email los yog lub npe",
+  "search_patient_description": "Nrhiav tus neeg mob rau username, email lossis npe",
+  "search_specialization": "Tshawb nrhiav",
+  "search_user_description": "Nrhiav tus neeg siv rau username, email los yog lub npe",
+  "search_videocall_description": "Nrhiav kev sib tham ua ke los ntawm kev ywj pheej",
+  "search_videocall_title": "Serach Videocall los ntawm hnub tim",
+  "secondaryMood": "Lub Siab Hlwb",
+  "secondOpinion": "Thib ob txoj kev thov",
+  "seconds": "vib nas this",
+  "second_opinion_1": "Yooj yim, txhim khu kev qha rau kev kho mob thib ob ntawm cov kws tshwj xeeb nyob thoob qab ntuj.",
+  "second_opinion_2": "Peb Lub Tswv Yim Kho Mob Ob Lub Tswv Yim yuav pab tau koj:",
+  "second_opinion_3": "Nrhiav cov lus teb rau koj cov lus nug",
+  "second_opinion_4": "Xaiv qhov kev npaj khomob zoo tshaj plaws",
+  "second_opinion_5": "Xyuas kom tseeb tseeb",
+  "second_opinion_body": "Nyob zoo tus neeg siv, <br> koj qhov kev xaiv opion thib ob tau raug coj los ntawm peb cov kws tshaj lij uas tabtom tshuaj xyuas cov ntaub ntawv koj tau xa tuaj.",
+  "second_opinion_history": "Thib ob txoj kev thov",
+  "second_opinion_msg": "Ua tsaug. Peb tus neeg pabcuam kev noj qab haus huv yuav ncav cuag koj rau hauv 24 xuab moos tom ntej.",
+  "SECOND_OPINION_Q1": "Dab tsi koj xav nrog tus kws qhia noj haus tham?",
+  "second_opinion_question1": "Leej twg yog tus thib ob lub tswv yim rau?",
+  "second_opinion_question2": "Upload cov ntaub ntawv",
+  "second_opinion_step1": "Sau ib daim ntawv luv luv / Upload koj cov ntaub ntawv",
+  "second_opinion_step2": "Peb cov kws kho mob yuav ntsuam xyuas koj cov ntaub ntawv",
+  "second_opinion_step3": "Tus kws kho mob sab laj los tham txog koj cov txiaj ntsig",
+  "secOpChoice": "Thov xaiv qhov twg koj xav tau txais lub tswvyim thib ob",
+  "section": "Thov, xaiv ib seem",
+  "security": "Kev Ruaj Ntseg",
+  "seeaprovider": "Pom Ib Tug Muab Kev Pab",
+  "seecommenti": "Saib cov lus",
+  "seedoctor": "Mus ntsib ib tus kws kho mob tam sim no",
+  "SEE_A_DOCTOR_Q1": "Leej twg yog qhov video hu rau?",
+  "SEE_A_DOCTOR_Q10": "Peb tuaj yeem xa koj daim ntawv sau tshuaj xa mus rau lub tsev muag tshuaj ntawm koj xaiv",
+  "SEE_A_DOCTOR_Q1B": "Lub npe thiab hnub yug ntawm koj tus menyuam?",
+  "SEE_A_DOCTOR_Q1_A1": "Kuv",
+  "SEE_A_DOCTOR_Q1_A2": "Kuv tus menyuam",
+  "SEE_A_DOCTOR_Q2": "Thov piav qhia txog yam koj xav nrog tus kws kho mob tham",
+  "SEE_A_DOCTOR_Q3": "Cov tsos mob?",
+  "SEE_A_DOCTOR_Q4": "Koj puas xav xa ib daim duab, lossis daim ntawv?",
+  "SEE_A_DOCTOR_Q4_ERROR": "YUAV TSUM: Cov ntaub ntawv yuav tsum tsis tshaj 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Xaiv cov ntaub ntawv",
+  "SEE_A_DOCTOR_Q4_S2": "Coj tus yees duab",
+  "SEE_A_DOCTOR_Q5": "Puas yog tam sim no koj noj tshuaj, yog tias thov sau lub npe",
+  "SEE_A_DOCTOR_Q5_CHILD": "Tam sim no koj tus menyuam puas tab tom noj tshuaj? yog tias thov sau lub npe",
+  "SEE_A_DOCTOR_Q5_S1": "Lub Npe:",
+  "SEE_A_DOCTOR_Q5_S2": "Ntau:",
+  "SEE_A_DOCTOR_Q6": "Koj puas muaj kev fab tshuaj?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Koj tus menyuam puas muaj phiv txhua yam? yog tias thov sau lub npe",
+  "SEE_A_DOCTOR_Q7": "Koj puas muaj mob dab tsi?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Koj tus menyuam puas muaj mob? yog tias thov sau lub npe",
+  "SEE_A_DOCTOR_Q8": "Koj puas tso cai rau tus kws kho mob mus saib koj cov ntaub ntawv kho mob online?",
+  "SEE_A_DOCTOR_Q9": "Xav Tau Tshuaj Zoo",
+  "SEE_A_DOCTOR_TITLE": "Mus ntsib ib tus kws kho mob",
+  "SEE_A_PROVIDER": "Pom Ib Tug Muab Kev Pab",
+  "segment": "Segment",
+  "selectAFile": "Coj mus rhaub khawm hauv qab no los xaiv ntaub ntawv",
+  "selectaprovider": "Xaiv Tus Muab Khoom",
+  "selectcarderror": "Thov, xaiv ib daim npav",
+  "selectdoctor": "Tswj cov txheej txheem ntawm",
+  "selectdoctor1": "Xaiv tus kws kho mob",
+  "selectdrug": "Xaiv cov tshuaj",
+  "selectedContact": "Txhais tau tias kev sib cuag",
+  "selectinitiative": "Xaiv ib los yog ntau qhov pib ...",
+  "selectnutritionist": "Xaiv koj tus kheej noj haus",
+  "selectpatient": "xaiv tus kws kho mob",
+  "select_country": "Thov, xaiv ib lub teb chaws",
+  "select_device": "Xaiv lub cuab yeej",
+  "select_file": "Xaiv Cov Ntaub Ntawv",
+  "select_file_btn": "Xaiv cov ntaub ntawv",
+  "select_patient": "Nias ntawm ib tug kab kom pom cov ntsiab lus",
+  "send": "Xa",
+  "sendmessage": "Xa lus",
+  "sendtoken": "Xa qhov no mus rau tus kws kho mob kom cia nws nkag mus rau koj cov ntaub ntawv kho mob. Qhov txuas no tag sijhawm hauv 10 feeb",
+  "SEND_BTN": "Xa",
+  "send_doctor_request": "Xa daim ntawv thov",
+  "sentmessage": "Xa Cov Lus",
+  "SERVICE_TYPE": "Kev Pabcuam Hom",
+  "sessantad": "Hnub kawg 60 hnub",
+  "SESSION_EXPIRED": "Koj qhov kev sib kho tau tas sij hawm. Thov, nkag mus rau hauv ntxiv",
+  "setAlarm": "Teem Alarms",
+  "settd": "Lub xeem 7 hnub",
+  "settings_saved": "Tej qhov ntse ntse tau txais kev cawmdim",
+  "setTreshold": "Teem Kab Ntau Yam",
+  "SET_BTN": "Teeb",
+  "SET_USER_EMAIL": "Thov, qhia lub npe lossis tus email",
+  "set_vital_signs": "Teem cov cim tseem ceeb",
+  "sevendays": "7 Hnub",
+  "showalldata": "Qhia Tag Nrho Cov Ntaub Ntawv",
+  "showOnEmergency": "Qhia Rau Thaum Muaj Xwm Ceev",
+  "signature": "Koj kos npe (siv rau cov ntawv muab tshuaj)",
+  "signature_word": "Kos npe",
+  "SIGNUP_BTN": "Kos Npe",
+  "sii": "Insurance Index",
+  "sii_desc": "SII yog ib qho kev sib txuas ntawm SaluberMD txhua qhov cim tseg thiab yog ib daim iav ntawm koj txoj kev pheej hmoo. Yog tias hauv qab 30 koj nyob hauv thaj chaw nyab xeeb!",
+  "sii_title": "SII",
+  "since": "Txij li thaum",
+  "single": "Ib hnub",
+  "singleAccess": "Tib nkag",
+  "sitreminder": "Zaum Tswm Ntawv",
+  "sit_period": "Lub Sij Hawm",
+  "skip": "Hla",
+  "skip_pull": "Ignore",
+  "skip_step": "Hla",
+  "sl": "Kev nyuaj siab theem",
+  "SLEEP": "Pw tsaug zog",
+  "slotime": "Qhov Ntev Duration (min)",
+  "sl_alta": "ntau tshaj 85 bpm",
+  "sl_bassa": "qis dua 65 xyoos",
+  "sl_desc": "Kev nyuaj siab npaum li cas yog xam raws li tus khiav ntawm ib feeb",
+  "sl_normale": "ntawm 65 thiab 85 bpm",
+  "smoker": "Haus dej haus cawv",
+  "snacks": "Khoom noj txom ncauj",
+  "SOMETIMES": "Qee zaum",
+  "SONNO": "Pw tsaug zog",
+  "SOP_Q4": "Sau koj daim ntawv qhia txog kev kho mob",
+  "sos": "SOS",
+  "so_specialization": "Tshwj xeeb",
+  "specialists": "Cov kws kho mob tshwj xeeb",
+  "specialization": "Xaiv tus kws tshwj xeeb",
+  "SPECIALTY": "Tshwj xeeb",
+  "specifyother": "Thov, qhia lwm yam",
+  "specifyvalue": "Thov, qhia kom meej tus nqi",
+  "spirometer": "Spirometry",
+  "spo2_desc": "SpO2 lossis ntshav cov pa oxygen yog ib qho kev ntsuas seb cov pa ntshav liab npaum li cas. Qhov tseem ceeb yog nruab nrab ntawm 95% thiab 100%, A low-level ntshav oxygen qib hu ua hypoxemia",
+  "sri": "Kev ua pa nyuab",
+  "sri_desc": "Peb ntsuam xyuas koj cov qauv ua pa thaum muaj kev sib ntsib kho mob thiab thaum koj pw tsaug zog. Yog tias SRI qis dua 30 koj yuav muaj kev txom nyem los ntawm kev ua pa ntawm cov neeg mob ua rau tsis muaj zog.",
+  "sri_title": "SRI",
+  "ssi": "Kev txhawj xeeb ntawm kev txhawj xeeb",
+  "ssi_desc": "Los ntawm kev ntsuam xyuas koj lub plawv dhia ntawm kev hloov ntawm peb lub hauv paus koj theem ntawm kev ntxhov siab. Kev nyuab siab zoo rau kev ua phem lossis muaj kev pheej hmoo ntawm kev mob xws li kev rog, kab mob hauv lub plawv, Alzheimer&#39;s disease, mob ntshav qab zib, kev nyuab siab, kev mob plab, thiab hawb pob. Khaws rau hauv qab 20 kom nyob sab zoo!",
+  "ssi_title": "SSI",
+  "start": "Pib",
+  "startcall": "Pib hu",
+  "startdate": "Los ntawm",
+  "starthour": "Lub Sij Hawm Pib",
+  "startmeasure": "Tam sim no koj tuaj yeem pib qhov ntsuas los ntawm nias lub nplhaib ntawm lub cuab yeej",
+  "startnow": "Pib Tam Sim No",
+  "startRecording": "Nias pib sau cov suab lus suab",
+  "startyping": "Pib ntaus lub npe",
+  "start_blowing": "Pib Tshuab",
+  "start_test": "Pib xeem",
+  "start_time": "Lub Sij Hawm Pib",
+  "state": "Xeev",
+  "state1": "Xeev",
+  "STATES_LICENSE": "Cov ntawv tso cai",
+  "state_problem": "Thov, qhia koj qhov teeb meem",
+  "status": "Raws li txoj cai",
+  "step": "Kauj ruam",
+  "STEPS_GOAL": "Cov Kauj Ruam Lub Npe",
+  "stoolTest": "Kuaj Cov Quav",
+  "stop": "Nres",
+  "stop_test": "Nres xeem",
+  "stress": "Kev nyuaj siab",
+  "stroke_vol": "Hnov mob pob txha",
+  "stroke_volume": "Hnov mob pob txha",
+  "stroke_volume_desc": "Qhov ntim mob hlab ntsha tawg yog qhov ntim ntawm cov ntshav tawm los ntawm txhua qhov hlwv ntawm ib qho kev sib tw",
+  "struttura": "Qauv",
+  "strutture": "Cov qauv",
+  "subject": "Kawm",
+  "subject_so": "Kawm",
+  "submissionDate": "Ntawv Hnub Tim",
+  "success": "Kev vam meej",
+  "SUCCESS_TITLE_NOTIFICATION": "Kev vam meej",
+  "SUMMARY": "Kev kuaj mob",
+  "summary1": "Txoj kev xaus",
+  "SUNDAY": "Hnub Sunday",
+  "surgery": "Kev phais",
+  "surgeryAndHospitalization": "Kev Tiv Thaiv Kev Kho Mob Hauv Tsev Kho Mob thiab Kev Phais Tshuaj",
+  "surgeryCategory": "Kev phais nyem",
+  "surname": "Surname",
+  "sv_alta": "ntau tshaj 100",
+  "sv_bassa": "qis dua 55 ml",
+  "sv_normale": "ntawm 55 thiab 100 ml",
+  "switchsearch": "Hloov mus nrhiav",
+  "symptoms": "Cov tsos mob",
+  "SYMPTOMS_BTN": "Cov tsos mob",
+  "sync": "Sync",
+  "SYNC_TIME": "Sync Sijhawm",
+  "sysdia": "Siab",
+  "systolic": "Systolic",
+  "TAKE": "Noj",
+  "takeAppointment": "Mus teem sij hawm",
+  "TAKE_APP": "Teem Teem Sij Hawm",
+  "TAKE_A_PHOTO": "Coj tus yees duab",
+  "tall": "Koj siab npaum li cas",
+  "tapconnect": "Coj mus rhaub kom txuas",
+  "tapdisconnect": "Kais mus disconnect",
+  "tap_to_expand": "Kais mus nthuav",
+  "telNameMandatory": "Thov, qhia lub npe",
+  "telNumberMandatory": "Thov, qhia lub xov tooj",
+  "temper": "Temper",
+  "temperDescription": "Ib qho kev ntsuas kev xav uas npog cov neeg hais lus txhua yam kev xav. Tsaus siab qhia txog kev nyuaj siab thiab kev nyuaj siab. Nruab nrab siab qhia txog kev nyiam, kev sov siab thiab kev kaj siab. Siab siab qhov tseem ceeb piav txog kev sib cav, kev ncaj ncees thiab kev chim siab.",
+  "tendays": "Xeem 10",
+  "ten_min": "Hauv 10 feeb",
+  "terminata": "Hu rau Successfull",
+  "TERMS_TITLE": "Hnub nyoog ntawm qhov kev siv",
+  "test": "Kev xeem",
+  "testmichele": "xeem michele",
+  "testresult": "Cov Kev Xeem Tseeb",
+  "testresults": "Kev Xeem Tshuaj",
+  "tests": "Cov kev sim",
+  "text": "Cov ntawv nyeem",
+  "thiscC": "Daim npav rho nyiaj no yuav siv los them rau cov kev pabcuam",
+  "THURSDAY": "Hnub Thursday",
+  "thyroidTest": "Cov Kev Ntsuam Xyuas Cov thyroid Ntsuam Xyuas",
+  "tickets": "Daim pib",
+  "TICKET_HISTORY": "Keeb Kwm Daim Pib",
+  "TICKET_NUMBER": "Daim pib tooj",
+  "ticket_subject": "Thov Nug Tus Neeg",
+  "timecallerr": "Thov txim, koj tsis tuaj yeem hu tsis tau",
+  "timecallerr1": "Thov txim, koj lub ntsiab lus hu ua vim koj dhau lub sijhawm teem",
+  "TIMELINE": "Kuv Sijhawm",
+  "times": "Pes tsawg zaus ib hnub?",
+  "timesaday": "Lub sij hawm ib hnub",
+  "tipopratica": "Xyaum Siv",
+  "tipo_struttura": "Qauv Hom",
+  "tipshealt0": "Lus Qhia Txog Kev Noj Qab Haus Huv",
+  "tipshealt1": "Mob khaub thuas mob - Kuv puas yuav tsum tau txhaj tshuaj tiv thaiv kab mob npaws?",
+  "tipshealt10": "Nyem no yog xav paub ntxiv",
+  "tipshealt11": "Cov txiaj ntsig ntawm kev kho mob statins, txo cov tshuaj cholesterol, ua rau muaj kev pheej hmoo",
+  "tipshealt12": "Nyob rau hauv cov tshooj cai nyob rau hauv Lancet, cov neeg soj ntsuam tshawb pom tias cov txiaj ntsig ntawm kev txo cov tshuaj LDL nrog statin therapy yuav muaj kev tiv thaiv kab mob loj (cov plawv nres, cwj nrag) thiab nws qhov teeb meem ntawm cov tshuaj.",
+  "tipshealt13": "Raws li cov kws soj ntsuam tsuas yog cov teeb meem loj uas tshwm sim los ntawm lub sij hawm ntev statin kho mob yog cov myopathy (txhais tau hais tias mob leeg lossis tsis muaj zog), tshiab-mob ntses ntshav qab zib mellitus, thiab, zaum, haemorrhagic stroke.",
+  "tipshealt2": "Txawm hais tias qhov tshuaj tiv thaiv kab mob khaub thuas tsis tas muab kev tiv thaiv tag nrho, nws tsim nyog tau. CDC (Chaw Pabcuam Tiv Thaiv thiab Tiv Thaiv) muab cov tshuaj txhaj tiv thaiv kab mob npaws rau txhua tus neeg hnub nyoog 6 hli lossis laus dua. Kev txhaj tshuaj tiv thaiv kab mob tseem ceeb rau cov tib neeg uas muaj teeb meem txog kev mob ua npaws, xws li",
+  "tipshealt3": "Cov poj niam cev xeeb tub",
+  "tipshealt4": "Cov neeg laus (50 xyoo thiab laus dua)",
+  "tipshealt5": "Cov menyuam yau (nyob rau hauv 4 xyoos thiab tshaj 6 hli)",
+  "tipshealt6": "Lub cev ua kom lub cev ua tau zoo dua qub thiab kev txawj xav",
+  "tipshealt7": "Kev ua si xwm yeem tuaj yeem ua kom lub hlwb muaj zog thoob plaws hauv lub neej thiab txo txoj kev pheej hmoo ntawm dementia.",
+  "tipshealt8": "Ntau cov kev tshawb fawb tau raug luam tawm ntawm cov kev sib raug zoo thiab qhov kom zoo dua ntawm lub cev kev ua ub no thiab kev paub txog kev paub zoo.",
+  "tipshealt9": "Cov kab no ncaj qha rau lub hlwb thiab tsis pub dhau kev ua haujlwm ntawm lub cev thiab kev ua haujlwm ntawm lub cev.",
+  "title": "Lub npe",
+  "to": "rau",
+  "todayAppointment": "Hnub sib ntsib no",
+  "tooltip1": "Sau lub npe ntawm tus kws kho mob koj xav tswj xyuas cov txheej txheem",
+  "totale": "Tag Nrho",
+  "totalSleepTime": "Tag nrho cov sijhawm pw tsaug zog",
+  "total_cholesterol_desc": "Tus nqi no yog ib qho kwv yees ntawm txhua cov roj (cholesterol) hauv cov ntshav",
+  "TOTAL_SLEEP_TIME": "Tag Nrho Kev Sij Hawm",
+  "tot_non_risposte": "Hu tsis teb",
+  "tot_ricevute": "Hu tau txais",
+  "tot_visite": "Mus ntsib Done",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Hloov mus",
+  "trenta": "Lub xeem 30 feem pua",
+  "trentad": "Lub xeem dhau 30 hnub",
+  "triglycerides": "Triglycerides",
+  "trig_cholesterol_desc": "Triglycerides yog ib hom rog (lipid) uas muaj nyob hauv koj cov ntshav. Cov lus hauv qab no qhia cov qib ntawm qhov tseem ceeb.",
+  "TUESDAY": "Tuesday",
+  "tutte": "Txhua qhov kev ntsuas",
+  "type": "Hom",
+  "TZONE": "Timezone",
+  "underweight": "Kev phom sij",
+  "unit": "Chav tsev",
+  "UNIT_SETTING": "Chav tsev",
+  "uom": "Kev ntsuas ntawm qhov ntsuas",
+  "upcomingAppointmentPatient": "Tab tom sib tham txog",
+  "UPDATE": "Hloov tshiab",
+  "updatelist": "Hloov cov npe",
+  "update_app_message": "Koj yuav tsum tau hloov koj lub",
+  "UPDATE_AVAILABLE": "Tshawb Tau Muaj",
+  "UPDATE_BTN": "Hloov tshiab",
+  "update_completed": "Firmware Hloov Zoo",
+  "update_firmware_download_error": "Yuam kev downloading lub firmware",
+  "update_list": "Hloov tshiab",
+  "UPLOAD_ERROR": "YUAV TSUM: Cov ntaub ntawv yuav tsum tsis tshaj 5 MB",
+  "upload_referral": "Xa koj daim ntawv xa mus rau hauv lub thawv hauv qab no.",
+  "urinTest": "Tso zis kuaj",
+  "user": "Tus neeg siv",
+  "userdata": "Tus neeg siv cov ntaub ntawv",
+  "usermanagement": "Tus neeg siv kev tswj hwm",
+  "USERNAME": "Lub npe",
+  "username1": "Lub npe",
+  "utente_aggiunto": "Tus neeg siv tau zoo ntxiv",
+  "utente_rimosso": "Tus neeg siv tau ntse deleted",
+  "utente_salvato": "Tus neeg siv tau hloov tshiab",
+  "vaccinobbligatorio": "Thov, xaiv ib qho kev txhaj tshuaj",
+  "vaioffline": "Mus offline",
+  "vaionline": "Mus hauv internet",
+  "valence": "Kev muaj nqis",
+  "valenceDescription": "Ib qho txawv txav ntawm kev poob siab mus rau qhov zoo. Thaum mloog ib tus neeg tham, nws muaj peev xwm nkag siab tias &quot;zoo&quot; lossis &quot;tsis zoo&quot; lawv xav txog qhov kawm, kwv lossis kev tshwm sim hauv kev sab laj.",
+  "value": "Tus nqi",
+  "vascular_age": "Kab mob hnub nyoog",
+  "vascular_age1": "Kab mob hnub nyoog",
+  "va_desc": "Cov hnub nyoog Vascular qhia koj ib qho kev ntsuas ntawm lub hnub nyoog uas pom txog koj cov hlab ntsha, thaum piv nrog cov neeg noj qab nyob zoo. Yog tias koj lub vas qis hnub nyoog siab dua koj lub hnub nyoog muaj hnub nyoog, koj yuav muaj feem ntau ntawm kev tsim kab mob plawv (CVD) tom qab lub neej.",
+  "videocall": "Yees duab",
+  "VIDEOCALL_DES1": "Nias lub khawm hauv qab no los hloov koj txoj cai thiab tau txais lossis tsis tau txais cov ntawv ceeb toom. Nco ntsoov tias koj tuaj yeem tau txais qhov kev ceeb toom nkaus xwb thaum koj nyob online.",
+  "VIDEOCALL_DES2": "Thaum koj tau txais kev hu xov tooj, nyem rau ntawm daim duab uas yuav tshwm sim rau koj.",
+  "videocall_filter": "Lim los ntawm lub npe lossis tshwj xeeb",
+  "videocall_request": "Thov hu nkauj tshiab",
+  "videocall_request_title": "Thov Teebmeem",
+  "videocall_req_from": "Kev thov kev hu nkauj los ntawm:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "Nyem mus qhib lub yees duab",
+  "VIDEO_CALL_BTN": "Video hu",
+  "VIDEO_CALL_BTN_1": "Yees duab",
+  "view": "Saib",
+  "viewmedicalfile": "Saib cov ntaub ntawv kho mob",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Sau koj lub Virtual Office",
+  "VIRTUAL_OFFICE_TITLE": "Qhov chaw ua haujlwm Virtual",
+  "visitdetail": "Nias ntawm txhua qhov khoom kom pom cov keeb kwm ntawm ib tus neeg mob",
+  "visithistory": "Mus saib keeb kwm",
+  "visitlist": "Daim ntawv teev npe",
+  "VISIT_HISTORY_NO_HISTORY": "Koj tsis muaj kev sib ntsib kiag li",
+  "VISIT_HISTORY_SUBTITLE": "Nias ntawm txhua qhov khoom saib tag nrho cov ntsiab lus",
+  "VISIT_HISTORY_TITLE": "Mus saib keeb kwm",
+  "volte": "Lub sij hawm",
+  "waiting": "Zauv ua ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Sov",
+  "WARNING_TITLE_NOTIFICATION": "Nco ntsoov",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Cov Ntaub Ntawv Kho Mob",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Cov Ntaub Ntawv Kev Noj Qab Haus Huv",
+  "WATCH_DEVICE_DATA_TITLE": "Koj cov ntaub ntawv ntaus cov ntawv",
+  "water": "Dej",
+  "weanedoff": "Weaned tawm?",
+  "WEDNESDAY": "Hnub Wednesday",
+  "week": "Lub lis piam",
+  "weight": "Nyhav",
+  "weightUnit": "Lub Cev Nyhav",
+  "welcome": "Txais tos",
+  "wellness": "Kev nyab xeeb",
+  "wellnessdata": "Cov Ntaub Ntawv Kev Noj Qab Haus Huv",
+  "wellnessSuccess": "Kev vam meej",
+  "WHITE_SPACES": "Lub npe yuav tsum tsis txhob muaj qhov chaw dawb",
+  "WRIST_CUT_SCREEN": "Tig Ntsuas Screen",
+  "writtenRep": "Daim ntawv sau qhia",
+  "W_RESPIRATORY_RATE": "Ua tsis taus pa",
+  "xray": "X-ray",
+  "Y": "Muaj",
+  "year": "Xyoo",
+  "years": "xyoo",
+  "yes": "Muaj",
+  "yourarousal": "Koj txoj kev hlub",
+  "youremotion": "Koj tus cwj pwm txawv",
+  "yourmood": "Koj lub siab",
+  "yourtemper": "Koj npau taws",
+  "yourvalence": "Koj qhov kev muaj nqis",
+  "your_sai": "Koj qhov Performance index Performance yog:",
+  "your_sbpi": "Koj cov ntshav siab Performance index yog:",
+  "your_sci": "Koj tus mob plawv yog:",
+  "your_sii": "Koj cov pajkasphais yog qhov",
+  "your_sri": "Koj tus kab mob yog:",
+  "your_ssi": "Koj qhov kev nyuab siab yog:",
+  "your_stress": "Koj qhov kev nyuab siab yog:",
+  "your_va": "Koj cov hnub nyoog vascular yog:",
+  "zero_min": "Tam sim no",
+  "zipCode": "Zip Code",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Biz haqimizda",
+  "ABOUT_US_CONDITION_1": "Sovuq va gripp",
+  "ABOUT_US_CONDITION_2": "Teri sharoitlari",
+  "ABOUT_US_CONDITION_3": "Allergiya",
+  "ABOUT_US_CONDITION_4": "Tomoq og&#39;rigi",
+  "ABOUT_US_CONDITION_5": "Qorin og&#39;riqi",
+  "ABOUT_US_DOCTOR_BENEFIT1": "Daromadni oshirish:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Siz soatiga olti nafar bemorni ko&#39;rishingiz mumkin (virtual tashrif odatda 10 daqiqagacha davom etadi);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "DUNYoDAGA XUSUSIDAGI XIZMAT KO&#39;RSATISH:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Bemor bilan aloqalarni dunyodagi mavjud va yangi bemorlarni davolash qobiliyati bilan oshirish;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "BEPUL VAZIRLIK QABUL QILING:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Mavjud amaliyotingizni takomillashtiring va bemorlar uchun qo&#39;shimcha imkoniyatlar taqdim eting;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "BOShQA MAHSULOT XALQARO UYG&#39;ONIShLARI:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Bemor sizni hujjatlarni, fotosuratlarni, laboratoriya natijalarini sizning uyingizdan tashqariga olib chiqmasdan yuborishlari mumkin va bemoringizning sog&#39;lig&#39;ini uzoqdan kuzatib borishingiz mumkin;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Qo&#39;pol yordamga muhtoj kishilarga darhol va uydan chiqmasdan uzoqdan davolanishga kimning foydasi borligini aniqlang;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "Daromadni oshirish:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "MAXSUS SAATLAR:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "O&#39;zingizning soatingizni belgilash va o&#39;zingizning rejangizni o&#39;rnatish qobiliyati.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Harakatlarga 15 daqiqa yoki undan kam vaqt ichida sog&#39;liqni saqlash xizmatiga ishonchli, arzon, global foydalanish imkonini beradi.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD shifokor-bemor munosabatlarini inqilobga aylantirmoq uchun global miqyosda sog&#39;liqni saqlashga 24/7 imkoniyat yaratadi.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Doktor foydasi",
+  "ABOUT_US_DOCTOR_TITLE": "Biz haqimizda",
+  "about_us_section1_p1": "SaluberMD butun dunyo bo&#39;ylab salomatlik natijalarini yaxshilash uchun tibbiy xizmat va mahsulotlarni yetkazib berishga bag&#39;ishlangan Raqamli sog&#39;liqni saqlash tashkiloti. Raqamli tibbiy maslahat xizmati, sog&#39;liqni saqlash va sog&#39;liq uchun imtiyozlarga, kengash tomonidan tasdiqlangan shifokorlarga, 18 tilda shaxsiy meditsina faylga, sog&#39;lig&#39;ingizni kuzatib borish uchun jihozlangan va sog&#39;liqni saqlash mutaxassislari va xizmatlarining tarmog&#39;iga kirishni ta&#39;minlaydi.",
+  "ABOUT_US_SECTION1_TITLE": "Biz haqimizda",
+  "ABOUT_US_SECTION2_P1": "Joylashuvni geo-lokalizatsiya qilish orqali bizning dastur sizga yaqin bo&#39;lgan eng yaxshi tabibni topadi. SaluberMD Shifokorlar video orqali tibbiy holatingizni tashxislash, davolab yoki muhokama qilishlari va sizga tegishli davolash rejasini taqdim etishi mumkin. Shifokorlar shifoxonasida davolanadigan ko&#39;plab vaziyatlar videomaterialga tashrif buyurishi mumkin. <br/> Biz ko&#39;rib chiqayotgan ba&#39;zi shartlar:",
+  "ABOUT_US_SECTION2_P2": "Sizning shaxsiy tibbiy yozuvingiz barcha sog&#39;liq ma&#39;lumotlarini, rasmlarini va fayllarini saqlash uchun qulay joy. Sizning sog&#39;lig&#39;ingizni barcha tibbiy qaydlaringizni 24 soat davomida kuzatib boring. Siz uyda bo&#39;lasizmi yoki chet elga sayohat qilsangiz, sog&#39;liqni saqlash professionalingiz bilan baham ko&#39;rish uchun barmoq uchida turibsiz. Shaxsiy tibbiy rekordni ishlatish oson, 18 tilda mavjud.",
+  "ABOUT_US_SECTION2_TITLE": "Bu qanday ishlaydi?",
+  "ABOUT_US_SECTION3_P1": "SaluberMD-da faqat shifokorlar tomonidan tasdiqlangan shifokorlar tibbiy yordam ko&#39;rsatadilar. Ushbu mutaxassislar yuqori sifatli parvarishlashni ta&#39;minlash uchun tekshiriladi, keng ko&#39;lamda ekranlashadi va o&#39;qitiladi. Har bir tabibning fonini, hisob ma&#39;lumotlarini va tajribasini ko&#39;rishingiz mumkin bo&#39;lgan biologik bor. SaluberMD Shifokorlarimizning sifatli boshqaruviga sodiqdir. Baholash tizimi bemorlarga shifokorlarni baholash va shifokorlarning umumiy reytingini ko&#39;rish imkonini beradi.",
+  "ABOUT_US_SECTION3_TITLE": "Bizning shifokorlarimiz",
+  "ABOUT_US_TITLE": "Biz haqimizda",
+  "above_warning": "Yuqoridagi qiymatlar xavf ostida",
+  "accept": "Qabul qil",
+  "acceptablerange": "Qabul qilinadigan oraliq",
+  "ACCEPT_BTN": "Qabul qil",
+  "acquire": "Ma&#39;lumotlarni olish",
+  "acronym": "Qisqartma",
+  "action": "Harakat",
+  "actions": "Amallar",
+  "actionTaken": "Qabul qilingan amallar",
+  "activity": "Faoliyat",
+  "acutecare": "O&#39;tkir terapiya",
+  "add": "Yangi",
+  "addavailability": "Mavjudligingizni qo&#39;shing",
+  "addcomment": "Bu yerda sharh bering",
+  "adddescription": "Tavsifingizni bu yerga qo&#39;shing",
+  "adddrugs": "Quyidagi qidiruv maydonchasidan foydalanib, dori-darmonlarni qidirish va retseptga kiritish uchun katakchani belgilang",
+  "addedFavourite": "Sevimlilaringizga muvaffaqiyatli qo&#39;shildi",
+  "addedFavourite2": "Sevimlilaringizga muvaffaqiyatli qo&#39;shildi. yangilash uchun tugmasini bosing.",
+  "addedFavourite3": "Muvaffaqiyatli qo&#39;shildi. Yangilash uchun pastga torting",
+  "addFavourite": "Sevimlilarga qo&#39;shish",
+  "ADDING_SLOT": "Uyalar qo&#39;shish .... bu biroz vaqt talab qilishi mumkin.",
+  "addNew": "Yangisini qo&#39;shish",
+  "addpharmacies": "Sevimli eczanelerinizi kiritish uchun tugmani bosing",
+  "addpharmacy": "Eczanani qo&#39;shing",
+  "addreminder": "Dori eslatmani qo&#39;shish uchun ortiqcha tugmasini bosing.",
+  "address": "Manzil",
+  "address2": "Jo&#39;natma manzili",
+  "address3": "Xizmat uchun manzil",
+  "addsintomi": "Belgilar qo&#39;shish",
+  "addslot": "Slotni qo&#39;shish",
+  "add_description_file": "Tavsif qo&#39;shing (majburiy emas)",
+  "add_new": "Qo&#39;shish",
+  "affaticamento_grave": "Qattiq charchoq",
+  "affaticamento_minore": "Kichik charchoq",
+  "agenda": "Mening kun tartibi",
+  "agenda_report": "Uchrashuvlar haqida hisobot berish",
+  "aggiungi": "Yaratmoq",
+  "AGREE_BTN": "Men roziman",
+  "alcoholDesc": "Spirtli ichimliklar qabul qilingan",
+  "all": "Hammasi",
+  "alldata": "Barcha ma&#39;lumotlar",
+  "allergia": "Allergiya",
+  "allergia_aggiunta": "Allergiya muvaffaqiyatli yaratildi",
+  "allergia_rimossa": "Bemorning allergiyasi muvaffaqiyatli o&#39;chirildi",
+  "allergia_salvata": "Bemorning allergiyasi muvaffaqiyatli yangilandi",
+  "allergie": "Allergiya",
+  "allimages": "Barcha rasmlar",
+  "alreadyAddedF": "Ushbu eczane siz allaqachon sevimli sahifalarda mavjud",
+  "alreadyRegistred": "Ushbu elektron pochta manzili tizimda allaqachon mavjud. Iltimos, uchrashuvga yozilish uchun ilovaga kiring.",
+  "alreadyTaken": "Uchrashuv oldindan belgilandi",
+  "alta": "Oliy",
+  "alto": "Oliy",
+  "amonth": "30 kun",
+  "anger": "G&#39;azab",
+  "annoinizio": "Yil boshlandi",
+  "antibiotics": "Antibiotiklar",
+  "an_error_occurred": "Voy! Ayni paytda biz sizning talabingizni oldindan aniqlay olmaymiz. Keyinroq urinib ko‘ring",
+  "appointment": "Uchrashuv",
+  "appointmentlist": "Uchrashuvlar ro&#39;yxati",
+  "appointments": "Uchrashuvlar",
+  "appointmentsDescription": "Vaqt tayinlashlari ro&#39;yxati",
+  "appointment_body_doc": "Yangi tayinlash rejalashtirilgan",
+  "appointment_calcelled_title": "Uchrashuv bekor qilindi",
+  "appointment_cancelled": "uning tayinlanishini bekor qildi",
+  "appointment_email_body": "Sizning shifokor bilan uchrashuvingizni tasdiqlaymiz",
+  "appointment_history": "Uchrashuvlar tarixi",
+  "appointment_now": "Uchrashuvingiz endi boshlanadi",
+  "appremainder": "Uchrashuvni qoldiring",
+  "appremainder1": "5 daqiqada rejalashtirilgan videokodurangiz bor",
+  "appremainder2": "Sizning videokamerangiz 30 daqiqada chizilgan",
+  "appremainder3": "120 daqiqada videokamerangiz bor",
+  "APPROX_DATA": "Boshqa salomatlik ma&#39;lumotlari",
+  "appuntamenti": "Uchrashuvlar",
+  "appuntamenti_presi": "Rejalashtirilgan uchrashuv",
+  "appuntamento_clinica": "Klinika tayinlashni talab qiling",
+  "APPUNTAMENTO_CONGIUNTO": "Videoqo&#39;ng&#39;iroq qilmoqchimisiz?",
+  "app_description": "Uchrashuvingiz sabablarini quyidagi katakchaga kiriting",
+  "app_details": "Uchrashuv tafsilotlari",
+  "app_missing": "Qo&#39;llab-quvvatlash dasturi o&#39;rnatilmagan",
+  "ARIAX": "Nafas tezligi",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Arousal",
+  "arousalDescription": "Tinchlikdan yoki zerikishdan ogohlantiruvchi va hayajonli bo&#39;lgan o&#39;zgaruvchan. U faollashuv va stimulyatsiya darajasi kabi tushunchalarga mos keladi.",
+  "assign_specialist": "So&#39;rovga mutaxassis tayinlang",
+  "associa": "Birgalikda",
+  "attachment": "Qo&#39;shimcha",
+  "ATTACH_A_PHOTO": "Surat qo&#39;shing",
+  "BACKGROUND": "Fon",
+  "BACKGROUND_PLCHOLDER": "Iltimos, qisqa biografiya kiriting.",
+  "backhomeconfirm": "Uyga qaytishga aminmisiz?",
+  "BACK_BTN": "Orqaga",
+  "BACK_LOGIN": "Kirish sahifasiga qaytish",
+  "bad_file": "Faylni ochib bo&#39;lmadi",
+  "basicinfo": "Asosiy ma&#39;lumotlar",
+  "bassa": "Kam",
+  "basso": "past",
+  "below_warning": "Quyidagi qiymat xavf ostida",
+  "benefits": "Concierge foydasi",
+  "beyondverbal": "Tuyg&#39;ular biz qilayotgan hamma narsalarni qo&#39;zg&#39;atadi, ammo ovozga asoslangan his-tuyg&#39;ular bugungi kunda eng muhim, o&#39;rganilmagan interfeys bo&#39;lib qolmoqda. Verbal tashqari, buni o&#39;zgartirishga qaror qiladi.",
+  "beyondverbal_analyze": "Sizning kayfiyatingizni tahlil qiling",
+  "beyondverbal_history": "Tarixiy natijalar",
+  "beyondverbal_instruction": "Savolga javob berishga tayyor bo&#39;lgach, start tugmasini bosing",
+  "BIRTHDATE": "Tug&#39;ilgan sana",
+  "birthday": "Tug&#39;ilgan kun",
+  "blank_agenda": "Bugungi kunda bo&#39;sh joy yo&#39;q",
+  "bloatedOrContipated": "Buzilib ketgan yoki qotib qolgan",
+  "bluetooth_error": "Davom etish uchun avval Bluetooth-ni yoqish",
+  "BOARD": "Etakchi kengash tomonidan tasdiqlangan",
+  "bones": "Suyaklar",
+  "bp": "Qon bosimi",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Qon bosimi qiymatlari uchun reference jadvali",
+  "breakfast": "Nonushta",
+  "btnback": "Orqaga",
+  "btndelete": "O&#39;chir",
+  "btndisabledoctor": "Doktorni o&#39;chirib qo&#39;ying",
+  "btndisablepatient": "Bemorni o&#39;chirib qo&#39;ying",
+  "btnenabledoctor": "Doktorni yoqish",
+  "btnenablepatient": "Bemorni yoqish",
+  "btnsave": "Saqlash",
+  "BTN_LOAD_MORE": "Ko&#39;proq yuklang",
+  "buttonsearch": "Qidirmoq",
+  "bvFailed": "Ovozingizni tahlil qila olmadingiz, ko&#39;proq gapirishingiz kerak!",
+  "bvInstruction": "Faqat 20 soniya yoki undan ko&#39;proq suhbatlashing",
+  "bvInstruction2": "Faqat 20 soniya davomida suhbatni davom eting",
+  "ca": "Yurak-qon tomir tizimi",
+  "call": "Qo&#39;ng&#39;iroq qiling",
+  "callCancel": "Muddati tugagan qo&#39;ng&#39;iroqni bekor qilolmaydi",
+  "calldoctor": "Doktorni chaqiring",
+  "calling_number": "Qo&#39;ng&#39;iroq raqami",
+  "callthedoctor": "Doktorni chaqiring",
+  "calltransfer": "Qo&#39;ng&#39;iroqni uzatish ...",
+  "CALL_ALREADY_TAKEN": "Qo&#39;ng&#39;iroq qilish allaqachon olingan",
+  "CALL_DOCTOR_INFO": "Doktor ma&#39;lumoti",
+  "CALL_DURATION": "Qidiruv davomiyligi",
+  "call_instruction": "Vrachni chaqira olasiz, sizga xabar yuboramiz. Videokallashni boshlash uchun uni qabul qilgandan so&#39;ng bildirishnomani bosing. Bildirishnomalarni o&#39;chirib tashlagan bo&#39;lsangiz, mening profilim haqidagi bildirishnomada ushbu ma&#39;lumotni olishingiz mumkin.",
+  "CALL_NOTIFICATIONS": "Telefon qo&#39;ng&#39;iroqlari",
+  "CALL_NO_INCOMING": "Kiruvchi qo&#39;ng&#39;iroqlar yo&#39;q",
+  "CALL_TRANSFER_INFO": "Chaqiruv ma&#39;lumotlarini chaqirish",
+  "CALL_WAITING": "Mavjud shifokorni qidirish vaqtida kutib turing",
+  "CALL_WAITING_2": "Iltimos, shifokor faylingizni tekshirganda kutib turing",
+  "calories": "Kalori",
+  "cancel": "Bekor qilish",
+  "cancelAppointment": "Ushbu uchrashuvni bekor qiling",
+  "CANCEL_BTN": "Bekor qilish",
+  "CAP": "Pochta indeksi",
+  "cardiac_output": "Yurak chiqishi",
+  "cardiac_output1": "Yurak chiqishi",
+  "cardiac_output_desc": "Kardiyak output oddiygina yurak tomonidan bir daqiqada pompalanadigan qon miqdori.",
+  "cardiovascular": "Kardiovaskulyar",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "CVC noto&#39;g&#39;ri",
+  "CARD_EXPIRY_DATE": "Tugash muddati",
+  "CARD_MONTH_ERROR": "Oy noto&#39;g&#39;ri",
+  "CARD_NUMBER": "Karta raqami",
+  "CARD_NUMBER_ERROR": "CC raqami noto&#39;g&#39;ri",
+  "CARD_YEAR_ERROR": "Yil noto&#39;g&#39;ri",
+  "category": "Turkum",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "CCV talab qilinadi",
+  "CERROR": "Yomon aloqa",
+  "certificate_attachment": "Sizning tibbiy ma&#39;lumotnomangiz ilova qilingan",
+  "certificate_email": "Sizning tibbiy guvohnomangiz ilova qilinadi",
+  "certificate_header": "O&#39;tkazilgan tibbiy baholash asosida quyidagilar ko&#39;rsatiladi:",
+  "certificate_sent": "Sertifikat yuborildi",
+  "certification_subject": "Sizning tibbiy guvohnomangiz",
+  "cf": "Moliya Kodeksi",
+  "cf_error": "Iltimos, soliq kodingizni ko&#39;rsating",
+  "changeschedule": "Vaqtni o&#39;zgartirish",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Parolingiz muddati tugagan, iltimos uni o&#39;zgartiring.",
+  "CHANGE_PWD_SECTION_TITLE": "Kalit so&#39;zni o&#39;zgartirish",
+  "CHANGE_PWD_TITLE": "Sizning parolingiz muddati tugaydi va o&#39;zgartiriladi",
+  "checking_net_condition": "Internetga ulanishni tekshirish ...",
+  "CHECK_PARAMETERS_CORX": "Iltimos, to&#39;g&#39;ri sog&#39;lomlik qiymatlarini hisoblash uchun profil bo&#39;limidagi vazni va balandligini kiriting.",
+  "CHL_TOT": "Umumiy xolesterin",
+  "choosedate": "Sana tanlang",
+  "chooseDateDescription": "Uni kengaytirish uchun soatni tanlang va soatni tanlang",
+  "chooseprofile": "Siz?",
+  "choosespeciality": "Tibbiyot mutaxassisligini tanlang",
+  "choosetransferdoctor": "Agar shifokorni tanlang",
+  "CHOOSE_A_DOCTOR": "O&#39;z shifokoringizni tanlang",
+  "chosedoctor": "Iltimos, shifokorni tanlang",
+  "city": "Shahar",
+  "city1": "Shahar",
+  "city2": "Shahar",
+  "clearsignature": "Imzoni o&#39;chirish",
+  "clickitem": "To&#39;liq ma&#39;lumotlarni ko&#39;rish uchun har bir elementni bosing",
+  "clickrow": "Tanlash uchun qatorni bosing",
+  "clickToOpen": "Faylni ochish uchun bosing",
+  "click_to_start_call": "Qo&#39;ng&#39;iroqni boshlash uchun shifokorni bosing",
+  "clinics": "Klinikalar",
+  "CLOCK_FORMAT": "Soat formati",
+  "closeappconfirm": "Siz ilovani yopishingizga ishonchingiz komilmi?",
+  "CLOSE_BTN": "Yoping",
+  "cm": "sm",
+  "CODE": "Kod",
+  "code_not_valid": "Kiritilgan kod haqiqiy emas",
+  "code_verified": "Kod muvaffaqiyatli tasdiqlandi!",
+  "coffeeDesc": "Qahva iste&#39;mol qilingan",
+  "COMMENT": "izoh",
+  "commenti": "Izohlar",
+  "COMPANY_NAME": "Kompaniya",
+  "COMPLAIN": "Shikoyat qiling",
+  "COMPLETE_PROFILE": "Davom etish uchun avval sizning profilingizni batamom qiling",
+  "COMPLETE_PROFILE_TITLE": "Iltimos, profilingizni tugating",
+  "complications": "Murakkabliklar",
+  "concernlist": "Iltimos, asosiy tashvishingizni bildiring",
+  "CONFIRM": "Ok",
+  "confirm_app": "Uchrashuvni tasdiqlang",
+  "CONFIRM_EMAIL_TITLE": "E-mailni tasdiqlang",
+  "CONFIRM_PWD": "Parolni tasdiqlang",
+  "connect": "Qurilmani ulash uchun Connect tugmasini bosing",
+  "connectbtn": "Ulanmoq",
+  "connectedto": "Bilan bog&#39;liq",
+  "connecting": "Ulanilmoqda ... Iltimos, kuting",
+  "connection_progress": "Qurilmaga ulanish ...",
+  "CONSULT": "Shikoyat qiling",
+  "consult1": "Maslahat bering",
+  "consultation": "Maslamat",
+  "consultationHistory": "Maslahatlashuv tarixi",
+  "contact": "Aloqa",
+  "CONTACT_US_BTN": "Biz bilan bog&#39;lanish",
+  "CONTACT_US_SECTION_TITLE": "Iltimos, har qanday savol yoki ilova yordamida yordam berish uchun biz bilan bog&#39;laning.",
+  "CONTACT_US_TITLE": "Biz bilan bog&#39;lanish",
+  "contatti": "Bog&#39;lanish uchun ma&#39;lumot",
+  "continue": "Davom etish",
+  "copy_url": "URL-ni nusxalash",
+  "CORX": "EKG",
+  "corxDidFailEcg": "EKG olishda xato",
+  "corxDidFailWellness": "Sog&#39;lom turmush ma&#39;lumotlarini olishda xatolik",
+  "corxDidNoEcg": "EKG ma&#39;lumotlari yo&#39;q",
+  "corxDidNoWellness": "Hech qanday sog&#39;lomlashtirish ma&#39;lumoti yo&#39;q",
+  "CORX_DATA": "CorX ma&#39;lumotlari",
+  "corx_disconnected": "Corx aloqasi uzilib qoldi",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Iltimos, vaznni va bo&#39;yi sizning ko&#39;rsatkichlar parametrlarini to&#39;g&#39;ri hisoblash uchun belgilang.",
+  "COUNTRY": "Davlat",
+  "country1": "Davlat",
+  "county": "Tuman",
+  "co_alta": "8 L / min dan katta",
+  "co_bassa": "4 L / min dan kamroq",
+  "co_normale": "4 va 8 L / min orasida",
+  "creditCard_selected": "Ushbu xizmat uchun tanlangan karta olinadi",
+  "currency": "Pul birligi",
+  "C_SPECIALTY": "Maxsus mutaxassislik",
+  "dailyuse": "Kundalik foydalanish",
+  "dashboardVideocall": "Videokallashuv paneli",
+  "dataerror": "Siz tanlagan sana / vaqt joriy sana / vaqtni o&#39;tadi",
+  "dataexists": "Tanlangan sana va vaqt bilan allaqachon uchrashuv tayinlangan",
+  "datafetching": "Shaxsiy ma&#39;lumotlaringizni olib kirish ... Iltimos, kuting.",
+  "dataPrenotazione": "Rezervasyon kunlari",
+  "dataVaccinazione": "Emlash tarixi",
+  "date": "Sana",
+  "dateDiscovered": "Sana aniqlandi",
+  "dateStart": "Boshlanish vaqti",
+  "datipersonali": "Shaxsiy ma&#39;lumotlar",
+  "datiScaricati": "Ma&#39;lumotlar muvaffaqiyatli yuklab qo&#39;yildi",
+  "day": "Kun",
+  "deassociate_corx_alert": "Corxni chalkashtirmoqchimisiz?",
+  "decline": "Rad qilish",
+  "DECLINE_BTN": "Rad qilish",
+  "DEEP_SLEEP_TIME": "Chuqur uyqu",
+  "defaultQuestion": "Boshlashni boshlang va bizni bugun qanday his qilyapsiz?",
+  "delete": "O&#39;chir",
+  "deleteAlarm": "Ushbu signal o&#39;chirib tashlansinmi?",
+  "deleteAppointment": "Uchrashuvni bekor qilmoqchimisiz?",
+  "deleteDescription": "Bu darhol o&#39;chiriladi.",
+  "deleteMessage": "Buni o&#39;chirib tashlamoqchimisiz?",
+  "deleteMultipleDesctiption": "O&#39;chiriladigan uy soni:",
+  "deleteNumber": "Ushbu raqamni o&#39;chirmoqchimisiz?",
+  "deleteSlotDay": "Ushbu kunning barcha bo&#39;sh joylarini o&#39;chiradi",
+  "deleteSlotMonth": "Bu oyda barcha bepul slotlarni o&#39;chirib tashlaydi",
+  "deleteSlotWeek": "Bu hafta barcha bepul slotlarni o&#39;chirib tashlaydi",
+  "deletevalue_q": "Qiymatni o&#39;chirmoqchimisiz?",
+  "DELETE_NOTIFICATION_MSG": "Avvalgi barcha bildirishnomalarni yo&#39;q qilmoqchimisiz?",
+  "demo": "Bu demo, pul yo&#39;q.",
+  "dependencies": "Bođlišliklar",
+  "description": "Ta&#39;rif",
+  "descriptionMandatory": "Iltimos, tavsifi aniqlang",
+  "deseaseCategory": "Kasallik toifasi",
+  "desirable": "Istalgan",
+  "dettagli": "Batafsil",
+  "dettaglio_struttura": "Tarkibi batafsil",
+  "device": "Qurilma",
+  "devicefound": "Qurilma topildi",
+  "devices": "Asboblar",
+  "devicetype": "Qurilma turi",
+  "DEVICE_BLOOD_PRESSURE": "Qon bosimi",
+  "DEVICE_CALORIES": "Kaloriya yoqildi",
+  "DEVICE_CARDIAC": "Kardiyak monitoring",
+  "DEVICE_CHL": "Lipidik profil",
+  "DEVICE_DATA_SECTION_TITLE": "Tibbiy asboblar haqidagi ma&#39;lumotlar",
+  "DEVICE_DATA_TITLE": "Qurilma ma&#39;lumotlari",
+  "DEVICE_DATA_TITLE_1": "Tibbiy asboblar to&#39;g&#39;risidagi ma&#39;lumotlar",
+  "DEVICE_EKG": "EKG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness reytingi",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glyuktometer",
+  "DEVICE_HEART_RATE": "Yurak urish tezligi",
+  "DEVICE_PEDOMETER": "Pedometr",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Nafas olish chastotasi",
+  "DEVICE_SPO2": "Spo2",
+  "DEVICE_TEMPERATURE": "Harorat",
+  "DIAGNOSIS": "Tashxis",
+  "diastolic": "Diastolik",
+  "dieci": "Oxirgi 10 o&#39;lchov",
+  "diet": "Diet",
+  "digestion": "Ovqat hazm qilish masalalari",
+  "dinner": "Kechki ovqat",
+  "dipendenza": "Qaramlik",
+  "disableAlarm": "Signal yoqildi",
+  "disabled": "O&#39;chirib qo&#39;yildi",
+  "DISABLE_PANIC_BUTTON": "Panik tugmasini yoqing",
+  "DISABLE_PUNIC_BUTTON": "Punic tugmasini o&#39;chirib qo&#39;yish",
+  "disconnectall": "Oflayn rejimini tanlang",
+  "disconnectbtn": "Ulanishni tugatish",
+  "DISDICI": "Bekor qilish",
+  "disease": "Surunkali kasalliklar",
+  "diseasemanagement": "Kasalliklarni boshqarish",
+  "diseases": "Kasalliklar",
+  "disease_1": "Kasallik",
+  "dissocia": "Aloqaga kirmaslik",
+  "DISTANCE": "Masofa",
+  "dm_section_description_1": "Bu yerda siz fayllarni biriktirishingiz mumkin",
+  "DND": "Bezovta qilmang",
+  "DOCEMAIL": "Shifokor Email",
+  "DOCNAME": "Shifokorning ismi",
+  "DOCPHONE": "Shifokor telefon raqami",
+  "DOCTOR": "Doktor",
+  "doctor1": "Doktor",
+  "doctorAtHome": "Uyda shifokor",
+  "doctorAtHomeQuestion1": "Uy yordamini xohlayman:",
+  "doctorAtHomeQuestion2": "Kerak bo&#39;lgan uy yordamini tanlang",
+  "doctorAtHomeQuestion2Answer1": "Umumiy amaliyot",
+  "doctorAtHomeQuestion2Answer2": "Pediatriya",
+  "doctorAtHomeQuestion2Answer3": "Opa",
+  "doctorAtHomeQuestion3": "Yordam olishni istayotganingizni aytib bering",
+  "doctorAtHomeQuestion4": "Yordam olishni istagan manzilning ostidagi shaklni kiriting",
+  "doctorAtHomeRequestBtn": "So&#39;rovni yuboring",
+  "doctorAtHomeRequestSuccess": "Sizning so&#39;rovingizni oldik. Uy xizmatini tashkil qilish uchun siz 2 soatdan so&#39;ng bog&#39;lanasiz",
+  "doctorAtHomeTitle": "Uyda shifokor",
+  "doctorbusy": "Doktor boshqa chaqiruv bilan mashg&#39;ul",
+  "doctorbusy1": "Shifokor boshqa chaqiruv bilan mashg&#39;ul",
+  "doctorlist": "Shifokorlar ro&#39;yxati",
+  "doctormanagement": "Shifokorlar boshqaruvi",
+  "doctoroffline": "Shifokor onlayn emas, qayta urinib ko&#39;ring",
+  "doctorupdate": "Doktor",
+  "DOCTOR_PROFILE_OPT1": "Profil",
+  "DOCTOR_PROFILE_OPT2": "Kasal tashrif tarixi",
+  "DOCTOR_PROFILE_OPT3": "Hamkasblarini tavsiya qilamiz",
+  "DOCTOR_PROFILE_SECTION1": "Profilingiz",
+  "DOCTOR_PROFILE_TITLE": "Profil",
+  "doctor_request_sent": "Sizning so&#39;rovingizni shifokorlarimizga topshirdik. Siz ikki daqiqa ichida javob olasiz.",
+  "documents": "Hujjatlar",
+  "DOCUMENT_BTN": "Hujjatlar",
+  "doestake": "Qabul qildingizmi?",
+  "DONATION_TITLE": "Bag&#39;oyatni tasdiqlang",
+  "done": "Trackx ma&#39;lumoti muvaffaqiyatli yuklab olindi. Ularni sog&#39;lomlashtirish ma&#39;lumotlar bo&#39;limi ostida topasiz",
+  "doneAppointmentPatient": "O&#39;tgan uchrashuvlar",
+  "DONE_BTN": "Bajarildi",
+  "dontknow": "Men esimda yo&#39;q",
+  "DORMIVEGLIA": "Nafaslik",
+  "dosage": "Dozaj",
+  "dosetake1": "Siz dori-darmonlarni qabul qildingizmi?",
+  "dottore_rimosso": "Doktor maqomi muvaffaqiyatli yangilandi",
+  "dottore_salvato": "Doktor muvaffaqiyatli yangilandi",
+  "download": "Yuklab oling",
+  "downloadaspdf": "PDF sifatida yuklab olish",
+  "downloadecg": "EKGni yuklab olish",
+  "DOWNLOADING_DEVICE_DATA": "Yuklanmoqda ...",
+  "downloadwellnessdata": "Sog&#39;lomlashtirish ma&#39;lumotlarini yuklab olish ...",
+  "downloadWellnessResult": "o&#39;lchov qo&#39;shildi",
+  "DOWNLOAD_CERTIFICATE": "Sertifikatni yuklab oling",
+  "DOWNLOAD_ERROR_GENERIC": "Oops. Faylni yuklab olishda xatolik yuz berdi. Iltimos keyinroq qayta urinib ko&#39;ring.",
+  "DOWNLOAD_SO_REPORT": "Yuborishni yuklab oling",
+  "DO_NOT_DISTURB": "Bezovta qilmang",
+  "drugsAtHome": "Uyda giyohvand moddalar",
+  "drugsAtHomeQuestion1": "Shifokoringiz tomonidan buyurilgan preparatlarni bevosita uyda qabul qilmoqchimisiz?",
+  "drugsAtHomeRequestBtn": "So&#39;rovni yuboring",
+  "drugsAtHomeRequestSuccess": "Sizning so&#39;rovingizni oldik. Preparatlar 24 soat ichida yuboriladi",
+  "drugsAtHomeSection1": "Dori-darmonlarni qabul qilishni istagan telefon raqami va manzilning pastki qismidagi shaklni kiriting.",
+  "drugsAtHomeTitle": "Uyda giyohvand moddalar",
+  "drug_name": "Dori nomi",
+  "duration": "Muddati",
+  "ecg": "EKG",
+  "ecgadded": "EKG ro&#39;yxatga muvaffaqiyatli qo&#39;shildi",
+  "ECGBP": "EKG BP",
+  "ecgdata_header": "EKG ma&#39;lumotlari",
+  "ecgdetail": "EKG tasvirini ko&#39;rish uchun har bir elementni bosing",
+  "ECG_DELETE_Q": "EKG-ni o&#39;chirmoqchimisiz?",
+  "ecg_not_found": "Noto&#39;g&#39;ri EKG fayli, boshqa noto&#39;g&#39;ri harakat qilib ko&#39;ring.",
+  "ECG_REMOVED": "EKG muvaffaqiyatli o&#39;chirildi",
+  "edit": "Tahrirlash",
+  "EKG_SECTION_TITLE": "Elektrokardiyogramma (EKG / EKG) Natijalar",
+  "EKG_TITLE": "EKG yuklash",
+  "EMAIL": "E-pochta",
+  "email1": "E-pochta",
+  "email_do_not_match": "E-pochta xabarlari mos emas",
+  "ematicTest": "Ematik testlar",
+  "Emergency": "Favqulodda vaziyatda ko&#39;rsatilsin",
+  "emergency1": "Favqulodda",
+  "emergencyLoginCode": "Favqulodda kirish kodi",
+  "emergency_numbers": "Favqulodda raqamlar",
+  "emergency_number_description": "Favqulodda vaziyatda qo&#39;ng&#39;iroq qilish uchun telefon raqamlarini qo&#39;shing",
+  "emotionDescription": "Tahlil qilinadigan ovoz qismida foydalanuvchilarning ovozi bilan ifodalangan turli xil asosiy his-tuyg&#39;ularning kombinatsiyasi.",
+  "emotions": "Qo&#39;shma tuyg&#39;ular",
+  "emptypassword": "Iltimos, parollaringizni kiriting",
+  "EMPTY_ALLERGIES": "Tibbiy yozuvingizga kasallik qo&#39;shish uchun tugmani bosing",
+  "empty_dataset": "Ma&#39;lumot yo&#39;q",
+  "EMPTY_DEPENDENCIES": "Tibbiy yozuvingizga bog&#39;liqlik kiritish uchun tugmani bosing",
+  "EMPTY_DISEASE": "Tibbiy yozuvingizga kasallik qo&#39;shish uchun tugmani bosing",
+  "EMPTY_DOCUMENTS": "Tibbiy yozuvingizga hujjat qo&#39;shish uchun tugmani bosing",
+  "EMPTY_IMAGES": "Tibbiy yozuvingizga rasm qo&#39;shish uchun tugmani bosing",
+  "EMPTY_IMMUNIZATION": "Tibbiy yozuvingizga immunizatsiya kiritish uchun tugmani bosing",
+  "EMPTY_MEDICATION": "Tibbiy yozuvingizga dori-darmon qo&#39;shish uchun tugmani bosing",
+  "empty_otp": "Noto&#39;g&#39;ri OTP kodi",
+  "EMPTY_PROSTHESIS": "Tibbiy yozuvingizga protez qo&#39;shish uchun tugmani bosing",
+  "EMPTY_TESTS": "Tibbiy yozuvingizga test kiritish uchun tugmani bosing",
+  "enabled": "Faol",
+  "endate": "To",
+  "endcall": "Chaqiruvni tugatish",
+  "endDate": "Tugash sanasi",
+  "endhour": "Tugash vaqti",
+  "end_time": "Tugash vaqti",
+  "END_VIDEOCALL_Q1": "Video uchrashuvni boshlamasdan konsultatsiyani tugatishni xohlaysizmi?",
+  "END_VISIT_BTN": "Oxirgi tashrif",
+  "error": "Xato",
+  "error_call_timeout": "Videokallni yaratish vaqti tugadi. Videoqo&#39;ng&#39;iroqni amalga oshirish uchun jarayonni takrorlang.",
+  "ERROR_EMAIL_DUPPLICATE": "E-pochta manzili allaqachon ro&#39;yxatdan o&#39;tgan. Boshqasini ko&#39;ring.",
+  "error_price": "Iltimos, haqni belgilang",
+  "ERROR_SPECIFY_DAYS": "Iltimos, kamida bir hafta kunni belgilang",
+  "ERROR_SPECIFY_HOUR": "Iltimos, vaqtni ko&#39;rsating",
+  "ERROR_TITLE_NOTIFICATION": "Xato",
+  "ERROR_TRACKX": "Trackx-ni yoqing",
+  "error_update": "Firmware&#39;ni yangilashda xato ro&#39;y berdi",
+  "ERROR_USERNAME_DUPPLICATE": "Ushbu foydalanuvchi nomi allaqachon olingan, boshqasini tanlang",
+  "ERROR_WHITELIST": "Kechirasiz, qurilmangiz videoqo&#39;ng&#39;iroqni amalga oshira olmaydi",
+  "esameobbligatorio": "Iltimos, imtihonni tanlang",
+  "exam_name": "Imtihon nomi",
+  "exercise": "Mashq qilish",
+  "exercisereminders": "Mashq qilish eslatmalari",
+  "existentassoc": "Uyushmalar mavjud",
+  "existentrelation": "Ushbu munosabat allaqachon mavjud",
+  "expandfordetails": "Qo&#39;shimcha ma&#39;lumot uchun kengaytir",
+  "EXP_MONTH": "Muddati oy",
+  "EXP_MONTH_REQUIRED": "Muddati kerak",
+  "EXP_YEAR": "Muddati tugagan yil",
+  "EXP_YEAR_REQUIRED": "Muddati kerak",
+  "e_prescribing": "E-retseptlar",
+  "F": "Ayol",
+  "farmaci": "Dorilar",
+  "farmaco": "Dori-darmon",
+  "fat": "Yog &#39;",
+  "FATIGUE_INDEX": "Charchoq",
+  "FATIGUE_INDEX_DESCRIPTION": "Charchoq darajasining sababi bo&#39;lgan ish, ish va tajriba. Haddan tashqari charchoq osonlik bilan elkama-mushaklarning og&#39;rig&#39;iga, bosh og&#39;rig&#39;iga, uyqusizlikka, charchoqqa, bel og&#39;rig&#39;iga olib keladi va asab tizimiga, endokrin kasalliklarga olib keladi va ko&#39;plab surunkali kasalliklar va ruhiy charchoqlarga olib keladi.",
+  "favoriteslist": "Sevimlilarim ro&#39;yxati",
+  "FAVORITES_NO": "Hech qanday shifokorni sizning sevimli ro&#39;yxatingizga qo&#39;shmagansiz",
+  "FAVORITES_NO_PHARMACIES": "Siz hali yoqtirganlar ro&#39;yxatiga hech qanday dorixona qo&#39;shmagansiz",
+  "FAVORITES_SECTION_SUBTITLE": "To&#39;liq ma&#39;lumotlarni ko&#39;rish uchun har bir elementni bosing",
+  "FAVORITES_SECTION_TITLE": "Sevimli shifokorlar",
+  "FAVORITES_TITLE": "Sevimlilar",
+  "favourite_pharmacy": "Sevimli eczaneler",
+  "FEE": "To&#39;lovlarni boshqarish",
+  "FEET": "oyoqlari",
+  "female": "Ayol",
+  "fileloaded": "Fayl yuklandi",
+  "fileloaded1": "Fle muvaffaqiyatli yuklandi",
+  "fileName": "Fayl nomi",
+  "filenotfound": "Fayl topilmadi",
+  "file_upload_instruction": "Buyruqni yuklash",
+  "filldate": "Iltimos, tarixni tanlang",
+  "filldoctor": "Iltimos, shifokorni tanlang",
+  "fillpeciality": "Iltimos, ixtisoslikni tanlang",
+  "fillthebox": "Qoyani to&#39;ldiring",
+  "fill_indication": "Iltimos, ko&#39;rsatgich maydonini to&#39;ldiring",
+  "fill_indication_for": "Iltimos, ko&#39;rsatmani ko&#39;rsating",
+  "fill_quantity": "Iltimos, miqdor maydonini to&#39;ldiring",
+  "fill_quantity_for": "Iltimos, miqdorini ko&#39;rsating",
+  "fill_your_doubt": "Iltimos, yuqoridagi qutidagi tavsifni bering.",
+  "filter": "Filtrni tanlang",
+  "finddoctor": "Shifokorlar toping",
+  "findFarmacia": "Dorixonani qidirish",
+  "findpatient": "Bemorni toping",
+  "findspcialist": "Mutaxassis toping",
+  "findStruttura": "Qidiruv tarkibi",
+  "finduser": "Foydalanuvchini toping",
+  "FIND_A_DOCTOR": "Shifokorga murojaat qiling",
+  "find_device": "Qurilma toping",
+  "FIND_THE_BRACELET": "Bronzni toping",
+  "fingerprint_btn": "Barmoq izida kirishni yoqish",
+  "fingerprint_hint": "Davom etish uchun barmoq izini tasdiqlang",
+  "fingerprint_hint2": "Davom etish uchun barmoq izini tasdiqlang",
+  "fingerprint_question": "Barmoq izi haqiqiyligini tekshirishni xohlaysizmi?",
+  "FIRMWARE_UPDATE": "Bellenim yangilanishi",
+  "FIRMWARE_UPDATED": "Firmware yangilandi",
+  "firstName": "Ism",
+  "five_min": "5 daqiqada",
+  "fixappointment": "Ushbu uchrashuvni rejalashtirmoqchimisiz?",
+  "forever": "Abadiy",
+  "forgotPassword": "Parolni esdan chiqardingizmi?",
+  "forgot_password": "Parolni unutdingizmi?",
+  "forma": "Turi",
+  "formafarmaco": "Dori vositasi",
+  "formatError": "Narx soni bo&#39;lishi kerak.",
+  "found_devices": "Topilgan qurilmalar",
+  "FRIDAY": "Juma kuni",
+  "GENDER": "Jins",
+  "gender1": "Jins",
+  "general": "Umumiy",
+  "generalInfo": "Umumiy ma&#39;lumot",
+  "genericName": "Bosh nom",
+  "GENERIC_ERROR": "OOps! Nimadir noto&#39;g&#39;ri bajarildi. Iltimos keyinroq qayta urinib ko&#39;ring",
+  "geneticTest": "Genetik test",
+  "geneticTestHeader2": "Genetika testlari orqali sog&#39;ligingiz haqida ko&#39;proq ma&#39;lumotga ega bo&#39;lishingiz va sog&#39;lom saqlash uchun to&#39;g&#39;ri ish qilishingiz mumkin.",
+  "geneticTestHeader3": "Bu qanday ishlaydi",
+  "geneticTestProduct": "Oziqlantirish profili",
+  "geneticTestRequestBtn": "Sinovdan so&#39;rang",
+  "geneticTestRequestSuccess": "Buyurtmangiz tasdiqlandi. Kitni bevosita uyda qabul qilasiz",
+  "geneticTestSection1": "Sizning ovqatingiz tanangiz va sizning metabolizmingiz uchun etarli bo&#39;lsa, hozir kerakmi?",
+  "geneticTestSection2": "Sog&#39;lom oziq-ovqat tanangizning surunkali kasalliklarga xavf solmasligini bilasizmi?",
+  "geneticTestSection3": "Oziqlanish testi sizning DNK va dietingiz o&#39;rtasidagi bog&#39;lanishni bilib olishga imkon beradi.",
+  "geneticTestSection4": "Bu erda sizning telefon raqamingiz va to&#39;plamni olishni istagan manzilni qo&#39;shing",
+  "geneticTestStep1": "1. Sinovga buyurtma bering",
+  "geneticTestStep1Subtitle": "Buyurtmani ilova bilan amalga oshiring va kitni bevosita uyda qabul qiling.",
+  "geneticTestStep2Subtitle": "Namunani oling va biz sizga taqdim etadigan konvertdan foydalangan holda pochta xizmatiga yuboring.",
+  "geneticTestStep3": "3. Natijalarni oling",
+  "geneticTestStep3Subtitle": "Bir necha hafta o&#39;tgach siz genetik tekshiruv natijalari App&#39;da mavjudligini xabar qiladigan xabarni olasiz.",
+  "geneticTestTitle": "Genetik test",
+  "GLUCOMETER": "Glyukometr",
+  "glucosio": "Glyukoza",
+  "HAND_BRIGHTEN": "Qo&#39;lingizni ko&#39;taring",
+  "happiness": "Baxtiyorlik",
+  "HDL": "HDL xolesterin",
+  "hdl_cholesterol_desc": "Yuqori zichlikdagi lipoprotein (HDL) xolesterin &quot;yaxshi&quot; xolesterin sifatida tanilgan. Quyidagi jadvalda qiymatlar oralig&#39;i ko&#39;rsatilgan.",
+  "healthtips": "Sog&#39;likka qarshi kurash",
+  "HEALTH_INDEX": "Sog&#39;liqni saqlash",
+  "HEALTH_INDEX_DESCRIPTION": "HRV sog&#39;liqni saqlash indekslari Xolterning tanadagi salomatlik parametrlarini tahlil qilish natijalarini real vaqtda o&#39;lchashga asoslanib, yurakning yurak tezligi o&#39;zgaruvchanligi va boshqa ko&#39;rsatkichlar bo&#39;yicha yurak urishi tezligi va boshqa parametrlarni tahlil qilish orqali, sog&#39;liq ko&#39;rsatkichi ortib, tananing sog&#39;lig&#39;ini ifodalaydi. yaxshiroq; sog&#39;lik indeksining qisqarishi, tananing nomidan kunlik sog&#39;lom hayotga e&#39;tibor berish kerak.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Yurak",
+  "HEART_INDEX_DESCRIPTION": "Kardiyak funktsiyani ishlatish Foydalanuvchilarning yurak holatini o&#39;lchaydilar va ularning yuragi va umumiy sog&#39;lig&#39;iga bo&#39;lgan muhabbatning turli darajalari tufayli ularning ishlashi farq qiladi. Sog&#39;lom turmush tarzi va ovqatlanish odatlarini rivojlantirish uchun: qalbning kaltsiy natriy birikmasini kuchaytirishga, qon tomirlarini himoya qilishga qaratilgan yurak-yurak yo&#39;lini ishlab chiqish, yurak xastaliklarining oldini olishga faol ta&#39;sir qilishi mumkin, yurak funktsional strategiyasini kuchaytirish hisoblanadi.",
+  "height": "Juda katta",
+  "height1": "BMI to&#39;g&#39;ri hisoblash uchun balandlik talab qilinadi",
+  "heightUnit": "Balandlik birligi",
+  "hepaticFunction": "Jigar faoliyati",
+  "hide": "Yashirish",
+  "high1": "Oliy",
+  "high_risk": "Yuqori xavf",
+  "history": "Maslahatlashuv tarixi",
+  "homepage": "Bosh sahifa",
+  "HOME_WARNING_MESSAGE": "Ushbu sahifadan uzoqroqqa chiqmoqchimisiz? O&#39;zgartirishingiz yo&#39;qoladi.",
+  "hormonalTest": "Gormonal funktsiyani tekshirish",
+  "hospDate": "Hosp.date",
+  "hospit": "Kasalxonada",
+  "hospital": "Kasalxona",
+  "hospitalization": "Kasalxonada yotish",
+  "hour": "Soat",
+  "hours": "Soatlar",
+  "HOURS_BANK_DONATE_BTN": "Bag&#39;ishlang",
+  "HOURS_BANK_DONATION": "Hozirgi paytda taqdim etilgan vaqt:",
+  "HOURS_BANK_H": "Ish vaqti:",
+  "HOURS_BANK_SECTION_P1": "SaluberMD da sog&#39;liqni saqlash bizning ustuvor vazifamiz bo&#39;lib, biz imkon qadar ko&#39;proq odamlarga xizmat qilishni xohlaymiz. Bizning platformamiz orqali muhtojlarga sog&#39;liqni saqlash xizmatidan foydalanish imkoniyati yaratilmoqda. Bizning yordamchi jamoamiz tashkilotlarga, jismoniy shaxslarga va muhtoj oilalarga tibbiy yordam ko&#39;rsatishga sodiqdir.",
+  "HOURS_BANK_SECTION_P2": "Aloqani bosib, qancha vaqt ajratishni istasangiz, biz ularni bankimizga qo&#39;shamiz.",
+  "HOURS_BANK_SECTION_P3": "Soatlarni ishlatish uchun ilova orqali siz bilan bog&#39;lanamiz va bemorni ko&#39;rish uchun faqat qabul qilsangiz bosing.",
+  "HOURS_BANK_SECTION_TITLE": "Sog`liqni saqlashga bizni qo&#39;shiling!",
+  "HOURS_BANK_TITLE": "Bank soatlari",
+  "howto": "Qanday",
+  "howto1": "Mavjud uyalar yashil to&#39;p bilan belgilanadi",
+  "howto2": "Yashil to&#39;pi bo&#39;lgan bir xonani tanlang va kengaytirish va vaqtni tanlash uchun ustiga bosing. Tayyor bo&#39;lgach, tafsilotlarni ko&#39;rish va uchrashuvni olish uchun qalam belgisini bosing",
+  "howToPrice": "Narx raqamli qiymat bo&#39;lishi kerak. Ko‘pi bilan ikki o‘nlik qiymatiga ruxsat beriladi Ajratuvchi sifatida nuqta yoki vergul ishlatilishi mumkin",
+  "hrv_buono": "Yaxshi",
+  "hrv_eccellente": "Zo&#39;r",
+  "hrv_generale": "Umumiy",
+  "hr_alta": "100dan ortiq",
+  "hr_bassa": "60 dan kam",
+  "HR_DESCRIPTION": "Oddiy dam olish yurak stavkalari jadvallari",
+  "HR_INTERVAL": "HR o&#39;lchov oralig&#39;i",
+  "hr_normale": "60 va 100 orasida",
+  "hsh": "Kasallik va jarrohlik tarixi",
+  "IBAN": "IBAN",
+  "idx": "Indekslar",
+  "image": "Rasm",
+  "images": "Rasmlar",
+  "immunization": "Emlash",
+  "immunizationmenu": "Emlash",
+  "importhealth": "Sog&#39;liqni saqlash ma&#39;lumotlarini import qilish",
+  "impossible_transfer": "Qo&#39;ng&#39;iroqni to&#39;xtatish mumkin emas",
+  "INCH": "Inch",
+  "indexes": "Indekslar",
+  "indication": "Ko&#39;rsatkich",
+  "INFO_BTN": "Ma&#39;lumot",
+  "info_salvate": "Ma&#39;lumotlar muvaffaqiyatli saqlandi",
+  "iniezione": "Qarshi",
+  "initiative": "Tashabbus",
+  "initiativeerror": "Iltimos, tashabbusni tanlang",
+  "insert": "Kiritmoq",
+  "inserttext": "Matnni bu erga qo&#39;shing",
+  "insert_otp_code": "Kodni shu yerga kiriting",
+  "internet_missing": "Siz internetga ulanmagansiz",
+  "invalidemail": "E-pochta manzili noto&#39;g&#39;ri",
+  "invoice": "Billing",
+  "irregulartest": "Noto&#39;g&#39;ri test",
+  "kcal": "kkal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Buyrak faoliyatini tekshirish",
+  "labtesting": "Tarmoq",
+  "LANGUAGE": "Til",
+  "LANGUAGE_TYPE": "Til",
+  "lastmeasure": "Oxirgi o&#39;lchov",
+  "lastName": "Familiya",
+  "lastPhysical": "Oxirgi jismoniy",
+  "lastSync": "So&#39;nggi sinx",
+  "lastTimeOnline": "Oxirgi marta Onlayn",
+  "lastvisit": "Oxirgi tashrif",
+  "last_login_date": "So&#39;nggi kirish sanasi",
+  "last_time_taken": "So&#39;nggi marta olingan",
+  "LDL": "LDL xolesterol",
+  "ldl_cholesterol_desc": "LDL yoki past zichlikdagi lipoprotein - bu &quot;yomon&quot; xolesterin. Quyidagi jadvalda qiymatlar oralig&#39;i ko&#39;rsatilgan",
+  "leggero": "Nur",
+  "LICENSE_NUMBER": "Litsenziya raqami",
+  "LIGHT_SLEEP_TIME": "Engil uyqu",
+  "listcall": "Videokallaning ro&#39;yxati",
+  "litri": "Litr",
+  "liverExam": "Jigar funktsiyasini tekshirish",
+  "LIVE_ECG": "Yangi o&#39;lchov",
+  "live_ecg_downloading": "EKGni yuklab olish. Iltimos kuting...",
+  "loadEcgList": "EKG ro&#39;yxati yuklanmoqda ...",
+  "loading": "Ma&#39;lumotlar yuklanmoqda ...",
+  "loading1": "Yuklanmoqda ...",
+  "loading_list": "Ro&#39;yxat yuklanmoqda ...",
+  "loading_list_nutritionist": "Nutritionists yuklanmoqda ...",
+  "LOAD_INDEX": "Yuklang",
+  "LOAD_INDEX_DESCRIPTION": "Darajali va charchoq, stress. Tananing og&#39;irlik darajasini ko&#39;tarib, jismoniy va psixologik jihatlarini aks ettiradigan keng ko&#39;lamli vazn yuk vazni. Tashqi ijtimoiy, hayot va raqobat va boshqa omillar emas, balki ularning o&#39;zlarining jismoniy holati va aqliy holati.",
+  "LOAD_ITEMS": "Yuklanmoqda ...",
+  "LOGGING_IN": "Kirish ...",
+  "LOGGING_OUT": "Chiqilmoqda ...",
+  "LOGIN_BTN": "Kirish",
+  "LOGIN_ERROR": "Noto&#39;g&#39;ri foydalanuvchi nomi yoki parol",
+  "Logout": "Chiqish",
+  "logout1": "Chiqish",
+  "LOGOUT_BTN": "Chiqish",
+  "low1": "Kam",
+  "lunch": "Tushlik",
+  "lungtest": "O&#39;pka meshini qilaylik",
+  "M": "Erkak",
+  "male": "Erkak",
+  "manageapp": "Uchrashuvlarni boshqarish",
+  "manageslot": "Free slotni boshqarish",
+  "MANAGE_CORX": "Corxni boshqaring",
+  "mandatoryDays": "Iltimos, kunlar sonini ko&#39;rsating",
+  "mandatoryfield": "Iltimos, barcha majburiy maydonlarni to&#39;ldiring",
+  "map": "Xarita",
+  "max_file_size": "Fayl hajmi bundan kichik bo‘lishi kerak",
+  "meals": "Ovqatlar",
+  "medicalconsultation": "Maslamat",
+  "medicalfile": "Rasmlar",
+  "medicalform": "Tibbiy shakllar",
+  "medicalforms": "Tibbiy shakllar",
+  "medicalinfo": "Tibbiy ma&#39;lumot",
+  "medicalrecord": "Tibbiy ma&#39;lumot",
+  "medical_2option": "Tibbiy Ikkinchi Opinion",
+  "MEDICAL_CERTIFICATE": "Tibbiy ma&#39;lumotnoma",
+  "MEDICAL_FILE_BTN": "Tibbiy fayl",
+  "medication": "Dori-darmon",
+  "medication_name": "Dorilar nomi",
+  "medicinereminders": "Mening doriim eslatmalar",
+  "medio": "O&#39;rtacha",
+  "medium1": "O&#39;rtacha",
+  "message": "Xabar",
+  "messagesent": "Xabar muvaffaqiyatli yuborildi",
+  "metabolismTest": "Metabolizm sinovlari",
+  "method": "Boshqaruv",
+  "METRIC": "Metrik",
+  "middedcall2": "Sizda javobsiz qo&#39;ng&#39;iroq bor",
+  "minutes": "daqiqa",
+  "missedcall": "SaluberMd Videokall etishmayapti",
+  "missedcall1": "O&#39;tkazib yuborilgan qo&#39;ng&#39;iroq",
+  "missedNotiAlert": "Sizda bir nechta javobsiz bildirishnomalar mavjud.",
+  "misurazioni": "Yozuvlar",
+  "misure": "O&#39;lchash",
+  "mobile": "Mobil",
+  "mobile_required": "Uchrashuvni tashkil qilish uchun siz bilan bog&#39;lanishimiz uchun telefon raqamingizni kiriting.",
+  "moderate_risk": "Mo&#39;&#39;tadil xavf",
+  "MONDAY": "Dushanba",
+  "month": "Oy",
+  "mood": "Mood guruhi",
+  "moodDescription": "Tahlil qilinadigan ovoz qismida spikerning hissiy holatining asosiy ko&#39;rsatkichi. API, g&#39;azab, yolg&#39;izlik va o&#39;zini nazorat qilishdan baxt va hayajongacha o&#39;zgargan jami 11 ta guruhni yaratadi.",
+  "moreDays": "Ko&#39;proq kunlar",
+  "motivazione": "Sabab",
+  "MRGraph": "Dori-darmonlarni qabul qilish tarixi",
+  "msgAppointment": "Uchrashuv muvaffaqiyatli rejalashtirilgan. Uchrashuvni konsyerj foydalari bo&#39;limida topasiz.",
+  "msgsurveysent": "So&#39;rov muvaffaqiyatli yuborildi",
+  "msg_call_reconnection": "Qayta ulanishga urinilmoqda ...",
+  "MSG_CALL_TRANSFERED": "Videokall muvaffaqiyatli o&#39;tkazildi",
+  "MSG_CHOOSE_OPTION": "Iltimos, bir variantni tanlang",
+  "MSG_CHOOSE_OPTION4": "Tanlovni tanlash",
+  "MSG_CHOOSE_OPTION5": "Nonushtaingizni ta&#39;riflang",
+  "MSG_CHOOSE_OPTION6": "Ovqatlanishingizni tasvirlab bering",
+  "MSG_CHOOSE_OPTION7": "Tushlik haqida aytib bering",
+  "MSG_CHOOSE_OPTION8": "Tushlaringizni ta&#39;riflang",
+  "MSG_CHOOSE_OPTION9": "Iltimos, barcha savollarga javob bering",
+  "MSG_CHOOSE_OPTION_2": "Iltimos, tavsifni kiriting",
+  "MSG_CHOOSE_OPTION_3": "Kamida bitta variantni tanlang",
+  "MSG_COMPLETE_PROFILE": "Keling, bormoqchimisiz?",
+  "MSG_CONFIRM_EMAIL": "Iltimos, elektron pochtangizni tasdiqlang",
+  "MSG_CONFIRM_EMAIL_TEXT": "Sizga e-pochta manzilingizni qanday qilib tasdiqlash bo&#39;yicha ko&#39;rsatmalar berilgan elektron pochta orqali xabar yubordik. Inboxni tekshiring.",
+  "msg_connected": "Muvaffaqiyatli bog&#39;langan",
+  "MSG_CONTACT_SUCCESS": "Sizning yuborganingiz uchun tashakkur.",
+  "MSG_DOC_ENDED_CALL": "Shifokor qo&#39;ng&#39;iroqni tugatdi",
+  "MSG_DOC_WAITING_CALL": "Doktor uzilib qoldi va qayta ulanishni kutmoqda",
+  "MSG_DONATION": "Sizning ehsoningizni tasdiqlang",
+  "MSG_DONATION_CONFIRM": "Sizning ehsoningiz uchun tashakkur",
+  "MSG_ERROR_FILL_BOXES": "To&#39;g&#39;ri qadriyatlarga ega qutilarni joylashtiring",
+  "MSG_FILL_ALL_BOXES": "Iltimos, barcha qutilarni to&#39;ldiring",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Iltimos, quyidagi maydonlarni to&#39;ldiring",
+  "MSG_FILL_BOXES": "Iltimos, qutilarni joylashtiring",
+  "MSG_FILL_BOXES_ALL": "Iltimos, barcha maydonlarni to&#39;ldiring",
+  "MSG_FILL_BOXES_PROFILE": "Iltimos, yulduz bilan belgilangan barcha qutilarni to&#39;ldiring",
+  "MSG_GENERIC_ERROR": "Qaytadan urinish uchun internetga ulanishni tekshiring.",
+  "MSG_GENERIC_FORM_ERROR": "Davom etish uchun xatolikni tuzating",
+  "MSG_LOGIN_ERROR": "Tizimga kirishda xatolik yuz berdi. Iltimos hisob ma&#39;lumotlarini tekshiring va tarmoqqa ulanganligingizga ishonch hosil qiling.",
+  "MSG_LOGIN_ERROR_LOCKED": "Kirish muvaffaqiyatsiz tugadi: hisobingiz vaqtinchalik qulflangan. Keyinroq qayta urinib ko&#39;ring.",
+  "MSG_MANDATORY_OPTION": "Youy Tibbiy faylni ko&#39;rish uchun shifokorga ruxsat berish kerak",
+  "MSG_NO_DOCTORS_FOUND": "Biz apolozyamiz, lekin hech qanday shifokor topilmadi. Qayta urinish uchun doktorni qidirishga bosing",
+  "MSG_PATIENT_CANCELED_CALL": "Bemor qo&#39;ng&#39;iroqni bekor qildi.",
+  "MSG_PATIENT_ENDED_CALL": "Bemor qo&#39;ng&#39;iroqni tugatdi",
+  "MSG_PATIENT_WAITING_CALL": "Bemorni qayta ulanishni kutib turadi",
+  "MSG_POST_CALL_CANCEL": "Videokallni ishga tushirishdan oldin tashrifni yakunladingiz!",
+  "MSG_POST_CALL_DOCTOR": "Yuborilgan qisqacha ma&#39;lumot siz bosh sahifaga qaytib borasiz",
+  "MSG_POST_CALL_PATIENT": "SaluberMD dan foydalanganingiz uchun tashakkur. Sizga elektron pochta orqali xabar yuboriladi. Tashrifingiz haqidagi tafsilotlarni ko&#39;rish uchun Mening profilim-Tarixga tashrif buyuring",
+  "msg_reconnection_error": "Qurilma ajratildi. Iltimos, qurilmani qayta ulang",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Shukur .... siz bilan aloqa qiladigan kishi",
+  "MSG_REGISTRATION_SUCCESS": "Sizning ro&#39;yxatdan o&#39;tishingiz muvaffaqiyatli bo&#39;ldi",
+  "msg_req_videocall1": "Videoqo&#39;ng&#39;iroq uchun quyidagilar mavjud:",
+  "msg_req_videocall2": "Videoqo&#39;ng&#39;iroq boshlanishi uchun tayyor. Videokallni faollashtirish uchun ushbu bildirishnomani bosing",
+  "msg_req_videocall3": "hozir videokallashuv uchun foydalanish mumkin. Videokallni faollashtirish uchun ushbu bildirishnomani bosing",
+  "MSG_RESET_REQUEST_ERROR": "Ushbu foydalanuvchi nomi yoki elektron pochta manzili mavjud foydalanuvchi mavjud emas.",
+  "MSG_RESET_REQUEST_SUCCESS": "Siz tezda parolni tiklash uchun havolani o&#39;z ichiga olgan elektron pochta xabarini olasiz.",
+  "MSG_RESUME_CALL": "Hozirda siz qo&#39;ng&#39;iroq qildingiz, uni davom ettirasizmi?",
+  "MSG_SCHOOL_MISSING": "Maktabni qo&#39;shish",
+  "MSG_SELECT_TIMEZONE": "Vaqt zonasini tanlang",
+  "MSG_SIGNATURE_MISSING": "Iltimos, imzoingizni to&#39;ldiring, aks holda sizga hech qanday retseptlar yuborilmaydi.",
+  "MSG_THANKING": "Sizning yuborganingiz uchun tashakkur.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Aloqa yo&#39;qoldi. Bu sizning internetga bog&#39;liq bo&#39;lishi mumkin",
+  "MSG_WELCOME_BACK": "Xush kelibsiz",
+  "MSG_YEAR_PRACTISE": "Amaliyot yili kiriting",
+  "muscles": "Muskullar",
+  "myappointment": "Uchrashuvlarim",
+  "MYFILE_NOFILE": "Sizda hech qanday fayl yo&#39;q",
+  "MYFILE_SECTION": "Sizning fayllaringiz",
+  "MYFILE_SUBTITLE": "Fayl tarkibini ko&#39;rish uchun har bir elementni bosing",
+  "MYFILE_TITLE": "Mening fayllarim",
+  "myprofile": "Mening profilim",
+  "myreminders": "Mening eslatmalarim",
+  "MY_TICKETS": "Sizning chiptalaringiz",
+  "M_SCHOOL": "Tibbiyot maktabi",
+  "N": "Yo&#39;q",
+  "name": "Ism",
+  "negative": "Salbiy",
+  "nervous": "Asabli",
+  "nessun_appuntamento": "O&#39;tgan tayinlashlar yo&#39;q",
+  "NETWORK_CHECK_MSG": "Sizning Bandwidth juda past. Kam tarmoqli kengligi bilan tarkibni o&#39;ynatish videoni to&#39;xtatib qo&#39;yishiga olib keladi.",
+  "NETWORK_CHECK_TITLE": "Chaqiriq sifati testi",
+  "NETWORK_ERROR": "Internet aloqasi xatosi. Keyinroq qayta urinib ko&#39;ring",
+  "neutral": "Neytral",
+  "newappointment": "Yangi kelgan Uchrashuvni",
+  "newass": "Yangi birlashma qo&#39;shing",
+  "NEWPWD_CONFIRM": "Parol muvaffaqiyatli o&#39;zgartirildi. Iltimos, qayta kiring.",
+  "NEWPWD_CONFIRM2": "Parol muvaffaqiyatli o&#39;zgartirildi",
+  "NEWPWD_ERROR": "Yangi parol mos emas.",
+  "newtest": "Yangi test qilish uchun ortiqcha tugmasini bosing.",
+  "NEW_PWD": "Yangi Parol",
+  "new_ticket": "Yangi chipta",
+  "NEXT": "Keyingi",
+  "no": "Yo&#39;q",
+  "noAlarm": "Hech qanday ogohlantirish o&#39;rnatilmagan",
+  "noallergies": "Listlangan allergiya yo&#39;q.",
+  "noapatient": "Hech bir bemor topilmadi",
+  "noappointment": "Uchrashuvni rejalashtirib bo&#39;lmaydi",
+  "noappointments": "Ushbu shifokor bilan hech qanday sana mavjud emas",
+  "noappointments1": "Bu ovqatlanish bilan hech qanday muddat yo&#39;q",
+  "noAppoPat": "Ro‘yxatda bo‘lish uchun tayinlanishlar mavjud emas",
+  "noarticles": "Oziqlantiruvchi maqolalar yo&#39;q",
+  "noassociatedpatient": "Sizda hech qanday bemor yo&#39;q",
+  "noattachment": "Iltimos, ilova tanlang",
+  "noattachment1": "Attachment yo&#39;q",
+  "noavailableoption": "Hech qanday imkoniyat mavjud emas",
+  "nocomment": "Fikr yo&#39;q / reccomendation",
+  "noconsulenze": "Hech qanday tashrif bajarilmadi",
+  "nocorxfound": "CORX topilmadi",
+  "nodata": "Ma&#39;lumot yo&#39;q",
+  "nodependency": "Listelenmiş bog&#39;liqliklar yo&#39;q.",
+  "nodesease": "Listlangan kasalliklar yo&#39;q.",
+  "nodevice": "Hech qanday qurilma topilmadi, iltimos, qayta urinib ko&#39;ring",
+  "nodoctor": "Hech qanday shifokor topilmadi",
+  "nodoctors": "Hech qanday shifokor mavjud emas",
+  "noDocuments": "Hujjatlar yuklanmadi",
+  "nodrugselected": "Siz dori tanlamadingiz",
+  "noecg": "EKG yo&#39;q",
+  "noexam": "Ko&#39;rish uchun imtihon yo&#39;q",
+  "nofiles": "Bemor tomonidan yuklangan fayllar yo&#39;q",
+  "noHistory": "Hozirda hech qanday maslahat yo&#39;q",
+  "nohsh": "Ro&#39;yxatda hech qanday kasalxonaga yotqizish yo&#39;q.",
+  "noimages": "Hozirda hech qanday biriktirma yo&#39;q",
+  "noimmunization": "Listlangan immunizatsiya yo&#39;q.",
+  "nolabtest": "Laboratoriya tekshiruvi yo&#39;q",
+  "nomedication": "Listlangan dori yo&#39;q.",
+  "nomisure": "Hech qanday chora ko&#39;rilmaydi",
+  "nonterminata": "Qo&#39;ng&#39;iroq qilish muvaffaqiyatsiz",
+  "nonutritionist": "Hech qanday ovqatlanish yo&#39;q",
+  "nonuvoair": "Qurilma topilmadi",
+  "nopharmacy": "Hech bir dorixona topilmadi",
+  "noprescription": "Hozirda hech qanday retseptlar yo&#39;q",
+  "noprothesis": "Protez yoki tibbiy yordam ko&#39;rsatilmagan.",
+  "noreferrals": "Yo&#39;q qilingan tavsiyalar yo&#39;q",
+  "noreminders": "Sizda hech qanday eslatmalar yo&#39;q",
+  "noresults": "Hech qanday natija topilmadi",
+  "normale": "Oddiy",
+  "normalrange": "Normallashtirish darajasi",
+  "normalWeight": "Normal og&#39;irlik",
+  "nosintomi": "Hech qanday alomat belgilanmagan",
+  "nospecialist": "Mutaxassislar yo&#39;q",
+  "note": "Eslatmalar",
+  "notests": "Listlangan tartibsizliklar yo&#39;q.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Tibbiy faylingizni tugatish uchun bu yerni bosing",
+  "NOTIFICATIONS_SECTION": "Bildirishlaringiz",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Tibbiy faylingizni to&#39;liq to&#39;ldirgandan so&#39;ng, 1 bepul maslahat yoki sog&#39;liqni saqlash bahosi bo&#39;yicha qo&#39;ng&#39;iroqni qabul qiling.",
+  "NOTIFICATIONS_SETTINGS": "Bildirishnomalar o&#39;rnatish",
+  "NOTIFICATIONS_TITLE": "Bildirishnomalar",
+  "notification_setting": "Bildirishnomalarni olishni istagan kategoriya tanlang",
+  "notimage": "Fayl tasvir emas: Faqat BMP, GIF, JPG va PNG ruxsat beriladi",
+  "notNow": "Xozir emas",
+  "notnow_btn": "Xozir emas",
+  "nouser": "Hech qanday foydalanuvchi topilmadi",
+  "novantad": "So&#39;nggi 90 kun",
+  "novideocall": "Hech qanday video topilmadi",
+  "novisit": "Sizda bemorga hech qanday tashrif yo&#39;q",
+  "noWellnessData": "Yangi salomatlik ma&#39;lumotlari yo&#39;q",
+  "no_certificate": "Ro‘yxatdan o‘tkazish uchun sertifikat yo‘q",
+  "no_chiosc_data": "Ko&#39;rish uchun laboratoriya sinovi yo&#39;q",
+  "NO_DATA": "Ma&#39;lumot yo&#39;q",
+  "no_doctor_answer1": "Hozirda hech qanday shifokor mavjud emas.",
+  "no_doctor_answer2": "Uchrashuvni quyidagi tugmani bosishingiz mumkin.",
+  "NO_GENETIC_TEST_REQUESTS": "Siz biron bir genetik testni talab qilmadingiz",
+  "NO_MSG": "Yuborilgan xabarlar yo&#39;q",
+  "no_notifications": "Hech qanday bildirishnoma yo&#39;q",
+  "no_prescription_download": "Ushbu konsultatsiya bilan bog&#39;liq retseptlar yo&#39;q",
+  "no_pull_answer": "Hech bir shifokor hozir mavjud emas.",
+  "no_referral_download": "Ushbu tashrif bilan bog&#39;liq hech qanday tavsiya yo&#39;q",
+  "NO_SECOND_OP_REQUESTS": "Ikkinchi fikr xizmati uchun sizda talab yo&#39;q",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Hech qanday ixtisos topilmadi",
+  "NO_TICKETS_SENT": "Hech qanday chipta yuborilmadi",
+  "NO_USER_FOUND": "Foydalanuvchi nomi yoki elektron pochta manzili topilmadi",
+  "NPI": "NPI",
+  "ns": "Asab tizimi",
+  "numberNotSaved": "Raqamni saqlashda xato",
+  "numberSaved": "Muvaffaqiyatli raqam saqlandi",
+  "nuovoair_connected": "Ulangan",
+  "nuovoair_disconnected": "Uzilgan",
+  "nutriPen": "So&#39;rovni kutish",
+  "nutriRev": "Qayta ko&#39;rib chiqilgan anketa",
+  "nutrition": "oziqlanish",
+  "nutritionist": "Oziqlantiruvchi bilan gaplashing",
+  "NUTRITIONIST_Q1": "Asosiy maqsadlar: (barcha murojaat qiling)",
+  "NUTRITIONIST_Q10": "Siz eganmonsiz, sezilarli darajada bezovtalanasizmi, yorug&#39;roqmi yoki zaifmi?",
+  "NUTRITIONIST_Q11": "Mavjud mashqlar rejimi: (Kardio, qarshilik, va boshqalar)",
+  "NUTRITIONIST_Q12": "Siz chekasizmi? (Ha bo&#39;lsa, qanchalik tez-tez va qanchalik ko&#39;p?)",
+  "NUTRITIONIST_Q13": "Spirtli ichimliklarni iste&#39;mol qilasizmi ?: (Ha bo&#39;lsa, qanchalik tez-tez va qanchalik ko&#39;p?)",
+  "NUTRITIONIST_Q14": "Kofeinni iste&#39;mol qilasizmi ?: (Ha bo&#39;lsa, qanchalik tez-tez va qancha miqdorda?)",
+  "NUTRITIONIST_Q15": "Oxirgi Jismoniy sanasi:",
+  "NUTRITIONIST_Q16": "Oxirgi 2 yilda antibiotiklarni necha marta buyurgan edingiz?",
+  "NUTRITIONIST_Q16_BIS": "Agar shunday bo&#39;lsa, qaysi va qanchalik tez-tez (iloji boricha aniqroq bo&#39;lishi kerak).",
+  "NUTRITIONIST_Q17": "Dori-darmonlarni olasizmi? (OTC yoki Reçetesizmi?) Agar shunday bo&#39;lsa, qaysi biri va siz qo&#39;shimchalar olasiz? Agar shunday bo&#39;lsa, qanchalik tez-tez, (iloji boricha aniqroq bo&#39;lishi kerak.)",
+  "NUTRITIONIST_Q18": "Siz haftasiga 1-2 kundan ortiq shishib ketasizmi yoki ichasizmi?",
+  "NUTRITIONIST_Q19": "Sizda quyidagi mavzularda savollar bormi? Agar javobingiz bo&#39;lsa, iltimos, berilgan masalalar bo&#39;yicha batafsil ma&#39;lumot bering.",
+  "NUTRITIONIST_Q2": "Taxminan qancha ovqat iste&#39;mol qilasiz? (Birini tanla)",
+  "NUTRITIONIST_Q3": "Sizning odatiy nonushta nimani o&#39;z ichiga oladi va qachon:",
+  "NUTRITIONIST_Q4": "Sizning odatiy ovqatingiz nimadan iborat va qachon:",
+  "NUTRITIONIST_Q5": "Sizning odatiy ovqatingiz nimadan iborat va qachon:",
+  "NUTRITIONIST_Q6": "Sizning odatiy atirlaringiz nimadan iborat va qaysi vaqt (lar):",
+  "NUTRITIONIST_Q7": "Sizdan ortiqmi?",
+  "NUTRITIONIST_Q8": "Qaysi oziq-ovqatlarni ovqatsiz va qanchalik tez-tez iste&#39;mol qilasiz:",
+  "NUTRITIONIST_Q9": "Sizda oziq-ovqat allergiyalari, cheklovlar yoki sezuvchanliklar bormi?",
+  "NUTRITIONIST_SUB1": "Vazn yo&#39;qotish",
+  "NUTRITIONIST_SUB10": "Bulantı / gijjalar",
+  "NUTRITIONIST_SUB11": "Oshqozon og `rig` i",
+  "NUTRITIONIST_SUB2": "Vazn yig&#39;moq",
+  "NUTRITIONIST_SUB3": "Energiya / charchoq",
+  "NUTRITIONIST_SUB4": "Yaxshi uyqu",
+  "NUTRITIONIST_SUB5": "Ovqat hazm qilish masalalari",
+  "NUTRITIONIST_SUB6": "Kabızlık",
+  "NUTRITIONIST_SUB7": "Diareya",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Bloating / Gaz",
+  "nutrition_mail": "Oziqlantiruvchi hisoboti mavjud",
+  "nutrition_mail2": "Oziqlantiruvchi sizga faylni yuboradi",
+  "nutrition_questionnaire": "oziqlanish savolnomasi",
+  "nvisit": "Videokliplar soni",
+  "obesity1": "Obez",
+  "obesity2": "Jiddiy obez",
+  "obesity3": "Morbidly obez",
+  "OFFICE_ADDRESS": "Ofis manzili",
+  "offline": "Oflayn",
+  "OFFLINE_DOCTOR_MSG": "Doktor oflaynga o&#39;xshaydi, keyinroq qayta urinib ko&#39;ring",
+  "OLDPWD_ERROR": "Yangi parol eski parol bilan mos keladi.",
+  "OLD_PASSWORD_WRONG": "Eski parol noto&#39;g&#39;ri",
+  "OLD_PWD": "Eski parol",
+  "oneDay": "Bir kuni",
+  "one_min": "1 daqiqada",
+  "online": "Onlaynda",
+  "onlinedoctors": "Onlayn shifokorlar",
+  "openimage": "Rasmni to&#39;liq ekranda ochish uchun bosing",
+  "open_ticket": "Chipta oching",
+  "orale": "Mouth tomonidan",
+  "other": "Boshqa",
+  "othercbc": "Boshqa CBC imtihonlari",
+  "OTHER_PLACEHOLDER": "Iltimos, o&#39;zingizning ixtisoslikni tanlang",
+  "otoscopy": "Otoskopiya",
+  "otp_sent_msg": "Sizga telefon raqamingizda tasdiqlash kodini yubordik",
+  "OUR_PRODUCTS_SECTION": "Bizning qurilmalarimiz sizning sog&#39;lig&#39;ingizni kuzatishingizga yordam berish uchun real vaqtda sog&#39;liq va salomatlik ma&#39;lumotlarini taqdim etadi.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Professional spirometr bilan o&#39;pkaning sog&#39;lig&#39;ini soniyalarda o&#39;lchab ko&#39;ring",
+  "OUR_PRODUCTS_SECTION_P1": "Sog&#39;lom turmushning vazifalariga qo&#39;shimcha ravishda real vaqtda sog&#39;liq ma&#39;lumotlarini taqdim etadigan aqlli kiyim texnologiyasi",
+  "OUR_PRODUCTS_SECTION_P2": "Fitness / Wellness foydasi",
+  "OUR_PRODUCTS_SECTION_P3": "Butun oila uchun uyingizdagi diagnostika to&#39;plami.",
+  "OUR_PRODUCTS_SECTION_P4": "Xususiyatlari",
+  "OUR_PRODUCTS_SECTION_P5": "Har ikkala qurilma ham yaxshi dumaloq sog&#39;liq tajribasini ta&#39;minlash uchun ilova bilan aloqa qilish uchun mo&#39;ljallangan. Natijalaringiz to&#39;g&#39;ridan-to&#39;g&#39;ri ilova dasturida saqlanadi.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Professional sfigmometr bilan buddan tushgan bosimingizni sekundlarda o&#39;lchab ko&#39;ring",
+  "OUR_PRODUCTS_SECTION_SCALX": "O&#39;zingizning vazningizni professional miqyosda bir necha soniyada o&#39;lchang",
+  "OUR_PRODUCTS_TITLE": "Mahsulotlarimiz",
+  "overeatFoods": "Oshiq ovqatlar",
+  "overeating": "Ovoz berish tendentsiyasi",
+  "overweight": "Haddan tashqari kilogramm",
+  "pa": "Ortiqcha yordamchi",
+  "PASSWORD": "Parol",
+  "passwordchanged": "Parol muvaffaqiyatli o&#39;zgartirildi!",
+  "passwordExpiringMessage": "Sizning parolingiz tez orada tugaydi. Iltimos, hozir o&#39;zgartirish",
+  "passwordExpiringTitle": "Parol muddati tugaydi",
+  "PATIENT": "Kasal",
+  "patientAllergy": "Allergiya",
+  "patientGeneticRequests": "Genetika testiga talablar",
+  "patientinfo": "Bemorning axborotlari",
+  "patientlist": "Bemorlarning ro&#39;yxati",
+  "patientmanagement": "Bemorni boshqarish",
+  "patientProtesi": "Protez",
+  "PATIENTS_NO_P": "Hozirgi vaqtda bemorni tayinlash rejalashtirilmagan",
+  "PATIENTS_SECTION": "Uchrashuvlaringiz",
+  "PATIENTS_SECTION_SUBTITLE": "To&#39;liq ma&#39;lumotlarni ko&#39;rish uchun har bir elementni bosing",
+  "PATIENTS_TITLE": "Bemor",
+  "patientupdate": "Kasal",
+  "patientvisit": "Bemorning tarixi",
+  "PATIENT_PROFILE_OPT1": "Mening profilim",
+  "PATIENT_PROFILE_OPT11": "Yozuvchilarim shifokorlar",
+  "PATIENT_PROFILE_OPT12": "Sevimli farmatsevtiklarni qo&#39;shish",
+  "PATIENT_PROFILE_OPT2": "Mening tibbiy faylim",
+  "PATIENT_PROFILE_OPT3": "Mening tashriflarim tarixi",
+  "PATIENT_PROFILE_OPT4": "Mening yozishmalarim",
+  "PATIENT_PROFILE_OPT5": "Mening fayllarim",
+  "PATIENT_PROFILE_OPT6": "Mening bildirishnomalarim",
+  "PATIENT_PROFILE_OPT7": "EKG yuklash",
+  "PATIENT_PROFILE_OPT8": "Tibbiy qurilma ma&#39;lumotlari",
+  "PATIENT_PROFILE_OPT9": "Mening eczanelerim",
+  "PATIENT_S1": "Kasal",
+  "PATIENT_S2": "Haqida gapirish",
+  "PATIENT_S3": "Kasal haqida ma&#39;lumot",
+  "PATIENT_S4": "Tashrif mavzusi",
+  "PATIENT_S5": "Kasalliklar",
+  "PATIENT_S6": "Allergiya",
+  "PATIENT_S7": "Dorilar",
+  "PATIENT_S8": "Qo&#39;shimcha hujjatlar",
+  "PATIENT_S9": "Alomatlar?",
+  "PATIENT_SUMMARY": "Bemor haqida qisqacha ma&#39;lumot",
+  "patologia": "Patologiya",
+  "payment": "To&#39;lov",
+  "PAYMENT_DETAILS": "To&#39;lov ma&#39;lumotlari",
+  "PAYMENT_MESSAGE_1": "Sizga ma&#39;lum miqdor uchun oldindan ruxsat beriladi",
+  "PAYMENT_MESSAGE_2": "Videomuloqot oxirida sizdan to&#39;lov olinadi",
+  "PAYMENT_SECTION1": "Ro&#39;yxatdagi kartani tanlang",
+  "PAYMENT_SECTION2": "Kredit karta qiymatlarini kiriting",
+  "PAYMENT_SUCCESS": "To&#39;lov muvaffaqiyatli amalga oshirildi!",
+  "PAYMENT_SUCCESSFUL": "To&#39;lovni muvaffaqiyatli tarzda oldindan tasdiqladik",
+  "PAYMENT_UNSUCCESSFUL": "To&#39;lov oldindan tasdiqlash amalga oshmadi. Kredit kartangiz ma&#39;lumotlarini tekshiring yoki bankingizga murojaat qiling.",
+  "paziente_rimosso": "Bemorning holati muvaffaqiyatli o&#39;zgargan",
+  "paziente_salvato": "Bemor muvaffaqiyatli yangilandi",
+  "pdf_download_error": "Pdf-ni yuklab bo&#39;lmadi. Iltimos keyinroq qayta urinib ko&#39;ring",
+  "pdf_file_error": "Faqat pdf fayllar qabul qilinadi",
+  "period": "Davr",
+  "PERIODIC_HEART_RATE": "Muntazam yurak tezligi",
+  "personal": "Shaxsiy",
+  "personalCare": "Shaxsiy parvarish",
+  "personalinfo": "Shaxsiy ma&#39;lumot",
+  "PER_MIN": "/ min",
+  "pharmacies": "Dorixonalar",
+  "PHONE": "Telefon raqami",
+  "phone1": "Telefon",
+  "pills": "Tabletkalar",
+  "PILLS_DATE_ERROR": "Boshlanish sanasi tugagan sanadan keyin",
+  "pill_reminder_message": "Sizning tabletkalarni olish vaqti keldi",
+  "placeholder": "foydalanuvchi nomi, elektron pochta manzili yoki nomi",
+  "placeOfBirth": "Tug&#39;ilgan joyi",
+  "place_birth": "Tug&#39;ilgan joyi",
+  "platform": "Platformalar",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Siyosat raqami",
+  "positive": "Ijobiy",
+  "POSTCALL_DOCTOR_TITLE": "Tashrif yakunlari",
+  "POSTCALL_PATIENT_TITLE": "Iltimos, tajribangizni baholang",
+  "POUNDS": "funt sterlingni tashkil etdi",
+  "PRACTICE_LENGTH": "Amaliy uzunligi",
+  "prenota": "Keling, kitob",
+  "prenotatest": "Uchrashuvni talab qiling",
+  "preobesity": "Oldindan semirib ketish",
+  "prescription": "Ortga nazar tashlash",
+  "prescriptiondiscounts": "Reçetesiz imtiyozlari",
+  "PRESCRIPTIONS": "Retseptlar",
+  "prescriptions_sent": "Rezyume yuborildi",
+  "prescription_mail": "Sizning retsepti bor",
+  "prescription_mail2": "SaluberMD dan foydalanganingiz uchun tashakkur",
+  "prescription_notification": "Hurmatli foydalanuvchi, sizning retseptlaringiz endi ilovaning vaqt jadvallari / anjumanlar tarixi bo&#39;limida mavjudligi haqida xabar beramiz",
+  "prescription_pharmacy": "Ortga yuborish uchun dorixonani tanlang",
+  "prescription_preview": "Retsept bo&#39;yicha oldindan ko&#39;rish",
+  "prescription_sent": "Rezyume yuborildi",
+  "PRESCRIPTION_SENT_EMAIL": "Sizning retsepti elektron pochtangizga yuborildi ...",
+  "prescription_subject": "Sizning retsepti",
+  "pressbutton": "Qurilmadagi juftlik tugmachasini bosing va Qurilma top-ga teging",
+  "pressbuttonpresx": "Ulanishni boshlash uchun qurilmaning orqa tomonidagi juftlik tugmachasini bosib ushlab turing va ilovadagi tugma topish qurilmasiga teging",
+  "pressbuttonscalx": "Ulanishni boshlash uchun qurilmaning orqa tomonidagi juftlik tugmachasini bosib ushlab turing va ilovadagi tugma topish qurilmasiga teging",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Qon bosimi",
+  "PRESX_PROD": "PRESX",
+  "previous": "Avvalgi",
+  "pre_period": "Reçeteleme davri",
+  "price": "Narxi",
+  "price_per_visit": "Har bir tashrif uchun to&#39;lov",
+  "PRICING_SECTION1_P1": "SaluberMD hech qanday maxfiy to&#39;lovlar yoki to&#39;lovlarsiz arzon narxlarda sifatli va qulay xizmat ko&#39;rsatishni ta&#39;minlashga intiladi.",
+  "PRICING_SECTION1_P2": "SaluberMD kengash tomonidan tasdiqlangan shifokor bilan video tashrif orqali qayerda va qayerda bo&#39;lsa, shuncha yordam beradi. Bizning shifokorlar videoqo&#39;ng&#39;iroq paytida sizning muammolaringizni tashxislashingiz, tekshirishingiz va tinglashingiz yoki tibbiy savollar va tashvishlar bilan murojaat qilishingiz mumkin.",
+  "PRICING_SECTION1_P3": "Bizning eksklyuziv Medicfile bilan siz o&#39;zingizning shifokoringizga tibbiy tarixingiz, rasmingiz va fayllaringizga eng samarali davolash rejasini taqdim etishda yordam berishingiz mumkin.",
+  "PRICING_SECTION1_TITLE": "tashrif davomida",
+  "PRICING_TITLE": "Raqobatchilar",
+  "primaryConcern": "Birlamchi muammo",
+  "primaryMood": "Mood Primary",
+  "print": "Chop etish",
+  "priority": "Ustuvorlik",
+  "PRIVACY_POLICY_TITLE": "Maxfiylik siyosati",
+  "problems": "muammolar",
+  "PROCEED_PAYMENT": "To&#39;lovni davom eting",
+  "PROFESSIONAL_TITLE": "Professional toifasi",
+  "PROFILE_SECTION2": "Bog&#39;lanish uchun ma&#39;lumot",
+  "protesi": "Protez va tibbiy yordam",
+  "protesiobbligatorio": "Iltimos, protez turi tanlang",
+  "prov": "namuna",
+  "publicAppUrl": "Uchrashuv uchun umumiy URL-manzilingiz:",
+  "pulldown": "Yangilash uchun pastga torting",
+  "pull_request_processed": "Rahmat, biz bemorga sizning mavjudligingizni yubordik",
+  "PWD_NOTMATCH": "Parollar mos kelmaydi",
+  "P_P_Error": "Maxfiylik siyosatini qabul qilishingiz kerak",
+  "QUALITY_INDEX": "Sifat",
+  "QUALITY_INDEX_DESCRIPTION": "Jismoniy farovonlik - ahvolni moslash va uni bartaraf etish qobiliyatiga duch kelgan dadillik va ruhiy stress. Jismoniy fitness indekslari inson organizmiga ekologik o&#39;zgarishlarga moslashish va stressni rag&#39;batlantirish, sog&#39;lig&#39;ini saqlash va tiklashni aks ettiradi. Jismoniy tarbiya ko&#39;pincha odamlarning hayoti, ta&#39;lim va ish salohiyati bilan namoyon bo&#39;ladi, lekin tabiiy ravishda jismoniy mashqlarda ham namoyon bo&#39;ladi. Odamning jismoniy sifati irsiy qobiliyatga bog&#39;liqdir, lekin u ovqatlanish va jismoniy mashqlar bilan bog&#39;liqdir. To&#39;g&#39;ri uslublar va to&#39;g&#39;ri mashqlar orqali, u har tomonlama jismoniy mashg&#39;ulotni yaxshilashi mumkin.",
+  "quantity": "Miqdor",
+  "quesito": "Tashvish",
+  "QUESTIONS_SECTION_TITLE": "Tibbiy faylingizni to&#39;liq to&#39;ldirgandan so&#39;ng, 1 bepul maslahat yoki sog&#39;liqni saqlash bahosi bo&#39;yicha qo&#39;ng&#39;iroqni qabul qiling.",
+  "QUESTIONS_TITLE": "Savollar",
+  "quindici": "Oxirgi 15 o&#39;lchov",
+  "ratio": "Ratio",
+  "reccomendation": "Reccomendation",
+  "reccomendations": "Tavsiyalar",
+  "recommendation": "Tavsiyalar",
+  "RECOMMENDATIONS": "Tavsiyalar",
+  "RECOMMEND_SECTION_P1": "SaluberMD da biz butun dunyo bo&#39;ylab sifatli tibbiy yordam talabini qondirishga harakat qilamiz, chunki mijozlarimiz shifokorlar guruhiga yaxshi tanishdir.",
+  "RECOMMEND_SECTION_P2": "Biz doimo sifatli shifokorlarni ajoyib jamoaga qo&#39;shishni qidiramiz. Bizning jamoamizning a&#39;zosi sifatida siz tavsiyalarni hurmat qilamiz va baholaymiz.",
+  "RECOMMEND_SECTION_P3": "SaluberMD ga tabibni murojaat qilish uchun quyidagi shaklni to&#39;ldiring",
+  "RECOMMEND_SECTION_TITLE": "Hamjamiyatga tavsiya eting",
+  "RECOMMEND_TITLE": "Tavsiya qiling",
+  "record_aggiornato": "Yozuvlar muvaffaqiyatli yangilandi",
+  "record_aggiunto": "Yozuvlar muvaffaqiyatli qo&#39;shildi",
+  "record_inserito": "Muvaffaqiyatli qo&#39;shildi",
+  "record_rimosso": "Yozuvlar o&#39;chirib tashlandi",
+  "REFERRAL": "Yuborish",
+  "REFERRALS": "Tavsiyalar",
+  "referrals_sent": "Tavsiyalar yuborildi",
+  "referral_mail": "Sizning tavsiyangiz mavjud.",
+  "referral_sent": "Yuborish yuborildi",
+  "refundrequestsent": "Sizning so&#39;rovingiz yuborildi",
+  "register": "Ro&#39;yxatdan o&#39;tish",
+  "register_report": "Foydalanuvchilarni ro&#39;yxatdan o&#39;tkazish",
+  "registration_date": "Ro&#39;yxatdan o&#39;tish sanasi",
+  "REGISTRATION_HEADER_DOCTOR": "Saluber MD komandasiga qo&#39;shiling",
+  "REGISTRATION_HEADER_PATIENT": "Iltimos, quyidagi shaklni to&#39;ldiring va ro&#39;yxatdan o&#39;ting",
+  "releaserefresh": "Yangilash uchun bo&#39;sh qoldiring",
+  "remarks": "Izohlar",
+  "removedevice": "Ushbu qurilmani o&#39;chirib tashlamoqchimisiz?",
+  "removefavorite": "Sevimlilardan o&#39;chirib tashlash",
+  "remove_generic": "Uni olib tashlamoqchimisiz?",
+  "renalFunction": "Buyrak faoliyati",
+  "reoccurring": "Reoccurring",
+  "repeat_email": "E-mailni tasdiqlang",
+  "report": "Shaxsiy klinik ma&#39;lumot: To&#39;liq ma&#39;lumot hisoboti",
+  "report1": "Shaxsiy klinik fayl:",
+  "report2": "Hisobot",
+  "reportvisite": "Videoni qidirish",
+  "report_date": "Hisobot sanasi",
+  "requestdate": "So&#39;rov sanasi",
+  "request_already_taken": "Bu talab boshqa shifokor tomonidan allaqachon boshqarilgan.",
+  "REQUEST_ERROR": "So&#39;rovlaringizni ko&#39;rib chiqishda xatolik yuz berdi. Internetga ulanishni tekshiring yoki keyinroq qayta urinib ko&#39;ring.",
+  "request_sent": "Sizning rekvizit muvaffaqiyatli orqa tomonga yuborildi",
+  "required": "Ushbu qator to&#39;ldirilishi shart.",
+  "required_field": "Filial talab etiladi",
+  "RESEND_EMAIL": "Tasdiqlash kodini qayta yuboring",
+  "resetCorxFactory": "Corx-ni qayta tiklashni xohlaysizmi?",
+  "RESETPWD_BTN": "Parolni tiklash",
+  "RESET_PASSWORD": "Ro&#39;yxatdan o&#39;tish vaqtida ishlatiladigan elektron pochta yoki foydalanuvchi nomini kiriting",
+  "respiratory": "Nafas olish",
+  "RESPIRATORY_RATE": "Nafas olish tezligi",
+  "RESTORE_FACTORY_SETTINGS": "Standart sozlamalarni tiklash",
+  "resultfound": "yozuv topildi",
+  "results": "Natijalar",
+  "ricettario": "Davlat",
+  "richiediDrug": "Giyohvand moddalarni talab qiling",
+  "richiestaAppuntamento": "Uchrashuvni so&#39;rash",
+  "richiestaRimborso": "To&#39;lovni qaytarish so&#39;rovi",
+  "ricovero": "Kasalxonada yotish",
+  "riepilogo": "Xulosa",
+  "rightHanded": "O&#39;ng qo&#39;l",
+  "rimborso": "Qaytaring",
+  "ripetibile": "(Marta) uchun takrorlanadigan",
+  "rr_desc": "Nafas olish darajasi - nafas olishning tezligi. Kattalar dam olish uchun normal nafas olish tezligi daqiqada 12-20 nafar nafas oladi. Dam olish vaqtida daqiqada 12 yoki 25 dan ortiq nafas olish ostida nafas olish darajasi anormal hisoblanadi",
+  "rs": "Nafas olish tizimi",
+  "RUNNING_CALL_OPT1": "Rezyume; qayta boshlash",
+  "RUNNING_CALL_OPT2": "Chaqiruvni tugatish",
+  "RUNNING_CALL_TITLE": "Qo&#39;ng&#39;iroqni ishga tushirish",
+  "sa": "Autentifikatsiya kuchli",
+  "sadness": "Keder",
+  "sai": "Faoliyat indeksi",
+  "sai_desc": "SAI faqat yurak tezligiga asoslangan. Bu tananing jismoniy faoliyatga bo&#39;lgan munosabatini kuzatadigan oddiy metrika - faqat qadamlardan ham ko&#39;proq. Qadam kuzatuvidan farqli o&#39;laroq, SCI yurak tezligini ko&#39;taradigan har qanday faoliyat uchun kredit beradi: suzish, velosiped, qayiq, raqs, har qanday narsa. Yaxshi va sog&#39;lom hayot uchun 30 yoshdan oshmasligi kerak.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD sabr",
+  "SATURDAY": "Shanba",
+  "savedinfo": "Ma&#39;lumot muvaffaqiyatli saqlandi",
+  "SAVE_BTN": "Saqlash",
+  "SAVE_MESSAGE": "Agar siz chiqsangiz, o&#39;zgarishlaringiz yo&#39;qoladi",
+  "sbpi": "Qon bosimi indeksi",
+  "sbpi_desc": "Yuqori qon bosimi jim qotil. Sistolik va diastolik qon bosimi qiymatlari siz bajaradigan har qanday tibbiy mashg&#39;ulot vaqtida baholanadi. Qon tomirlari va qon quyqalari kabi hayotga xavf soladigan sharoitlardan aziyat chekish uchun SBPIni 30-daqiqada saqlang.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Og&#39;irligi",
+  "SCALX_PROD": "SCALX",
+  "scan": "Ko&#39;rish",
+  "scanningcorx": "CORX qidirilmoqda ... Iltimos, kuting",
+  "schedule": "Jadval",
+  "scheduleAnAppointment": "Uchrashuvni rejalashtirish",
+  "scheduleappointment": "Videokallni shifokor bilan rejalashtirish",
+  "schtime": "Rejalashtirilgan vaqt",
+  "sci": "Yurak-qon tomir indekslari",
+  "sci_desc": "Arterial yurak urish tezligi to&#39;lqinini tahlil qilib, sizning yurak-qon tomir tizimingiz haqida tushunchalar chiqaramiz. SCI indekslari sizning yurak-qon tomir sog&#39;ligingizning xulosasi bo&#39;lib, uni 20 tagacha ushlab turishga harakat qiling!",
+  "sci_title": "SCI",
+  "SEARCH": "Qidirmoq",
+  "searchallergy": "Allergiya qidirish",
+  "searchdoctor": "Shifokorni qidirish",
+  "searchfordoctor": "Doktorni ismi yoki familiyasi bo&#39;yicha qidirish",
+  "searchingdevice": "Qurilmani qidirish. Biroz vaqt talab etiladi",
+  "searching_avail_date": "Mavjud sanani qidirish ...",
+  "searching_online_doctors": "Davom etayotgan onlayn shifokorlarni qidirish ...",
+  "searchmedication": "Dori-darmonlarni qidirish",
+  "searchpatient": "Bemorni qidirish",
+  "searchpatologia": "Tibbiy holatni qidirish",
+  "searchsymptom": "Belgini qidirish",
+  "searchuser": "Foydalanuvchini qidirish",
+  "search_doctor_description": "Doktorni foydalanuvchi nomi, elektron pochta manzili yoki ismi bilan izlash",
+  "search_patient_description": "Bemorni foydalanuvchi nomi, elektron pochta manzili yoki ismi uchun qidiring",
+  "search_specialization": "Mutaxassislikni qidirish",
+  "search_user_description": "Foydalanuvchi nomini, elektron pochta manzilini yoki familiyani qidirish",
+  "search_videocall_description": "Videoqo&#39;ng&#39;iroqni noto&#39;g&#39;ri bajarilgan holda qidirish",
+  "search_videocall_title": "Sana bo&#39;yicha Serach Videocall",
+  "secondaryMood": "Mood ikkinchi darajali",
+  "secondOpinion": "Ikkinchi fikr talablari",
+  "seconds": "soniya",
+  "second_opinion_1": "Butun dunyodagi yetakchi mutaxassislardan tibbiy ikkinchi fikrga qulay, ishonchli kirish.",
+  "second_opinion_2": "Tibbiyot Ikkinchi Opinion Xizmatimiz Sizga yordam berishi mumkin:",
+  "second_opinion_3": "Savollaringizga javob oling",
+  "second_opinion_4": "Eng yaxshi davolash rejasini tanlang",
+  "second_opinion_5": "To&#39;g&#39;ri tashxisni ta&#39;minlash",
+  "second_opinion_body": "Hurmatli foydalanuvchi, <br> sizning ikkinchi opiylik so&#39;rovingiz siz yuborgan hujjatlarni ko&#39;rib chiqayotgan mutaxassislarimizdan qabul qilindi.",
+  "second_opinion_history": "Ikkinchi fikr talablari",
+  "second_opinion_msg": "Rahmat. Kelgusi 24 soat ichida sizning sog&#39;lig&#39;ingiz sizga yordam beradi.",
+  "SECOND_OPINION_Q1": "Nutritionist bilan nima gaplashmoqchisiz?",
+  "second_opinion_question1": "Kim uchun ikkinchi fikr bor?",
+  "second_opinion_question2": "Faylni yuklang",
+  "second_opinion_step1": "Qisqa anketani to&#39;ldiring / fayllarni yuklang",
+  "second_opinion_step2": "Shifokorlarimiz sizning materiallaringizni baholaydilar",
+  "second_opinion_step3": "Natijalaringizni muhokama qilish uchun shifokorlar maslahati",
+  "secOpChoice": "Iltimos, qanday qilib ikkinchi fikrni olishni tanlang",
+  "section": "Iltimos, bitta bo&#39;limni tanlang",
+  "security": "Xavfsizlik",
+  "seeaprovider": "Provayderga qarang",
+  "seecommenti": "Sharhni ko&#39;rsating",
+  "seedoctor": "Endi shifokorni ko&#39;ring",
+  "SEE_A_DOCTOR_Q1": "Bu video qo&#39;ng&#39;iroq kimga tegishli?",
+  "SEE_A_DOCTOR_Q10": "Sizning retseptlaringizni siz tanlagan dorixonaga yuborishingiz mumkin",
+  "SEE_A_DOCTOR_Q1B": "Farzandingizning ismi va tug&#39;ilgan yili bormi?",
+  "SEE_A_DOCTOR_Q1_A1": "Menga",
+  "SEE_A_DOCTOR_Q1_A2": "Bolam",
+  "SEE_A_DOCTOR_Q2": "Iltimos, shifokor bilan gaplashmoqchi bo&#39;lgan narsalarni ta&#39;riflang",
+  "SEE_A_DOCTOR_Q3": "Alomatlar?",
+  "SEE_A_DOCTOR_Q4": "Surat yoki hujjatni biriktirmoqchimisiz?",
+  "SEE_A_DOCTOR_Q4_ERROR": "Xato: Fayllar 5 MB dan oshmasligi kerak",
+  "SEE_A_DOCTOR_Q4_S1": "Faylni tanlang",
+  "SEE_A_DOCTOR_Q4_S2": "Suratga olish",
+  "SEE_A_DOCTOR_Q5": "Siz hozirda dori-darmonlarni qabul qilyapsizmi, iltimos, ismingizni yozing",
+  "SEE_A_DOCTOR_Q5_CHILD": "Hozirda bolangiz biron bir dori ichayaptimi? agar bo&#39;lsa, iltimos ismingizni sanab bering",
+  "SEE_A_DOCTOR_Q5_S1": "Ismi:",
+  "SEE_A_DOCTOR_Q5_S2": "Dozaj:",
+  "SEE_A_DOCTOR_Q6": "Sizda allergiya bormi?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Farzandingizda allergiya bormi? agar bo&#39;lsa, iltimos ismingizni sanab bering",
+  "SEE_A_DOCTOR_Q7": "Sizda tibbiy sharoit bormi?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Farzandingizning tibbiy holati bormi? agar bo&#39;lsa, iltimos ismingizni sanab bering",
+  "SEE_A_DOCTOR_Q8": "Onlayn tibbiy doskani ko&#39;rish uchun shifokorga ruxsat berasizmi?",
+  "SEE_A_DOCTOR_Q9": "Tanlab olingan farmatsiya",
+  "SEE_A_DOCTOR_TITLE": "Doktorga qarang",
+  "SEE_A_PROVIDER": "Provayderga qarang",
+  "segment": "Segment",
+  "selectAFile": "Faylni tanlash uchun quyidagi tugmani bosing",
+  "selectaprovider": "Provayderni tanlang",
+  "selectcarderror": "Iltimos, kartani tanlang",
+  "selectdoctor": "Kun tartibini boshqaring",
+  "selectdoctor1": "Doktorni tanlang",
+  "selectdrug": "Dori vositasini tanlang",
+  "selectedContact": "Aloqa vositalari",
+  "selectinitiative": "Bir yoki bir nechta tashabbusni tanlang ...",
+  "selectnutritionist": "O&#39;z nutqingni tanlang",
+  "selectpatient": "Selectpatient tanlang",
+  "select_country": "Iltimos, mamlakatni tanlang",
+  "select_device": "Qurilmani tanlang",
+  "select_file": "Fayl-ni tanlang",
+  "select_file_btn": "Faylni tanlang",
+  "select_patient": "Tafsilotlarni ko&#39;rish uchun qatorni bosing",
+  "send": "Yuborish",
+  "sendmessage": "Xabarni yuborish",
+  "sendtoken": "Uni tibbiy doskaga kirish uchun ruxsat berish uchun shifokorga yuboring. Ushbu aloqa 10 daqiqadan so&#39;ng tugaydi",
+  "SEND_BTN": "Yuborish",
+  "send_doctor_request": "So&#39;rov yuboring",
+  "sentmessage": "Yuborilgan xabarlar",
+  "SERVICE_TYPE": "Xizmat turi",
+  "sessantad": "Oxirgi 60 kun",
+  "SESSION_EXPIRED": "Seans tugadi. Iltimos, yana tizimga kiring",
+  "setAlarm": "Signallarni o&#39;rnatish",
+  "settd": "So&#39;nggi 7 kun",
+  "settings_saved": "Sozlamalar muvaffaqiyatli saqlandi",
+  "setTreshold": "Qator oralig&#39;i",
+  "SET_BTN": "To&#39;siq qiling",
+  "SET_USER_EMAIL": "Iltimos, foydalanuvchi nomini yoki elektron pochtani ko&#39;rsating",
+  "set_vital_signs": "Vital Belgilarni belgilang",
+  "sevendays": "7 kun",
+  "showalldata": "Barcha ma&#39;lumotlarni ko&#39;rsatish",
+  "showOnEmergency": "Favqulodda vaziyatlarda",
+  "signature": "Imzoingiz (retseptlar uchun ishlatiladi)",
+  "signature_word": "Imzo",
+  "SIGNUP_BTN": "Ro&#39;yxatdan o&#39;tish",
+  "sii": "Sug&#39;urta indeksi",
+  "sii_desc": "SII barcha SaluberMD indekslarining birlashmasidir va sizning umumiy tibbiy tavakkalingiz oynasi hisoblanadi. Agar siz 30 yoshdan oshmasangiz, xavfsiz hududingizda bo&#39;lsangiz!",
+  "sii_title": "SII",
+  "since": "Chunki",
+  "single": "Bir kun",
+  "singleAccess": "Yagona kirish",
+  "sitreminder": "Eslatish",
+  "sit_period": "Davr",
+  "skip": "O&#39;tkazish",
+  "skip_pull": "E&#39;tibor bering",
+  "skip_step": "O&#39;tkazib yuborish",
+  "sl": "Stress darajasi",
+  "SLEEP": "Kutish",
+  "slotime": "Slot davomiyligi (min)",
+  "sl_alta": "85 bpm dan katta",
+  "sl_bassa": "65dan past",
+  "sl_desc": "Stress darajasi perpendikulyarlik hisobiga hisoblab chiqiladi",
+  "sl_normale": "65-85 bpm orasida",
+  "smoker": "Smoker",
+  "snacks": "Atıştırmalıklar",
+  "SOMETIMES": "Ba&#39;zan",
+  "SONNO": "Kutish",
+  "SOP_Q4": "Tibbiy hisobotingizni biriktiring",
+  "sos": "SOS",
+  "so_specialization": "Mutaxassisligi",
+  "specialists": "Mutaxassislar",
+  "specialization": "Mutaxassislikni tanlang",
+  "SPECIALTY": "Mutaxassisligi",
+  "specifyother": "Iltimos, boshqasini ko&#39;rsating",
+  "specifyvalue": "Iltimos, qiymati belgilang",
+  "spirometer": "Spirometriya",
+  "spo2_desc": "SpO2 yoki qon kislorodi darajasi sizning qizil qon hujayralari qancha kislorod tashiydiganligining o&#39;lchovidir. Oddiy qadriyatlar 95% dan 100% gacha, qon bosimining pastki darajasi esa gipoksemiya deb ataladi",
+  "sri": "Nafas olish ko&#39;rsatkichi",
+  "sri_desc": "Har qanday tibbiy mashg&#39;ulotlar paytida va uxlash vaqtida nafas olish naqshlarini tahlil qilamiz. Agar SRI 30 yoshdan past bo&#39;lsa, obstruktiv nafas olish sharoitlariga chalinish ehtimoli past bo&#39;ladi.",
+  "sri_title": "SRI",
+  "ssi": "Stress ko&#39;rsatkichi",
+  "ssi_desc": "Yurakning tezligi o&#39;zgaruvchanligini tahlil qilib, stress darajasini aniqlaymiz. Stress semirish, yurak kasalligi, Altsgeymer kasalligi, qandli diabet, depressiya, oshqozon-ichak tizimi muammolari va astma kabi holatlar xavfini kuchaytiradi yoki kuchaytiradi. Xavfsiz tomonda bo&#39;lish uchun uni 20 tagacha ushlab turing!",
+  "ssi_title": "SSI",
+  "start": "Boshlang",
+  "startcall": "Qo&#39;ng&#39;iroqni boshlang",
+  "startdate": "From",
+  "starthour": "Boshlanish vaqti",
+  "startmeasure": "Endi qurilmadagi bottonga bosib o&#39;limni boshlashingiz mumkin",
+  "startnow": "Endi boshlang",
+  "startRecording": "Audio ovoz yozishni boshlash uchun bosing",
+  "startyping": "Ismni yozishni boshlang",
+  "start_blowing": "Yugurishni boshlang",
+  "start_test": "Sinovni boshlang",
+  "start_time": "Boshlanish vaqti",
+  "state": "Davlat",
+  "state1": "Davlat",
+  "STATES_LICENSE": "Shtatlar litsenziyalangan",
+  "state_problem": "Iltimos, muammoingizni aniqlang",
+  "status": "Holat",
+  "step": "Qadam",
+  "STEPS_GOAL": "Qadamlar maqsadi",
+  "stoolTest": "Axlatni tekshirish",
+  "stop": "To&#39;xta",
+  "stop_test": "Sinovni to&#39;xtatish",
+  "stress": "Stress",
+  "stroke_vol": "Strok hajmi",
+  "stroke_volume": "Strok hajmi",
+  "stroke_volume_desc": "Qon tomirlarining miqdori - har bir yurakning har bir qorni tomonidan chiqarilgan qon hajmi",
+  "struttura": "Tuzilishi",
+  "strutture": "Tuzilmalar",
+  "subject": "Mavzu",
+  "subject_so": "Mavzu",
+  "submissionDate": "Tasdiqlash sanasi",
+  "success": "Muvaffaqiyat",
+  "SUCCESS_TITLE_NOTIFICATION": "Muvaffaqiyat",
+  "SUMMARY": "Tashxis",
+  "summary1": "Xulosa",
+  "SUNDAY": "yakshanba",
+  "surgery": "Jarrohlik",
+  "surgeryAndHospitalization": "Kasallik va jarrohlik tarixi",
+  "surgeryCategory": "Jarrohlik toifasi",
+  "surname": "Familiya",
+  "sv_alta": "100 dan katta",
+  "sv_bassa": "55 ml dan pastroq",
+  "sv_normale": "55 va 100 ml orasida",
+  "switchsearch": "Qo&#39;ng&#39;iroqqa o&#39;tish",
+  "symptoms": "Alomatlar",
+  "SYMPTOMS_BTN": "Alomatlar",
+  "sync": "Sinx",
+  "SYNC_TIME": "Sinxronlash vaqti",
+  "sysdia": "Bosim",
+  "systolic": "Sistolik",
+  "TAKE": "Oling",
+  "takeAppointment": "Uchrashuvni olib boring",
+  "TAKE_APP": "Uchrashuvni rejalashtirish",
+  "TAKE_A_PHOTO": "Suratga olish",
+  "tall": "Bo&#39;yingiz nechi",
+  "tapconnect": "Ulanish uchun bosing",
+  "tapdisconnect": "Ulanishni to&#39;xtatish uchun bosing",
+  "tap_to_expand": "Kengaytirish uchun bosing",
+  "telNameMandatory": "Iltimos, ismni ko&#39;rsating",
+  "telNumberMandatory": "Iltimos, telefon raqamini ko&#39;rsating",
+  "temper": "Temper",
+  "temperDescription": "Spikerning butun kayfiyatini qamrab olgan hissiyot. Past tavsif depressiv va mantiqiy kayfiyatni tasvirlaydi. O&#39;rta xush yoqimli, samimiy va samimiy kayfiyatni tasvirlaydi. Yuqori darajali qiymatlar qarama-qarshilik, ta&#39;sirchanlik va tajovuzkor ruhlarni tasvirlaydi.",
+  "tendays": "So&#39;nggi 10 yil",
+  "ten_min": "10 daqiqada",
+  "terminata": "Muvaffaqiyatli qo&#39;ng&#39;iroq qiling",
+  "TERMS_TITLE": "Foydalanish shartlari",
+  "test": "Viktorina",
+  "testmichele": "sinov mishel",
+  "testresult": "Sinov natijalari",
+  "testresults": "Sinov natijalari",
+  "tests": "Sinovlar",
+  "text": "Matn",
+  "thiscC": "Ushbu kredit kartadan xizmatni to&#39;lash uchun foydalaniladi",
+  "THURSDAY": "Payshanba",
+  "thyroidTest": "Tiroid funktsiyasini tekshirish",
+  "tickets": "Chiptalar",
+  "TICKET_HISTORY": "Chipta tarixi",
+  "TICKET_NUMBER": "Chipta raqami",
+  "ticket_subject": "Talab mavzusi",
+  "timecallerr": "Kechirasiz, siz hali qo&#39;ng&#39;iroq qila olmaysiz",
+  "timecallerr1": "Kechirasiz, siz qo&#39;ng&#39;iroqni amalga oshirasiz, chunki siz rejalashtirilgan vaqtdan tashqarida bo&#39;lasiz",
+  "TIMELINE": "Mening vaqt jadvallarim",
+  "times": "Kuniga necha marotaba?",
+  "timesaday": "Kuniga bir marta",
+  "tipopratica": "Amaliyot turi",
+  "tipo_struttura": "Tuzilishi turi",
+  "tipshealt0": "Sog&#39;liqni saqlash bo&#39;yicha maslahatlar",
+  "tipshealt1": "Grippning zarbasi - Grippga qarshi emlash kerakmi?",
+  "tipshealt10": "Qo&#39;shimcha ma&#39;lumot olish uchun shu yerni bosing",
+  "tipshealt11": "Statinlarni davolash, xolesterinni kamaytirishning afzalliklari xavflarni og&#39;irlashtiradi",
+  "tipshealt12": "Tadqiqotchilar, Lancet gazetasida chop etilgan bir maqolada, LDL xolesterinni statin terapiyasini kamaytirishning foydalari katta tomirlar (yurak xurujlari, qon tomirlari) ni oldini olishlari va giyohvandlik xavfidan ustun bo&#39;lishlari mumkin degan xulosaga kelishdi.",
+  "tipshealt13": "Tadqiqotchilarning fikriga ko&#39;ra, uzoq muddatli statin terapiyasidan kelib chiqadigan jiddiy salbiy voqealar miyopatiya (mushaklarning og&#39;rig&#39;i yoki kuchsizligi), yangi boshlangan diabet mellitus va ehtimol gemorragik instruksiya hisoblanadi.",
+  "tipshealt2": "Grippga qarshi emlash har doim ham umumiy himoya ta&#39;minlamasa ham, u qiymatga ega. CDC (Kasalliklarni nazorat qilish va oldini olish markazi) 6 oylik va undan katta yoshdagi har bir odamga yillik grippga qarshi emlashni tavsiya qiladi. Emlash ayniqsa, yuqumli kasalliklarga chalinish xavfi yuqori bo&#39;lgan odamlar uchun, ayniqsa, muhimdir",
+  "tipshealt3": "Homilador ayollar",
+  "tipshealt4": "Katta yoshdagilar (50 yoshdan katta)",
+  "tipshealt5": "Yosh bolalar (4 yoshgacha va 6 oydan yuqori)",
+  "tipshealt6": "Jismoniy faollik xotira va fikrlash ko&#39;nikmalarini oshiradi",
+  "tipshealt7": "Muntazam jismoniy faoliyat umr bo&#39;yi miya funktsiyasini yaxshilaydi va demans xavfini kamaytiradi.",
+  "tipshealt8": "Yaqindan hamkorlik qilish, muntazam jismoniy faoliyatning afzalligi va takomillashtirilgan funktsional funktsiyalar bo&#39;yicha ko&#39;plab tadqiqotlar nashr etildi.",
+  "tipshealt9": "Ta&#39;sir to&#39;g&#39;ridan-to&#39;g&#39;ri miyaga, tanadagi metabolik va jismoniy harakatlar orqali bevosita ta&#39;sir ko&#39;rsatadi.",
+  "title": "Sarlavha",
+  "to": "uchun",
+  "todayAppointment": "Bugungi uchrashuv",
+  "tooltip1": "Kun tartibini boshqarish uchun shifokor nomini kiriting",
+  "totale": "Jami",
+  "totalSleepTime": "Kutishning umumiy vaqti",
+  "total_cholesterol_desc": "Bu qiymat qondagi barcha xolesterolni baholash hisoblanadi",
+  "TOTAL_SLEEP_TIME": "Kutish vaqtining umumiy vaqti",
+  "tot_non_risposte": "Javob olinmadi",
+  "tot_ricevute": "Qo&#39;ng&#39;iroq qabul qilindi",
+  "tot_visite": "Tashriflar tugadi",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Transfer",
+  "trenta": "Oxirgi 30 o&#39;lchov",
+  "trentad": "So&#39;nggi 30 kun",
+  "triglycerides": "Triglitseridlar",
+  "trig_cholesterol_desc": "Triglitseridlar - bu qoningizda uchraydigan yog &#39;(lipid) turidir. Quyidagi jadvalda qiymatlar oralig&#39;i ko&#39;rsatilgan.",
+  "TUESDAY": "Seshanba",
+  "tutte": "Barcha o&#39;lchov",
+  "type": "Turi",
+  "TZONE": "Vaqt zonasi",
+  "underweight": "Kam vazn",
+  "unit": "Birlik",
+  "UNIT_SETTING": "Qurilma sozlamalari",
+  "uom": "O&#39;lchov birligi",
+  "upcomingAppointmentPatient": "Kelgusi uchrashuvlar",
+  "UPDATE": "Yangilash",
+  "updatelist": "Yangilash ro&#39;yxati",
+  "update_app_message": "Siz ilovani yangilashingiz kerak",
+  "UPDATE_AVAILABLE": "Yangilanish mavjud",
+  "UPDATE_BTN": "Yangilash",
+  "update_completed": "Firmware muvaffaqiyatli yangilandi",
+  "update_firmware_download_error": "Ichki dasturni yuklab olishda xatolik yuz berdi",
+  "update_list": "Yangilash",
+  "UPLOAD_ERROR": "Xato: Fayllar 5 MB dan oshmasligi kerak",
+  "upload_referral": "Sizning tavsiyangizni quyida joylashgan qutiga joylashtiring.",
+  "urinTest": "Siydik sinovlari",
+  "user": "Foydalanuvchi",
+  "userdata": "Foydalanuvchi ma&#39;lumotlari",
+  "usermanagement": "Foydalanuvchi boshqarish",
+  "USERNAME": "Foydalanuvchi nomi",
+  "username1": "Foydalanuvchi nomi",
+  "utente_aggiunto": "Foydalanuvchi muvaffaqiyatli qo&#39;shildi",
+  "utente_rimosso": "Foydalanuvchi muvaffaqiyatli o&#39;chirildi",
+  "utente_salvato": "Foydalanuvchi muvaffaqiyatli yangilandi",
+  "vaccinobbligatorio": "Iltimos, emlashni tanlang",
+  "vaioffline": "Oflaynga o&#39;tish",
+  "vaionline": "Onlayn o&#39;tish",
+  "valence": "Valence",
+  "valenceDescription": "Negativlikdan pozitivlikgacha o&#39;zgaruvchan. Biror kishini suhbatga tinglashda mavzu, ob&#39;ekt yoki hodisani muhokama qilishda qanday &quot;ijobiy&quot; yoki &quot;salbiy&quot; tushunchalarni tushunish mumkin.",
+  "value": "Qiymati",
+  "vascular_age": "Tomirlarning yoshi",
+  "vascular_age1": "Tomirlarning yoshi",
+  "va_desc": "Qon tomirlari davrida sog&#39;lom odamlarga nisbatan sizning arteriyalaringizning aniq yoshini o&#39;lchashingiz mumkin. Sizning qon tomir yoshingiz sizning xronologik yoshingizdan kattaroq bo&#39;lsa, hayotda keyinchalik yurak-qon tomir kasalliklarini (KVH) rivojlanish xavfi ko&#39;proq bo&#39;lishi mumkin.",
+  "videocall": "Videoqo&#39;ng&#39;iroq",
+  "VIDEOCALL_DES1": "Vaziyatingizni o&#39;zgartirish va bildirishnomalarni qabul qilish yoki olmaslik uchun quyidagi tugmani bosing. Xabarnomani faqat siz onlaynda olishingiz mumkinligini unutmang.",
+  "VIDEOCALL_DES2": "Agar siz qo&#39;ng&#39;iroqni qabul qilsangiz, qo&#39;ng&#39;iroqni qabul qiladigan ko&#39;rinadigan to&#39;rtburchakni bosing.",
+  "videocall_filter": "Nomi yoki mutaxassisligi bo&#39;yicha filtrlang",
+  "videocall_request": "Yangi videocall so&#39;rovi",
+  "videocall_request_title": "Videoqo&#39;ng&#39;iroq so&#39;rovi",
+  "videocall_req_from": "Video qo&#39;ng&#39;iroqlar so&#39;rovi:",
+  "videodermatoscopy": "Videodermatoskopiya",
+  "VIDEO_ANSWER": "Videoni faollashtirish uchun bosing",
+  "VIDEO_CALL_BTN": "Video qo&#39;ng&#39;iroq",
+  "VIDEO_CALL_BTN_1": "Video",
+  "view": "Ko&#39;rinish",
+  "viewmedicalfile": "Tibbiy faylni ko&#39;rish",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Virtual ofisni yarating",
+  "VIRTUAL_OFFICE_TITLE": "Virtual ofis",
+  "visitdetail": "Kasalning to&#39;liq tarixini ko&#39;rish uchun har bir elementni bosing",
+  "visithistory": "Tarixga tashrif buyuring",
+  "visitlist": "Tashriflar ro&#39;yxati",
+  "VISIT_HISTORY_NO_HISTORY": "Siz hali tashrif buyurdingiz",
+  "VISIT_HISTORY_SUBTITLE": "To&#39;liq ma&#39;lumotlarni ko&#39;rish uchun har bir elementni bosing",
+  "VISIT_HISTORY_TITLE": "Tarixga tashrif buyuring",
+  "volte": "Times",
+  "waiting": "Ishlov berilmoqda ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Issiqlik",
+  "WARNING_TITLE_NOTIFICATION": "Diqqat",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Sog&#39;liqni saqlash ma&#39;lumotlari",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Wellness Data",
+  "WATCH_DEVICE_DATA_TITLE": "Tomosha qurilmangiz haqidagi ma&#39;lumotlar",
+  "water": "Suv",
+  "weanedoff": "Yopilganmi?",
+  "WEDNESDAY": "Chorshanba",
+  "week": "Hafta",
+  "weight": "Og&#39;irligi",
+  "weightUnit": "Vazn birligi",
+  "welcome": "Xush kelibsiz",
+  "wellness": "Sog&#39;lomlik",
+  "wellnessdata": "Wellness Data",
+  "wellnessSuccess": "Muvaffaqiyat",
+  "WHITE_SPACES": "Foydalanuvchi nomida bo&#39;sh joy bo&#39;lmasligi kerak",
+  "WRIST_CUT_SCREEN": "Bilakni kesib oling ekranini aylantiring",
+  "writtenRep": "Yozma hisobot",
+  "W_RESPIRATORY_RATE": "Nafas",
+  "xray": "Rentgen",
+  "Y": "Ha",
+  "year": "Yil",
+  "years": "yil",
+  "yes": "Ha",
+  "yourarousal": "Sizning xushchaqchaqligingiz",
+  "youremotion": "Sizning his-tuyg&#39;ularingiz",
+  "yourmood": "Sizning kayfiyatingiz",
+  "yourtemper": "Sizning xulqingiz",
+  "yourvalence": "Sizning valentangiz",
+  "your_sai": "Faoliyatingiz indeksingiz:",
+  "your_sbpi": "Qon bosimi indeksingiz:",
+  "your_sci": "Sizning yurak indeksingiz:",
+  "your_sii": "Sizning sug&#39;urta indeksingiz",
+  "your_sri": "Nafas olish indeksingiz:",
+  "your_ssi": "Sizning stress belgingiz:",
+  "your_stress": "Sizning stress darajangiz:",
+  "your_va": "Sizning qon tomir yoshingiz:",
+  "zero_min": "Endi",
+  "zipCode": "Pochta indeksi",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

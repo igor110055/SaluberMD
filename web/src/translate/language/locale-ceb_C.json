@@ -1,0 +1,4355 @@
+{
+  "aboutus": "About Us",
+  "ABOUT_US_CONDITION_1": "Cold &amp; Flu",
+  "ABOUT_US_CONDITION_2": "Mga kahimtang sa panit",
+  "ABOUT_US_CONDITION_3": "Mga alerdyi",
+  "ABOUT_US_CONDITION_4": "Sakit sa totonlan",
+  "ABOUT_US_CONDITION_5": "Sakit sa Tiyan",
+  "ABOUT_US_DOCTOR_BENEFIT1": "PAG-USWAG NGA KITA:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Makita nimo ang hangtod sa unom ka mga pasyente sa usa ka oras (usa ka virtual nga pagbisita kasagaran molungtad og mga 10 ka minutos);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "PAGHATAG SA PATIENTE PAG-USAB GIKAN SA ANTUWERI SA KALIBUTAN:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Pagdugang sa mga relasyon sa pasyente nga adunay katakus sa pagtagad sa kasamtangan ug bag-ong mga pasyente gikan sa bisan asa sa kalibutan;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "PAGHIMO USA KA LIG-ON NGA PRAKTIKAL:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Pag-uswag sa imong kasamtangan nga praktis ug paghatag og daghang mga kapilian alang sa mga pasyente",
+  "ABOUT_US_DOCTOR_BENEFIT4": "DUGANG NGA MGA PAGDUMALA SA PASIUNA SA PAGDUMALA:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Ang mga pasyente makapadala kanimo mga dokumento, mga litrato, mga resulta sa lab nga dili kinahanglan nga mobiya sa balay ug mahimo nimo nga masubay ang panglawas sa imong pasyente gikan sa layo;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Tinoa kinsa ang nagkinahanglan sa mga kamot diha sa pag-atiman dayon ug kinsa makabenepisyo gikan sa lagyong pagtratar nga dili mobiya sa panimalay;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "PAG-USWAG NGA KITA:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "FLEXIBLE ORAS:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Ang katakos sa paghimo sa kaugalingon nimong mga oras ug paghimo sa imong kaugalingon nga eskedyul.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Pag-apil sa kalihokan aron paghatag kasaligang, barato, global nga pag-agi sa pag-atiman sa panglawas sulod sa 15 minutos o menos pa.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Ang Saluber MD gidesinyo sa pag-usob sa mga relasyon sa doktor-pasyente pinaagi sa pagmugna og 24/7 access sa healthcare sa tibuok kalibutan.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Mga Benepisyo sa Doktor",
+  "ABOUT_US_DOCTOR_TITLE": "About Us",
+  "about_us_section1_p1": "Ang SaluberMD usa ka organisasyon sa Digital Health nga gipahinungod sa pagbag-o sa paghatud sa mga medikal nga serbisyo ug mga produkto aron mapaayo ang mga resulta sa panglawas sa tibuok kalibutan. Ang atong Digital Medical Concierge nga mga serbisyo, naghatag og access sa mga benepisyo sa maayong panglawas ug kahimsog, board certified physicians, personal nga medikal nga file sa 18 ka mga pinulongan, gamit sa pag-monitor sa imong panglawas, ug pag-access sa usa ka network sa mga propesyonal ug serbisyo sa panglawas.",
+  "ABOUT_US_SECTION1_TITLE": "About Us",
+  "ABOUT_US_SECTION2_P1": "Pinaagi sa geo-localization ang atong app makakaplag sa pinakamaayo nga Doktor nga duol kanimo. Ang mga doktor sa SaluberMD makahimo sa pag-diagnose, pagtagad, o paghisgut sa imong medikal nga kondisyon pinaagi sa video ug paghatag kanimo sa tukmang plano sa pagtambal. Daghan sa labing komon nga mga kondisyon nga gitambalan sa opisina sa doktor mahimong pagtratar uban sa usa ka pagbisita sa video. <br/> Pipila sa mga kondisyon nga atong giatiman:",
+  "ABOUT_US_SECTION2_P2": "Ang imong Personal nga Rekord sa Medisina usa ka maayong dapit sa pagtipig sa tanan sa imong data sa panglawas, mga larawan ug mga file. Susiha ang imong panglawas nga adunay 24/7 nga pag-access sa tanan nimong mga medikal nga rekord. Kung anaa ka sa balay o nagapanaw sa gawas sa nasud ang imong impormasyon anaa sa imong mga tudlo aron ipaambit sa imong propesyonal sa panglawas. Ang dali nga paggamit sa personal nga rekord medikal anaa sa 18 ka mga pinulongan.",
+  "ABOUT_US_SECTION2_TITLE": "Giunsa kini pagtrabaho?",
+  "ABOUT_US_SECTION3_P1": "Ang mga top board certified Physicians lamang ang naghatag og medikal nga pag-atiman sa SaluberMD. Kini nga mga propesyonal gipamatud-an, gipalapdan pag-ayo ug gibansay sa paghatag sa top quality care. Ang matag Doktor adunay bio kung asa nimo makita ang ilang kaagi, kredensyal, ug kasinatian. Ang SaluberMD komitado sa padayon nga kalidad nga pagdumala sa atong mga doktor. Ang usa ka sistema sa paghatag og grado nagtugot sa mga pasyente sa pagpa-rate sa mga doktor ug sa pagtan-aw sa usa ka doktor sa katapusang grado",
+  "ABOUT_US_SECTION3_TITLE": "Ang among mga doktor",
+  "ABOUT_US_TITLE": "About Us",
+  "above_warning": "Ang mga bili sa itaas peligro",
+  "accept": "Dawata",
+  "acceptablerange": "Dalayegon nga gidak-on",
+  "ACCEPT_BTN": "Dawata",
+  "acquire": "Pagkuha og datos",
+  "acronym": "Acronym",
+  "action": "Aksyon",
+  "actions": "Mga aksyon",
+  "actionTaken": "Aksyon nga Gikuha",
+  "activity": "Kalihokan",
+  "acutecare": "Maayo nga Pag-atiman",
+  "add": "Bag-o nga",
+  "addavailability": "Idugang ang imong pagkabutang",
+  "addcomment": "Idugang kanimo ang komentaryo dinhi",
+  "adddescription": "Idugang ang imong paghulagway dinhi",
+  "adddrugs": "Pangita sa usa ka droga gamit ang search box sa ubos ug tan-awa ang checkbox aron idugang kini sa imong reseta",
+  "addedFavourite": "Malampuson nga gidugang sa imong paborito",
+  "addedFavourite2": "Malampuson nga gidugang sa imong paborito. i-press ang update button aron ipakita kini.",
+  "addedFavourite3": "Malampuson nga nadugang  nPaglumba aron sa pag-refresh",
+  "addFavourite": "Idugang sa Paboritong",
+  "ADDING_SLOT": "Pagdugang mga puwang .... mahimo kini kadiyot.",
+  "addNew": "Pagdugang Bag-o",
+  "addpharmacies": "I-klik ang button aron idugang ang imong mga paborito nga botika",
+  "addpharmacy": "Idugang ang parmasya",
+  "addreminder": "Ipadayon ang plus button aron idugang ang imong pahinumdum sa tambal.",
+  "address": "Address",
+  "address2": "Pagdala sa address",
+  "address3": "Pakigsulti alang sa serbisyo",
+  "addsintomi": "Idugang ang mga sintomas",
+  "addslot": "Pagdugang slot",
+  "add_description_file": "Pagdugang og paghulagway (dili kinahanglan)",
+  "add_new": "Idugang",
+  "affaticamento_grave": "Grabe nga kakapoy",
+  "affaticamento_minore": "Minor kakapoy",
+  "agenda": "Ang akong agenda",
+  "agenda_report": "I-report ang mga appointment",
+  "aggiungi": "Paghimo",
+  "AGREE_BTN": "Ako mouyon",
+  "alcoholDesc": "Nagtuo ang alkohol",
+  "all": "Tanan",
+  "alldata": "Ang tanan nga datos",
+  "allergia": "Alerdyi",
+  "allergia_aggiunta": "Malig-on nga gibuhat ang alerdyi",
+  "allergia_rimossa": "Malampuson nga nawagtang ang alerdyi sa pasyente",
+  "allergia_salvata": "Malampuson nga na-update ang alerdyi sa pasyente",
+  "allergie": "Mga alerdyi",
+  "allimages": "Tanang Imahe",
+  "alreadyAddedF": "Kini nga botika anaa na sa imong mga paborito",
+  "alreadyRegistred": "Kini nga email address naa na sa gawas sa sistema. Palihug pag-log in sa app aron makahimo og appointment.",
+  "alreadyTaken": "Ang pagtudlo nahuman na",
+  "alta": "Taas",
+  "alto": "Taas",
+  "amonth": "30 Mga Adlaw",
+  "anger": "Kasuko",
+  "annoinizio": "Nagsugod ang Tuig",
+  "antibiotics": "Antibiotics",
+  "an_error_occurred": "Mga O! Sa pagkakaron dili pa kami makaabut sa imong gipangayo. Sulayi pag-usab sa ulahi",
+  "appointment": "Pagpili",
+  "appointmentlist": "Listahan sa mga appointment",
+  "appointments": "Mga pagtudlo",
+  "appointmentsDescription": "Listahan sa mga eskedyul nga pagtudlo",
+  "appointment_body_doc": "Bag-ong appointment nga gitakda sa",
+  "appointment_calcelled_title": "Gikanselar ang pagtugot",
+  "appointment_cancelled": "gikansela ang iyang pagkatudlo",
+  "appointment_email_body": "Gikumpirma namon ang imong appointment sa doktor",
+  "appointment_history": "Kasaysayan sa Pagpili",
+  "appointment_now": "Ang imong appointment magsugod karon",
+  "appremainder": "Ang nahabilin nga appointment",
+  "appremainder1": "Ikaw adunay videocall nga gikatakda sa 5 minutos",
+  "appremainder2": "Ikaw adunay videocall nga gipamulong sulod sa 30 minutos",
+  "appremainder3": "Ikaw adunay videocall nga nag-ingon sulod sa 120 ka minuto",
+  "APPROX_DATA": "Ang ubang mga Kaayuhan sa Kaayohan",
+  "appuntamenti": "Mga pagtudlo",
+  "appuntamenti_presi": "Gitakda nga Pag-appointment",
+  "appuntamento_clinica": "Maghangyo sa Pagtudlo sa Clinic",
+  "APPUNTAMENTO_CONGIUNTO": "Gusto ba nimong mag-book og usa ka videocall?",
+  "app_description": "Idugang ang mga hinungdan sa imong appointment sa kahon sa ubos",
+  "app_details": "Mga detalye sa pagtudlo",
+  "app_missing": "Ang suporta nga app wala ma-install",
+  "ARIAX": "Rate sa Paglangoy",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Pagpukaw",
+  "arousalDescription": "Usa ka baryohanon nga naglangkob gikan sa kalinaw o kalaay ngadto sa pagkaalerto ug kahinam. Kini susama sa susama nga mga konsepto sama sa lebel sa activation ug stimulation.",
+  "assign_specialist": "Pagtudlo og espesyalista sa hangyo",
+  "associa": "Associate",
+  "attachment": "Kasuod",
+  "ATTACH_A_PHOTO": "Ibutang ang usa ka litrato",
+  "BACKGROUND": "Background",
+  "BACKGROUND_PLCHOLDER": "Palihug pagsulat og mubo nga biography.",
+  "backhomeconfirm": "Sigurado ka ba nga mobalik sa balay?",
+  "BACK_BTN": "Balik",
+  "BACK_LOGIN": "Balik sa Login",
+  "bad_file": "Dili mabuksan ang file",
+  "basicinfo": "Pangunang Impormasyon",
+  "bassa": "Ubos",
+  "basso": "ubos",
+  "below_warning": "Ang kantidad sa ubos naa sa peligro",
+  "benefits": "Mga Benepisyo sa Concierge",
+  "beyondverbal": "Ang mga emosyon nagapugong sa tanan nga atong gibuhat, apan ang mga emosyon nga gipadagan sa tingog nga tingog nagpabilin nga labing mahinungdanon, wala masusi nga interface karon. Ang labaw sa Verbal komitado sa pag-usab niana.",
+  "beyondverbal_analyze": "Susiha ang imong buot",
+  "beyondverbal_history": "Mga resulta sa kasaysayan",
+  "beyondverbal_instruction": "Kung ikaw andam na sa pagtubag sa pangutana nga pindutan sa pagsugod nga buton",
+  "BIRTHDATE": "Adlaw nga natawhan",
+  "birthday": "Birthday",
+  "blank_agenda": "Walay sulud karon",
+  "bloatedOrContipated": "Nagdugok o naulipon",
+  "bluetooth_error": "I-enable ang bluetooth kaniadto aron magpadayon",
+  "BOARD": "Gipamatud sa Board",
+  "bones": "Bukog",
+  "bp": "Pagpit sa Dugo",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Reference table alang sa mga presyon sa Blood Pressure",
+  "breakfast": "Pag-alsa",
+  "btnback": "Balik",
+  "btndelete": "Pagtangtang",
+  "btndisabledoctor": "Likayi ang doktor",
+  "btndisablepatient": "Likayi ang pasyente",
+  "btnenabledoctor": "I-enable ang doktor",
+  "btnenablepatient": "Pag-andam sa pasyente",
+  "btnsave": "Luwasa",
+  "BTN_LOAD_MORE": "Dugang pa",
+  "buttonsearch": "Pagpangita",
+  "bvFailed": "Napakyas sa pag-analisar sa imong tingog, kinahanglan ka nga mag-estorya pa!",
+  "bvInstruction": "Pag-istoryahan lang sulod sa 20 segundos o kapin pa",
+  "bvInstruction2": "Pag-istorya lang sulod sa 20 segundos",
+  "ca": "Sistema sa Cardiovascular",
+  "call": "Tawga",
+  "callCancel": "Dili makakanselar ang usa ka expired nga tawag",
+  "calldoctor": "Tawga ang doktor",
+  "calling_number": "Tawag sa Numero",
+  "callthedoctor": "Pagtawag sa Doktor",
+  "calltransfer": "Pagbalhin tawag ...",
+  "CALL_ALREADY_TAKEN": "Gitawag na ang tawag",
+  "CALL_DOCTOR_INFO": "Doktor Info",
+  "CALL_DURATION": "Tanan nga tawag",
+  "call_instruction": "Hatagan ka namog usa ka pahibalo sa diha nga mahimo nimo nga tawagan ang doktor. Pag-klik sa pagpahibalo sa diha nga imong madawat kini aron sa pagsugod sa videocalll. Sa higayon nga imong makuha ang mga pahibalo, mahimo nimo kini makuha sa seksyon sa pahibalo ubos sa profile sa akong panglawas.",
+  "CALL_NOTIFICATIONS": "Mga tawag sa telepono",
+  "CALL_NO_INCOMING": "Walay mosulod nga tawag",
+  "CALL_TRANSFER_INFO": "Tawagan ang impormasyon sa pagbalhin",
+  "CALL_WAITING": "Palihug maghulat samtang nangita kami sa usa ka doktor",
+  "CALL_WAITING_2": "Palihug maghulat samtang girepaso sa doktor ang imong file",
+  "calories": "Mga kaloriya",
+  "cancel": "Cancel",
+  "cancelAppointment": "Cancel niini nga appointment",
+  "CANCEL_BTN": "Cancel",
+  "CAP": "Zip Code",
+  "cardiac_output": "Gikan sa kasingkasing",
+  "cardiac_output1": "Gikan sa kasingkasing",
+  "cardiac_output_desc": "Ang gidaghanon sa kasingkasing mao ang gidaghanon sa dugo nga gibomba sa kasingkasing matag minuto.",
+  "cardiovascular": "Cardiovascular",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "Dili balido nga CVC",
+  "CARD_EXPIRY_DATE": "Expiry Date",
+  "CARD_MONTH_ERROR": "Dili tinuod nga bulan",
+  "CARD_NUMBER": "Numero sa card",
+  "CARD_NUMBER_ERROR": "Dili balido nga Numero sa CC",
+  "CARD_YEAR_ERROR": "Dili tinuod nga tuig",
+  "category": "Category",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "Gikinahanglan ang CCV",
+  "CERROR": "Poor Contact",
+  "certificate_attachment": "Nalakip didto ang imong medical certificate",
+  "certificate_email": "Nalakip didto ang imong medikal nga sertipikasyon",
+  "certificate_header": "Sa sukaranan sa pag-usisa sa medikal nga gihimo, ang mga musunud giingon:",
+  "certificate_sent": "Gipadala ang Sertipiko",
+  "certification_subject": "Ang imong medikal nga sertipikasyon",
+  "cf": "Fiscal Code",
+  "cf_error": "Palihog, isulat ang imong kodigo sa panalapi",
+  "changeschedule": "Usba ang panahon",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Ang expir sa imong password, palihug usba kini.",
+  "CHANGE_PWD_SECTION_TITLE": "Usba ang password",
+  "CHANGE_PWD_TITLE": "Ang imong password pag-expire na, usba kini",
+  "checking_net_condition": "Pagsusi sa koneksyon sa Internet ...",
+  "CHECK_PARAMETERS_CORX": "Palihug, isul-ob ang gibug-aton ug ang gitas-on sa bahin sa profile aron makalkulo ang husto nga mga hiyas sa pagkaayo.",
+  "CHL_TOT": "Gawas nga Kolesterol",
+  "choosedate": "Pagpili og petsa",
+  "chooseDateDescription": "I-klik ang petsa aron mapalapad kini ug pilion ang oras",
+  "chooseprofile": "Ikaw?",
+  "choosespeciality": "Pilia ang Espesyalista sa Medisina",
+  "choosetransferdoctor": "Pilia ang usa ka doktor",
+  "CHOOSE_A_DOCTOR": "Pilia ang imong kaugalingon nga doktor",
+  "chosedoctor": "Palihug, pagpili og doktor",
+  "city": "Dakbayan",
+  "city1": "Dakbayan",
+  "city2": "Dakbayan",
+  "clearsignature": "Tin-aw ang pirma",
+  "clickitem": "I-klik ang matag butang aron makita ang mga detalye",
+  "clickrow": "Pag-klik sa usa ka laray aron mapili",
+  "clickToOpen": "Pag-klik aron maablihan ang file",
+  "click_to_start_call": "Pag-klik sa usa ka doktor aron masugdan ang pagtawag",
+  "clinics": "Mga klinika",
+  "CLOCK_FORMAT": "Format sa Orasan",
+  "closeappconfirm": "Sigurado ka ba nga isira ang app?",
+  "CLOSE_BTN": "Suod nga",
+  "cm": "cm",
+  "CODE": "Code",
+  "code_not_valid": "Ang gisulod nga code dili balido",
+  "code_verified": "Malampuson nga napamatud-an sa code!",
+  "coffeeDesc": "Nagtuo ang kape",
+  "COMMENT": "komentaryo",
+  "commenti": "Mga komento",
+  "COMPANY_NAME": "Company",
+  "COMPLAIN": "Pagreklamo",
+  "COMPLETE_PROFILE": "Kompletoha ang imong profile kaniadto aron magpadayon",
+  "COMPLETE_PROFILE_TITLE": "Palihug kompletoha ang imong profile",
+  "complications": "Mga komplikasyon",
+  "concernlist": "Palihug isulat ang imong nag-unang kabalaka / kabalaka",
+  "CONFIRM": "Ok",
+  "confirm_app": "Kumpirmar ang imong appointment",
+  "CONFIRM_EMAIL_TITLE": "Kumpirmahan ang Email",
+  "CONFIRM_PWD": "Kumpirmahan ang password",
+  "connect": "Mopadayon sa Connect button aron ikonektar ang device",
+  "connectbtn": "Sumpaysumpaya",
+  "connectedto": "Gisumpay ngadto",
+  "connecting": "Pagdugtong ... Palihug maghulat",
+  "connection_progress": "Pagkonektar sa device ...",
+  "CONSULT": "Pagreklamo",
+  "consult1": "Konsulta",
+  "consultation": "Konsultasyon",
+  "consultationHistory": "Kasaysayan sa Konsultasyon",
+  "contact": "Pagkontak",
+  "CONTACT_US_BTN": "Kontaka kami",
+  "CONTACT_US_SECTION_TITLE": "Palihug kontaka kami sa bisan unsang mga pangutana o alang sa panabang gamit ang app.",
+  "CONTACT_US_TITLE": "Kontaka kami",
+  "contatti": "Impormasyon sa Pag-kontak",
+  "continue": "Padayon",
+  "copy_url": "Kopyahin ang url",
+  "CORX": "ECG",
+  "corxDidFailEcg": "Sayop nga pagkuha sa EKG",
+  "corxDidFailWellness": "Sayup ang pagkuha sa data sa kahimsog",
+  "corxDidNoEcg": "Walay datos sa EKG",
+  "corxDidNoWellness": "Walay datos sa kahimsog",
+  "CORX_DATA": "Data sa CorX",
+  "corx_disconnected": "Gisalikway ang Corx",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Palihug, isulat ang gibug-aton ug gitas-on sa oreder aron sa hustong pagkalkulo sa mga gitas-on sa vitals.",
+  "COUNTRY": "Nasud",
+  "country1": "Nasud",
+  "county": "County",
+  "co_alta": "mas dako kay sa 8 L / min",
+  "co_bassa": "ubos sa 4 L / min",
+  "co_normale": "tali sa 4 ug 8 L / min",
+  "creditCard_selected": "Ang gipili nga kard igastuhan alang sa kini nga serbisyo",
+  "currency": "Salapi",
+  "C_SPECIALTY": "Custom specialty",
+  "dailyuse": "Matag adlaw nga Paggamit",
+  "dashboardVideocall": "Dashboard Videocall",
+  "dataerror": "Ang petsa / oras nga imong gipili milabay sa kasamtangan nga petsa / oras",
+  "dataexists": "Anaa na ang usa ka appointment sa piniling petsa ug oras",
+  "datafetching": "Pag-angkon sa imong personal nga data ... Palihug maghulat.",
+  "dataPrenotazione": "Petsa sa pag-book",
+  "dataVaccinazione": "Petsa sa Pagbakuna",
+  "date": "Petsa",
+  "dateDiscovered": "Nadiskubre ang Petsa",
+  "dateStart": "Pagsugod sa Petsa",
+  "datipersonali": "Personal nga Impormasyon",
+  "datiScaricati": "Malampuson nga Na-download ang Data",
+  "day": "Adlaw",
+  "deassociate_corx_alert": "Gusto ba nimo nga mahiligon ang Corx?",
+  "decline": "Pagdumili",
+  "DECLINE_BTN": "Pagdumili",
+  "DEEP_SLEEP_TIME": "Hilom nga Pagkatulog",
+  "defaultQuestion": "Sugod sa pagsugod ug sultihi kami unsay imong gibati karon",
+  "delete": "Pagtangtang",
+  "deleteAlarm": "Tangtanga kini nga alarma?",
+  "deleteAppointment": "Buot ba nimo nga kanselahon ang pagtudlo?",
+  "deleteDescription": "Gipapas dayon kini.",
+  "deleteMessage": "Sigurado ba nga gusto nimong papason kini?",
+  "deleteMultipleDesctiption": "Gidaghanon sa mga puwang nga matanggal:",
+  "deleteNumber": "Sigurado ba nga gusto nimong papason kining Numero?",
+  "deleteSlotDay": "Gikuha ang tanang libre nga puwesto karong adlawa",
+  "deleteSlotMonth": "Gikuha ang tanang libre nga mga slots niining bulana",
+  "deleteSlotWeek": "Gikuha ang tanang libre nga puwesto niining semanaha",
+  "deletevalue_q": "Sigurado ba nga gusto nimong papason ang bili?",
+  "DELETE_NOTIFICATION_MSG": "Gusto ba nimong wagtangon ang tanan nga nangagi nga mga pahibalo?",
+  "demo": "Kini usa ka demo, walay kwarta nga ipahamtang.",
+  "dependencies": "Dependencies",
+  "description": "Deskripsiyon",
+  "descriptionMandatory": "Palihog, isulti ang usa ka paghulagway",
+  "deseaseCategory": "Category sa Disease",
+  "desirable": "Nakapahimuot",
+  "dettagli": "Mga detalye",
+  "dettaglio_struttura": "Detalyado nga estruktura",
+  "device": "Gunitanan",
+  "devicefound": "Makit-an ang device",
+  "devices": "Mga Device",
+  "devicetype": "Type nga Device",
+  "DEVICE_BLOOD_PRESSURE": "Ang presyon sa dugo",
+  "DEVICE_CALORIES": "Nasunog ang mga calorie",
+  "DEVICE_CARDIAC": "Pag-monitor sa Cardiac",
+  "DEVICE_CHL": "Profile sa Lipidic",
+  "DEVICE_DATA_SECTION_TITLE": "Ang imong datos sa medikal nga kahimanan",
+  "DEVICE_DATA_TITLE": "Data sa Device",
+  "DEVICE_DATA_TITLE_1": "Data sa Medical Device",
+  "DEVICE_EKG": "ECG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glucometer",
+  "DEVICE_HEART_RATE": "Rate sa Heart",
+  "DEVICE_PEDOMETER": "Pedometer",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Kadugayan sa pagsabwag",
+  "DEVICE_SPO2": "Spo2",
+  "DEVICE_TEMPERATURE": "Temperatura",
+  "DIAGNOSIS": "Pag-diagnose",
+  "diastolic": "Diastolic",
+  "dieci": "Katapusang 10 ka pagsukod",
+  "diet": "Pagkaon",
+  "digestion": "Mga isyu sa panghilis",
+  "dinner": "Panihapon",
+  "dipendenza": "Dependency",
+  "disableAlarm": "Gipasaligan ang alarm",
+  "disabled": "Disabled",
+  "DISABLE_PANIC_BUTTON": "Pag-andam sa Panic Button",
+  "DISABLE_PUNIC_BUTTON": "Likayi ang Punic Button",
+  "disconnectall": "Ibutang sa Offline",
+  "disconnectbtn": "Pagdili",
+  "DISDICI": "Cancel",
+  "disease": "Laygay nga Sakit",
+  "diseasemanagement": "Pagdumala sa Sakit",
+  "diseases": "Mga sakit",
+  "disease_1": "Sakit",
+  "dissocia": "Pag-disassociate",
+  "DISTANCE": "Layo",
+  "dm_section_description_1": "Dinhi mahimo ka maglakip sa imong mga file",
+  "DND": "Ayaw Paghadlok",
+  "DOCEMAIL": "Email nga Doktor",
+  "DOCNAME": "Pangalan sa Doktor",
+  "DOCPHONE": "Numero sa Doktor",
+  "DOCTOR": "Doktor",
+  "doctor1": "Doktor",
+  "doctorAtHome": "Doktor sa Panimalay",
+  "doctorAtHomeQuestion1": "Gusto ko sa tabang sa panimalay alang sa:",
+  "doctorAtHomeQuestion2": "Pilia ang tabang sa balay nga imong gikinahanglan",
+  "doctorAtHomeQuestion2Answer1": "Kinatibuk-ang Pagbansay",
+  "doctorAtHomeQuestion2Answer2": "Pediatric",
+  "doctorAtHomeQuestion2Answer3": "Nurse",
+  "doctorAtHomeQuestion3": "Tinoa ang katarungan nganong gusto ka nga makadawat og tabang",
+  "doctorAtHomeQuestion4": "Ihatag ang porma sa ubos sa address nga gusto nimo nga makadawat og tabang",
+  "doctorAtHomeRequestBtn": "Ipadala ang hangyo",
+  "doctorAtHomeRequestSuccess": "Nakadawat kami sa imong hangyo. Makontak ka sulod sa 2 ka oras aron mahatagan ang serbisyo sa balay",
+  "doctorAtHomeTitle": "Doktor sa Panimalay",
+  "doctorbusy": "Ang doktor busy sa laing tawag",
+  "doctorbusy1": "Ang doktor nagkapuliki sa laing tawag",
+  "doctorlist": "Gilista ang mga doktor",
+  "doctormanagement": "Mga pagdumala sa mga doktor",
+  "doctoroffline": "Ang doktor anaa sa offline, usba",
+  "doctorupdate": "Doktor",
+  "DOCTOR_PROFILE_OPT1": "Profile",
+  "DOCTOR_PROFILE_OPT2": "Pagduaw sa Kasaysayan sa Pasyente",
+  "DOCTOR_PROFILE_OPT3": "Irekomenda ang usa ka kauban",
+  "DOCTOR_PROFILE_SECTION1": "Ang imong profile",
+  "DOCTOR_PROFILE_TITLE": "Profile",
+  "doctor_request_sent": "Gipadala namo ang imong hangyo sa among mga doktor. Makadawat ka og tubag sulod sa duha ka minuto.",
+  "documents": "Mga dokumento",
+  "DOCUMENT_BTN": "Mga dokumento",
+  "doestake": "Nakuha ba nimo",
+  "DONATION_TITLE": "Pakumpirma ang donasyon",
+  "done": "Matagumpay nga na-download ang datos sa Trackx. Makita nimo sila ubos sa seksyon sa datos sa pagkaayo",
+  "doneAppointmentPatient": "Kaniadto nga Mga Pagtudlo",
+  "DONE_BTN": "Nahimo",
+  "dontknow": "Wala ako mahinumdom",
+  "DORMIVEGLIA": "Pagduka",
+  "dosage": "Dosage",
+  "dosetake1": "Nakuha ba nimo ang imong mga tambal?",
+  "dottore_rimosso": "Malampusong na-update ang kahimtang sa doktor",
+  "dottore_salvato": "Na-update ang doktor",
+  "download": "Pag-download",
+  "downloadaspdf": "Pag-download ingon nga PDF",
+  "downloadecg": "I-download ang ECG",
+  "DOWNLOADING_DEVICE_DATA": "Nag-download ...",
+  "downloadwellnessdata": "Pag-download sa data sa kahimsog ...",
+  "downloadWellnessResult": "Dugang pa ang sukod",
+  "DOWNLOAD_CERTIFICATE": "Pag-download sa sertipiko",
+  "DOWNLOAD_ERROR_GENERIC": "Oops. Usa ka erros nga nahitabo samtang naningkamot sa pag-download sa file. Palihug, sulayi pag-usab sa ulahi.",
+  "DOWNLOAD_SO_REPORT": "Download Referral",
+  "DO_NOT_DISTURB": "Ayaw gub-a",
+  "drugsAtHome": "Mga Droga sa Panimalay",
+  "drugsAtHomeQuestion1": "Gusto ka ba nga makadawat sa mga drugas nga gisugo sa imong doktor diretso sa balay?",
+  "drugsAtHomeRequestBtn": "Ipadala ang hangyo",
+  "drugsAtHomeRequestSuccess": "Nakadawat kami sa imong hangyo. Ang mga droga ipadala sulod sa 24 oras",
+  "drugsAtHomeSection1": "Ihatag ang porma sa ubos sa numero sa telepono ug ang adres nga gusto nimo nga madawat sa mga droga.",
+  "drugsAtHomeTitle": "Mga Droga sa Panimalay",
+  "drug_name": "Ngalan sa Droga",
+  "duration": "Gidugayon",
+  "ecg": "ECG",
+  "ecgadded": "Malampuson nga nadugang sa ECG ang listahan",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "Ang datos sa EKG",
+  "ecgdetail": "I-klik ang matag butang aron makita ang imahe sa ECG",
+  "ECG_DELETE_Q": "Sigurado ba nga gusto nimong papason ang EKG?",
+  "ecg_not_found": "Sayop nga File sa ECG, sulayi ang laing pagsaway.",
+  "ECG_REMOVED": "Malampuson nga napapas ang EKG",
+  "edit": "Usba",
+  "EKG_SECTION_TITLE": "Resulta sa Electrocardiogram (EKG / ECG)",
+  "EKG_TITLE": "Pag-upload sa EKG",
+  "EMAIL": "Email",
+  "email1": "Email",
+  "email_do_not_match": "Ang mga email dili parehas",
+  "ematicTest": "Mga Pagsulay sa Ematic",
+  "Emergency": "Ipakita Sa Emerhensiya",
+  "emergency1": "Emergency",
+  "emergencyLoginCode": "Ang Kodigo sa Pagpangita sa Emerhensiya",
+  "emergency_numbers": "Mga Numero sa Emergency",
+  "emergency_number_description": "Idugang ang mga numero sa telepono aron tawagan kung adunay emerhensya",
+  "emotionDescription": "Usa ka kombinasyon sa nagkalain-laing sukaranang mga emosyon, nga gipahayag sa tingog sa tiggamit panahon sa usa ka pag-analisar nga seksyon sa tingog.",
+  "emotions": "Nagkahiusang Emosyon",
+  "emptypassword": "Palihog, isulti ang pasword",
+  "EMPTY_ALLERGIES": "I-klik ang button aron makadugang sa sakit sa imong medikal nga rekord",
+  "empty_dataset": "Walay datos",
+  "EMPTY_DEPENDENCIES": "I-klik ang button aron makadugang sa pagsalig sa imong medikal nga rekord",
+  "EMPTY_DISEASE": "I-klik ang button aron makadugang sa sakit sa imong medikal nga rekord",
+  "EMPTY_DOCUMENTS": "I-klik ang button aron makadugang sa usa ka dokumento sa imong medikal nga rekord",
+  "EMPTY_IMAGES": "I-klik ang button aron makadugang sa usa ka larawan sa imong medikal nga rekord",
+  "EMPTY_IMMUNIZATION": "I-klik ang button aron madugang ang imunisasyon sa imong medikal nga rekord",
+  "EMPTY_MEDICATION": "I-klik ang button aron makadugang sa tambal sa imong medical record",
+  "empty_otp": "Dili balido nga OTP Code",
+  "EMPTY_PROSTHESIS": "I-klik ang button aron makadugang sa prosthesis sa imong medikal nga rekord",
+  "EMPTY_TESTS": "I-klik ang button aron makadugang sa pagsulay sa imong medikal nga rekord",
+  "enabled": "Maagwanta",
+  "endate": "Sa",
+  "endcall": "Katapusang tawag",
+  "endDate": "Petsa sa Katapusan",
+  "endhour": "Panahon sa Katapusan",
+  "end_time": "Panahon sa Katapusan",
+  "END_VIDEOCALL_Q1": "Sigurado ba nga gusto nimo nga tapuson ang konsultasyon nga dili magsugod sa videocall?",
+  "END_VISIT_BTN": "Katapusan nga pagbisita",
+  "error": "Sayop",
+  "error_call_timeout": "Ang panahon sa paghimo sa videocall natapos na. Aron mahimo ang videocall, sublion pag-usab ang proseso.",
+  "ERROR_EMAIL_DUPPLICATE": "Morag kini nga email address na gi-registerd. Sulayi ang laing usa.",
+  "error_price": "Palihug, ipasabut ang usa ka bayad",
+  "ERROR_SPECIFY_DAYS": "Palihug, paghingalan sa usa ka adlaw nga semana",
+  "ERROR_SPECIFY_HOUR": "Palihug, isulat ang oras",
+  "ERROR_TITLE_NOTIFICATION": "Sayop",
+  "ERROR_TRACKX": "I-on ang Trackx",
+  "error_update": "Sayop Pag-update sa Firmware",
+  "ERROR_USERNAME_DUPPLICATE": "Gikuha na kini nga username, pilia ang laing usa",
+  "ERROR_WHITELIST": "Pasensya, ang imong aparato dili gipagana sa pagbuhat sa videocall",
+  "esameobbligatorio": "Palihog, pagpili og Exam",
+  "exam_name": "Ngalan sa Eksam",
+  "exercise": "Pagbansay",
+  "exercisereminders": "Ang akong mga Pagpahinumdum sa Pagbansay",
+  "existentassoc": "Adunay mga asosasyon",
+  "existentrelation": "Kini nga relasyon anaa na",
+  "expandfordetails": "Palapad alang sa dugang mga detalye",
+  "EXP_MONTH": "Pag-expire nga Buwan",
+  "EXP_MONTH_REQUIRED": "Kinahanglan ang expiration month",
+  "EXP_YEAR": "Tuig sa Pag-expire",
+  "EXP_YEAR_REQUIRED": "Gikinahanglan ang pag-expire nga tuig",
+  "e_prescribing": "E-Prescribing",
+  "F": "Babaye",
+  "farmaci": "Mga tambal",
+  "farmaco": "Medisina",
+  "fat": "Tambok",
+  "FATIGUE_INDEX": "Kakapoy",
+  "FATIGUE_INDEX_DESCRIPTION": "Trabaho, trabaho ug kasinatian tungod sa kalapoy sa kakapoy. Ang sobra nga kakapoy dali magdala ngadto sa pagkagahi sa kaunuran sa lawas, sakit sa ulo, insomnia, kakapoy, sakit sa baybayon, ug dali nga modala ngadto sa sistema sa nerbiyos, mga sakit sa endocrine, nga moresulta sa daghang mga sakit sa tiyan ug sa kakapoy sa kaisipan.",
+  "favoriteslist": "Ilista ang akong mga Paborito",
+  "FAVORITES_NO": "Wala pa nimo nadugang ang mga doktor sa listahan sa imong mga paborito",
+  "FAVORITES_NO_PHARMACIES": "Wala ka makadugang sa bisan unsang botika sa listahan sa imong mga paborito",
+  "FAVORITES_SECTION_SUBTITLE": "I-klik ang matag butang aron makita ang mga detalye",
+  "FAVORITES_SECTION_TITLE": "Ang imong paborito nga mga doktor",
+  "FAVORITES_TITLE": "Mga Paborito",
+  "favourite_pharmacy": "Mga parmasya",
+  "FEE": "Pagdumala Mga Bayad",
+  "FEET": "mga tiil",
+  "female": "Babaye",
+  "fileloaded": "Gikuha ang file",
+  "fileloaded1": "Malampuson nga Naka-upload",
+  "fileName": "File Name",
+  "filenotfound": "Dili makita ang file",
+  "file_upload_instruction": "Pag-upload instruction",
+  "filldate": "Palihug, pagpili og petsa",
+  "filldoctor": "Palihug, pagpili og doktor",
+  "fillpeciality": "Palihug, pagpili og espesyalidad",
+  "fillthebox": "Pun-a ang kahon",
+  "fill_indication": "Palihug, pun-a ang pahayag nga natad",
+  "fill_indication_for": "Palihug itakda ang timailhan alang",
+  "fill_quantity": "Palihug, pun-a ang gidaghanon nga natad",
+  "fill_quantity_for": "Palihug itakda ang gidaghanon alang",
+  "fill_your_doubt": "Palihug, paghatag og paghulagway sa kahon sa ibabaw.",
+  "filter": "Isulat",
+  "finddoctor": "Pangita sa mga doktor",
+  "findFarmacia": "Pagpangita Pharmacy",
+  "findpatient": "Pangita ang pasyente",
+  "findspcialist": "Pangita usa ka espesyalista",
+  "findStruttura": "Pangitaa ang Istruktura",
+  "finduser": "Pangita ang tiggamit",
+  "FIND_A_DOCTOR": "Sumpaysumpaya ang usa ka doktor",
+  "find_device": "Pangitag Himan",
+  "FIND_THE_BRACELET": "Pangitaa ang Pulseras",
+  "fingerprint_btn": "Pag-login sa pag-fingerprint",
+  "fingerprint_hint": "I-confirm ang fingerprint aron magpadayon",
+  "fingerprint_hint2": "I-confirm ang fingerprint aron magpadayon",
+  "fingerprint_question": "Buot ka bang mo-activate ang pag-authentic sa fingerprint?",
+  "FIRMWARE_UPDATE": "Firmware Update",
+  "FIRMWARE_UPDATED": "Gi-update ang firmware",
+  "firstName": "Unang Ngalan",
+  "five_min": "Sa 5 minutos",
+  "fixappointment": "Gusto ka bang mag-iskedyul niini nga pagtudlo?",
+  "forever": "Hangtud sa kahangturan",
+  "forgotPassword": "Nakalimtan ang imong password?",
+  "forgot_password": "Nakalimtan ang Password?",
+  "forma": "Matang",
+  "formafarmaco": "Porma sa Medisina",
+  "formatError": "Ang presyo kinahanglan usa ka numero sa kantidad.",
+  "found_devices": "Ang nakit-an nga mga aparato",
+  "FRIDAY": "Biyernes",
+  "GENDER": "Gender",
+  "gender1": "Gender",
+  "general": "General",
+  "generalInfo": "Kinatibuk-ang impormasyon",
+  "genericName": "Generic Name",
+  "GENERIC_ERROR": "OOps! Adunay usa ka butang nga sayop. Palihug, sulayi pag-usab sa ulahi",
+  "geneticTest": "Genetic Test",
+  "geneticTestHeader2": "Pinaagi sa mga pagsulay sa henetika mahibal-an nimo ang dugang mahitungod sa imong panglawas ug buhaton ang husto nga butang aron magpabilin nga himsog.",
+  "geneticTestHeader3": "Giunsa kini pagtrabaho",
+  "geneticTestProduct": "Nutritional Profile",
+  "geneticTestRequestBtn": "Pangayo alang sa pagsulay",
+  "geneticTestRequestSuccess": "Ang imong order nakumpirma na. Ikaw makadawat sa kit nga direkta sa balay",
+  "geneticTestSection1": "Gusto ba nimo karon kung ang pagkaon nga igo alang sa imong lawas ug sa imong metabolismo?",
+  "geneticTestSection2": "Gusto ka bang mahibal-an kung ang mas himsog nga pagkaon alang sa imong lawas dili magpameligro sa mga sakit nga pirme?",
+  "geneticTestSection3": "Ang pag-eksamin sa nutrisyon magpahibalo kanimo sa link tali sa imong DNA ug pagkaon.",
+  "geneticTestSection4": "Idugang dinhi ang imong numero sa telepono ug ang adres nga imong gusto nga madawat ang kit",
+  "geneticTestStep1": "1. Pag-order sa imong pagsulay",
+  "geneticTestStep1Subtitle": "Himoa ang imong order uban sa app ug modawat sa kit nga direkta sa balay.",
+  "geneticTestStep2Subtitle": "Dad-a ang sample ug ipadala kami pinaagi sa serbisyo sa koreo gamit ang sobre nga among ihatag kanimo.",
+  "geneticTestStep3": "3. Pagbaton sa mga resulta",
+  "geneticTestStep3Subtitle": "Human sa pipila ka semana makadawat ka og usa ka mensahe nga nagpahibalo kanimo nga ang mga resulta sa genetic test mahimong makuha sa App.",
+  "geneticTestTitle": "Genetic Test",
+  "GLUCOMETER": "Glucometer",
+  "glucosio": "Glucose",
+  "HAND_BRIGHTEN": "Ipataas ang imong Kamot sa Pagpasanag",
+  "happiness": "Kalipay",
+  "HDL": "Kolesterol sa HDL",
+  "hdl_cholesterol_desc": "Ang high-density lipoprotein (HDL) nga kolesterol nailhan nga kolesterol nga &#39;maayo&#39;. Ang mosunud nga lamesa nagpakita sa lahi sa mga mithi.",
+  "healthtips": "Mga panglawas",
+  "HEALTH_INDEX": "Panglawas",
+  "HEALTH_INDEX_DESCRIPTION": "Ang HRV index sa panglawas mao ang pag-analisa sa average heart rate HR ug ang heart rate variability HRV ug uban pang mga parameter, base sa real-time nga pagsukod sa resulta sa Holter aron pag-analisar sa mga panglawas sa lawas nga panglawas, ang index sa panglawas misaka, nga nagrepresentar sa kahimsog sa lawas mas maayo; Ang index sa panglawas mikunhod, alang sa lawas Kinahanglan nga mohatag pagtagad sa inadlaw nga himsog nga kinabuhi.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Kasingkasing",
+  "HEART_INDEX_DESCRIPTION": "Gitandi sa mga Gumagamit sa Cardiak ang kahimtang sa kasingkasing sa usa ka tawo, ug ang ilang pasundayag lahi tungod sa nagkalainlaing lebel sa gugma alang sa kasingkasing ug sa kinatibuk-ang kahimtang sa panglawas. Aron maugmad ang usa ka himsog nga pamaagi sa pagkinabuhi ug mga batasan sa pagkaon: ang makatarunganon nga estratehiya nga magamit ang kasingkasing sa pagpugos sa puso nga calcium sodium supplement, aron mapanalipdan ang mga ugat sa dugo, aktibo nga makapugong sa paglungtad sa sakit sa kasingkasing, mao ang pagpalig-on sa estratehiya sa function sa kasingkasing.",
+  "height": "Gitas-on",
+  "height1": "Ang gitas-on gikinahanglan alang sa tukmang pagkalkula sa BMI",
+  "heightUnit": "Yunit sa Kahitas-an",
+  "hepaticFunction": "Function sa Hepatic",
+  "hide": "Tagoi",
+  "high1": "Taas",
+  "high_risk": "Taas nga risgo",
+  "history": "Kasaysayan sa Konsultasyon",
+  "homepage": "Panimalay",
+  "HOME_WARNING_MESSAGE": "Sigurado ka ba nga gusto ka magpalayo gikan niining panira? Ang imong pag-usab mahimong mawala.",
+  "hormonalTest": "Pagsulay sa Function sa Hormonal",
+  "hospDate": "Hosp.date",
+  "hospit": "Naospital alang sa",
+  "hospital": "Hospital",
+  "hospitalization": "Pag-ospital",
+  "hour": "Oras",
+  "hours": "Mga oras",
+  "HOURS_BANK_DONATE_BTN": "Donate",
+  "HOURS_BANK_DONATION": "Mga oras nga gidonar karon:",
+  "HOURS_BANK_H": "Oras nga Bangko:",
+  "HOURS_BANK_SECTION_P1": "Ang panglawas mao ang among prayoridad sa SaluberMD ug kami gusto nga magsilbi nga daghang mga tawo kutob sa mahimo. Pinaagi sa among plataporma, ginahimo namo kini nga posible alang sa mga nanginahanglan nga makaangkon sa pag-atiman sa panglawas. Ang among outreach team komitado sa paghatag og mga oportunidad sa pag-atiman sa panglawas sa mga organisasyon, mga indibidwal ug mga pamilya nga nanginahanglan.",
+  "HOURS_BANK_SECTION_P2": "I-klik lang ang link sa kon pila ka oras nga gusto nimo nga idonar ug among idugang kini sa among bangko.",
+  "HOURS_BANK_SECTION_P3": "Makigkita kami kanimo pinaagi sa app aron sa pagtubos sa mga oras ug kung ikaw anaa anaa sa pag-klik sa pagdawat aron makakita sa mga pasyente.",
+  "HOURS_BANK_SECTION_TITLE": "Apil kami sa paghatag sa gasa sa panglawas!",
+  "HOURS_BANK_TITLE": "Hours Bank",
+  "howto": "Unsaon",
+  "howto1": "Ang anaa nga mga slots ginganlan og usa ka green nga bola",
+  "howto2": "Pagpili og usa ka selula nga adunay berdeng bola ug i-klik kini aron mapalapdan ug pilion ang oras. Kung ikaw andam na sa pag-click sa simbolo sa lapis aron makita ang detalye ug kuhaon ang appointment",
+  "howToPrice": "Ang presyo kinahanglan nga usa ka numero nga kantidad. Sa kadaghanan sa duha nga kantidad nga desimal gitugot. Ang tuldok o komma mahimong gamiton nga mga magbulag",
+  "hrv_buono": "Maayo",
+  "hrv_eccellente": "Maayo kaayo",
+  "hrv_generale": "General",
+  "hr_alta": "Labaw pa kay sa 100",
+  "hr_bassa": "Ubos sa 60",
+  "HR_DESCRIPTION": "Reference table sa normal nga rate sa pagpahulay sa kasingkasing",
+  "HR_INTERVAL": "Pag-agi sa Sukod sa HR",
+  "hr_normale": "Tali sa 60 ug 100",
+  "hsh": "Hospitalisasyon ug Kasaysayan sa Pag-opera",
+  "IBAN": "IBAN",
+  "idx": "Pag-indeks",
+  "image": "Image",
+  "images": "Mga larawan",
+  "immunization": "Pagbakunahan",
+  "immunizationmenu": "Pagbakunahan",
+  "importhealth": "Pag-import sa Data sa Panglawas",
+  "impossible_transfer": "Imposible nga ibalhin ang Tawag",
+  "INCH": "Inch",
+  "indexes": "Pag-indeks",
+  "indication": "Indikasyon",
+  "INFO_BTN": "Info",
+  "info_salvate": "Ang datos naluwas",
+  "iniezione": "Injection",
+  "initiative": "Initiative",
+  "initiativeerror": "Palihug, pagpili og usa ka inisyatibo",
+  "insert": "Pagsulod",
+  "inserttext": "Pagsulod sa teksto dinhi",
+  "insert_otp_code": "Isulud ang code dinhi",
+  "internet_missing": "Dili ka konektado sa internet",
+  "invalidemail": "Dili tinuod nga email address",
+  "invoice": "Invoice",
+  "irregulartest": "Dili Eksaktong Pagsulay",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Pagsulay sa Function sa Kidney",
+  "labtesting": "Network",
+  "LANGUAGE": "Pinulongan",
+  "LANGUAGE_TYPE": "Pinulongan",
+  "lastmeasure": "Katapusang sukod",
+  "lastName": "Last Name",
+  "lastPhysical": "Last Physical",
+  "lastSync": "Katapusan nga Pag-sync",
+  "lastTimeOnline": "Last Time Online",
+  "lastvisit": "Last visit",
+  "last_login_date": "Last Login Date",
+  "last_time_taken": "Katapusang higayon gikuha",
+  "LDL": "LDL Kolesterol",
+  "ldl_cholesterol_desc": "Ang LDL, o low-density lipoprotein, mao ang &#39;daotan&#39; nga kolesterol. Ang mosunud nga lamesa nagpakita sa lahi sa mga mithi",
+  "leggero": "Kahayag",
+  "LICENSE_NUMBER": "License number",
+  "LIGHT_SLEEP_TIME": "Kahayag nga Pagkatulog",
+  "listcall": "Listahan sa videocall",
+  "litri": "Liter",
+  "liverExam": "Pagsulay sa Function sa Atay",
+  "LIVE_ECG": "Bag-ong sukod",
+  "live_ecg_downloading": "Pag-download sa ECG. Palihog hulat...",
+  "loadEcgList": "Nag-load sa lista sa EKG ...",
+  "loading": "Loading data ...",
+  "loading1": "Loading ...",
+  "loading_list": "Naglista sa listahan ...",
+  "loading_list_nutritionist": "Nag-load sa mga nutrisyonista ...",
+  "LOAD_INDEX": "Bayad",
+  "LOAD_INDEX_DESCRIPTION": "Degree and fatigue, stress Ang komprehensibong konsiderasyon sa lawas nga nagdala sa load index, nagpakita sa pisikal ug sikolohikal nga aspeto sa mga tawo nga nagdala sa sitwasyon sa luwan. External nga sosyal, kinabuhi ug kompetisyon ug uban pang mga hinungdan, apan usab sa ilang kaugalingong pisikal nga kahimtang ug mental nga kahimtang.",
+  "LOAD_ITEMS": "Loading ...",
+  "LOGGING_IN": "Pag-log in ...",
+  "LOGGING_OUT": "Pag-log out ...",
+  "LOGIN_BTN": "Sulod",
+  "LOGIN_ERROR": "Sayop nga Username o Pasword",
+  "Logout": "Pag-log out",
+  "logout1": "Pag-log out",
+  "LOGOUT_BTN": "Pag-log out",
+  "low1": "Ubos",
+  "lunch": "Paniudto",
+  "lungtest": "Maghimo kita og test sa baga",
+  "M": "Lalaki",
+  "male": "Lalaki",
+  "manageapp": "Pagdumala sa mga pagtudlo",
+  "manageslot": "Pagdumala sa libre nga puwang",
+  "MANAGE_CORX": "Pagdumala sa Corx",
+  "mandatoryDays": "Palihug, ipasabut ang gidaghanon sa mga adlaw",
+  "mandatoryfield": "Palihug, pun-a ang tanang kinahanglanon nga kaumahan",
+  "map": "Mapa",
+  "max_file_size": "Ang gidak-on sa file kinahanglan dili moubos sa",
+  "meals": "Mga pagkaon",
+  "medicalconsultation": "Konsultasyon",
+  "medicalfile": "Mga larawan",
+  "medicalform": "Mga Porma sa Medisina",
+  "medicalforms": "Mga Porma sa Medisina",
+  "medicalinfo": "Medical Info",
+  "medicalrecord": "Medical Record",
+  "medical_2option": "Medical Second Opinion",
+  "MEDICAL_CERTIFICATE": "Medikal nga Sertipiko",
+  "MEDICAL_FILE_BTN": "Medical File",
+  "medication": "Medisina",
+  "medication_name": "Ngalan sa tambal",
+  "medicinereminders": "Ang akong tambal Pahinumdom",
+  "medio": "Medium",
+  "medium1": "Medium",
+  "message": "Mensahe",
+  "messagesent": "Malampuson nga gipadala ang mensahe",
+  "metabolismTest": "Mga Pagsulay sa Metabolismo",
+  "method": "Pamaagi",
+  "METRIC": "Metric",
+  "middedcall2": "Duna kay wala&#39;y tubag nga tawag",
+  "minutes": "mga minuto",
+  "missedcall": "SaluberMd Wala&#39;y videocall",
+  "missedcall1": "Nawagtang nga Tawag",
+  "missedNotiAlert": "Adunay ka pipila ka gimingawon nga mga pahibalo.",
+  "misurazioni": "Mga rekord",
+  "misure": "Sukdanan",
+  "mobile": "Mobile",
+  "mobile_required": "Palihug, idugang ang imong numero sa telepono aron kami makontak kanimo aron makigsabut.",
+  "moderate_risk": "Kasarangan nga peligro",
+  "MONDAY": "Lunes",
+  "month": "Bulan",
+  "mood": "Mood grupo",
+  "moodDescription": "Usa ka mahinungdanong timailhan sa kahimtang sa emosyon sa usa ka mamumulong atol sa pag-analisar nga seksyon sa tingog. Ang API naghimo sa total nga 11 nga mga grupo sa mood gikan sa kasuko, kamingaw ug pagkontrol sa kaugalingon ngadto sa kalipay ug kahinam.",
+  "moreDays": "Dugang nga mga adlaw",
+  "motivazione": "Pangatarungan",
+  "MRGraph": "Ang medisina gikuha ang kasaysayan",
+  "msgAppointment": "Ang pagtudlo malampuson nga natakda. Makita nimo ang imong appointment sa seksyon sa mga benepisyo sa concierge.",
+  "msgsurveysent": "Malampusong gipadala ang survey",
+  "msg_call_reconnection": "Pagsulay sa pag-reconnect ...",
+  "MSG_CALL_TRANSFERED": "Malampusong gibalhin ang videocall",
+  "MSG_CHOOSE_OPTION": "Palihug, pagpili og kapilian",
+  "MSG_CHOOSE_OPTION4": "Pagpili og usa ka kapilian",
+  "MSG_CHOOSE_OPTION5": "Ihulagway ang imong pamahaw",
+  "MSG_CHOOSE_OPTION6": "Ihulagway ang imong panihapon",
+  "MSG_CHOOSE_OPTION7": "Ihulagway ang imong paniudto",
+  "MSG_CHOOSE_OPTION8": "Ihulagway ang imong mga snaks",
+  "MSG_CHOOSE_OPTION9": "Palihug, tubaga ang tanang mga pangutana",
+  "MSG_CHOOSE_OPTION_2": "Palihug, isulat ang usa ka paghulagway",
+  "MSG_CHOOSE_OPTION_3": "Pilia labing menos usa ka kapilian",
+  "MSG_COMPLETE_PROFILE": "Gusto ka bang moadto karon?",
+  "MSG_CONFIRM_EMAIL": "Palihug, kumpirma ang imong email",
+  "MSG_CONFIRM_EMAIL_TEXT": "Gipadala namon nimo ang usa ka email nga may instruksyon kon unsaon pagkumpirmar sa imong email address. Palihug susiha ang imong inbox.",
+  "msg_connected": "Malampuson nga Konektado",
+  "MSG_CONTACT_SUCCESS": "Salamat sa imong pagpasakop.",
+  "MSG_DOC_ENDED_CALL": "Gitapos sa doktor ang tawag",
+  "MSG_DOC_WAITING_CALL": "Ang Doktor nahunong na, naghulat nga makigkita pag-usab",
+  "MSG_DONATION": "Pamatud-i ang imong donasyon?",
+  "MSG_DONATION_CONFIRM": "Salamat sa imong donasyon",
+  "MSG_ERROR_FILL_BOXES": "Palihug isulat ang mga kahon nga may husto nga mga bili",
+  "MSG_FILL_ALL_BOXES": "Palihug, sulati ang tanang mga kahon",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Palihug pagkompleto sa tanan nga mosunod nga mga natad",
+  "MSG_FILL_BOXES": "Palihug isulat ang mga kahon",
+  "MSG_FILL_BOXES_ALL": "Palihug, pun-a ang tanan nga mga umahan",
+  "MSG_FILL_BOXES_PROFILE": "Palihug, pun-a ang tanang mga kahon nga gimarkahan sa usa ka bituon",
+  "MSG_GENERIC_ERROR": "Palihug susiha ang imong koneksyon sa internet aron sa pagpadayon.",
+  "MSG_GENERIC_FORM_ERROR": "Palihog ayuhon ang sayup nga magpadayon",
+  "MSG_LOGIN_ERROR": "Ang pag-login napakyas. Palihug susiha ang imong kredensyal ug siguroha nga ikaw konektado sa network.",
+  "MSG_LOGIN_ERROR_LOCKED": "Ang pag-login napakyas: ang imong account temporaryo nga naka-lock. Palihug usba sa ulahi.",
+  "MSG_MANDATORY_OPTION": "Kinahanglan nga awtorisahan mo ang doktor aron makita ang Medical File",
+  "MSG_NO_DOCTORS_FOUND": "Kami apolozie, apan walay mga doktor nga nakit-an. Pagpangita Pangitaa ang doktor aron sa pagpadayon",
+  "MSG_PATIENT_CANCELED_CALL": "Gikanselar sa pasyente ang tawag.",
+  "MSG_PATIENT_ENDED_CALL": "Gitapos sa pasyente ang tawag",
+  "MSG_PATIENT_WAITING_CALL": "Ang Pasyente wala&#39;y koneksyon, nagpaabut nga makigkita pag-usab",
+  "MSG_POST_CALL_CANCEL": "Gitapos nimo ang pagbisita sa dili pa magsugod ang videocall!",
+  "MSG_POST_CALL_DOCTOR": "Ang kinatibuk-ang gipadala ikaw mobalik sa homepage",
+  "MSG_POST_CALL_PATIENT": "Salamat sa paggamit sa SaluberMD. Makadawat ka ug mosunod nga email. Sa paglantaw sa mga detalye mahitungod sa imong pagbisita, palihog duawon ang My Profile-Visit History",
+  "msg_reconnection_error": "Gikuha ang device. Palihug, i-reconnect ang device",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Salamat .... adunay tawo nga makigkita kanimo",
+  "MSG_REGISTRATION_SUCCESS": "Malampuson ang imong pagrehistro",
+  "msg_req_videocall1": "anaa alang sa videocall sa:",
+  "msg_req_videocall2": "Andam na ang pagsugod sa videocall. Pag-klik sa kini nga pagpahibalo aron ma-activate ang videocall",
+  "msg_req_videocall3": "anaa na sa videocall karon. Pag-klik sa kini nga pagpahibalo aron ma-activate ang videocall",
+  "MSG_RESET_REQUEST_ERROR": "Ang tiggamit niini nga username o email address wala maglungtad.",
+  "MSG_RESET_REQUEST_SUCCESS": "Makadawat ka dayon sa usa ka email nga adunay sulod nga link aron ma-reset ang password.",
+  "MSG_RESUME_CALL": "Duna ka&#39;y ​​tawag, buot ba nimong ipadayon kini?",
+  "MSG_SCHOOL_MISSING": "Pagsulod sa Tunghaan",
+  "MSG_SELECT_TIMEZONE": "Pagpili og timezone",
+  "MSG_SIGNATURE_MISSING": "Palihug pun-a ang imong pirma, kung dili ikaw dili makapadala sa bisan unsang mga reseta.",
+  "MSG_THANKING": "Salamat sa imong pagpasakop.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Nawala nga koneksyon. Mahimo kini tungod sa imong koneksyon sa internet",
+  "MSG_WELCOME_BACK": "Maayong pagbalik",
+  "MSG_YEAR_PRACTISE": "Pagsulod sa Tuig sa Pagpraktis",
+  "muscles": "Mga kaunuran",
+  "myappointment": "Akong mga pagtudlo",
+  "MYFILE_NOFILE": "Wala ka pay mga file",
+  "MYFILE_SECTION": "Ang imong mga file",
+  "MYFILE_SUBTITLE": "I-klik ang matag butang aron makita ang sulod sa file",
+  "MYFILE_TITLE": "My Files",
+  "myprofile": "Ang akong Profile",
+  "myreminders": "Akong Mga Pahinumdom",
+  "MY_TICKETS": "Ang imong mga tiket",
+  "M_SCHOOL": "Medical School",
+  "N": "Dili",
+  "name": "Ngalan",
+  "negative": "Negatibo",
+  "nervous": "Gikulbaan",
+  "nessun_appuntamento": "Walay nangagi nga mga pagtudlo",
+  "NETWORK_CHECK_MSG": "Ang imong bandwidth gamay kaayo. Ang pag-play sa sulod nga ubos ang bandwidth makapahunong sa video.",
+  "NETWORK_CHECK_TITLE": "Tawga ang Pagsulay sa Kalidad",
+  "NETWORK_ERROR": "Koneksyon sa Internet. Sulayi pag-usab",
+  "neutral": "Neutral",
+  "newappointment": "Bag-o nga pagtudlo gikan sa",
+  "newass": "Pagdugang og bag-ong asosasyon",
+  "NEWPWD_CONFIRM": "Malampuson na ang pasword. Palihug pag-login pag-usab.",
+  "NEWPWD_CONFIRM2": "Nausab ang pasword",
+  "NEWPWD_ERROR": "Dili bag-o ang bag-ong password.",
+  "newtest": "Ipadayon ang dugang nga button aron makahimo og bag-ong pagsulay.",
+  "NEW_PWD": "Bag-ong pasword",
+  "new_ticket": "Bag-ong Tiket",
+  "NEXT": "Sunod",
+  "no": "Dili",
+  "noAlarm": "Walay natago nga alarm",
+  "noallergies": "Wala&#39;y mga alerdyi nga nalista.",
+  "noapatient": "Walay pasyente nga nakaplagan",
+  "noappointment": "Walay iskedyul nga gitakda",
+  "noappointments": "Walay petsa nga adunay kini nga doktor",
+  "noappointments1": "Walay petsa nga anaa uban niining nutritionist",
+  "noAppoPat": "Wala’y gitudlo nga lista",
+  "noarticles": "Walay mga artikulo sa nutrisyon",
+  "noassociatedpatient": "Wala ka pa gihapo nga pasensya",
+  "noattachment": "Palihug, pagpili og kasuod",
+  "noattachment1": "Walay Attachment",
+  "noavailableoption": "Walay kapilian nga makuha",
+  "nocomment": "Walay mga komentaryo / reccomendation",
+  "noconsulenze": "Walay mga pagbisita",
+  "nocorxfound": "Wala&#39;y nakita nga CORX",
+  "nodata": "Walay datos",
+  "nodependency": "Walay mga dependency nga nalista.",
+  "nodesease": "Wala&#39;y mga sakit nga nalista.",
+  "nodevice": "Walay nakaplagan nga device, palihug usba",
+  "nodoctor": "Wala&#39;y nakita nga mga doktor",
+  "nodoctors": "Walay doktor nga magamit",
+  "noDocuments": "Walay mga dokumento nga na-upload",
+  "nodrugselected": "Wala ka gipili nga droga",
+  "noecg": "Wala gilista ang ECG",
+  "noexam": "Wala’y pasundayag nga ipakita",
+  "nofiles": "Walay mga file nga gi-upload sa pasyente",
+  "noHistory": "Walay mga konsultasyon sa pagkakaron",
+  "nohsh": "Wala&#39;y listahan sa mga ospital.",
+  "noimages": "Walay kasuod sa pagkakaron",
+  "noimmunization": "Wala&#39;y mga bakuna nga nalista.",
+  "nolabtest": "Walay nakitang mga eksaminasyon sa lab",
+  "nomedication": "Wala&#39;y mga tambal nga nalista.",
+  "nomisure": "Walay sukod",
+  "nonterminata": "Tawga nga Dili Matagumpay",
+  "nonutritionist": "Dili available ang Nutritionist",
+  "nonuvoair": "Walay device nga nakit-an",
+  "nopharmacy": "Wala&#39;y nakita nga mga botika",
+  "noprescription": "Walay mga reseta sa pagkakaron",
+  "noprothesis": "Walay mga prosthesis o mga Medical aid nga gilista.",
+  "noreferrals": "Wala&#39;y gitala nga mga referral",
+  "noreminders": "Wala kay mga pahinumdom alang karon",
+  "noresults": "Wala&#39;y mga resulta",
+  "normale": "Normal",
+  "normalrange": "Ang Sakop sa Normality",
+  "normalWeight": "Normal nga timbang",
+  "nosintomi": "Walay sintomas nga napili",
+  "nospecialist": "Walay mga espesyalista",
+  "note": "Mga nota",
+  "notests": "Wala&#39;y dili regular nga mga pagsulay nga nalista.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "I-klik dinhi aron tapuson ang imong medikal nga file",
+  "NOTIFICATIONS_SECTION": "Ang imong mga pahibalo",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Dawata ang 1 nga libre nga konsultasyon o tawag sa pagtubag sa panglawas human makompleto ang imong medikal nga file.",
+  "NOTIFICATIONS_SETTINGS": "Paghatag mga Notipikasyon",
+  "NOTIFICATIONS_TITLE": "Mga abiso",
+  "notification_setting": "Pagpili gikan sa kategoryang gusto nimo nga makadawat sa mga pahibalo",
+  "notimage": "Ang file dili usa ka hulagway: Ang BMP, GIF, JPG ug PNG lamang ang gitugot",
+  "notNow": "Dili karon",
+  "notnow_btn": "Dili karon",
+  "nouser": "Walay gipangita nga user",
+  "novantad": "Katapusang 90 ka adlaw",
+  "novideocall": "Walay videocall nga makita",
+  "novisit": "Wala ka&#39;y ​​pasensya nga mga pagbisita pa",
+  "noWellnessData": "Walay Bag-ong Data sa Kaayohan",
+  "no_certificate": "Wala’y sertipiko nga nakalista",
+  "no_chiosc_data": "Wala’y labot nga pagsulay sa lab",
+  "NO_DATA": "Walay datos",
+  "no_doctor_answer1": "Walay mga doktor nga anaa karon.",
+  "no_doctor_answer2": "Mahimo ka makigkita pinaagi sa pag-klik sa button sa ubos.",
+  "NO_GENETIC_TEST_REQUESTS": "Wala ka mangayo bisan unsang pagsulay sa genetic",
+  "NO_MSG": "Wala gipadala nga mensahe",
+  "no_notifications": "Wala kay pahibalo",
+  "no_prescription_download": "Wala&#39;y reseta nga may kalabutan niini nga konsultasyon",
+  "no_pull_answer": "Walay doktor nga magamit karon.",
+  "no_referral_download": "Walay referral nga may kalabutan niini nga pagbisita",
+  "NO_SECOND_OP_REQUESTS": "Wala ka&#39;y hangyo alang sa Ikaduhang Opinion Service",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Wala&#39;y nakaplagan nga espesyalista",
+  "NO_TICKETS_SENT": "Wala’y gipadala nga mga tiket",
+  "NO_USER_FOUND": "Ang username o Email dili makita",
+  "NPI": "NPI",
+  "ns": "Sistema sa Nerbiyos",
+  "numberNotSaved": "Sayop samtang nagtipig sa gidaghanon",
+  "numberSaved": "Gipalagpot nga Malampuson",
+  "nuovoair_connected": "Konektado",
+  "nuovoair_disconnected": "Gisalikway",
+  "nutriPen": "Hangyo nga hangyo",
+  "nutriRev": "Giusab ang pangutana",
+  "nutrition": "nutrisyon",
+  "nutritionist": "Pakigsulti sa usa ka nutrionist",
+  "NUTRITIONIST_Q1": "Mga Tumong sa Primary: (Susiha ang tanan nga Maggamit)",
+  "NUTRITIONIST_Q10": "Mamatikdan ka ba nga masuk-anon, ang kahayag o ang kahuyang kon wala ka makakaon?",
+  "NUTRITIONIST_Q11": "Current Exercise nga regimen: (Cardio, Resistance, Etc.)",
+  "NUTRITIONIST_Q12": "Naga-aso ka ba ?: (Kon oo, unsa ka sagad ug unsa ka daghan?)",
+  "NUTRITIONIST_Q13": "Nag-inom ka ba sa Alkoholikong Pag-inom ?: (Kon oo, unsa ka subsob ug unsa ka daghan?)",
+  "NUTRITIONIST_Q14": "Nag-inom ka ba sa Caffeine ?: (Kon oo, unsa ka subsob ug unsa ka daghan?)",
+  "NUTRITIONIST_Q15": "Petsa sa Katapusan nga Pisikal:",
+  "NUTRITIONIST_Q16": "Pila ka beses ka nga gireseta nga antibiotics sa miaging 2 ka tuig:",
+  "NUTRITIONIST_Q16_BIS": "Kon mao, Unsa nga mga ug kung unsa ka sagad, (Palihug isip piho nga kutob sa mahimo.)",
+  "NUTRITIONIST_Q17": "Nagdala ka ba og mga tambal? (OTC o Reseta?) Kon mao, unsa nga mga ug ikaw adunay mga suplemento? Kon mao, unsa ka sagad, (Palihug isip piho nga posible.)",
+  "NUTRITIONIST_Q18": "Nagbubo ka na ba o nagkadaghan sa 1-2 ka adlaw sa usa ka semana?",
+  "NUTRITIONIST_Q19": "Aduna ka bay mga isyu sa mosunod nga mga lugar? Kung oo, palihug ihulagway ang imong mga isyu sa detalye sa mga luna nga gihatag.",
+  "NUTRITIONIST_Q2": "Gibanabana kung pila ka mga pagkaon ang imong gikaon sa usa ka adlaw? (Pilia ang Usa)",
+  "NUTRITIONIST_Q3": "Unsa ang Imong Pag-andam sa Adlaw nga Igpapahulay, ug unsang oras:",
+  "NUTRITIONIST_Q4": "Unsa ang Imong Talagsaon nga Panihapon nga Gilangkuban, ug unsang oras:",
+  "NUTRITIONIST_Q5": "Unsa ang Imong Gikaon sa Panihapon, ug unsang oras:",
+  "NUTRITIONIST_Q6": "Unsa man ang Imong Mga Tipik nga Mga Snake Maylabot, ug unsa nga oras (s):",
+  "NUTRITIONIST_Q7": "Nagmata Ka ba?",
+  "NUTRITIONIST_Q8": "Unsa nga mga pagkaon ang imong tambagan ug sobra ka daghang pagkaon:",
+  "NUTRITIONIST_Q9": "Aduna ka bay alerdyi sa pagkaon, mga pagdili o mga sensitibo:",
+  "NUTRITIONIST_SUB1": "Pagkawala sa Timbang",
+  "NUTRITIONIST_SUB10": "Pagduka / Pagsuka",
+  "NUTRITIONIST_SUB11": "Kasakit sa tiyan",
+  "NUTRITIONIST_SUB2": "Timbang nga Makuha",
+  "NUTRITIONIST_SUB3": "Energy / kakapoy",
+  "NUTRITIONIST_SUB4": "Mas maayo nga pagkatulog",
+  "NUTRITIONIST_SUB5": "Mga Isyu sa Digest",
+  "NUTRITIONIST_SUB6": "Pagkanindot",
+  "NUTRITIONIST_SUB7": "Diarrhea",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Bloating / Gas",
+  "nutrition_mail": "Nalakip didto ang taho sa nutrisyonista",
+  "nutrition_mail2": "Ang nutrisyonista nagpadala kanimo og usa ka file",
+  "nutrition_questionnaire": "nutrisyon nga pangutana",
+  "nvisit": "Gidaghanon sa mga videocalls nga gihimo",
+  "obesity1": "Tambal",
+  "obesity2": "Hilabihan ka tambok",
+  "obesity3": "Morbidly katambok",
+  "OFFICE_ADDRESS": "Address sa opisina",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Ang doktor ingon ka offline, palihug sulayi kini sa ulahi",
+  "OLDPWD_ERROR": "Ang bag-ong password maoy katumbas sa daan nga password.",
+  "OLD_PASSWORD_WRONG": "Ang daan nga password sayup",
+  "OLD_PWD": "Daan nga pasword",
+  "oneDay": "Usa ka adlaw",
+  "one_min": "Sa 1 minutos",
+  "online": "Online",
+  "onlinedoctors": "Mga Online Doctor",
+  "openimage": "I-klik ang larawan aron mabuksan sa bug-os nga screen",
+  "open_ticket": "Pag-abli sa usa ka Ticket",
+  "orale": "Pinaagi sa Baba",
+  "other": "Ang uban",
+  "othercbc": "Uban pang mga CBC Exams",
+  "OTHER_PLACEHOLDER": "Palihug pagpili sa imong espesyalidad",
+  "otoscopy": "Otoscopy",
+  "otp_sent_msg": "Nagpadala kami kanimo usa ka code sa pag-verify sa numero sa imong telepono",
+  "OUR_PRODUCTS_SECTION": "Ang among mga himan naghatag sa tinuod nga oras sa kasayuran sa maayong panglawas ug kahimsog aron makatabang kanimo nga masubay ang imong panglawas.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Sukda ang panglawas sa imong baga sulod sa pipila ka segundo gamit ang usa ka propesyonal nga spirometer",
+  "OUR_PRODUCTS_SECTION_P1": "Ang Smart wearable nga teknolohiya nga naghatag sa tinuod nga panahon sa kasayuran sa panglawas dugang sa mga kaayuhan nga mga katuyoan",
+  "OUR_PRODUCTS_SECTION_P2": "Kaayohan sa Kaayohan / Kaayohan",
+  "OUR_PRODUCTS_SECTION_P3": "Ang imong home based diagnostic kit alang sa tibuok pamilya.",
+  "OUR_PRODUCTS_SECTION_P4": "Mga Feature",
+  "OUR_PRODUCTS_SECTION_P5": "Ang duha ka mga galamiton gihimo aron makig-uban sa app aron sa paghatag sa usa ka maayo nga bulok nga kasinatian sa panglawas. Ang imong mga resulta i-save direkta sa app.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Sukda ang imong bounce pressure sa mga segundo gamit ang usa ka propesyonal nga sphygmometer",
+  "OUR_PRODUCTS_SECTION_SCALX": "Sukda ang imong gibug-aton sulod sa pipila ka mga segundo gamit ang propesyonal nga sukdanan",
+  "OUR_PRODUCTS_TITLE": "Atong mga Produkto",
+  "overeatFoods": "Pagkaon nga sobra ra",
+  "overeating": "Naghingapin nga kalagmitan",
+  "overweight": "Sobra nga timbang",
+  "pa": "Preskripsiyon sa tabang",
+  "PASSWORD": "Sala",
+  "passwordchanged": "Malampuson nga nabag-o!",
+  "passwordExpiringMessage": "Ang imong password pag-expire sa dili madugay. Palihug usba kini karon",
+  "passwordExpiringTitle": "Ang expiration sa pasword",
+  "PATIENT": "Pasyente",
+  "patientAllergy": "Mga alerdyi",
+  "patientGeneticRequests": "Mga hangyo sa Pagsulay sa Genetic",
+  "patientinfo": "Ang impormasyon sa pasyente",
+  "patientlist": "Gilista ang mga pasyente",
+  "patientmanagement": "Mga pagdumala sa pasyente",
+  "patientProtesi": "Prosthesis",
+  "PATIENTS_NO_P": "Wala ka karon walay pasyente nga gitakda nga gitakda",
+  "PATIENTS_SECTION": "Ang imong pagtudlo",
+  "PATIENTS_SECTION_SUBTITLE": "I-klik ang matag butang aron makita ang mga detalye",
+  "PATIENTS_TITLE": "Mga pasyente",
+  "patientupdate": "Pasyente",
+  "patientvisit": "Ang pasyente mibisita sa kasaysayan",
+  "PATIENT_PROFILE_OPT1": "Ang akong profile",
+  "PATIENT_PROFILE_OPT11": "Ang akong mga Paborito Doktor",
+  "PATIENT_PROFILE_OPT12": "Idugang ang paborito nga Botika",
+  "PATIENT_PROFILE_OPT2": "Ang akong Medical File",
+  "PATIENT_PROFILE_OPT3": "Ang kasaysayan sa akong Bisita",
+  "PATIENT_PROFILE_OPT4": "Akong mga Paborito",
+  "PATIENT_PROFILE_OPT5": "My Files",
+  "PATIENT_PROFILE_OPT6": "Akong Mga Abiso",
+  "PATIENT_PROFILE_OPT7": "Pag-upload sa EKG",
+  "PATIENT_PROFILE_OPT8": "Data sa Medical Device",
+  "PATIENT_PROFILE_OPT9": "Ang akong Mga Paborito Parmasya",
+  "PATIENT_S1": "Pasyente",
+  "PATIENT_S2": "Naghisgot mahitungod",
+  "PATIENT_S3": "Pasyente nga impormasyon",
+  "PATIENT_S4": "Subject of visit",
+  "PATIENT_S5": "Mga sakit",
+  "PATIENT_S6": "Mga alerdyi",
+  "PATIENT_S7": "Mga tambal",
+  "PATIENT_S8": "Naglakip sa mga dokumento",
+  "PATIENT_S9": "Mga sintomas?",
+  "PATIENT_SUMMARY": "Sumada ang pasyente nga kasayuran",
+  "patologia": "Patolohiya",
+  "payment": "Pagbayad",
+  "PAYMENT_DETAILS": "Mga Detalye sa Bayad",
+  "PAYMENT_MESSAGE_1": "Mahimo ka nga mag-una sa usa ka kantidad nga",
+  "PAYMENT_MESSAGE_2": "Sumbong ka sa katapusan sa videocall",
+  "PAYMENT_SECTION1": "Pagpili og usa ka kard gikan sa lista",
+  "PAYMENT_SECTION2": "Ibutang ang mga bili sa credit card",
+  "PAYMENT_SUCCESS": "Malampuson ang pagbayad!",
+  "PAYMENT_SUCCESSFUL": "Kita adunay Malampuson nga pagtugot sa pagbayad",
+  "PAYMENT_UNSUCCESSFUL": "Ang pre-authorization payment napakyas. Susiha ang impormasyon sa imong credit card o pangutana sa imong bangko.",
+  "paziente_rimosso": "Malampuson nga nausab ang kahimtang sa pasyente",
+  "paziente_salvato": "Malampusong na-update ang pasyente",
+  "pdf_download_error": "Dili maka-download pdf. Palihug, sulayi pag-usab sa ulahi",
+  "pdf_file_error": "Ang mga file nga pdf lamang ang giangkon",
+  "period": "Panahon",
+  "PERIODIC_HEART_RATE": "Panahon sa Kasingkasing nga Rate",
+  "personal": "Personal",
+  "personalCare": "Personal nga Pag-atiman",
+  "personalinfo": "Personal nga Impormasyon",
+  "PER_MIN": "/ min",
+  "pharmacies": "Mga parmasya",
+  "PHONE": "Numero sa telepono",
+  "phone1": "Telepono",
+  "pills": "Pills",
+  "PILLS_DATE_ERROR": "Ang petsa sa pagsugod mao ang human sa katapusan nga petsa",
+  "pill_reminder_message": "Panahon na sa pagkuha sa imong mga pildoras",
+  "placeholder": "username, email o ngalan",
+  "placeOfBirth": "Dapit sa Pagkatawo",
+  "place_birth": "Lugar nga natawhan",
+  "platform": "Platform",
+  "poc": "Ang PoC",
+  "POLICY_NUMBER": "Numero sa Patakaran",
+  "positive": "Positibo",
+  "POSTCALL_DOCTOR_TITLE": "Sumaryo sa pagbisita",
+  "POSTCALL_PATIENT_TITLE": "Palihug, i-rate ang imong kasinatian",
+  "POUNDS": "libra",
+  "PRACTICE_LENGTH": "Ang gitas-on sa praktis",
+  "prenota": "Basaha karon",
+  "prenotatest": "Gikinahanglan ang usa ka appointment",
+  "preobesity": "Pre-obesity",
+  "prescription": "Reseta",
+  "prescriptiondiscounts": "Mga Discount Discounts",
+  "PRESCRIPTIONS": "Mga resiksyon",
+  "prescriptions_sent": "Gipadala ang mga presyur",
+  "prescription_mail": "Nalakip didto ang imong reseta",
+  "prescription_mail2": "Salamat sa paggamit sa SaluberMD",
+  "prescription_notification": "Minahal nga tiggamit, kami nagpahibalo kanimo nga ang imong reseta anaa na sa ubos sa seksyon sa kasaysayan sa panahon / komperensya sa app",
+  "prescription_pharmacy": "Pagpili og botika aron ipadala ang reseta",
+  "prescription_preview": "Pratipikado nga preskripsyon",
+  "prescription_sent": "Gipadala ang reseta",
+  "PRESCRIPTION_SENT_EMAIL": "Ang imong reseta gipadala sa imong email ...",
+  "prescription_subject": "Ang imong reseta",
+  "pressbutton": "Ipadayon ang pares button sa device ug i-tap ang Find Device",
+  "pressbuttonpresx": "Pindota ug kupti ang paris nga button sa luyo sa device aron masugdan ang koneksyon ug i-tap ang button find device sa app",
+  "pressbuttonscalx": "Pindota ug kupti ang paris nga button sa luyo sa device aron masugdan ang koneksyon ug i-tap ang button find device sa app",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Pagpit sa Dugo",
+  "PRESX_PROD": "PRESX",
+  "previous": "Ang una",
+  "pre_period": "Panahon sa Reseta",
+  "price": "Presyo",
+  "price_per_visit": "Bayad matag pagbisita",
+  "PRICING_SECTION1_P1": "Ang SaluberMD komitado sa paghatag og kombenyente, kalidad nga pag-atiman sa mga barato nga presyo nga walay gitago nga bayranan o bayad.",
+  "PRICING_SECTION1_P2": "Ang SaluberMD naghatag og pag-atiman asa man ug kanus-a nimo kinahanglan kini pinaagi sa usa ka pagbisita sa video nga adunay board certified physician. Ang atong mga doktor makahisgut, makasusi, ug makapaminaw sa pag-diagnose sa imong mga isyu o pagtubag lamang sa medikal nga mga pangutana ug kabalaka samtang anaa sa video call.",
+  "PRICING_SECTION1_P3": "Uban sa among eksklusibong Medicfile ikaw makahatag sa imong doktor og access sa imong kasaysayan sa medisina, ang imong mga imahe ug mga file aron sa pagtabang kanila sa paghatag sa labing epektibo nga plano sa pagtambal.",
+  "PRICING_SECTION1_TITLE": "matag pagbisita",
+  "PRICING_TITLE": "Pagpangalan",
+  "primaryConcern": "Kabalaka sa Primary",
+  "primaryMood": "Mood Primary",
+  "print": "I-print",
+  "priority": "Masunahon",
+  "PRIVACY_POLICY_TITLE": "Privacy Policy",
+  "problems": "mga problema",
+  "PROCEED_PAYMENT": "Ipadayon uban ang pagbayad",
+  "PROFESSIONAL_TITLE": "Professional Title",
+  "PROFILE_SECTION2": "Impormasyon sa Pag-kontak",
+  "protesi": "Prosthesis ug Medical aids",
+  "protesiobbligatorio": "Palihug, pagpili og type sa prosthesis",
+  "prov": "sample",
+  "publicAppUrl": "Ang imong public url alang sa appointment mao:",
+  "pulldown": "Pagdala sa pagpa-refresh",
+  "pull_request_processed": "Salamat, Gipadala namon ang imong pagkabutang sa pasyente",
+  "PWD_NOTMATCH": "Ang mga password dili parehas",
+  "P_P_Error": "Kinahanglan nimo nga dawaton ang palisiya sa pagkapribado",
+  "QUALITY_INDEX": "Kalidad",
+  "QUALITY_INDEX_DESCRIPTION": "Ang pisikal nga kabaskog mao ang ang-ang sa kalig-on ug ang stress sa kasinatian nga nakit-an sa atubangan sa abilidad sa pagpahiangay ug pagdumala sa sitwasyon. Ang physical fitness index nagpakita sa lawas sa tawo nga mopahiangay sa mga kausaban sa kalikopan ug pagdasig sa tensiyon, pagpadayon ug pagpasig-uli sa abilidad sa panglawas. Ang pisikal nga kabaskog sa kasagaran gipakita sa potensyal sa mga kinabuhi, pagkat-on, ug trabaho sa mga tawo, apan natural usab sa pisikal nga ehersisyo. Ang pisikal nga kalidad sa usa ka tawo adunay kalambigitan sa panulundon apan mas suod nga nalambigit sa naangkon nga nutrisyon ug pisikal nga ehersisyo. Pinaagi sa husto nga mga pamaagi ug tukma nga ehersisyo, mahimo niya nga mapalambo ang iyang pisikal nga kahimsog sa tanang aspeto.",
+  "quantity": "Gidaghanon",
+  "quesito": "Kabalaka",
+  "QUESTIONS_SECTION_TITLE": "Dawata ang 1 nga libre nga konsultasyon o tawag sa pagtubag sa panglawas human makompleto ang imong medikal nga file.",
+  "QUESTIONS_TITLE": "Mga pangutana",
+  "quindici": "Katapusang 15 ka pagsukod",
+  "ratio": "Ratio",
+  "reccomendation": "Pagbalik-balik",
+  "reccomendations": "Mga rekomendasyon",
+  "recommendation": "Mga rekomendasyon",
+  "RECOMMENDATIONS": "Mga rekomendasyon",
+  "RECOMMEND_SECTION_P1": "Sa SaluberMD naningkamot kami sa pagtagbo sa panginahanglan alang sa dekalidad nga pag-atiman sa panglawas sa tibuok kalibutan pinaagi sa pagtanyag sa among mga kostumer sa pag-access sa usa ka maayong grupo nga mga doktor.",
+  "RECOMMEND_SECTION_P2": "Kanunay kaming nangita alang sa kalidad nga mga Doktor aron madugang sa among maanindot nga team. Isip usa ka myembro sa among grupo, among gitahud ug gipabilhan ang imong mga referral.",
+  "RECOMMEND_SECTION_P3": "Palihug sulati ang porma sa ubos aron ipasabut ang usa ka Doktor sa SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Morekomenda ang usa ka Colleague",
+  "RECOMMEND_TITLE": "Girekomendar",
+  "record_aggiornato": "Matagumpay nga na-update ang rekord",
+  "record_aggiunto": "Matagumpay nga nadugang ang rekord",
+  "record_inserito": "Maayo nga gidugang",
+  "record_rimosso": "Matagumpay nga nakuha ang rekord",
+  "REFERRAL": "Referral",
+  "REFERRALS": "Mga referral",
+  "referrals_sent": "Mga padala nga gipadala",
+  "referral_mail": "Nalakip didto ang imong referral.",
+  "referral_sent": "Gipadala ang referral",
+  "refundrequestsent": "Ang imong hangyo gipadala",
+  "register": "Magparehistro",
+  "register_report": "Pagrehistro sa Mga Gumagamit",
+  "registration_date": "Petsa sa Pagparehistro",
+  "REGISTRATION_HEADER_DOCTOR": "Pag-apil sa team sa Saluber MD",
+  "REGISTRATION_HEADER_PATIENT": "Palihug kompletoha ang porma sa ubos ug i-press register",
+  "releaserefresh": "Pagpagawas aron sa pag-refresh",
+  "remarks": "Mga pulong",
+  "removedevice": "Buot ba nimo nga tangtangon kini nga device?",
+  "removefavorite": "Kuhaa gikan sa mga paborito?",
+  "remove_generic": "Gusto ba nimo nga kuhaon kini?",
+  "renalFunction": "Renal Function",
+  "reoccurring": "Reoccurring",
+  "repeat_email": "Kumpirmahan ang Email",
+  "report": "Personal nga clinical file: Full data report",
+  "report1": "Personal nga clinical file:",
+  "report2": "Pagbalita",
+  "reportvisite": "I-report ang mga Videocall",
+  "report_date": "Report Date",
+  "requestdate": "Hangyo sa Petsa",
+  "request_already_taken": "Kini nga hangyo gidala na sa laing doktor.",
+  "REQUEST_ERROR": "Adunay sayup samtang nagproseso sa imong mga hangyo. Susiha ang imong koneksyon sa internet o sulayi pag-usab sa ulahi.",
+  "request_sent": "Ang imong requesst malampuson nga gipadala ngadto sa backoffice",
+  "required": "Gikinahanglan kini nga umahan.",
+  "required_field": "Gikinahanglan ang Filed",
+  "RESEND_EMAIL": "Ipadala pag-usab ang code sa pagkumpirma",
+  "resetCorxFactory": "Sigurado ka ba nga gusto nimo i-reset ang Corx?",
+  "RESETPWD_BTN": "I-reset ang Password",
+  "RESET_PASSWORD": "Pagsulod sa email o username nga gigamit sa panahon sa Signup",
+  "respiratory": "Respiratory",
+  "RESPIRATORY_RATE": "Rate sa Respiratory",
+  "RESTORE_FACTORY_SETTINGS": "Ibalik ang Mga Setting sa pabrika",
+  "resultfound": "natala nga nakit-an",
+  "results": "Resulta",
+  "ricettario": "Nasud",
+  "richiediDrug": "Paghangyo nga Gamot",
+  "richiestaAppuntamento": "Paghangyo sa Pagpili",
+  "richiestaRimborso": "Paghangyo sa Refund",
+  "ricovero": "Pag-ospital",
+  "riepilogo": "Katingbanan",
+  "rightHanded": "Tuo nga Kamot",
+  "rimborso": "Pagbayad",
+  "ripetibile": "Gisubli sa (mga panahon)",
+  "rr_desc": "Ang respiratory rate mao ang gikusgon sa pagginhawa. Ang normal nga respiration rate alang sa usa ka hamtong sa pagpahulay mao ang 12 ngadto sa 20 nga gininhawa matag minuto. Ang usa ka respiration rate nga ubos sa 12 o sobra 25 ka gininhawa matag minuto samtang ang pagpahulay gikonsiderar nga abnormal",
+  "rs": "Sistema sa Respiratoryo",
+  "RUNNING_CALL_OPT1": "Ipadayon",
+  "RUNNING_CALL_OPT2": "Katapusan nga Tawag",
+  "RUNNING_CALL_TITLE": "Pagdalag tawag",
+  "sa": "Kusog nga panghimatuud",
+  "sadness": "Kasubo",
+  "sai": "Indeks sa kalihokan",
+  "sai_desc": "Ang SAI ang gipasukad sa imong kasingkasing. Usa kini ka yanong metric nga nagsubay sa tubag sa lawas sa pisikal nga kalihokan - labaw pa sa mga lakang lamang. Dili sama sa step tracking, ang SCI naghatag kredito sa matag kalihokan nga nagpataas sa dughan: ang swimming, biking, paggaod, pagsayaw, bisan unsa. Ibutang kini ubos sa 30 alang sa mas maayo ug himsog nga kinabuhi.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD pasyente",
+  "SATURDAY": "Sabado",
+  "savedinfo": "Ang impormasyon malampuson nga naluwas",
+  "SAVE_BTN": "Luwasa",
+  "SAVE_MESSAGE": "Kon mobiya ka, ang imong mga kausaban mawala",
+  "sbpi": "Index sa presyon sa dugo",
+  "sbpi_desc": "Ang taas nga presyon sa dugo mao ang silent killer. Ang imong Systolic ug Diastolic nga mga presyon sa dugo gibanabana sa bisan unsang medikal nga sesyon nga imong gihimo. Hupti ang SBPI nga ubos sa 30 aron adunay mas ubos nga kahigayonan nga mag-antus sa naghulga nga mga kahimtang sama sa stroke ug mga pag-ulbo sa dugo.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Gibug-aton",
+  "SCALX_PROD": "SCALX",
+  "scan": "I-scan",
+  "scanningcorx": "Pagpangita sa CORX ... Please Wait",
+  "schedule": "Iskedyul",
+  "scheduleAnAppointment": "Pag-eskedyul og appointment",
+  "scheduleappointment": "Ilista ang videocall sa doktor",
+  "schtime": "Gi-iskedyul nga oras",
+  "sci": "Indeks sa Cardiovascular",
+  "sci_desc": "Pinaagi sa pag-analisar sa imong pulso nga pulso sa arteriya nakuha ang mga panan-aw mahitungod sa imong cardiovascular system. Ang index sa SCI usa ka summary sa imong kardiovascular nga panglawas, naningkamot nga ibutang kini sa ubos nga 20!",
+  "sci_title": "Ang SCI",
+  "SEARCH": "Pagpangita",
+  "searchallergy": "Pagpangita alerdyi",
+  "searchdoctor": "Pagpangita sa doktor",
+  "searchfordoctor": "Susiha ang doktor pinaagi sa iyang ngalan o apelyido",
+  "searchingdevice": "Pagpangita gamit. Mahimong dugay kini",
+  "searching_avail_date": "Pagpangita sa petsa nga ...",
+  "searching_online_doctors": "Pagpangita sa online nga mga doktor sa pag-uswag ...",
+  "searchmedication": "Pangitaa ang tambal",
+  "searchpatient": "Pangita ang pasyente",
+  "searchpatologia": "Pangitaa ang medikal nga kondisyon",
+  "searchsymptom": "Pagpangita sintomas",
+  "searchuser": "Pangita nga tiggamit",
+  "search_doctor_description": "Pagpangita sa doktor alang sa username, email o ngalan",
+  "search_patient_description": "Pangita ang pasyente alang sa username, email o ngalan",
+  "search_specialization": "Pagpangita og espesyalista",
+  "search_user_description": "Pangita ang user sa username, email o apelyido",
+  "search_videocall_description": "Pagpangita sa videocall nga gihimo pinaagi sa kini",
+  "search_videocall_title": "Si Serach Videocall pinaagi sa petsa",
+  "secondaryMood": "Mood Secondary",
+  "secondOpinion": "Ikaduhang Opinion Requests",
+  "seconds": "Mga segundo",
+  "second_opinion_1": "Sayon, kasaligang access sa usa ka medikal nga ikaduha nga opinyon gikan sa nangunang mga espesyalista sa tibuok kalibutan.",
+  "second_opinion_2": "Ang atong Medical Second Opinion Service makatabang kanimo:",
+  "second_opinion_3": "Pagkuha og mga tubag sa imong mga pangutana",
+  "second_opinion_4": "Pilia ang pinakamaayo nga plano sa pagtambal",
+  "second_opinion_5": "Pagsiguro sa husto nga pagdayagnos",
+  "second_opinion_body": "Minahal nga tiggamit, <br> ang imong ikaduhang hangyo sa opsyon nakuha sa katungdanan gikan sa among mga espesyalista nga nagsulay sa mga dokumento nga imong gipadala.",
+  "second_opinion_history": "Ikaduhang Opinion Requests",
+  "second_opinion_msg": "Salamat. Ang among tigpaluyo sa panglawas moabot kanimo sulod sa mosunod nga 24 ka oras.",
+  "SECOND_OPINION_Q1": "Unsa ang gusto nimo nga makigsulti sa nutrisyonista?",
+  "second_opinion_question1": "Kinsa ang ikaduha nga opinyon?",
+  "second_opinion_question2": "Pag-upload og file",
+  "second_opinion_step1": "Pagkompleto sa usa ka mubo nga pangutana / Pag-upload sa imong mga file",
+  "second_opinion_step2": "Ang atong mga doktor motimbang-timbang sa imong mga materyales",
+  "second_opinion_step3": "Konsultasyon sa doktor aron hisgutan ang imong mga resulta",
+  "secOpChoice": "Palihug pilia kung unsang paagiha nga gusto nimong makadawat ikaduha nga opinyon",
+  "section": "Palihug, pagpili og usa ka seksyon",
+  "security": "Seguridad",
+  "seeaprovider": "Tan-awa ang usa ka Magtatagana",
+  "seecommenti": "Tan-awa ang mga Komento",
+  "seedoctor": "Tan-awa ang usa ka doktor karon",
+  "SEE_A_DOCTOR_Q1": "Kinsa kining video call?",
+  "SEE_A_DOCTOR_Q10": "Makapadala kami sa imong reseta sa pagdirekta sa botika nga imong gipili",
+  "SEE_A_DOCTOR_Q1B": "Ngalan ug petsa sa pagkatawo sa imong anak?",
+  "SEE_A_DOCTOR_Q1_A1": "Kanako",
+  "SEE_A_DOCTOR_Q1_A2": "Akong anak",
+  "SEE_A_DOCTOR_Q2": "Palihug ihulagway kung unsa ang gusto nimo nga pakigsultihan sa doktor",
+  "SEE_A_DOCTOR_Q3": "Mga sintomas?",
+  "SEE_A_DOCTOR_Q4": "Gusto ka bang maglakip sa usa ka litrato, o dokumento?",
+  "SEE_A_DOCTOR_Q4_ERROR": "ERROR: Ang mga file nga dili mosobra sa 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Pagpili og file",
+  "SEE_A_DOCTOR_Q4_S2": "Pagdala og litrato",
+  "SEE_A_DOCTOR_Q5": "Nagdala ka ba karon og bisan unsang tambal, kung mao nga palihug ilista ang ngalan",
+  "SEE_A_DOCTOR_Q5_CHILD": "Karon ba nga adunay tambal ang imong anak? kung mao palihug lista ang ngalan",
+  "SEE_A_DOCTOR_Q5_S1": "Ngalan:",
+  "SEE_A_DOCTOR_Q5_S2": "Dosis:",
+  "SEE_A_DOCTOR_Q6": "Aduna ka bay alerdyi?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Aduna bay allergy ang imong anak? kung mao palihug lista ang ngalan",
+  "SEE_A_DOCTOR_Q7": "Aduna ka bay sakit nga medikal?",
+  "SEE_A_DOCTOR_Q7_CHILD": "May anak ba ang imong anak? kung mao palihug lista ang ngalan",
+  "SEE_A_DOCTOR_Q8": "Gihatagan mo ba ang doktor sa pagtan-aw sa imong online medical file?",
+  "SEE_A_DOCTOR_Q9": "Gipalabi nga Botika",
+  "SEE_A_DOCTOR_TITLE": "Tan-awa ang usa ka Doktor",
+  "SEE_A_PROVIDER": "Tan-awa ang usa ka Magtatagana",
+  "segment": "Segment",
+  "selectAFile": "I-tap ang button sa ubos aron makapili usa ka file",
+  "selectaprovider": "Pagpili usa ka Magtatagana",
+  "selectcarderror": "Palihug, pagpili og kard",
+  "selectdoctor": "Pagdumala sa agenda sa",
+  "selectdoctor1": "Pilia ang doktor",
+  "selectdrug": "Pagpili og Medication",
+  "selectedContact": "Nagpasabot sa pagkontak",
+  "selectinitiative": "Pagpili usa o labaw pa nga mga inisyatibo ...",
+  "selectnutritionist": "Pilia ang imong kaugalingon nga nutritionist",
+  "selectpatient": "selectpatient",
+  "select_country": "Palihug, pagpili og nasud",
+  "select_device": "Pagpili og usa ka lalang",
+  "select_file": "Pilia ang File",
+  "select_file_btn": "Pilia ang file",
+  "select_patient": "Pag-klik sa usa ka laray aron makita ang mga detalye",
+  "send": "Ipadala",
+  "sendmessage": "Ipadala ang usa ka mensahe",
+  "sendtoken": "Ipadala kini sa doktor aron tugutan siya nga maka-access sa imong medical file. Kini nga sumpay nawagtang sa 10 minutos",
+  "SEND_BTN": "Ipadala",
+  "send_doctor_request": "Ipadala ang usa ka hangyo",
+  "sentmessage": "Gipadala nga mga Mensahe",
+  "SERVICE_TYPE": "Tipo sa Serbisyo",
+  "sessantad": "Katapusang 60 ka adlaw",
+  "SESSION_EXPIRED": "Nag-expire ka sa session. Palihug, pag-log in usab",
+  "setAlarm": "Paghimo og mga Alarm",
+  "settd": "Katapusang 7 ka adlaw",
+  "settings_saved": "Ang mga setting malampusong naluwas",
+  "setTreshold": "Itakda ang Kabukiran",
+  "SET_BTN": "Ibutang",
+  "SET_USER_EMAIL": "Palihog, isulat ang ngalan sa username o email",
+  "set_vital_signs": "Nagtakda sa Importante nga mga Ilhanan",
+  "sevendays": "7 Mga Adlaw",
+  "showalldata": "Ipakita ang Tanan nga Data",
+  "showOnEmergency": "ipakita Sa Emergency",
+  "signature": "Ang imong pirma (gigamit alang sa mga reseta)",
+  "signature_word": "Pirma",
+  "SIGNUP_BTN": "Pag-Sign",
+  "sii": "Index sa Insurance",
+  "sii_desc": "Ang SII usa ka kombinasyon sa tanang mga indeks sa SaluberMD ug usa ka salamin sa imong kinatibuk-ang risgo sa medikal. Kung ubos sa 30 ikaw anaa sa luwas nga dapit!",
+  "sii_title": "SII",
+  "since": "Sukad",
+  "single": "Single nga adlaw",
+  "singleAccess": "Usa ka pag-access",
+  "sitreminder": "Pabilin nga Pahinumdom",
+  "sit_period": "Panahon",
+  "skip": "Lakaw",
+  "skip_pull": "Ignorahan",
+  "skip_step": "Laktaw",
+  "sl": "Ang lebel sa stress",
+  "SLEEP": "Pagkatulog",
+  "slotime": "Gidugmang Slot (min)",
+  "sl_alta": "mas dako pa kay sa 85 bpm",
+  "sl_bassa": "ubos sa 65",
+  "sl_desc": "Ang lebel sa tensiyon gikalkulo base sa beat matag minuto",
+  "sl_normale": "tali sa 65 ug 85 bpm",
+  "smoker": "Smoker",
+  "snacks": "Mga pagkaon",
+  "SOMETIMES": "Usahay",
+  "SONNO": "Pagkatulog",
+  "SOP_Q4": "Ibutang ang imong medikal nga report",
+  "sos": "SOS",
+  "so_specialization": "Specialty",
+  "specialists": "Mga espesyalista",
+  "specialization": "Pilia ang espesyalidad",
+  "SPECIALTY": "Specialty",
+  "specifyother": "Palihug, isulat ang uban pa",
+  "specifyvalue": "Palihog, isulti ang usa ka bili",
+  "spirometer": "Spirometry",
+  "spo2_desc": "Ang lebel sa SpO2 o oksiheno sa dugo usa ka sukod kung unsa ka daghang oksiheno ang nagdala sa imong mga pulang selula sa dugo. Ang mga normal nga bili anaa sa taliwala sa 95% ug 100%, usa ka ubos nga normal nga lebel sa oxygen sa dugo gitawag nga hypoxemia",
+  "sri": "Index sa respiratoryo",
+  "sri_desc": "Atong analisahon ang imong mga sumbanan sa pagginhawa atol sa bisan unsang medikal nga sesyon ug sa panahon sa imong pagkatulog. Kung ang SRI ubos sa 30 ang imong mga kahigayonan nga mag-antos gikan sa obstructive respiratory nga kondisyon ubos.",
+  "sri_title": "SRI",
+  "ssi": "Pag-indise sa stress",
+  "ssi_desc": "Pinaagi sa pag-analisar sa kabag-ohan sa kasingkasing nga gibag-o ang imong gibug-aton sa imong tensiyon. Ang tensiyon daw nagkagrabe o nagdugang sa risgo sa mga kondisyon sama sa sobrang katambok, sakit sa kasingkasing, sakit sa Alzheimer, diabetes, depresyon, mga problema sa tiyan, ug hika. Ibutang kini sa ubos nga 20 aron mahimong luwas nga bahin!",
+  "ssi_title": "SSI",
+  "start": "Sugdi",
+  "startcall": "Sugdi ang tawag",
+  "startdate": "Gikan",
+  "starthour": "Pagsugod Panahon",
+  "startmeasure": "Karon mahimo ka magsugod sa pagsukod pinaagi sa pagpadayon sa botton sa device",
+  "startnow": "Pagsugod Karon",
+  "startRecording": "Magpadayon sa pagrekord sa usa ka tingog nga audio",
+  "startyping": "Sugdi ang pag-type sa ngalan",
+  "start_blowing": "Sugdi Pagbuta",
+  "start_test": "Pagsugod sa pagsulay",
+  "start_time": "Pagsugod Panahon",
+  "state": "Estado",
+  "state1": "Estado",
+  "STATES_LICENSE": "Licensed States",
+  "state_problem": "Palihug, isulti ang imong problema",
+  "status": "Status",
+  "step": "Lakang",
+  "STEPS_GOAL": "Mga Lakang sa Tumong",
+  "stoolTest": "Stool nga Pagsulay",
+  "stop": "Hunong",
+  "stop_test": "Hunonga ang pagsulay",
+  "stress": "Tensiyon",
+  "stroke_vol": "Ang gidaghanon sa stroke",
+  "stroke_volume": "Ang gidaghanon sa stroke",
+  "stroke_volume_desc": "Ang gidaghanon sa stroke mao ang gidaghanon sa dugo nga gibuga sa matag ventricle kada beat",
+  "struttura": "Structure",
+  "strutture": "Mga estruktura",
+  "subject": "Subject",
+  "subject_so": "Subject",
+  "submissionDate": "Petsa sa Pagsumiter",
+  "success": "Ang kalampusan",
+  "SUCCESS_TITLE_NOTIFICATION": "Ang kalampusan",
+  "SUMMARY": "Pag-diagnose",
+  "summary1": "Sumaryo",
+  "SUNDAY": "Dominggo",
+  "surgery": "Sa operasyon",
+  "surgeryAndHospitalization": "Hospitalisasyon ug Kasaysayan sa Pag-opera",
+  "surgeryCategory": "Category sa Pagpang-opera",
+  "surname": "Ngalan",
+  "sv_alta": "labaw pa kay sa 100",
+  "sv_bassa": "ubos sa 55 ml",
+  "sv_normale": "tali sa 55 ug 100 ml",
+  "switchsearch": "Balik sa pagpangita",
+  "symptoms": "Mga simtoma",
+  "SYMPTOMS_BTN": "Mga simtoma",
+  "sync": "Pag-sync",
+  "SYNC_TIME": "I-sync ang Panahon",
+  "sysdia": "Pagpit",
+  "systolic": "Systolic",
+  "TAKE": "Dad-a",
+  "takeAppointment": "Pakigsabut",
+  "TAKE_APP": "Iskedyul sa Pag-iskedyul",
+  "TAKE_A_PHOTO": "Pagdala og litrato",
+  "tall": "Unsa ka kataas",
+  "tapconnect": "Pag-tap aron makakonektar",
+  "tapdisconnect": "Pag-tap aron ma-disconnect",
+  "tap_to_expand": "Tapik sa pagpalapad",
+  "telNameMandatory": "Palihog, isulti ang ngalan",
+  "telNumberMandatory": "Palihog, isulat ang numero sa telepono",
+  "temper": "Kasuko",
+  "temperDescription": "Ang usa ka emosyonal nga sukod nga naglangkob sa tibuok nga kahimtang sa mamumulong. Ang sobrang kainit naghulagway sa depresibo ug masulub-on nga mga pagbati. Ang kainiton nga temperatura naghulagway sa mahigalaon, mainiton ug mabatyagan nga pagbati. Ang mga hiyas sa hataas nga temperatura naghulagway sa komprontasyon, dominante ug agresibo nga mga pagbati.",
+  "tendays": "Katapusang 10",
+  "ten_min": "Sa 10 minutos",
+  "terminata": "Tawag nga Malampuson",
+  "TERMS_TITLE": "Mga Termino sa Paggamit",
+  "test": "Pagsulay",
+  "testmichele": "test michele",
+  "testresult": "Resulta sa Pagsulay",
+  "testresults": "Mga Resulta sa Pagsulay",
+  "tests": "Mga Pagsulay",
+  "text": "Teksto",
+  "thiscC": "Kini nga credit card gamiton aron magbayad alang sa serbisyo",
+  "THURSDAY": "Huwebes",
+  "thyroidTest": "Mga Pagsulay sa thyroid Function",
+  "tickets": "Tiket",
+  "TICKET_HISTORY": "Kasaysayan sa Tiket",
+  "TICKET_NUMBER": "Numero sa tiket",
+  "ticket_subject": "Pagpangutana ulohan",
+  "timecallerr": "Pasayloa, dili nimo mahimo ang tawag",
+  "timecallerr1": "Pasayloa, ikaw nagtuo sa tawag tungod kay wala ka sa gitakdang panahon",
+  "TIMELINE": "Ang akong Timeline",
+  "times": "Pila ka beses sa usa ka adlaw?",
+  "timesaday": "Panahon sa Adlaw",
+  "tipopratica": "Type sa Practice",
+  "tipo_struttura": "Uri sa Structure",
+  "tipshealt0": "Sugyot sa Panglawas",
+  "tipshealt1": "Pagdala sa Flu - Kinahanglan ba akong mabakunahan batok sa flu?",
+  "tipshealt10": "I-klik dinhi alang sa dugang kasayuran",
+  "tipshealt11": "Ang mga benepisyo sa pagtambal sa statins, ang pagpaubos sa mga droga sa cholesterol, mas labaw sa mga risgo",
+  "tipshealt12": "Sa usa ka artikulo sa review sa Lancet, ang mga tigdukiduki nakahinapos nga ang mga benepisyo sa pagpaubos sa LDL cholesterol nga adunay statin therapy lagmit nga makapugong sa mga mayor nga mga kalihokan sa vascular (mga pag-atake sa kasingkasing, mga stroke) ug kini labaw pa sa mga risgo sa mga droga.",
+  "tipshealt13": "Sumala sa mga tigdukiduki ang bugtong seryoso nga mga hitabo nga gipakita tungod sa dugay nga statin therapy mao ang myopathy (gihulagway nga sakit sa kaunoran o kahuyang), bag-ong pagsugod sa diabetes mellitus, ug, tingali, haemorrhagic stroke.",
+  "tipshealt2": "Bisan pa ang bakuna sa flu dili kanunay naghatag sa kinatibuk-ang pagpanalipod, takus kini nga makuha. Ang CDC (Centers for Disease Control and Prevention) nagsugyot sa tinuig nga bakuna sa trangkaso alang sa tanan nga edad nga 6 ka bulan o labaw pa. Ang pagbakuna labi ka importante alang sa mga tawo nga taas ang risgo sa mga komplikasyon sa influenza, lakip na",
+  "tipshealt3": "Mga mabdos nga mga babaye",
+  "tipshealt4": "Mga tigulang nga hamtong (50 anyos pataas)",
+  "tipshealt5": "Mga bata (ubos sa 4 ka tuig ug labaw sa 6 ka bulan)",
+  "tipshealt6": "Ang pisikal nga kalihokan nagpalambo sa panumduman ug mga katakos sa panghunahuna",
+  "tipshealt7": "Ang regular nga pisikal nga kalihokan makapalambo sa pag-obra sa utok sa tibuok nga kinabuhi ug makunhoran ang risgo sa dementia.",
+  "tipshealt8": "Daghang mga pagtuon ang gipatik sa suod nga interaksyon ug ang kaayohan sa regular nga pisikal nga kalihokan ug pagpauswag sa function sa panghunahuna.",
+  "tipshealt9": "Ang impluwensya direkta sa utok ug dili direkta pinaagi sa metaboliko ug pisikal nga mga aksyon sa lawas.",
+  "title": "Titulo",
+  "to": "sa",
+  "todayAppointment": "Karon ang gitudlo",
+  "tooltip1": "Pagsulod sa ngalan sa doktor nga gusto nimo nga madumala ang agenda",
+  "totale": "Tima",
+  "totalSleepTime": "Total nga oras sa pagkatulog",
+  "total_cholesterol_desc": "Kini nga kantidad usa ka pagbanabana sa tanan nga kolesterol sa dugo",
+  "TOTAL_SLEEP_TIME": "Total nga Oras sa Katulog",
+  "tot_non_risposte": "Tawag nga Dili Gitubag",
+  "tot_ricevute": "Tawag nga nadawat",
+  "tot_visite": "Mga Pagbisita nga Natuman",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Pagbalhin",
+  "trenta": "Katapusang 30 ka pagsukod",
+  "trentad": "Katapusang 30 ka adlaw",
+  "triglycerides": "Triglycerides",
+  "trig_cholesterol_desc": "Ang Triglycerides usa ka klase nga tambok (lipid) nga nakaplagan sa imong dugo. Ang mosunud nga lamesa nagpakita sa lahi sa mga mithi.",
+  "TUESDAY": "Martes",
+  "tutte": "Ang tanan nga pagsukod",
+  "type": "Matang",
+  "TZONE": "Timezone",
+  "underweight": "Ang timbang",
+  "unit": "Yunit",
+  "UNIT_SETTING": "Pagtakda sa Unit",
+  "uom": "Yunit sa Pagsukod",
+  "upcomingAppointmentPatient": "Mga umaabot nga Pagtudlo sa",
+  "UPDATE": "Update",
+  "updatelist": "Pag-update sa listahan",
+  "update_app_message": "Kinahanglan nga imong i-update ang imong app",
+  "UPDATE_AVAILABLE": "Update Magamit",
+  "UPDATE_BTN": "Update",
+  "update_completed": "Malampuson nga Pag-update sa Firmware",
+  "update_firmware_download_error": "Sayop nga pag-download sa firmware",
+  "update_list": "Update",
+  "UPLOAD_ERROR": "ERROR: Ang mga file nga dili mosobra sa 5 MB",
+  "upload_referral": "I-upload ang imong referral sa kahon sa ubos.",
+  "urinTest": "Mga pagsulay sa ihi",
+  "user": "User",
+  "userdata": "Mga datos sa tiggamit",
+  "usermanagement": "Pagdumala sa user",
+  "USERNAME": "Username",
+  "username1": "Username",
+  "utente_aggiunto": "Gidugangan ang tigdumala",
+  "utente_rimosso": "Malampuson nga nawagtang ang user",
+  "utente_salvato": "Gi-update ang user",
+  "vaccinobbligatorio": "Palihug, pagpili og bakuna",
+  "vaioffline": "Lakaw sa Offline",
+  "vaionline": "Lakaw sa Online",
+  "valence": "Valence",
+  "valenceDescription": "Usa ka baryable gikan sa negatibo ngadto sa positibo. Sa pagpaminaw sa usa ka tawo nga makigsulti, posible nga masabtan kung unsa ang &quot;positibo&quot; o &quot;negatibo&quot; nga ilang gibati mahitungod sa hilisgutan, butang o panghitabo nga gihisgutan.",
+  "value": "Bili",
+  "vascular_age": "Vascular age",
+  "vascular_age1": "Vascular age",
+  "va_desc": "Ang Vascular Age naghatag kanimo og usa ka sukod sa dayag nga edad sa imong mga kaugatan, kon itandi sa mga himsog nga mga tawo. Kung ang imong edad sa vascular mas dako pa kay sa imong kronolohikal nga edad, mahimo nimong mas peligro nga maugmad ang sakit nga Cardiovascular (CVD) sa ulahi sa kinabuhi.",
+  "videocall": "Videocall",
+  "VIDEOCALL_DES1": "Ipadayon ang button sa ubos aron mausab ang imong status ug makadawat o dili makadawat sa mga pahibalo. Hinumdomi nga mahimo ka makadawat sa pagpahibalo lamang kung ikaw online.",
+  "VIDEOCALL_DES2": "Kon makadawat ka og tawag, i-klik ang rectangle nga mopakita sa tawag.",
+  "videocall_filter": "Pagsala sa ngalan o specialty",
+  "videocall_request": "Bag-ong hangyo sa videocall gikan sa",
+  "videocall_request_title": "Videocall Request",
+  "videocall_req_from": "Videocall hangyo gikan:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "I-klik aron maaktibo ang video",
+  "VIDEO_CALL_BTN": "Video nga tawag",
+  "VIDEO_CALL_BTN_1": "Video",
+  "view": "Tan-awa",
+  "viewmedicalfile": "Tan-awa ang medikal nga file",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Paghimo sa imong Virtual Office",
+  "VIRTUAL_OFFICE_TITLE": "Virtual Office",
+  "visitdetail": "I-klik ang matag butang aron makita ang kompleto nga kasaysayan sa pasyente",
+  "visithistory": "Bisitaha ang Kasaysayan",
+  "visitlist": "Listahan sa mga pagbisita",
+  "VISIT_HISTORY_NO_HISTORY": "Wala ka&#39;y ​​mga pagbisita",
+  "VISIT_HISTORY_SUBTITLE": "I-klik ang matag butang aron makita ang mga detalye",
+  "VISIT_HISTORY_TITLE": "Bisitaha ang Kasaysayan",
+  "volte": "Panahon",
+  "waiting": "Pagproseso ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Mainit",
+  "WARNING_TITLE_NOTIFICATION": "Pagtagad",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Data sa Panglawas",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Kaayohan sa Data",
+  "WATCH_DEVICE_DATA_TITLE": "Ang datos sa imong watch device",
+  "water": "Tubig",
+  "weanedoff": "Gilutas na?",
+  "WEDNESDAY": "Miyerkules",
+  "week": "Semana",
+  "weight": "Gibug-aton",
+  "weightUnit": "Timbang nga Yunit",
+  "welcome": "Welcome",
+  "wellness": "Kaayohan",
+  "wellnessdata": "Kaayohan sa Data",
+  "wellnessSuccess": "Ang kalampusan",
+  "WHITE_SPACES": "Ang Username dili kinahanglan nga adunay puti nga mga espasyo",
+  "WRIST_CUT_SCREEN": "Pagbalhin sa Screen sa Pulso",
+  "writtenRep": "Gisulat nga taho",
+  "W_RESPIRATORY_RATE": "Gininhawa",
+  "xray": "X-ray",
+  "Y": "Oo",
+  "year": "Tuig",
+  "years": "ka tuig",
+  "yes": "Oo",
+  "yourarousal": "Ang imong pagpukaw",
+  "youremotion": "Ang imong mga pagbati",
+  "yourmood": "Ang imong buot",
+  "yourtemper": "Ang imong kasuko",
+  "yourvalence": "Ang imong valence",
+  "your_sai": "Ang imong indikasyon sa kalihokan mao:",
+  "your_sbpi": "Ang imong presyon sa Blood Index mao:",
+  "your_sci": "Ikaw nga index sa kasingkasing mao ang:",
+  "your_sii": "Ang imong Insurance index mao",
+  "your_sri": "Ang imong indiratory index mao ang:",
+  "your_ssi": "Ang imong Stress index mao ang:",
+  "your_stress": "Ang imong tensiyon mao ang:",
+  "your_va": "Ang imong edad sa vascular mao ang:",
+  "zero_min": "Karon",
+  "zipCode": "Zip Code",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

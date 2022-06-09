@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Amdanom ni",
+  "ABOUT_US_CONDITION_1": "Oer a Ffliw",
+  "ABOUT_US_CONDITION_2": "Cyflyrau&#39;r croen",
+  "ABOUT_US_CONDITION_3": "Alergeddau",
+  "ABOUT_US_CONDITION_4": "Gwlith Diflas",
+  "ABOUT_US_CONDITION_5": "Stomach Ache",
+  "ABOUT_US_DOCTOR_BENEFIT1": "CYNNWYS INCWM:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Gallwch weld hyd at chwech o gleifion yr awr (mae ymweliad rhithwir fel arfer yn para tua 10 munud);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "DARPARU GOFAL PATIENT O UNRHYW YN Y BYD:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Cynyddu perthynas cleifion gyda&#39;r gallu i drin cleifion cyfredol a newydd o unrhyw le yn y byd;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "GWNEUD ARFER ARDDANGOS AM DDIM:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Tyfu eich ymarfer cyfredol a chynnig mwy o ddewisiadau i gleifion;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "YMWELIADAU CYNHYRCHOL MWY CYNHYRCHOL:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Gall cleifion anfon dogfennau, lluniau, canlyniadau labordy atoch heb orfod gadael cartref a gallwch fonitro iechyd eich claf o bell;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Nodi pwy sydd angen gofal ymarferol ar unwaith a phwy all gael budd o driniaeth anghysbell heb adael cartref;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "CYNNWYS INCWM:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "ORIAU FFRIFOL:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Y gallu i osod eich oriau eich hun a gosod eich amserlen eich hun.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Ymunwch â&#39;r mudiad i ddarparu mynediad dibynadwy, fforddiadwy, byd-eang i ofal iechyd o fewn 15 munud neu lai.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Bwriad Saluber MD yw chwyldroi perthnasau cleifion-claf trwy greu mynediad 24/7 i ofal iechyd yn fyd-eang.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Buddion Meddygon",
+  "ABOUT_US_DOCTOR_TITLE": "Amdanom ni",
+  "about_us_section1_p1": "Sefydliad Iechyd Digidol yw SaluberMD sy&#39;n ymroddedig i drawsnewid cyflwyno gwasanaethau a chynhyrchion meddygol i wella canlyniadau iechyd ledled y byd. Mae ein gwasanaethau Concierge Meddygol Digidol yn darparu mynediad at fuddion iechyd a lles, meddygon ardystiedig bwrdd, ffeil feddygol bersonol mewn 18 o ieithoedd, wearables i fonitro eich iechyd a mynediad i rwydwaith o weithwyr proffesiynol a gwasanaethau gofal iechyd.",
+  "ABOUT_US_SECTION1_TITLE": "Amdanom ni",
+  "ABOUT_US_SECTION2_P1": "Trwy geo-leoliad, bydd ein app yn dod o hyd i&#39;r Meddyg gorau yn eich ardal chi. Gall Meddygon Saluber ddiagnosis, trin, neu drafod eich cyflwr meddygol trwy fideo a rhoi cynllun triniaeth briodol i chi. Gellir trin nifer o&#39;r amodau mwyaf cyffredin a gaiff eu trin mewn swyddfa feddyg gydag ymweliad fideo. <br/> Rhai o&#39;r amodau yr ydym yn eu trin:",
+  "ABOUT_US_SECTION2_P2": "Mae&#39;ch Cofnod Meddygol Personol yn lle cyfleus i storio eich holl ddata, delweddau a ffeiliau iechyd. Cadwch olwg ar eich iechyd gyda mynediad 24/7 at eich holl gofnodion meddygol. P&#39;un ai ydych gartref neu sy&#39;n teithio dramor mae eich gwybodaeth ar eich pennau i rannu â&#39;ch gweithiwr iechyd proffesiynol. Mae&#39;r cofnod meddygol personol hawdd ei ddefnyddio ar gael mewn 18 iaith.",
+  "ABOUT_US_SECTION2_TITLE": "Sut mae&#39;n gweithio?",
+  "ABOUT_US_SECTION3_P1": "Dim ond y Meddygon a ardystiwyd gan y bwrdd uchaf sy&#39;n darparu gofal meddygol ar SaluberMD. Mae&#39;r gweithwyr proffesiynol hyn yn cael eu gwirio, eu sgrinio&#39;n helaeth a&#39;u hyfforddi i ddarparu gofal o&#39;r radd flaenaf. Mae gan bob Meddyg bio lle gallwch chi weld eu cefndir, eu cymwysterau a&#39;u profiad. Mae SaluberMD wedi ymrwymo i reoli ansawdd parhaus ein Meddygon. Mae system raddio yn caniatáu i gleifion gyfraddi meddygon a gweld graddfa gyffredinol meddygon.",
+  "ABOUT_US_SECTION3_TITLE": "Ein meddygon",
+  "ABOUT_US_TITLE": "Amdanom ni",
+  "above_warning": "Mae&#39;r gwerthoedd uchod mewn perygl",
+  "accept": "Derbyn",
+  "acceptablerange": "Amrediad derbyniol",
+  "ACCEPT_BTN": "Derbyn",
+  "acquire": "Cael data",
+  "acronym": "Acronym",
+  "action": "Gweithredu",
+  "actions": "Camau gweithredu",
+  "actionTaken": "Camau a Gymerwyd",
+  "activity": "Gweithgaredd",
+  "acutecare": "Gofal Aciwt",
+  "add": "Newydd",
+  "addavailability": "Ychwanegwch eich argaeledd",
+  "addcomment": "Ychwanegwch eich sylwadau yma",
+  "adddescription": "Ychwanegwch eich disgrifiad yma",
+  "adddrugs": "Chwiliwch gyffur gan ddefnyddio&#39;r blwch chwilio isod a thiciwch y blwch siec i&#39;w ychwanegu at eich presgripsiwn",
+  "addedFavourite": "Ychwanegwyd yn llwyddiannus at eich ffefrynnau",
+  "addedFavourite2": "Ychwanegwyd yn llwyddiannus at eich ffefrynnau. pwyswch y botwm diweddaru i&#39;w arddangos.",
+  "addedFavourite3": "Ychwanegwyd yn llwyddiannus  nDechrau i adnewyddu",
+  "addFavourite": "Ychwanegu at Hoff",
+  "ADDING_SLOT": "Ychwanegu slotiau .... gall hyn gymryd cryn amser.",
+  "addNew": "Ychwanegu Newydd",
+  "addpharmacies": "Cliciwch ar y botwm i ychwanegu eich hoff fferyllfeydd",
+  "addpharmacy": "Ychwanegwch fferyllfa",
+  "addreminder": "Gwasgwch y botwm ychwanegol i ychwanegu eich atgoffa meddyginiaeth.",
+  "address": "Cyfeiriad",
+  "address2": "Cyfeiriad cyflwyno",
+  "address3": "Cyfeiriad ar gyfer y gwasanaeth",
+  "addsintomi": "Ychwanegwch symptomau",
+  "addslot": "Ychwanegwch slot",
+  "add_description_file": "Ychwanegu disgrifiad (ddim yn orfodol)",
+  "add_new": "Ychwanegwch",
+  "affaticamento_grave": "Blinder Difrifol",
+  "affaticamento_minore": "Mân Blinder",
+  "agenda": "Fy agenda",
+  "agenda_report": "Adrodd am Benodiadau",
+  "aggiungi": "Creu",
+  "AGREE_BTN": "Rwy&#39;n cytuno",
+  "alcoholDesc": "Tybiwyd alcohol",
+  "all": "I gyd",
+  "alldata": "Pob Data",
+  "allergia": "Alergedd",
+  "allergia_aggiunta": "Alergedd a grëwyd yn llwyddiannus",
+  "allergia_rimossa": "Mae alergedd cleifion yn cael ei ddileu yn llwyddiannus",
+  "allergia_salvata": "Alergedd y claf wedi&#39;i ddiweddaru&#39;n llwyddiannus",
+  "allergie": "Alergeddau",
+  "allimages": "Pob Delwedd",
+  "alreadyAddedF": "Mae&#39;r fferyllfa hon eisoes yn bresennol yn eich ffefrynnau",
+  "alreadyRegistred": "Mae&#39;r cyfeiriad e-bost hwn eisoes yn bodoli yn y system allanol. Mewngofnodwch i&#39;r ap i wneud apwyntiad.",
+  "alreadyTaken": "Mae&#39;r apwyntiad eisoes wedi&#39;i gymryd",
+  "alta": "Uchel",
+  "alto": "Uchel",
+  "amonth": "30 diwrnod",
+  "anger": "Anger",
+  "annoinizio": "Blwyddyn Dechreuodd",
+  "antibiotics": "Gwrthfiotigau",
+  "an_error_occurred": "Wps! Ar hyn o bryd ni allwn ragflaenu&#39;ch cais. Rhowch gynnig arall arni yn nes ymlaen",
+  "appointment": "Penodiad",
+  "appointmentlist": "Rhestr apwyntiadau",
+  "appointments": "Penodiadau",
+  "appointmentsDescription": "Rhestr o benodiadau amserlen",
+  "appointment_body_doc": "Apwyntiad newydd wedi&#39;i drefnu gyda",
+  "appointment_calcelled_title": "Canslo&#39;r penodiad",
+  "appointment_cancelled": "wedi canslo ei apwyntiad",
+  "appointment_email_body": "Rydym yn cadarnhau eich apwyntiad gyda&#39;r meddyg",
+  "appointment_history": "Hanes Penodi",
+  "appointment_now": "Eich apwyntiad yn dechrau nawr",
+  "appremainder": "Gweddill penodiad",
+  "appremainder1": "Mae gennych fideo fideo wedi&#39;i drefnu mewn 5 munud",
+  "appremainder2": "Mae gennych gerdyn fideo wedi&#39;i sheduled mewn 30 munud",
+  "appremainder3": "Mae gennych gerdyn fideo wedi&#39;i sheduled mewn 120 munud",
+  "APPROX_DATA": "Data Wellness Eraill",
+  "appuntamenti": "Penodiadau",
+  "appuntamenti_presi": "Penodiad Rhestredig",
+  "appuntamento_clinica": "Cais am Apwyntiad Clinig",
+  "APPUNTAMENTO_CONGIUNTO": "Ydych chi eisiau archebu fideo-fideo?",
+  "app_description": "Ychwanegwch resymau eich apwyntiad yn y blwch isod",
+  "app_details": "Manylion apwyntiad",
+  "app_missing": "Nid yw&#39;r app cymorth wedi&#39;i osod",
+  "ARIAX": "Cyfradd Anadl",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Arousal",
+  "arousalDescription": "Newidyn sy&#39;n amrywio o dawelwch neu ddiflastod i rybudd a chyffro. Mae&#39;n cyfateb i gysyniadau tebyg, fel lefel o weithrediad a symbyliad.",
+  "assign_specialist": "Neilltuo arbenigwr i&#39;r cais",
+  "associa": "Cyswllt",
+  "attachment": "Atodiad",
+  "ATTACH_A_PHOTO": "Atodwch lun",
+  "BACKGROUND": "Cefndir",
+  "BACKGROUND_PLCHOLDER": "Rhowch bywgraffiad byr.",
+  "backhomeconfirm": "Ydych chi&#39;n siŵr eich bod chi&#39;n dychwelyd adref?",
+  "BACK_BTN": "Yn ôl",
+  "BACK_LOGIN": "Yn ôl i Mewngofnodi",
+  "bad_file": "Does dim modd agor y ffeil",
+  "basicinfo": "Gwybodaeth Sylfaenol",
+  "bassa": "Isel",
+  "basso": "isel",
+  "below_warning": "Mae gwerth isod mewn perygl",
+  "benefits": "Budd-daliadau Concierge",
+  "beyondverbal": "Mae emosiynau&#39;n gyrru popeth a wnawn, ond mae dadansoddiadau emosiynau sy&#39;n cael eu gyrru gan lais yn parhau i fod y rhyngwyneb pwysicaf, heb ei archwilio heddiw. Y tu hwnt i Lafar wedi ymrwymo i newid hynny.",
+  "beyondverbal_analyze": "Dadansoddwch eich hwyliau",
+  "beyondverbal_history": "Canlyniadau hanesyddol",
+  "beyondverbal_instruction": "Pan fyddwch chi&#39;n barod i ateb y cwestiwn, cliciwch y botwm cychwyn",
+  "BIRTHDATE": "Dyddiad Geni",
+  "birthday": "Pen-blwydd",
+  "blank_agenda": "Nid oes slot ar gyfer heddiw",
+  "bloatedOrContipated": "Wedi blocio neu rwymo",
+  "bluetooth_error": "Galluogi&#39;r bluetooth cyn i barhau",
+  "BOARD": "Ardystiedig y Bwrdd",
+  "bones": "Bones",
+  "bp": "Pwysedd Gwaed",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Tabl cyfeirio ar gyfer gwerthoedd Pwysedd Gwaed",
+  "breakfast": "Brecwast",
+  "btnback": "Yn ôl",
+  "btndelete": "Dileu",
+  "btndisabledoctor": "Analluogwch y meddyg",
+  "btndisablepatient": "Analluoga&#39;r claf",
+  "btnenabledoctor": "Galluogi meddyg",
+  "btnenablepatient": "Galluogi claf",
+  "btnsave": "Arbed",
+  "BTN_LOAD_MORE": "Llwythwch Mwy",
+  "buttonsearch": "Chwilio",
+  "bvFailed": "Methu dadansoddi eich llais, mae angen i chi siarad mwy!",
+  "bvInstruction": "Dim ond yn cadw siarad am 20 eiliad neu fwy",
+  "bvInstruction2": "Dim ond yn cadw siarad am 20 eiliad",
+  "ca": "System Cardiofasgwlaidd",
+  "call": "Ffoniwch",
+  "callCancel": "Methu canslo galwad wedi dod i ben",
+  "calldoctor": "Ffoniwch y meddyg",
+  "calling_number": "Rhif Galw",
+  "callthedoctor": "Ffoniwch y Meddyg",
+  "calltransfer": "Trosglwyddo galwad ...",
+  "CALL_ALREADY_TAKEN": "Galwad wedi&#39;i gymryd eisoes",
+  "CALL_DOCTOR_INFO": "Gwybodaeth Doctor",
+  "CALL_DURATION": "Hyd galwad",
+  "call_instruction": "Byddwn yn anfon hysbysiad atoch cyn gynted ag y gallwch ffonio&#39;r meddyg. Cliciwch ar yr hysbysiad cyn gynted ag y byddwch yn ei dderbyn er mwyn dechrau&#39;r fideocalll. Rhag ofn i chi ddileu&#39;r hysbysiadau, gallwch ei gael yn yr adran hysbysu dan fy mhroffil iechyd.",
+  "CALL_NOTIFICATIONS": "Galwadau Ffôn",
+  "CALL_NO_INCOMING": "Dim galwadau sy&#39;n dod i mewn",
+  "CALL_TRANSFER_INFO": "Gwybodaeth drosglwyddo galwadau",
+  "CALL_WAITING": "Arhoswch wrth i ni chwilio am feddyg sydd ar gael",
+  "CALL_WAITING_2": "Arhoswch tra bydd y meddyg yn adolygu&#39;ch ffeil",
+  "calories": "Calorïau",
+  "cancel": "Diddymu",
+  "cancelAppointment": "Diddymwch y penodiad hwn",
+  "CANCEL_BTN": "Diddymu",
+  "CAP": "Côd post",
+  "cardiac_output": "Allbwn cardiaidd",
+  "cardiac_output1": "Allbwn cardiaidd",
+  "cardiac_output_desc": "Dim ond y gwaed sy&#39;n cael ei bwmpio gan y galon fesul munud yw&#39;r allbwn cardiaidd.",
+  "cardiovascular": "Cardiofasgwlaidd",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "CVC annilys",
+  "CARD_EXPIRY_DATE": "Dyddiad Dod i ben",
+  "CARD_MONTH_ERROR": "Mis annilys",
+  "CARD_NUMBER": "Rhif cerdyn",
+  "CARD_NUMBER_ERROR": "Rhif CC annilys",
+  "CARD_YEAR_ERROR": "Blwyddyn annilys",
+  "category": "Categori",
+  "cbc": "CBS",
+  "CCV_REQUIRED": "Angen CCV",
+  "CERROR": "Cyswllt Gwael",
+  "certificate_attachment": "Ynghlwm mae eich tystysgrif feddygol",
+  "certificate_email": "Ynghlwm mae eich ardystiad meddygol",
+  "certificate_header": "Ar sail y gwerthusiad meddygol a gynhaliwyd, nodir y canlynol:",
+  "certificate_sent": "Anfonwyd y Dystysgrif",
+  "certification_subject": "Eich ardystiad meddygol",
+  "cf": "Cod Cyllidol",
+  "cf_error": "Nodwch eich cod cyllidol",
+  "changeschedule": "Addasu amser",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Mae&#39;ch cyfrinair wedi dod i ben, ei newid.",
+  "CHANGE_PWD_SECTION_TITLE": "Newid cyfrinair",
+  "CHANGE_PWD_TITLE": "Bydd eich cyfrinair yn dod i ben, yn ei newid",
+  "checking_net_condition": "Gwirio cysylltiad rhyngrwyd ...",
+  "CHECK_PARAMETERS_CORX": "Rhowch y pwysau a&#39;r uchder ar yr adran proffil er mwyn cyfrifo&#39;r gwerthoedd da iawn.",
+  "CHL_TOT": "Cyfanswm Colesterol",
+  "choosedate": "Dewiswch ddyddiad",
+  "chooseDateDescription": "Cliciwch ddyddiad i&#39;w ehangu a dewis yr awr",
+  "chooseprofile": "Rydych chi?",
+  "choosespeciality": "Dewiswch yr Arbenigedd Meddygol",
+  "choosetransferdoctor": "Dewiswch feddyg",
+  "CHOOSE_A_DOCTOR": "Dewiswch eich meddyg eich hun",
+  "chosedoctor": "Dewiswch feddyg",
+  "city": "Dinas",
+  "city1": "Dinas",
+  "city2": "Dinas",
+  "clearsignature": "Llofnod clir",
+  "clickitem": "Cliciwch ar bob eitem i weld manylion llawn",
+  "clickrow": "Cliciwch ar y rhes i ddewis",
+  "clickToOpen": "Cliciwch i agor y ffeil",
+  "click_to_start_call": "Cliciwch ar feddyg i ddechrau&#39;r alwad",
+  "clinics": "Clinigau",
+  "CLOCK_FORMAT": "Fformat Cloc",
+  "closeappconfirm": "Ydych chi&#39;n siŵr eich bod chi&#39;n cau&#39;r app?",
+  "CLOSE_BTN": "Yn agos",
+  "cm": "cm",
+  "CODE": "Côd",
+  "code_not_valid": "Nid yw&#39;r cod a fewnosodwyd yn ddilys",
+  "code_verified": "Cod wedi&#39;i ddilysu&#39;n llwyddiannus!",
+  "coffeeDesc": "Tybir bod coffi",
+  "COMMENT": "sylwebaeth",
+  "commenti": "Sylwadau",
+  "COMPANY_NAME": "Cwmni",
+  "COMPLAIN": "Cwyno",
+  "COMPLETE_PROFILE": "Cwblhewch eich proffil o&#39;r blaen i barhau",
+  "COMPLETE_PROFILE_TITLE": "Cwblhewch eich proffil",
+  "complications": "Cymhlethdodau",
+  "concernlist": "Rhestrwch eich prif bryderon / pryderon",
+  "CONFIRM": "Iawn",
+  "confirm_app": "Cadarnhewch eich apwyntiad",
+  "CONFIRM_EMAIL_TITLE": "Cadarnhau Ebost",
+  "CONFIRM_PWD": "Cadarnhau cyfrinair",
+  "connect": "Gwasgwch y botwm Cyswllt i gysylltu y ddyfais",
+  "connectbtn": "Cyswllt",
+  "connectedto": "Cysylltiedig â",
+  "connecting": "Cysylltu ... Arhoswch",
+  "connection_progress": "Cysylltu i&#39;r ddyfais ...",
+  "CONSULT": "Cwyno",
+  "consult1": "Ymgynghori",
+  "consultation": "Ymgynghoriad",
+  "consultationHistory": "Hanes Ymgynghori",
+  "contact": "Cyswllt",
+  "CONTACT_US_BTN": "Cysylltwch â Ni",
+  "CONTACT_US_SECTION_TITLE": "Cysylltwch â ni gydag unrhyw gwestiynau neu am gymorth gan ddefnyddio&#39;r app.",
+  "CONTACT_US_TITLE": "Cysylltwch â Ni",
+  "contatti": "Gwybodaeth Cyswllt",
+  "continue": "Parhau",
+  "copy_url": "Copi url",
+  "CORX": "ECG",
+  "corxDidFailEcg": "Gwall wrth gael EKG",
+  "corxDidFailWellness": "Gwall wrth gael data am wellness",
+  "corxDidNoEcg": "Nid oes unrhyw ddata EKG",
+  "corxDidNoWellness": "Nid oes unrhyw ddata lles",
+  "CORX_DATA": "Data CorX",
+  "corx_disconnected": "Corx wedi&#39;i gysylltu â&#39;i gilydd",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Os gwelwch yn dda, nodwch bwysau a thaldra i chi i gyfrifo&#39;r paramedrau gwydr yn gywir.",
+  "COUNTRY": "Gwlad",
+  "country1": "Gwlad",
+  "county": "Sir",
+  "co_alta": "mwy na 8 L / min",
+  "co_bassa": "is na 4 L / min",
+  "co_normale": "rhwng 4 a 8 L / min",
+  "creditCard_selected": "Codir tâl am y cerdyn a ddewiswyd am y gwasanaeth hwn",
+  "currency": "Arian cyfred",
+  "C_SPECIALTY": "Arbenigedd personol",
+  "dailyuse": "Defnydd Dyddiol",
+  "dashboardVideocall": "Videocall Dashboard",
+  "dataerror": "Mae&#39;r dyddiad / amser rydych chi wedi&#39;i ddewis yn mynd heibio&#39;r dyddiad / amser cyfredol",
+  "dataexists": "Mae yna benodiad eisoes gyda&#39;r dyddiad a&#39;r amser a ddewiswyd",
+  "datafetching": "Cymryd eich data personol ... Arhoswch.",
+  "dataPrenotazione": "Dyddiad archebu",
+  "dataVaccinazione": "Dyddiad Imiwneiddio",
+  "date": "Dyddiad",
+  "dateDiscovered": "Dyddiad Darganfod",
+  "dateStart": "Dyddiad cychwyn",
+  "datipersonali": "Gwybodaeth Bersonol",
+  "datiScaricati": "Data Wedi Llwytho i Lawr yn Llwyddiannus",
+  "day": "Diwrnod",
+  "deassociate_corx_alert": "Ydych chi eisiau dadelfociai&#39;r Corx?",
+  "decline": "Dirywiad",
+  "DECLINE_BTN": "Dirywiad",
+  "DEEP_SLEEP_TIME": "Cysgu&#39;n Ddwfn",
+  "defaultQuestion": "Dechreuwch y wasg a dywedwch wrthym sut rydych chi&#39;n teimlo heddiw",
+  "delete": "Dileu",
+  "deleteAlarm": "Dileu y larwm hwn?",
+  "deleteAppointment": "Ydych chi am ganslo&#39;r apwyntiad?",
+  "deleteDescription": "Fe&#39;i dileir ar unwaith.",
+  "deleteMessage": "Ydych chi&#39;n siŵr eich bod am ddileu hyn?",
+  "deleteMultipleDesctiption": "Nifer y slot a gaiff ei ddileu:",
+  "deleteNumber": "Ydych chi&#39;n siŵr eich bod am ddileu&#39;r Rhif hwn?",
+  "deleteSlotDay": "Yn dileu&#39;r holl slot rhad ac am ddim heddiw",
+  "deleteSlotMonth": "Yn dileu&#39;r holl slotiau am ddim y mis hwn",
+  "deleteSlotWeek": "Yn dileu&#39;r holl slot am ddim yr wythnos hon",
+  "deletevalue_q": "Ydych chi&#39;n siŵr eich bod am ddileu&#39;r gwerth?",
+  "DELETE_NOTIFICATION_MSG": "Ydych chi am ddileu&#39;r holl hysbysiadau yn y gorffennol?",
+  "demo": "Mae hyn yn demo, ni chodir tâl am arian.",
+  "dependencies": "Dibyniaethau",
+  "description": "Disgrifiad",
+  "descriptionMandatory": "Nodwch ddisgrifiad",
+  "deseaseCategory": "Categori Clefydau",
+  "desirable": "Dymunol",
+  "dettagli": "Manylion",
+  "dettaglio_struttura": "Manylion y strwythur",
+  "device": "Dyfais",
+  "devicefound": "Dyfais wedi&#39;i ganfod",
+  "devices": "Dyfeisiau",
+  "devicetype": "Math y Dyfais",
+  "DEVICE_BLOOD_PRESSURE": "Pwysedd gwaed",
+  "DEVICE_CALORIES": "Calorïau llosgi",
+  "DEVICE_CARDIAC": "Monitro&#39;r galon",
+  "DEVICE_CHL": "Proffil lipididig",
+  "DEVICE_DATA_SECTION_TITLE": "Eich data dyfais feddygol",
+  "DEVICE_DATA_TITLE": "Data Dyfais",
+  "DEVICE_DATA_TITLE_1": "Data Dyfais Feddygol",
+  "DEVICE_EKG": "ECG",
+  "DEVICE_FC ": "CC",
+  "DEVICE_FITNESS_TRACKER": "Olrhain Ffitrwydd",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glwcedr",
+  "DEVICE_HEART_RATE": "Cyfradd y Galon",
+  "DEVICE_PEDOMETER": "Pedomedr",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Amledd anadlu",
+  "DEVICE_SPO2": "Spo2",
+  "DEVICE_TEMPERATURE": "Tymheredd",
+  "DIAGNOSIS": "Diagnosis",
+  "diastolic": "Diastolig",
+  "dieci": "Y 10 mesuriad diwethaf",
+  "diet": "Deiet",
+  "digestion": "Materion treuliad",
+  "dinner": "Cinio",
+  "dipendenza": "Dibyniaeth",
+  "disableAlarm": "Galluogi larwm",
+  "disabled": "Anabl",
+  "DISABLE_PANIC_BUTTON": "Galluogi Botwm Panig",
+  "DISABLE_PUNIC_BUTTON": "Analluoga Botwm Punic",
+  "disconnectall": "Gosod All-lein",
+  "disconnectbtn": "Datgysylltu",
+  "DISDICI": "Diddymu",
+  "disease": "Clefyd Cronig",
+  "diseasemanagement": "Rheoli Clefydau",
+  "diseases": "Clefydau",
+  "disease_1": "Clefyd",
+  "dissocia": "Disassociate",
+  "DISTANCE": "Pellter",
+  "dm_section_description_1": "Yma gallwch chi atodi&#39;ch ffeiliau",
+  "DND": "Peidiwch ag Aflonyddu",
+  "DOCEMAIL": "E-bost Meddyg",
+  "DOCNAME": "Enw&#39;r Meddyg",
+  "DOCPHONE": "Rhif Ffôn Meddyg",
+  "DOCTOR": "Meddyg",
+  "doctor1": "Meddyg",
+  "doctorAtHome": "Meddyg yn y Cartref",
+  "doctorAtHomeQuestion1": "Rwyf eisiau cymorth cartref ar gyfer:",
+  "doctorAtHomeQuestion2": "Dewiswch y cymorth cartref sydd ei angen arnoch",
+  "doctorAtHomeQuestion2Answer1": "Ymarfer Cyffredinol",
+  "doctorAtHomeQuestion2Answer2": "Pediatrig",
+  "doctorAtHomeQuestion2Answer3": "Nyrs",
+  "doctorAtHomeQuestion3": "Nodwch y rheswm pam rydych chi am dderbyn cymorth",
+  "doctorAtHomeQuestion4": "Darparu yn y ffurflen isod y cyfeiriad yr ydych am gael cymorth",
+  "doctorAtHomeRequestBtn": "Anfonwch y cais",
+  "doctorAtHomeRequestSuccess": "Rydym wedi derbyn eich cais. Cysylltir â chi gyda dwy awr i drefnu&#39;r gwasanaeth cartref",
+  "doctorAtHomeTitle": "Meddyg yn y Cartref",
+  "doctorbusy": "Mae&#39;r meddyg yn brysur mewn alwad arall",
+  "doctorbusy1": "Mae&#39;r meddyg yn brysur mewn alwad arall",
+  "doctorlist": "Rhestr meddygon",
+  "doctormanagement": "Rheoli meddygon",
+  "doctoroffline": "Mae&#39;r meddyg yn all-lein, ewch ati",
+  "doctorupdate": "Meddyg",
+  "DOCTOR_PROFILE_OPT1": "Proffil",
+  "DOCTOR_PROFILE_OPT2": "Hanes Ymweliad Cleifion",
+  "DOCTOR_PROFILE_OPT3": "Argymell cydweithiwr",
+  "DOCTOR_PROFILE_SECTION1": "Eich proffil",
+  "DOCTOR_PROFILE_TITLE": "Proffil",
+  "doctor_request_sent": "Rydym wedi anfon eich cais at ein meddygon. Byddwch yn derbyn ateb mewn dau funud.",
+  "documents": "Dogfennau",
+  "DOCUMENT_BTN": "Dogfennau",
+  "doestake": "Ydych chi wedi cymryd",
+  "DONATION_TITLE": "Cadarnhau rhodd",
+  "done": "Llwytho i lawr ddata Trackx yn llwyddiannus. Fe welwch nhw o dan yr adran data ffyniant",
+  "doneAppointmentPatient": "Penodiadau yn y Gorffennol",
+  "DONE_BTN": "Wedi&#39;i wneud",
+  "dontknow": "Nid wyf yn cofio",
+  "DORMIVEGLIA": "Drowndid",
+  "dosage": "Dosbarth",
+  "dosetake1": "Ydych chi wedi cymryd eich meddyginiaethau?",
+  "dottore_rimosso": "Diweddarwyd statws y meddyg yn llwyddiannus",
+  "dottore_salvato": "Diweddarwyd y doctor yn llwyddiannus",
+  "download": "Lawrlwythwch",
+  "downloadaspdf": "Lawrlwythwch fel PDF",
+  "downloadecg": "Lawrlwythwch ECG",
+  "DOWNLOADING_DEVICE_DATA": "Lawrlwytho ...",
+  "downloadwellnessdata": "Lawrlwytho data am well ...",
+  "downloadWellnessResult": "mesur wedi&#39;i ychwanegu",
+  "DOWNLOAD_CERTIFICATE": "Dadlwythwch dystysgrif",
+  "DOWNLOAD_ERROR_GENERIC": "Wps. Digwyddodd erros wrth geisio lawrlwytho&#39;r ffeil. Rho gynnig Arni eto&#39;n hwyrach.",
+  "DOWNLOAD_SO_REPORT": "Lawrlwytho Cyfeirio",
+  "DO_NOT_DISTURB": "Peidiwch ag aflonyddu",
+  "drugsAtHome": "Cyffuriau yn y Cartref",
+  "drugsAtHomeQuestion1": "Ydych chi am dderbyn y cyffuriau a ragnodir gan eich meddyg yn uniongyrchol gartref?",
+  "drugsAtHomeRequestBtn": "Anfonwch y cais",
+  "drugsAtHomeRequestSuccess": "Rydym wedi derbyn eich cais. Anfonir y cyffuriau o fewn 24 awr",
+  "drugsAtHomeSection1": "Darparwch yn y ffurflen isod y rhif ffôn a&#39;r cyfeiriad yr ydych am gael y cyffuriau.",
+  "drugsAtHomeTitle": "Cyffuriau yn y Cartref",
+  "drug_name": "Enw Cyffuriau",
+  "duration": "Hyd",
+  "ecg": "ECG",
+  "ecgadded": "ECG wedi&#39;i ychwanegu&#39;n llwyddiannus at y rhestr",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "EKG data",
+  "ecgdetail": "Cliciwch ar bob eitem i weld y llun ECG",
+  "ECG_DELETE_Q": "Ydych chi&#39;n siŵr eich bod am ddileu&#39;r EKG?",
+  "ecg_not_found": "Ffeil ECG anghywir, rhowch gynnig ar gamarwain arall.",
+  "ECG_REMOVED": "EKG wedi ei ddileu&#39;n llwyddiannus",
+  "edit": "Golygu",
+  "EKG_SECTION_TITLE": "Canlyniadau Electrocardiogram (EKG / ECG)",
+  "EKG_TITLE": "Llwytho EKG",
+  "EMAIL": "E-bost",
+  "email1": "E-bost",
+  "email_do_not_match": "Nid yw&#39;r negeseuon e-bost yn cyfateb",
+  "ematicTest": "Profion Ematig",
+  "Emergency": "Dangos Ar Argyfwng",
+  "emergency1": "Argyfwng",
+  "emergencyLoginCode": "Cod mewngofnodi brys",
+  "emergency_numbers": "Rhifau Argyfwng",
+  "emergency_number_description": "Ychwanegwch y rhifau ffôn i&#39;w ffonio rhag ofn y bydd argyfwng",
+  "emotionDescription": "Cyfuniad o amrywiol emosiynau sylfaenol, fel y&#39;u mynegwyd gan lais y defnyddwyr yn ystod adran llais dadansoddedig.",
+  "emotions": "Emosiynau Cyfunol",
+  "emptypassword": "Nodwch gyfrinair",
+  "EMPTY_ALLERGIES": "Cliciwch ar y botwm i ychwanegu clefyd at eich cofnod meddygol",
+  "empty_dataset": "Nid oes unrhyw ddata",
+  "EMPTY_DEPENDENCIES": "Cliciwch ar y botwm i ychwanegu dibyniaeth at eich cofnod meddygol",
+  "EMPTY_DISEASE": "Cliciwch ar y botwm i ychwanegu clefyd at eich cofnod meddygol",
+  "EMPTY_DOCUMENTS": "Cliciwch ar y botwm i ychwanegu dogfen at eich cofnod meddygol",
+  "EMPTY_IMAGES": "Cliciwch ar y botwm i ychwanegu delwedd i&#39;ch cofnod meddygol",
+  "EMPTY_IMMUNIZATION": "Cliciwch ar y botwm i ychwanegu brechiad at eich cofnod meddygol",
+  "EMPTY_MEDICATION": "Cliciwch ar y botwm i ychwanegu meddyginiaeth at eich cofnod meddygol",
+  "empty_otp": "Cod OTP annilys",
+  "EMPTY_PROSTHESIS": "Cliciwch ar y botwm i ychwanegu prosthesis at eich cofnod meddygol",
+  "EMPTY_TESTS": "Cliciwch ar y botwm i ychwanegu prawf at eich cofnod meddygol",
+  "enabled": "Wedi&#39;i alluogi",
+  "endate": "I",
+  "endcall": "Galwad derfynol",
+  "endDate": "Dyddiad Gorffen",
+  "endhour": "Amser Diwedd",
+  "end_time": "Amser Diwedd",
+  "END_VIDEOCALL_Q1": "Ydych chi&#39;n siŵr eich bod am ddod â&#39;r ymgynghoriad i ben heb ddechrau&#39;r cerdyn fideo?",
+  "END_VISIT_BTN": "Ymweliad terfynol",
+  "error": "Gwall",
+  "error_call_timeout": "Mae&#39;r amser i wneud y videocall ar ben. I wneud y videocall, ailadroddwch y broses eto.",
+  "ERROR_EMAIL_DUPPLICATE": "Mae&#39;n edrych fel bod y cyfeiriad e-bost hwn eisoes wedi&#39;i gofrestru. Rhowch gynnig ar un arall.",
+  "error_price": "Os gwelwch yn dda, nodwch ffi",
+  "ERROR_SPECIFY_DAYS": "Nodwch o leiaf un diwrnod wythnos",
+  "ERROR_SPECIFY_HOUR": "Nodwch yr amser",
+  "ERROR_TITLE_NOTIFICATION": "Gwall",
+  "ERROR_TRACKX": "Trowch ar Trackx",
+  "error_update": "Gwall Diweddaru Firmware",
+  "ERROR_USERNAME_DUPPLICATE": "Mae&#39;r enw defnyddiwr hwn eisoes wedi&#39;i gymryd, dewiswch un arall",
+  "ERROR_WHITELIST": "Mae&#39;n ddrwg gennym, nid yw&#39;ch dyfais wedi&#39;i galluogi i wneud y fideo-fideo",
+  "esameobbligatorio": "Dewiswch Arholiad",
+  "exam_name": "Enw&#39;r Arholiad",
+  "exercise": "Ymarfer",
+  "exercisereminders": "Fy Atgyweiriadau Ymarfer",
+  "existentassoc": "Cymdeithasau presennol",
+  "existentrelation": "Mae&#39;r berthynas hon yn bodoli eisoes",
+  "expandfordetails": "Ehangu am ragor o fanylion",
+  "EXP_MONTH": "Mis Dod i Ben",
+  "EXP_MONTH_REQUIRED": "Angen mis dod i ben",
+  "EXP_YEAR": "Blwyddyn Dod i Ben",
+  "EXP_YEAR_REQUIRED": "Blwyddyn dod i ben yn ofynnol",
+  "e_prescribing": "E-ragnodi",
+  "F": "Benyw",
+  "farmaci": "Meddyginiaethau",
+  "farmaco": "Meddyginiaeth",
+  "fat": "Braster",
+  "FATIGUE_INDEX": "Blinder",
+  "FATIGUE_INDEX_DESCRIPTION": "Gwaith, gwaith a phrofiad a achosir gan faint o fatigue. Mae blinder gormodol yn arwain at ystwythder cyhyrol ysgwydd, cur pen, anhunedd, blinder, poen y waen, ac yn hawdd arwain at y system nerfol, anhwylderau endocrin, sy&#39;n arwain at lawer o afiechydon cronig a blinder meddwl.",
+  "favoriteslist": "Fy Rhestr Ffefrynnau",
+  "FAVORITES_NO": "Nid ydych chi wedi ychwanegu unrhyw feddygon i&#39;ch rhestr ffefrynnau eto",
+  "FAVORITES_NO_PHARMACIES": "Nid ydych chi wedi ychwanegu unrhyw fferyllfa i&#39;ch rhestr ffefrynnau eto",
+  "FAVORITES_SECTION_SUBTITLE": "Cliciwch ar bob eitem i weld manylion llawn",
+  "FAVORITES_SECTION_TITLE": "Eich hoff feddygon",
+  "FAVORITES_TITLE": "Ffefrynnau",
+  "favourite_pharmacy": "Hoff Fferyllfeydd",
+  "FEE": "Rheoli Ffioedd",
+  "FEET": "traed",
+  "female": "Benyw",
+  "fileloaded": "Ffeil wedi&#39;i lwytho",
+  "fileloaded1": "Llwythir Llwythiad Llwyddiannus",
+  "fileName": "Enw Ffeil",
+  "filenotfound": "Ffeil heb ei ddarganfod",
+  "file_upload_instruction": "Llwytho cyfarwyddiadau i fyny",
+  "filldate": "Os gwelwch yn dda, dewiswch ddyddiad",
+  "filldoctor": "Dewiswch feddyg",
+  "fillpeciality": "Os gwelwch yn dda, dewiswch arbenigedd",
+  "fillthebox": "Llenwch y blwch",
+  "fill_indication": "Os gwelwch yn dda, llenwch y maes arwyddion",
+  "fill_indication_for": "Nodwch yr arwydd ar gyfer",
+  "fill_quantity": "Os gwelwch yn dda, llenwch y maes maint",
+  "fill_quantity_for": "Nodwch y swm ar gyfer",
+  "fill_your_doubt": "Rhowch ddisgrifiad yn y blwch uchod.",
+  "filter": "Hidlo",
+  "finddoctor": "Dod o hyd i feddygon",
+  "findFarmacia": "Chwilio Fferyllfa",
+  "findpatient": "Dod o hyd i glaf",
+  "findspcialist": "Dod o hyd i arbenigwr",
+  "findStruttura": "Strwythur Chwilio",
+  "finduser": "Dewch o hyd i ddefnyddiwr",
+  "FIND_A_DOCTOR": "Cysylltwch â meddyg",
+  "find_device": "Dewch o hyd i ddyfais",
+  "FIND_THE_BRACELET": "Dod o hyd i&#39;r Breichled",
+  "fingerprint_btn": "Galluogi mewngofnodi bysedd bysedd",
+  "fingerprint_hint": "Cadarnhau olion bysedd i barhau",
+  "fingerprint_hint2": "Cadarnhau olion bysedd i barhau",
+  "fingerprint_question": "Hoffech chi weithredu dilysu olion bysedd?",
+  "FIRMWARE_UPDATE": "Diweddariad Firmware",
+  "FIRMWARE_UPDATED": "Firmware Diweddarwyd",
+  "firstName": "Enw cyntaf",
+  "five_min": "Mewn 5 munud",
+  "fixappointment": "Ydych chi am drefnu&#39;r apwyntiad hwn?",
+  "forever": "Dduw",
+  "forgotPassword": "Wedi anghofio eich cyfrinair?",
+  "forgot_password": "Wedi anghofio cyfrinair?",
+  "forma": "Math",
+  "formafarmaco": "Ffurflen Feddyginiaeth",
+  "formatError": "Rhaid i&#39;r pris fod yn werth rhifol.",
+  "found_devices": "Dyfeisiau wedi&#39;u darganfod",
+  "FRIDAY": "Dydd Gwener",
+  "GENDER": "Rhyw",
+  "gender1": "Rhyw",
+  "general": "Cyffredinol",
+  "generalInfo": "Gwybodaeth gyffredinol",
+  "genericName": "Enw Generig",
+  "GENERIC_ERROR": "OOps! Aeth rhywbeth o&#39;i le. Rho gynnig Arni eto&#39;n hwyrach",
+  "geneticTest": "Prawf Genetig",
+  "geneticTestHeader2": "Trwy brofion genetig gallwch chi ddarganfod mwy am eich iechyd a gwneud y peth iawn i gadw&#39;n iach.",
+  "geneticTestHeader3": "Sut mae&#39;n gweithio",
+  "geneticTestProduct": "Proffil Maeth",
+  "geneticTestRequestBtn": "Gofynnwch am y prawf",
+  "geneticTestRequestSuccess": "Mae&#39;ch archeb wedi&#39;i gadarnhau. Byddwch yn derbyn y pecyn yn uniongyrchol gartref",
+  "geneticTestSection1": "Ydych chi eisiau nawr os yw&#39;r hyn rydych chi&#39;n ei fwyta yn ddigonol ar gyfer eich corff a&#39;ch metaboledd?",
+  "geneticTestSection2": "Ydych chi eisiau gwybod a yw&#39;r bwyd iachach yn achosi i&#39;ch corff beidio â risgio afiechydon cronig?",
+  "geneticTestSection3": "Bydd y prawf maeth yn rhoi gwybod i chi y cysylltiad rhwng eich DNA a&#39;ch diet.",
+  "geneticTestSection4": "Ychwanegwch yma eich rhif ffôn a&#39;r cyfeiriad rydych chi am gael y pecyn",
+  "geneticTestStep1": "1. Archebwch eich prawf",
+  "geneticTestStep1Subtitle": "Gwnewch eich archeb gyda&#39;r app a derbyn y pecyn yn uniongyrchol gartref.",
+  "geneticTestStep2Subtitle": "Cymerwch y sampl a&#39;i hanfon trwy&#39;r post trwy ddefnyddio&#39;r amlen a ddarparwn chi.",
+  "geneticTestStep3": "3. Cael y canlyniadau",
+  "geneticTestStep3Subtitle": "Ar ôl wythnos, fe gewch neges yn eich hysbysu y bydd canlyniadau&#39;r prawf genetig ar gael ar yr App.",
+  "geneticTestTitle": "Prawf Genetig",
+  "GLUCOMETER": "Glucometer",
+  "glucosio": "Glwcos",
+  "HAND_BRIGHTEN": "Codi&#39;ch Llaw i Ddileu",
+  "happiness": "Hapusrwydd",
+  "HDL": "Colesterol HDL",
+  "hdl_cholesterol_desc": "Gelwir colesterol lipoprotein dwysedd uchel (HDL) yn golesterol &#39;da&#39;. Mae&#39;r tabl canlynol yn dangos ystod y gwerthoedd.",
+  "healthtips": "Iechyd Meddwl",
+  "HEALTH_INDEX": "Iechyd",
+  "HEALTH_INDEX_DESCRIPTION": "Mynegai iechyd HRV yw trwy ddadansoddiad o gyfradd gyfartalog y galon AD ac amrywiad cyfradd y galon, HRV a pharamedrau eraill, yn seiliedig ar fesur canlyniadau amserol Holter i ddadansoddi paramedrau iechyd y corff, cynyddu mynegai iechyd, gan gynrychioli iechyd y corff yn well; gostwng mynegai iechyd, ar ran y corff Angen rhoi sylw i fywyd iach bob dydd.",
+  "heartRate": "AD",
+  "HEART_INDEX": "Calon",
+  "HEART_INDEX_DESCRIPTION": "Mae Defnyddwyr Swyddogaeth Cardiaidd yn mesur cyflwr y galon, ac mae eu perfformiad yn wahanol oherwydd eu gwahanol lefelau o gariad i&#39;r galon a statws iechyd cyffredinol. I ddatblygu ffordd o fyw iach ac arferion bwyta: mae strategaeth resymol i ymarfer y galon i orfodi&#39;r atodiad sodiwm calsiwm y galon, i amddiffyn y pibellau gwaed, yn gallu atal afiechyd y galon rhag cryfhau, yw cryfhau strategaeth ffwythiant cardiaidd.",
+  "height": "Uchder",
+  "height1": "Mae angen yr uchder ar gyfer cyfrifo BMI yn gywir",
+  "heightUnit": "Uned Uchder",
+  "hepaticFunction": "Swyddogaeth hepatig",
+  "hide": "Cuddio",
+  "high1": "Uchel",
+  "high_risk": "Risg uchel",
+  "history": "Hanes Ymgynghori",
+  "homepage": "Cartref",
+  "HOME_WARNING_MESSAGE": "Ydych chi&#39;n siŵr eich bod am lywio i ffwrdd o&#39;r dudalen hon? Bydd eich addasiad yn cael ei golli.",
+  "hormonalTest": "Prawf Swyddogaeth Hormonaidd",
+  "hospDate": "Hosp.date",
+  "hospit": "Ysbyty ar gyfer",
+  "hospital": "Ysbyty",
+  "hospitalization": "Ysbytai",
+  "hour": "Awr",
+  "hours": "Oriau",
+  "HOURS_BANK_DONATE_BTN": "Rhowch",
+  "HOURS_BANK_DONATION": "Oriau a roddwyd ar hyn o bryd:",
+  "HOURS_BANK_H": "Banc Oriau:",
+  "HOURS_BANK_SECTION_P1": "Iechyd yw ein prif flaenoriaeth yn SaluberMD ac rydym am gyflwyno cymaint o bobl â phosib. Drwy ein platfform, rydym yn ei gwneud hi&#39;n bosibl i&#39;r rhai sydd angen mynediad at ofal iechyd. Mae ein tîm allgymorth yn ymrwymedig i ddarparu cyfleoedd gofal iechyd i sefydliadau, unigolion a theuluoedd sydd eu hangen.",
+  "HOURS_BANK_SECTION_P2": "Dylech glicio ar y ddolen gyda faint o oriau yr ydych am eu rhoi, a byddwn yn eu hychwanegu at ein banc.",
+  "HOURS_BANK_SECTION_P3": "Byddwn yn cysylltu â chi drwy&#39;r app i ailddefnyddio&#39;r oriau a phan fyddwch ar gael, cliciwch i dderbyn i weld cleifion.",
+  "HOURS_BANK_SECTION_TITLE": "Ymunwch â ni i roi&#39;r rhodd o ofal iechyd!",
+  "HOURS_BANK_TITLE": "Banc Oriau",
+  "howto": "Sut i",
+  "howto1": "Mae&#39;r slotiau sydd ar gael wedi&#39;u marcio â phêl werdd",
+  "howto2": "Dewiswch gell gyda&#39;r bêl werdd a chliciwch arno i ehangu a dewis yr amser. Pan fyddwch chi&#39;n barod, cliciwch at y symbol pensil i weld y manylion a chymryd yr apwyntiad",
+  "howToPrice": "Rhaid i&#39;r pris fod yn werth rhifol. Caniateir dau werth degol ar y mwyaf. Gellir defnyddio dot neu atalnod fel gwahanyddion",
+  "hrv_buono": "Da",
+  "hrv_eccellente": "Rhagorol",
+  "hrv_generale": "Cyffredinol",
+  "hr_alta": "Fwy na 100",
+  "hr_bassa": "Llai na 60",
+  "HR_DESCRIPTION": "Tabl cyfeirio cyfraddau calon gorffwys gorffwys",
+  "HR_INTERVAL": "Cyfnod Mesur Adnoddau Dynol",
+  "hr_normale": "Rhwng 60 a 100",
+  "hsh": "Ysbyty a Hanes Llawfeddygol",
+  "IBAN": "IBAN",
+  "idx": "Mynegeion",
+  "image": "Delwedd",
+  "images": "Delweddau",
+  "immunization": "Imiwneiddio",
+  "immunizationmenu": "Imiwneiddio",
+  "importhealth": "Mewnforio Data Iechyd",
+  "impossible_transfer": "Yn amhosibl trosglwyddo&#39;r Galwad",
+  "INCH": "Inch",
+  "indexes": "Mynegeion",
+  "indication": "Dynodiad",
+  "INFO_BTN": "Gwybodaeth",
+  "info_salvate": "Data wedi&#39;i arbed yn llwyddiannus",
+  "iniezione": "Chwistrelliad",
+  "initiative": "Menter",
+  "initiativeerror": "Dewiswch un fenter",
+  "insert": "Mewnosod",
+  "inserttext": "Mewnosod testun yma",
+  "insert_otp_code": "Mewnosodwch y cod yma",
+  "internet_missing": "Nid ydych chi wedi cysylltu â&#39;r rhyngrwyd",
+  "invalidemail": "Cyfeiriad e-bost annilys",
+  "invoice": "Anfoneb",
+  "irregulartest": "Prawf afreolaidd",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Profion Swyddogaeth Arennau",
+  "labtesting": "Rhwydwaith",
+  "LANGUAGE": "Iaith",
+  "LANGUAGE_TYPE": "Iaith",
+  "lastmeasure": "Mesur olaf",
+  "lastName": "Enw Diwethaf",
+  "lastPhysical": "Gorfforol Diwethaf",
+  "lastSync": "Sync olaf",
+  "lastTimeOnline": "Amser Diwethaf Ar-lein",
+  "lastvisit": "Ymweliad diwethaf",
+  "last_login_date": "Mewngofnodi diwethaf Dyddiad",
+  "last_time_taken": "Y tro diwethaf",
+  "LDL": "Colesterol LDL",
+  "ldl_cholesterol_desc": "LDL, neu lipoprotein dwysedd isel, yw&#39;r colesterol &#39;drwg&#39;. Mae&#39;r tabl canlynol yn dangos ystod y gwerthoedd",
+  "leggero": "Golau",
+  "LICENSE_NUMBER": "Rhif trwydded",
+  "LIGHT_SLEEP_TIME": "Cysgod Ysgafn",
+  "listcall": "Rhestr o gerdyn fideo wedi&#39;i wneud",
+  "litri": "Liter",
+  "liverExam": "Prawf Swyddogaeth yr Afu",
+  "LIVE_ECG": "Mesur newydd",
+  "live_ecg_downloading": "Lawrlwytho ECG. Arhoswch os gwelwch yn dda...",
+  "loadEcgList": "Llwytho rhestr EKG ...",
+  "loading": "Llwytho data ...",
+  "loading1": "Llwytho ...",
+  "loading_list": "Llwytho rhestr ...",
+  "loading_list_nutritionist": "Llwytho maethiadwyr ...",
+  "LOAD_INDEX": "Llwythwch",
+  "LOAD_INDEX_DESCRIPTION": "Gradd a blinder, straen Ystyriaeth gynhwysfawr o&#39;r corff i ddwyn y mynegai llwyth, gan adlewyrchu agweddau ffisegol a seicolegol y bobl sy&#39;n dwyn y sefyllfa llwyth. Cymdeithasol, bywyd a chystadleuaeth allanol a ffactorau eraill, ond hefyd gan eu cyflwr corfforol a&#39;u cyflwr meddyliol eu hunain.",
+  "LOAD_ITEMS": "Llwytho ...",
+  "LOGGING_IN": "Logio i mewn ...",
+  "LOGGING_OUT": "Mewngofnodi ...",
+  "LOGIN_BTN": "Mewngofnodi",
+  "LOGIN_ERROR": "Enw Defnyddiwr neu Gyfrinair Anghywir",
+  "Logout": "Allgofnodi",
+  "logout1": "Allgofnodi",
+  "LOGOUT_BTN": "Allgofnodi",
+  "low1": "Isel",
+  "lunch": "Cinio",
+  "lungtest": "Gadewch i ni wneud prawf yr ysgyfaint",
+  "M": "Gwryw",
+  "male": "Gwryw",
+  "manageapp": "Rheoli apwyntiadau",
+  "manageslot": "Rheoli slot am ddim",
+  "MANAGE_CORX": "Rheoli Corx",
+  "mandatoryDays": "Os gwelwch yn dda, nodwch nifer y dyddiau",
+  "mandatoryfield": "Os gwelwch yn dda, llenwch yr holl feysydd gorfodol",
+  "map": "Map",
+  "max_file_size": "Rhaid i faint y ffeil fod yn llai na",
+  "meals": "Prydau bwyd",
+  "medicalconsultation": "Ymgynghoriad",
+  "medicalfile": "Delweddau",
+  "medicalform": "Ffurflenni Meddygol",
+  "medicalforms": "Ffurflenni Meddygol",
+  "medicalinfo": "Gwybodaeth Feddygol",
+  "medicalrecord": "Cofnod Meddygol",
+  "medical_2option": "Ail Feddygol Meddygol",
+  "MEDICAL_CERTIFICATE": "Tystysgrif Feddygol",
+  "MEDICAL_FILE_BTN": "Ffeil Feddygol",
+  "medication": "Meddyginiaeth",
+  "medication_name": "Enw meddyginiaeth",
+  "medicinereminders": "Fy meddyginiaeth Atgoffa",
+  "medio": "Canolig",
+  "medium1": "Canolig",
+  "message": "Neges",
+  "messagesent": "Neges yn cael ei anfon yn llwyddiannus",
+  "metabolismTest": "Profion Metabolaeth",
+  "method": "Dull",
+  "METRIC": "Metrig",
+  "middedcall2": "Mae gennych alwad heb ei hateb oddi wrth",
+  "minutes": "cofnodion",
+  "missedcall": "Cerdyn fideo wedi ei golli gan Saluber",
+  "missedcall1": "Galwad a gollwyd",
+  "missedNotiAlert": "Rydych wedi colli rhai hysbysiadau.",
+  "misurazioni": "Cofnodion",
+  "misure": "Mesur",
+  "mobile": "Symudol",
+  "mobile_required": "Os gwelwch yn dda, rhowch eich rhif ffôn fel y gallwn gysylltu â chi i drefnu apwyntiad.",
+  "moderate_risk": "Risg cymedrol",
+  "MONDAY": "Dydd Llun",
+  "month": "Mis",
+  "mood": "Grŵp hwyliau",
+  "moodDescription": "Dangosydd allweddol o gyflwr emosiynol siaradwr yn ystod yr adran llais dadansoddedig. Mae&#39;r API yn cynhyrchu cyfanswm o 11 o grwpiau hwyliau sy&#39;n amrywio o dicter, unigrwydd a hunanreolaeth i hapusrwydd a chyffro.",
+  "moreDays": "Mwy o ddyddiau",
+  "motivazione": "Rheswm",
+  "MRGraph": "Meddygaeth wedi cymryd hanes",
+  "msgAppointment": "Mae&#39;r apwyntiad wedi&#39;i drefnu&#39;n llwyddiannus. Fe welwch eich apwyntiad yn yr adran budd-daliadau concierge.",
+  "msgsurveysent": "Anfonwyd yr arolwg yn llwyddiannus",
+  "msg_call_reconnection": "Ceisio ailgysylltu ...",
+  "MSG_CALL_TRANSFERED": "Trosglwyddwyd y cerdyn fideo yn llwyddiannus",
+  "MSG_CHOOSE_OPTION": "Os gwelwch yn dda, dewiswch opsiwn",
+  "MSG_CHOOSE_OPTION4": "Dewiswch opsiwn",
+  "MSG_CHOOSE_OPTION5": "Disgrifiwch eich brecwast",
+  "MSG_CHOOSE_OPTION6": "Disgrifiwch eich cinio",
+  "MSG_CHOOSE_OPTION7": "Disgrifiwch eich cinio",
+  "MSG_CHOOSE_OPTION8": "Disgrifiwch eich snaciau",
+  "MSG_CHOOSE_OPTION9": "Atebwch yr holl gwestiynau",
+  "MSG_CHOOSE_OPTION_2": "Rhowch ddisgrifiad os gwelwch yn dda",
+  "MSG_CHOOSE_OPTION_3": "Dewis o leiaf un opsiwn",
+  "MSG_COMPLETE_PROFILE": "Hoffech chi fynd nawr?",
+  "MSG_CONFIRM_EMAIL": "Cadarnhewch eich e-bost",
+  "MSG_CONFIRM_EMAIL_TEXT": "Fe wnaethom anfon e-bost atoch gyda chyfarwyddiadau ar sut i gadarnhau eich cyfeiriad e-bost. Gwiriwch eich blwch post.",
+  "msg_connected": "Cysylltiedig yn llwyddiannus",
+  "MSG_CONTACT_SUCCESS": "Diolch am eich cyflwyniad.",
+  "MSG_DOC_ENDED_CALL": "Mae&#39;r meddyg wedi dod i ben yr alwad",
+  "MSG_DOC_WAITING_CALL": "Mae&#39;r Doctor wedi ei datgysylltu, yn aros am ailgysylltu",
+  "MSG_DONATION": "Cadarnhau eich rhodd?",
+  "MSG_DONATION_CONFIRM": "Diolch am eich rhodd",
+  "MSG_ERROR_FILL_BOXES": "Llenwch y blychau gyda&#39;r gwerthoedd cywir",
+  "MSG_FILL_ALL_BOXES": "Os gwelwch yn dda, llenwch bob blychau",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Llenwch bob un o&#39;r meysydd canlynol",
+  "MSG_FILL_BOXES": "Llenwch y blychau",
+  "MSG_FILL_BOXES_ALL": "Os gwelwch yn dda, llenwch yr holl feysydd",
+  "MSG_FILL_BOXES_PROFILE": "Os gwelwch yn dda, llenwch yr holl flychau sydd wedi&#39;u marcio â seren",
+  "MSG_GENERIC_ERROR": "Gwiriwch eich cysylltiad rhyngrwyd i fynd yn ôl.",
+  "MSG_GENERIC_FORM_ERROR": "Rhowch y gwall i barhau",
+  "MSG_LOGIN_ERROR": "Methodd mewngofnodi. Gwiriwch eich tystysgrifau a gwnewch yn siŵr eich bod chi&#39;n gysylltiedig â&#39;r rhwydwaith.",
+  "MSG_LOGIN_ERROR_LOCKED": "Methodd mewngofnodi: mae eich cyfrif dros dro wedi&#39;i gloi. Ailadroddwch yn ddiweddarach.",
+  "MSG_MANDATORY_OPTION": "Rhaid i Youy awdurdodi&#39;r meddyg i weld y Ffeil Feddygol",
+  "MSG_NO_DOCTORS_FOUND": "Rydym yn apolozie, ond ni ddarganfuwyd unrhyw feddygon. Gwasgwch Dod o hyd i feddyg er mwyn ailadrodd",
+  "MSG_PATIENT_CANCELED_CALL": "Mae&#39;r claf wedi canslo&#39;r alwad.",
+  "MSG_PATIENT_ENDED_CALL": "Mae&#39;r claf wedi dod i ben yr alwad",
+  "MSG_PATIENT_WAITING_CALL": "Mae&#39;r Claf wedi&#39;i ddatgysylltu, yn aros am ailgysylltu",
+  "MSG_POST_CALL_CANCEL": "Rydych chi wedi dod i ben yr ymweliad cyn dechrau&#39;r cerdyn fideo!",
+  "MSG_POST_CALL_DOCTOR": "Crynodeb a anfonir byddwch yn dychwelyd i&#39;r hafan",
+  "MSG_POST_CALL_PATIENT": "Diolch am ddefnyddio SaluberMD. Byddwch yn derbyn e-bost dilynol. I weld manylion am eich ymweliad, ewch i My Profile-Visit History",
+  "msg_reconnection_error": "Dyfais wedi&#39;i ddatgysylltu. Os gwelwch yn dda, ail-gysylltu y ddyfais",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Diolch ... bydd rhywun yn cysylltu â chi",
+  "MSG_REGISTRATION_SUCCESS": "Roedd eich cofrestriad yn llwyddiannus",
+  "msg_req_videocall1": "ar gael ar gyfer y videocall yn:",
+  "msg_req_videocall2": "Mae&#39;r videocall yn barod i ddechrau. Cliciwch ar yr hysbysiad hwn i roi&#39;r videocall ar waith",
+  "msg_req_videocall3": "ar gael ar gyfer y videocall nawr. Cliciwch ar yr hysbysiad hwn i roi&#39;r videocall ar waith",
+  "MSG_RESET_REQUEST_ERROR": "Nid yw&#39;r defnyddiwr gyda&#39;r enw defnyddiwr neu&#39;r cyfeiriad e-bost hwn yn bodoli.",
+  "MSG_RESET_REQUEST_SUCCESS": "Byddwch yn derbyn e-bost yn fuan yn cynnwys dolen i ailosod cyfrinair.",
+  "MSG_RESUME_CALL": "Ar hyn o bryd mae gennych alwad, a hoffech chi ei ailddechrau?",
+  "MSG_SCHOOL_MISSING": "Mewnosod Ysgol",
+  "MSG_SELECT_TIMEZONE": "Dewiswch faes amser",
+  "MSG_SIGNATURE_MISSING": "Llenwch eich llofnod, fel arall, ni allwch chi anfon unrhyw bresgripsiynau.",
+  "MSG_THANKING": "Diolch am eich cyflwyniad.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Cysylltiad coll Gallai hyn fod oherwydd eich cysylltiad rhyngrwyd",
+  "MSG_WELCOME_BACK": "Croeso nol",
+  "MSG_YEAR_PRACTISE": "Mewnosod Blwyddyn Ymarfer",
+  "muscles": "Cyhyrau",
+  "myappointment": "Fy benodiadau",
+  "MYFILE_NOFILE": "Nid oes gennych unrhyw ffeiliau eto",
+  "MYFILE_SECTION": "Eich ffeiliau",
+  "MYFILE_SUBTITLE": "Cliciwch ar bob eitem i weld cynnwys y ffeil",
+  "MYFILE_TITLE": "Fy Ffeiliau",
+  "myprofile": "Fy mhroffil",
+  "myreminders": "Fy Atgoffa",
+  "MY_TICKETS": "Eich tocynnau",
+  "M_SCHOOL": "Ysgol Feddygol",
+  "N": "Na",
+  "name": "Enw",
+  "negative": "Negyddol",
+  "nervous": "Nervus",
+  "nessun_appuntamento": "Nid oes penodiadau yn y gorffennol",
+  "NETWORK_CHECK_MSG": "Mae&#39;ch Lled Band yn rhy isel. Bydd chwarae cynnwys gyda lled band isel yn achosi i&#39;r fideo roi&#39;r gorau iddi.",
+  "NETWORK_CHECK_TITLE": "Galw Prawf Ansawdd",
+  "NETWORK_ERROR": "Gwall Cysylltiad Rhyngrwyd. Ceisiwch eto&#39;n ddiweddarach",
+  "neutral": "Niwtral",
+  "newappointment": "Apwyntiad newydd o",
+  "newass": "Ychwanegu cymdeithas newydd",
+  "NEWPWD_CONFIRM": "Cyfrinair wedi newid yn llwyddiannus. Mewngofnodwch eto.",
+  "NEWPWD_CONFIRM2": "Newidiwyd cyfrinair yn llwyddiannus",
+  "NEWPWD_ERROR": "Cyfrinair newydd ddim yn cydweddu.",
+  "newtest": "Gwasgwch y botwm ychwanegol i wneud prawf newydd.",
+  "NEW_PWD": "Cyfrinair newydd",
+  "new_ticket": "Tocyn Newydd",
+  "NEXT": "Nesaf",
+  "no": "Na",
+  "noAlarm": "Dim set larwm",
+  "noallergies": "Nid oes unrhyw alergeddau wedi&#39;u rhestru.",
+  "noapatient": "Ni chanfuwyd unrhyw glaf",
+  "noappointment": "Nid oes unrhyw benodiad wedi&#39;i drefnu",
+  "noappointments": "Nid oes dyddiad ar gael gyda&#39;r meddyg hwn",
+  "noappointments1": "Nid oes dyddiadau ar gael gyda&#39;r maethiadydd hwn",
+  "noAppoPat": "Nid oes apwyntiad i fod ar y rhestr",
+  "noarticles": "Dim erthyglau maeth",
+  "noassociatedpatient": "Nid oes gennych unrhyw gleifion cysylltiedig eto",
+  "noattachment": "Dewiswch atodiad",
+  "noattachment1": "Dim Atodiad",
+  "noavailableoption": "Dim opsiwn ar gael",
+  "nocomment": "Dim sylwadau / argymell",
+  "noconsulenze": "Dim ymweliadau wedi eu gwneud",
+  "nocorxfound": "Ni chanfuwyd CORX",
+  "nodata": "Dim data",
+  "nodependency": "Nid oes unrhyw ddibyniaethau wedi&#39;u rhestru.",
+  "nodesease": "Nid oes unrhyw glefydau wedi&#39;u rhestru.",
+  "nodevice": "Ni chanfuwyd unrhyw ddyfais, ailadroddwch",
+  "nodoctor": "Ni chanfuwyd unrhyw feddygon",
+  "nodoctors": "Dim meddyg ar gael",
+  "noDocuments": "Ni lwythwyd unrhyw ddogfennau i fyny",
+  "nodrugselected": "Nid ydych chi wedi dewis unrhyw gyffur",
+  "noecg": "Dim rhestr ECG",
+  "noexam": "Nid oes arholiad i&#39;w arddangos",
+  "nofiles": "Nid oes unrhyw ffeiliau wedi&#39;u llwytho i fyny gan y claf",
+  "noHistory": "Nid oes unrhyw ymgynghoriadau ar hyn o bryd",
+  "nohsh": "Nid oes unrhyw ysbytai a restrir.",
+  "noimages": "Nid oes atodiad ar hyn o bryd",
+  "noimmunization": "Nid oes unrhyw imiwneiddiadau wedi&#39;u rhestru.",
+  "nolabtest": "Ni chanfuwyd unrhyw brofion labordy",
+  "nomedication": "Nid oes unrhyw feddyginiaethau wedi&#39;u rhestru.",
+  "nomisure": "Nid oes mesur",
+  "nonterminata": "Ffoniwch aflwyddiannus",
+  "nonutritionist": "Dim Nutricitionist ar gael",
+  "nonuvoair": "Ni ddarganfuwyd unrhyw ddyfais",
+  "nopharmacy": "Ni chanfuwyd unrhyw fferyllfeydd",
+  "noprescription": "Nid oes presgripsiynau ar hyn o bryd",
+  "noprothesis": "Nid oes prosthesis na chymhorthion meddygol wedi&#39;u rhestru.",
+  "noreferrals": "Nid oes unrhyw atgyfeiriadau wedi&#39;u rhestru",
+  "noreminders": "Nid oes gennych unrhyw atgoffa am hyn nawr",
+  "noresults": "Ni chanfuwyd canlyniadau",
+  "normale": "Cyffredin",
+  "normalrange": "Ystod Safonol",
+  "normalWeight": "Pwysau arferol",
+  "nosintomi": "Dim dewis symptom",
+  "nospecialist": "Nid oes unrhyw arbenigwyr",
+  "note": "Nodiadau",
+  "notests": "Nid oes unrhyw brofion afreolaidd wedi&#39;u rhestru.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Cliciwch yma i orffen cwblhau&#39;ch ffeil feddygol",
+  "NOTIFICATIONS_SECTION": "Eich hysbysiadau",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Derbyn 1 ymgynghoriad am ddim neu asesiad iechyd yn galw ar ôl cwblhau&#39;ch ffeil feddygol yn llawn.",
+  "NOTIFICATIONS_SETTINGS": "Gosod Hysbysiadau",
+  "NOTIFICATIONS_TITLE": "Hysbysiadau",
+  "notification_setting": "Dewiswch o&#39;r categori wich rydych chi am dderbyn hysbysiadau",
+  "notimage": "Nid delwedd yw&#39;r ffeil: Dim ond BMP, GIF, JPG a PNG sy&#39;n cael eu caniatáu",
+  "notNow": "Ddim yn awr",
+  "notnow_btn": "Ddim yn awr",
+  "nouser": "Ni chanfuwyd unrhyw ddefnyddiwr",
+  "novantad": "90 diwrnod diwethaf",
+  "novideocall": "Ni ddarganfuwyd unrhyw fideo",
+  "novisit": "Nid oes gennych ymweliadau cleifion eto",
+  "noWellnessData": "Dim Data Wellness Newydd",
+  "no_certificate": "Dim tystysgrif i&#39;w rhestru",
+  "no_chiosc_data": "Dim prawf labordy i&#39;w weld",
+  "NO_DATA": "Dim data",
+  "no_doctor_answer1": "Nid oes unrhyw feddygon ar gael ar hyn o bryd.",
+  "no_doctor_answer2": "Gallwch gymryd apwyntiad trwy glicio ar y botwm isod.",
+  "NO_GENETIC_TEST_REQUESTS": "Nid ydych wedi gofyn am unrhyw brawf genetig",
+  "NO_MSG": "Dim negeseuon a anfonwyd",
+  "no_notifications": "Nid oes gennych unrhyw hysbysiadau",
+  "no_prescription_download": "Nid oes unrhyw bresgripsiwn sy&#39;n gysylltiedig â&#39;r ymgynghoriad hwn",
+  "no_pull_answer": "Nid oes meddyg ar gael ar hyn o bryd.",
+  "no_referral_download": "Nid oes unrhyw atgyfeiriad yn gysylltiedig â&#39;r ymweliad hwn",
+  "NO_SECOND_OP_REQUESTS": "Nid oes gennych gais am y Gwasanaeth Ail Farn",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Ni chanfuwyd unrhyw arbenigedd",
+  "NO_TICKETS_SENT": "Ni anfonwyd unrhyw docynnau",
+  "NO_USER_FOUND": "Enw defnyddiwr neu e-bost heb ei darganfod",
+  "NPI": "NPI",
+  "ns": "System nerfol",
+  "numberNotSaved": "Gwall wrth arbed y rhif",
+  "numberSaved": "Nifer Wedi&#39;i Cadw&#39;n Llwyddiannus",
+  "nuovoair_connected": "Cysylltiedig",
+  "nuovoair_disconnected": "Wedi&#39;i gysylltu â&#39;i gilydd",
+  "nutriPen": "Yn aros am gais",
+  "nutriRev": "Adolygu&#39;r holiadur",
+  "nutrition": "maeth",
+  "nutritionist": "Siaradwch â maethydd",
+  "NUTRITIONIST_Q1": "Nodau Sylfaenol: (Gwiriwch yr holl Ymgeisio)",
+  "NUTRITIONIST_Q10": "A ydych yn amlwg yn anniddig, yn ysgafn neu&#39;n wan os nad ydych wedi bwyta?",
+  "NUTRITIONIST_Q11": "Regimen Exercise Cyfredol: (Cardio, Resistance, Etc.)",
+  "NUTRITIONIST_Q12": "Ydych chi&#39;n Mwg ?: (Os ydw, pa mor aml a pha faint?)",
+  "NUTRITIONIST_Q13": "Ydych chi&#39;n Yfed Alcohol ?: (Os ydw, pa mor aml a pha faint?)",
+  "NUTRITIONIST_Q14": "Ydych chi&#39;n Yfed Caffein ?: (Os ydw, pa mor aml a faint?)",
+  "NUTRITIONIST_Q15": "Dyddiad y Corfforol diwethaf:",
+  "NUTRITIONIST_Q16": "Sawl gwaith ydych chi wedi cael eich rhagnodi wrthfiotigau yn ystod y 2 flynedd diwethaf:",
+  "NUTRITIONIST_Q16_BIS": "Os felly, Pa rai a pha mor aml, (Byddwch mor benodol â phosibl).",
+  "NUTRITIONIST_Q17": "Ydych chi&#39;n cymryd meddyginiaethau? (OTC neu bresgripsiwn?) Os felly, pa rai ac a ydych chi&#39;n cymryd atchwanegiadau? Os felly, pa mor aml, (Byddwch mor benodol â phosib.)",
+  "NUTRITIONIST_Q18": "Ydych chi&#39;n cwympo neu&#39;n rhwymedigus mwy na 1-2 diwrnod yr wythnos?",
+  "NUTRITIONIST_Q19": "Oes gennych chi broblemau yn y meysydd canlynol? Os oes, disgrifiwch eich materion yn fanwl yn y mannau a ddarperir.",
+  "NUTRITIONIST_Q2": "Tua faint o brydau bwyd ydych chi&#39;n ei fwyta y dydd? (Dewis un)",
+  "NUTRITIONIST_Q3": "Beth yw Eich Brecwast Cyffredin, a pha bryd:",
+  "NUTRITIONIST_Q4": "Beth yw eich cinio nodweddiadol Yn cynnwys, a pha bryd:",
+  "NUTRITIONIST_Q5": "Beth yw eich Cinio Typical, a pha bryd:",
+  "NUTRITIONIST_Q6": "Beth yw eich byrbrydau nodweddiadol Yn cynnwys, a pha bryd (au):",
+  "NUTRITIONIST_Q7": "Ydych Chi&#39;n Ehangu?",
+  "NUTRITIONIST_Q8": "Pa fwydydd ydych chi&#39;n tueddu i oroesi a pha mor aml:",
+  "NUTRITIONIST_Q9": "A oes gennych unrhyw alergeddau, cyfyngiadau neu sensitifrwydd bwyd:",
+  "NUTRITIONIST_SUB1": "Colli pwysau",
+  "NUTRITIONIST_SUB10": "Cyfog / Chwydu",
+  "NUTRITIONIST_SUB11": "Poen Stumog",
+  "NUTRITIONIST_SUB2": "Pwysau Ennill",
+  "NUTRITIONIST_SUB3": "Ynni / Blinder",
+  "NUTRITIONIST_SUB4": "Gwell Cwsg",
+  "NUTRITIONIST_SUB5": "Materion Treuliad",
+  "NUTRITIONIST_SUB6": "Rhyfeddod",
+  "NUTRITIONIST_SUB7": "Dolur rhydd",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Blodeuo / Nwy",
+  "nutrition_mail": "Atodedig ceir adroddiad maethiadydd",
+  "nutrition_mail2": "Mae&#39;r maethegydd yn anfon ffeil i chi",
+  "nutrition_questionnaire": "holiadur maeth",
+  "nvisit": "Nifer y cerdynau fideos a wnaed",
+  "obesity1": "Obese",
+  "obesity2": "Yn ddifrifol ordew",
+  "obesity3": "Morbid yn ordew",
+  "OFFICE_ADDRESS": "Cyfeiriad swyddfa",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Mae&#39;n ymddangos bod y meddyg yn all-lein, rhowch gynnig arall arni yn nes ymlaen",
+  "OLDPWD_ERROR": "Cyfrinair newydd yn cyfateb â hen gyfrinair.",
+  "OLD_PASSWORD_WRONG": "Mae&#39;r hen gyfrinair yn anghywir",
+  "OLD_PWD": "Hen gyfrinair",
+  "oneDay": "Un diwrnod",
+  "one_min": "Mewn 1 munud",
+  "online": "Ar-lein",
+  "onlinedoctors": "Meddygon Ar-lein",
+  "openimage": "Cliciwch ar y ddelwedd i agor yn y sgrîn lawn",
+  "open_ticket": "Agor Tic",
+  "orale": "Erbyn y Geg",
+  "other": "Arall",
+  "othercbc": "Arholiadau eraill CBS",
+  "OTHER_PLACEHOLDER": "Dewiswch eich arbenigedd",
+  "otoscopy": "Otosgopi",
+  "otp_sent_msg": "Rydym wedi anfon cod gwirio atoch ar eich rhif ffôn",
+  "OUR_PRODUCTS_SECTION": "Mae ein dyfeisiau&#39;n darparu data iechyd a lles da iawn i&#39;ch helpu i gadw golwg ar eich iechyd.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Mesurwch eich iechyd yr ysgyfaint mewn eiliadau gyda sbectomedr proffesiynol",
+  "OUR_PRODUCTS_SECTION_P1": "Dechnoleg wearable smart sy&#39;n darparu data iechyd amser real yn ychwanegol at swyddogaethau lles",
+  "OUR_PRODUCTS_SECTION_P2": "Buddion Ffitrwydd / Wellness",
+  "OUR_PRODUCTS_SECTION_P3": "Pecyn diagnostig eich cartref ar gyfer y teulu cyfan.",
+  "OUR_PRODUCTS_SECTION_P4": "Nodweddion",
+  "OUR_PRODUCTS_SECTION_P5": "Mae&#39;r ddau ddyfais wedi eu cynllunio i ryngweithio â&#39;r app er mwyn darparu profiad iechyd wedi&#39;i grwnu&#39;n dda. Bydd eich canlyniadau yn cael eu storio&#39;n uniongyrchol yn yr app.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Mesurwch eich pwysedd buches mewn eiliadau gyda sffygmomedr proffesiynol",
+  "OUR_PRODUCTS_SECTION_SCALX": "Mesurwch eich pwysau mewn eiliadau gyda graddfa broffesiynol",
+  "OUR_PRODUCTS_TITLE": "Ein Cynhyrchion",
+  "overeatFoods": "Bwyd sy&#39;n cael ei or-greu",
+  "overeating": "Gorfwyta tuedd",
+  "overweight": "Rhy drwm",
+  "pa": "Cynorthwy-ydd Presgripsiwn",
+  "PASSWORD": "Cyfrinair",
+  "passwordchanged": "Cyfrinair wedi newid yn llwyddiannus!",
+  "passwordExpiringMessage": "Bydd eich cyfrinair yn dod i ben yn fuan. Os gwelwch yn dda newidiwch nawr",
+  "passwordExpiringTitle": "Cyfrinair yn dod i ben",
+  "PATIENT": "Cleifion",
+  "patientAllergy": "Alergeddau",
+  "patientGeneticRequests": "Ceisiadau Prawf Genetig",
+  "patientinfo": "Gwybodaeth i gleifion",
+  "patientlist": "Rhestr cleifion",
+  "patientmanagement": "Rheoli cleifion",
+  "patientProtesi": "Prosthesis",
+  "PATIENTS_NO_P": "Ar hyn o bryd nid oes gennych apwyntiadau cleifion wedi&#39;u trefnu",
+  "PATIENTS_SECTION": "Eich apwyntiadau",
+  "PATIENTS_SECTION_SUBTITLE": "Cliciwch ar bob eitem i weld manylion llawn",
+  "PATIENTS_TITLE": "Cleifion",
+  "patientupdate": "Cleifion",
+  "patientvisit": "Hanes ymweliadau â chleifion",
+  "PATIENT_PROFILE_OPT1": "Fy mhroffil",
+  "PATIENT_PROFILE_OPT11": "Fy Ffefrynnau Ffefrynnau",
+  "PATIENT_PROFILE_OPT12": "Ychwanegwch Fferyllfa hoff",
+  "PATIENT_PROFILE_OPT2": "Fy Ffeil Feddygol",
+  "PATIENT_PROFILE_OPT3": "Fy hanes Ymweld",
+  "PATIENT_PROFILE_OPT4": "Fy Ffefrynnau",
+  "PATIENT_PROFILE_OPT5": "Fy Ffeiliau",
+  "PATIENT_PROFILE_OPT6": "Fy Hysbysiadau",
+  "PATIENT_PROFILE_OPT7": "Llwytho EKG",
+  "PATIENT_PROFILE_OPT8": "Data Dyfais Meddygol",
+  "PATIENT_PROFILE_OPT9": "Fy Ffefrynnau Fferyllfeydd",
+  "PATIENT_S1": "Cleifion",
+  "PATIENT_S2": "Siarad am",
+  "PATIENT_S3": "Gwybodaeth i gleifion",
+  "PATIENT_S4": "Yn amodol ar yr ymweliad",
+  "PATIENT_S5": "Clefydau",
+  "PATIENT_S6": "Alergeddau",
+  "PATIENT_S7": "Meddyginiaethau",
+  "PATIENT_S8": "Dogfennau atodol",
+  "PATIENT_S9": "Symptomau?",
+  "PATIENT_SUMMARY": "Crynodeb o wybodaeth am gleifion",
+  "patologia": "Patholeg",
+  "payment": "Taliad",
+  "PAYMENT_DETAILS": "Manylion Talu",
+  "PAYMENT_MESSAGE_1": "Byddwch yn rhag-awdurdodedig am swm o",
+  "PAYMENT_MESSAGE_2": "Codir tâl arnoch ar ddiwedd y fideo",
+  "PAYMENT_SECTION1": "Dewiswch gerdyn o&#39;r rhestr",
+  "PAYMENT_SECTION2": "Rhowch y gwerthoedd cerdyn credyd",
+  "PAYMENT_SUCCESS": "Llwyddiant Talu!",
+  "PAYMENT_SUCCESSFUL": "Yr ydym wedi llwyddo i awdurdodi&#39;r taliad yn llwyddiannus",
+  "PAYMENT_UNSUCCESSFUL": "Methiant cyn-awdurdodi talu. Gwiriwch eich gwybodaeth am gerdyn credyd neu gofynnwch i&#39;ch banc.",
+  "paziente_rimosso": "Mae statws claf wedi newid yn llwyddiannus",
+  "paziente_salvato": "Diweddarwyd y claf yn llwyddiannus",
+  "pdf_download_error": "Does dim modd lawrlwytho pdf. Rho gynnig Arni eto&#39;n hwyrach",
+  "pdf_file_error": "Dim ond ffeiliau pdf sy&#39;n cael eu derbyn",
+  "period": "Cyfnod",
+  "PERIODIC_HEART_RATE": "Cyfradd Galon Cyfnodol",
+  "personal": "Personol",
+  "personalCare": "Gofal Personol",
+  "personalinfo": "Gwybodaeth personol",
+  "PER_MIN": "/ min",
+  "pharmacies": "Fferyllfeydd",
+  "PHONE": "Rhif ffôn",
+  "phone1": "Ffôn",
+  "pills": "Pils",
+  "PILLS_DATE_ERROR": "Dyddiad dechrau ar ôl y dyddiad gorffen",
+  "pill_reminder_message": "Mae&#39;n amser mynd â&#39;ch tabledi",
+  "placeholder": "enw defnyddiwr, e-bost neu enw",
+  "placeOfBirth": "Man Geni",
+  "place_birth": "Man geni",
+  "platform": "Platfform",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Rhif Polisi",
+  "positive": "Cadarnhaol",
+  "POSTCALL_DOCTOR_TITLE": "Crynodeb o&#39;r ymweliad",
+  "POSTCALL_PATIENT_TITLE": "Os gwelwch yn dda, cyfraddwch eich profiad",
+  "POUNDS": "bunnoedd",
+  "PRACTICE_LENGTH": "Hyd yn ymarferol",
+  "prenota": "Archebwch nawr",
+  "prenotatest": "Gofyn am apwyntiad",
+  "preobesity": "Cyn-ordewdra",
+  "prescription": "Presgripsiwn",
+  "prescriptiondiscounts": "Gostyngiadau Presgripsiwn",
+  "PRESCRIPTIONS": "Presgripsiynau",
+  "prescriptions_sent": "Presgripsiynau a anfonwyd",
+  "prescription_mail": "Atodedig mae eich presgripsiwn",
+  "prescription_mail2": "Diolch am ddefnyddio SaluberMD",
+  "prescription_notification": "Annwyl ddefnyddiwr, rydyn ni&#39;n eich hysbysu bod eich presgripsiwn ar gael nawr o dan adran llinell amser / hanes y gynhadledd o&#39;r app",
+  "prescription_pharmacy": "Dewiswch fferyllfa i anfon y presgripsiwn",
+  "prescription_preview": "Rhagolwg rhagnodi",
+  "prescription_sent": "Presgripsiwn a anfonwyd",
+  "PRESCRIPTION_SENT_EMAIL": "Anfonwyd eich presgripsiwn at eich e-bost ...",
+  "prescription_subject": "Eich presgripsiwn",
+  "pressbutton": "Gwasgwch y botwm pâr ar y ddyfais a tap Dod o hyd i Ddisg",
+  "pressbuttonpresx": "Gwasgwch a dal y botwm pâr ar gefn y ddyfais i gychwyn y cysylltiad a thocio&#39;r ddyfais canfod botwm ar yr app",
+  "pressbuttonscalx": "Gwasgwch a dal y botwm pâr ar gefn y ddyfais i gychwyn y cysylltiad a thocio&#39;r ddyfais canfod botwm ar yr app",
+  "pressure_index1": "pwysau_index1",
+  "PRESX": "Pwysedd Gwaed",
+  "PRESX_PROD": "PRESX",
+  "previous": "Blaenorol",
+  "pre_period": "Cyfnod Presgripsiwn",
+  "price": "Pris",
+  "price_per_visit": "Ffi am bob ymweliad",
+  "PRICING_SECTION1_P1": "Mae SaluberMD wedi ymrwymo i ddarparu gofal cyfleus, o safon ar brisiau fforddiadwy heb ffioedd neu ffioedd cudd.",
+  "PRICING_SECTION1_P2": "Mae SaluberMD yn darparu gofal lle bynnag a phryd bynnag y bydd ei angen arnoch trwy ymweliad fideo â meddyg ardystiedig bwrdd. Gall ein meddygon drafod, archwilio, a gwrando ar ddiagnosio&#39;ch materion neu fynd i&#39;r afael â chwestiynau a phryderon meddygol tra&#39;r alwad fideo.",
+  "PRICING_SECTION1_P3": "Gyda&#39;n Meddyginiaeth unigryw gallwch chi roi i&#39;ch meddyg fynediad i&#39;ch hanes meddygol, eich delweddau a&#39;ch ffeiliau i&#39;w helpu i ddarparu&#39;r cynllun triniaeth mwyaf effeithiol.",
+  "PRICING_SECTION1_TITLE": "bob ymweliad",
+  "PRICING_TITLE": "Prisio",
+  "primaryConcern": "Pryderon sylfaenol",
+  "primaryMood": "Mood Primary",
+  "print": "Argraffu",
+  "priority": "Blaenoriaeth",
+  "PRIVACY_POLICY_TITLE": "Polisi Preifatrwydd",
+  "problems": "problemau",
+  "PROCEED_PAYMENT": "Ewch ymlaen gyda&#39;r taliad",
+  "PROFESSIONAL_TITLE": "Teitl Proffesiynol",
+  "PROFILE_SECTION2": "Gwybodaeth Cyswllt",
+  "protesi": "Prosthesis a chymhorthion meddygol",
+  "protesiobbligatorio": "Dewiswch fath prosthesis",
+  "prov": "sampl",
+  "publicAppUrl": "Eich url cyhoeddus ar gyfer apwyntiad yw:",
+  "pulldown": "Tynnwch i lawr i adnewyddu",
+  "pull_request_processed": "Diolch, Rydym wedi anfon eich argaeledd at y claf",
+  "PWD_NOTMATCH": "Nid yw&#39;r cyfrineiriau&#39;n cyfateb",
+  "P_P_Error": "Mae&#39;n rhaid i chi dderbyn y polisi preifatrwydd",
+  "QUALITY_INDEX": "Ansawdd",
+  "QUALITY_INDEX_DESCRIPTION": "Ffitrwydd corfforol yw lefel y gwydnwch a&#39;r straen meddyliol a wynebir yn wyneb y gallu i addasu a thrin y sefyllfa. Mae mynegai ffitrwydd corfforol yn adlewyrchu&#39;r corff dynol i addasu i newidiadau amgylcheddol a symbylu straen, cynnal ac adfer y gallu i iechyd. Mae ffitrwydd corfforol yn aml yn cael ei amlygu ym mhotensial bywydau, dysgu a gwaith pobl, ond hefyd yn naturiol mewn ymarfer corff. Mae ansawdd corfforol person yn gysylltiedig ag etifeddiaeth ond mae&#39;n gysylltiedig yn agosach â maeth a meddiant corfforol. Trwy ddulliau cywir ac ymarfer priodol, gall ef / hi wella ei ffitrwydd corfforol ym mhob agwedd.",
+  "quantity": "Nifer",
+  "quesito": "Pryder",
+  "QUESTIONS_SECTION_TITLE": "Derbyn 1 ymgynghoriad am ddim neu asesiad iechyd yn galw ar ôl cwblhau&#39;ch ffeil feddygol yn llawn.",
+  "QUESTIONS_TITLE": "Cwestiynau",
+  "quindici": "Y 15 mesuriad diwethaf",
+  "ratio": "Cymhareb",
+  "reccomendation": "Argymhelliad",
+  "reccomendations": "Argymhellion",
+  "recommendation": "Argymhellion",
+  "RECOMMENDATIONS": "Argymhellion",
+  "RECOMMEND_SECTION_P1": "Yn SaluberMD, rydym yn ymdrechu i gwrdd â&#39;r galw am ofal iechyd o safon ledled y byd trwy gynnig mynediad i&#39;n cwsmeriaid i grw p o Ffisigwyr.",
+  "RECOMMEND_SECTION_P2": "Rydym bob amser yn chwilio am Feddygon o safon i ychwanegu at ein tîm gwych. Fel aelod o&#39;n tîm, rydym yn parchu a gwerthfawrogi eich atgyfeiriadau.",
+  "RECOMMEND_SECTION_P3": "Llenwch y ffurflen isod i gyfeirio Meddyg i SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Argymell cydweithiwr",
+  "RECOMMEND_TITLE": "Argymell",
+  "record_aggiornato": "Cofnod wedi&#39;i ddiweddaru&#39;n llwyddiannus",
+  "record_aggiunto": "Cofnod wedi&#39;i ychwanegu&#39;n llwyddiannus",
+  "record_inserito": "Ychwanegwyd yn llwyddiannus",
+  "record_rimosso": "Cofnod yn cael ei ddileu yn llwyddiannus",
+  "REFERRAL": "Cyfeirio",
+  "REFERRALS": "Atgyfeiriadau",
+  "referrals_sent": "Cyfeiriadau a anfonwyd",
+  "referral_mail": "Atodedig mae eich atgyfeiriad.",
+  "referral_sent": "Cyfeirio a anfonwyd",
+  "refundrequestsent": "Anfonwyd eich cais",
+  "register": "Cofrestrwch",
+  "register_report": "Cofrestriadau Defnyddwyr",
+  "registration_date": "Dyddiad Cofrestru",
+  "REGISTRATION_HEADER_DOCTOR": "Ymunwch â thîm MD Saluber",
+  "REGISTRATION_HEADER_PATIENT": "Cwblhewch y ffurflen isod a gwasgwch y gofrestr",
+  "releaserefresh": "Rhyddhau i adnewyddu",
+  "remarks": "Sylwadau",
+  "removedevice": "Ydych chi am gael gwared â&#39;r ddyfais hon?",
+  "removefavorite": "Dileu o&#39;r ffefrynnau?",
+  "remove_generic": "Ydych chi eisiau ei dynnu?",
+  "renalFunction": "Swyddogaeth Arennol",
+  "reoccurring": "Ail-ddigwydd",
+  "repeat_email": "Cadarnhau Ebost",
+  "report": "Ffeil glinigol bersonol: Adroddiad data llawn",
+  "report1": "Ffeil glinigol bersonol:",
+  "report2": "Adroddiad",
+  "reportvisite": "Adroddiad Videocalls",
+  "report_date": "Dyddiad yr Adroddiad",
+  "requestdate": "Dyddiad y Cais",
+  "request_already_taken": "Mae&#39;r meddyg hwn eisoes wedi cymryd y cais hwn mewn gofal.",
+  "REQUEST_ERROR": "Roedd gwall wrth brosesu eich ceisiadau. Gwiriwch eich cysylltiad rhyngrwyd neu rhowch gynnig arall arni yn ddiweddarach.",
+  "request_sent": "Mae&#39;ch requesst wedi&#39;i anfon yn llwyddiannus at y cerdyn cefn",
+  "required": "Mae&#39;r maes hwn yn ofynnol.",
+  "required_field": "Wedi&#39;i Filedio Angenrheidiol",
+  "RESEND_EMAIL": "Ailgyflwyno cod cadarnhau",
+  "resetCorxFactory": "Ydych chi&#39;n siŵr eich bod am ailsefydlu Corx?",
+  "RESETPWD_BTN": "Ailosod cyfrinair",
+  "RESET_PASSWORD": "Mewnosod e-bost neu enw defnyddiwr a ddefnyddiwyd yn ystod y Signup",
+  "respiratory": "Anadlol",
+  "RESPIRATORY_RATE": "Cyfradd Anadlol",
+  "RESTORE_FACTORY_SETTINGS": "Adfer Gosodiadau Ffatri",
+  "resultfound": "cofnod o hyd",
+  "results": "Canlyniadau",
+  "ricettario": "Gwlad",
+  "richiediDrug": "Gofyn am Gyffur",
+  "richiestaAppuntamento": "Cais am Benderfyniad",
+  "richiestaRimborso": "Cais am Ad-daliad",
+  "ricovero": "Ysbytai",
+  "riepilogo": "Crynodeb",
+  "rightHanded": "Ar y dde",
+  "rimborso": "Ad-daliad",
+  "ripetibile": "Ailadroddadwy am (amserau)",
+  "rr_desc": "Y gyfradd resbiradol yw&#39;r gyfradd y mae anadlu&#39;n digwydd. Y gyfradd resbiradaeth arferol ar gyfer oedolyn yn gorffwys yw 12 i 20 anadl y funud. Ystyrir cyfradd resbiradaeth o dan 12 oed neu dros 25 o anadl y funud tra bod gorffwys yn annormal",
+  "rs": "System Resbiradol",
+  "RUNNING_CALL_OPT1": "Ailddechrau",
+  "RUNNING_CALL_OPT2": "Diwedd Ffoniwch",
+  "RUNNING_CALL_TITLE": "Galw rhedeg",
+  "sa": "Dilysu cryf",
+  "sadness": "Tristwch",
+  "sai": "Mynegai gweithgaredd",
+  "sai_desc": "Mae SAI yn seiliedig ar gyfradd eich calon yn unig. Mae&#39;n fetrig syml sy&#39;n olrhain ymateb y corff i weithgaredd corfforol - llawer mwy na dim ond camau. Yn wahanol i olrhain cam, mae SCI yn rhoi credyd am bob gweithgaredd sy&#39;n codi cyfradd y galon: nofio, beicio, rhwyfo, dawnsio, beth bynnag. Cadwch hi o dan 30 am fywyd gwell ac iachach.",
+  "sai_title": "SAI",
+  "saluberAccess": "claf SaluberMD",
+  "SATURDAY": "Sadwrn",
+  "savedinfo": "Gwybodaeth wedi&#39;i achub yn llwyddiannus",
+  "SAVE_BTN": "Arbed",
+  "SAVE_MESSAGE": "Os byddwch yn gadael, bydd eich newidiadau&#39;n cael eu colli",
+  "sbpi": "Mynegai pwysedd gwaed",
+  "sbpi_desc": "Pwysedd gwaed uchel yw&#39;r lladdwr tawel. Amcangyfrifir eich gwerthoedd pwysedd gwaed Systolic a Diastolic yn ystod unrhyw sesiwn feddygol rydych chi&#39;n ei berfformio. Cadwch y SBPI o dan 30 i gael cyfleoedd is i ddioddef o gyflyrau sy&#39;n bygwth bywyd megis strôc a chlotiau gwaed.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Pwysau",
+  "SCALX_PROD": "SCALX",
+  "scan": "Sganio",
+  "scanningcorx": "Chwilio am CORX ... Arhoswch",
+  "schedule": "Atodlen",
+  "scheduleAnAppointment": "Atodlen apwyntiad",
+  "scheduleappointment": "Rhestrwch y cerdyn fideo gyda meddyg",
+  "schtime": "Amser wedi&#39;i drefnu",
+  "sci": "Mynegai cardiofasgwlaidd",
+  "sci_desc": "Trwy ddadansoddi eich tonnau pwls arterial, rydym yn dod i wybod am eich system cardiofasgwlaidd. Mae&#39;r mynegai SCI yn grynodeb o&#39;ch iechyd cardiofasgwlaidd, ceisiwch ei gadw o dan 20!",
+  "sci_title": "SCI",
+  "SEARCH": "Chwilio",
+  "searchallergy": "Chwiliwch alergedd",
+  "searchdoctor": "Meddyg chwilio",
+  "searchfordoctor": "Chwiliwch feddyg yn ôl enw neu gyfenw",
+  "searchingdevice": "Dyfais chwilio. Gallai gymryd ychydig o amser",
+  "searching_avail_date": "Chwilio&#39;r dyddiad sydd ar gael ...",
+  "searching_online_doctors": "Chwilio meddygon ar-lein ar y gweill ...",
+  "searchmedication": "Chwilio meddyginiaeth",
+  "searchpatient": "Chwiliwch am gleifion",
+  "searchpatologia": "Chwiliwch am gyflwr meddygol",
+  "searchsymptom": "Chwilio symptom",
+  "searchuser": "Chwilio&#39;r defnyddiwr",
+  "search_doctor_description": "Chwiliwch am feddyg ar gyfer enw defnyddiwr, e-bost neu enw",
+  "search_patient_description": "Chwiliwch am glaf am enw defnyddiwr, e-bost neu enw",
+  "search_specialization": "Chwilio arbenigedd",
+  "search_user_description": "Chwiliwch y defnyddiwr ar gyfer enw defnyddiwr, e-bost neu gyfenw",
+  "search_videocall_description": "Chwiliwch am fideo fideo wedi&#39;i wneud gan iniziative",
+  "search_videocall_title": "Serach Videocall erbyn dyddiad",
+  "secondaryMood": "Mood Uwchradd",
+  "secondOpinion": "Ceisiadau Ail Farn",
+  "seconds": "eiliad",
+  "second_opinion_1": "Mynediad dibynadwy i ail farn feddygol gan arbenigwyr blaenllaw ledled y byd.",
+  "second_opinion_2": "Gall ein Gwasanaeth Ail Feddygol Feddygol eich helpu chi:",
+  "second_opinion_3": "Cael atebion i&#39;ch cwestiynau",
+  "second_opinion_4": "Dewiswch y cynllun triniaeth gorau",
+  "second_opinion_5": "Sicrhewch ddiagnosis cywir",
+  "second_opinion_body": "Annwyl ddefnyddiwr, <br> cymerwyd eich ail gais opion wrth y llyw gan ein harbenigwyr sy&#39;n adolygu&#39;r dogfennau yr ydych wedi&#39;u hanfon.",
+  "second_opinion_history": "Ceisiadau Ail Farn",
+  "second_opinion_msg": "Diolch. Bydd ein heiriolwr iechyd yn cyrraedd i chi o fewn y 24 awr nesaf.",
+  "SECOND_OPINION_Q1": "Beth ydych chi eisiau siarad â&#39;r maethegydd?",
+  "second_opinion_question1": "Pwy yw&#39;r ail farn?",
+  "second_opinion_question2": "Llwythwch ffeil",
+  "second_opinion_step1": "Cwblhewch holiadur byr / Llwythwch eich ffeiliau",
+  "second_opinion_step2": "Bydd ein meddygon yn gwerthuso&#39;ch deunyddiau",
+  "second_opinion_step3": "Ymgynghoriad meddyg i drafod eich canlyniadau",
+  "secOpChoice": "Dewiswch pa ffordd yr hoffech chi dderbyn yr ail farn",
+  "section": "Dewiswch un adran",
+  "security": "Diogelwch",
+  "seeaprovider": "Gweld Darparwr",
+  "seecommenti": "Gweld y Sylwadau",
+  "seedoctor": "Gweler meddyg yn awr",
+  "SEE_A_DOCTOR_Q1": "Pwy mae&#39;r ffilm hon yn galw amdano?",
+  "SEE_A_DOCTOR_Q10": "Gallwn anfon eich presgripsiwn yn uniongyrchol i&#39;r fferyllfa o&#39;ch dewis",
+  "SEE_A_DOCTOR_Q1B": "Enw a marwolaeth eich plentyn?",
+  "SEE_A_DOCTOR_Q1_A1": "Fi",
+  "SEE_A_DOCTOR_Q1_A2": "Fy mhlentyn",
+  "SEE_A_DOCTOR_Q2": "Disgrifiwch yr hyn yr hoffech chi ei siarad â&#39;r meddyg amdanyn nhw",
+  "SEE_A_DOCTOR_Q3": "Symptomau?",
+  "SEE_A_DOCTOR_Q4": "Hoffech chi atodi ffotograff, neu ddogfen?",
+  "SEE_A_DOCTOR_Q4_ERROR": "ERROR: Ni ddylai ffeiliau fod yn fwy na 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Dewiswch ffeil",
+  "SEE_A_DOCTOR_Q4_S2": "Tynnu llun",
+  "SEE_A_DOCTOR_Q5": "A ydych chi&#39;n cymryd unrhyw feddyginiaeth ar hyn o bryd, os felly, rhestrwch yr enw",
+  "SEE_A_DOCTOR_Q5_CHILD": "A yw&#39;ch plentyn yn cymryd unrhyw feddyginiaeth ar hyn o bryd? os felly rhestrwch yr enw",
+  "SEE_A_DOCTOR_Q5_S1": "Enw:",
+  "SEE_A_DOCTOR_Q5_S2": "Dosbarth:",
+  "SEE_A_DOCTOR_Q6": "Oes gennych chi alergeddau?",
+  "SEE_A_DOCTOR_Q6_CHILD": "A oes gan eich plentyn unrhyw alergeddau? os felly rhestrwch yr enw",
+  "SEE_A_DOCTOR_Q7": "Oes gennych chi unrhyw gyflyrau meddygol?",
+  "SEE_A_DOCTOR_Q7_CHILD": "A oes gan eich plentyn unrhyw gyflyrau meddygol? os felly rhestrwch yr enw",
+  "SEE_A_DOCTOR_Q8": "A ydych chi&#39;n awdurdodi&#39;r meddyg i weld eich ffeil feddygol ar-lein?",
+  "SEE_A_DOCTOR_Q9": "Fferyllfa a Ffafrir",
+  "SEE_A_DOCTOR_TITLE": "Gweler Meddyg",
+  "SEE_A_PROVIDER": "Gweld Darparwr",
+  "segment": "Segment",
+  "selectAFile": "Tapiwch y botwm isod i ddewis ffeil",
+  "selectaprovider": "Dewiswch Ddarparwr",
+  "selectcarderror": "Dewiswch gerdyn",
+  "selectdoctor": "Rheoli agenda",
+  "selectdoctor1": "Dewiswch y meddyg",
+  "selectdrug": "Dewiswch Feddyginiaeth",
+  "selectedContact": "Dull cyswllt",
+  "selectinitiative": "Dewiswch un neu fwy o fentrau ...",
+  "selectnutritionist": "Dewiswch eich maethegydd eich hun",
+  "selectpatient": "dewis dethol",
+  "select_country": "Dewiswch wlad",
+  "select_device": "Dewiswch ddyfais",
+  "select_file": "Dewis Ffeil",
+  "select_file_btn": "Dewiswch y ffeil",
+  "select_patient": "Cliciwch ar y rhes i weld y manylion",
+  "send": "Anfon",
+  "sendmessage": "Anfon neges",
+  "sendtoken": "Anfonwch hwn at y meddyg i ganiatáu iddo gael mynediad i&#39;ch ffeil feddygol. Daw&#39;r ddolen hon i ben mewn 10 munud",
+  "SEND_BTN": "Anfon",
+  "send_doctor_request": "Anfonwch gais",
+  "sentmessage": "Anfon Neges",
+  "SERVICE_TYPE": "Math o Wasanaeth",
+  "sessantad": "Y 60 diwrnod diwethaf",
+  "SESSION_EXPIRED": "Mae eich sesiwn wedi dod i ben. Os gwelwch yn dda, mewngofnodwch eto",
+  "setAlarm": "Gosodwch Larymau",
+  "settd": "7 diwrnod diwethaf",
+  "settings_saved": "Gosodiadau yn llwyddiannus",
+  "setTreshold": "Ystod Gosod",
+  "SET_BTN": "Gosod",
+  "SET_USER_EMAIL": "Nodwch naill ai&#39;r enw defnyddiwr neu&#39;r e-bost",
+  "set_vital_signs": "Gosod Arwyddion Bywyd",
+  "sevendays": "7 Diwrnod",
+  "showalldata": "Dangoswch yr holl ddata",
+  "showOnEmergency": "dangos Ar Argyfwng",
+  "signature": "Eich llofnod (a ddefnyddir ar gyfer presgripsiynau)",
+  "signature_word": "Llofnod",
+  "SIGNUP_BTN": "Cofrestru",
+  "sii": "Mynegai Yswiriant",
+  "sii_desc": "Mae SII yn gyfuniad o&#39;r holl fynegeion SaluberMD ac mae&#39;n ddrych o&#39;ch risg feddygol cyffredinol. Os ydych chi dan 30 oed rydych chi yn y parth diogel!",
+  "sii_title": "SII",
+  "since": "Ers",
+  "single": "Diwrnod sengl",
+  "singleAccess": "Mynediad sengl",
+  "sitreminder": "Cofiwch Eisteddwch",
+  "sit_period": "Cyfnod",
+  "skip": "Skip",
+  "skip_pull": "Anwybyddwch",
+  "skip_step": "Neidio",
+  "sl": "Lefel straen",
+  "SLEEP": "Cysgu",
+  "slotime": "Hyd Slot (min)",
+  "sl_alta": "mwy na 85 bpm",
+  "sl_bassa": "yn is na 65",
+  "sl_desc": "Mae&#39;r lefel straen yn cael ei gyfrifo yn seiliedig ar y curiad y funud",
+  "sl_normale": "rhwng 65 a 85 bpm",
+  "smoker": "Ysmygwr",
+  "snacks": "Byrbrydau",
+  "SOMETIMES": "Weithiau",
+  "SONNO": "Cysgu",
+  "SOP_Q4": "Atodwch eich adroddiad meddygol",
+  "sos": "SOS",
+  "so_specialization": "Arbenigedd",
+  "specialists": "Arbenigwyr",
+  "specialization": "Dewiswch yr arbenigedd",
+  "SPECIALTY": "Arbenigedd",
+  "specifyother": "Rhowch fanylion arall",
+  "specifyvalue": "Nodwch werth",
+  "spirometer": "Spirometreg",
+  "spo2_desc": "Mae SpO2 neu lefel ocsigen yn y gwaed yn fesur faint o ocsigen sy&#39;n cael ei gario gan eich celloedd gwaed coch. Mae gwerthoedd arferol rhwng 95% a 100%, sef lefel ocsigen gwaed is-arferol a elwir yn hypocsemia",
+  "sri": "Mynegai anadlol",
+  "sri_desc": "Rydym yn dadansoddi eich patrymau anadlu yn ystod unrhyw sesiwn feddygol ac yn ystod eich cysgu. Os yw SRI o dan 30 mae&#39;ch siawns o ddioddef o gyflyrau anadlu rhwystr yn isel.",
+  "sri_title": "SRI",
+  "ssi": "Mynegai straen",
+  "ssi_desc": "Trwy ddadansoddi amrywiaeth eich cyfraddau calon, rydym yn mesur eich lefel straen. Ymddengys bod straen yn gwaethygu neu&#39;n cynyddu&#39;r risg o gyflyrau fel gordewdra, clefyd y galon, clefyd Alzheimer, diabetes, iselder ysbryd, problemau gastroberfeddol, ac asthma. Cadwch hi o dan 20 i fod ar yr ochr ddiogel!",
+  "ssi_title": "SSI",
+  "start": "Dechrau",
+  "startcall": "Dechrau&#39;r alwad",
+  "startdate": "O",
+  "starthour": "Amser Dechrau",
+  "startmeasure": "Nawr gallwch chi ddechrau&#39;r mesuriad trwy wasgu botwm ar y ddyfais",
+  "startnow": "Dechreuwch Nawr",
+  "startRecording": "Gwasgwch ddechrau i recordio sain llais",
+  "startyping": "Dechreuwch deipio&#39;r enw",
+  "start_blowing": "Dechrau Blowing",
+  "start_test": "Prawf cychwyn",
+  "start_time": "Amser Dechrau",
+  "state": "Wladwriaeth",
+  "state1": "Wladwriaeth",
+  "STATES_LICENSE": "Gwladwriaethau Trwyddedig",
+  "state_problem": "Nodwch eich problem",
+  "status": "Statws",
+  "step": "Cam",
+  "STEPS_GOAL": "Nod Camau",
+  "stoolTest": "Prawf Stôl",
+  "stop": "Stopio",
+  "stop_test": "Prawf stopio",
+  "stress": "Straen",
+  "stroke_vol": "Cyfaint strôc",
+  "stroke_volume": "Cyfaint strôc",
+  "stroke_volume_desc": "Y gyfrol strôc yw maint y gwaed a chwistrellir gan bob ventricle fesul curiad",
+  "struttura": "Strwythur",
+  "strutture": "Strwythurau",
+  "subject": "Pwnc",
+  "subject_so": "Pwnc",
+  "submissionDate": "Dyddiad Cyflwyno",
+  "success": "Llwyddiant",
+  "SUCCESS_TITLE_NOTIFICATION": "Llwyddiant",
+  "SUMMARY": "Diagnosis",
+  "summary1": "Crynodeb",
+  "SUNDAY": "Sul",
+  "surgery": "Llawdriniaeth",
+  "surgeryAndHospitalization": "Ysbyty a Hanes Llawfeddygol",
+  "surgeryCategory": "Categori Meddygfa",
+  "surname": "Cyfenw",
+  "sv_alta": "mwy na 100",
+  "sv_bassa": "yn is na 55 ml",
+  "sv_normale": "rhwng 55 a 100 ml",
+  "switchsearch": "Newid i chwilio",
+  "symptoms": "Symptomau",
+  "SYMPTOMS_BTN": "Symptomau",
+  "sync": "Sync",
+  "SYNC_TIME": "Sync Amser",
+  "sysdia": "Pwysedd",
+  "systolic": "Systolig",
+  "TAKE": "Cymerwch",
+  "takeAppointment": "Cymerwch apwyntiad",
+  "TAKE_APP": "Penodiad Atodlen",
+  "TAKE_A_PHOTO": "Tynnu llun",
+  "tall": "Pa mor dal wyt ti",
+  "tapconnect": "Tap i gysylltu",
+  "tapdisconnect": "Tap i ddatgysylltu",
+  "tap_to_expand": "Tap i ehangu",
+  "telNameMandatory": "Nodwch enw",
+  "telNumberMandatory": "Nodwch rif ffôn",
+  "temper": "Temper",
+  "temperDescription": "Mesur emosiynol sy&#39;n cwmpasu ystod hwyliau cwbl y siaradwr. Mae tymer isel yn disgrifio hwyliau iselder a niweidiol. Mae tymer canolig yn disgrifio hwyliau cyfeillgar, cynnes ac embraciadol. Mae gwerthoedd tymer uchel yn disgrifio hwyliau gwrthdaro, cyffredin ac ymosodol.",
+  "tendays": "10 diwethaf",
+  "ten_min": "Mewn 10 munud",
+  "terminata": "Ffoniwch Successfull",
+  "TERMS_TITLE": "Telerau Defnyddio",
+  "test": "Prawf",
+  "testmichele": "prawf michel",
+  "testresult": "Canlyniad Profion",
+  "testresults": "Canlyniadau Prawf",
+  "tests": "Profion",
+  "text": "Testun",
+  "thiscC": "Defnyddir y cerdyn credyd hwn i dalu am y gwasanaeth",
+  "THURSDAY": "Dydd Iau",
+  "thyroidTest": "Profion Swyddogaeth Thyroid",
+  "tickets": "Tocynnau",
+  "TICKET_HISTORY": "Hanes Tocynnau",
+  "TICKET_NUMBER": "Rhif y tocyn",
+  "ticket_subject": "Gofyn am Bwnc",
+  "timecallerr": "Mae&#39;n ddrwg gennym, ni allwch wneud yr alwad eto",
+  "timecallerr1": "Mae&#39;n ddrwg gennym, yr ydych yn gwneud yr alwad am eich bod chi y tu hwnt i&#39;r amser a drefnwyd",
+  "TIMELINE": "Fy Amserlenni",
+  "times": "Sawl gwaith y dydd?",
+  "timesaday": "Amseroedd y Dydd",
+  "tipopratica": "Math o Ymarfer",
+  "tipo_struttura": "Math o Strwythur",
+  "tipshealt0": "Cynghorion Iechyd",
+  "tipshealt1": "Ergyd ffliw - A ddylwn i gael brechiad yn erbyn y ffliw?",
+  "tipshealt10": "Cliciwch yma am ragor o wybodaeth",
+  "tipshealt11": "Mae manteision triniaeth statinau, y cyffuriau colesterol yn lleihau, yn gorbwyso&#39;r risgiau",
+  "tipshealt12": "Mewn erthygl adolygu diweddar yn Lancet, daeth ymchwilwyr i&#39;r casgliad y byddai manteision lleihau colesterol LDL â therapi statin yn debygol o atal digwyddiadau fasgwlaidd mawr (trawiadau ar y galon, strôc) ac mae&#39;n gorbwyso risgiau&#39;r cyffuriau.",
+  "tipshealt13": "Yn ôl yr ymchwilwyr, yr unig ddigwyddiadau niweidiol difrifol a ddangoswyd gan therapi statin hirdymor yw myopathi (a ddiffiniwyd fel poen neu wendid y cyhyr), diabetes mellitus newydd, ac, yn ôl pob tebyg, strôc gwaedlif.",
+  "tipshealt2": "Er nad yw&#39;r brechlyn ffliw bob amser yn darparu cyfanswm amddiffyniad, mae&#39;n werth ei gael. Mae&#39;r CDC (Canolfannau ar gyfer Rheoli ac Atal Clefydau) yn argymell brechiadau ffliw blynyddol i bawb sy&#39;n 6 mis oed neu&#39;n hŷn. Mae brechiad yn arbennig o bwysig i bobl sydd mewn perygl mawr o gymhlethdodau ffliw, gan gynnwys",
+  "tipshealt3": "Merched beichiog",
+  "tipshealt4": "Oedolion hŷn (50 oed a hŷn)",
+  "tipshealt5": "Plant ifanc (dan 4 oed ac uwch 6 mis)",
+  "tipshealt6": "Mae gweithgaredd corfforol yn gwella medrau cof a meddwl",
+  "tipshealt7": "Gall gweithgarwch corfforol rheolaidd wella swyddogaeth yr ymennydd trwy gydol oes a lleihau&#39;r risg o ddementia.",
+  "tipshealt8": "Cyhoeddwyd nifer o astudiaethau ar y rhyngweithio agos a&#39;r fantais o weithgaredd corfforol rheolaidd a swyddogaeth wybyddol well.",
+  "tipshealt9": "Mae&#39;r dylanwad yn uniongyrchol ar yr ymennydd ac yn anuniongyrchol trwy gamau metabolig a chorfforol ar y corff.",
+  "title": "Teitl",
+  "to": "i",
+  "todayAppointment": "Apwyntiad heddiw",
+  "tooltip1": "Rhowch enw&#39;r meddyg yr ydych am ei reoli&#39;r agenda",
+  "totale": "Cyfanswm",
+  "totalSleepTime": "Cyfanswm amser cysgu",
+  "total_cholesterol_desc": "Mae&#39;r gwerth hwn yn amcangyfrif o&#39;r holl golesterol yn y gwaed",
+  "TOTAL_SLEEP_TIME": "Cyfanswm Amser Cysgu",
+  "tot_non_risposte": "Atebwyd y galwad",
+  "tot_ricevute": "Galwad a dderbyniwyd",
+  "tot_visite": "Ymweliadau a Wneir",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Trosglwyddo",
+  "trenta": "Y 30 mesuriad diwethaf",
+  "trentad": "Y 30 diwrnod diwethaf",
+  "triglycerides": "Triglyseridau",
+  "trig_cholesterol_desc": "Mae triglyseridau yn fath o fraster (lipid) a geir yn eich gwaed. Mae&#39;r tabl canlynol yn dangos ystod y gwerthoedd.",
+  "TUESDAY": "Dydd Mawrth",
+  "tutte": "Pob mesur",
+  "type": "Math",
+  "TZONE": "Amser",
+  "underweight": "Dan bwysau",
+  "unit": "Uned",
+  "UNIT_SETTING": "Gosod yr Uned",
+  "uom": "Uned Mesur",
+  "upcomingAppointmentPatient": "Penodiadau i ddod o",
+  "UPDATE": "Diweddariad",
+  "updatelist": "Rhestr Diweddaru",
+  "update_app_message": "Mae angen ichi ddiweddaru&#39;ch app",
+  "UPDATE_AVAILABLE": "Diweddariad Ar Gael",
+  "UPDATE_BTN": "Diweddariad",
+  "update_completed": "Firmware wedi&#39;i ddiweddaru&#39;n llwyddiannus",
+  "update_firmware_download_error": "Gwall wrth lawrlwytho&#39;r firmware",
+  "update_list": "Diweddariad",
+  "UPLOAD_ERROR": "ERROR: Ni ddylai ffeiliau fod yn fwy na 5 MB",
+  "upload_referral": "Llwythwch eich cyfeiriad yn y blwch isod.",
+  "urinTest": "Profion wrin",
+  "user": "Defnyddiwr",
+  "userdata": "Data defnyddiwr",
+  "usermanagement": "Rheoli defnyddwyr",
+  "USERNAME": "Enw Defnyddiwr",
+  "username1": "Enw Defnyddiwr",
+  "utente_aggiunto": "Defnyddiwr wedi ei ychwanegu&#39;n llwyddiannus",
+  "utente_rimosso": "Defnyddiwr wedi ei ddileu&#39;n llwyddiannus",
+  "utente_salvato": "Defnyddiwr wedi ei ddiweddaru&#39;n llwyddiannus",
+  "vaccinobbligatorio": "Dylech ddewis imiwneiddio",
+  "vaioffline": "Ewch Amlinellol",
+  "vaionline": "Ewch Ar-lein",
+  "valence": "Valence",
+  "valenceDescription": "Newidyn yn amrywio o negyddol i bositifrwydd. Wrth wrando ar sgwrs person, mae&#39;n bosibl deall sut &quot;cadarnhaol&quot; neu &quot;negyddol&quot; maen nhw&#39;n teimlo am y pwnc, y gwrthrych neu&#39;r digwyddiad dan sylw.",
+  "value": "Gwerth",
+  "vascular_age": "Oedran fasgwlaidd",
+  "vascular_age1": "Oedran fasgwlaidd",
+  "va_desc": "Mae&#39;r Oes Fasgwlaidd yn rhoi mesuriad i chi o oedran amlwg eich rhydwelïau, o&#39;i gymharu â phobl iach. Os yw&#39;ch oedran fasgwlaidd yn fwy na&#39;ch oedran gronolegol, efallai y byddwch mewn mwy o berygl o ddatblygu clefyd cardiofasgwlaidd (CVD) yn ddiweddarach mewn bywyd.",
+  "videocall": "Cerdyn Fideo",
+  "VIDEOCALL_DES1": "Gwasgwch y botwm isod i newid eich statws a derbyn yr hysbysiadau ai peidio. Cofiwch y gallwch dderbyn yr hysbysiad yn unig pan fyddwch ar-lein.",
+  "VIDEOCALL_DES2": "Pan fyddwch yn derbyn galwad, cliciwch ar y petryal a fydd yn ymddangos yn cymryd yr alwad.",
+  "videocall_filter": "Hidlo yn ôl enw neu arbenigedd",
+  "videocall_request": "Cais videocall newydd gan",
+  "videocall_request_title": "Cais Videocall",
+  "videocall_req_from": "Cais Videocall gan:",
+  "videodermatoscopy": "Videodermatoscopi",
+  "VIDEO_ANSWER": "Cliciwch i actifadu&#39;r fideo",
+  "VIDEO_CALL_BTN": "Galwad fideo",
+  "VIDEO_CALL_BTN_1": "Fideo",
+  "view": "Gweld",
+  "viewmedicalfile": "Gweld ffeil feddygol",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Creu eich Swyddfa Rithwir",
+  "VIRTUAL_OFFICE_TITLE": "Swyddfa Rhithwir",
+  "visitdetail": "Cliciwch ar bob eitem i weld hanes cyflawn claf",
+  "visithistory": "Ymweld â Hanes",
+  "visitlist": "Rhestr o ymweliadau",
+  "VISIT_HISTORY_NO_HISTORY": "Nid oes gennych chi ymweliadau eto",
+  "VISIT_HISTORY_SUBTITLE": "Cliciwch ar bob eitem i weld manylion llawn",
+  "VISIT_HISTORY_TITLE": "Ymweld â Hanes",
+  "volte": "Amseroedd",
+  "waiting": "Prosesu ...",
+  "Waiting for reconnecting": "MSG_RECONNECTIO",
+  "warmth": "Cynhesrwydd",
+  "WARNING_TITLE_NOTIFICATION": "Sylw",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Data Iechyd",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Data Lles",
+  "WATCH_DEVICE_DATA_TITLE": "Eich data dyfais gwylio",
+  "water": "Dŵr",
+  "weanedoff": "Wedi diflannu?",
+  "WEDNESDAY": "Dydd Mercher",
+  "week": "Wythnos",
+  "weight": "Pwysau",
+  "weightUnit": "Uned Pwysau",
+  "welcome": "Croeso",
+  "wellness": "Lles",
+  "wellnessdata": "Data Lles",
+  "wellnessSuccess": "Llwyddiant",
+  "WHITE_SPACES": "Ni ddylai&#39;r enw defnyddiwr gynnwys mannau gwyn",
+  "WRIST_CUT_SCREEN": "Trowch Sgrin Cut Cutiau",
+  "writtenRep": "Adroddiad ysgrifenedig",
+  "W_RESPIRATORY_RATE": "Anadl",
+  "xray": "Pelydr-X",
+  "Y": "Ydw",
+  "year": "Blwyddyn",
+  "years": "blynyddoedd",
+  "yes": "Ydw",
+  "yourarousal": "Eich ysgogiad",
+  "youremotion": "Eich emosiynau",
+  "yourmood": "Eich hwyliau",
+  "yourtemper": "Eich tymer",
+  "yourvalence": "Eich fantais",
+  "your_sai": "Mynegai Eich Gweithgaredd yw:",
+  "your_sbpi": "Eich mynegai pwysedd gwaed yw:",
+  "your_sci": "Mynegai cardiaidd yw:",
+  "your_sii": "Eich mynegai Yswiriant yw",
+  "your_sri": "Eich mynegai Resbiradol yw:",
+  "your_ssi": "Eich mynegai Straen yw:",
+  "your_stress": "Eich lefel straen yw:",
+  "your_va": "Eich oedran fasgwlaidd yw:",
+  "zero_min": "Nawr",
+  "zipCode": "Côd post",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

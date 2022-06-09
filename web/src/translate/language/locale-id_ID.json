@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Tentang kami",
+  "ABOUT_US_CONDITION_1": "Pilek",
+  "ABOUT_US_CONDITION_2": "Kondisi kulit",
+  "ABOUT_US_CONDITION_3": "Alergi",
+  "ABOUT_US_CONDITION_4": "Sakit tenggorokan",
+  "ABOUT_US_CONDITION_5": "Sakit perut",
+  "ABOUT_US_DOCTOR_BENEFIT1": "MENINGKATKAN PENGHASILAN:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Anda dapat melihat sampai enam pasien per jam (kunjungan virtual biasanya berlangsung sekitar 10 menit);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "MENYEDIAKAN PASIEN PERAWATAN DARI MANA SAJA DI DUNIA:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Tingkatkan hubungan pasien dengan kemampuan untuk merawat pasien baru dan baru dari manapun di dunia;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "MENDAPATKAN PRAKTEK VIRTUAL GRATIS:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Kembangkan praktik Anda saat ini dan tawarkan lebih banyak pilihan untuk pasien;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "KUNJUNGAN PASIEN LEBIH PRODUKTIF:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Pasien dapat mengirimkan dokumen, foto, hasil laboratorium tanpa harus meninggalkan rumah dan Anda dapat memantau kesehatan pasien Anda dari jarak jauh;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Kenali siapa yang membutuhkan perawatan langsung dan siapa yang bisa mendapatkan manfaat dari perawatan jarak jauh tanpa harus meninggalkan rumah;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "MENINGKATKAN PENGHASILAN:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "JAM FLEKSIBEL:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Kemampuan mengatur jam kerja sendiri dan mengatur jadwal Anda sendiri.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Bergabunglah dengan gerakan ini untuk menyediakan akses global perawatan yang andal dan terjangkau dalam waktu 15 menit atau kurang.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD dirancang untuk merevolusi hubungan dokter-pasien dengan menciptakan akses 24 jam ke perawatan kesehatan secara global.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Manfaat Dokter",
+  "ABOUT_US_DOCTOR_TITLE": "Tentang kami",
+  "about_us_section1_p1": "SaluberMD adalah platform kesehatan digital yang memungkinkan Anda mengendalikan kesehatan Anda kapanpun dan dimanapun. Aplikasi kami menyediakan akses mudah, hemat waktu, terjangkau, 24/7 ke Dewan Dokter bersertifikat dari manapun di dunia. SaluberMD juga menyediakan alat seperti alat Rekam Medis Pribadi, EKG Watch, dan Keluarga yang semuanya berinteraksi dengan aplikasi ini untuk memberi Anda solusi kesehatan yang LENGKAP. Perangkat kami dapat digunakan secara terpisah atau digabungkan untuk pendekatan yang lebih menyeluruh terhadap kesehatan dan kebugaran.",
+  "ABOUT_US_SECTION1_TITLE": "Tentang kami",
+  "ABOUT_US_SECTION2_P1": "Melalui geo-lokalisasi, aplikasi kami akan menemukan Dokter terbaik di dekat Anda. Dokter SaluberMD dapat mendiagnosis, mengobati, atau mendiskusikan kondisi medis Anda melalui video dan memberi Anda rencana pengobatan yang tepat. Banyak kondisi yang paling umum dirawat di kantor dokter dapat ditangani dengan kunjungan video. <br/> Beberapa kondisi yang kita perlakukan:",
+  "ABOUT_US_SECTION2_P2": "Di sini, di SaluberMD kami memberi Anda Catatan Medis Pribadi untuk menyimpan semua data kesehatan, gambar, dan file Anda. Catat kesehatan Anda dengan akses 24 jam ke semua catatan medis Anda. Apakah Anda berada di rumah atau bepergian ke luar negeri, informasi Anda ada di ujung jari Anda untuk dibagikan dengan profesional kesehatan Anda. Catatan medis pribadi yang mudah digunakan tersedia dalam 20 bahasa.",
+  "ABOUT_US_SECTION2_TITLE": "Bagaimana cara kerjanya?",
+  "ABOUT_US_SECTION3_P1": "Hanya papan atas yang bersertifikat Dokter memberikan perawatan medis di SaluberMD. Para profesional ini diverifikasi, diskrining dan dilatih secara ekstensif untuk memberikan perawatan berkualitas. Setiap Dokter memiliki bio di mana Anda dapat melihat latar belakang, kepercayaan, dan pengalaman mereka. SaluberMD berkomitmen terhadap manajemen kualitas Dokter kami yang berkelanjutan. Sistem penilaian memungkinkan pasien menilai dokter dan menilai keseluruhan penilaian dokter.",
+  "ABOUT_US_SECTION3_TITLE": "Dokter kami",
+  "ABOUT_US_TITLE": "Tentang kami",
+  "above_warning": "Nilai di atas berisiko",
+  "accept": "Menerima",
+  "acceptablerange": "Rentang yang dapat diterima",
+  "ACCEPT_BTN": "Menerima",
+  "acquire": "Dapatkan data",
+  "acronym": "Akronim",
+  "action": "Tindakan",
+  "actions": "Tindakan",
+  "actionTaken": "Tindakan yang Diambil",
+  "activity": "Aktivitas",
+  "acutecare": "Perawatan akut",
+  "add": "Baru",
+  "addavailability": "Tambahkan ketersediaan Anda",
+  "addcomment": "Tambahkan komentar Anda di sini",
+  "adddescription": "Tambahkan deskripsi Anda di sini",
+  "adddrugs": "Cari obat menggunakan kotak pencarian di bawah ini dan centang kotak centang untuk menambahkannya ke resep Anda",
+  "addedFavourite": "Berhasil ditambahkan ke favorit Anda",
+  "addedFavourite2": "Berhasil ditambahkan ke favorit Anda. tekan tombol update untuk menampilkannya.",
+  "addedFavourite3": "Berhasil menambahkan  nPull ke bawah untuk menyegarkan",
+  "addFavourite": "Tambahkan ke Favorit",
+  "ADDING_SLOT": "Menambahkan slot .... ini mungkin perlu waktu.",
+  "addNew": "Tambah baru",
+  "addpharmacies": "Klik pada tombol untuk menambahkan apotek favorit Anda",
+  "addpharmacy": "Tambahkan apotek",
+  "addreminder": "Tekan tombol tambah untuk menambahkan pengingat obat Anda.",
+  "address": "Alamat",
+  "address2": "Alamat pengiriman",
+  "address3": "Alamat untuk layanan ini",
+  "addsintomi": "Tambahkan gejala",
+  "addslot": "Tambahkan slot",
+  "add_description_file": "Tambahkan deskripsi (tidak wajib)",
+  "add_new": "Menambahkan",
+  "affaticamento_grave": "Kelelahan parah",
+  "affaticamento_minore": "Kelelahan Kecil",
+  "agenda": "Agenda saya",
+  "agenda_report": "Laporkan Janji",
+  "aggiungi": "Membuat",
+  "AGREE_BTN": "Saya setuju",
+  "alcoholDesc": "Alkohol diasumsikan",
+  "all": "Semua",
+  "alldata": "Semua data",
+  "allergia": "Alergi",
+  "allergia_aggiunta": "Alergi berhasil diciptakan",
+  "allergia_rimossa": "Alergi pasien berhasil dihapus",
+  "allergia_salvata": "Alergi pasien berhasil diperbarui",
+  "allergie": "Alergi",
+  "allimages": "Semua gambar",
+  "alreadyAddedF": "Apotek ini sudah ada di favorit Anda",
+  "alreadyRegistred": "Alamat email ini sudah ada di sistem luar. Silakan masuk ke aplikasi untuk membuat janji.",
+  "alreadyTaken": "Penunjukan sudah dilakukan",
+  "alta": "Tinggi",
+  "alto": "Tinggi",
+  "amonth": "30 hari",
+  "anger": "Marah",
+  "annoinizio": "Tahun dimulai",
+  "antibiotics": "Antibiotik",
+  "an_error_occurred": "Ups! Saat ini kami tidak dapat melakukan permintaan Anda sebelumnya. Coba lagi nanti",
+  "appointment": "Janji",
+  "appointmentlist": "Daftar janji",
+  "appointments": "Janji",
+  "appointmentsDescription": "Daftar jadwal temu janji",
+  "appointment_body_doc": "Janji temu baru dijadwalkan dengan",
+  "appointment_calcelled_title": "Pengangkatan dibatalkan",
+  "appointment_cancelled": "telah membatalkan pengangkatannya",
+  "appointment_email_body": "Kami mengkonfirmasi janji temu Anda dengan dokter",
+  "appointment_history": "Sejarah Janji Temu",
+  "appointment_now": "Janji temu Anda mulai sekarang",
+  "appremainder": "Penunjukan sisa",
+  "appremainder1": "Anda memiliki videocall yang dijadwalkan dalam 5 menit",
+  "appremainder2": "Anda memiliki videocall yang dijadwalkan dalam 30 menit",
+  "appremainder3": "Anda memiliki videocall yang dijadwalkan dalam 120 menit",
+  "APPROX_DATA": "Data Kesehatan Lainnya",
+  "appuntamenti": "Janji",
+  "appuntamenti_presi": "Pengangkatan Terjadwal",
+  "appuntamento_clinica": "Minta Penunjukan Klinik",
+  "APPUNTAMENTO_CONGIUNTO": "Apakah Anda ingin memesan panggilan video?",
+  "app_description": "Tambahkan alasan janji Anda dalam kotak di bawah ini",
+  "app_details": "Detail janji temu",
+  "app_missing": "Aplikasi pendukung tidak terpasang",
+  "ARIAX": "Tingkat nafas",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Gairah",
+  "arousalDescription": "Variabel yang berkisar dari ketenangan atau kebosanan hingga kewaspadaan dan kegembiraan. Ini sesuai dengan konsep serupa seperti tingkat aktivasi dan stimulasi.",
+  "assign_specialist": "Tetapkan seorang spesialis untuk permintaan tersebut",
+  "associa": "Rekan",
+  "attachment": "Lampiran",
+  "ATTACH_A_PHOTO": "Lampirkan foto",
+  "BACKGROUND": "Latar Belakang",
+  "BACKGROUND_PLCHOLDER": "Silahkan masukkan biografi singkat.",
+  "backhomeconfirm": "Apakah kamu yakin akan kembali ke rumah?",
+  "BACK_BTN": "Kembali",
+  "BACK_LOGIN": "Kembali untuk masuk",
+  "bad_file": "Tidak dapat membuka file",
+  "basicinfo": "Informasi dasar",
+  "bassa": "Rendah",
+  "basso": "rendah",
+  "below_warning": "Nilai di bawah berisiko",
+  "benefits": "Manfaat Concierge",
+  "beyondverbal": "Emosi mendorong semua hal yang kita lakukan, namun analisis emosi yang didorong suara tetap menjadi antarmuka yang paling penting dan belum dijelajahi hari ini. Di luar Verbal berkomitmen untuk mengubahnya.",
+  "beyondverbal_analyze": "Analisis suasana hati Anda",
+  "beyondverbal_history": "Hasil sejarah",
+  "beyondverbal_instruction": "Bila Anda siap menjawab pertanyaan tekan tombol start",
+  "BIRTHDATE": "Tanggal lahir",
+  "birthday": "Ulang tahun",
+  "blank_agenda": "Tidak ada slot untuk hari ini",
+  "bloatedOrContipated": "Kembung atau Sembelit",
+  "bluetooth_error": "Aktifkan bluetooth sebelum melanjutkan",
+  "BOARD": "Dewan Bersertifikat",
+  "bones": "Tulang",
+  "bp": "Tekanan darah",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Tabel referensi untuk nilai-nilai Tekanan Darah",
+  "breakfast": "Sarapan",
+  "btnback": "Kembali",
+  "btndelete": "Menghapus",
+  "btndisabledoctor": "Nonaktifkan dokter",
+  "btndisablepatient": "Nonaktifkan pasien",
+  "btnenabledoctor": "Aktifkan dokter",
+  "btnenablepatient": "Aktifkan pasien",
+  "btnsave": "Menyimpan",
+  "BTN_LOAD_MORE": "Muat lebih",
+  "buttonsearch": "Pencarian",
+  "bvFailed": "Gagal menganalisis suara Anda, Anda perlu berbicara lebih banyak lagi!",
+  "bvInstruction": "Teruslah bicara selama 20 detik atau lebih",
+  "bvInstruction2": "Teruslah bicara selama 20 detik",
+  "ca": "Sistem kardiovaskular",
+  "call": "Panggilan",
+  "callCancel": "Tidak dapat membatalkan panggilan yang kedaluwarsa",
+  "calldoctor": "Panggil dokter",
+  "calling_number": "Memanggil Nomor",
+  "callthedoctor": "Panggil dokter",
+  "calltransfer": "Mentransfer panggilan ...",
+  "CALL_ALREADY_TAKEN": "Panggilan sudah diambil",
+  "CALL_DOCTOR_INFO": "Info Dokter",
+  "CALL_DURATION": "Durasi panggilan",
+  "call_instruction": "Kami akan mengirimkan pemberitahuan kepada Anda segera setelah Anda dapat menghubungi dokter. Klik pada pemberitahuan segera setelah Anda menerimanya untuk memulai panggilan video. Jika Anda menghapus pemberitahuan, Anda bisa mendapatkannya di bagian pemberitahuan di bawah profil kesehatan saya.",
+  "CALL_NOTIFICATIONS": "Panggilan telepon",
+  "CALL_NO_INCOMING": "Tidak ada panggilan masuk",
+  "CALL_TRANSFER_INFO": "Info transfer panggilan",
+  "CALL_WAITING": "Mohon tunggu, kami mencari dokter",
+  "CALL_WAITING_2": "Harap tunggu sementara dokter meninjau file Anda",
+  "calories": "Kalori",
+  "cancel": "Membatalkan",
+  "cancelAppointment": "Batalkan penunjukan ini",
+  "CANCEL_BTN": "Membatalkan",
+  "CAP": "Kode Pos",
+  "cardiac_output": "Curah jantung",
+  "cardiac_output1": "Curah jantung",
+  "cardiac_output_desc": "Keluaran jantung hanyalah jumlah darah yang dipompa oleh jantung per menit.",
+  "cardiovascular": "Kardiovaskular",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "CVC tidak valid",
+  "CARD_EXPIRY_DATE": "Tanggal kadaluarsa",
+  "CARD_MONTH_ERROR": "Bulan tidak valid",
+  "CARD_NUMBER": "Nomor kartu",
+  "CARD_NUMBER_ERROR": "Nomor CC tidak valid",
+  "CARD_YEAR_ERROR": "Tahun tidak valid",
+  "category": "Kategori",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "Diperlukan CCV",
+  "CERROR": "Kontak Buruk",
+  "certificate_attachment": "Terlampir di sana adalah sertifikat medis Anda",
+  "certificate_email": "Terlampir ada sertifikasi medis Anda",
+  "certificate_header": "Berdasarkan evaluasi medis yang dilakukan, berikut ini dinyatakan:",
+  "certificate_sent": "Sertifikat Terkirim",
+  "certification_subject": "Sertifikasi medis Anda",
+  "cf": "Kode fiskal",
+  "cf_error": "Silakan tentukan kode fiskal Anda",
+  "changeschedule": "Ubah waktu",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Kata sandi Anda telah kedaluwarsa, mohon ganti.",
+  "CHANGE_PWD_SECTION_TITLE": "Ganti kata sandi",
+  "CHANGE_PWD_TITLE": "Kata sandi Anda akan kedaluwarsa, ubahlah",
+  "checking_net_condition": "Memeriksa koneksi Internet ...",
+  "CHECK_PARAMETERS_CORX": "Tolong, masukkan berat dan tinggi di bagian profil untuk menghitung nilai kesehatan yang benar.",
+  "CHL_TOT": "Total kolesterol",
+  "choosedate": "Pilih tanggal",
+  "chooseDateDescription": "Klik tanggal untuk memperluasnya dan pilih jamnya",
+  "chooseprofile": "Kamu adalah?",
+  "choosespeciality": "Pilih Medical Specialty",
+  "choosetransferdoctor": "Pilih dokter",
+  "CHOOSE_A_DOCTOR": "Pilih doktermu sendiri",
+  "chosedoctor": "Tolong pilih dokter",
+  "city": "Kota",
+  "city1": "Kota",
+  "city2": "Kota",
+  "clearsignature": "Hapus tanda tangan",
+  "clickitem": "Klik pada setiap item untuk melihat rincian lengkap",
+  "clickrow": "Klik pada satu baris untuk memilih",
+  "clickToOpen": "Klik untuk membuka file",
+  "click_to_start_call": "Klik pada dokter untuk memulai panggilan",
+  "clinics": "Klinik",
+  "CLOCK_FORMAT": "Format Jam",
+  "closeappconfirm": "Apakah Anda yakin untuk menutup aplikasi?",
+  "CLOSE_BTN": "Dekat",
+  "cm": "cm",
+  "CODE": "Kode",
+  "code_not_valid": "Kode yang dimasukkan tidak valid",
+  "code_verified": "Kode berhasil diverifikasi!",
+  "coffeeDesc": "Kopi diasumsikan",
+  "COMMENT": "komentar",
+  "commenti": "Komentar",
+  "COMPANY_NAME": "Perusahaan",
+  "COMPLAIN": "Mengeluh",
+  "COMPLETE_PROFILE": "Lengkapi profil Anda sebelum melanjutkan",
+  "COMPLETE_PROFILE_TITLE": "Lengkapi profil anda",
+  "complications": "Komplikasi",
+  "concernlist": "Tolong cantumkan masalah / perhatian utama Anda",
+  "CONFIRM": "Baik",
+  "confirm_app": "Konfirmasikan janji temu Anda",
+  "CONFIRM_EMAIL_TITLE": "Konfirmasi email",
+  "CONFIRM_PWD": "Konfirmasi sandi",
+  "connect": "Tekan tombol Connect untuk menghubungkan perangkat",
+  "connectbtn": "Menghubungkan",
+  "connectedto": "Terhubung dengan",
+  "connecting": "Menghubungkan ... Mohon tunggu",
+  "connection_progress": "Menghubungkan ke perangkat ...",
+  "CONSULT": "Mengeluh",
+  "consult1": "Berkonsultasi",
+  "consultation": "Konsultasi",
+  "consultationHistory": "Sejarah Konsultasi",
+  "contact": "Kontak",
+  "CONTACT_US_BTN": "Hubungi kami",
+  "CONTACT_US_SECTION_TITLE": "Hubungi kami dengan pertanyaan atau bantuan menggunakan aplikasi ini.",
+  "CONTACT_US_TITLE": "Hubungi kami",
+  "contatti": "Kontak informasi",
+  "continue": "Terus",
+  "copy_url": "Salin URL",
+  "CORX": "EKG",
+  "corxDidFailEcg": "Kesalahan mendapatkan EKG",
+  "corxDidFailWellness": "Kesalahan saat mendapatkan data kesehatan",
+  "corxDidNoEcg": "Tidak ada data EKG",
+  "corxDidNoWellness": "Tidak ada data kesehatan",
+  "CORX_DATA": "Data CorX",
+  "corx_disconnected": "Corx Terputus",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Silakan tentukan berat dan tinggi badan Anda dalam oreder untuk menghitung dengan benar parameter vital.",
+  "COUNTRY": "Negara",
+  "country1": "Negara",
+  "county": "daerah",
+  "co_alta": "lebih besar dari 8 L / mnt",
+  "co_bassa": "lebih rendah dari 4 L / mnt",
+  "co_normale": "antara 4 dan 8 L / mnt",
+  "creditCard_selected": "Kartu yang dipilih akan dikenakan biaya untuk layanan ini",
+  "currency": "Mata uang",
+  "C_SPECIALTY": "Keistimewaan khusus",
+  "dailyuse": "Penggunaan Harian",
+  "dashboardVideocall": "Dashboard Videocall",
+  "dataerror": "Tanggal / waktu yang Anda pilih telah melewati tanggal / waktu sekarang",
+  "dataexists": "Sudah ada janji temu dengan tanggal dan waktu yang dipilih",
+  "datafetching": "Mengambil data pribadi Anda ... Mohon tunggu.",
+  "dataPrenotazione": "Tanggal pemesanan",
+  "dataVaccinazione": "Tanggal imunisasi",
+  "date": "Tanggal",
+  "dateDiscovered": "Tanggal ditemukan",
+  "dateStart": "Mulai tanggal",
+  "datipersonali": "Informasi pribadi",
+  "datiScaricati": "Data Berhasil Diunduh",
+  "day": "Hari",
+  "deassociate_corx_alert": "Apakah Anda ingin menonaktifkan Corx?",
+  "decline": "Menurun",
+  "DECLINE_BTN": "Menurun",
+  "DEEP_SLEEP_TIME": "Tidur nyenyak",
+  "defaultQuestion": "Tekan mulai dan beritahu kami bagaimana perasaan Anda hari ini?",
+  "delete": "Menghapus",
+  "deleteAlarm": "Hapus alarm ini?",
+  "deleteAppointment": "Apakah Anda ingin membatalkan janji temu?",
+  "deleteDescription": "Ini akan segera dihapus.",
+  "deleteMessage": "Yakin ingin menghapus ini?",
+  "deleteMultipleDesctiption": "Jumlah slot yang akan dihapus:",
+  "deleteNumber": "Anda yakin ingin menghapus Nomor ini?",
+  "deleteSlotDay": "Hapus semua slot gratis hari ini",
+  "deleteSlotMonth": "Hapus semua slot gratis bulan ini",
+  "deleteSlotWeek": "Hapus semua slot gratis minggu ini",
+  "deletevalue_q": "Anda yakin ingin menghapus nilainya?",
+  "DELETE_NOTIFICATION_MSG": "Apakah Anda ingin menghapus semua pemberitahuan sebelumnya?",
+  "demo": "Ini demo, tidak ada uang yang akan dikenakan.",
+  "dependencies": "Ketergantungan",
+  "description": "Deskripsi",
+  "descriptionMandatory": "Tolong, tentukan deskripsi",
+  "deseaseCategory": "Kategori Penyakit",
+  "desirable": "Diinginkan",
+  "dettagli": "Detail",
+  "dettaglio_struttura": "Struktur detail",
+  "device": "Alat",
+  "devicefound": "Perangkat ditemukan",
+  "devices": "Perangkat",
+  "devicetype": "Tipe perangkat",
+  "DEVICE_BLOOD_PRESSURE": "Tekanan darah",
+  "DEVICE_CALORIES": "Kalori dibakar",
+  "DEVICE_CARDIAC": "Pemantauan jantung",
+  "DEVICE_CHL": "Profil lipid",
+  "DEVICE_DATA_SECTION_TITLE": "Data perangkat medis anda",
+  "DEVICE_DATA_TITLE": "Data Perangkat",
+  "DEVICE_DATA_TITLE_1": "Data Perangkat Medis",
+  "DEVICE_EKG": "EKG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Pelacak kebugaran",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glucometer",
+  "DEVICE_HEART_RATE": "Detak jantung",
+  "DEVICE_PEDOMETER": "Alat pengukur langkah",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Frekuensi pernapasan",
+  "DEVICE_SPO2": "SpO2",
+  "DEVICE_TEMPERATURE": "Suhu",
+  "DIAGNOSIS": "Diagnosa",
+  "diastolic": "Diastolik",
+  "dieci": "10 pengukuran terakhir",
+  "diet": "Diet",
+  "digestion": "Masalah pencernaan",
+  "dinner": "Makan malam",
+  "dipendenza": "Ketergantungan",
+  "disableAlarm": "Alarm diaktifkan",
+  "disabled": "Cacat",
+  "DISABLE_PANIC_BUTTON": "Aktifkan Tombol Panik",
+  "DISABLE_PUNIC_BUTTON": "Nonaktifkan Tombol Punisia",
+  "disconnectall": "Setel Offline",
+  "disconnectbtn": "Memutuskan",
+  "DISDICI": "Membatalkan",
+  "disease": "Penyakit kronis",
+  "diseasemanagement": "Manajemen Penyakit",
+  "diseases": "Penyakit",
+  "disease_1": "Penyakit",
+  "dissocia": "Putuskan hubungan",
+  "DISTANCE": "Jarak",
+  "dm_section_description_1": "Di sini Anda dapat melampirkan file Anda",
+  "DND": "Jangan ganggu",
+  "DOCEMAIL": "Email dokter",
+  "DOCNAME": "Nama dokter",
+  "DOCPHONE": "Nomor telepon dokter",
+  "DOCTOR": "Dokter",
+  "doctor1": "Dokter",
+  "doctorAtHome": "Dokter di Rumah",
+  "doctorAtHomeQuestion1": "Saya ingin bantuan rumah untuk:",
+  "doctorAtHomeQuestion2": "Pilih bantuan rumah yang Anda butuhkan",
+  "doctorAtHomeQuestion2Answer1": "Latihan umum",
+  "doctorAtHomeQuestion2Answer2": "Pediatrik",
+  "doctorAtHomeQuestion2Answer3": "Perawat",
+  "doctorAtHomeQuestion3": "Tentukan alasan mengapa Anda ingin menerima bantuan",
+  "doctorAtHomeQuestion4": "Berikan dalam formulir di bawah alamat yang ingin Anda terima bantuan",
+  "doctorAtHomeRequestBtn": "Kirim permintaan",
+  "doctorAtHomeRequestSuccess": "Kami telah menerima permintaan Anda. Anda akan dihubungi dalam 2 jam untuk mengatur layanan rumah",
+  "doctorAtHomeTitle": "Dokter di Rumah",
+  "doctorbusy": "Dokter sibuk dalam panggilan lain",
+  "doctorbusy1": "Dokter sibuk dengan panggilan lain",
+  "doctorlist": "Daftar dokter",
+  "doctormanagement": "Manajemen dokter",
+  "doctoroffline": "Dokter sedang offline, coba lagi",
+  "doctorupdate": "Dokter",
+  "DOCTOR_PROFILE_OPT1": "Profil",
+  "DOCTOR_PROFILE_OPT2": "Riwayat Kunjungan Pasien",
+  "DOCTOR_PROFILE_OPT3": "Merekomendasikan kolega",
+  "DOCTOR_PROFILE_SECTION1": "Profil kamu",
+  "DOCTOR_PROFILE_TITLE": "Profil",
+  "doctor_request_sent": "Kami telah mengirimkan permintaan Anda ke dokter kami. Anda akan menerima jawaban dalam dua menit.",
+  "documents": "Dokumen",
+  "DOCUMENT_BTN": "Dokumen",
+  "doestake": "Sudahkah kamu ambil",
+  "DONATION_TITLE": "Konfirmasi donasi",
+  "done": "Data trackx berhasil diunduh. Anda akan menemukan mereka di bawah bagian data kesehatan",
+  "doneAppointmentPatient": "Janji Yang Lalu",
+  "DONE_BTN": "Selesai",
+  "dontknow": "Saya tidak ingat",
+  "DORMIVEGLIA": "Kantuk",
+  "dosage": "Dosis",
+  "dosetake1": "Sudahkah Anda minum obat?",
+  "dottore_rimosso": "Status dokter berhasil diperbarui",
+  "dottore_salvato": "Dokter berhasil diperbarui",
+  "download": "Download",
+  "downloadaspdf": "Unduh sebagai PDF",
+  "downloadecg": "Download EKG",
+  "DOWNLOADING_DEVICE_DATA": "Mengunduh ...",
+  "downloadwellnessdata": "Mengunduh data kesehatan ...",
+  "downloadWellnessResult": "ukuran ditambahkan",
+  "DOWNLOAD_CERTIFICATE": "Unduh sertifikat",
+  "DOWNLOAD_ERROR_GENERIC": "Ups. Terjadi kesalahan saat mencoba mengunduh file. Silakan coba lagi nanti.",
+  "DOWNLOAD_SO_REPORT": "Unduh Referal",
+  "DO_NOT_DISTURB": "Jangan ganggu",
+  "drugsAtHome": "Obat di Rumah",
+  "drugsAtHomeQuestion1": "Apakah Anda ingin menerima obat yang diresepkan oleh dokter Anda langsung di rumah?",
+  "drugsAtHomeRequestBtn": "Kirim permintaan",
+  "drugsAtHomeRequestSuccess": "Kami telah menerima permintaan Anda. Obat-obatan akan dikirim dalam waktu 24 jam",
+  "drugsAtHomeSection1": "Berikan dalam formulir di bawah nomor telepon dan alamat yang Anda inginkan untuk menerima obat.",
+  "drugsAtHomeTitle": "Obat di Rumah",
+  "drug_name": "Nama obat",
+  "duration": "Lamanya",
+  "ecg": "EKG",
+  "ecgadded": "EKG berhasil ditambahkan ke daftar",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "Data EKG",
+  "ecgdetail": "Klik pada setiap item untuk melihat gambar EKG",
+  "ECG_DELETE_Q": "Anda yakin ingin menghapus EKG?",
+  "ecg_not_found": "File ECG salah, coba misuarasi lain.",
+  "ECG_REMOVED": "EKG berhasil dihapus",
+  "edit": "Edit",
+  "EKG_SECTION_TITLE": "Hasil Elektrokardiogram (EKG / EKG)",
+  "EKG_TITLE": "EKG Upload",
+  "EMAIL": "E-mail",
+  "email1": "E-mail",
+  "email_do_not_match": "Email tidak cocok",
+  "ematicTest": "Tes Ematic",
+  "Emergency": "Tampilkan Darurat",
+  "emergency1": "Keadaan darurat",
+  "emergencyLoginCode": "Kode Masuk Darurat",
+  "emergency_numbers": "Nomor Darurat",
+  "emergency_number_description": "Tambahkan nomor telepon untuk dihubungi jika terjadi keadaan darurat",
+  "emotionDescription": "Kombinasi berbagai emosi dasar, seperti yang diungkapkan oleh suara pengguna saat bagian suara yang dianalisis.",
+  "emotions": "Emosi Gabungan",
+  "emptypassword": "Tolong, tentukan pasword",
+  "EMPTY_ALLERGIES": "Klik tombol untuk menambahkan penyakit ke rekam medis Anda",
+  "empty_dataset": "Tidak ada data",
+  "EMPTY_DEPENDENCIES": "Klik tombol untuk menambahkan ketergantungan pada rekam medis Anda",
+  "EMPTY_DISEASE": "Klik tombol untuk menambahkan penyakit ke rekam medis Anda",
+  "EMPTY_DOCUMENTS": "Klik tombol untuk menambahkan dokumen ke rekam medis Anda",
+  "EMPTY_IMAGES": "Klik pada tombol untuk menambahkan gambar ke rekam medis Anda",
+  "EMPTY_IMMUNIZATION": "Klik tombol untuk menambahkan imunisasi ke rekam medis Anda",
+  "EMPTY_MEDICATION": "Klik tombol untuk menambahkan obat ke catatan medis Anda",
+  "empty_otp": "Kode OTP tidak valid",
+  "EMPTY_PROSTHESIS": "Klik pada tombol untuk menambahkan prostesis ke rekam medis Anda",
+  "EMPTY_TESTS": "Klik tombol untuk menambahkan tes ke rekam medis Anda",
+  "enabled": "Diaktifkan",
+  "endate": "Untuk",
+  "endcall": "Akhiri panggilan",
+  "endDate": "Tanggal akhir",
+  "endhour": "Akhir waktu",
+  "end_time": "Akhir waktu",
+  "END_VIDEOCALL_Q1": "Anda yakin ingin mengakhiri konsultasi tanpa memulai videocall?",
+  "END_VISIT_BTN": "Kunjungan akhir",
+  "error": "Kesalahan",
+  "error_call_timeout": "Waktu untuk melakukan panggilan video sudah berakhir. Untuk melakukan panggilan video, ulangi prosesnya lagi.",
+  "ERROR_EMAIL_DUPPLICATE": "Sepertinya alamat email ini sudah registerd. Coba dengan yang lain.",
+  "error_price": "Silakan tentukan biaya",
+  "ERROR_SPECIFY_DAYS": "Tolong, tentukan setidaknya satu minggu hari",
+  "ERROR_SPECIFY_HOUR": "Tolong, tentukan waktunya",
+  "ERROR_TITLE_NOTIFICATION": "Kesalahan",
+  "ERROR_TRACKX": "Aktifkan Trackx",
+  "error_update": "Kesalahan saat Memperbarui Firmware",
+  "ERROR_USERNAME_DUPPLICATE": "Nama pengguna ini telah diambil, pilih yang lain",
+  "ERROR_WHITELIST": "Maaf, perangkat Anda tidak diaktifkan untuk melakukan panggilan video",
+  "esameobbligatorio": "Silahkan pilih Ujian",
+  "exam_name": "Nama ujian",
+  "exercise": "Olahraga",
+  "exercisereminders": "Pengingat Latihan Saya",
+  "existentassoc": "Ada asosiasi",
+  "existentrelation": "Hubungan ini sudah ada",
+  "expandfordetails": "Perluas untuk lebih jelasnya",
+  "EXP_MONTH": "Bulan Kadaluarsa",
+  "EXP_MONTH_REQUIRED": "Diperlukan bulan kedaluwarsa",
+  "EXP_YEAR": "Tahun Kedaluwarsa",
+  "EXP_YEAR_REQUIRED": "Diperlukan tahun kedaluwarsa",
+  "e_prescribing": "Peresepan E-",
+  "F": "Wanita",
+  "farmaci": "Obat-obatan",
+  "farmaco": "Obat",
+  "fat": "Lemak",
+  "FATIGUE_INDEX": "Kelelahan",
+  "FATIGUE_INDEX_DESCRIPTION": "Bekerja, bekerja dan pengalaman disebabkan oleh tingkat kelelahan. Kelelahan yang berlebihan dengan mudah menyebabkan kekakuan otot bahu, sakit kepala, insomnia, kelelahan, nyeri pinggang, dan mudah mengarah ke sistem saraf, gangguan endokrin, mengakibatkan banyak penyakit kronis dan kelelahan mental.",
+  "favoriteslist": "Daftar Favoritku",
+  "FAVORITES_NO": "Anda belum menambahkan dokter ke daftar favorit Anda",
+  "FAVORITES_NO_PHARMACIES": "Anda belum menambahkan apotek ke daftar favorit Anda",
+  "FAVORITES_SECTION_SUBTITLE": "Klik pada setiap item untuk melihat rincian lengkap",
+  "FAVORITES_SECTION_TITLE": "Dokter favoritmu",
+  "FAVORITES_TITLE": "Favorit",
+  "favourite_pharmacy": "Apotek favorit",
+  "FEE": "Kelola Biaya",
+  "FEET": "kaki",
+  "female": "Wanita",
+  "fileloaded": "File dimuat",
+  "fileloaded1": "Fle berhasil diunggah",
+  "fileName": "Nama file",
+  "filenotfound": "File tidak ditemukan",
+  "file_upload_instruction": "Instruksi pengunggahan",
+  "filldate": "Tolong pilih tanggalnya",
+  "filldoctor": "Tolong pilih dokter",
+  "fillpeciality": "Tolong pilih yang spesial",
+  "fillthebox": "Isi kotaknya",
+  "fill_indication": "Tolong, isi bidang indikasi",
+  "fill_indication_for": "Silakan tentukan indikasi untuk",
+  "fill_quantity": "Tolong, isi bidang kuantitas",
+  "fill_quantity_for": "Silakan tentukan jumlahnya untuk",
+  "fill_your_doubt": "Tolong, berikan deskripsi di kotak di atas.",
+  "filter": "Menyaring",
+  "finddoctor": "Temukan dokter",
+  "findFarmacia": "Cari Apotek",
+  "findpatient": "Temukan pasien",
+  "findspcialist": "Temukan spesialis",
+  "findStruttura": "Struktur pencarian",
+  "finduser": "Temukan pengguna",
+  "FIND_A_DOCTOR": "Cari dokter",
+  "find_device": "Temukan Perangkat",
+  "FIND_THE_BRACELET": "Temukan Gelang",
+  "fingerprint_btn": "Aktifkan login sidik jari",
+  "fingerprint_hint": "Konfirmasikan sidik jari untuk melanjutkan",
+  "fingerprint_hint2": "Konfirmasikan sidik jari untuk melanjutkan",
+  "fingerprint_question": "Apakah Anda ingin mengaktifkan otentikasi sidik jari?",
+  "FIRMWARE_UPDATE": "Pembaruan Firmware",
+  "FIRMWARE_UPDATED": "Pembaruan Firmware",
+  "firstName": "Nama depan",
+  "five_min": "Dalam 5 menit",
+  "fixappointment": "Apakah Anda ingin menjadwalkan janji ini?",
+  "forever": "Selama-lamanya",
+  "forgotPassword": "lupa kata sandi Anda?",
+  "forgot_password": "Lupa kata sandi?",
+  "forma": "Mengetik",
+  "formafarmaco": "Formulir Obat",
+  "formatError": "Harga harus berupa nilai numerik.",
+  "found_devices": "Perangkat yang ditemukan",
+  "FRIDAY": "Jumat",
+  "GENDER": "Jenis kelamin",
+  "gender1": "Jenis kelamin",
+  "general": "Umum",
+  "generalInfo": "Info umum",
+  "genericName": "Nama generik",
+  "GENERIC_ERROR": "OOps! Ada yang salah. Silakan coba lagi nanti",
+  "geneticTest": "Tes Genetika",
+  "geneticTestHeader2": "Melalui tes genetik Anda dapat menemukan lebih banyak tentang kesehatan Anda dan melakukan hal yang benar untuk tetap sehat.",
+  "geneticTestHeader3": "bagaimana cara kerjanya",
+  "geneticTestProduct": "Profil Gizi",
+  "geneticTestRequestBtn": "Minta tesnya",
+  "geneticTestRequestSuccess": "Pesanan Anda telah dikonfirmasi. Anda akan menerima kit langsung di rumah",
+  "geneticTestSection1": "Apakah Anda ingin sekarang jika apa yang Anda makan cukup untuk tubuh dan metabolisme Anda?",
+  "geneticTestSection2": "Apakah Anda ingin tahu apakah makanan sehat membuat tubuh Anda tidak berisiko terkena penyakit kronis?",
+  "geneticTestSection3": "Tes nutrisi akan memberi tahu Anda hubungan antara DNA dan diet Anda.",
+  "geneticTestSection4": "Tambahkan di sini nomor telepon Anda dan alamat yang Anda inginkan untuk menerima kit",
+  "geneticTestStep1": "1. Pesan tes Anda",
+  "geneticTestStep1Subtitle": "Buat pesanan Anda dengan aplikasi dan terima kit langsung di rumah.",
+  "geneticTestStep2Subtitle": "Ambil sampel dan kirimkan kepada kami melalui layanan pos menggunakan amplop yang akan kami berikan kepada Anda.",
+  "geneticTestStep3": "3. Dapatkan hasilnya",
+  "geneticTestStep3Subtitle": "Setelah beberapa minggu, Anda akan menerima pesan yang memberi tahu Anda bahwa hasil tes genetik akan tersedia di Aplikasi.",
+  "geneticTestTitle": "Tes Genetika",
+  "GLUCOMETER": "Glucometer",
+  "glucosio": "Glukosa",
+  "HAND_BRIGHTEN": "Angkat Tangan Anda untuk Mencerahkan",
+  "happiness": "Kebahagiaan",
+  "HDL": "Kolesterol HDL",
+  "hdl_cholesterol_desc": "Kolesterol lipoprotein densitas tinggi (HDL) dikenal sebagai kolesterol &#39;baik&#39;. Tabel berikut menunjukkan kisaran nilai.",
+  "healthtips": "Tips Kesehatan",
+  "HEALTH_INDEX": "Kesehatan",
+  "HEALTH_INDEX_DESCRIPTION": "Indeks kesehatan HRV adalah melalui analisis denyut jantung rata-rata HR dan variabilitas detak jantung HRV dan parameter lainnya, berdasarkan pengukuran waktu nyata dari hasil Holter untuk menganalisis parameter kesehatan tubuh, indeks kesehatan meningkat, mewakili kesehatan tubuh lebih baik; indeks kesehatan menurun, atas nama tubuh Perlu memperhatikan kehidupan sehat sehari-hari.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Jantung",
+  "HEART_INDEX_DESCRIPTION": "Fungsi Jantung Pengguna mengukur kondisi jantung seseorang, dan kinerjanya berbeda karena tingkat cinta yang berbeda untuk jantung dan status kesehatan secara keseluruhan. Untuk mengembangkan gaya hidup sehat dan kebiasaan makan: strategi yang masuk akal untuk melatih jantung untuk memaksa suplemen kalsium jantung natrium, untuk melindungi pembuluh darah, dapat secara aktif mencegah terjadinya penyakit jantung, adalah untuk memperkuat strategi fungsi jantung.",
+  "height": "Tinggi",
+  "height1": "Tinggi diperlukan untuk perhitungan BMI yang benar",
+  "heightUnit": "Unit Tinggi",
+  "hepaticFunction": "Fungsi hati",
+  "hide": "Menyembunyikan",
+  "high1": "Tinggi",
+  "high_risk": "Berisiko tinggi",
+  "history": "Sejarah Konsultasi",
+  "homepage": "Rumah",
+  "HOME_WARNING_MESSAGE": "Yakin ingin bernavigasi menjauh dari halaman ini? Modifikasi Anda akan hilang.",
+  "hormonalTest": "Tes Fungsi Hormonal",
+  "hospDate": "Hosp.date",
+  "hospit": "Dirawat di rumah sakit",
+  "hospital": "RSUD",
+  "hospitalization": "Rawat inap",
+  "hour": "Jam",
+  "hours": "Jam",
+  "HOURS_BANK_DONATE_BTN": "Menyumbangkan",
+  "HOURS_BANK_DONATION": "Jam yang sekarang disumbangkan:",
+  "HOURS_BANK_H": "Jam Bank:",
+  "HOURS_BANK_SECTION_P1": "Kesehatan adalah prioritas utama kami di SaluberMD dan kami ingin melayani sebanyak mungkin orang. Melalui platform kami, kami memungkinkan mereka yang membutuhkan akses terhadap layanan kesehatan. Tim penjangkauan kami berkomitmen untuk menyediakan kesempatan kesehatan bagi organisasi, individu dan keluarga yang membutuhkan.",
+  "HOURS_BANK_SECTION_P2": "Cukup klik pada link dengan berapa jam yang ingin Anda donasikan dan kami akan menambahkannya ke bank kami.",
+  "HOURS_BANK_SECTION_P3": "Kami akan menghubungi Anda melalui aplikasi untuk menukarkan jam dan saat Anda tersedia cukup klik untuk menerima pasien.",
+  "HOURS_BANK_SECTION_TITLE": "Bergabunglah dengan kami dalam memberikan hadiah perawatan kesehatan!",
+  "HOURS_BANK_TITLE": "Jam Bank",
+  "howto": "Bagaimana",
+  "howto1": "Slot yang tersedia ditandai dengan bola hijau",
+  "howto2": "Pilih sel dengan bola hijau dan klik di atasnya untuk memperluas dan memilih waktu. Bila sudah siap klik ke simbol pensil untuk melihat detail dan ambil janji temu",
+  "howToPrice": "Harga harus berupa nilai numerik. Paling banyak dua nilai desimal diizinkan. Dot atau koma dapat digunakan sebagai pemisah",
+  "hrv_buono": "Baik",
+  "hrv_eccellente": "Luar biasa",
+  "hrv_generale": "Umum",
+  "hr_alta": "Lebih dari 100",
+  "hr_bassa": "Kurang dari 60",
+  "HR_DESCRIPTION": "Tabel referensi dari denyut jantung istirahat normal",
+  "HR_INTERVAL": "Interval Pengukuran HR",
+  "hr_normale": "Antara 60 dan 100",
+  "hsh": "Rawat Inap dan Sejarah Bedah",
+  "IBAN": "IBAN",
+  "idx": "Indeks",
+  "image": "Gambar",
+  "images": "Gambar",
+  "immunization": "Imunisasi",
+  "immunizationmenu": "Imunisasi",
+  "importhealth": "Impor Data Kesehatan",
+  "impossible_transfer": "Mustahil untuk melakukan trasfer Panggilan",
+  "INCH": "Inci",
+  "indexes": "Indeks",
+  "indication": "Indikasi",
+  "INFO_BTN": "Info",
+  "info_salvate": "Data berhasil disimpan",
+  "iniezione": "Injeksi",
+  "initiative": "Prakarsa",
+  "initiativeerror": "Silahkan pilih satu inisiatif",
+  "insert": "Memasukkan",
+  "inserttext": "Masukkan teks di sini",
+  "insert_otp_code": "Masukkan kode di sini",
+  "internet_missing": "Anda tidak terhubung ke internet",
+  "invalidemail": "alamat email salah",
+  "invoice": "Faktur",
+  "irregulartest": "Uji tidak beraturan",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Tes Fungsi Ginjal",
+  "labtesting": "Jaringan",
+  "LANGUAGE": "Bahasa",
+  "LANGUAGE_TYPE": "Bahasa",
+  "lastmeasure": "Ukuran terakhir",
+  "lastName": "Nama keluarga",
+  "lastPhysical": "Fisik Terakhir",
+  "lastSync": "Sinkronisasi Terakhir",
+  "lastTimeOnline": "Terakhir Kali Online",
+  "lastvisit": "Kunjungan terakhir",
+  "last_login_date": "Tanggal Login Terakhir",
+  "last_time_taken": "Terakhir kali diambil",
+  "LDL": "LDL kolesterol",
+  "ldl_cholesterol_desc": "LDL, atau lipoprotein densitas rendah, adalah kolesterol &#39;jahat&#39;. Tabel berikut menunjukkan kisaran nilai",
+  "leggero": "Cahaya",
+  "LICENSE_NUMBER": "Nomor lisensi",
+  "LIGHT_SLEEP_TIME": "Tidur Ringan",
+  "listcall": "Daftar videocall selesai",
+  "litri": "Liter",
+  "liverExam": "Tes fungsi hati",
+  "LIVE_ECG": "Pengukuran baru",
+  "live_ecg_downloading": "Mengunduh ECG. Tunggu sebentar...",
+  "loadEcgList": "Memuat daftar EKG ...",
+  "loading": "Memuat data ...",
+  "loading1": "Pemuatan...",
+  "loading_list": "Memuat daftar ...",
+  "loading_list_nutritionist": "Memuat ahli gizi ...",
+  "LOAD_INDEX": "Beban",
+  "LOAD_INDEX_DESCRIPTION": "Tingkat dan kelelahan, stres Pertimbangan yang komprehensif dari tubuh untuk menanggung indeks beban, yang merefleksikan aspek fisik dan psikologis dari orang-orang yang menanggung situasi beban. Sosial, kehidupan dan persaingan eksternal dan faktor-faktor lain, tetapi juga oleh kondisi fisik dan mental mereka sendiri.",
+  "LOAD_ITEMS": "Pemuatan...",
+  "LOGGING_IN": "Masuk ...",
+  "LOGGING_OUT": "Keluar...",
+  "LOGIN_BTN": "Masuk",
+  "LOGIN_ERROR": "Username atau password salah",
+  "Logout": "Keluar",
+  "logout1": "Keluar",
+  "LOGOUT_BTN": "Keluar",
+  "low1": "Rendah",
+  "lunch": "Makan siang",
+  "lungtest": "Mari kita lakukan tes paru-paru",
+  "M": "Pria",
+  "male": "Pria",
+  "manageapp": "Mengelola janji temu",
+  "manageslot": "Kelola slot gratis",
+  "MANAGE_CORX": "Kelola Corx",
+  "mandatoryDays": "Silakan tentukan jumlah hari",
+  "mandatoryfield": "Tolong isi semua bidang wajib",
+  "map": "Peta",
+  "max_file_size": "Ukuran file harus kurang dari",
+  "meals": "Makanan",
+  "medicalconsultation": "Konsultasi",
+  "medicalfile": "Gambar",
+  "medicalform": "Bentuk medis",
+  "medicalforms": "Bentuk medis",
+  "medicalinfo": "Info Medis",
+  "medicalrecord": "Rekam medis",
+  "medical_2option": "Opini Medis Kedua",
+  "MEDICAL_CERTIFICATE": "Sertifikat medis",
+  "MEDICAL_FILE_BTN": "File medis",
+  "medication": "Obat",
+  "medication_name": "Nama obat",
+  "medicinereminders": "Obat saya pengingat",
+  "medio": "Medium",
+  "medium1": "Medium",
+  "message": "Pesan",
+  "messagesent": "Pesan berhasil terkirim",
+  "metabolismTest": "Tes Metabolisme",
+  "method": "metode",
+  "METRIC": "Metrik",
+  "middedcall2": "Anda memiliki panggilan yang tidak dijawab dari",
+  "minutes": "menit",
+  "missedcall": "SaluberMd Panggilan video tidak terjawab",
+  "missedcall1": "Panggilan tidak terjawab",
+  "missedNotiAlert": "Anda memiliki beberapa pemberitahuan yang terlewat.",
+  "misurazioni": "Catatan",
+  "misure": "Mengukur",
+  "mobile": "Mobile",
+  "mobile_required": "Silakan, tambahkan nomor telepon Anda sehingga kami dapat menghubungi Anda untuk mengatur janji temu.",
+  "moderate_risk": "Risiko sedang",
+  "MONDAY": "Senin",
+  "month": "Bulan",
+  "mood": "Kelompok mood",
+  "moodDescription": "Indikator kunci keadaan emosional pembicara selama bagian suara yang dianalisis. API menghasilkan total 11 kelompok mood mulai dari kemarahan, kesepian dan pengendalian diri hingga kebahagiaan dan kegembiraan.",
+  "moreDays": "Hari lagi",
+  "motivazione": "Alasan",
+  "MRGraph": "Obat diambil sejarahnya",
+  "msgAppointment": "Penunjukan telah berhasil terjadwal. Anda akan menemukan penunjukan Anda di bagian manfaat petugas.",
+  "msgsurveysent": "Survei berhasil dikirim",
+  "msg_call_reconnection": "Mencoba menyambung kembali ...",
+  "MSG_CALL_TRANSFERED": "Videocall telah berhasil ditransfer",
+  "MSG_CHOOSE_OPTION": "Tolong, pilih satu opsi",
+  "MSG_CHOOSE_OPTION4": "Pilih opsi",
+  "MSG_CHOOSE_OPTION5": "Jelaskan sarapan Anda",
+  "MSG_CHOOSE_OPTION6": "Jelaskan makan malam Anda",
+  "MSG_CHOOSE_OPTION7": "Jelaskan makan siang Anda",
+  "MSG_CHOOSE_OPTION8": "Jelaskan ular Anda",
+  "MSG_CHOOSE_OPTION9": "Tolong, jawab semua pertanyaan",
+  "MSG_CHOOSE_OPTION_2": "Tolong, masukkan deskripsi",
+  "MSG_CHOOSE_OPTION_3": "Pilih setidaknya satu opsi",
+  "MSG_COMPLETE_PROFILE": "Maukah kamu pergi sekarang",
+  "MSG_CONFIRM_EMAIL": "Silahkan konfirmasi email Anda",
+  "MSG_CONFIRM_EMAIL_TEXT": "Kami mengirimi Anda email berisi instruksi tentang cara mengonfirmasi alamat email Anda. Silakan periksa kotak masuk Anda.",
+  "msg_connected": "Berhasil Terhubung",
+  "MSG_CONTACT_SUCCESS": "Terima kasih atas kiriman anda",
+  "MSG_DOC_ENDED_CALL": "Dokter telah mengakhiri panggilannya",
+  "MSG_DOC_WAITING_CALL": "Dokter sudah terputus, menunggu penyambungan kembali",
+  "MSG_DONATION": "Konfirmasikan sumbangan Anda?",
+  "MSG_DONATION_CONFIRM": "Terima kasih atas donasi anda",
+  "MSG_ERROR_FILL_BOXES": "Silahkan isi kotak dengan nilai yang benar",
+  "MSG_FILL_ALL_BOXES": "Tolong isi semua kotaknya",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Silakan lengkapi semua bidang berikut",
+  "MSG_FILL_BOXES": "Silahkan isi kotaknya",
+  "MSG_FILL_BOXES_ALL": "Silakan isi semua kolom",
+  "MSG_FILL_BOXES_PROFILE": "Silakan, isi semua kotak yang ditandai dengan bintang",
+  "MSG_GENERIC_ERROR": "Periksa koneksi internet Anda dan coba lagi.",
+  "MSG_GENERIC_FORM_ERROR": "Perbaiki kesalahan sebelum melanjutkan",
+  "MSG_LOGIN_ERROR": "Login gagal: periksa kredensial Anda dan pastikan Anda terhubung ke jaringan.",
+  "MSG_LOGIN_ERROR_LOCKED": "Login gagal: akun Anda terkunci sementara. Silakan coba lagi nanti.",
+  "MSG_MANDATORY_OPTION": "Anda harus memberi wewenang kepada dokter untuk melihat Berkas Medis",
+  "MSG_NO_DOCTORS_FOUND": "Tidak ada dokter yang ditemukan, tekan Find a Doctor untuk mencoba lagi.",
+  "MSG_PATIENT_CANCELED_CALL": "Pasien telah membatalkan panggilan tersebut, kembali ke rumah",
+  "MSG_PATIENT_ENDED_CALL": "Pasien telah mengakhiri panggilan",
+  "MSG_PATIENT_WAITING_CALL": "Pasien telah terputus, menunggu untuk menyambung kembali",
+  "MSG_POST_CALL_CANCEL": "Anda mengakhiri kunjungan sebelum memulai videocall!",
+  "MSG_POST_CALL_DOCTOR": "Ringkasan dikirim, kembali ke rumah.",
+  "MSG_POST_CALL_PATIENT": "Terima kasih telah menggunakan SaluberMD. Anda akan menerima email tindak lanjut. Untuk melihat rincian tentang kunjungan Anda dan petunjuk dokter Anda, kunjungi Riwayat Kunjungan-Kunjungan saya.",
+  "msg_reconnection_error": "Perangkat terputus. Silakan, sambungkan kembali perangkat",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Terima kasih .... seseorang akan menghubungi Anda",
+  "MSG_REGISTRATION_SUCCESS": "Pendaftaran berhasil",
+  "msg_req_videocall1": "tersedia untuk videocall di:",
+  "msg_req_videocall2": "Panggilan video siap dimulai. Klik pemberitahuan ini untuk mengaktifkan panggilan video",
+  "msg_req_videocall3": "tersedia untuk videocall sekarang. Klik pemberitahuan ini untuk mengaktifkan panggilan video",
+  "MSG_RESET_REQUEST_ERROR": "Pengguna dengan nama pengguna atau alamat email ini tidak ada.",
+  "MSG_RESET_REQUEST_SUCCESS": "Anda akan segera menerima email yang berisi link untuk mereset kata sandi.",
+  "MSG_RESUME_CALL": "Ada telepon yang sedang berjalan, apakah kamu ingin melanjutkannya?",
+  "MSG_SCHOOL_MISSING": "Masukkan Sekolah",
+  "MSG_SELECT_TIMEZONE": "Pilih zona waktu",
+  "MSG_SIGNATURE_MISSING": "Harap isi tanda tangan Anda, jika tidak, anda tidak dapat mengirimkan resep apapun.",
+  "MSG_THANKING": "Terima kasih atas kiriman anda",
+  "MSG_VIDEOCALL_DISCONNECTED": "Kehilangan koneksi. Ini mungkin karena koneksi internet Anda",
+  "MSG_WELCOME_BACK": "Selamat Datang kembali",
+  "MSG_YEAR_PRACTISE": "Masukkan Tahun Praktek",
+  "muscles": "Otot",
+  "myappointment": "Janji saya",
+  "MYFILE_NOFILE": "Kamu belum punya file",
+  "MYFILE_SECTION": "File anda",
+  "MYFILE_SUBTITLE": "Klik pada setiap item untuk melihat isi file",
+  "MYFILE_TITLE": "File saya",
+  "myprofile": "Profil saya",
+  "myreminders": "Pengingat saya",
+  "MY_TICKETS": "Tiket Anda",
+  "M_SCHOOL": "Sekolah medis",
+  "N": "Tidak",
+  "name": "Nama",
+  "negative": "Negatif",
+  "nervous": "Gugup",
+  "nessun_appuntamento": "Tidak ada janji yang lalu",
+  "NETWORK_CHECK_MSG": "Bandwidth Anda terlalu rendah. Memutar konten dengan bandwidth rendah akan menyebabkan video terhenti.",
+  "NETWORK_CHECK_TITLE": "Uji Kualitas Panggilan",
+  "NETWORK_ERROR": "Kesalahan Koneksi Internet. Coba lagi nanti",
+  "neutral": "Netral",
+  "newappointment": "Penunjukan baru dari",
+  "newass": "Tambahkan asosiasi baru",
+  "NEWPWD_CONFIRM": "Kata sandi berhasil diubah. Silahkan login lagi.",
+  "NEWPWD_CONFIRM2": "Kata sandi berhasil diubah",
+  "NEWPWD_ERROR": "Kata sandi baru tidak cocok",
+  "newtest": "Tekan tombol tambah untuk melakukan tes baru.",
+  "NEW_PWD": "Kata sandi baru",
+  "new_ticket": "Tiket Baru",
+  "NEXT": "Berikutnya",
+  "no": "Tidak",
+  "noAlarm": "Tidak ada set alarm",
+  "noallergies": "Tidak ada alergi saat ini",
+  "noapatient": "Tidak ada pasien yang ditemukan",
+  "noappointment": "Tidak ada janji temu yang dijadwalkan",
+  "noappointments": "Tidak ada tanggal yang tersedia dengan dokter ini",
+  "noappointments1": "Tidak ada tanggal yang tersedia dengan ahli gizi ini",
+  "noAppoPat": "Tidak ada janji untuk didaftar",
+  "noarticles": "Tidak ada artikel nutrisi",
+  "noassociatedpatient": "Anda belum memiliki pasien yang terkait",
+  "noattachment": "Silakan, pilih lampiran",
+  "noattachment1": "Tidak ada lampiran",
+  "noavailableoption": "Tidak ada pilihan yang tersedia",
+  "nocomment": "Tidak ada komentar / rekomendasi",
+  "noconsulenze": "Tidak ada kunjungan yang dilakukan",
+  "nocorxfound": "Tidak ditemukan CORX",
+  "nodata": "Tidak ada data",
+  "nodependency": "Tidak ada ketergantungan pada saat ini",
+  "nodesease": "Saat ini tidak ada penyakit",
+  "nodevice": "Tidak ada perangkat yang ditemukan, coba lagi",
+  "nodoctor": "Tidak ditemukan dokter",
+  "nodoctors": "Tidak ada dokter yang tersedia",
+  "noDocuments": "Tidak ada dokumen yang diunggah",
+  "nodrugselected": "Anda telah memilih tidak ada obat",
+  "noecg": "Tidak terdaftar ECG",
+  "noexam": "Tidak ada ujian untuk ditampilkan",
+  "nofiles": "Tidak ada file yang diunggah oleh pasien",
+  "noHistory": "Saat ini tidak ada konsultasi",
+  "nohsh": "Saat ini tidak ada rawat inap",
+  "noimages": "Saat ini tidak ada keterikatan",
+  "noimmunization": "Tidak ada imunisasi saat ini",
+  "nolabtest": "Tidak ada tes laboratorium yang ditemukan",
+  "nomedication": "Saat ini tidak ada obat",
+  "nomisure": "Tidak ada ukuran",
+  "nonterminata": "Panggilan Tidak Berhasil",
+  "nonutritionist": "Tidak ada ahli gizi yang tersedia",
+  "nonuvoair": "Tidak ada perangkat yang ditemukan",
+  "nopharmacy": "Tidak ada apotek yang ditemukan",
+  "noprescription": "Tidak ada resep saat ini",
+  "noprothesis": "Tidak ada prostesis saat ini",
+  "noreferrals": "Tidak ada rujukan yang terdaftar",
+  "noreminders": "Anda tidak memiliki pengingat untuk saat ini",
+  "noresults": "Tidak ada hasil yang ditemukan",
+  "normale": "Normal",
+  "normalrange": "Kisaran Normalitas",
+  "normalWeight": "Berat badan normal",
+  "nosintomi": "Tidak ada gejala yang dipilih",
+  "nospecialist": "Tidak ada spesialis",
+  "note": "Catatan",
+  "notests": "Tidak ada tes tidak teratur saat ini",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Klik di sini untuk menyelesaikan file medis Anda",
+  "NOTIFICATIONS_SECTION": "Pemberitahuan anda",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Menerima 1 konsultasi gratis atau pemeriksaan penilaian kesehatan setelah menyelesaikan sepenuhnya file medis Anda.",
+  "NOTIFICATIONS_SETTINGS": "Setel Pemberitahuan",
+  "NOTIFICATIONS_TITLE": "Pemberitahuan",
+  "notification_setting": "Pilih dari kategori mana Anda ingin menerima pemberitahuan",
+  "notimage": "File bukan gambar: Hanya BMP, GIF, JPG dan PNG yang diperbolehkan",
+  "notNow": "Tidak sekarang",
+  "notnow_btn": "Tidak sekarang",
+  "nouser": "Tidak ditemukan pengguna",
+  "novantad": "90 hari terakhir",
+  "novideocall": "Tidak ada videocall yang ditemukan",
+  "novisit": "Belum ada kunjungan pasien",
+  "noWellnessData": "Tidak Ada Data Kebugaran Baru",
+  "no_certificate": "Tidak ada sertifikat untuk dicantumkan",
+  "no_chiosc_data": "Tidak ada tes lab untuk dilihat",
+  "NO_DATA": "Tidak ada data",
+  "no_doctor_answer1": "Tidak ada dokter yang tersedia saat ini.",
+  "no_doctor_answer2": "Anda dapat membuat janji dengan mengklik tombol di bawah ini.",
+  "NO_GENETIC_TEST_REQUESTS": "Anda belum meminta tes genetik apa pun",
+  "NO_MSG": "Tidak ada pesan terkirim",
+  "no_notifications": "Anda tidak memiliki notifikasi",
+  "no_prescription_download": "Tidak ada resep yang terkait dengan konsultasi ini",
+  "no_pull_answer": "Tidak ada dokter yang tersedia saat ini.",
+  "no_referral_download": "Tidak ada rujukan yang terkait dengan kunjungan ini",
+  "NO_SECOND_OP_REQUESTS": "Anda tidak memiliki permintaan untuk Layanan Pendapat Kedua",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Tidak ditemukan spesialisasi",
+  "NO_TICKETS_SENT": "Tidak ada tiket yang dikirim",
+  "NO_USER_FOUND": "Nama pengguna atau Email tidak ditemukan",
+  "NPI": "NPI",
+  "ns": "Sistem saraf",
+  "numberNotSaved": "Kesalahan saat menyimpan nomor",
+  "numberSaved": "Jumlah Tersimpan berhasil",
+  "nuovoair_connected": "Terhubung",
+  "nuovoair_disconnected": "Terputus",
+  "nutriPen": "Permintaan tertunda",
+  "nutriRev": "Kuisioner yang direvisi",
+  "nutrition": "makanan",
+  "nutritionist": "Bicaralah dengan ahli gizi",
+  "NUTRITIONIST_Q1": "Sasaran Utama: (Periksa semua Terapkan)",
+  "NUTRITIONIST_Q10": "Apakah Anda mudah marah, pusing, atau lemah jika Anda belum makan?",
+  "NUTRITIONIST_Q11": "Latihan saat ini: (Cardio, Resistance, Etc)",
+  "NUTRITIONIST_Q12": "Apakah Anda Merokok ?: (Jika ya, seberapa sering dan berapa banyak?)",
+  "NUTRITIONIST_Q13": "Apakah Anda Minum Alkohol ?: (Jika ya, seberapa sering dan berapa banyak?)",
+  "NUTRITIONIST_Q14": "Apakah Anda Minum Kafein ?: (Jika ya, seberapa sering dan berapa banyak?)",
+  "NUTRITIONIST_Q15": "Tanggal Fisik Terakhir:",
+  "NUTRITIONIST_Q16": "Berapa kali Anda diresepkan antibiotik dalam 2 tahun terakhir:",
+  "NUTRITIONIST_Q16_BIS": "Jika demikian, yang mana dan seberapa sering, (Harap sespesifik mungkin.)",
+  "NUTRITIONIST_Q17": "Apakah Anda minum obat? (OTC atau Resep?) Jika ya, yang mana dan apakah Anda mengonsumsi suplemen? Jika demikian, seberapa sering, (Harap sespesifik mungkin.)",
+  "NUTRITIONIST_Q18": "Apakah Anda kembung atau sembelit lebih dari 1-2 hari seminggu?",
+  "NUTRITIONIST_Q19": "Apakah Anda memiliki masalah di bidang berikut ini? Jika ya, jelaskan masalah Anda secara rinci di tempat yang disediakan.",
+  "NUTRITIONIST_Q2": "Kira-kira berapa banyak makanan yang Anda makan sehari? (Pilih satu)",
+  "NUTRITIONIST_Q3": "Apa Sarapan Khas Anda Terdiri dari, dan jam berapa:",
+  "NUTRITIONIST_Q4": "Apa Makan Siang Khas Anda Terdiri dari, dan jam berapa:",
+  "NUTRITIONIST_Q5": "Apa Makan Malam Khas Anda Terdiri dari, dan jam berapa:",
+  "NUTRITIONIST_Q6": "Apa Makanan Khas Anda Terdiri dari, dan jam berapa:",
+  "NUTRITIONIST_Q7": "Apakah kamu makan berlebihan?",
+  "NUTRITIONIST_Q8": "Makanan apa yang cenderung Anda makan berlebihan dan seberapa sering:",
+  "NUTRITIONIST_Q9": "Apakah Anda memiliki alergi, batasan, atau sensitivitas terhadap makanan:",
+  "NUTRITIONIST_SUB1": "Penurunan berat badan",
+  "NUTRITIONIST_SUB10": "Mual / Muntah",
+  "NUTRITIONIST_SUB11": "Sakit perut",
+  "NUTRITIONIST_SUB2": "Berat badan",
+  "NUTRITIONIST_SUB3": "Energi / Kelelahan",
+  "NUTRITIONIST_SUB4": "Tidur yang lebih baik",
+  "NUTRITIONIST_SUB5": "Masalah pencernaan",
+  "NUTRITIONIST_SUB6": "Sembelit",
+  "NUTRITIONIST_SUB7": "Diare",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Kembung / Gas",
+  "nutrition_mail": "Terlampir ada laporan ahli gizi",
+  "nutrition_mail2": "Ahli gizi mengirimi Anda file",
+  "nutrition_questionnaire": "kuesioner nutrisi",
+  "nvisit": "Jumlah videocalls yang dilakukan",
+  "obesity1": "Gendut",
+  "obesity2": "Sangat gemuk",
+  "obesity3": "Sangat gemuk",
+  "OFFICE_ADDRESS": "Alamat kantor",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Dokter tampaknya offline, silakan coba lagi nanti",
+  "OLDPWD_ERROR": "Kata sandi baru cocok dengan kata sandi lama.",
+  "OLD_PASSWORD_WRONG": "Kata sandi lama salah",
+  "OLD_PWD": "Password lama",
+  "oneDay": "Suatu hari",
+  "one_min": "Dalam 1 menit",
+  "online": "On line",
+  "onlinedoctors": "Dokter Online",
+  "openimage": "Klik pada gambar untuk membuka layar penuh",
+  "open_ticket": "Buka Tiket",
+  "orale": "Dengan mulut",
+  "other": "Lain",
+  "othercbc": "Ujian CBC lainnya",
+  "OTHER_PLACEHOLDER": "Tolong tentukan keistimewaan anda",
+  "otoscopy": "Otoskopi",
+  "otp_sent_msg": "Kami telah mengirimi Anda kode verifikasi pada nomor telepon Anda",
+  "OUR_PRODUCTS_SECTION": "Perangkat kami menyediakan data kesehatan dan kesehatan real time untuk membantu Anda melacak kesehatan Anda.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Ukur kesehatan paru-paru Anda dalam hitungan detik dengan spirometer profesional",
+  "OUR_PRODUCTS_SECTION_P1": "Teknologi cerdas yang bisa dipakai memberikan data kesehatan real time disamping fungsi kesehatan",
+  "OUR_PRODUCTS_SECTION_P2": "Manfaat Kebugaran / Kebugaran",
+  "OUR_PRODUCTS_SECTION_P3": "Kit diagnostik berbasis rumah Anda untuk seluruh keluarga.",
+  "OUR_PRODUCTS_SECTION_P4": "fitur",
+  "OUR_PRODUCTS_SECTION_P5": "Kedua perangkat dirancang untuk berinteraksi dengan aplikasi untuk memberikan pengalaman kesehatan yang menyeluruh. Hasil Anda akan disimpan langsung di aplikasi.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Ukur tekanan boold Anda dalam hitungan detik dengan sphygmometer profesional",
+  "OUR_PRODUCTS_SECTION_SCALX": "Ukur berat badan Anda dalam hitungan detik dengan skala profesional",
+  "OUR_PRODUCTS_TITLE": "Produk kita",
+  "overeatFoods": "Makanan yang dikalahkan",
+  "overeating": "Kecenderungan makan berlebihan",
+  "overweight": "Kegemukan",
+  "pa": "Asisten resep",
+  "PASSWORD": "Kata sandi",
+  "passwordchanged": "Kata sandi berhasil diubah!",
+  "passwordExpiringMessage": "Kata sandi Anda akan segera kedaluwarsa. Silakan ubah sekarang",
+  "passwordExpiringTitle": "Kata sandi kedaluwarsa",
+  "PATIENT": "Sabar",
+  "patientAllergy": "Alergi",
+  "patientGeneticRequests": "Permintaan Tes Genetik",
+  "patientinfo": "Informasi pasien",
+  "patientlist": "Daftar pasien",
+  "patientmanagement": "Manajemen pasien",
+  "patientProtesi": "Prostesis",
+  "PATIENTS_NO_P": "Saat ini Anda tidak memiliki jadwal janji pasien yang dijadwalkan",
+  "PATIENTS_SECTION": "Janji Anda",
+  "PATIENTS_SECTION_SUBTITLE": "Klik pada setiap item untuk melihat rincian lengkap",
+  "PATIENTS_TITLE": "Pasien",
+  "patientupdate": "Sabar",
+  "patientvisit": "Pasien mengunjungi riwayat",
+  "PATIENT_PROFILE_OPT1": "Profil saya",
+  "PATIENT_PROFILE_OPT11": "Dokter Favoritku",
+  "PATIENT_PROFILE_OPT12": "Tambahkan apotek favorit",
+  "PATIENT_PROFILE_OPT2": "File medis saya",
+  "PATIENT_PROFILE_OPT3": "Riwayat kunjungan saya",
+  "PATIENT_PROFILE_OPT4": "Kesukaanku",
+  "PATIENT_PROFILE_OPT5": "File saya",
+  "PATIENT_PROFILE_OPT6": "Pemberitahuan saya",
+  "PATIENT_PROFILE_OPT7": "EKG Upload",
+  "PATIENT_PROFILE_OPT8": "Data Perangkat Medis",
+  "PATIENT_PROFILE_OPT9": "Apotek Favorit Saya",
+  "PATIENT_S1": "Sabar",
+  "PATIENT_S2": "Membicarakan tentang",
+  "PATIENT_S3": "Info pasien",
+  "PATIENT_S4": "Subjek kunjungan",
+  "PATIENT_S5": "Penyakit",
+  "PATIENT_S6": "Alergi",
+  "PATIENT_S7": "Obat-obatan",
+  "PATIENT_S8": "Dokumen terlampir",
+  "PATIENT_S9": "Gejala?",
+  "PATIENT_SUMMARY": "Ringkasan informasi pasien",
+  "patologia": "Patologi",
+  "payment": "Pembayaran",
+  "PAYMENT_DETAILS": "Rincian Pembayaran",
+  "PAYMENT_MESSAGE_1": "Anda akan dipra-otorisasi untuk sejumlah",
+  "PAYMENT_MESSAGE_2": "Anda akan dikenai biaya pada akhir panggilan video",
+  "PAYMENT_SECTION1": "Pilih kartu dari daftar",
+  "PAYMENT_SECTION2": "Masukkan nilai kartu kredit",
+  "PAYMENT_SUCCESS": "Pembayaran Berhasil!",
+  "PAYMENT_SUCCESSFUL": "Kami berhasil melakukan pra-otorisasi pembayaran",
+  "PAYMENT_UNSUCCESSFUL": "Pra-otorisasi pembayaran gagal. Periksa informasi kartu kredit Anda atau tanyakan ke bank Anda.",
+  "paziente_rimosso": "Status pasien berhasil berubah",
+  "paziente_salvato": "Pasien berhasil diupdate",
+  "pdf_download_error": "Tidak dapat mengunduh pdf. Silakan coba lagi nanti",
+  "pdf_file_error": "Hanya file pdf yang diterima",
+  "period": "Periode",
+  "PERIODIC_HEART_RATE": "Denyut Jantung Berkala",
+  "personal": "Pribadi",
+  "personalCare": "Perawatan Pribadi",
+  "personalinfo": "Informasi pribadi",
+  "PER_MIN": "/ mnt",
+  "pharmacies": "Apotik",
+  "PHONE": "Nomor telepon",
+  "phone1": "Telepon",
+  "pills": "Pil",
+  "PILLS_DATE_ERROR": "Tanggal mulai adalah setelah tanggal akhir",
+  "pill_reminder_message": "Sudah waktunya minum pil",
+  "placeholder": "Nama pengguna, email atau nama",
+  "placeOfBirth": "Tempat Lahir",
+  "place_birth": "Tempat Lahir",
+  "platform": "Peron",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Nomor polisi",
+  "positive": "Positif",
+  "POSTCALL_DOCTOR_TITLE": "Ringkasan kunjungan",
+  "POSTCALL_PATIENT_TITLE": "Tolong, tingkatkan pengalaman anda",
+  "POUNDS": "pound",
+  "PRACTICE_LENGTH": "Panjang dalam latihan",
+  "prenota": "Pesan sekarang",
+  "prenotatest": "Perlu janji temu",
+  "preobesity": "Pra obesitas",
+  "prescription": "Resep",
+  "prescriptiondiscounts": "Diskon resep",
+  "PRESCRIPTIONS": "Resep",
+  "prescriptions_sent": "Resep terkirim",
+  "prescription_mail": "Terlampir ada resep Anda",
+  "prescription_mail2": "Terima kasih telah menggunakan SaluberMD",
+  "prescription_notification": "Pengguna yang terhormat, kami memberi tahu Anda bahwa resep Anda sekarang tersedia di bawah bagian riwayat waktu / konferensi aplikasi",
+  "prescription_pharmacy": "Pilih apotek untuk mengirim resepnya",
+  "prescription_preview": "Pratinjau resep",
+  "prescription_sent": "Resep terkirim",
+  "PRESCRIPTION_SENT_EMAIL": "Resep Anda telah dikirim ke email Anda ...",
+  "prescription_subject": "Resep anda",
+  "pressbutton": "Tekan tombol pasangan pada perangkat dan ketuk Find Device",
+  "pressbuttonpresx": "Tekan dan tahan tombol pasangan di bagian belakang perangkat untuk memulai koneksi dan ketuk tombol cari perangkat di aplikasi",
+  "pressbuttonscalx": "Tekan dan tahan tombol pasangan di bagian belakang perangkat untuk memulai koneksi dan ketuk tombol cari perangkat di aplikasi",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Tekanan darah",
+  "PRESX_PROD": "PRESX",
+  "previous": "Sebelumnya",
+  "pre_period": "Periode Resep",
+  "price": "Harga",
+  "price_per_visit": "Biaya per kunjungan",
+  "PRICING_SECTION1_P1": "SaluberMD berkomitmen untuk menyediakan kenyamanan, perawatan berkualitas dengan harga terjangkau tanpa biaya tersembunyi atau biaya.",
+  "PRICING_SECTION1_P2": "SaluberMD memberikan perawatan dimanapun dan kapan pun Anda membutuhkannya melalui kunjungan video dengan dokter bersertifikat papan. Dokter kami dapat mendiskusikan, memeriksa, dan mendengarkan untuk mendiagnosis masalah Anda atau hanya menjawab pertanyaan dan masalah medis saat melakukan video call.",
+  "PRICING_SECTION1_P3": "Dengan Medicfile eksklusif kami, Anda dapat memberi dokter Anda akses ke riwayat kesehatan Anda, gambar dan file Anda untuk membantu mereka memberikan rencana perawatan yang paling efektif.",
+  "PRICING_SECTION1_TITLE": "Per kunjungan",
+  "PRICING_TITLE": "Harga",
+  "primaryConcern": "Perhatian utama",
+  "primaryMood": "Mood Primary",
+  "print": "Mencetak",
+  "priority": "Prioritas",
+  "PRIVACY_POLICY_TITLE": "Kebijakan pribadi",
+  "problems": "masalah",
+  "PROCEED_PAYMENT": "Lanjutkan dengan pembayaran",
+  "PROFESSIONAL_TITLE": "Jabatan profesional",
+  "PROFILE_SECTION2": "Kontak informasi",
+  "protesi": "Prostesis dan alat bantu medis",
+  "protesiobbligatorio": "Silahkan pilih jenis prostesis",
+  "prov": "contoh",
+  "publicAppUrl": "URL publik Anda untuk janji temu adalah:",
+  "pulldown": "Tarik ke bawah untuk menyegarkan",
+  "pull_request_processed": "Terima kasih, Kami telah mengirim ketersediaan Anda ke pasien",
+  "PWD_NOTMATCH": "kata sandi tidak cocok",
+  "P_P_Error": "Anda harus menerima kebijakan privasi",
+  "QUALITY_INDEX": "Kualitas",
+  "QUALITY_INDEX_DESCRIPTION": "Kebugaran fisik adalah tingkat ketahanan dan tekanan mental yang dihadapi dalam menghadapi kemampuan untuk beradaptasi dan menangani situasi. Indeks kebugaran fisik mencerminkan tubuh manusia untuk beradaptasi dengan perubahan lingkungan dan stimulasi stres, mempertahankan dan mengembalikan kemampuan kesehatan. Kebugaran fisik sering dimanifestasikan dalam potensi kehidupan orang, belajar, dan bekerja, tetapi juga secara alami dalam latihan fisik. Kualitas fisik seseorang terkait dengan faktor keturunan tetapi lebih terkait erat dengan gizi yang didapat dan latihan fisik. Melalui metode yang benar dan latihan yang tepat, ia dapat meningkatkan kebugaran fisiknya dalam semua aspek.",
+  "quantity": "Kuantitas",
+  "quesito": "Perhatian",
+  "QUESTIONS_SECTION_TITLE": "Menerima 1 konsultasi gratis atau pemeriksaan penilaian kesehatan setelah menyelesaikan sepenuhnya file medis Anda.",
+  "QUESTIONS_TITLE": "Pertanyaan",
+  "quindici": "15 pengukuran terakhir",
+  "ratio": "Perbandingan",
+  "reccomendation": "Reccomendation",
+  "reccomendations": "Rekomendasi",
+  "recommendation": "Rekomendasi",
+  "RECOMMENDATIONS": "Rekomendasi",
+  "RECOMMEND_SECTION_P1": "Di SaluberMD kami berusaha untuk memenuhi permintaan akan layanan kesehatan berkualitas di seluruh dunia dengan menawarkan akses kepada para pelanggan kami ke kelompok Dokter yang berpengetahuan luas.",
+  "RECOMMEND_SECTION_P2": "Kami selalu mencari dokter berkualitas untuk ditambahkan ke tim hebat kami. Sebagai anggota tim kami, kami menghargai dan menghargai arahan Anda.",
+  "RECOMMEND_SECTION_P3": "Silahkan isi formulir di bawah ini untuk merujuk Dokter ke SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Merekomendasikan Rekan",
+  "RECOMMEND_TITLE": "Sarankan",
+  "record_aggiornato": "Rekam berhasil diperbarui",
+  "record_aggiunto": "Rekam berhasil ditambahkan",
+  "record_inserito": "Berhasil ditambahkan",
+  "record_rimosso": "Rekam berhasil dihapus",
+  "REFERRAL": "Rujukan",
+  "REFERRALS": "Referensi",
+  "referrals_sent": "Rujukan dikirim",
+  "referral_mail": "Terlampir ada referensi Anda.",
+  "referral_sent": "Rujukan dikirim",
+  "refundrequestsent": "Permintaan anda telah terkirim",
+  "register": "Daftar",
+  "register_report": "Registrasi Pengguna",
+  "registration_date": "tanggal registrasi",
+  "REGISTRATION_HEADER_DOCTOR": "Bergabunglah dengan tim MD Saluber",
+  "REGISTRATION_HEADER_PATIENT": "Silahkan isi kolom dan tekan register",
+  "releaserefresh": "Lepaskan untuk menyegarkan",
+  "remarks": "Keterangan",
+  "removedevice": "Apakah Anda ingin menghapus perangkat ini?",
+  "removefavorite": "Hapus dari favorit?",
+  "remove_generic": "Apakah Anda ingin menghapusnya?",
+  "renalFunction": "Fungsi ginjal",
+  "reoccurring": "Terulang kembali",
+  "repeat_email": "Konfirmasi email",
+  "report": "Berkas klinis pribadi: Laporan data lengkap",
+  "report1": "File klinis pribadi:",
+  "report2": "Melaporkan",
+  "reportvisite": "Laporkan Videocalls",
+  "report_date": "Tanggal laporan",
+  "requestdate": "Tanggal Permintaan",
+  "request_already_taken": "Permintaan ini sudah diambil alih oleh dokter lain.",
+  "REQUEST_ERROR": "Terjadi kesalahan saat memproses permintaan Anda. Periksa koneksi internet Anda atau coba lagi nanti.",
+  "request_sent": "Permintaan Anda telah berhasil dikirim ke backoffice",
+  "required": "Bagian ini diperlukan.",
+  "required_field": "Diperlukan Filed",
+  "RESEND_EMAIL": "Kirim ulang kode konfirmasi",
+  "resetCorxFactory": "Anda yakin ingin mengatur ulang Corx?",
+  "RESETPWD_BTN": "Reset Password",
+  "RESET_PASSWORD": "Masukkan email atau nama pengguna yang digunakan selama Signup",
+  "respiratory": "Pernafasan",
+  "RESPIRATORY_RATE": "Tingkat pernapasan",
+  "RESTORE_FACTORY_SETTINGS": "Kembalikan Pengaturan Pabrik",
+  "resultfound": "catatan ditemukan",
+  "results": "Hasil",
+  "ricettario": "Negara",
+  "richiediDrug": "Minta Obat",
+  "richiestaAppuntamento": "Permintaan Pengangkatan",
+  "richiestaRimborso": "Permintaan pengembalian dana",
+  "ricovero": "Rawat inap",
+  "riepilogo": "Ringkasan",
+  "rightHanded": "Pengguna tangan kanan",
+  "rimborso": "Pengembalian dana",
+  "ripetibile": "Dapat diulang untuk (kali)",
+  "rr_desc": "Tingkat pernapasan adalah tingkat di mana pernapasan terjadi. Tingkat pernapasan normal untuk orang dewasa saat istirahat adalah 12 hingga 20 napas per menit. Tingkat pernapasan di bawah 12 atau lebih dari 25 napas per menit saat istirahat dianggap tidak normal",
+  "rs": "Sistem pernapasan",
+  "RUNNING_CALL_OPT1": "Lanjut",
+  "RUNNING_CALL_OPT2": "Akhiri panggilan",
+  "RUNNING_CALL_TITLE": "Menjalankan panggilan",
+  "sa": "Otentikasi kuat",
+  "sadness": "Kesedihan",
+  "sai": "Indeks aktivitas",
+  "sai_desc": "SAI murni berdasarkan pada detak jantung Anda. Ini adalah metrik sederhana yang melacak respons tubuh terhadap aktivitas fisik - lebih dari sekadar langkah. Tidak seperti penelusuran langkah, SCI memberikan penghargaan untuk setiap aktivitas yang meningkatkan detak jantung: berenang, bersepeda, mendayung, menari, apa pun. Simpan di bawah 30 untuk kehidupan yang lebih baik dan lebih sehat.",
+  "sai_title": "SAI",
+  "saluberAccess": "pasien SaluberMD",
+  "SATURDAY": "Sabtu",
+  "savedinfo": "Informasi berhasil disimpan",
+  "SAVE_BTN": "Menyimpan",
+  "SAVE_MESSAGE": "Jika Anda pergi, perubahan Anda akan hilang",
+  "sbpi": "Indeks tekanan darah",
+  "sbpi_desc": "Tekanan darah tinggi adalah pembunuh diam-diam. Nilai tekanan darah Sistolik dan Diastolik Anda diperkirakan selama sesi medis yang Anda lakukan. Pertahankan SBPI di bawah 30 agar memiliki peluang lebih rendah untuk menderita kondisi yang mengancam jiwa seperti stroke dan pembekuan darah.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Berat",
+  "SCALX_PROD": "SCALX",
+  "scan": "Pindai",
+  "scanningcorx": "Mencari CORX ... Harap Tunggu",
+  "schedule": "Susunan acara",
+  "scheduleAnAppointment": "Jadwalkan janji temu",
+  "scheduleappointment": "Jadwalkan videocall dengan dokter",
+  "schtime": "Waktu yang dijadwalkan",
+  "sci": "Indeks kardiovaskular",
+  "sci_desc": "Dengan menganalisis gelombang nadi arteri Anda, kami memperoleh wawasan tentang sistem kardiovaskular Anda. Indeks SCI adalah ringkasan kesehatan kardiovaskular Anda, cobalah untuk tetap di bawah 20!",
+  "sci_title": "SCI",
+  "SEARCH": "Pencarian",
+  "searchallergy": "Cari alergi",
+  "searchdoctor": "Cari dokter",
+  "searchfordoctor": "Cari dokter berdasarkan nama atau nama keluarga",
+  "searchingdevice": "Cari perangkat Mungkin butuh beberapa saat",
+  "searching_avail_date": "Mencari tanggal yang tersedia ...",
+  "searching_online_doctors": "Mencari dokter online yang sedang berlangsung ...",
+  "searchmedication": "Cari obat",
+  "searchpatient": "Cari pasien",
+  "searchpatologia": "Cari kondisi medis",
+  "searchsymptom": "Gejala pencarian",
+  "searchuser": "Cari pengguna",
+  "search_doctor_description": "Cari dokter untuk nama pengguna, email atau nama",
+  "search_patient_description": "Cari pasien untuk nama pengguna, email atau nama",
+  "search_specialization": "Cari spesialisasi",
+  "search_user_description": "Cari pengguna untuk nama pengguna, email atau nama keluarga",
+  "search_videocall_description": "Cari videocall yang dilakukan oleh iniziative",
+  "search_videocall_title": "Serach Videocall berdasarkan tanggal",
+  "secondaryMood": "Mood Sekunder",
+  "secondOpinion": "Permintaan Opini Kedua",
+  "seconds": "detik",
+  "second_opinion_1": "Akses yang mudah dan terpercaya ke opini kedua medis dari para spesialis terkemuka di seluruh dunia.",
+  "second_opinion_2": "Layanan Opini Kedua Medis kami dapat membantu Anda:",
+  "second_opinion_3": "Dapatkan jawaban atas pertanyaan Anda",
+  "second_opinion_4": "Pilih rencana perawatan terbaik",
+  "second_opinion_5": "Pastikan diagnosa benar",
+  "second_opinion_body": "Pengguna yang terhormat, <br> permintaan opion kedua Anda telah diambil alih dari spesialis kami yang sedang meninjau dokumen yang telah Anda kirim.",
+  "second_opinion_history": "Permintaan Opini Kedua",
+  "second_opinion_msg": "Terima kasih. Advokat kesehatan kami akan menghubungi Anda dalam 24 jam ke depan.",
+  "SECOND_OPINION_Q1": "Apa yang ingin Anda bicarakan dengan ahli gizi?",
+  "second_opinion_question1": "Siapa pendapat kedua?",
+  "second_opinion_question2": "Upload file",
+  "second_opinion_step1": "Lengkapi kuesioner singkat / Upload file anda",
+  "second_opinion_step2": "Dokter kami akan mengevaluasi materi Anda",
+  "second_opinion_step3": "Konsultasi dokter untuk mendiskusikan hasilnya",
+  "secOpChoice": "Silakan pilih cara mana Anda ingin menerima opini kedua",
+  "section": "Silakan pilih satu bagian",
+  "security": "Keamanan",
+  "seeaprovider": "Lihat Penyedia",
+  "seecommenti": "Lihat Komentar",
+  "seedoctor": "Temui dokter sekarang",
+  "SEE_A_DOCTOR_Q1": "Apakah video call untuk saya atau untuk orang lain?",
+  "SEE_A_DOCTOR_Q10": "Kami bisa mengirimkan resep Anda langsung apotek pilihan Anda",
+  "SEE_A_DOCTOR_Q1B": "Nama dan tanggal lahir anak anda?",
+  "SEE_A_DOCTOR_Q1_A1": "Saya",
+  "SEE_A_DOCTOR_Q1_A2": "Anak saya",
+  "SEE_A_DOCTOR_Q2": "Tolong jelaskan apa yang ingin Anda bicarakan dengan dokter",
+  "SEE_A_DOCTOR_Q3": "Gejala?",
+  "SEE_A_DOCTOR_Q4": "Apakah Anda ingin melampirkan foto atau dokumen?",
+  "SEE_A_DOCTOR_Q4_ERROR": "KESALAHAN: File tidak boleh melebihi 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Pilih sebuah file",
+  "SEE_A_DOCTOR_Q4_S2": "Mengambil foto",
+  "SEE_A_DOCTOR_Q5": "Apakah saat ini Anda sedang minum obat, jika ya tolong daftar namanya",
+  "SEE_A_DOCTOR_Q5_CHILD": "Apakah anak Anda sedang minum obat? jika demikian harap cantumkan namanya",
+  "SEE_A_DOCTOR_Q5_S1": "Nama:",
+  "SEE_A_DOCTOR_Q5_S2": "Dosis:",
+  "SEE_A_DOCTOR_Q6": "Apakah Anda memiliki alergi?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Apakah anak Anda memiliki alergi? jika demikian harap cantumkan namanya",
+  "SEE_A_DOCTOR_Q7": "Apakah Anda memiliki kondisi medis?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Apakah anak Anda memiliki kondisi medis? jika demikian harap cantumkan namanya",
+  "SEE_A_DOCTOR_Q8": "Apakah Anda memberi wewenang kepada dokter untuk melihat file medis online Anda?",
+  "SEE_A_DOCTOR_Q9": "Apotik pilihan",
+  "SEE_A_DOCTOR_TITLE": "Periksa ke dokter",
+  "SEE_A_PROVIDER": "Lihat Penyedia",
+  "segment": "Segmen",
+  "selectAFile": "Ketuk tombol di bawah ini untuk memilih file",
+  "selectaprovider": "Pilih Penyedia",
+  "selectcarderror": "Tolong pilih kartu",
+  "selectdoctor": "Mengelola agenda",
+  "selectdoctor1": "Pilih dokternya",
+  "selectdrug": "Pilih Obat",
+  "selectedContact": "Sarana kontak",
+  "selectinitiative": "Pilih satu inisiatif atau lebih ...",
+  "selectnutritionist": "Pilih ahli gizi Anda sendiri",
+  "selectpatient": "pilih rawat jalan",
+  "select_country": "Silakan pilih negara",
+  "select_device": "Pilih perangkat",
+  "select_file": "Pilih file",
+  "select_file_btn": "Pilih file",
+  "select_patient": "Klik pada satu baris untuk melihat detailnya",
+  "send": "Kirim",
+  "sendmessage": "Kirim pesan",
+  "sendtoken": "Kirim ini ke dokter untuk memberinya akses ke file medis Anda. Tautan ini kedaluwarsa dalam 10 menit",
+  "SEND_BTN": "Kirim",
+  "send_doctor_request": "Kirim permintaan",
+  "sentmessage": "Pesan terkirim",
+  "SERVICE_TYPE": "Jenis Layanan",
+  "sessantad": "60 hari terakhir",
+  "SESSION_EXPIRED": "Sesi Anda telah kedaluwarsa. Silakan masuk lagi",
+  "setAlarm": "Setel Alarm",
+  "settd": "7 hari terakhir",
+  "settings_saved": "Pengaturan berhasil disimpan",
+  "setTreshold": "Tetapkan Rentang",
+  "SET_BTN": "Set",
+  "SET_USER_EMAIL": "Silakan tentukan nama pengguna atau email",
+  "set_vital_signs": "Set Vital Signs",
+  "sevendays": "7 hari",
+  "showalldata": "Tampilkan Semua Data",
+  "showOnEmergency": "Tunjukkan pada keadaan darurat",
+  "signature": "Tanda tangan Anda (digunakan untuk resep)",
+  "signature_word": "Tanda tangan",
+  "SIGNUP_BTN": "Daftar",
+  "sii": "Indeks Asuransi",
+  "sii_desc": "SII adalah kombinasi dari semua indeks SaluberMD dan merupakan cermin dari risiko medis umum Anda. Jika di bawah 30 Anda berada di zona aman!",
+  "sii_title": "SII",
+  "since": "Sejak",
+  "single": "Satu hari",
+  "singleAccess": "Akses tunggal",
+  "sitreminder": "Pengingat Duduk",
+  "sit_period": "Periode",
+  "skip": "Melewatkan",
+  "skip_pull": "Mengabaikan",
+  "skip_step": "Melewatkan",
+  "sl": "Level stres",
+  "SLEEP": "Tidur",
+  "slotime": "Durasi Slot (min)",
+  "sl_alta": "lebih besar dari 85 bpm",
+  "sl_bassa": "lebih rendah dari 65",
+  "sl_desc": "Tingkat stres dihitung berdasarkan ketukan per menit",
+  "sl_normale": "antara 65 dan 85 bpm",
+  "smoker": "Perokok",
+  "snacks": "Makanan ringan",
+  "SOMETIMES": "Terkadang",
+  "SONNO": "Tidur",
+  "SOP_Q4": "Lampirkan laporan medis Anda",
+  "sos": "SOS",
+  "so_specialization": "Keistimewaan",
+  "specialists": "Spesialis",
+  "specialization": "Pilih yang spesial",
+  "SPECIALTY": "Khusus",
+  "specifyother": "Tolong, tentukan lainnya",
+  "specifyvalue": "Tolong, tentukan nilainya",
+  "spirometer": "Spirometri",
+  "spo2_desc": "SpO2 atau tingkat oksigen darah adalah ukuran seberapa banyak oksigen yang dibawa sel darah merah Anda. Nilai normal adalah antara 95% dan 100%, kadar oksigen darah di bawah normal disebut hipoksemia",
+  "sri": "Indeks pernapasan",
+  "sri_desc": "Kami menganalisis pola pernapasan Anda selama sesi medis apa pun dan selama Anda tidur. Jika SRI di bawah 30 peluang Anda untuk menderita kondisi pernapasan obstruktif rendah.",
+  "sri_title": "SRI",
+  "ssi": "Indeks stres",
+  "ssi_desc": "Dengan menganalisis variabilitas detak jantung Anda, kami mengukur tingkat stres Anda. Stres tampaknya memperburuk atau meningkatkan risiko kondisi seperti obesitas, penyakit jantung, penyakit Alzheimer, diabetes, depresi, masalah pencernaan, dan asma. Simpan di bawah 20 agar aman!",
+  "ssi_title": "SSI",
+  "start": "Mulai",
+  "startcall": "Panggil mulai",
+  "startdate": "Dari",
+  "starthour": "Waktu mulai",
+  "startmeasure": "Sekarang Anda bisa memulai pengukuran dengan menekan botton pada perangkat",
+  "startnow": "Mulai sekarang",
+  "startRecording": "Tekan mulai untuk merekam audio suara",
+  "startyping": "Mulai ketikkan namanya",
+  "start_blowing": "Mulai Hembusan",
+  "start_test": "Mulai tes",
+  "start_time": "Waktu mulai",
+  "state": "Negara",
+  "state1": "Negara",
+  "STATES_LICENSE": "Negara berlisensi",
+  "state_problem": "Tolong, sebutkan masalah Anda",
+  "status": "Status",
+  "step": "Langkah",
+  "STEPS_GOAL": "Langkah-Langkah Tujuan",
+  "stoolTest": "Tes tinja",
+  "stop": "Berhenti",
+  "stop_test": "Hentikan tes",
+  "stress": "Menekankan",
+  "stroke_vol": "Volume stroke",
+  "stroke_volume": "Volume stroke",
+  "stroke_volume_desc": "Volume stroke adalah volume darah yang dikeluarkan oleh setiap ventrikel per denyut",
+  "struttura": "Struktur",
+  "strutture": "Struktur",
+  "subject": "Subyek",
+  "subject_so": "Subyek",
+  "submissionDate": "Tanggal penyerahan",
+  "success": "Keberhasilan",
+  "SUCCESS_TITLE_NOTIFICATION": "Keberhasilan",
+  "SUMMARY": "Diagnosa",
+  "summary1": "Ringkasan",
+  "SUNDAY": "Minggu",
+  "surgery": "Operasi",
+  "surgeryAndHospitalization": "Rawat Inap dan Sejarah Bedah",
+  "surgeryCategory": "Kategori Bedah",
+  "surname": "Nama keluarga",
+  "sv_alta": "lebih besar dari 100",
+  "sv_bassa": "lebih rendah dari 55 ml",
+  "sv_normale": "antara 55 dan 100 ml",
+  "switchsearch": "Beralih ke pencarian",
+  "symptoms": "Gejala",
+  "SYMPTOMS_BTN": "Gejala",
+  "sync": "Sinkronkan",
+  "SYNC_TIME": "Waktu Sinkronisasi",
+  "sysdia": "Tekanan",
+  "systolic": "Sistolik",
+  "TAKE": "Mengambil",
+  "takeAppointment": "Mengambil janji",
+  "TAKE_APP": "Jadwal janji temu",
+  "TAKE_A_PHOTO": "Mengambil foto",
+  "tall": "Berapa tinggimu",
+  "tapconnect": "Ketuk untuk menyambung",
+  "tapdisconnect": "Ketuk untuk memutuskan sambungan",
+  "tap_to_expand": "Ketuk untuk memperluas",
+  "telNameMandatory": "Tolong, tentukan nama",
+  "telNumberMandatory": "Tolong, tentukan nomor telepon",
+  "temper": "Melunakkan",
+  "temperDescription": "Tindakan emosional yang mencakup keseluruhan rentang keseluruhan pembicara. Perasaan rendah menggambarkan suasana hati yang depresi dan suram. Sedang temperamennya menggambarkan suasana hati yang ramah, hangat dan penuh kasih. Nilai temperamen yang tinggi menggambarkan suasana hati yang konfrontatif, mendominasi, dan agresif.",
+  "tendays": "10 terakhir",
+  "ten_min": "Dalam 10 menit",
+  "terminata": "Panggil Berhasil",
+  "TERMS_TITLE": "Syarat Penggunaan",
+  "test": "Uji",
+  "testmichele": "Uji michele",
+  "testresult": "Hasil Pengujian",
+  "testresults": "Hasil tes",
+  "tests": "Pengujian",
+  "text": "Teks",
+  "thiscC": "Kartu kredit ini akan digunakan untuk membayar layanan",
+  "THURSDAY": "Kamis",
+  "thyroidTest": "Tes Fungsi Tiroid",
+  "tickets": "Tiket",
+  "TICKET_HISTORY": "Sejarah Tiket",
+  "TICKET_NUMBER": "Nomor tiket",
+  "ticket_subject": "Subjek Permintaan",
+  "timecallerr": "Maaf, Anda belum bisa melakukan panggilan",
+  "timecallerr1": "Maaf, Anda konon melakukan panggilan karena Anda berada di luar waktu yang dijadwalkan",
+  "TIMELINE": "Jadwal Saya",
+  "times": "Berapa kali sehari?",
+  "timesaday": "Kali sehari",
+  "tipopratica": "Jenis latihan",
+  "tipo_struttura": "Tipe struktur",
+  "tipshealt0": "Tips Kesehatan",
+  "tipshealt1": "Flu ditembak - Haruskah saya mendapatkan vaksinasi terhadap flu?",
+  "tipshealt10": "Klik disini untuk informasi lebih lanjut",
+  "tipshealt11": "Manfaat perawatan statin, menurunkan kolesterol, melebihi risiko",
+  "tipshealt12": "Dalam artikel review terbaru di Lancet, para peneliti menyimpulkan bahwa manfaat menurunkan kolesterol LDL dengan terapi statin kemungkinan akan mencegah kejadian vaskular besar (serangan jantung, stroke) dan ini melebihi risiko obat-obatan terlarang.",
+  "tipshealt13": "Menurut para peneliti, satu-satunya efek samping serius yang terbukti disebabkan oleh terapi statin jangka panjang adalah miopati (didefinisikan sebagai nyeri otot atau kelemahan), diabetes mellitus baru, dan mungkin juga stroke hemoragik.",
+  "tipshealt2": "Meski vaksin flu tidak selalu memberikan perlindungan total, it&#39;s worth mendapatkan. CDC (Centers for Disease Control and Prevention) merekomendasikan vaksinasi influenza tahunan untuk semua orang berusia 6 bulan atau lebih. Vaksinasi sangat penting bagi orang yang berisiko tinggi mengalami komplikasi influenza, termasuk",
+  "tipshealt3": "Wanita hamil",
+  "tipshealt4": "Orang dewasa yang lebih tua (50 tahun ke atas)",
+  "tipshealt5": "Anak kecil (dibawah 4 tahun dan diatas 6 bulan)",
+  "tipshealt6": "Aktivitas fisik meningkatkan kemampuan ingatan dan berpikir",
+  "tipshealt7": "Aktivitas fisik secara teratur dapat memperbaiki fungsi otak sepanjang umur dan mengurangi risiko demensia.",
+  "tipshealt8": "Sejumlah penelitian telah dipublikasikan mengenai interaksi yang erat dan keuntungan dari aktivitas fisik reguler dan peningkatan fungsi kognitif.",
+  "tipshealt9": "Pengaruhnya langsung pada otak dan secara tidak langsung melalui tindakan metabolisme dan fisik pada tubuh.",
+  "title": "Judul",
+  "to": "untuk",
+  "todayAppointment": "Janji hari ini",
+  "tooltip1": "Masukkan nama dokter yang ingin Anda kelola dalam agenda",
+  "totale": "Total",
+  "totalSleepTime": "Total waktu tidur",
+  "total_cholesterol_desc": "Nilai ini merupakan taksiran semua kolesterol dalam darah",
+  "TOTAL_SLEEP_TIME": "Total Waktu Tidur",
+  "tot_non_risposte": "Panggilan tidak Dijawab",
+  "tot_ricevute": "Panggilan diterima",
+  "tot_visite": "Kunjungan Selesai",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Transfer",
+  "trenta": "30 pengukuran terakhir",
+  "trentad": "30 hari terakhir",
+  "triglycerides": "Trigliserida",
+  "trig_cholesterol_desc": "Trigliserida adalah jenis lemak (lemak) yang ditemukan dalam darah Anda. Tabel berikut menunjukkan kisaran nilai.",
+  "TUESDAY": "Selasa",
+  "tutte": "Semua pengukuran",
+  "type": "Mengetik",
+  "TZONE": "Zona waktu",
+  "underweight": "Underweight",
+  "unit": "Satuan",
+  "UNIT_SETTING": "Pengaturan Unit",
+  "uom": "Satuan ukuran",
+  "upcomingAppointmentPatient": "Janji Mendatang dari",
+  "UPDATE": "Memperbarui",
+  "updatelist": "Daftar update",
+  "update_app_message": "Anda perlu memperbarui aplikasi Anda",
+  "UPDATE_AVAILABLE": "Pembaruan tersedia",
+  "UPDATE_BTN": "Memperbarui",
+  "update_completed": "Pembaruan Firmware Berhasil",
+  "update_firmware_download_error": "Kesalahan mengunduh firmware",
+  "update_list": "Memperbarui",
+  "UPLOAD_ERROR": "KESALAHAN: File tidak boleh melebihi 5 MB",
+  "upload_referral": "Unggah referensi Anda di kotak di bawah ini.",
+  "urinTest": "Tes urin",
+  "user": "Pengguna",
+  "userdata": "Data pengguna",
+  "usermanagement": "Manajemen pengguna",
+  "USERNAME": "Nama pengguna",
+  "username1": "Nama pengguna",
+  "utente_aggiunto": "Pengguna berhasil ditambahkan",
+  "utente_rimosso": "Pengguna berhasil dihapus",
+  "utente_salvato": "Pengguna berhasil diperbarui",
+  "vaccinobbligatorio": "Tolong pilih imunisasi",
+  "vaioffline": "Go Offline",
+  "vaionline": "Online",
+  "valence": "Valensi",
+  "valenceDescription": "Variabel mulai dari negatif sampai positif. Saat mendengarkan pembicaraan seseorang, mungkin kita memahami bagaimana &quot;positif&quot; atau &quot;negatif&quot; yang mereka rasakan tentang subjek, objek atau peristiwa yang sedang dibahas.",
+  "value": "Nilai",
+  "vascular_age": "Usia pembuluh darah",
+  "vascular_age1": "Usia pembuluh darah",
+  "va_desc": "Usia Vaskular memberi Anda ukuran usia nyata arteri Anda, bila dibandingkan dengan orang sehat. Jika usia vaskular Anda lebih besar dari usia kronologis Anda, Anda mungkin berisiko lebih tinggi terkena penyakit kardiovaskular (CVD) di kemudian hari.",
+  "videocall": "Videocall",
+  "VIDEOCALL_DES1": "Tekan tombol di bawah untuk mengubah status Anda dan menerima atau tidak menerima notifikasi. Ingat bahwa Anda dapat menerima pemberitahuan hanya saat Anda online.",
+  "VIDEOCALL_DES2": "Saat Anda menerima panggilan, klik pada kotak yang akan muncul untuk menerima panggilan.",
+  "videocall_filter": "Saring berdasarkan nama atau spesialisasi",
+  "videocall_request": "Permintaan panggilan video baru dari",
+  "videocall_request_title": "Permintaan Panggilan Video",
+  "videocall_req_from": "Permintaan panggilan video dari:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "Klik untuk mengaktifkan video",
+  "VIDEO_CALL_BTN": "Panggilan video",
+  "VIDEO_CALL_BTN_1": "Video",
+  "view": "Melihat",
+  "viewmedicalfile": "Lihat file medis",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Buat Kantor Virtual Anda",
+  "VIRTUAL_OFFICE_TITLE": "Kantor virtual",
+  "visitdetail": "Klik pada setiap item untuk melihat riwayat lengkap pasien",
+  "visithistory": "Kunjungi sejarah",
+  "visitlist": "Daftar kunjungan",
+  "VISIT_HISTORY_NO_HISTORY": "Belum ada kunjungan",
+  "VISIT_HISTORY_SUBTITLE": "Klik pada setiap item untuk melihat rincian lengkap",
+  "VISIT_HISTORY_TITLE": "Kunjungi sejarah",
+  "volte": "Waktu",
+  "waiting": "Pengolahan...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Kehangatan",
+  "WARNING_TITLE_NOTIFICATION": "Perhatian",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Data kesehatan",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Data Kesehatan",
+  "WATCH_DEVICE_DATA_TITLE": "Data perangkat jam tangan Anda",
+  "water": "air",
+  "weanedoff": "Disapih?",
+  "WEDNESDAY": "Rabu",
+  "week": "Minggu",
+  "weight": "Berat",
+  "weightUnit": "Satuan berat",
+  "welcome": "SELAMAT DATANG",
+  "wellness": "Kebugaran",
+  "wellnessdata": "Data Kesehatan",
+  "wellnessSuccess": "Keberhasilan",
+  "WHITE_SPACES": "Nama Pengguna tidak boleh berisi spasi putih",
+  "WRIST_CUT_SCREEN": "Hidupkan Layar Pemotongan Pergelangan Tangan",
+  "writtenRep": "Laporan tertulis",
+  "W_RESPIRATORY_RATE": "Nafas",
+  "xray": "X-Ray",
+  "Y": "iya nih",
+  "year": "Tahun",
+  "years": "tahun",
+  "yes": "iya nih",
+  "yourarousal": "Gairahmu",
+  "youremotion": "Emosi anda",
+  "yourmood": "Perasaanmu",
+  "yourtemper": "Kesabaran Anda",
+  "yourvalence": "Valensi anda",
+  "your_sai": "Indeks Aktivitas Anda adalah:",
+  "your_sbpi": "Indeks tekanan darah Anda adalah:",
+  "your_sci": "Indeks jantung Anda adalah:",
+  "your_sii": "Indeks Asuransi Anda adalah",
+  "your_sri": "Indeks pernapasan Anda adalah:",
+  "your_ssi": "Indeks Stres Anda adalah:",
+  "your_stress": "Tingkat stres Anda adalah:",
+  "your_va": "Usia vaskular Anda adalah:",
+  "zero_min": "Sekarang",
+  "zipCode": "Kode Pos",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

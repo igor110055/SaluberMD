@@ -1,0 +1,4355 @@
+{
+  "aboutus": "ກ່ຽວ​ກັບ​ພວກ​ເຮົາ",
+  "ABOUT_US_CONDITION_1": "Cold &amp; Flu",
+  "ABOUT_US_CONDITION_2": "ຜິວຫນັງ",
+  "ABOUT_US_CONDITION_3": "Allergies",
+  "ABOUT_US_CONDITION_4": "ເຈັບ​ຄໍ",
+  "ABOUT_US_CONDITION_5": "ເຈັບ​ທ້ອງ",
+  "ABOUT_US_DOCTOR_BENEFIT1": "ລາຍໄດ້ເພີ່ມຂຶ້ນ:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "ທ່ານສາມາດເບິ່ງໄດ້ເຖິງ 6 ຄົນຕໍ່ຊົ່ວໂມງ (ເປັນເວລາປະມານ 10 ນາທີ).",
+  "ABOUT_US_DOCTOR_BENEFIT2": "ໃຫ້ການປິ່ນປົວພະຍາດຈາກທຸກບ່ອນທີ່ຢູ່ໃນໂລກ:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "ເພີ່ມທະວີການພົວພັນກັບຄົນເຈັບທີ່ມີຄວາມສາມາດໃນການປິ່ນປົວຜູ້ປ່ວຍປະຈຸບັນແລະໃຫມ່ຈາກທຸກບ່ອນໃນໂລກ;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "ໄດ້ຮັບການປະຕິບັດຕົວຈິງໂດຍບໍ່ເສຍຄ່າ:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "ຂະຫຍາຍການປະຕິບັດໃນປະຈຸບັນຂອງທ່ານແລະສະເຫນີທາງເລືອກຫຼາຍຂຶ້ນສໍາລັບຄົນເຈັບ;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "ການໄປຢ້ຽມຢາມພະຍາດເບົາຫວານເພີ່ມເຕີມ:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "ຄົນເຈັບສາມາດສົ່ງເອກະສານ, ຮູບພາບ, ຜົນການທົດລອງຂອງທ່ານໂດຍບໍ່ຕ້ອງອອກຈາກເຮືອນແລະທ່ານສາມາດຕິດຕາມສຸຂະພາບຂອງຄົນເຈັບໄດ້ຫ່າງໄກສອກຫຼີກ;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "ກໍານົດຜູ້ທີ່ຕ້ອງການມືໃນການຮັກສາທັນທີແລະຜູ້ທີ່ສາມາດໄດ້ຮັບຜົນປະໂຫຍດຈາກການປິ່ນປົວຫ່າງໄກສອກຫຼີກໂດຍບໍ່ຕ້ອງອອກຈາກເຮືອນ",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "ລາຍໄດ້ເພີ່ມຂຶ້ນ:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "FLEXIBLE HOURS:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "ຄວາມສາມາດໃນການກໍານົດຊົ່ວໂມງຂອງທ່ານເອງແລະກໍານົດເວລາຂອງທ່ານເອງ.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "ເຂົ້າຮ່ວມການເຄື່ອນໄຫວເພື່ອສະຫນອງການເຂົ້າເຖິງການດູແລສຸຂະພາບທີ່ມີຄວາມເຊື່ອຖື, ສາມາດເຂົ້າເຖິງໄດ້ທົ່ວໂລກພາຍໃນ 15 ນາທີຫຼືນ້ອຍກວ່າ.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD ໄດ້ຖືກອອກແບບມາເພື່ອປະຕິຮູບການພົວພັນກັບທ່ານຫມໍດ້ວຍການສ້າງການດູແລສຸຂະພາບທົ່ວໂລກ 24/7.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "ຜົນປະໂຫຍດຂອງທ່ານຫມໍ",
+  "ABOUT_US_DOCTOR_TITLE": "ກ່ຽວ​ກັບ​ພວກ​ເຮົາ",
+  "about_us_section1_p1": "SaluberMD ແມ່ນອົງການສຸຂະພາບດິຈິຕອນທີ່ອຸທິດຕົນເພື່ອຫັນປ່ຽນການໃຫ້ບໍລິການທາງການແພດແລະຜະລິດຕະພັນເພື່ອປັບປຸງຜົນໄດ້ຮັບດ້ານສຸຂະພາບໃນທົ່ວໂລກ. ບໍລິການ Concierge ທາງດ້ານການແພດທາງດ້ານດິຈິຕອນຂອງພວກເຮົາສະຫນອງການຊ່ວຍເຫຼືອດ້ານສຸຂະພາບແລະສຸຂະພາບ, ຄະນະແພດທີ່ໄດ້ຮັບການຢັ້ງຢືນ, ເອກະສານທາງການແພດສ່ວນບຸກຄົນໃນ 18 ພາສາ, wearables ເພື່ອຕິດຕາມສຸຂະພາບຂອງທ່ານແລະເຂົ້າເຖິງເຄືອຂ່າຍຜູ້ຊ່ຽວຊານດ້ານສຸຂະພາບແລະບໍລິການ.",
+  "ABOUT_US_SECTION1_TITLE": "ກ່ຽວ​ກັບ​ພວກ​ເຮົາ",
+  "ABOUT_US_SECTION2_P1": "ຜ່ານທາງພູມສັນຖານທາງພູມສັນຖານ, app ຂອງພວກເຮົາຈະພົບແພດທີ່ດີທີ່ສຸດຢູ່ໃກ້ທ່ານ. SaluberMD ແພດສາມາດກວດຫາ, ປິ່ນປົວ, ຫຼືປຶກສາຫາລືກ່ຽວກັບສະພາບການທາງການແພດຂອງທ່ານຜ່ານວິດີໂອແລະໃຫ້ທ່ານມີແຜນການປິ່ນປົວທີ່ເຫມາະສົມ. ຫຼາຍໆເງື່ອນໄຂທີ່ພົບເລື້ອຍທີ່ສຸດໃນຫ້ອງການຂອງທ່ານຫມໍສາມາດປິ່ນປົວດ້ວຍການຢ້ຽມຢາມວິດີໂອໄດ້. <br/> ບາງເງື່ອນໄຂທີ່ພວກເຮົາປະຕິບັດ:",
+  "ABOUT_US_SECTION2_P2": "ປື້ມບັນທຶກທາງການແພດສ່ວນຕົວຂອງທ່ານເປັນບ່ອນທີ່ສະດວກໃນການເກັບຮັກສາຂໍ້ມູນສຸຂະພາບ, ຮູບພາບແລະໄຟລ໌ຂອງທ່ານ. ຮັກສາຕິດຕາມສຸຂະພາບຂອງທ່ານດ້ວຍການເຂົ້າເຖິງ 24/7 ທຸກບັນທຶກການແພດຂອງທ່ານ. ບໍ່ວ່າທ່ານຢູ່ເຮືອນຫລືເດີນທາງໄປຕ່າງປະເທດຂໍ້ມູນຂອງທ່ານແມ່ນຢູ່ໃນນິ້ວມືຂອງທ່ານເພື່ອແລກປ່ຽນກັບຜູ້ຊ່ຽວຊານດ້ານສຸຂະພາບຂອງທ່ານ. ງ່າຍທີ່ຈະນໍາໃຊ້ບັນທຶກທາງການແພດສ່ວນບຸກຄົນທີ່ມີຢູ່ໃນ 18 ພາສາ.",
+  "ABOUT_US_SECTION2_TITLE": "ມັນ​ເຮັດ​ວຽກ​ແນວ​ໃດ?",
+  "ABOUT_US_SECTION3_P1": "ມີພຽງແຕ່ຄະນະກໍາມະການທີ່ໄດ້ຮັບການຢັ້ງຢືນດ້ານສຸຂະພາບທີ່ໃຫ້ການປິ່ນປົວທາງດ້ານການແພດໃນ SaluberMD. ຜູ້ຊ່ຽວຊານເຫຼົ່ານີ້ໄດ້ຖືກກວດສອບຢ່າງກວ້າງຂວາງ, ແລະໄດ້ຮັບການຝຶກອົບຮົມໃຫ້ການດູແລທີ່ມີຄຸນນະພາບສູງ. ແພດປະຈໍາແຕ່ລະຄົນມີຊີວະສາດທີ່ທ່ານສາມາດເບິ່ງພື້ນຫລັງ, ຂໍ້ມູນຂ່າວສານແລະປະສົບການຂອງເຂົາເຈົ້າ. SaluberMD ແມ່ນຄໍາຫມັ້ນສັນຍາຕໍ່ການຄຸ້ມຄອງຄຸນນະພາບຂອງແພດຫມໍຂອງພວກເຮົາ. ລະບົບການປະເມີນຜົນຊ່ວຍໃຫ້ຜູ້ປ່ວຍສາມາດປະເມີນນາຍແພດແລະເບິ່ງການປະເມີນຜົນຂອງທ່ານຫມໍໄດ້.",
+  "ABOUT_US_SECTION3_TITLE": "ແພດຂອງພວກເຮົາ",
+  "ABOUT_US_TITLE": "ກ່ຽວ​ກັບ​ພວກ​ເຮົາ",
+  "above_warning": "ຄຸນຄ່າຂ້າງເທິງແມ່ນມີຄວາມສ່ຽງ",
+  "accept": "ຍອມ​ຮັບ",
+  "acceptablerange": "ຊ່ວງທີ່ຍອມຮັບໄດ້",
+  "ACCEPT_BTN": "ຍອມ​ຮັບ",
+  "acquire": "ໄດ້ຮັບຂໍ້ມູນ",
+  "acronym": "ອັກສອນຫຍໍ້",
+  "action": "ການປະຕິບັດ",
+  "actions": "ການກະທໍາ",
+  "actionTaken": "ປະຕິບັດການປະຕິບັດ",
+  "activity": "ກິດຈະກໍາ",
+  "acutecare": "Acute Care",
+  "add": "ໃຫມ່",
+  "addavailability": "ເພີ່ມຄວາມພ້ອມຂອງທ່ານ",
+  "addcomment": "ຕື່ມການໃຫ້ຄໍາເຫັນຢູ່ທີ່ນີ້",
+  "adddescription": "ຕື່ມລາຍລະອຽດຂອງທ່ານຢູ່ທີ່ນີ້",
+  "adddrugs": "ຊອກຫາຢາເສບຕິດໂດຍນໍາໃຊ້ກ່ອງຄົ້ນຫາຂ້າງລຸ່ມນີ້ແລະໃຫ້ຄລິກໃສ່ກ່ອງກາເຄື່ອງຫມາຍເພື່ອເພີ່ມຢາຕາມໃບສັ່ງແພດຂອງທ່ານ",
+  "addedFavourite": "ເພີ່ມປະສົບຄວາມສໍາເລັດໃນລາຍະການໂປດຂອງທ່ານ",
+  "addedFavourite2": "ເພີ່ມປະສົບຄວາມສໍາເລັດໃນລາຍະການໂປດຂອງທ່ານ. ກົດປຸ່ມປັບປຸງເພື່ອສະແດງມັນ.",
+  "addedFavourite3": "ໄດ້ເພີ່ມປະສົບຄວາມສໍາເລັດ  n ກົດເລື່ອນເພື່ອໂຫຼດຄືນ",
+  "addFavourite": "Add to Favorite",
+  "ADDING_SLOT": "ເພີ່ມຊ່ອງຕື່ມ .... ນີ້ອາດໃຊ້ເວລາອີກ.",
+  "addNew": "ຕື່ມ ໃໝ່",
+  "addpharmacies": "ກົດປຸ່ມເພື່ອເພີ່ມຮ້ານຂາຍຢາຂອງທ່ານ",
+  "addpharmacy": "ເພີ່ມຮ້ານຂາຍຢາ",
+  "addreminder": "ກົດປຸ່ມບວກໃສ່ຄໍາເຕືອນກ່ຽວກັບຢາຂອງທ່ານ.",
+  "address": "ທີ່ຢູ່",
+  "address2": "ທີ່ຢູ່ສົ່ງ",
+  "address3": "ທີ່ຢູ່ສໍາລັບການບໍລິການ",
+  "addsintomi": "Add symptoms",
+  "addslot": "ເພີ່ມສລັອດ",
+  "add_description_file": "ຕື່ມລາຍລະອຽດ (ບໍ່ຈໍາເປັນ)",
+  "add_new": "ຕື່ມຂໍ້ມູນ",
+  "affaticamento_grave": "Severe Fatigue",
+  "affaticamento_minore": "Minor Fatigue",
+  "agenda": "ກອງປະຊຸມຂອງຂ້າພະເຈົ້າ",
+  "agenda_report": "ລາຍງານການນັດພົບ",
+  "aggiungi": "ສ້າງ",
+  "AGREE_BTN": "ຂ້ອຍ​ຍອມ​ຮັບ",
+  "alcoholDesc": "ເຫຼົ້າຖືວ່າ",
+  "all": "ທັງຫມົດ",
+  "alldata": "All Data",
+  "allergia": "ອາການແພ້",
+  "allergia_aggiunta": "ອາການແພ້ທີ່ສ້າງຜົນສໍາເລັດ",
+  "allergia_rimossa": "ອາການແພ້ຢາຂອງຜູ້ເຈັບໄດ້ຖືກລຶບລ້າງແລ້ວ",
+  "allergia_salvata": "ອາການແພ້ຢາຂອງຜູ້ເຈັບໄດ້ຖືກປັບປຸງໃຫ້ຖືກຕ້ອງແລ້ວ",
+  "allergie": "Allergies",
+  "allimages": "ຮູບພາບທັງຫມົດ",
+  "alreadyAddedF": "ຮ້ານຂາຍຢານີ້ມີຢູ່ແລ້ວໃນລາຍະການໂປດຂອງທ່ານ",
+  "alreadyRegistred": "ທີ່ຢູ່ອີເມວນີ້ມີຢູ່ແລ້ວໃນລະບົບອອກ. ກະລຸນາເຂົ້າໃຊ້ app ເພື່ອນັດ ໝາຍ.",
+  "alreadyTaken": "ການແຕ່ງຕັ້ງໄດ້ຖືກປະຕິບັດແລ້ວ",
+  "alta": "ສູງ",
+  "alto": "ສູງ",
+  "amonth": "30 ວັນ",
+  "anger": "ໃຈຮ້າຍ",
+  "annoinizio": "ປີເລີ່ມຕົ້ນ",
+  "antibiotics": "ຢາຕ້ານເຊື້ອ",
+  "an_error_occurred": "ໂອຍ! ປະຈຸບັນນີ້ພວກເຮົາບໍ່ສາມາດຕອບສະ ໜອງ ຄຳ ຮ້ອງຂໍຂອງທ່ານໄດ້. ລອງ ໃໝ່ ພາຍຫຼັງ",
+  "appointment": "ການນັດຫມາຍ",
+  "appointmentlist": "ລາຍຊື່ການນັດຫມາຍ",
+  "appointments": "ການນັດຫມາຍ",
+  "appointmentsDescription": "ລາຍຊື່ຂອງການນັດຫມາຍເວລາ",
+  "appointment_body_doc": "ນັດ ໝາຍ ໃໝ່ ຕາມ ກຳ ນົດ",
+  "appointment_calcelled_title": "ການນັດຫມາຍຖືກຍົກເລີກ",
+  "appointment_cancelled": "ໄດ້ຍົກເລີກການນັດຫມາຍຂອງລາວ",
+  "appointment_email_body": "ພວກເຮົາຢັ້ງຢືນການນັດພົບຂອງທ່ານກັບທ່ານ ໝໍ",
+  "appointment_history": "ປະຫວັດການນັດຫມາຍ",
+  "appointment_now": "ການນັດຫມາຍຂອງທ່ານເລີ່ມຕົ້ນຕອນນີ້",
+  "appremainder": "ການນັດຫມາຍຍັງເຫລືອ",
+  "appremainder1": "ທ່ານມີ videocall ກໍານົດໃນ 5 ນາທີ",
+  "appremainder2": "ທ່ານມີ videocall sheduled ໃນ 30 ນາທີ",
+  "appremainder3": "ທ່ານມີ videocall sheduled ໃນ 120 ນາທີ",
+  "APPROX_DATA": "ຂໍ້ມູນສຸຂະພາບອື່ນໆ",
+  "appuntamenti": "ການນັດຫມາຍ",
+  "appuntamenti_presi": "ການກໍານົດທີ່ກໍານົດເວລາ",
+  "appuntamento_clinica": "ການກໍານົດການນັດຫມາຍຄລີນິກ",
+  "APPUNTAMENTO_CONGIUNTO": "ທ່ານຕ້ອງການທີ່ຈະຈອງວີດີໂອບໍ?",
+  "app_description": "ຕື່ມເຫດຜົນຂອງການນັດພົບຂອງທ່ານຢູ່ໃນປ່ອງຂ້າງລຸ່ມນີ້",
+  "app_details": "ລາຍລະອຽດການນັດພົບ",
+  "app_missing": "app ສະຫນັບສະຫນູນບໍ່ໄດ້ຕິດຕັ້ງ",
+  "ARIAX": "ອັດຕາການຫາຍໃຈ",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Arousal",
+  "arousalDescription": "ຕົວປ່ຽນແປງທີ່ມີຄວາມສະຫງົບຫຼືຄວາມລໍາບາກເພື່ອຄວາມວ່ອງໄວແລະຄວາມຕື່ນເຕັ້ນ. ມັນສອດຄ່ອງກັບແນວຄິດທີ່ຄ້າຍຄືກັນເຊັ່ນ: ລະດັບການກະຕຸ້ນແລະການກະຕຸ້ນ.",
+  "assign_specialist": "ກໍາຫນົດຜູ້ຊ່ຽວຊານໃນການຮ້ອງຂໍ",
+  "associa": "Associate",
+  "attachment": "ໄຟລ໌ແນບ",
+  "ATTACH_A_PHOTO": "ແນບຮູບພາບ",
+  "BACKGROUND": "ພື້ນຫລັງ",
+  "BACKGROUND_PLCHOLDER": "ກະລຸນາປ້ອນຊີວະປະຫວັດສັ້ນ.",
+  "backhomeconfirm": "ທ່ານແນ່ໃຈທີ່ຈະກັບບ້ານ?",
+  "BACK_BTN": "ກັບຄືນໄປບ່ອນ",
+  "BACK_LOGIN": "ກັບຄືນໄປບ່ອນເຂົ້າສູ່ລະບົບ",
+  "bad_file": "ບໍ່ສາມາດເປີດໄຟລ໌ໄດ້",
+  "basicinfo": "ຂໍ້ມູນພື້ນຖານ",
+  "bassa": "ຕ່ໍາ",
+  "basso": "ຕ່ໍາ",
+  "below_warning": "ມູນຄ່າຂ້າງລຸ່ມນີ້ແມ່ນມີຄວາມສ່ຽງ",
+  "benefits": "Benefier Concierge",
+  "beyondverbal": "ຄວາມຮູ້ສຶກຂັບລົດທຸກສິ່ງທຸກຢ່າງທີ່ພວກເຮົາເຮັດ, ແຕ່ການໂຕ້ຖຽງຄວາມຮູ້ສຶກທີ່ມີສຽງນໍາໃຊ້ແມ່ນຍັງມີການໂຕ້ຕອບທີ່ສໍາຄັນທີ່ສຸດ, ບໍ່ໄດ້ເປີດເຜີຍໃນມື້ນີ້. ນອກຈາກຄໍາເວົ້າທີ່ຫມັ້ນສັນຍາກັບການປ່ຽນແປງນັ້ນ.",
+  "beyondverbal_analyze": "ວິເຄາະຈິດໃຈຂອງທ່ານ",
+  "beyondverbal_history": "ຜົນໄດ້ຮັບປະຫວັດສາດ",
+  "beyondverbal_instruction": "ເມື່ອທ່ານພ້ອມທີ່ຈະຕອບຄໍາຖາມກົດປຸ່ມເລີ່ມຕົ້ນ",
+  "BIRTHDATE": "ວັນເດືອນປີເກີດ",
+  "birthday": "ວັນເດືອນປີເກີດ",
+  "blank_agenda": "ບໍ່ມີຊ່ອງສໍາລັບມື້ນີ້",
+  "bloatedOrContipated": "Bloated or Constipated",
+  "bluetooth_error": "ເປີດ bluetooth ກ່ອນທີ່ຈະສືບຕໍ່",
+  "BOARD": "Board Certified",
+  "bones": "ກະດູກ",
+  "bp": "ຄວາມ​ດັນ​ເລືອດ",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "ຕາລາງການອ້າງອີງສໍາລັບຄ່າຄວາມດັນເລືອດ",
+  "breakfast": "ອາຫານເຊົ້າ",
+  "btnback": "ກັບຄືນໄປບ່ອນ",
+  "btndelete": "ລຶບ",
+  "btndisabledoctor": "Disable doctor",
+  "btndisablepatient": "ປິດການໃຊ້ຄົນເຈັບ",
+  "btnenabledoctor": "ເປີດໃຫ້ທ່ານຫມໍ",
+  "btnenablepatient": "ເປີດຕົວຜູ້ປ່ວຍ",
+  "btnsave": "ຊ່ວຍປະຢັດ",
+  "BTN_LOAD_MORE": "Load More",
+  "buttonsearch": "ຄົ້ນຫາ",
+  "bvFailed": "ບໍ່ສາມາດວິເຄາະສຽງຂອງທ່ານໄດ້, ທ່ານຈໍາເປັນຕ້ອງສົນທະນາຫຼາຍ!",
+  "bvInstruction": "ພຽງແຕ່ເວົ້າສໍາລັບ 20 ວິນາທີຫຼືຫຼາຍກວ່ານັ້ນ",
+  "bvInstruction2": "ພຽງແຕ່ເວົ້າສໍາລັບ 20 ວິນາທີ",
+  "ca": "ລະບົບປະສາດເສັ້ນເລືອດ",
+  "call": "ໂທຫາ",
+  "callCancel": "ບໍ່ສາມາດຍົກເລີກການໂທທີ່ຫມົດອາຍຸ",
+  "calldoctor": "ໂທຫາທ່ານຫມໍ",
+  "calling_number": "ຫມາຍເລກໂທລະສັບ",
+  "callthedoctor": "ໂທຫາທ່ານຫມໍ",
+  "calltransfer": "ການໂອນສາຍ ...",
+  "CALL_ALREADY_TAKEN": "ເອີ້ນແລ້ວແລ້ວ",
+  "CALL_DOCTOR_INFO": "Doctor Info",
+  "CALL_DURATION": "ໄລຍະເວລາໂທ",
+  "call_instruction": "ພວກເຮົາຈະສົ່ງແຈ້ງການໃຫ້ທ່ານທັນທີທີ່ທ່ານສາມາດໂທຫາແພດ. ໃຫ້ຄລິກໃສ່ການແຈ້ງເຕືອນໃນທັນທີທີ່ທ່ານໄດ້ຮັບມັນເພື່ອເລີ່ມຕົ້ນ videocalll. ໃນກໍລະນີທີ່ທ່ານລຶບການແຈ້ງເຕືອນ, ທ່ານສາມາດໄດ້ຮັບມັນຢູ່ໃນສ່ວນແຈ້ງການພາຍໃຕ້ບັນຊີສຸຂະພາບຂອງຂ້ອຍ.",
+  "CALL_NOTIFICATIONS": "ໂທລະສັບໂທລະສັບ",
+  "CALL_NO_INCOMING": "ບໍ່ມີການໂທເຂົ້າມາ",
+  "CALL_TRANSFER_INFO": "ຂໍ້ມູນການໂອນເງິນໂທ",
+  "CALL_WAITING": "ກະລຸນາລໍຖ້າຂະນະທີ່ພວກເຮົາຊອກຫາຫມໍທີ່ມີຢູ່",
+  "CALL_WAITING_2": "ກະລຸນາລໍຖ້າທ່ານຫມໍກວດເບິ່ງເອກະສານຂອງທ່ານ",
+  "calories": "ແຄລໍລີ່",
+  "cancel": "ຍົກເລີກ",
+  "cancelAppointment": "ຍົກເລີກການແຕ່ງຕັ້ງນີ້",
+  "CANCEL_BTN": "ຍົກເລີກ",
+  "CAP": "ລະ​ຫັດ​ໄປ​ສະ​ນີ",
+  "cardiac_output": "ຜົນອອກກໍາລັງກາຍ",
+  "cardiac_output1": "ຜົນອອກກໍາລັງກາຍ",
+  "cardiac_output_desc": "ຜົນຜະລິດທາງ cardiac ແມ່ນພຽງແຕ່ຈໍານວນເງິນຂອງເລືອດຕໍ່ຫົວໃຈຕໍ່ນາທີ.",
+  "cardiovascular": "Cardiovascular",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "CVC ບໍ່ຖືກຕ້ອງ",
+  "CARD_EXPIRY_DATE": "ວັນ​ຫມົດ​ອາ​ຍຸ",
+  "CARD_MONTH_ERROR": "ເດືອນບໍ່ຖືກຕ້ອງ",
+  "CARD_NUMBER": "ຫມາຍເລກບັດ",
+  "CARD_NUMBER_ERROR": "ຫມາຍເລກ CC ບໍ່ຖືກຕ້ອງ",
+  "CARD_YEAR_ERROR": "ປີບໍ່ຖືກຕ້ອງ",
+  "category": "ປະເພດ",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "ຕ້ອງການ CCV",
+  "CERROR": "Poor Contact",
+  "certificate_attachment": "ຕິດກັບໃບຢັ້ງຢືນການແພດຂອງທ່ານ",
+  "certificate_email": "ຕິດກັບໃບຢັ້ງຢືນການແພດຂອງທ່ານ",
+  "certificate_header": "ບົນພື້ນຖານຂອງການປະເມີນຜົນທາງການແພດທີ່ໄດ້ປະຕິບັດ, ສິ່ງດັ່ງຕໍ່ໄປນີ້ແມ່ນໄດ້ລະບຸໄວ້:",
+  "certificate_sent": "ສົ່ງໃບຢັ້ງຢືນ",
+  "certification_subject": "ໃບຢັ້ງຢືນການແພດຂອງທ່ານ",
+  "cf": "Fiscal Code",
+  "cf_error": "ໂປດລະບຸລະຫັດງົບປະມານຂອງທ່ານ",
+  "changeschedule": "ແກ້ໄຂເວລາ",
+  "CHANGE_PWD_SECTION_SUBTITLE": "ລະຫັດຜ່ານຂອງທ່ານຫມົດອາຍຸ, ກະລຸນາປ່ຽນແປງ.",
+  "CHANGE_PWD_SECTION_TITLE": "ປ່ຽນ​ລະ​ຫັດ​ຜ່ານ",
+  "CHANGE_PWD_TITLE": "ລະຫັດຜ່ານຂອງທ່ານຈະຫມົດອາຍຸ, ປ່ຽນແປງມັນ",
+  "checking_net_condition": "ກວດສອບການເຊື່ອມຕໍ່ອິນເຕີເນັດ ...",
+  "CHECK_PARAMETERS_CORX": "ກະລຸນາໃສ່ນ້ໍາຫນັກແລະຄວາມສູງໃນສ່ວນໂປໄຟເພື່ອຄິດໄລ່ຄ່າສຸຂະພາບທີ່ຖືກຕ້ອງ.",
+  "CHL_TOT": "Cholesterol ທັງ ໝົດ",
+  "choosedate": "ເລືອກວັນທີ",
+  "chooseDateDescription": "ກົດວັນທີທີ່ຈະຂະຫຍາຍມັນແລະເລືອກຊົ່ວໂມງ",
+  "chooseprofile": "ທ່ານແມ່ນໃຜ?",
+  "choosespeciality": "ເລືອກພິເສດທາງການແພດ",
+  "choosetransferdoctor": "ເລືອກທ່ານຫມໍ",
+  "CHOOSE_A_DOCTOR": "ເລືອກທ່ານຫມໍຂອງທ່ານເອງ",
+  "chosedoctor": "ກະລຸນາເລືອກທ່ານຫມໍ",
+  "city": "ນະຄອນ",
+  "city1": "ນະຄອນ",
+  "city2": "ນະຄອນ",
+  "clearsignature": "Clear signature",
+  "clickitem": "ກົດໃສ່ແຕ່ລະລາຍການເພື່ອເບິ່ງລາຍລະອຽດເຕັມ",
+  "clickrow": "ກົດແຖວເພື່ອເລືອກ",
+  "clickToOpen": "ກົດເພື່ອເປີດເອກະສານ",
+  "click_to_start_call": "ກົດທີ່ແພດເພື່ອເລີ່ມການໂທ",
+  "clinics": "ຄິນິກ",
+  "CLOCK_FORMAT": "ຮູບແບບໂມງ",
+  "closeappconfirm": "ທ່ານແນ່ໃຈວ່າປິດ app?",
+  "CLOSE_BTN": "ປິດ",
+  "cm": "ຊັງ​ຕີ​ແມັດ",
+  "CODE": "ລະຫັດ",
+  "code_not_valid": "ລະຫັດທີ່ຖືກໃສ່ບໍ່ຖືກຕ້ອງ",
+  "code_verified": "ລະຫັດຢືນຢັນ ສຳ ເລັດແລ້ວ!",
+  "coffeeDesc": "Coffee assumed",
+  "COMMENT": "ຂຽນ",
+  "commenti": "ຄວາມຄິດເຫັນ",
+  "COMPANY_NAME": "ບໍລິສັດ",
+  "COMPLAIN": "ຮ້ອງຮຽນ",
+  "COMPLETE_PROFILE": "ຈົ່ງເຮັດສໍາເລັດໂປແກຼມຂອງທ່ານກ່ອນທີ່ຈະດໍາ",
+  "COMPLETE_PROFILE_TITLE": "ກະລຸນາເຮັດສໍາເລັດຮູບຂອງທ່ານ",
+  "complications": "Complications",
+  "concernlist": "ກະລຸນາລາຍລະອຽດກ່ຽວກັບຄວາມກັງວົນຂອງທ່ານ",
+  "CONFIRM": "ຕົກ​ລົງ",
+  "confirm_app": "ຢືນຢັນການນັດພົບຂອງທ່ານ",
+  "CONFIRM_EMAIL_TITLE": "ຢືນ​ຢັນ​ອີ​ເມລ",
+  "CONFIRM_PWD": "ຢືນ​ຢັນ​ລະ​ຫັດ",
+  "connect": "ກົດປຸ່ມ Connect ເພື່ອເຊື່ອມຕໍ່ອຸປະກອນ",
+  "connectbtn": "ເຊື່ອມຕໍ່",
+  "connectedto": "ເຊື່ອມຕໍ່ກັບ",
+  "connecting": "ເຊື່ອມຕໍ່ ... ກະລຸນາລໍຖ້າ",
+  "connection_progress": "ເຊື່ອມຕໍ່ກັບອຸປະກອນ ...",
+  "CONSULT": "ຮ້ອງຮຽນ",
+  "consult1": "ປຶກສາຫາລື",
+  "consultation": "ການປຶກສາຫາລື",
+  "consultationHistory": "ປະຫວັດການປຶກສາຫາລື",
+  "contact": "ຕິດຕໍ່",
+  "CONTACT_US_BTN": "ຕິດ​ຕໍ່​ພວກ​ເຮົາ",
+  "CONTACT_US_SECTION_TITLE": "ກະລຸນາຕິດຕໍ່ຫາພວກເຮົາກັບຄໍາຖາມໃດໆຫຼືສໍາລັບການຊ່ວຍເຫຼືອນໍາໃຊ້ app.",
+  "CONTACT_US_TITLE": "ຕິດ​ຕໍ່​ພວກ​ເຮົາ",
+  "contatti": "ຂໍ້​ມູນ​ຕິດ​ຕໍ່",
+  "continue": "ສືບຕໍ່",
+  "copy_url": "ສຳ ເນົາ url",
+  "CORX": "ECG",
+  "corxDidFailEcg": "Error getting EKG",
+  "corxDidFailWellness": "ຂໍ້ຜິດພາດທີ່ໄດ້ຮັບຂໍ້ມູນສຸຂະພາບ",
+  "corxDidNoEcg": "ບໍ່ມີຂໍ້ມູນ EKG",
+  "corxDidNoWellness": "ບໍ່ມີຂໍ້ມູນກ່ຽວກັບສຸຂະພາບ",
+  "CORX_DATA": "ຂໍ້ມູນ CorX",
+  "corx_disconnected": "Corx Disconnected",
+  "CORX_PROD": "CORX",
+  "corx_wh": "ກະລຸນາລະບຸນ້ໍາຫນັກແລະຄວາມສູງໃນແຮ່ໃຫ້ຖືກຕ້ອງເພື່ອຄິດໄລ່ຂໍ້ມູນຕົວຢ່າງ.",
+  "COUNTRY": "ປະເທດ",
+  "country1": "ປະເທດ",
+  "county": "County",
+  "co_alta": "ສູງກວ່າ 8 L / min",
+  "co_bassa": "ຕ່ໍາກວ່າ 4 L / min",
+  "co_normale": "ລະຫວ່າງ 4 ແລະ 8 L / min",
+  "creditCard_selected": "ບັດທີ່ທ່ານເລືອກຈະຖືກເກັບຄ່າບໍລິການນີ້",
+  "currency": "ເງິນຕາ",
+  "C_SPECIALTY": "ຄວາມຊໍານານພິເສດ",
+  "dailyuse": "ການນໍາໃຊ້ປະຈໍາວັນ",
+  "dashboardVideocall": "Dashboard Videocall",
+  "dataerror": "ວັນທີ / ເວລາທີ່ທ່ານໄດ້ເລືອກແມ່ນຜ່ານວັນທີ / ເວລາປະຈຸບັນ",
+  "dataexists": "ແລ້ວມີການນັດຫມາຍກັບວັນທີແລະເວລາທີ່ເລືອກ",
+  "datafetching": "ເກັບກໍາຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ ... ກະລຸນາລໍຖ້າ.",
+  "dataPrenotazione": "ວັນທີ່ຈອງ",
+  "dataVaccinazione": "Date Immunization",
+  "date": "Date",
+  "dateDiscovered": "ວັນທີພົບ",
+  "dateStart": "ວັນ​ທີ່​ເລີ່ມ",
+  "datipersonali": "ຂໍ້ມູນສ່ວນບຸກຄົນ",
+  "datiScaricati": "ຂໍ້ມູນທີ່ດາວໂຫລດໄດ້ປະສົບຜົນສໍາເລັດ",
+  "day": "ມື້",
+  "deassociate_corx_alert": "ທ່ານຕ້ອງການ deassociate Corx ບໍ?",
+  "decline": "ຫຼຸດລົງ",
+  "DECLINE_BTN": "ຫຼຸດລົງ",
+  "DEEP_SLEEP_TIME": "ນອນ​ຫລັບ​ສະ​ຫນິດ",
+  "defaultQuestion": "ກົດເລີ່ມຕົ້ນແລະບອກພວກເຮົາວ່າທ່ານມີຄວາມຮູ້ສຶກແນວໃດໃນມື້ນີ້",
+  "delete": "ລຶບ",
+  "deleteAlarm": "ລຶບເຕືອນນີ້?",
+  "deleteAppointment": "ທ່ານຕ້ອງການຍົກເລີກນັດຫມາຍບໍ?",
+  "deleteDescription": "ມັນຈະຖືກລຶບລ້າງທັນທີ.",
+  "deleteMessage": "ທ່ານແນ່ໃຈວ່າທ່ານຕ້ອງການລຶບນີ້ບໍ?",
+  "deleteMultipleDesctiption": "ຈໍານວນຊ່ອງທີ່ຈະຖືກລຶບ:",
+  "deleteNumber": "ທ່ານແນ່ໃຈວ່າທ່ານຕ້ອງການລຶບຈໍານວນນີ້?",
+  "deleteSlotDay": "ລຶບພື້ນທີ່ຫວ່າງທັງຫມົດອອກໃນມື້ນີ້",
+  "deleteSlotMonth": "ລຶບຊ່ອງຫວ່າງທັງຫມົດໃນເດືອນນີ້",
+  "deleteSlotWeek": "ລຶບຊ່ອງຫວ່າງທັງຫມົດໃນອາທິດນີ້",
+  "deletevalue_q": "ທ່ານແນ່ໃຈວ່າທ່ານຕ້ອງການລົບຄ່າ?",
+  "DELETE_NOTIFICATION_MSG": "ທ່ານຕ້ອງການລຶບການແຈ້ງເຕືອນທັງ ໝົດ ທີ່ຜ່ານມາບໍ?",
+  "demo": "ນີ້ເປັນຕົວຢ່າງ, ບໍ່ມີເງິນຈະຖືກຄິດຄ່າທໍານຽມ.",
+  "dependencies": "Dependencies",
+  "description": "ລາຍລະອຽດ",
+  "descriptionMandatory": "ກະລຸນາລະບຸລາຍລະອຽດ",
+  "deseaseCategory": "ປະເພດພະຍາດ",
+  "desirable": "ຄວາມປາຖະຫນາ",
+  "dettagli": "ລາຍລະອຽດ",
+  "dettaglio_struttura": "ລາຍລະອຽດໂຄງສ້າງ",
+  "device": "ອຸປະກອນ",
+  "devicefound": "ອຸປະກອນທີ່ພົບ",
+  "devices": "ອຸປະກອນ",
+  "devicetype": "ປະເພດອຸປະກອນ",
+  "DEVICE_BLOOD_PRESSURE": "ຄວາມ​ດັນ​ເລືອດ",
+  "DEVICE_CALORIES": "ແຄລໍລີ່ເຜົາ",
+  "DEVICE_CARDIAC": "ຕິດຕາມກວດກາພະຍາດ",
+  "DEVICE_CHL": "ຂໍ້ມູນກ່ຽວກັບ Lipidic",
+  "DEVICE_DATA_SECTION_TITLE": "ຂໍ້ມູນອຸປະກອນທາງການແພດຂອງທ່ານ",
+  "DEVICE_DATA_TITLE": "ອຸປະກອນຂໍ້ມູນ",
+  "DEVICE_DATA_TITLE_1": "ຂໍ້ມູນອຸປະກອນການແພດ",
+  "DEVICE_EKG": "ECG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glucometer",
+  "DEVICE_HEART_RATE": "ອັດ​ຕາ​ການ​ເຕັ້ນ​ຂອງ​ຫົວ​ໃຈ",
+  "DEVICE_PEDOMETER": "Pedometer",
+  "DEVICE_RESPIRATORY_FREQUENCY": "ຄວາມຖີ່ຂອງການຫາຍໃຈ",
+  "DEVICE_SPO2": "Spo2",
+  "DEVICE_TEMPERATURE": "ອຸນຫະພູມ",
+  "DIAGNOSIS": "Diagnosis",
+  "diastolic": "Diastolic",
+  "dieci": "10 ການວັດແທກສຸດທ້າຍ",
+  "diet": "ອາຫານ",
+  "digestion": "ບັນຫາດ້ານການຍ່ອຍສະຫຼາຍ",
+  "dinner": "ຄ່ໍາ",
+  "dipendenza": "Dependency",
+  "disableAlarm": "ການແຈ້ງເຕືອນເປີດ",
+  "disabled": "ຖືກປິດໃຊ້ງານ",
+  "DISABLE_PANIC_BUTTON": "ເປີດປຸ່ມ Panic",
+  "DISABLE_PUNIC_BUTTON": "ປິດປຸ່ມ Punic ປຸ່ມ",
+  "disconnectall": "Set Offline",
+  "disconnectbtn": "ປິດການເຊື່ອມຕໍ່",
+  "DISDICI": "ຍົກເລີກ",
+  "disease": "ໂລກເຮື້ອຮັງ",
+  "diseasemanagement": "ການຄຸ້ມຄອງພະຍາດ",
+  "diseases": "ພະຍາດ",
+  "disease_1": "ພະຍາດ",
+  "dissocia": "Disassociate",
+  "DISTANCE": "ໄລຍະທາງ",
+  "dm_section_description_1": "ທີ່ນີ້ທ່ານສາມາດແນບໄຟລ໌ຂອງທ່ານ",
+  "DND": "ຫ້າມ​ລົບ​ກວນ",
+  "DOCEMAIL": "Email Physician",
+  "DOCNAME": "ຊື່ຫມໍ",
+  "DOCPHONE": "ເບີໂທລະສັບແພດ",
+  "DOCTOR": "ທ່ານຫມໍ",
+  "doctor1": "ທ່ານຫມໍ",
+  "doctorAtHome": "ທ່ານຫມໍຢູ່ເຮືອນ",
+  "doctorAtHomeQuestion1": "ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນບ້ານສໍາລັບ:",
+  "doctorAtHomeQuestion2": "ເລືອກເອົາການຊ່ວຍເຫຼືອດ້ານເຮືອນທີ່ທ່ານຕ້ອງການ",
+  "doctorAtHomeQuestion2Answer1": "ການປະຕິບັດທົ່ວໄປ",
+  "doctorAtHomeQuestion2Answer2": "Pediatric",
+  "doctorAtHomeQuestion2Answer3": "ພະຍາບານ",
+  "doctorAtHomeQuestion3": "ບອກເຫດຜົນວ່າເປັນຫຍັງທ່ານຕ້ອງການການຊ່ວຍເຫຼືອ",
+  "doctorAtHomeQuestion4": "ໃຫ້ຢູ່ໃນແບບຟອມດັ່ງລຸ່ມນີ້ທີ່ຢູ່ທີ່ທ່ານຕ້ອງການທີ່ຈະໄດ້ຮັບການຊ່ວຍເຫຼືອ",
+  "doctorAtHomeRequestBtn": "ສົ່ງຄໍາຮ້ອງຂໍ",
+  "doctorAtHomeRequestSuccess": "ພວກເຮົາໄດ້ຮັບຄໍາຮ້ອງຂໍຂອງທ່ານ. ທ່ານຈະຕິດຕໍ່ກັບ 2 ຊົ່ວໂມງເພື່ອຈັດແຈງການບໍລິການເຮືອນ",
+  "doctorAtHomeTitle": "ທ່ານຫມໍຢູ່ເຮືອນ",
+  "doctorbusy": "ທ່ານຫມໍທຸລະກິດໃນການໂທອື່ນ",
+  "doctorbusy1": "ທ່ານຫມໍຢູ່ໃນການເອີ້ນອີກຄັ້ງ",
+  "doctorlist": "ລາຍຊື່ແພດຫມໍ",
+  "doctormanagement": "ການຄຸ້ມຄອງແພດ",
+  "doctoroffline": "ທ່ານຫມໍຢູ່ offline, ລອງໃຫມ່",
+  "doctorupdate": "ທ່ານຫມໍ",
+  "DOCTOR_PROFILE_OPT1": "Profile",
+  "DOCTOR_PROFILE_OPT2": "ປະຫວັດຄວາມເປັນມາຂອງຜູ້ປ່ວຍ",
+  "DOCTOR_PROFILE_OPT3": "ແນະນໍາເພື່ອນຮ່ວມງານ",
+  "DOCTOR_PROFILE_SECTION1": "ຂໍ້ມູນຂອງທ່ານ",
+  "DOCTOR_PROFILE_TITLE": "Profile",
+  "doctor_request_sent": "ພວກເຮົາໄດ້ສົ່ງຄໍາຮ້ອງຂໍຂອງທ່ານໄປຫາທ່ານຫມໍຂອງພວກເຮົາ. ທ່ານຈະໄດ້ຮັບຄໍາຕອບໃນສອງນາທີ.",
+  "documents": "ເອກະສານ",
+  "DOCUMENT_BTN": "ເອກະສານ",
+  "doestake": "ທ່ານໄດ້ປະຕິບັດ",
+  "DONATION_TITLE": "ຢືນຢັນການບໍລິຈາກ",
+  "done": "ຂໍ້ມູນ Trackx ໄດ້ຖືກດາວໂຫລດຢ່າງສໍາເລັດຜົນ. ທ່ານຈະພົບເຫັນພວກເຂົາຢູ່ພາຍໃຕ້ຂໍ້ມູນກ່ຽວກັບສຸຂະພາບ",
+  "doneAppointmentPatient": "ນັດພົບທີ່ຜ່ານມາ",
+  "DONE_BTN": "ເຮັດແລ້ວ",
+  "dontknow": "ຂ້າພະເຈົ້າບໍ່ຈື່",
+  "DORMIVEGLIA": "ນອນຫລັບ",
+  "dosage": "Dosage",
+  "dosetake1": "ທ່ານໄດ້ກິນຢາປິ່ນປົວຂອງທ່ານບໍ?",
+  "dottore_rimosso": "ສະຖານະຂອງທ່ານຫມໍໄດ້ຮັບການປັບປຸງໃຫມ່",
+  "dottore_salvato": "ທ່ານຫມໍປັບປຸງໃຫ້ປະສົບຜົນສໍາເລັດ",
+  "download": "ດາວໂຫລດ",
+  "downloadaspdf": "ດາວໂຫລດເປັນ PDF",
+  "downloadecg": "ດາວໂຫລດ ECG",
+  "DOWNLOADING_DEVICE_DATA": "ດາວໂຫລດ ...",
+  "downloadwellnessdata": "ດາວນ໌ໂຫລດຂໍ້ມູນສຸຂະພາບ ...",
+  "downloadWellnessResult": "ວັດແທກເພີ່ມ",
+  "DOWNLOAD_CERTIFICATE": "ໃບຢັ້ງຢືນການດາວໂຫລດ",
+  "DOWNLOAD_ERROR_GENERIC": "ໂອ້ຍ. erros ເກີດຂຶ້ນໃນຂະນະທີ່ພະຍາຍາມດາວໂຫລດໄຟລ໌. ກະລຸນາລອງອີກເທື່ອຫນຶ່ງ.",
+  "DOWNLOAD_SO_REPORT": "ດາວໂຫລດການອ້າງອິງ",
+  "DO_NOT_DISTURB": "ຫ້າມ​ລົບ​ກວນ",
+  "drugsAtHome": "ຢາຢູ່ເຮືອນ",
+  "drugsAtHomeQuestion1": "ທ່ານຕ້ອງການທີ່ຈະໄດ້ຮັບຢາທີ່ກໍານົດໄວ້ໂດຍທ່ານຫມໍຢູ່ເຮືອນໂດຍກົງບໍ?",
+  "drugsAtHomeRequestBtn": "ສົ່ງຄໍາຮ້ອງຂໍ",
+  "drugsAtHomeRequestSuccess": "ພວກເຮົາໄດ້ຮັບຄໍາຮ້ອງຂໍຂອງທ່ານ. ຢາຈະຖືກສົ່ງໄປພາຍໃນ 24 ຊົ່ວໂມງ",
+  "drugsAtHomeSection1": "ໃຫ້ຢູ່ໃນແບບຟອມຂ້າງລຸ່ມນີ້ເບີໂທລະສັບແລະທີ່ຢູ່ທີ່ທ່ານຕ້ອງການທີ່ຈະໄດ້ຮັບຢາ.",
+  "drugsAtHomeTitle": "ຢາຢູ່ເຮືອນ",
+  "drug_name": "ຊື່ຢາ",
+  "duration": "ໄລຍະເວລາ",
+  "ecg": "ECG",
+  "ecgadded": "ECG ໄດ້ຮັບການເພີ່ມເຂົ້າໃນບັນຊີລາຍຊື່",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "EKG data",
+  "ecgdetail": "ກົດໃສ່ແຕ່ລະລາຍການເພື່ອເບິ່ງຮູບພາບ ECG",
+  "ECG_DELETE_Q": "ທ່ານແນ່ໃຈບໍວ່າທ່ານຕ້ອງການລຶບ EKG?",
+  "ecg_not_found": "ເອກະສານເອກະສານທີ່ບໍ່ຖືກຕ້ອງ, ລອງໃຊ້ misuaration ອື່ນ.",
+  "ECG_REMOVED": "EKG ຖືກລຶບລ້າງແລ້ວ",
+  "edit": "ແກ້ໄຂ",
+  "EKG_SECTION_TITLE": "Electrocardiogram (EKG / ECG) ຜົນໄດ້ຮັບ",
+  "EKG_TITLE": "EKG Upload",
+  "EMAIL": "ອີເມວ",
+  "email1": "ອີເມວ",
+  "email_do_not_match": "ອີເມວບໍ່ກົງກັນ",
+  "ematicTest": "ການທົດສອບ Ematic",
+  "Emergency": "ສະແດງໃຫ້ເຫັນໃນສຸກເສີນ",
+  "emergency1": "ສຸກເສີນ",
+  "emergencyLoginCode": "ລະຫັດເຂົ້າສູ່ລະບົບສຸກເສີນ",
+  "emergency_numbers": "ຈໍານວນສຸກເສີນ",
+  "emergency_number_description": "ເພີ່ມຫມາຍເລກໂທລະສັບເພື່ອໂທຫາໃນກໍລະນີສຸກເສີນ",
+  "emotionDescription": "ການປະສົມປະສານຂອງຄວາມຮູ້ສຶກພື້ນຖານຕ່າງໆ, ສະແດງອອກໂດຍສຽງຂອງຜູ້ໃຊ້ໃນລະຫວ່າງສຽງທີ່ໄດ້ຮັບການວິເຄາະ.",
+  "emotions": "ອາລົມລວມ",
+  "emptypassword": "ໂປດລະບຸຄໍາຫລັກ",
+  "EMPTY_ALLERGIES": "ກົດປຸ່ມເພື່ອເພີ່ມພະຍາດໃຫ້ກັບບັນທຶກທາງການແພດຂອງທ່ານ",
+  "empty_dataset": "ບໍ່ມີຂໍ້ມູນ",
+  "EMPTY_DEPENDENCIES": "ກົດປຸ່ມເພື່ອເພີ່ມການຂຶ້ນກັບບັນທຶກການແພດຂອງທ່ານ",
+  "EMPTY_DISEASE": "ກົດປຸ່ມເພື່ອເພີ່ມພະຍາດໃຫ້ກັບບັນທຶກທາງການແພດຂອງທ່ານ",
+  "EMPTY_DOCUMENTS": "ໃຫ້ຄລິກໃສ່ປຸ່ມເພື່ອເພີ່ມເອກະສານທີ່ບັນທຶກການແພດຂອງທ່ານ",
+  "EMPTY_IMAGES": "ໃຫ້ຄລິກໃສ່ປຸ່ມເພື່ອເພີ່ມຮູບພາບໃສ່ບັນທຶກທາງການແພດຂອງທ່ານ",
+  "EMPTY_IMMUNIZATION": "ກົດປຸ່ມເພື່ອເພີ່ມການສັກຢາປ້ອງກັນໃນບັນທຶກການປິ່ນປົວຂອງທ່ານ",
+  "EMPTY_MEDICATION": "ກົດປຸ່ມເພື່ອເພີ່ມຢາເພື່ອບັນທຶກທາງການແພດຂອງທ່ານ",
+  "empty_otp": "ລະຫັດ OTP ບໍ່ຖືກຕ້ອງ",
+  "EMPTY_PROSTHESIS": "ໃຫ້ຄລິກໃສ່ປຸ່ມເພື່ອເພີ່ມປະດິດກັບບັນທຶກທາງການແພດຂອງທ່ານ",
+  "EMPTY_TESTS": "ກົດປຸ່ມເພື່ອເພີ່ມການທົດສອບກັບບັນທຶກທາງການແພດຂອງທ່ານ",
+  "enabled": "Enabled",
+  "endate": "To",
+  "endcall": "ສິ້ນສຸດການໂທ",
+  "endDate": "ວັນສິ້ນສຸດ",
+  "endhour": "End Time",
+  "end_time": "End Time",
+  "END_VIDEOCALL_Q1": "ທ່ານແນ່ໃຈວ່າທ່ານຕ້ອງການສິ້ນສຸດການປຶກສາຫາລືໂດຍບໍ່ຕ້ອງເລີ່ມຕົ້ນ videocall?",
+  "END_VISIT_BTN": "ສິ້ນສຸດການຢ້ຽມຢາມ",
+  "error": "ຂໍ້ຜິດພາດ",
+  "error_call_timeout": "ເວລາທີ່ຈະເຮັດໃຫ້ videocall ຫມົດແລ້ວ. ເພື່ອເຮັດໃຫ້ videocall, repeat ຂະບວນການອີກເທື່ອຫນຶ່ງ.",
+  "ERROR_EMAIL_DUPPLICATE": "ມັນເບິ່ງຄືວ່າທີ່ຢູ່ອີເມວນີ້ຖືກລົງທະບຽນແລ້ວ. ພະຍາຍາມທີ່ມີຄົນອື່ນ.",
+  "error_price": "ກະລຸນາ, ລະບຸຄ່າ ທຳ ນຽມ",
+  "ERROR_SPECIFY_DAYS": "ໂປດລະບຸຢ່າງຫນ້ອຍຫນຶ່ງອາທິດຕໍ່ມື້",
+  "ERROR_SPECIFY_HOUR": "ກະລຸນາລະບຸເວລາ",
+  "ERROR_TITLE_NOTIFICATION": "ຂໍ້ຜິດພາດ",
+  "ERROR_TRACKX": "ເປີດ Trackx",
+  "error_update": "Error Updating Firmware",
+  "ERROR_USERNAME_DUPPLICATE": "ຊື່ຜູ້ໃຊ້ນີ້ໄດ້ຖືກປະຕິບັດແລ້ວແລ້ວເລືອກເອົາອີກ",
+  "ERROR_WHITELIST": "ຂໍໂທດ, ອຸປະກອນຂອງທ່ານບໍ່ສາມາດເຮັດວິດີໂອໄດ້",
+  "esameobbligatorio": "ກະລຸນາເລືອກເອົາການສອບເສັງ",
+  "exam_name": "ຊື່ການສອບເສັງ",
+  "exercise": "ການອອກກໍາລັງກາຍ",
+  "exercisereminders": "My Exercise Reminders",
+  "existentassoc": "ສະມາຄົມທີ່ມີຢູ່ແລ້ວ",
+  "existentrelation": "ສາຍພົວພັນນີ້ມີຢູ່ແລ້ວ",
+  "expandfordetails": "ຂະຫຍາຍສໍາລັບລາຍລະອຽດເພີ່ມເຕີມ",
+  "EXP_MONTH": "ເດືອນ ໝົດ ອາຍຸ",
+  "EXP_MONTH_REQUIRED": "ເດືອນ ໝົດ ອາຍຸທີ່ຕ້ອງການ",
+  "EXP_YEAR": "ໝົດ ອາຍຸປີ",
+  "EXP_YEAR_REQUIRED": "ປີ ໝົດ ອາຍຸທີ່ຕ້ອງການ",
+  "e_prescribing": "E-Prescribing",
+  "F": "ຍິງ",
+  "farmaci": "ຢາປິ່ນປົວ",
+  "farmaco": "ການໃຊ້ຢາ",
+  "fat": "ໄຂມັນ",
+  "FATIGUE_INDEX": "ຄວາມເຫນື່ອຍລ້າວ",
+  "FATIGUE_INDEX_DESCRIPTION": "ການເຮັດວຽກ, ການເຮັດວຽກແລະປະສົບການທີ່ເກີດຈາກລະດັບຄວາມອ້ວນ. ຄວາມເຫນື່ອຍລ້າຫຼາຍເກີນໄປເຮັດໃຫ້ກ້າມເນື້ອແຂງກະດູກ, ປວດຫົວ, ນອນໄມ່ຫລັບ, ຄວາມອົດທົນ, ອາການເຈັບປວດແອວແລະງ່າຍດາຍເຮັດໃຫ້ລະບົບປະສາດ, ຂໍ້ບົກພ່ອງ endocrine, ເຮັດໃຫ້ເກີດພະຍາດຊໍາເຮື້ອແລະຄວາມອົດທົນທາງຈິດໃຈ.",
+  "favoriteslist": "My Favorites List",
+  "FAVORITES_NO": "ທ່ານຍັງບໍ່ໄດ້ເພີ່ມນາຍແພດໃດໆໃນບັນຊີໂປດຂອງທ່ານເທື່ອ",
+  "FAVORITES_NO_PHARMACIES": "ທ່ານຍັງບໍ່ທັນໄດ້ເພີ່ມຮ້ານຂາຍຢາໃດໆໃນບັນຊີໂປດຂອງທ່ານເທື່ອ",
+  "FAVORITES_SECTION_SUBTITLE": "ກົດໃສ່ແຕ່ລະລາຍການເພື່ອເບິ່ງລາຍລະອຽດເຕັມ",
+  "FAVORITES_SECTION_TITLE": "ທ່ານຫມໍທີ່ຮັກແພງຂອງທ່ານ",
+  "FAVORITES_TITLE": "Favorites",
+  "favourite_pharmacy": "Favorite Pharmacies",
+  "FEE": "ຄຸ້ມຄອງຄ່າ ທຳ ນຽມ",
+  "FEET": "ຕີນ",
+  "female": "ຍິງ",
+  "fileloaded": "File loaded",
+  "fileloaded1": "Fle Successfully Uploaded",
+  "fileName": "ຊື່​ເອ​ກະ​ສານ",
+  "filenotfound": "ໄຟບໍ່ພົບ",
+  "file_upload_instruction": "ດາວໂຫລດຄໍາແນະນໍາ",
+  "filldate": "ກະລຸນາເລືອກວັນທີ",
+  "filldoctor": "ກະລຸນາເລືອກທ່ານຫມໍ",
+  "fillpeciality": "ກະລຸນາເລືອກພິເສດ",
+  "fillthebox": "ກອກກ່ອງ",
+  "fill_indication": "ໂປດກອກຂໍ້ມູນໃນເຂດຂໍ້ມູນ",
+  "fill_indication_for": "ກະລຸນາລະບຸຂໍ້ມູນສໍາລັບ",
+  "fill_quantity": "ກະລຸນາຕື່ມຂໍ້ມູນໃສ່ເຂດຂໍ້ມູນ",
+  "fill_quantity_for": "ກະລຸນາລະບຸປະລິມານສໍາລັບ",
+  "fill_your_doubt": "ກະລຸນາໃຫ້ລາຍລະອຽດຢູ່ໃນປ່ອງຂ້າງເທິງ.",
+  "filter": "ການກັ່ນຕອງ",
+  "finddoctor": "ຊອກຫາແພດຫມໍ",
+  "findFarmacia": "ຄົ້ນຫາຮ້ານຂາຍຢາ",
+  "findpatient": "ຊອກຫາຄົນເຈັບ",
+  "findspcialist": "ຊອກຫາຜູ້ຊ່ຽວຊານ",
+  "findStruttura": "ໂຄງສ້າງຄົ້ນຫາ",
+  "finduser": "ຊອກຫາຜູ້ໃຊ້",
+  "FIND_A_DOCTOR": "ເຊື່ອມຕໍ່ກັບທ່ານຫມໍ",
+  "find_device": "ຊອກຫາອຸປະກອນ",
+  "FIND_THE_BRACELET": "ຊອກຫາສາຍແຂນ",
+  "fingerprint_btn": "ອະນຸຍາດໃຫ້ເຂົ້າສູ່ລະບົບນິ້ວມື",
+  "fingerprint_hint": "ຢືນຢັນ fingerprint ຈະສືບຕໍ່",
+  "fingerprint_hint2": "ຢືນຢັນ fingerprint ຈະສືບຕໍ່",
+  "fingerprint_question": "ທ່ານຢາກຈະເປີດໃຊ້ການກວດສອບນິພພານ?",
+  "FIRMWARE_UPDATE": "Firmware Update",
+  "FIRMWARE_UPDATED": "Firmware Updated",
+  "firstName": "ຊື່​ແທ້",
+  "five_min": "ໃນ 5 ນາທີ",
+  "fixappointment": "ທ່ານຕ້ອງການກໍານົດການແຕ່ງຕັ້ງນີ້ບໍ?",
+  "forever": "ຕະຫຼອດໄປ",
+  "forgotPassword": "ລືມລະຫັດຜ່ານ?",
+  "forgot_password": "ລືມລະຫັດຜ່ານ?",
+  "forma": "ປະເພດ",
+  "formafarmaco": "ແບບຟອມຢາ",
+  "formatError": "ລາຄາຕ້ອງເປັນຕົວເລກມູນຄ່າ.",
+  "found_devices": "ພົບອຸປະກອນຕ່າງໆ",
+  "FRIDAY": "ວັນ​ສຸກ",
+  "GENDER": "ເພດ",
+  "gender1": "ເພດ",
+  "general": "ທົ່ວໄປ",
+  "generalInfo": "ຂໍ້ມູນທົ່ວໄປ",
+  "genericName": "ຊື່ທົ່ວໄປ",
+  "GENERIC_ERROR": "OOps! ບາງສິ່ງບາງຢ່າງໄດ້ຜິດ. ກະລຸນາລອງອີກເທື່ອຫນຶ່ງ",
+  "geneticTest": "Genetic Test",
+  "geneticTestHeader2": "ຜ່ານການທົດສອບທາງພັນທຸກໍາທ່ານສາມາດຄົ້ນພົບເພີ່ມເຕີມກ່ຽວກັບສຸຂະພາບຂອງທ່ານແລະເຮັດສິ່ງທີ່ຖືກຕ້ອງເພື່ອຮັກສາສຸຂະພາບ.",
+  "geneticTestHeader3": "ມັນ​ເຮັດ​ວຽກ​ແນວ​ໃດ",
+  "geneticTestProduct": "ຂໍ້ມູນໂພຊະນາການ",
+  "geneticTestRequestBtn": "ຂໍໃຫ້ສອບເສັງ",
+  "geneticTestRequestSuccess": "ຄໍາສັ່ງຂອງທ່ານໄດ້ຮັບການຢືນຢັນ. ທ່ານຈະໄດ້ຮັບຊຸດໂດຍກົງຢູ່ເຮືອນ",
+  "geneticTestSection1": "ທ່ານຕ້ອງການໃນປັດຈຸບັນຖ້າສິ່ງທີ່ທ່ານກິນແມ່ນພຽງພໍສໍາລັບຮ່າງກາຍແລະການເຜົາຕົວຂອງທ່ານ?",
+  "geneticTestSection2": "ທ່ານຕ້ອງການຮູ້ວ່າອາຫານທີ່ມີສຸຂະພາບທີ່ດີສໍາລັບຮ່າງກາຍຂອງທ່ານບໍ່ມີຄວາມສ່ຽງຕໍ່ໂຣກໄຂມັນບໍ?",
+  "geneticTestSection3": "ການທົດສອບໂພຊະນາການຈະຊ່ວຍໃຫ້ທ່ານຮູ້ວ່າການເຊື່ອມຕໍ່ລະຫວ່າງ DNA ແລະອາຫານຂອງທ່ານ.",
+  "geneticTestSection4": "ເພີ່ມຫມາຍເລກໂທລະສັບຂອງທ່ານແລະທີ່ຢູ່ທີ່ທ່ານຕ້ອງການທີ່ຈະໄດ້ຮັບຊຸດນີ້",
+  "geneticTestStep1": "1. ສັ່ງໃຫ້ການທົດສອບຂອງທ່ານ",
+  "geneticTestStep1Subtitle": "ເຮັດຄໍາສັ່ງຂອງທ່ານກັບແອັບຯແລະໄດ້ຮັບຊຸດໂດຍກົງຢູ່ເຮືອນ.",
+  "geneticTestStep2Subtitle": "ເອົາຕົວຢ່າງແລະສົ່ງພວກເຮົາໂດຍການບໍລິການໄປສະນີໂດຍໃຊ້ຊອງຈົດຫມາຍທີ່ພວກເຮົາຈະໃຫ້ທ່ານ.",
+  "geneticTestStep3": "3. ຮັບຜົນໄດ້ຮັບ",
+  "geneticTestStep3Subtitle": "ຫຼັງຈາກອາທິດຫນຶ່ງທ່ານຈະໄດ້ຮັບຂໍ້ຄວາມແຈ້ງໃຫ້ທ່ານຮູ້ວ່າຜົນຂອງການທົດສອບພັນທຸກໍາຈະມີຢູ່ໃນ App.",
+  "geneticTestTitle": "Genetic Test",
+  "GLUCOMETER": "Glucometer",
+  "glucosio": "Glucose",
+  "HAND_BRIGHTEN": "ຍົກມືຂອງທ່ານໃຫ້ສົດໃສ",
+  "happiness": "ຄວາມສຸກ",
+  "HDL": "Cholesterol HDL",
+  "hdl_cholesterol_desc": "cholesterol lipoprotein (HDL) ທີ່ມີຄວາມຫນາແຫນ້ນສູງແມ່ນເປັນທີ່ຮູ້ກັນດີວ່າເປັນ cholesterol ທີ່ດີ. ຕາຕະລາງຕໍ່ໄປນີ້ສະແດງຂອບເຂດຂອງຄ່າຕ່າງໆ.",
+  "healthtips": "Healthtips",
+  "HEALTH_INDEX": "ສຸ​ຂະ​ພາບ",
+  "HEALTH_INDEX_DESCRIPTION": "ດັດສະນີສຸຂະພາບຂອງ HRV ແມ່ນຜ່ານການວິເຄາະຂອງຫົວໃຈປະກະຕິ HR ແລະການປ່ຽນແປງຂອງອັດຕາການຫົວໃຈ HRV ແລະຕົວກໍານົດອື່ນໆ, ອີງຕາມການວັດແທກໄລຍະເວລາຂອງຜົນຂອງ Holter ເພື່ອວິເຄາະສຸຂະພາບຂອງຮ່າງກາຍ, ດັດຊະນີສຸຂະພາບເພີ່ມຂຶ້ນ, ດີກວ່າ; ດັດຊະນີສຸຂະພາບຫຼຸດລົງ, ໃນນາມຂອງຮ່າງກາຍຈໍາເປັນຕ້ອງເອົາໃຈໃສ່ກັບຊີວິດສຸຂະພາບປະຈໍາວັນ.",
+  "heartRate": "HR",
+  "HEART_INDEX": "ຫົວໃຈ",
+  "HEART_INDEX_DESCRIPTION": "ຜູ້ຊົມໃຊ້ຂອງຫົວໃຈແມ່ນວັດແທກຄວາມໃຈຮ້າຍຂອງຄົນ, ແລະການປະຕິບັດງານຂອງພວກເຂົາແມ່ນແຕກຕ່າງກັນເນື່ອງຈາກວ່າລະດັບຄວາມຮັກຂອງພວກເຂົາສໍາລັບຫົວໃຈແລະສະຖານະພາບສຸຂະພາບທີ່ແຕກຕ່າງກັນ. ການພັດທະນາຊີວິດສຸຂະພາບແລະນິໄສການກິນອາຫານ: ກົນລະຍຸດທີ່ເຫມາະສົມທີ່ຈະໃຊ້ຫົວໃຈເພື່ອບັງຄັບໃຫ້ເສີມທາດແຄນຊຽມໂຊດຽມ, ເພື່ອປົກປ້ອງເສັ້ນເລືອດ, ສາມາດປ້ອງກັນບໍ່ໃຫ້ເກີດພະຍາດຫົວໃຈ, ແມ່ນເພື່ອເສີມສ້າງຍຸດທະສາດການເຮັດວຽກຂອງຫົວໃຈ.",
+  "height": "ຄວາມສູງ",
+  "height1": "ຄວາມສູງຕ້ອງຖືກຕ້ອງສໍາລັບການຄິດໄລ່ທີ່ຖືກຕ້ອງຂອງ BMI",
+  "heightUnit": "ຫົວ ໜ່ວຍ ຄວາມສູງ",
+  "hepaticFunction": "Hepatic Function",
+  "hide": "ເຊື່ອງ",
+  "high1": "ສູງ",
+  "high_risk": "ມີ​ຄວາມ​ສ່ຽງ​ສູງ",
+  "history": "ປະຫວັດການປຶກສາຫາລື",
+  "homepage": "ຫນ້າທໍາອິດ",
+  "HOME_WARNING_MESSAGE": "ທ່ານແນ່ໃຈວ່າທ່ານຕ້ອງການນໍາທາງອອກຈາກຫນ້ານີ້ບໍ? ການດັດແກ້ຂອງທ່ານຈະສູນເສຍ.",
+  "hormonalTest": "ການທົດສອບການເຮັດວຽກຂອງຮໍໂມນ",
+  "hospDate": "Hosp.date",
+  "hospit": "Hospitalized for",
+  "hospital": "ໂຮງຫມໍ",
+  "hospitalization": "Hospitalization",
+  "hour": "ຊົ່ວໂມງ",
+  "hours": "ຊົ່ວໂມງ",
+  "HOURS_BANK_DONATE_BTN": "ບໍ​ລິ​ຈາກ",
+  "HOURS_BANK_DONATION": "ປະຈຸບັນບໍລິຈາກ:",
+  "HOURS_BANK_H": "Hours Bank:",
+  "HOURS_BANK_SECTION_P1": "ສຸຂະພາບແມ່ນເປັນບູລິມະສິດສູງສຸດຂອງພວກເຮົາທີ່ SaluberMD ແລະພວກເຮົາຕ້ອງການໃຫ້ຜູ້ຄົນເປັນຈໍານວນຫຼາຍເທົ່າທີ່ເປັນໄປໄດ້. ໂດຍຜ່ານເວທີຂອງພວກເຮົາພວກເຮົາກໍາລັງເຮັດໃຫ້ມັນເປັນໄປໄດ້ສໍາລັບຜູ້ທີ່ຈໍາເປັນຕ້ອງມີການເຂົ້າເຖິງການດູແລສຸຂະພາບ. ທີມງານເຜີຍແຜ່ຂອງພວກເຮົາແມ່ນມຸ່ງຫມັ້ນທີ່ຈະໃຫ້ໂອກາດການດູແລສຸຂະພາບແກ່ບັນດາອົງການ, ບຸກຄົນແລະຄອບຄົວທີ່ຕ້ອງການ.",
+  "HOURS_BANK_SECTION_P2": "ພຽງແຕ່ຄລິກໃສ່ການເຊື່ອມຕໍ່ກັບວິທີການຈໍານວນຊົ່ວໂມງທີ່ທ່ານຕ້ອງການທີ່ຈະບໍລິຈາກແລະພວກເຮົາຈະເພີ່ມພວກເຂົາໃຫ້ກັບທະນາຄານຂອງພວກເຮົາ.",
+  "HOURS_BANK_SECTION_P3": "ພວກເຮົາຈະຕິດຕໍ່ທ່ານຜ່ານ app ເພື່ອແລກເງິນຊົ່ວໂມງແລະເວລາທີ່ທ່ານມີຢູ່ພຽງແຕ່ຄລິກຍອມຮັບເພື່ອເບິ່ງຄົນເຈັບ.",
+  "HOURS_BANK_SECTION_TITLE": "ເຂົ້າຮ່ວມກັບພວກເຮົາໃນການໃຫ້ຂອງປະທານແຫ່ງສຸຂະພາບ!",
+  "HOURS_BANK_TITLE": "Hours Bank",
+  "howto": "ວິທີການ",
+  "howto1": "ສະລັອດຕິງທີ່ມີຢູ່ແມ່ນມີບານສີຂຽວ",
+  "howto2": "ເລືອກຫ້ອງທີ່ມີບານສີຂຽວແລະໃຫ້ຄລິກໃສ່ມັນເພື່ອຂະຫຍາຍແລະເລືອກເວລາ. ເມື່ອທ່ານພ້ອມແລ້ວໃຫ້ຄລິກໃສ່ສັນຍາລັກ pencil ເພື່ອເບິ່ງລາຍລະອຽດແລະເອົາການນັດຫມາຍ",
+  "howToPrice": "ລາຄາຕ້ອງເປັນຕົວເລກມູນຄ່າ. ຢ່າງ ໜ້ອຍ ມີມູນຄ່າສອງອັດຕານິຍົມ. ຈຸດຫລືຈຸດສາມາດໃຊ້ເປັນຕົວແຍກ",
+  "hrv_buono": "ດີ",
+  "hrv_eccellente": "ດີຫລາຍ",
+  "hrv_generale": "ທົ່ວໄປ",
+  "hr_alta": "ຫລາຍກວ່າ 100",
+  "hr_bassa": "ນ້ອຍກວ່າ 60",
+  "HR_DESCRIPTION": "ຕາລາງການອ້າງອິງຂອງອັດຕາການເຕັ້ນຫົວໃຈປົກກະຕິ",
+  "HR_INTERVAL": "HR Measure Interval",
+  "hr_normale": "ລະຫວ່າງ 60 ແລະ 100",
+  "hsh": "Hospitalization and Surgical History",
+  "IBAN": "IBAN",
+  "idx": "ດັດນີ",
+  "image": "ຮູບພາບ",
+  "images": "ຮູບພາບຕ່າງໆ",
+  "immunization": "ການສັກຢາປ້ອງກັນ",
+  "immunizationmenu": "ການສັກຢາປ້ອງກັນ",
+  "importhealth": "ນຳ ເຂົ້າຂໍ້ມູນສຸຂະພາບ",
+  "impossible_transfer": "ບໍ່ສາມາດ trasfer ໂທໄດ້",
+  "INCH": "Inch",
+  "indexes": "ດັດນີ",
+  "indication": "ການຊີ້ບອກ",
+  "INFO_BTN": "Info",
+  "info_salvate": "ຂໍ້ມູນທີ່ບັນທຶກໄວ້ແລ້ວແລ້ວ",
+  "iniezione": "ການສັກຢາ",
+  "initiative": "ການລິເລີ່ມ",
+  "initiativeerror": "ກະລຸນາເລືອກເອົາການລິເລີ່ມຫນຶ່ງ",
+  "insert": "ໃສ່",
+  "inserttext": "ໃສ່ຂໍ້ຄວາມທີ່ນີ້",
+  "insert_otp_code": "ໃສ່ລະຫັດໃສ່ບ່ອນນີ້",
+  "internet_missing": "ທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ",
+  "invalidemail": "ທີ່ຢູ່ອີເມວບໍ່ຖືກຕ້ອງ",
+  "invoice": "ໃບແຈ້ງຫນີ້",
+  "irregulartest": "ການທົດສອບທີ່ບໍ່ສະຫມໍ່າສະເຫມີ",
+  "kcal": "kcal",
+  "kg": "ກິ​ໂລກ​ຣາມ",
+  "KG_LABEL": "ກິ​ໂລກ​ຣາມ",
+  "kydneyTests": "ການກວດການເຮັດວຽກຂອງ ໝາກ ໄຂ່ຫຼັງ",
+  "labtesting": "ເຄືອຂ່າຍ",
+  "LANGUAGE": "ພາສາ",
+  "LANGUAGE_TYPE": "ພາສາ",
+  "lastmeasure": "ມາດຕະການສຸດທ້າຍ",
+  "lastName": "ນາມ​ສະ​ກຸນ",
+  "lastPhysical": "Last Physical",
+  "lastSync": "Last Sync",
+  "lastTimeOnline": "Last Time Online",
+  "lastvisit": "Last visit",
+  "last_login_date": "ວັນເຂົ້າສູ່ລະບົບຄັ້ງສຸດທ້າຍ",
+  "last_time_taken": "ໃຊ້ເວລາສຸດທ້າຍ",
+  "LDL": "Cholesterol LDL",
+  "ldl_cholesterol_desc": "LDL, ຫຼື lipoprotein ທີ່ມີຄວາມ ໜາ ແໜ້ນ ຕ່ ຳ ແມ່ນ cholesterol ທີ່ບໍ່ດີ. ຕາຕະລາງຕໍ່ໄປນີ້ສະແດງຂອບເຂດຂອງຄ່າຕ່າງໆ",
+  "leggero": "ແສງສະຫວ່າງ",
+  "LICENSE_NUMBER": "ເລກໃບອະນຸຍາດ",
+  "LIGHT_SLEEP_TIME": "Light Sleep",
+  "listcall": "ລາຍຊື່ຂອງ videocall ເຮັດແລ້ວ",
+  "litri": "ລິດ",
+  "liverExam": "ທົດສອບການເຮັດວຽກຂອງຕັບ",
+  "LIVE_ECG": "ການວັດໃຫມ່",
+  "live_ecg_downloading": "ດາວໂຫລດ ECG. ກະ​ລຸ​ນາ​ລໍ​ຖ້າ...",
+  "loadEcgList": "Loading EKG list ...",
+  "loading": "Loading data ...",
+  "loading1": "ກໍາລັງໂຫລດ",
+  "loading_list": "Loading list",
+  "loading_list_nutritionist": "Loading nutritionists",
+  "LOAD_INDEX": "Load",
+  "LOAD_INDEX_DESCRIPTION": "ລະດັບແລະຄວາມອຶດອັດ, ຄວາມກົດດັນການພິຈາລະນາຢ່າງສົມບູນຂອງຮ່າງກາຍທີ່ຈະຮັບຜິດຊອບດັດຊະນີການໂຫຼດ, ສະທ້ອນໃຫ້ເຫັນກ່ຽວກັບດ້ານຮ່າງກາຍແລະທາງດ້ານຈິດໃຈຂອງປະຊາຊົນທີ່ຮັບຜິດຊອບສະຖານະການການໂຫຼດ. ສັງຄົມພາຍນອກ, ຊີວິດແລະການແຂ່ງຂັນແລະປັດໃຈອື່ນໆ, ແຕ່ດ້ວຍສະພາບການທາງດ້ານຮ່າງກາຍແລະທາງຈິດໃຈຂອງເຂົາເຈົ້າເອງ.",
+  "LOAD_ITEMS": "ກໍາລັງໂຫລດ",
+  "LOGGING_IN": "ການເຂົ້າສູ່ລະບົບ ...",
+  "LOGGING_OUT": "ອອກຈາກລະບົບ ...",
+  "LOGIN_BTN": "ເຂົ້າ​ສູ່​ລະ​ບົບ",
+  "LOGIN_ERROR": "ຊື່ຜູ້ໃຊ້ທີ່ບໍ່ຖືກຕ້ອງຫຼືລະຫັດຜ່ານ",
+  "Logout": "ອອກ​ຈາກ​ລະ​ບົບ",
+  "logout1": "ອອກ​ຈາກ​ລະ​ບົບ",
+  "LOGOUT_BTN": "ອອກ​ຈາກ​ລະ​ບົບ",
+  "low1": "ຕ່ໍາ",
+  "lunch": "ອາຫານທ່ຽງ",
+  "lungtest": "ໃຫ້ເຮັດການທົດສອບປອດ",
+  "M": "ຜູ້​ຊາຍ",
+  "male": "ຜູ້​ຊາຍ",
+  "manageapp": "ຈັດການການນັດຫມາຍ",
+  "manageslot": "ຈັດການສລອງຟລີ",
+  "MANAGE_CORX": "Manage Corx",
+  "mandatoryDays": "ກະລຸນາ, ລະບຸ ຈຳ ນວນມື້",
+  "mandatoryfield": "ກະລຸນາກອກຂໍ້ມູນທັງຫມົດທີ່ຕ້ອງການ",
+  "map": "ແຜນທີ່",
+  "max_file_size": "ຂະ ໜາດ ຂອງເອກະສານຕ້ອງນ້ອຍກວ່າ",
+  "meals": "ອາຫານ",
+  "medicalconsultation": "ການປຶກສາຫາລື",
+  "medicalfile": "ຮູບພາບຕ່າງໆ",
+  "medicalform": "ແບບຟອມທາງການແພດ",
+  "medicalforms": "ແບບຟອມທາງການແພດ",
+  "medicalinfo": "Medical Info",
+  "medicalrecord": "Medical Record",
+  "medical_2option": "Medical Second Opinion",
+  "MEDICAL_CERTIFICATE": "ໃບຢັ້ງຢືນການແພດ",
+  "MEDICAL_FILE_BTN": "Medical File",
+  "medication": "ການໃຊ້ຢາ",
+  "medication_name": "ຊື່ຢາ",
+  "medicinereminders": "ຄໍາເຕືອນຢາຂອງຂ້ອຍ",
+  "medio": "ປານກາງ",
+  "medium1": "ປານກາງ",
+  "message": "ຂໍ້ຄວາມ",
+  "messagesent": "ຂໍ້ຄວາມຖືກສົ່ງໄປແລ້ວ",
+  "metabolismTest": "ການທົດສອບການລະເມິດ",
+  "method": "ວິທີການ",
+  "METRIC": "Metric",
+  "middedcall2": "ທ່ານມີການໂທທີ່ບໍ່ໄດ້ຮັບການຕອບຮັບຈາກ",
+  "minutes": "ນາທີ",
+  "missedcall": "SaluberMd Missed videocall",
+  "missedcall1": "Missed Call",
+  "missedNotiAlert": "ທ່ານມີບາງແຈ້ງການທີ່ພາດໂອກາດນີ້.",
+  "misurazioni": "ບັນທຶກ",
+  "misure": "ວັດແທກ",
+  "mobile": "ໂທລະສັບມືຖື",
+  "mobile_required": "ກະລຸນາເພີ່ມຫມາຍເລກໂທລະສັບຂອງທ່ານເພື່ອວ່າພວກເຮົາສາມາດຕິດຕໍ່ທ່ານເພື່ອຈັດແຈງການນັດຫມາຍ.",
+  "moderate_risk": "ຄວາມສ່ຽງປານກາງ",
+  "MONDAY": "ວັນຈັນ",
+  "month": "ເດືອນ",
+  "mood": "ກຸ່ມອາລົມ",
+  "moodDescription": "ຕົວຊີ້ວັດທີ່ສໍາຄັນຂອງລັດດ້ານອາລົມຂອງຜູ້ເວົ້າໃນລະຫວ່າງການວິເຄາະສຽງສ່ວນ. API ໄດ້ຜະລິດທັງຫມົດ 11 ກຸ່ມໂປຣແກຣມທີ່ແຕກຕ່າງຈາກຄວາມໃຈຮ້າຍ, ຄວາມໂດດດ່ຽວແລະການຄວບຄຸມຕົນເອງເພື່ອຄວາມສຸກແລະຄວາມຕື່ນເຕັ້ນ.",
+  "moreDays": "ຫລາຍວັນ",
+  "motivazione": "ເຫດ​ຜົນ",
+  "MRGraph": "ປະຫວັດສາດການແພດ",
+  "msgAppointment": "ການແຕ່ງຕັ້ງໄດ້ຈັດຕັ້ງປະຕິບັດຢ່າງສໍາເລັດຜົນ. ທ່ານຈະພົບກັບການນັດຫມາຍຂອງທ່ານໃນສ່ວນຊ່ວຍເຫຼືອຂອງເຈົ້າຫນ້າທີ່ປຽບທຽບ.",
+  "msgsurveysent": "ການສໍາຫຼວດສົ່ງຜົນສໍາເລັດ",
+  "msg_call_reconnection": "ພະຍາຍາມເຊື່ອມຕໍ່ ...",
+  "MSG_CALL_TRANSFERED": "videocall ໄດ້ຖືກໂອນສົບຜົນສໍາເລັດ",
+  "MSG_CHOOSE_OPTION": "ກະລຸນາເລືອກທາງເລືອກ",
+  "MSG_CHOOSE_OPTION4": "ເລືອກທາງເລືອກ",
+  "MSG_CHOOSE_OPTION5": "ອະທິບາຍອາຫານເຊົ້າຂອງທ່ານ",
+  "MSG_CHOOSE_OPTION6": "ອະທິບາຍອາຫານຄ່ໍາຂອງທ່ານ",
+  "MSG_CHOOSE_OPTION7": "ອະທິບາຍອາຫານທ່ຽງຂອງທ່ານ",
+  "MSG_CHOOSE_OPTION8": "ອະທິບາຍ snaks ຂອງທ່ານ",
+  "MSG_CHOOSE_OPTION9": "ກະລຸນາຕອບທຸກຄໍາຖາມ",
+  "MSG_CHOOSE_OPTION_2": "ກະລຸນາໃສ່ລາຍລະອຽດ",
+  "MSG_CHOOSE_OPTION_3": "ເລືອກຢ່າງຫນ້ອຍຫນຶ່ງທາງເລືອກ",
+  "MSG_COMPLETE_PROFILE": "ເຈົ້າຢາກໄປບໍ?",
+  "MSG_CONFIRM_EMAIL": "ກະລຸນາຢືນຢັນອີເມວຂອງທ່ານ",
+  "MSG_CONFIRM_EMAIL_TEXT": "ພວກເຮົາໄດ້ສົ່ງອີເມວໃຫ້ທ່ານດ້ວຍຄໍາແນະນໍາກ່ຽວກັບວິທີຢືນຢັນທີ່ຢູ່ອີເມວຂອງທ່ານ. ກະລຸນາກວດເບິ່ງກ່ອງຈົດຫມາຍຂອງທ່ານ.",
+  "msg_connected": "ເຊື່ອມຕໍ່ໄດ້ຢ່າງຕໍ່ເນື່ອງ",
+  "MSG_CONTACT_SUCCESS": "ຂໍຂອບໃຈສໍາລັບການສະເຫນີຂອງທ່ານ.",
+  "MSG_DOC_ENDED_CALL": "ທ່ານຫມໍໄດ້ສິ້ນສຸດການໂທ",
+  "MSG_DOC_WAITING_CALL": "ທ່ານຫມໍໄດ້ປິດການເຊື່ອມຕໍ່, ລໍຖ້າສໍາລັບການເຊື່ອມຕໍ່ຄືນໃຫມ່",
+  "MSG_DONATION": "ຢືນຢັນການບໍລິຈາກຂອງທ່ານ?",
+  "MSG_DONATION_CONFIRM": "ຂອບໃຈສໍາລັບການບໍລິຈາກຂອງທ່ານ",
+  "MSG_ERROR_FILL_BOXES": "ກະລຸນາກອກກ່ອງດ້ວຍຄ່າທີ່ຖືກຕ້ອງ",
+  "MSG_FILL_ALL_BOXES": "ກະລຸນາກອກກ່ອງທັງຫມົດ",
+  "MSG_FILL_ALL_SELECTED_BOXES": "ກະລຸນາເຮັດສໍາເລັດທຸກຂົງເຂດຕໍ່ໄປນີ້",
+  "MSG_FILL_BOXES": "ກະລຸນາກອກກ່ອງໄວ້",
+  "MSG_FILL_BOXES_ALL": "ກະລຸນາ, ກະລຸນາຕື່ມໃສ່ທຸກໆຂົງເຂດ",
+  "MSG_FILL_BOXES_PROFILE": "ກະລຸນາກອກກ່ອງທັງຫມົດທີ່ຫມາຍດ້ວຍດາວ",
+  "MSG_GENERIC_ERROR": "ກະລຸນາກວດສອບການເຊື່ອມຕໍ່ອິນເຕີເນັດຂອງທ່ານທີ່ຈະລອງໃຫມ່.",
+  "MSG_GENERIC_FORM_ERROR": "ກະລຸນາແກ້ໄຂຄວາມຜິດພາດທີ່ຈະສືບຕໍ່",
+  "MSG_LOGIN_ERROR": "Login failed ກະລຸນາກວດເບິ່ງຂໍ້ມູນປະຈໍາຕົວຂອງທ່ານແລະໃຫ້ແນ່ໃຈວ່າທ່ານໄດ້ເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ.",
+  "MSG_LOGIN_ERROR_LOCKED": "ເຂົ້າສູ່ລະບົບລົ້ມເຫລວ: ບັນຊີຂອງທ່ານຖືກລັອກຊົ່ວຄາວ. Please try later",
+  "MSG_MANDATORY_OPTION": "ທ່ານຕ້ອງອະນຸຍາດໃຫ້ທ່ານຫມໍເບິ່ງເອກະສານທາງການແພດ",
+  "MSG_NO_DOCTORS_FOUND": "ພວກເຮົາ apolozie, ແຕ່ວ່າບໍ່ມີແພດຫມໍໄດ້ຖືກພົບເຫັນ. ກົດຫາແພດເພື່ອທົດລອງໃຊ້ໃຫມ່",
+  "MSG_PATIENT_CANCELED_CALL": "ຄົນເຈັບໄດ້ຍົກເລີກການໂທຫາ.",
+  "MSG_PATIENT_ENDED_CALL": "ຄົນເຈັບໄດ້ສິ້ນສຸດການໂທ",
+  "MSG_PATIENT_WAITING_CALL": "ຄົນເຈັບໄດ້ຖືກປິດການເຊື່ອມຕໍ່, ລໍຖ້າສໍາລັບການເຊື່ອມຕໍ່ຄືນໃຫມ່",
+  "MSG_POST_CALL_CANCEL": "ທ່ານໄດ້ສິ້ນສຸດການຢ້ຽມຢາມກ່ອນທີ່ຈະເລີ່ມຕົ້ນ videocall!",
+  "MSG_POST_CALL_DOCTOR": "ຂໍ້ສະຫຼຸບສົ່ງທ່ານຈະກັບໄປຫນ້າທໍາອິດ",
+  "MSG_POST_CALL_PATIENT": "ຂອບໃຈສໍາລັບການໃຊ້ SaluberMD. ທ່ານຈະໄດ້ຮັບອີເມວຕິດຕາມ. ເພື່ອເບິ່ງລາຍລະອຽດກ່ຽວກັບການຢ້ຽມຢາມຂອງທ່ານກະລຸນາຢ້ຽມຊົມໂປແກຼມ Profile-Visit History",
+  "msg_reconnection_error": "Device disconnected. ກະລຸນາ recconnect ອຸປະກອນ",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "ຂອບໃຈ .... ຄົນທີ່ຈະຕິດຕໍ່ທ່ານ",
+  "MSG_REGISTRATION_SUCCESS": "ການຈົດທະບຽນຂອງທ່ານໄດ້ຮັບຜົນສໍາເລັດ",
+  "msg_req_videocall1": "ສາມາດໃຊ້ໄດ້ສໍາລັບ videocall ໃນ:",
+  "msg_req_videocall2": "videocall ແມ່ນກຽມພ້ອມທີ່ຈະເລີ່ມຕົ້ນ. ກົດການແຈ້ງເຕືອນນີ້ເພື່ອເປີດໃຊ້ videocall",
+  "msg_req_videocall3": "ແມ່ນສາມາດໃຊ້ໄດ້ສໍາລັບ videocall ໃນປັດຈຸບັນ. ກົດການແຈ້ງເຕືອນນີ້ເພື່ອເປີດໃຊ້ videocall",
+  "MSG_RESET_REQUEST_ERROR": "ຜູ້ໃຊ້ທີ່ມີຊື່ຜູ້ໃຊ້ຫຼືອີເມວນີ້ບໍ່ມີ.",
+  "MSG_RESET_REQUEST_SUCCESS": "ທ່ານຈະໄດ້ຮັບໃນໄວໆນີ້ອີເມວທີ່ມີລິ້ງເພື່ອປັບລະຫັດຜ່ານ.",
+  "MSG_RESUME_CALL": "ທ່ານປະຈຸບັນມີການໂທ, ທ່ານຢາກສືບຕໍ່ມັນບໍ?",
+  "MSG_SCHOOL_MISSING": "Insert School",
+  "MSG_SELECT_TIMEZONE": "ເລືອກໂຊນເວລາ",
+  "MSG_SIGNATURE_MISSING": "ກະລຸນາຂຽນລາຍເຊັນຂອງທ່ານ, ຖ້າບໍ່ດັ່ງນັ້ນທ່ານບໍ່ສາມາດສົ່ງຄໍາສັ່ງໃດໆໄດ້.",
+  "MSG_THANKING": "ຂໍຂອບໃຈສໍາລັບການສະເຫນີຂອງທ່ານ.",
+  "MSG_VIDEOCALL_DISCONNECTED": "ການເຊື່ອມຕໍ່ສູນເສຍ. ນີ້ອາດແມ່ນຍ້ອນການເຊື່ອມຕໍ່ອິນເຕີເນັດຂອງທ່ານ",
+  "MSG_WELCOME_BACK": "ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ກັບ",
+  "MSG_YEAR_PRACTISE": "Insert Year of Practice",
+  "muscles": "ກ້າມເນື້ອ",
+  "myappointment": "ການນັດຫມາຍຂອງຂ້ອຍ",
+  "MYFILE_NOFILE": "ທ່ານຍັງບໍ່ມີໄຟລ໌ໃດເທື່ອ",
+  "MYFILE_SECTION": "ໄຟລ໌ຂອງທ່ານ",
+  "MYFILE_SUBTITLE": "ກົດໃສ່ແຕ່ລະລາຍການເພື່ອເບິ່ງເນື້ອຫາຂອງໄຟລ໌",
+  "MYFILE_TITLE": "My Files",
+  "myprofile": "My Profile",
+  "myreminders": "ຄໍາເຕືອນຂອງຂ້ອຍ",
+  "MY_TICKETS": "ປີ້ຂອງທ່ານ",
+  "M_SCHOOL": "ໂຮງຮຽນແພດ",
+  "N": "No",
+  "name": "ຊື່",
+  "negative": "ລົບກວນ",
+  "nervous": "Nervous",
+  "nessun_appuntamento": "ບໍ່ມີການແຕ່ງຕັ້ງທີ່ຜ່ານມາ",
+  "NETWORK_CHECK_MSG": "ແບນວິດຂອງທ່ານຕ່ໍາເກີນໄປ. ການຫຼິ້ນເນື້ອຫາທີ່ມີແບນວິດຕ່ໍາຈະເຮັດໃຫ້ວິດີໂອຢຸດເຊົາ.",
+  "NETWORK_CHECK_TITLE": "Call Quality Test",
+  "NETWORK_ERROR": "Internet Connection Error ລອງໃຫມ່ອີກຄັ້ງຕໍ່ມາ",
+  "neutral": "Neutral",
+  "newappointment": "ການແຕ່ງຕັ້ງໃຫມ່ຈາກ",
+  "newass": "ເພີ່ມສະມາຄົມໃຫມ່",
+  "NEWPWD_CONFIRM": "Password changed successfully. ກະລຸນາເຂົ້າສູ່ລະບົບອີກຄັ້ງ.",
+  "NEWPWD_CONFIRM2": "ລະຫັດຜ່ານທີ່ມີການປ່ຽນແປງຢ່າງມີຄວາມສຸກ",
+  "NEWPWD_ERROR": "ລະຫັດຜ່ານທີ່ບໍ່ຖືກຕ້ອງ.",
+  "newtest": "ກົດປຸ່ມບວກກັບການທົດສອບໃຫມ່.",
+  "NEW_PWD": "ລະຫັດຜ່ານໃຫມ່",
+  "new_ticket": "ປີ້ ໃໝ່",
+  "NEXT": "ຕໍ່ໄປ",
+  "no": "No",
+  "noAlarm": "No alarm set",
+  "noallergies": "ມີອາການແພ້ທີ່ບໍ່ມີລາຍຊື່.",
+  "noapatient": "ບໍ່ພົບຄົນເຈັບ",
+  "noappointment": "ບໍ່ມີການແຕ່ງຕັ້ງກໍານົດເວລາ",
+  "noappointments": "ບໍ່ມີວັນທີ່ມີແພດນີ້",
+  "noappointments1": "ບໍ່ມີວັນທີ່ມີນັກໂພຊະນາການນີ້",
+  "noAppoPat": "ບໍ່ມີການນັດ ໝາຍ ໃຫ້ລົງລາຍຊື່",
+  "noarticles": "ບໍ່ມີບົດຄວາມໂພຊະນາການ",
+  "noassociatedpatient": "ທ່ານບໍ່ມີຜູ່ຕິດເຊື້ອໃດໆທີ່ກ່ຽວຂ້ອງ",
+  "noattachment": "ກະລຸນາເລືອກເອກະສານຕິດຕໍ່",
+  "noattachment1": "No Attachment",
+  "noavailableoption": "ບໍ່ມີທາງເລືອກ",
+  "nocomment": "ບໍ່ມີຄໍາເຫັນ / ຄໍາສະເຫນີ",
+  "noconsulenze": "ບໍ່ມີການຢ້ຽມຢາມແລ້ວ",
+  "nocorxfound": "ບໍ່ພົບ CORX",
+  "nodata": "ບໍ່ມີຂໍ້ມູນ",
+  "nodependency": "ບໍ່ມີຄວາມກ່ຽວຂ້ອງໃດໆທີ່ລະບຸ.",
+  "nodesease": "ມີພະຍາດທີ່ບໍ່ມີລາຍຊື່.",
+  "nodevice": "ບໍ່ພົບອຸປະກອນ, ກະລຸນາລອງໃຫມ່",
+  "nodoctor": "ບໍ່ມີແພດພົບ",
+  "nodoctors": "ບໍ່ມີແພດຫມໍ",
+  "noDocuments": "ບໍ່ມີເອກະສານທີ່ຖືກອັບໂຫລດ",
+  "nodrugselected": "ທ່ານໄດ້ເລືອກຢາທີ່ບໍ່ມີ",
+  "noecg": "ບໍ່ມີ ECG ລາຍຊື່",
+  "noexam": "ບໍ່ມີການສອບເສັງທີ່ຈະສະແດງ",
+  "nofiles": "ບໍ່ມີໄຟລ໌ທີ່ອັບໂຫລດໂດຍຜູ້ປ່ວຍ",
+  "noHistory": "ບໍ່ມີການປຶກສາຫາລືໃນຂະນະນີ້",
+  "nohsh": "ບໍ່ມີການເຂົ້າໂຮງຫມໍທີ່ມີລາຍຊື່.",
+  "noimages": "ບໍ່ມີການຕິດຕັ້ງໃນປັດຈຸບັນ",
+  "noimmunization": "ບໍ່ມີການຕິດເຊື້ອໃດກໍ່ຕາມ.",
+  "nolabtest": "ບໍ່ມີການທົດລອງທົດລອງພົບ",
+  "nomedication": "ບໍ່ມີຢາປິ່ນປົວທີ່ມີລາຍຊື່.",
+  "nomisure": "ມີມາດຕະການບໍ່ມີ",
+  "nonterminata": "ໂທຫາບໍ່ສໍາເລັດ",
+  "nonutritionist": "ບໍ່ມີໂພຊະນາການທີ່ມີ",
+  "nonuvoair": "ບໍ່ພົບອຸປະກອນ",
+  "nopharmacy": "ຮ້ານຢາບໍ່ພົບ",
+  "noprescription": "ບໍ່ມີຢາຕາມໃບສັ່ງແພດໃນປັດຈຸບັນ",
+  "noprothesis": "ບໍ່ມີປະຕິກິລິຍາຫຼືການຊ່ວຍເຫຼືອທາງດ້ານການແພດທີ່ມີລາຍຊື່.",
+  "noreferrals": "ມີການອ້າງອິງບໍ່ມີລາຍຊື່",
+  "noreminders": "ທ່ານບໍ່ມີຄໍາເຕືອນສໍາລັບຕອນນີ້",
+  "noresults": "ບໍ່ພົບຜົນໄດ້ຮັບ",
+  "normale": "Normal",
+  "normalrange": "ປະລິມານປະກະຕິ",
+  "normalWeight": "ນ້ໍາຫນັກປະກະຕິ",
+  "nosintomi": "ບໍ່ມີອາການທີ່ເລືອກ",
+  "nospecialist": "ບໍ່ມີຜູ້ຊ່ຽວຊານ",
+  "note": "ຫມາຍເຫດ",
+  "notests": "ບໍ່ມີການກວດສອບທີ່ບໍ່ສະຫມໍ່າສະເຫມີມີໄວ້.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "ກົດທີ່ນີ້ເພື່ອສໍາເລັດຮູບສໍາເລັດຂອງທ່ານ",
+  "NOTIFICATIONS_SECTION": "ການແຈ້ງເຕືອນຂອງທ່ານ",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "ໄດ້ຮັບການປຶກສາຫາລືຫຼືໂທຫາການປະເມີນຜົນສຸຂະພາບແບບບໍ່ເສຍຄ່າ 1 ຄັ້ງຫຼັງຈາກທີ່ທ່ານເຮັດສໍາເລັດຂໍ້ມູນທາງການແພດຂອງທ່ານ.",
+  "NOTIFICATIONS_SETTINGS": "ຕັ້ງຄ່າການແຈ້ງເຕືອນ",
+  "NOTIFICATIONS_TITLE": "ແຈ້ງການ",
+  "notification_setting": "ເລືອກຈາກຫມວດຫມູ່ທີ່ທ່ານຢາກໄດ້ຮັບການແຈ້ງເຕືອນ",
+  "notimage": "ໄຟລ໌ບໍ່ແມ່ນຮູບພາບ: ມີພຽງແຕ່ BMP, GIF, JPG ແລະ PNG ເທົ່ານັ້ນ",
+  "notNow": "ບໍ່​ແມ່ນ​ຕອນ​ນີ້",
+  "notnow_btn": "ບໍ່​ແມ່ນ​ຕອນ​ນີ້",
+  "nouser": "ບໍ່ພົບຜູ້ໃຊ້",
+  "novantad": "90 ວັນສຸດທ້າຍ",
+  "novideocall": "ບໍ່ພົບ videocall",
+  "novisit": "ທ່ານບໍ່ມີການຢ້ຽມຢາມຄົນເຈັບເທື່ອ",
+  "noWellnessData": "No New Wellness Data",
+  "no_certificate": "ບໍ່ມີໃບຢັ້ງຢືນທີ່ຈະຖືກລະບຸ",
+  "no_chiosc_data": "ບໍ່ມີການທົດລອງຫ້ອງທົດລອງເພື່ອເບິ່ງ",
+  "NO_DATA": "ບໍ່ມີຂໍ້ມູນ",
+  "no_doctor_answer1": "ບໍ່ມີແພດທີ່ມີຢູ່ໃນປັດຈຸບັນ.",
+  "no_doctor_answer2": "ທ່ານສາມາດໃຊ້ເວລານັດຫມາຍໄດ້ໂດຍການຄລິກໃສ່ປຸ່ມຂ້າງລຸ່ມນີ້.",
+  "NO_GENETIC_TEST_REQUESTS": "ທ່ານບໍ່ໄດ້ຮຽກຮ້ອງໃຫ້ມີການທົດສອບພັນທຸກໍາໃດໆ",
+  "NO_MSG": "ບໍ່ມີຂໍ້ຄວາມຖືກສົ່ງໄປ",
+  "no_notifications": "ທ່ານບໍ່ມີການແຈ້ງເຕືອນ",
+  "no_prescription_download": "ບໍ່ມີຄໍາສັ່ງກ່ຽວກັບການປຶກສາຫາລືນີ້",
+  "no_pull_answer": "ບໍ່ມີແພດທັນທີທັນໃດ.",
+  "no_referral_download": "ບໍ່ມີການສົ່ງຕໍ່ທີ່ກ່ຽວຂ້ອງກັບການຢ້ຽມຢາມນີ້",
+  "NO_SECOND_OP_REQUESTS": "ທ່ານບໍ່ມີຄໍາຮ້ອງຂໍສໍາລັບການບໍລິການຄວາມເຫັນທີສອງ",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "ບໍ່ພົບຊ່ຽວຊານ",
+  "NO_TICKETS_SENT": "ບໍ່ມີປີ້ສົ່ງ",
+  "NO_USER_FOUND": "ຊື່ຜູ້ໃຊ້ຫຼື Email ບໍ່ພົບ",
+  "NPI": "NPI",
+  "ns": "ລະ​ບົບ​ປະ​ສາດ",
+  "numberNotSaved": "ຂໍ້ຜິດພາດໃນຂະນະທີ່ປະຢັດຈໍານວນ",
+  "numberSaved": "ຈໍານວນທີ່ໄດ້ບັນທຶກໄວ້ຢ່າງສໍາເລັດຜົນ",
+  "nuovoair_connected": "ເຊື່ອມຕໍ່",
+  "nuovoair_disconnected": "Disconnected",
+  "nutriPen": "ຄໍາຮ້ອງຂໍທີ່ຍັງຄ້າງຢູ່",
+  "nutriRev": "ແບບສອບຖາມການທົບທວນຄືນ",
+  "nutrition": "ໂພຊະນາການ",
+  "nutritionist": "ເວົ້າກັບ nutrionist ເປັນ",
+  "NUTRITIONIST_Q1": "ເປົ້າຫມາຍຕົ້ນຕໍ: (ກວດເບິ່ງທັງຫມົດນໍາໃຊ້)",
+  "NUTRITIONIST_Q10": "ທ່ານມີອາການຄັນຄາຍ, ເບົາຫຼືເບົາຖ້າທ່ານບໍ່ກິນບໍ?",
+  "NUTRITIONIST_Q11": "ການອອກກໍາລັງກາຍໃນປະຈຸບັນ: (Cardio, Resistance, ແລະອື່ນໆ)",
+  "NUTRITIONIST_Q12": "ທ່ານສູບບຸຫລີ່?: (ຖ້າມີ, ເລື້ອຍໆແລະຈໍານວນເທົ່າໃດ?)",
+  "NUTRITIONIST_Q13": "ທ່ານດື່ມເຫຼົ້າບໍ?: (ຖ້າມີ, ເລື້ອຍໆແລະຈໍານວນເທົ່າໃດ?)",
+  "NUTRITIONIST_Q14": "ທ່ານກິນ Caffeine ບໍ?: (ຖ້າມີ, ເລື້ອຍໆແລະຈໍານວນເທົ່າໃດ?)",
+  "NUTRITIONIST_Q15": "Date of Last Physical:",
+  "NUTRITIONIST_Q16": "ທ່ານໄດ້ໃຊ້ຢາຕ້ານເຊື້ອຈໍານວນເທົ່າໃດໃນ 2 ປີຜ່ານມາ:",
+  "NUTRITIONIST_Q16_BIS": "ຖ້າເປັນດັ່ງນັ້ນ, ໃຜແລະວິທີການເລື້ອຍໆ, (ກະລຸນາສະເພາະທີ່ເປັນໄປໄດ້)",
+  "NUTRITIONIST_Q17": "ທ່ານກິນຢາປິ່ນປົວບໍ? (OTC ຫຼືຄໍາສັ່ງ?) ຖ້າເປັນເຊັ່ນນັ້ນ, ໃຜແດ່ແລະທ່ານກິນຢາເສີມບໍ? ຖ້າເປັນດັ່ງນັ້ນ, ເລື້ອຍໆ, (ກະລຸນາສະເພາະທີ່ເປັນໄປໄດ້)",
+  "NUTRITIONIST_Q18": "ທ່ານມີບາດແຜຫຼືບາດແຜຫຼາຍກວ່າ 1-2 ມື້ຕໍ່ອາທິດບໍ?",
+  "NUTRITIONIST_Q19": "ທ່ານມີບັນຫາຢູ່ໃນເຂດດັ່ງຕໍ່ໄປນີ້ບໍ? ຖ້າມີ, ກະລຸນາອະທິບາຍບັນຫາຂອງທ່ານໂດຍລະອຽດໃນສະຖານທີ່ທີ່ໃຫ້.",
+  "NUTRITIONIST_Q2": "ປະມານເກືອບອາຫານທີ່ທ່ານກິນຕໍ່ມື້? (ເລືອກ​ອັນ​ຫນຶ່ງ)",
+  "NUTRITIONIST_Q3": "ອາຫານເຊົ້າຂອງທ່ານປະກອບມີຫຍັງແດ່ແລະເວລາໃດກໍ່ຕາມ:",
+  "NUTRITIONIST_Q4": "ອາຫານທ່ຽງທໍາມະດາຂອງທ່ານປະກອບດ້ວຍເວລາແລະເວລາໃດ:",
+  "NUTRITIONIST_Q5": "ອາຫານຄ່ໍາຂອງທ່ານປະກອບດ້ວຍຫຍັງແລະເວລາໃດກໍ່ຕາມ:",
+  "NUTRITIONIST_Q6": "ສິ່ງທີ່ອາຫານຫວ່າງຂອງທ່ານປະກອບມີ, ແລະເວລາໃດ (s):",
+  "NUTRITIONIST_Q7": "ທ່ານມັກກິນຫຼາຍບໍ?",
+  "NUTRITIONIST_Q8": "ອາຫານທີ່ທ່ານມີແນວໂນ້ມທີ່ຈະກິນເກີນແລະເລື້ອຍເທົ່າໃດ:",
+  "NUTRITIONIST_Q9": "ທ່ານມີອາການແພ້ອາຫານໃດ, ຂໍ້ຈໍາກັດຫຼືຄວາມອ່ອນໄຫວ:",
+  "NUTRITIONIST_SUB1": "ນ​້​ໍ​າ​ຫນັກ​ລົງ",
+  "NUTRITIONIST_SUB10": "ຄື່ນໄສ້ / ຮາກ",
+  "NUTRITIONIST_SUB11": "ອາ​ການ​ເຈັບ​ປວດ​ກະ​ເພາະ​ອາ​ຫານ",
+  "NUTRITIONIST_SUB2": "Weight Gain",
+  "NUTRITIONIST_SUB3": "ພະລັງງານ / ຄວາມຫຍຸ້ງຍາກ",
+  "NUTRITIONIST_SUB4": "Better Sleep",
+  "NUTRITIONIST_SUB5": "Digestion Issues",
+  "NUTRITIONIST_SUB6": "Constipation",
+  "NUTRITIONIST_SUB7": "ພະຍາດຖອກທ້ອງ",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Bloating / Gas",
+  "nutrition_mail": "ບັນທຶກລາຍການໂພຊະນາການ",
+  "nutrition_mail2": "ນັກໂພຊະນາການສົ່ງຂໍ້ມູນໃຫ້ທ່ານ",
+  "nutrition_questionnaire": "nutrition questionnaire",
+  "nvisit": "ຈໍານວນ videocalls ເຮັດໄດ້",
+  "obesity1": "Obese",
+  "obesity2": "ຢ່າງຮ້າຍແຮງ",
+  "obesity3": "Morbidly obese",
+  "OFFICE_ADDRESS": "ທີ່ຢູ່ຫ້ອງການ",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "ທ່ານ ໝໍ ເບິ່ງຄືວ່າທ່ານບໍ່ໄດ້, ກະລຸນາລອງ ໃໝ່ ໃນພາຍຫຼັງ",
+  "OLDPWD_ERROR": "ລະຫັດຜ່ານໃຫມ່ທີ່ກົງກັບລະຫັດຜ່ານເກົ່າ.",
+  "OLD_PASSWORD_WRONG": "ລະຫັດຜ່ານເກົ່າແມ່ນຜິດພາດ",
+  "OLD_PWD": "ລະ​ຫັດ​ຜ່ານ​ເກົ່າ",
+  "oneDay": "ມື້​ຫນຶ່ງ",
+  "one_min": "ໃນ 1 ນາທີ",
+  "online": "ອອນໄລນ໌",
+  "onlinedoctors": "ອອນໄລນ໌ຫມໍ",
+  "openimage": "ໃຫ້ຄລິກໃສ່ຮູບພາບເພື່ອເປີດໃນຫນ້າຈໍເຕັມ",
+  "open_ticket": "ເປີດຕົ໋ວ",
+  "orale": "ໂດຍປາກ",
+  "other": "ອື່ນໆ",
+  "othercbc": "ການສອບເສັງ CBC ອື່ນໆ",
+  "OTHER_PLACEHOLDER": "ກະລຸນາເລືອກພິເສດຂອງທ່ານ",
+  "otoscopy": "Otoscopy",
+  "otp_sent_msg": "ພວກເຮົາໄດ້ສົ່ງລະຫັດຢືນຢັນໃນເບີໂທລະສັບຂອງທ່ານໃຫ້ທ່ານແລ້ວ",
+  "OUR_PRODUCTS_SECTION": "ອຸປະກອນຂອງພວກເຮົາໃຫ້ຂໍ້ມູນດ້ານສຸຂະພາບແລະສຸຂະພາບທີ່ແທ້ຈິງໃນໄລຍະເວລາທີ່ແທ້ຈິງເພື່ອຊ່ວຍໃຫ້ທ່ານຕິດຕາມສຸຂະພາບຂອງທ່ານ.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "ວັດແທກສຸຂະພາບຂອງປອດຂອງທ່ານໃນວິນາທີດ້ວຍ spirometer ເປັນມືອາຊີບ",
+  "OUR_PRODUCTS_SECTION_P1": "ເຕັກໂນໂລຢີ wearable Smart ທີ່ໃຫ້ຂໍ້ມູນສຸຂະພາບທີ່ແທ້ຈິງໃນເວລາທີ່ແທ້ຈິງນອກເຫນືອຈາກການເຮັດວຽກຂອງສຸຂະພາບ",
+  "OUR_PRODUCTS_SECTION_P2": "Benefits Fitness / Wellness",
+  "OUR_PRODUCTS_SECTION_P3": "ຊຸດການວິນິດໄສທີ່ຢູ່ເຮືອນຂອງທ່ານສໍາລັບຄອບຄົວທັງຫມົດ.",
+  "OUR_PRODUCTS_SECTION_P4": "ຄຸນ​ລັກ​ສະ​ນະ",
+  "OUR_PRODUCTS_SECTION_P5": "ອຸປະກອນທັງສອງຖືກອອກແບບມາເພື່ອພົວພັນກັບແອັບຯເພື່ອໃຫ້ມີປະສົບການດ້ານສຸຂະພາບດີ. ຜົນຂອງທ່ານຈະຖືກເກັບໄວ້ໂດຍກົງໃນ app.",
+  "OUR_PRODUCTS_SECTION_PRESX": "ການວັດແທກຄວາມກົດດັນຂອງທ່ານໃນວິນາທີດ້ວຍ sphygmometer ເປັນມືອາຊີບ",
+  "OUR_PRODUCTS_SECTION_SCALX": "ການວັດແທກນ້ໍາຫນັກຂອງທ່ານໃນວິນາທີດ້ວຍລະດັບມືອາຊີບ",
+  "OUR_PRODUCTS_TITLE": "ຜະລິດຕະພັນຂອງພວກເຮົາ",
+  "overeatFoods": "ອາຫານທີ່ໄດ້ຮັບການກະຕຸ້ນ",
+  "overeating": "ການເຫນັງຕີງຫຼາຍເກີນໄປ",
+  "overweight": "Overweight",
+  "pa": "ຜູ້ຊ່ວຍຢາຕາມໃບສັ່ງແພດ",
+  "PASSWORD": "ລະຫັດຜ່ານ",
+  "passwordchanged": "Password changed successfully!",
+  "passwordExpiringMessage": "ລະຫັດຜ່ານຂອງທ່ານຈະຫມົດອາຍຸໄວ. ກະລຸນາປ່ຽນແປງໃນປັດຈຸບັນ",
+  "passwordExpiringTitle": "Password expiring",
+  "PATIENT": "ຄົນເຈັບ",
+  "patientAllergy": "Allergies",
+  "patientGeneticRequests": "ການຮ້ອງຂໍການທົດສອບພັນທຸກໍາ",
+  "patientinfo": "ຂໍ້ມູນຂອງຜູ້ປ່ວຍ",
+  "patientlist": "ລາຍຊື່ຜູ້ປ່ວຍ",
+  "patientmanagement": "ການຮັກສາຜູ້ປ່ວຍ",
+  "patientProtesi": "Prosthesis",
+  "PATIENTS_NO_P": "ທ່ານບໍ່ມີການນັດຫມາຍສໍາລັບຄົນເຈັບຕາມກໍານົດເວລາ",
+  "PATIENTS_SECTION": "ການນັດຫມາຍຂອງທ່ານ",
+  "PATIENTS_SECTION_SUBTITLE": "ກົດໃສ່ແຕ່ລະລາຍການເພື່ອເບິ່ງລາຍລະອຽດເຕັມ",
+  "PATIENTS_TITLE": "ຄົນເຈັບ",
+  "patientupdate": "ຄົນເຈັບ",
+  "patientvisit": "ປະຫວັດການຢ້ຽມຢາມຄົນເຈັບຂອງປະຫວັດສາດ",
+  "PATIENT_PROFILE_OPT1": "My profile",
+  "PATIENT_PROFILE_OPT11": "My Favorites Doctors",
+  "PATIENT_PROFILE_OPT12": "ເພີ່ມຮ້ານຂາຍຢາທີ່ດີທີ່ສຸດ",
+  "PATIENT_PROFILE_OPT2": "ເອກະສານທາງການແພດຂອງຂ້ອຍ",
+  "PATIENT_PROFILE_OPT3": "ປະຫວັດການຢ້ຽມຢາມຂອງຂ້າພະເຈົ້າ",
+  "PATIENT_PROFILE_OPT4": "My Favorites",
+  "PATIENT_PROFILE_OPT5": "My Files",
+  "PATIENT_PROFILE_OPT6": "ການແຈ້ງເຕືອນຂອງຂ້ອຍ",
+  "PATIENT_PROFILE_OPT7": "EKG Upload",
+  "PATIENT_PROFILE_OPT8": "Medical Device Data",
+  "PATIENT_PROFILE_OPT9": "My Favorite Pharmacies",
+  "PATIENT_S1": "ຄົນເຈັບ",
+  "PATIENT_S2": "ເວົ້າ​ກ່ຽວ​ກັບ",
+  "PATIENT_S3": "ຂໍ້ມູນຜູ້ປ່ວຍ",
+  "PATIENT_S4": "ຫົວຂໍ້ຂອງການຢ້ຽມຢາມ",
+  "PATIENT_S5": "ພະຍາດ",
+  "PATIENT_S6": "Allergies",
+  "PATIENT_S7": "ຢາປິ່ນປົວ",
+  "PATIENT_S8": "ເອກສານແນບ",
+  "PATIENT_S9": "ອາການຕ່າງໆ?",
+  "PATIENT_SUMMARY": "ຂໍ້ສະຫຼຸບຂອງຂໍ້ມູນຂອງຄົນເຈັບ",
+  "patologia": "Pathology",
+  "payment": "ການຊໍາລະເງິນ",
+  "PAYMENT_DETAILS": "ລາຍ​ລະ​ອຽດ​ການ​ຊໍາ​ລະ​ເງິນ",
+  "PAYMENT_MESSAGE_1": "ທ່ານຈະໄດ້ຮັບການອະນຸມັດເປັນ ຈຳ ນວນເງິນ",
+  "PAYMENT_MESSAGE_2": "ທ່ານຈະຖືກຮຽກເກັບເງິນໃນຕອນທ້າຍຂອງວິດີໂອ",
+  "PAYMENT_SECTION1": "ເລືອກເອົາບັດຈາກບັນຊີລາຍຊື່",
+  "PAYMENT_SECTION2": "ໃສ່ຄ່າບັດເຄດິດ",
+  "PAYMENT_SUCCESS": "ການຊໍາລະເງິນ Successfull!",
+  "PAYMENT_SUCCESSFUL": "ພວກເຮົາໄດ້ປະສົບຄວາມສໍາເລັດກ່ອນການອະນຸຍາດຈ່າຍເງິນ",
+  "PAYMENT_UNSUCCESSFUL": "ການຊໍາລະເງິນກ່ອນການອະນຸຍາດລົ້ມເຫລວ. ກວດສອບຂໍ້ມູນບັດເຄຣດິດຂອງທ່ານຫຼືຂໍທະນາຄານຂອງທ່ານ.",
+  "paziente_rimosso": "ສະຖານະຂອງຜູ້ປ່ວຍໄດ້ປ່ຽນແປງຢ່າງສໍາເລັດຜົນ",
+  "paziente_salvato": "ຄົນເຈັບໄດ້ປັບປຸງໃຫ້ປະສົບຜົນສໍາເລັດ",
+  "pdf_download_error": "ບໍ່ສາມາດດາວໂຫຼດ pdf. ກະລຸນາລອງອີກເທື່ອຫນຶ່ງ",
+  "pdf_file_error": "ພຽງແຕ່ຍອມຮັບເອກະສານ pdf ເທົ່ານັ້ນ",
+  "period": "ໄລຍະເວລາ",
+  "PERIODIC_HEART_RATE": "Periodic Heart Rate",
+  "personal": "ສ່ວນບຸກຄົນ",
+  "personalCare": "ການດູແລສ່ວນຕົວ",
+  "personalinfo": "ຂໍ້​ມູນ​ສ່ວນ​ຕົວ",
+  "PER_MIN": "/ ນາທີ",
+  "pharmacies": "ຮ້ານຂາຍຢາ",
+  "PHONE": "ເບີ​ໂທລະ​ສັບ",
+  "phone1": "ໂທລະສັບ",
+  "pills": "ຢາສູບ",
+  "PILLS_DATE_ERROR": "ວັນທີເລີ່ມຕົ້ນແມ່ນຫຼັງຈາກວັນທີສິ້ນສຸດ",
+  "pill_reminder_message": "ມັນເປັນເວລາທີ່ຈະກິນຢາຂອງທ່ານ",
+  "placeholder": "ຊື່ຜູ້ໃຊ້, ອີເມວຫຼືຊື່",
+  "placeOfBirth": "ສະ​ຖານ​ທີ່​ເກີດ",
+  "place_birth": "ສະ​ຖານ​ທີ່​ເກີດ",
+  "platform": "ແພລະຕະຟອມ",
+  "poc": "ປຊຊ",
+  "POLICY_NUMBER": "ຫມາຍເລກນະໂຍບາຍ",
+  "positive": "ທາງບວກ",
+  "POSTCALL_DOCTOR_TITLE": "ລາຍລະອຽດຂອງການຢ້ຽມຢາມ",
+  "POSTCALL_PATIENT_TITLE": "ກະລຸນາໃຫ້ປະເມີນປະສົບການຂອງທ່ານ",
+  "POUNDS": "ປອນ",
+  "PRACTICE_LENGTH": "ຄວາມຍາວໃນການປະຕິບັດ",
+  "prenota": "ຈອງຕອນນີ້",
+  "prenotatest": "ຕ້ອງການນັດຫມາຍ",
+  "preobesity": "Pre-obesity",
+  "prescription": "prescription",
+  "prescriptiondiscounts": "Discount Prescriptions",
+  "PRESCRIPTIONS": "Prescriptions",
+  "prescriptions_sent": "ຄໍາສັ່ງຖືກສົ່ງໄປ",
+  "prescription_mail": "ຕິດຕໍ່ມີຄໍາສັ່ງຂອງທ່ານ",
+  "prescription_mail2": "ຂອບໃຈສໍາລັບການໃຊ້ SaluberMD",
+  "prescription_notification": "ຜູ້ທີ່ຮັກແພງ, ພວກເຮົາແຈ້ງໃຫ້ທ່ານຊາບວ່າຢາຕາມໃບສັ່ງແພດຂອງທ່ານແມ່ນມີຢູ່ພາຍໃນເວບໄຊທ໌ຂອງເວບໄຊທ໌",
+  "prescription_pharmacy": "ເລືອກຮ້ານຂາຍຢາເພື່ອສົ່ງຢາຕາມໃບສັ່ງແພດ",
+  "prescription_preview": "prescription preview",
+  "prescription_sent": "ຄໍາສັ່ງຖືກສົ່ງໄປ",
+  "PRESCRIPTION_SENT_EMAIL": "ໃບສັ່ງແພດຂອງທ່ານຖືກສົ່ງໄປຫາອີເມວຂອງທ່ານ ...",
+  "prescription_subject": "Your prescription",
+  "pressbutton": "ກົດປຸ່ມຄູ່ໃນອຸປະກອນແລະກົດຫາອຸປະກອນ",
+  "pressbuttonpresx": "ກົດແລະຈັບປຸ່ມຄູ່ຢູ່ດ້ານຫລັງຂອງອຸປະກອນເພື່ອເລີ່ມຕົ້ນການເຊື່ອມຕໍ່ແລະແຕະປຸ່ມຫາອຸປະກອນໃນ app",
+  "pressbuttonscalx": "ກົດແລະຈັບປຸ່ມຄູ່ຢູ່ດ້ານຫລັງຂອງອຸປະກອນເພື່ອເລີ່ມຕົ້ນການເຊື່ອມຕໍ່ແລະແຕະປຸ່ມຫາອຸປະກອນໃນ app",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "ຄວາມ​ດັນ​ເລືອດ",
+  "PRESX_PROD": "PRESX",
+  "previous": "ກ່ອນຫນ້ານີ້",
+  "pre_period": "Prescription Period",
+  "price": "ລາຄາ",
+  "price_per_visit": "ຄ່າທໍານຽມຕໍ່ການຢ້ຽມຢາມ",
+  "PRICING_SECTION1_P1": "SaluberMD ມຸ່ງຫມັ້ນທີ່ຈະໃຫ້ການດູແລທີ່ມີຄຸນນະພາບທີ່ສະດວກສະບາຍໃນລາຄາທີ່ບໍ່ເສຍຄ່າໂດຍບໍ່ມີຄ່າທໍານຽມຫຼືຄ່າບໍລິການທີ່ບໍ່ຖືກຕ້ອງ.",
+  "PRICING_SECTION1_P2": "SaluberMD ສະຫນອງການດູແລທຸກບ່ອນແລະທຸກຄັ້ງທີ່ທ່ານຕ້ອງການໂດຍຜ່ານການຢ້ຽມຢາມວິດີໂອທີ່ມີຄະນະແພດທີ່ໄດ້ຮັບການຢັ້ງຢືນ. ແພດຂອງພວກເຮົາສາມາດປຶກສາຫາລື, ກວດເບິ່ງແລະຮັບຟັງການວິນິດໄສບັນຫາຂອງທ່ານຫຼືພຽງແຕ່ແກ້ໄຂບັນຫາແລະຄວາມກັງວົນທາງການແພດໃນຂະນະທີ່ຢູ່ໃນການໂທວິດີໂອ.",
+  "PRICING_SECTION1_P3": "ດ້ວຍ Medicfice ພິເສດຂອງພວກເຮົາທ່ານສາມາດໃຫ້ແພດຂອງທ່ານເຂົ້າເຖິງປະຫວັດສາດທາງການແພດຂອງທ່ານ, ຮູບພາບແລະໄຟລ໌ຕ່າງໆເພື່ອຊ່ວຍພວກເຂົາໃຫ້ແຜນການປິ່ນປົວທີ່ມີປະສິດທິພາບຫຼາຍທີ່ສຸດ.",
+  "PRICING_SECTION1_TITLE": "ຕໍ່ການຢ້ຽມຢາມ",
+  "PRICING_TITLE": "ລາຄາ",
+  "primaryConcern": "ຄວາມກັງວົນສໍາຄັນ",
+  "primaryMood": "Mood Primary",
+  "print": "ພິມ",
+  "priority": "ບຸລິມະສິດ",
+  "PRIVACY_POLICY_TITLE": "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ",
+  "problems": "ບັນຫາ",
+  "PROCEED_PAYMENT": "ດໍາເນີນການກັບການຈ່າຍເງິນ",
+  "PROFESSIONAL_TITLE": "Title Professional",
+  "PROFILE_SECTION2": "ຂໍ້​ມູນ​ຕິດ​ຕໍ່",
+  "protesi": "Prosthesis and the medical aids",
+  "protesiobbligatorio": "ກະລຸນາເລືອກປະເພດທົດລອງ",
+  "prov": "ຕົວຢ່າງ",
+  "publicAppUrl": "url ສາທາລະນະຂອງທ່ານ ສຳ ລັບການນັດພົບແມ່ນ:",
+  "pulldown": "ດຶງລົງເພື່ອໂຫຼດຄືນ",
+  "pull_request_processed": "ຂໍຂອບໃຈທ່ານ, ພວກເຮົາໄດ້ສົ່ງຄວາມພ້ອມໃຫ້ທ່ານກັບຄົນເຈັບ",
+  "PWD_NOTMATCH": "ລະຫັດຜ່ານບໍ່ກົງກັນ",
+  "P_P_Error": "ທ່ານຕ້ອງຍອມຮັບນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ",
+  "QUALITY_INDEX": "ຄຸນະພາບ",
+  "QUALITY_INDEX_DESCRIPTION": "ການອອກກໍາລັງກາຍທາງດ້ານຮ່າງກາຍແມ່ນລະດັບຂອງຄວາມຢືດຢຸ່ນແລະຄວາມກົດດັນທາງຈິດທີ່ພົບເຫັນຢູ່ໃນຄວາມສາມາດໃນການປັບແລະແກ້ໄຂສະຖານະການ. ດັດຊະນີການອອກກໍາລັງກາຍສະທ້ອນໃຫ້ເຫັນເຖິງຮ່າງກາຍຂອງມະນຸດທີ່ສາມາດປັບຕົວກັບການປ່ຽນແປງສິ່ງແວດລ້ອມແລະການກະຕຸ້ນຄວາມຄຽດ, ຮັກສາແລະຟື້ນຟູຄວາມສາມາດດ້ານສຸຂະພາບ ການອອກກໍາລັງກາຍທາງດ້ານຮ່າງກາຍມັກຈະສະແດງໃຫ້ເຫັນເຖິງຄວາມສາມາດຂອງຊີວິດຂອງຜູ້ຄົນ, ການຮຽນຮູ້ແລະການເຮັດວຽກ, ແຕ່ກໍ່ຍັງເປັນທໍາມະຊາດໃນການອອກກໍາລັງກາຍ. ຄຸນລັກສະນະທາງດ້ານຮ່າງກາຍຂອງບຸກຄົນໃດຫນຶ່ງແມ່ນກ່ຽວຂ້ອງກັບພັນທຸກໍາແຕ່ມີຄວາມກ່ຽວຂ້ອງກັບການກິນອາຫານແລະການອອກກໍາລັງກາຍ. ຜ່ານທາງວິທີການທີ່ເຫມາະສົມແລະການອອກກໍາລັງກາຍທີ່ເຫມາະສົມ, ເຂົາ / ນາງສາມາດປັບປຸງການອອກກໍາລັງກາຍທາງດ້ານຮ່າງກາຍໃນທຸກດ້ານ.",
+  "quantity": "Quantity",
+  "quesito": "ຄວາມກັງວົນ",
+  "QUESTIONS_SECTION_TITLE": "ໄດ້ຮັບການປຶກສາຫາລືຫຼືໂທຫາການປະເມີນຜົນສຸຂະພາບແບບບໍ່ເສຍຄ່າ 1 ຄັ້ງຫຼັງຈາກທີ່ທ່ານເຮັດສໍາເລັດຂໍ້ມູນທາງການແພດຂອງທ່ານ.",
+  "QUESTIONS_TITLE": "ຄໍາຖາມ",
+  "quindici": "ສຸດທ້າຍ 15 ການວັດແທກ",
+  "ratio": "ອັດຕາສ່ວນ",
+  "reccomendation": "Reccomendation",
+  "reccomendations": "ຄໍາແນະນໍາ",
+  "recommendation": "ຄໍາແນະນໍາ",
+  "RECOMMENDATIONS": "ຄໍາແນະນໍາ",
+  "RECOMMEND_SECTION_P1": "ຢູ່ SaluberMD ພວກເຮົາພະຍາຍາມເພື່ອຕອບສະຫນອງຄວາມຕ້ອງການສໍາລັບການຮັກສາສຸຂະພາບທີ່ມີຄຸນນະພາບທົ່ວໂລກໂດຍສະເຫນີໃຫ້ລູກຄ້າຂອງພວກເຮົາເຂົ້າເຖິງກຸ່ມປິ່ນປົວທີ່ດີ.",
+  "RECOMMEND_SECTION_P2": "ພວກເຮົາກໍາລັງຊອກຫາແພດທີ່ມີຄຸນນະພາບເພື່ອເພີ່ມທີມງານທີ່ດີເລີດຂອງພວກເຮົາ. ໃນຖານະເປັນສະມາຊິກຂອງທີມງານຂອງພວກເຮົາ, ພວກເຮົາເຄົາລົບນັບຖືແລະຂອບໃຈການອ້າງອິງຂອງທ່ານ.",
+  "RECOMMEND_SECTION_P3": "ກະລຸນາຕື່ມແບບຟອມລຸ່ມນີ້ເພື່ອສົ່ງແພດໄປຫາ SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Recommend a Colleague",
+  "RECOMMEND_TITLE": "ແນະນໍາ",
+  "record_aggiornato": "ບັນທຶກການປັບປຸງໄດ້ຢ່າງມືອາຊີບ",
+  "record_aggiunto": "ບັນທຶກບັນທຶກສົບຜົນສໍາເລັດ",
+  "record_inserito": "ເພີ່ມຕື່ມອີກ",
+  "record_rimosso": "ບັນທຶກການບັນທຶກສົບຜົນສໍາເລັດ",
+  "REFERRAL": "ການອ້າງອິງ",
+  "REFERRALS": "ການອ້າງອິງ",
+  "referrals_sent": "ການສົ່ງຕໍ່ຖືກສົ່ງໄປ",
+  "referral_mail": "ການຕິດຕໍ່ມີການສົ່ງຕໍ່ຂອງທ່ານ.",
+  "referral_sent": "ການສົ່ງຕໍ່ຖືກສົ່ງໄປ",
+  "refundrequestsent": "ການຮ້ອງຂໍຂອງທ່ານໄດ້ຖືກສົ່ງໄປແລ້ວ",
+  "register": "ລົງທະບຽນ",
+  "register_report": "ການລົງທະບຽນຜູ້ໃຊ້",
+  "registration_date": "ວັນລົງທະບຽນ",
+  "REGISTRATION_HEADER_DOCTOR": "ເຂົ້າຮ່ວມທີມງານ Saluber MD",
+  "REGISTRATION_HEADER_PATIENT": "ກະລຸນາເຮັດແບບຟອມລຸ່ມນີ້ແລະກົດລົງທະບຽນ",
+  "releaserefresh": "ປ່ອຍໃຫ້ຟື້ນຟູ",
+  "remarks": "ຂໍ້ສັງເກດ",
+  "removedevice": "ທ່ານຕ້ອງການລຶບອຸປະກອນນີ້ບໍ?",
+  "removefavorite": "ລົບຈາກໂປດ?",
+  "remove_generic": "ທ່ານຕ້ອງການເອົາມັນອອກ?",
+  "renalFunction": "Function Renal",
+  "reoccurring": "Reoccurring",
+  "repeat_email": "ຢືນ​ຢັນ​ອີ​ເມລ",
+  "report": "ເອກະສານຄລີນິກສ່ວນບຸກຄົນ: ລາຍງານຂໍ້ມູນເຕັມ",
+  "report1": "ໄຟລ໌ທາງດ້ານຮ່າງກາຍ:",
+  "report2": "ບົດລາຍງານ",
+  "reportvisite": "Report Videocalls",
+  "report_date": "ວັນທີລາຍງານ",
+  "requestdate": "ວັນທີການຮ້ອງຂໍ",
+  "request_already_taken": "ຄໍາຮ້ອງຂໍນີ້ໄດ້ຮັບການຮັບຜິດຊອບໂດຍແພດຫມໍອີກ.",
+  "REQUEST_ERROR": "ມີຂໍ້ຜິດພາດໃນຂະນະທີ່ກໍາລັງຮ້ອງຂໍການຮ້ອງຂໍຂອງທ່ານ. ກວດເບິ່ງການເຊື່ອມຕໍ່ອິນເຕີເນັດຂອງທ່ານຫຼືພະຍາຍາມອີກເທື່ອຫນຶ່ງ.",
+  "request_sent": "ການຮຽກຮ້ອງຂອງທ່ານໄດ້ຖືກສົ່ງໄປປະຕິບັດກັບທາງໄປສະນີ",
+  "required": "ພາກສະຫນາມນີ້ແມ່ນຕ້ອງການ.",
+  "required_field": "Filed Required",
+  "RESEND_EMAIL": "ສົ່ງຄືນລະຫັດຢືນຢັນ",
+  "resetCorxFactory": "ທ່ານແນ່ໃຈວ່າທ່ານຕ້ອງການປັບ Corx?",
+  "RESETPWD_BTN": "Reset Password",
+  "RESET_PASSWORD": "ໃສ່ອີເມວຫຼືຊື່ຜູ້ໃຊ້ທີ່ໃຊ້ໃນລະຫວ່າງການລົງທະບຽນ",
+  "respiratory": "ການຫາຍໃຈ",
+  "RESPIRATORY_RATE": "ອັດຕາການຫາຍໃຈ",
+  "RESTORE_FACTORY_SETTINGS": "Restore Factory Settings",
+  "resultfound": "ບັນທຶກພົບ",
+  "results": "ຜົນໄດ້ຮັບ",
+  "ricettario": "ປະເທດ",
+  "richiediDrug": "ຂໍຢາ",
+  "richiestaAppuntamento": "Request appointment",
+  "richiestaRimborso": "ຄໍາຮ້ອງຂໍຄືນເງິນຄືນ",
+  "ricovero": "Hospitalization",
+  "riepilogo": "ບົດສະຫຼຸບ",
+  "rightHanded": "ຂວາມື",
+  "rimborso": "Refund",
+  "ripetibile": "Repeatable for (times)",
+  "rr_desc": "ອັດຕາການຫາຍໃຈແມ່ນອັດຕາທີ່ຫາຍໃຈເກີດຂຶ້ນ. ອັດຕາການຫາຍໃຈຕາມປົກກະຕິສໍາລັບຜູ້ໃຫຍ່ຢູ່ທີ່ພັກຜ່ອນແມ່ນ 12 ຫາ 20 ຫາຍໃຈຕໍ່ນາທີ. ອັດຕາການຫາຍໃຈພາຍໃຕ້ 12 ຫຼືສູງກວ່າ 25 ເທື່ອຕໍ່ນາທີໃນເວລາທີ່ພັກຜ່ອນແມ່ນຖືວ່າຜິດປົກກະຕິ",
+  "rs": "ລະ​ບົບ​ທາງ​ເດີນ​ຫາຍ​ໃຈ",
+  "RUNNING_CALL_OPT1": "Resume",
+  "RUNNING_CALL_OPT2": "End Call",
+  "RUNNING_CALL_TITLE": "ແລ່ນໂທ",
+  "sa": "ການກວດສອບຄວາມເຂັ້ມແຂງ",
+  "sadness": "ຄວາມໂສກເສົ້າ",
+  "sai": "ດັດແກ້ກິດຈະກໍາ",
+  "sai_desc": "SAI ແມ່ນອີງໃສ່ພຽງແຕ່ຫົວໃຈຂອງທ່ານ. ມັນເປັນຄໍາທີ່ງ່າຍດາຍທີ່ຕິດຕາມການຕອບສະຫນອງຂອງຮ່າງກາຍຕໍ່ກິດຈະກໍາທາງດ້ານຮ່າງກາຍ - ຫຼາຍກ່ວາພຽງແຕ່ຂັ້ນຕອນ. ບໍ່ເຫມືອນກັບການຕິດຕາມຂັ້ນຕອນ, SCI ໃຫ້ການປ່ອຍສິນເຊື່ອສໍາລັບທຸກໆກິດຈະກໍາທີ່ຍົກລະດັບຫົວໃຈ: ການລອຍ, ລົດຖີບ, ການລ່ອງລອຍ, ການເຕັ້ນ, ສິ່ງໃດກໍ່ຕາມ. ຮັກສາມັນຢູ່ຂ້າງລຸ່ມ 30 ເພື່ອຊີວິດທີ່ດີກວ່າແລະມີສຸຂະພາບດີ.",
+  "sai_title": "SAI",
+  "saluberAccess": "ຄົນເຈັບ SaluberMD",
+  "SATURDAY": "ວັນເສົາ",
+  "savedinfo": "ຂໍ້ມູນຂ່າວສານທີ່ບັນທຶກໄວ້ແລ້ວ",
+  "SAVE_BTN": "ຊ່ວຍປະຢັດ",
+  "SAVE_MESSAGE": "ຖ້າທ່ານອອກຈາກ, ການປ່ຽນແປງຂອງທ່ານຈະສູນເສຍ",
+  "sbpi": "ດັດຊະນີຄວາມດັນເລືອດ",
+  "sbpi_desc": "ຄວາມດັນເລືອດສູງແມ່ນນັກຄ່າທີ່ງຽບສະຫງົບ. ຄຸນຄ່າປະລິມານຄວາມດັນເລືອດຂອງ Systolic ແລະ Diastolic ກໍາລັງຖືກຄາດຄະເນໃນໄລຍະເວລາການແພດທີ່ທ່ານປະຕິບັດ. ຮັກສາ SBPI ຂ້າງລຸ່ມນີ້ 30 ເພື່ອໃຫ້ມີໂອກາດຫນ້ອຍທີ່ຈະທົນທຸກຈາກເງື່ອນໄຂທີ່ເປັນໄພຂົ່ມຂູ່ຕໍ່ຊີວິດເຊັ່ນ: ເສັ້ນເລືອດຕັນແລະກ້າມເລືອດ.",
+  "sbpi_title": "SBPI",
+  "SCALX": "ນ້ໍາຫນັກ",
+  "SCALX_PROD": "SCALX",
+  "scan": "Scan",
+  "scanningcorx": "ຄົ້ນຫາ CORX ... ກະລຸນາລໍຖ້າ",
+  "schedule": "ຕາຕະລາງ",
+  "scheduleAnAppointment": "ກໍານົດການນັດຫມາຍ",
+  "scheduleappointment": "ຈັດຕາຕະລາງ videocall ກັບທ່ານຫມໍ",
+  "schtime": "ກຳ ນົດເວລາ",
+  "sci": "ດັດຊະນີໂລກຫົວໃຈ",
+  "sci_desc": "ໂດຍການວິເຄາະຄື້ນກໍາມະຈອນເຕັ້ນຂອງທ່ານ, ພວກເຮົາກໍາລັງໄດ້ຮັບຄວາມເຂົ້າໃຈກ່ຽວກັບລະບົບປະສາດ cardiovascular ຂອງທ່ານ. ດັດຊະນີ SCI ແມ່ນສະຫຼຸບສັງລວມຂອງສຸຂະພາບຫົວໃຈຂອງທ່ານ, ພະຍາຍາມຮັກສາມັນຢູ່ຂ້າງລຸ່ມນີ້ 20!",
+  "sci_title": "SCI",
+  "SEARCH": "ຄົ້ນຫາ",
+  "searchallergy": "ຊອກຫາອາການແພ້",
+  "searchdoctor": "ຄົ້ນຫາແພດ",
+  "searchfordoctor": "ຄົ້ນຫາຫມໍໂດຍຊື່ຫຼືນາມສະກຸນ",
+  "searchingdevice": "ຄົ້ນຫາອຸປະກອນ. ມັນອາດຈະໃຊ້ເວລາໃນຂະນະທີ່",
+  "searching_avail_date": "ຄົ້ນຫາວັນທີທີ່ມີຢູ່ ...",
+  "searching_online_doctors": "ຄົ້ນຫາແພດຫມໍອອນໄລນ໌ໃນຄວາມຄືບຫນ້າ ...",
+  "searchmedication": "ຄົ້ນຫາຢາ",
+  "searchpatient": "ຊອກຫາຄົນເຈັບ",
+  "searchpatologia": "ຊອກຫາເງື່ອນໄຂທາງການແພດ",
+  "searchsymptom": "ຊອກຫາອາການ",
+  "searchuser": "ຄົ້ນຫາຜູ້ໃຊ້",
+  "search_doctor_description": "ຄົ້ນຫາທ່ານຫມໍສໍາລັບຊື່ຜູ້ໃຊ້, ອີເມວຫຼືຊື່",
+  "search_patient_description": "ຄົ້ນຫາຜູ້ປ່ວຍສໍາລັບຊື່ຜູ້ໃຊ້, ອີເມວຫຼືຊື່",
+  "search_specialization": "ຄົ້ນຫາຊ່ຽວຊານ",
+  "search_user_description": "ຄົ້ນຫາຜູ້ໃຊ້ສໍາລັບຊື່ຜູ້ໃຊ້, ອີເມວຫຼືນາມສະກຸນ",
+  "search_videocall_description": "ຄົ້ນຫາ videocall ເຮັດໂດຍ iniziative",
+  "search_videocall_title": "Serach Videocall ໂດຍວັນທີ",
+  "secondaryMood": "Mood Secondary",
+  "secondOpinion": "ຄວາມເຫັນທີ່ສອງຄວາມເຫັນ",
+  "seconds": "ວິນາທີ",
+  "second_opinion_1": "ການເຂົ້າເຖິງທີ່ເຊື່ອຖືໄດ້ທີ່ເປັນປະໂຫຍດທີ່ສຸດຈາກຜູ້ຊ່ຽວຊານດ້ານການແພດທົ່ວໂລກ.",
+  "second_opinion_2": "ບໍລິການຄວາມເຫັນຂອງພວກເຮົາທາງການແພດສາມາດຊ່ວຍທ່ານ:",
+  "second_opinion_3": "ໄດ້ຮັບຄໍາຕອບຕໍ່ຄໍາຖາມຂອງທ່ານ",
+  "second_opinion_4": "ເລືອກແຜນການປິ່ນປົວທີ່ດີທີ່ສຸດ",
+  "second_opinion_5": "ຮັບປະກັນການບົ່ງມະຕິທີ່ຖືກຕ້ອງ",
+  "second_opinion_body": "ຜູ້ໃຊ້ທີ່ຮັກແພງ, <br> ຄຳ ຮ້ອງຂໍການເລືອກໃຊ້ຄັ້ງທີສອງຂອງທ່ານໄດ້ຖືກຮັບຜິດຊອບຈາກຜູ້ຊ່ຽວຊານຂອງພວກເຮົາທີ່ ກຳ ລັງກວດກາເບິ່ງເອກະສານທີ່ທ່ານໄດ້ສົ່ງມາ.",
+  "second_opinion_history": "ຄວາມເຫັນທີ່ສອງຄວາມເຫັນ",
+  "second_opinion_msg": "ຂອບ​ໃຈ. ຜູ້ສະຫນັບສະຫນູນດ້ານສຸຂະພາບຂອງພວກເຮົາຈະເຂົ້າຫາທ່ານພາຍໃນ 24 ຊົ່ວໂມງຕໍ່ໄປ.",
+  "SECOND_OPINION_Q1": "ທ່ານຢາກເວົ້າຫຍັງກັບນັກໂພຊະນາການ?",
+  "second_opinion_question1": "ຜູ້ທີ່ເປັນຄວາມຄິດເຫັນທີສອງແມ່ນໃຜ?",
+  "second_opinion_question2": "ອັບໂຫລດໄຟລ໌",
+  "second_opinion_step1": "ຈົ່ງເຮັດສໍາເລັດຄໍາຖາມສັ້ນໆ / ອັບໂຫລດໄຟລ໌ຂອງທ່ານ",
+  "second_opinion_step2": "ທ່ານຫມໍຂອງພວກເຮົາຈະປະເມີນຜົນຂອງທ່ານ",
+  "second_opinion_step3": "ປຶກສາຫາລືກັບທ່ານຫມໍເພື່ອປຶກສາຫາລືຜົນຂອງທ່ານ",
+  "secOpChoice": "ກະລຸນາເລືອກວິທີທີ່ທ່ານຢາກຈະໄດ້ຮັບຄວາມຄິດເຫັນທີສອງ",
+  "section": "ກະລຸນາເລືອກບາງສ່ວນ",
+  "security": "ຄວາມປອດໄພ",
+  "seeaprovider": "ເບິ່ງຜູ້ໃຫ້ບໍລິການ",
+  "seecommenti": "ເບິ່ງຄໍາເຫັນ",
+  "seedoctor": "ເບິ່ງຫມໍຢູ່ໃນປັດຈຸບັນ",
+  "SEE_A_DOCTOR_Q1": "ຜູ້ທີ່ໂທຫາວິດີໂອນີ້ແມ່ນໃຜ?",
+  "SEE_A_DOCTOR_Q10": "ພວກເຮົາສາມາດສົ່ງຄໍາສັ່ງຂອງທ່ານໂດຍກົງກັບຮ້ານຂາຍຢາທີ່ທ່ານເລືອກ",
+  "SEE_A_DOCTOR_Q1B": "ຊື່ແລະວັນເດືອນປີເກີດຂອງລູກທ່ານ?",
+  "SEE_A_DOCTOR_Q1_A1": "ຂ້ອຍ",
+  "SEE_A_DOCTOR_Q1_A2": "ລູກຂອງຂ້ອຍ",
+  "SEE_A_DOCTOR_Q2": "ກະລຸນາອະທິບາຍສິ່ງທີ່ທ່ານຢາກເວົ້າກັບທ່ານຫມໍ",
+  "SEE_A_DOCTOR_Q3": "ອາການຕ່າງໆ?",
+  "SEE_A_DOCTOR_Q4": "ທ່ານຢາກຕິດໄຟລ໌ຫຼືເອກະສານ?",
+  "SEE_A_DOCTOR_Q4_ERROR": "ERROR: ໄຟລ໌ບໍ່ຕ້ອງເກີນ 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "ເລືອກໄຟລ໌",
+  "SEE_A_DOCTOR_Q4_S2": "ຖ່າຍ​ຮູບ",
+  "SEE_A_DOCTOR_Q5": "ທ່ານກໍາລັງກິນຢາໃດກໍ່ຕາມ, ຖ້າເປັນດັ່ງນັ້ນໂປດລະບຸຊື່",
+  "SEE_A_DOCTOR_Q5_CHILD": "ປະຈຸບັນລູກຂອງທ່ານ ກຳ ລັງກິນຢາບໍ? ຖ້າເປັນດັ່ງນັ້ນກະລຸນາບອກຊື່",
+  "SEE_A_DOCTOR_Q5_S1": "ຊື່:",
+  "SEE_A_DOCTOR_Q5_S2": "Dosage:",
+  "SEE_A_DOCTOR_Q6": "ທ່ານມີອາການແພ້?",
+  "SEE_A_DOCTOR_Q6_CHILD": "ລູກຂອງທ່ານມີອາການແພ້ບໍ? ຖ້າເປັນດັ່ງນັ້ນກະລຸນາບອກຊື່",
+  "SEE_A_DOCTOR_Q7": "ທ່ານມີເງື່ອນໄຂທາງການແພດບໍ?",
+  "SEE_A_DOCTOR_Q7_CHILD": "ລູກຂອງທ່ານມີເງື່ອນໄຂທາງການແພດບໍ? ຖ້າເປັນດັ່ງນັ້ນກະລຸນາບອກຊື່",
+  "SEE_A_DOCTOR_Q8": "ທ່ານອະນຸຍາດໃຫ້ທ່ານຫມໍເບິ່ງເອກະສານທາງການແພດຂອງທ່ານອອນໄລນ໌ບໍ?",
+  "SEE_A_DOCTOR_Q9": "Preferred Pharmacy",
+  "SEE_A_DOCTOR_TITLE": "ເບິ່ງທ່ານຫມໍ",
+  "SEE_A_PROVIDER": "ເບິ່ງຜູ້ໃຫ້ບໍລິການ",
+  "segment": "Segment",
+  "selectAFile": "ແຕະປຸ່ມດ້ານລຸ່ມເພື່ອເລືອກເອກະສານ",
+  "selectaprovider": "ເລືອກຜູ້ໃຫ້ບໍລິການ",
+  "selectcarderror": "ກະລຸນາເລືອກບັດ",
+  "selectdoctor": "ການຄຸ້ມຄອງວາລະສານຂອງ",
+  "selectdoctor1": "ເລືອກທ່ານຫມໍ",
+  "selectdrug": "ເລືອກຢາ",
+  "selectedContact": "ຮູບແບບການຕິດຕໍ່",
+  "selectinitiative": "ເລືອກຫນຶ່ງຫຼືຫຼາຍການລິເລີ່ມ ...",
+  "selectnutritionist": "ເລືອກໂພຊະນາການຂອງທ່ານເອງ",
+  "selectpatient": "selectiatient",
+  "select_country": "ກະລຸນາເລືອກປະເທດ",
+  "select_device": "ເລືອກອຸປະກອນ",
+  "select_file": "ເລືອກເອກະສານ",
+  "select_file_btn": "ເລືອກໄຟລ໌",
+  "select_patient": "ກົດແຖວເພື່ອເບິ່ງລາຍລະອຽດ",
+  "send": "ສົ່ງ",
+  "sendmessage": "ສົ່ງຂໍ້ຄວາມ",
+  "sendtoken": "ສົ່ງໄປຫາທ່ານຫມໍເພື່ອໃຫ້ເຂົາສາມາດເຂົ້າເຖິງເອກະສານທາງການແພດຂອງທ່ານ. ລິ້ງນີ້ຫມົດອາຍຸໃນ 10 ນາທີ",
+  "SEND_BTN": "ສົ່ງ",
+  "send_doctor_request": "ສົ່ງຄໍາຮ້ອງຂໍ",
+  "sentmessage": "ສົ່ງຂໍ້ຄວາມ",
+  "SERVICE_TYPE": "ປະເພດການບໍລິການ",
+  "sessantad": "60 ວັນສຸດທ້າຍ",
+  "SESSION_EXPIRED": "ກອງປະຊຸມທ່ານ ໝົດ ອາຍຸແລ້ວ. ກະລຸນາ, ເຂົ້າສູ່ລະບົບອີກຄັ້ງ",
+  "setAlarm": "Set Alarms",
+  "settd": "7 ມື້ສຸດທ້າຍ",
+  "settings_saved": "ບັນທຶກການຕັ້ງຄ່າຖືກປະຢັດ",
+  "setTreshold": "Set Range",
+  "SET_BTN": "ກໍານົດ",
+  "SET_USER_EMAIL": "ໂປດລະບຸຊື່ຜູ້ໃຊ້ຫລືອີເມວ",
+  "set_vital_signs": "ກໍານົດອາການ Vital",
+  "sevendays": "7 ມື້",
+  "showalldata": "ສະແດງຂໍ້ມູນທັງຫມົດ",
+  "showOnEmergency": "ສະແດງໃຫ້ເຫັນກ່ຽວກັບສຸກເສີນ",
+  "signature": "ລາຍເຊັນຂອງທ່ານ (ໃຊ້ສໍາລັບຢາຕາມໃບສັ່ງແພດ)",
+  "signature_word": "ລາຍເຊັນ",
+  "SIGNUP_BTN": "ລົງ​ທະ​ບຽນ",
+  "sii": "ດັດຊະນີປະກັນໄພ",
+  "sii_desc": "SII ແມ່ນການປະສົມປະສານຂອງດັດສະນີ SaluberMD ທັງຫມົດແລະເປັນບ່ອນແລກປ່ຽນຄວາມສ່ຽງທາງການແພດທົ່ວໄປຂອງທ່ານ. ຖ້າຢູ່ຂ້າງລຸ່ມນີ້ 30 ທ່ານຢູ່ໃນເຂດປອດໄພ!",
+  "sii_title": "SII",
+  "since": "ຕັ້ງແຕ່",
+  "single": "ມື້ດຽວ",
+  "singleAccess": "ການເຂົ້າເຖິງດຽວ",
+  "sitreminder": "ນັ່ງເຕືອນ",
+  "sit_period": "ໄລຍະເວລາ",
+  "skip": "ຂ້າມ",
+  "skip_pull": "Ignore",
+  "skip_step": "ຂ້າມ",
+  "sl": "ລະດັບຄວາມກົດດັນ",
+  "SLEEP": "ນອນ",
+  "slotime": "ໄລຍະເວລາທີ່ໃຊ້ເວລາ (ນາທີ)",
+  "sl_alta": "ຫຼາຍກວ່າ 85 bpm",
+  "sl_bassa": "ຕ່ໍາກວ່າ 65",
+  "sl_desc": "ລະດັບຄວາມກົດດັນແມ່ນຄິດໄລ່ໂດຍອີງໃສ່ຄວາມກົດດັນຕໍ່ນາທີ",
+  "sl_normale": "ລະຫວ່າງ 65 ແລະ 85 bpm",
+  "smoker": "ສູບບຸຫລີ່",
+  "snacks": "ອາຫານຫວ່າງ",
+  "SOMETIMES": "ບາງຄັ້ງ",
+  "SONNO": "ນອນ",
+  "SOP_Q4": "ແນບລາຍງານທາງການແພດຂອງທ່ານ",
+  "sos": "SOS",
+  "so_specialization": "ພິເສດ",
+  "specialists": "ຜູ້ຊ່ຽວຊານ",
+  "specialization": "ເລືອກພິເສດ",
+  "SPECIALTY": "ພິເສດ",
+  "specifyother": "ກະລຸນາລະບຸຂໍ້ມູນອື່ນໆ",
+  "specifyvalue": "ກະລຸນາລະບຸຄ່າ",
+  "spirometer": "Spirometry",
+  "spo2_desc": "ລະດັບອົກຊີເຈນຫຼື SpO2 ແມ່ນການວັດແທກຂອງອົກຊີເຈນຂອງຈຸລັງເລືອດແດງຂອງທ່ານ. ຄ່າປະກະຕິແມ່ນຢູ່ລະຫວ່າງ 95% ແລະ 100%, ລະດັບຕ່ໍາຂອງລະບົບອົກຊີເຈນທີ່ເປັນປົກກະຕິແມ່ນ hypoxemia",
+  "sri": "ດັດແກ້ການຫາຍໃຈ",
+  "sri_desc": "ພວກເຮົາວິເຄາະຮູບແບບການຫາຍໃຈຂອງທ່ານໃນລະຫວ່າງການປະຊຸມທາງການແພດແລະໃນເວລານອນຂອງທ່ານ. ຖ້າຫາກວ່າ SRI ມີອາຍຸຕ່ໍາກວ່າ 30 ປີ, ໂອກາດທີ່ທ່ານຈະໄດ້ຮັບຜົນກະທົບຈາກເງື່ອນໄຂລະບົບທາງຍ່າງຫາຍໃຈທີ່ຕໍ່າມີຫນ້ອຍ.",
+  "sri_title": "SRI",
+  "ssi": "ດັດຊະນີຄວາມກົດດັນ",
+  "ssi_desc": "ໂດຍການວິເຄາະການປ່ຽນແປງຂອງຫົວໃຈຂອງທ່ານ, ພວກເຮົາກໍານົດລະດັບຄວາມກົດດັນຂອງທ່ານ. ຄວາມເຄັ່ງຕຶງເບິ່ງຄືວ່າຈະເຮັດໃຫ້ຮ້າຍແຮງຫຼືເພີ່ມຄວາມສ່ຽງຕໍ່ການເປັນໂລກອ້ວນ, ພະຍາດຫົວໃຈ, ໂຣກ Alzheimer, ໂລກເບົາຫວານ, ຊຶມເສົ້າ, ບັນຫາກະເພາະລໍາໄສ້ແລະໂລກຫືດ. ຮັກສາມັນຂ້າງລຸ່ມນີ້ 20 ຢູ່ໃນດ້ານທີ່ປອດໄພ!",
+  "ssi_title": "SSI",
+  "start": "ເລີ່ມຕົ້ນ",
+  "startcall": "ເລີ່ມຕົ້ນການໂທ",
+  "startdate": "ຈາກ",
+  "starthour": "ເລີ່ມເວລາ",
+  "startmeasure": "ໃນປັດຈຸບັນທ່ານສາມາດເລີ່ມຕົ້ນການວັດແທກໄດ້ໂດຍການກົດຫມຶກໃນອຸປະກອນ",
+  "startnow": "ເລີ່ມ​ດຽວ​ນີ້",
+  "startRecording": "ກົດການເລີ່ມຕົ້ນທີ່ຈະບັນທຶກສຽງສຽງ",
+  "startyping": "ເລີ່ມພິມຊື່",
+  "start_blowing": "Start Blowing",
+  "start_test": "ເລີ່ມຕົ້ນການທົດສອບ",
+  "start_time": "ເລີ່ມເວລາ",
+  "state": "ລັດ",
+  "state1": "ລັດ",
+  "STATES_LICENSE": "ລັດອະນຸຍາດ",
+  "state_problem": "ກະລຸນາລະບຸບັນຫາຂອງທ່ານ",
+  "status": "ສະຖານະພາບ",
+  "step": "ຂັ້ນຕອນ",
+  "STEPS_GOAL": "ເປົ້າຫມາຍຂັ້ນຕອນ",
+  "stoolTest": "ທົດສອບອາຈົມ",
+  "stop": "ຢຸດ",
+  "stop_test": "ຢຸດການທົດສອບ",
+  "stress": "ຄວາມເຄັ່ງຕຶງ",
+  "stroke_vol": "ປະລິມານເສັ້ນເລືອດຕັນໃນ",
+  "stroke_volume": "ປະລິມານເສັ້ນເລືອດຕັນໃນ",
+  "stroke_volume_desc": "ປະລິມານເສັ້ນເລືອດຕັນໃນແມ່ນປະລິມານຂອງເລືອດອອກຈາກແຕ່ລະ ventricle ຕໍ່ຕີ",
+  "struttura": "ໂຄງສ້າງ",
+  "strutture": "ໂຄງສ້າງ",
+  "subject": "Subject",
+  "subject_so": "Subject",
+  "submissionDate": "ວັນທີສົ່ງ",
+  "success": "ຄວາມ​ສໍາ​ເລັດ",
+  "SUCCESS_TITLE_NOTIFICATION": "ຄວາມ​ສໍາ​ເລັດ",
+  "SUMMARY": "Diagnosis",
+  "summary1": "Summary",
+  "SUNDAY": "ວັນອາທິດ",
+  "surgery": "ການຜ່າຕັດ",
+  "surgeryAndHospitalization": "Hospitalization and Surgical History",
+  "surgeryCategory": "ຫມວດການຜ່າຕັດ",
+  "surname": "ນາມສະກຸນ",
+  "sv_alta": "ຫຼາຍກວ່າ 100",
+  "sv_bassa": "ຕ່ໍາກວ່າ 55 ມົນ",
+  "sv_normale": "ລະຫວ່າງ 55 ແລະ 100 ມລ",
+  "switchsearch": "ປ່ຽນໄປຄົ້ນຫາ",
+  "symptoms": "ອາການຕ່າງໆ",
+  "SYMPTOMS_BTN": "ອາການຕ່າງໆ",
+  "sync": "Sync",
+  "SYNC_TIME": "Sync Time",
+  "sysdia": "ຄວາມກົດດັນ",
+  "systolic": "Systolic",
+  "TAKE": "ເອົາ",
+  "takeAppointment": "ເອົາການນັດຫມາຍ",
+  "TAKE_APP": "ຕາຕະລາງນັດ ໝາຍ",
+  "TAKE_A_PHOTO": "ຖ່າຍ​ຮູບ",
+  "tall": "ເຈົ້າ​ສູງ​ເທົ່າ​ໃດ",
+  "tapconnect": "ແຕະເພື່ອເຊື່ອມຕໍ່",
+  "tapdisconnect": "ແຕະເພື່ອຍົກເລີກ",
+  "tap_to_expand": "ແຕະເພື່ອຂະຫຍາຍ",
+  "telNameMandatory": "ກະລຸນາລະບຸຊື່",
+  "telNumberMandatory": "ໂປດລະບຸຫມາຍເລກໂທລະສັບ",
+  "temper": "Temper",
+  "temperDescription": "ມາດຕະການທາງດ້ານຈິດໃຈທີ່ກວມເອົາລະດັບໂປຣໄຟລທັງຫມົດຂອງລໍາໂພງ. ສະຫງົບຕ່ໍາສະແດງຄວາມຮູ້ສຶກທີ່ຊຶມເສົ້າແລະອຸກໃຈ. ສະພາບອາກາດຂະຫນາດກາງອະທິບາຍໂປຣແກຣມທີ່ເປັນມິດ, ອົບອຸ່ນແລະອົດທົນ. ຄຸນຄ່າຄວາມຮ້ອນສູງສະແດງອອກເຖິງສະຖານະການປະເຊີນຫນ້າ, ຄວາມເດັ່ນຊັດແລະຄວາມຮຸນແຮງ.",
+  "tendays": "ສຸດທ້າຍ 10",
+  "ten_min": "ໃນ 10 ນາທີ",
+  "terminata": "Call Successfull",
+  "TERMS_TITLE": "ເງື່ອນໄຂຂອງການນໍາໃຊ້",
+  "test": "ທົດສອບ",
+  "testmichele": "test michele",
+  "testresult": "ການທົດສອບຜົນໄດ້ຮັບ",
+  "testresults": "ຜົນການທົດສອບ",
+  "tests": "ການທົດສອບ",
+  "text": "ຂໍ້​ຄວາມ",
+  "thiscC": "ບັດເຄດິດນີ້ຈະຖືກໃຊ້ເພື່ອຈ່າຍຄ່າບໍລິການ",
+  "THURSDAY": "ວັນພະຫັດ",
+  "thyroidTest": "ການທົດສອບ ໜ້າ ທີ່ຂອງ thyroid",
+  "tickets": "ປີ້ຍົນ",
+  "TICKET_HISTORY": "ປະຫວັດການປີ້",
+  "TICKET_NUMBER": "ໝາຍ ເລກປີ້",
+  "ticket_subject": "ຂໍຫົວຂໍ້",
+  "timecallerr": "ຂໍອະໄພ, ທ່ານບໍ່ສາມາດເຮັດໂທໄດ້ເທື່ອ",
+  "timecallerr1": "ຂໍອະໄພ, ທ່ານສາມາດໂທຫາໂທເພາະວ່າທ່ານກໍາລັງເກີນເວລາທີ່ກໍານົດ",
+  "TIMELINE": "ໄລຍະເວລາຂອງຂ້ອຍ",
+  "times": "ຈໍານວນເທົ່າໃດມື້ຕໍ່ມື້?",
+  "timesaday": "Times a Day",
+  "tipopratica": "ປະເພດປະຕິບັດ",
+  "tipo_struttura": "Structure Type",
+  "tipshealt0": "Health Tips",
+  "tipshealt1": "ການສັກຢາວັກຊີນ - ຂ້ອຍຄວນໄດ້ຮັບການສັກຢາປ້ອງກັນໄຂ້ຫວັດໃຫຍ່ບໍ?",
+  "tipshealt10": "ກົດທີ່ນີ້ສໍາລັບຂໍ້ມູນເພີ່ມເຕີມ",
+  "tipshealt11": "ຜົນປະໂຫຍດຂອງການຮັກສາ statins, ການຫຼຸດລົງຂອງຢາ cholesterol, ເກີນຄວາມສ່ຽງ",
+  "tipshealt12": "ໃນບົດທົບທວນຫຼ້າສຸດໃນ Lancet, ນັກຄົ້ນຄວ້າໄດ້ສະຫຼຸບວ່າຜົນປະໂຫຍດຂອງການຫຼຸດລົງ cholesterol LDL ທີ່ມີການປິ່ນປົວດ້ວຍຢາສະ statin ອາດຈະປ້ອງກັນບໍ່ໃຫ້ເຫດການຂອງໂຣກຫົວໃຈໃຫຍ່ (ການພະຍາດຫົວໃຈ, ເສັ້ນເລືອດຕັນໃນ) ແລະມັນເກີນຄວາມສ່ຽງຂອງຢາເສບຕິດ.",
+  "tipshealt13": "ອີງຕາມນັກຄົ້ນຄວ້າບັນດາເຫດການທີ່ເປັນອັນຕະລາຍທີ່ຮ້າຍແຮງທີ່ເກີດຂື້ນໂດຍການປິ່ນປົວດ້ວຍຢາ statin ໄລຍະຍາວແມ່ນ myopathy (ຖືກກໍານົດວ່າມີຄວາມເຈັບປວດຫຼືອ່ອນເພຍຂອງກ້າມເນື້ອ), ໂລກເບົາຫວານໃຫມ່, ແລະອາດຈະເປັນໂຣກເລືອດໄຫຼ.",
+  "tipshealt2": "ເຖິງແມ່ນວ່າຢາວັກຊີນໄຂ້ຫວັດໃຫຍ່ບໍ່ໄດ້ສະຫນອງການປົກປັກຮັກສາທັງຫມົດ, ມັນກໍ່ແມ່ນມູນຄ່າທີ່ໄດ້ຮັບ. CDC (Centers for Disease Control and Prevention) ແນະນໍາການສັກຢາກັນພະຍາດປະຈໍາປີສໍາລັບທຸກໆຄົນທີ່ມີອາຍຸ 6 ເດືອນຂຶ້ນໄປ. ການສັກຢາປ້ອງກັນແມ່ນມີຄວາມສໍາຄັນສໍາລັບຄົນທີ່ມີຄວາມສ່ຽງສູງຕໍ່ການເປັນໂຣກໄຂ້ຫວັດໃຫຍ່, ລວມທັງ",
+  "tipshealt3": "ແມ່ຍິງຖືພາ",
+  "tipshealt4": "ຜູ້ໃຫຍ່ອາຍຸ (50 ປີຂຶ້ນໄປ)",
+  "tipshealt5": "ເດັກນ້ອຍ (ອາຍຸຕໍ່າກວ່າ 4 ປີແລະສູງກວ່າ 6 ເດືອນ)",
+  "tipshealt6": "ກິດຈະກໍາທາງດ້ານຮ່າງກາຍຊ່ວຍປັບປຸງຄວາມຊົງຈໍາແລະທັກສະໃນການຄິດ",
+  "tipshealt7": "ກິດຈະກໍາທາງດ້ານຮ່າງກາຍແບບປົກກະຕິສາມາດປັບປຸງການເຮັດວຽກຂອງສະຫມອງໄດ້ຕະຫລອດຊີວິດແລະຫຼຸດຜ່ອນຄວາມສ່ຽງຂອງການເປັນໂລກເບົາຫວານ.",
+  "tipshealt8": "ການສຶກສາຈໍານວນຫລາຍໄດ້ຖືກຈັດພີມມາກ່ຽວກັບການພົວພັນໃກ້ຊິດແລະປະໂຫຍດຂອງກິດຈະກໍາທາງດ້ານຮ່າງກາຍແລະການເຮັດວຽກທີ່ສະຫມອງທີ່ດີຂຶ້ນ.",
+  "tipshealt9": "ອິດທິພົນແມ່ນໂດຍກົງກ່ຽວກັບສະຫມອງແລະໂດຍທາງອ້ອມໂດຍຜ່ານການປະຕິບັດການເຄື່ອນໄຫວແລະທາງດ້ານຮ່າງກາຍໃນຮ່າງກາຍ.",
+  "title": "Title",
+  "to": "to",
+  "todayAppointment": "ການນັດພົບໃນມື້ນີ້",
+  "tooltip1": "ໃສ່ຊື່ຂອງທ່ານຫມໍທີ່ທ່ານຕ້ອງການຈັດການປະຊຸມ",
+  "totale": "ລວມ",
+  "totalSleepTime": "ເວລານອນລວມ",
+  "total_cholesterol_desc": "ຄຸນຄ່ານີ້ແມ່ນການຄາດຄະເນຂອງ cholesterol ທັງ ໝົດ ໃນເລືອດ",
+  "TOTAL_SLEEP_TIME": "Total Sleep Time",
+  "tot_non_risposte": "ໂທຫາບໍ່ໄດ້ຕອບ",
+  "tot_ricevute": "ໂທທີ່ໄດ້ຮັບ",
+  "tot_visite": "ການຢ້ຽມຢາມໄດ້ເຮັດແລ້ວ",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "ການໂອນເງິນ",
+  "trenta": "ສຸດທ້າຍ 30 ການວັດແທກ",
+  "trentad": "30 ວັນສຸດທ້າຍ",
+  "triglycerides": "Triglycerides",
+  "trig_cholesterol_desc": "Triglycerides ແມ່ນປະເພດຂອງໄຂມັນ (lipid) ທີ່ພົບໃນເລືອດຂອງທ່ານ. ຕາຕະລາງຕໍ່ໄປນີ້ສະແດງຂອບເຂດຂອງຄ່າຕ່າງໆ.",
+  "TUESDAY": "ວັນອັງຄານ",
+  "tutte": "ການວັດແທກທັງຫມົດ",
+  "type": "ປະເພດ",
+  "TZONE": "ເຂດ​ເວ​ລາ",
+  "underweight": "Underweight",
+  "unit": "Unit",
+  "UNIT_SETTING": "ການຕັ້ງຄ່າຫນ່ວຍງານ",
+  "uom": "ຫົວ ໜ່ວຍ ວັດແທກ",
+  "upcomingAppointmentPatient": "ນັດ ໝາຍ ກຳ ລັງຈະມາເຖິງຂອງ",
+  "UPDATE": "ປັບປຸງໃຫ້ທັນ",
+  "updatelist": "ລາຍຊື່ການປັບປຸງ",
+  "update_app_message": "ທ່ານຕ້ອງການປັບປຸງແອັບຯຂອງທ່ານ",
+  "UPDATE_AVAILABLE": "Update Available",
+  "UPDATE_BTN": "ປັບປຸງໃຫ້ທັນ",
+  "update_completed": "Firmware Updated Successfully",
+  "update_firmware_download_error": "Error downloading firmware",
+  "update_list": "ປັບປຸງໃຫ້ທັນ",
+  "UPLOAD_ERROR": "ERROR: ໄຟລ໌ບໍ່ຕ້ອງເກີນ 5 MB",
+  "upload_referral": "ອັບໂຫລດການອ້າງອີງຂອງທ່ານຢູ່ໃນປ່ອງຂ້າງລຸ່ມນີ້.",
+  "urinTest": "ກວດຍ່ຽວ",
+  "user": "ຜູ້ໃຊ້",
+  "userdata": "User data",
+  "usermanagement": "ການຄຸ້ມຄອງຜູ້ໃຊ້",
+  "USERNAME": "ຊື່ຜູ້ໃຊ້",
+  "username1": "ຊື່ຜູ້ໃຊ້",
+  "utente_aggiunto": "User successfully added",
+  "utente_rimosso": "User successfully deleted",
+  "utente_salvato": "User successfully updated",
+  "vaccinobbligatorio": "ກະລຸນາເລືອກເອົາການສັກຢາປ້ອງກັນ",
+  "vaioffline": "Go Offline",
+  "vaionline": "ໄປອອນລາຍ",
+  "valence": "Valencia",
+  "valenceDescription": "ຕົວແປທີ່ແຕກຕ່າງຈາກການລົບກວນກັບທາງບວກ. ໃນເວລາທີ່ຟັງການສົນທະນາຂອງຄົນ, ມັນກໍ່ສາມາດເຂົ້າໃຈໄດ້ວ່າພວກເຂົາມີຄວາມຮູ້ສຶກແນວໃດກ່ຽວກັບເລື່ອງ, ຈຸດປະສົງຫຼືເຫດການທີ່ຢູ່ພາຍໃຕ້ການສົນທະນາ.",
+  "value": "ຄຸນຄ່າ",
+  "vascular_age": "ອາຍຸສູງສຸດ Vascular",
+  "vascular_age1": "ອາຍຸສູງສຸດ Vascular",
+  "va_desc": "ອາຍຸ Vascular ສະຫນອງໃຫ້ທ່ານເປັນມາດຕະການຂອງອາຍຸສູງສຸດທີ່ຊັດເຈນຂອງເສັ້ນເລືອດແດງຂອງທ່ານ, ເມື່ອທຽບກັບຄົນທີ່ມີສຸຂະພາບດີ. ຖ້າອາຍຸສູງສຸດຂອງທ່ານແມ່ນສູງກວ່າອາຍຸຂອງທ່ານ, ທ່ານອາດຈະມີຄວາມສ່ຽງຕໍ່ການເກີດໂຣກຫົວໃຈວາຍ (CVD) ຕໍ່ມາໃນຊີວິດ.",
+  "videocall": "Videocall",
+  "VIDEOCALL_DES1": "ກົດປຸ່ມຂ້າງລຸ່ມເພື່ອປ່ຽນສະຖານະຂອງທ່ານແລະໄດ້ຮັບຫຼືບໍ່ໄດ້ຮັບການແຈ້ງເຕືອນ. ຈົ່ງຈໍາໄວ້ວ່າທ່ານສາມາດໄດ້ຮັບການແຈ້ງເຕືອນເມື່ອທ່ານຢູ່ໃນອິນເຕີເນັດ.",
+  "VIDEOCALL_DES2": "ເມື່ອທ່ານໄດ້ຮັບການໂທ, ໃຫ້ຄລິກໃສ່ຮູບສີ່ແຈສາກທີ່ຈະປາກົດໃຫ້ໃຊ້ສາຍ.",
+  "videocall_filter": "ກັ່ນຕອງໂດຍຊື່ຫລືຄວາມຊ່ຽວຊານ",
+  "videocall_request": "ການຮ້ອງຂໍ videocall ໃຫມ່ຈາກ",
+  "videocall_request_title": "Videocall Request",
+  "videocall_req_from": "ຄໍາຮ້ອງຂໍ Videocall ຈາກ:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "ກົດເພື່ອເປີດໃຊ້ວິດີໂອ",
+  "VIDEO_CALL_BTN": "ການໂທວິດີໂອ",
+  "VIDEO_CALL_BTN_1": "ວິດີໂອ",
+  "view": "ເບິ່ງ",
+  "viewmedicalfile": "ເບິ່ງເອກະສານທາງການແພດ",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "ສ້າງຫ້ອງການ Virtual ຂອງທ່ານ",
+  "VIRTUAL_OFFICE_TITLE": "Virtual Office",
+  "visitdetail": "ໃຫ້ຄລິກໃສ່ລາຍການແຕ່ລະຄົນເພື່ອເບິ່ງປະຫວັດຂອງຜູ້ປ່ວຍ",
+  "visithistory": "ຢ້ຽມຢາມປະຫວັດສາດ",
+  "visitlist": "ລາຍຊື່ການຢ້ຽມຢາມ",
+  "VISIT_HISTORY_NO_HISTORY": "ທ່ານຍັງບໍ່ມີການຢ້ຽມຢາມເທື່ອ",
+  "VISIT_HISTORY_SUBTITLE": "ກົດໃສ່ແຕ່ລະລາຍການເພື່ອເບິ່ງລາຍລະອຽດເຕັມ",
+  "VISIT_HISTORY_TITLE": "ຢ້ຽມຢາມປະຫວັດສາດ",
+  "volte": "Times",
+  "waiting": "ກຳ ລັງປະມວນຜົນ ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "ອົບອຸ່ນ",
+  "WARNING_TITLE_NOTIFICATION": "ເອົາໃຈໃສ່",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "ຂໍ້ມູນສຸຂະພາບ",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "ຂໍ້ມູນສຸຂະພາບ",
+  "WATCH_DEVICE_DATA_TITLE": "ຂໍ້ມູນອຸປະກອນໂມງຂອງທ່ານ",
+  "water": "ນ້ໍາ",
+  "weanedoff": "ຫັກອອກ?",
+  "WEDNESDAY": "ວັນພຸດ",
+  "week": "ອາທິດ",
+  "weight": "ນ້ໍາຫນັກ",
+  "weightUnit": "ຫົວ ໜ່ວຍ ນ້ ຳ ໜັກ",
+  "welcome": "ຍິນດີຕ້ອນຮັບ",
+  "wellness": "ດີດີ",
+  "wellnessdata": "ຂໍ້ມູນສຸຂະພາບ",
+  "wellnessSuccess": "ຄວາມ​ສໍາ​ເລັດ",
+  "WHITE_SPACES": "ຊື່ຜູ້ໃຊ້ບໍ່ຈໍາເປັນຕ້ອງມີຊ່ອງສີຂາວ",
+  "WRIST_CUT_SCREEN": "ປິດ Wrist Cut Screen",
+  "writtenRep": "ບົດລາຍງານຂຽນ",
+  "W_RESPIRATORY_RATE": "ຫາຍໃຈ",
+  "xray": "X-ray",
+  "Y": "ແມ່ນແລ້ວ",
+  "year": "ປີ",
+  "years": "ປີ",
+  "yes": "ແມ່ນແລ້ວ",
+  "yourarousal": "ອາລົມຂອງເຈົ້າ",
+  "youremotion": "ອາລົມຂອງທ່ານ",
+  "yourmood": "ໂປຣໄຟລຂອງທ່ານ",
+  "yourtemper": "ຄວາມຮ້ອນຂອງທ່ານ",
+  "yourvalence": "valence ຂອງທ່ານ",
+  "your_sai": "ດັດຊະນີກິດຈະກໍາຂອງທ່ານແມ່ນ:",
+  "your_sbpi": "ດັດຊະນີກົດດັນຂອງທ່ານແມ່ນ:",
+  "your_sci": "ທ່ານດັດຊະນີຫົວໃຈແມ່ນ:",
+  "your_sii": "ດັດຊະນີປະກັນໄພຂອງທ່ານແມ່ນ",
+  "your_sri": "ດັດຊະນີການຫາຍໃຈຂອງທ່ານແມ່ນ:",
+  "your_ssi": "ດັດຊະນີຄວາມກົດດັນຂອງທ່ານແມ່ນ:",
+  "your_stress": "ລະດັບຄວາມກົດດັນຂອງທ່ານແມ່ນ:",
+  "your_va": "ອາຍຸຂອງທ່ານແມ່ນ:",
+  "zero_min": "ໃນປັດຈຸບັນ",
+  "zipCode": "ລະ​ຫັດ​ໄປ​ສະ​ນີ",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

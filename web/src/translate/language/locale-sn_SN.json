@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Nezvedu",
+  "ABOUT_US_CONDITION_1": "Cold &amp; Flu",
+  "ABOUT_US_CONDITION_2": "Ganda mamiriro",
+  "ABOUT_US_CONDITION_3": "Allergies",
+  "ABOUT_US_CONDITION_4": "Huro inorwadza",
+  "ABOUT_US_CONDITION_5": "Marwadzo emudumbu",
+  "ABOUT_US_DOCTOR_BENEFIT1": "KUBATSIRWA KWOKUTANGA:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Iwe unogona kuona kusvika kuvarwere vatanhatu neawa (kushanyira kwevakawanda kunowanzoguma kwemaminitsi gumi);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "ITA KUTI UYE MUTAMBO WOKUITA PASI POSE PASI:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Wedzera hukama hwehutano nekukwanisa kurapa varwere vemazuva ano uye vatsva kubva kupi zvako munyika;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "GETA KUNYANYA KUNYORWA KUNHU KUNHU:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Ita chiito chako chazvino uye upe mamwe maitiro kune varwere;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "ZVIMWE ZVINOKOSHA PATIENT ZVINOKOSHA:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Varwere vanogona kukutumirai zvinyorwa, mapikicha, mabhidhi kunze kwekubva pamusha uye unogona kutarisa hutano hwomurwere wako kure;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Ziva kuti ndiani anoda maoko paanenge achikurumidza uye ndiani angabatsirwa nekurapa kure kunze kwekubva kumba;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "KUBATSIRWA KWOKUTANGA:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "HORA DZINOKOSHA:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Kukwanisa kuisa maawa ako uye kuisa purogiramu yako pachako.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Ijoka musangano kuti utaure zvakavimbika, zvisingakwanisi, kuwanika kwepasi rose kune utano hwakanaka mukati memaminitsi gumi nemashanu kana pasi.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD yakagadzirirwa kugadzirisa hukama hwechiremba-varwere kuburikidza nekugadzira 24/7 kuwana kwehutano pasi rose.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Doctor Benefits",
+  "ABOUT_US_DOCTOR_TITLE": "Nezvedu",
+  "about_us_section1_p1": "SaluberMD isangano reDynamic Health rakatsaurirwa kushandura kuendeswa kwezvipatara nemishonga yekuvandudza mararamiro ezvehutano munyika yose. Our Digital Medical Concierge services, kupa rubatsiro rwehutano uye hutano hwakanaka, vanachiremba vane chiremba vakagadziriswa, mapepa ezvokurapa mumitauro 18, zvipfeko zvekutarisa utano hwako, nekusvika kune unyanzvi hwevashandi vehutano nehutano.",
+  "ABOUT_US_SECTION1_TITLE": "Nezvedu",
+  "ABOUT_US_SECTION2_P1": "Kuburikidza neGoo-localization svondo redu richawana murapi wepamusoro pedyo newe. SaluberMD Physicians vanogona kuongorora, kubata, kana kukurukura nezvehutano hwehutano kuburikidza nevhidhiyo uye kukupa chirongwa chakakodzera chekurapa. Zvizhinji zvezvakawanda zvakajairika zvinotarisirwa muhofisi yechiremba zvinogona kurapwa nevhidhiyo kushanyira. <br/> Mimwe yemamiriro edu atinotarisa:",
+  "ABOUT_US_SECTION2_P2": "Nyaya Yenyu Yezvokurapa Ndiyo nzvimbo yakakodzera yekuchengetedza yese yehutano hwako, zvidhori uye mafaira. Chengeta ruzivo rwehutano hwako ne 24/7 kupinda kune mamwe marekete ezvekurapa. Pasinei nokuti uri pamba kana kuenda kune dzimwe nyika mashoko ako ari pamunwe wako kugovana nehutano hwako hwehutano. Izvo nyore kushandisa ruzivo rwomunhu wehutano hunowanikwa mumitauro 18.",
+  "ABOUT_US_SECTION2_TITLE": "Chinoshanda sei?",
+  "ABOUT_US_SECTION3_P1": "Ndiwo chete wepamusoro webazi rakagadziriswa Vanachiremba vanopa rubatsiro paSaluberMD. Aya maitiro anosimbiswa, akanyatsoongororwa uye akadzidziswa kupa hutano hwepamusoro. Chiremba mumwe nomumwe ane bio paunokwanisa kuona maitiro avo, zvidzidzo, uye ruzivo. SaluberMD yakagadzirirwa kuhutungamiri hwehutano hwakanaka hweViongorori vedu. A rating system inobvumira varwere kuti vaongorore vanachiremba uye kuti vaone vanachiremba zviyero zvachose.",
+  "ABOUT_US_SECTION3_TITLE": "Vanachiremba vedu",
+  "ABOUT_US_TITLE": "Nezvedu",
+  "above_warning": "Maitiro epamusoro ari panjodzi",
+  "accept": "Bvuma",
+  "acceptablerange": "Nhamba yakagamuchirwa",
+  "ACCEPT_BTN": "Bvuma",
+  "acquire": "Tora data",
+  "acronym": "Acronym",
+  "action": "Action",
+  "actions": "Mabasa",
+  "actionTaken": "Chiito Chakatorwa",
+  "activity": "Basa",
+  "acutecare": "Care Care",
+  "add": "Itsva",
+  "addavailability": "Wedzera kuwanikwa kwako",
+  "addcomment": "Wedzera iwe pano apa",
+  "adddescription": "Wedzera tsanangudzo yako pano",
+  "adddrugs": "Tsvaka mishonga inoshandisa bhokisi rekutsvaga pasi uye shandisa bhokisi rekuwedzera kuti riwedzere kurairo yako",
+  "addedFavourite": "Akabudirira kubudirira kune zvaunoda",
+  "addedFavourite2": "Akabudirira kubudirira kune zvaunoda. shandisa bhodhi rekusimbisa kuti rione.",
+  "addedFavourite3": "Yakabudirira kuwedzera  nTora pasi kuti uvandudze",
+  "addFavourite": "Wedzera Kudiwa",
+  "ADDING_SLOT": "Kuwedzera slots .... izvi zvinogona kutora nguva.",
+  "addNew": "Wedzera Chitsva",
+  "addpharmacies": "Dzvanya pabhokisi kuti uwedzere maidiwa emafarisi",
+  "addpharmacy": "Wedzera pharmacy",
+  "addreminder": "Dhinda pfupa rinowedzera kuwedzera mishonga yekuyeuchidza.",
+  "address": "Address",
+  "address2": "Adresi yokutumira",
+  "address3": "Tsamba yebasa racho",
+  "addsintomi": "Wedzera zviratidzo",
+  "addslot": "Wedzera slot",
+  "add_description_file": "Wedzera tsanangudzo (kwete yekutenderwa)",
+  "add_new": "Wedzera",
+  "affaticamento_grave": "Kuneta kwakanyanya",
+  "affaticamento_minore": "Minor Fatigue",
+  "agenda": "My agenda",
+  "agenda_report": "Bika Kugadzwa",
+  "aggiungi": "Dza",
+  "AGREE_BTN": "Ndinobvumirana",
+  "alcoholDesc": "Doro inofungidzira",
+  "all": "Zvose",
+  "alldata": "All Data",
+  "allergia": "Allergy",
+  "allergia_aggiunta": "Allergy yakagadzirwa zvakanaka",
+  "allergia_rimossa": "Mwoyo wevarwere anononoka akabudirira",
+  "allergia_salvata": "Mwoyo wevarwere hunobudirira zvakavandudzwa",
+  "allergie": "Allergies",
+  "allimages": "Mifananidzo yose",
+  "alreadyAddedF": "Iyi mishonga inowanikwa ikozvino mune zvaunofarira",
+  "alreadyRegistred": "Iyi email kero yatove iripo mune yekunze system. Ndokumbirawo upinde muapp kuti uite musangano.",
+  "alreadyTaken": "Kusarudzwa kwave kwatorwa",
+  "alta": "High",
+  "alto": "High",
+  "amonth": "30 Mazuva",
+  "anger": "Hasha",
+  "annoinizio": "Gore rakatanga",
+  "antibiotics": "Antibiotics",
+  "an_error_occurred": "Haa! Parizvino hatikwanisi kukumbira chikumbiro chako. Edza zvakare gare gare",
+  "appointment": "Kusarudzwa",
+  "appointmentlist": "Kusarudzwa mazita",
+  "appointments": "Kusarudzwa",
+  "appointmentsDescription": "Rwendo rwemajeri ekugadzwa",
+  "appointment_body_doc": "Kugadzwa kutsva kwakarongwa na",
+  "appointment_calcelled_title": "Kusarudzwa kwakabviswa",
+  "appointment_cancelled": "akadzivisa kusarudzwa kwake",
+  "appointment_email_body": "Isu tinosimbisa musangano wako nachiremba",
+  "appointment_history": "Kusarudzwa Nhoroondo",
+  "appointment_now": "Zvawakagadza iwe kutanga zvino",
+  "appremainder": "Kusarudzwa kusara",
+  "appremainder1": "Iwe une videocall yakarongwa mumaminitsi mashanu",
+  "appremainder2": "Iwe une vhidhiyo yakavharidzirwa mumaminitsi makumi matatu",
+  "appremainder3": "Iwe une vhidhiyo yepamhanzi yakakodzwa mumaminitsi makumi maviri",
+  "APPROX_DATA": "Zvimwe Zvakanaka Pfuma",
+  "appuntamenti": "Kusarudzwa",
+  "appuntamenti_presi": "Kusarudzwa Kugadziriswa",
+  "appuntamento_clinica": "Kumbira Chipatara Chisarudzo",
+  "APPUNTAMENTO_CONGIUNTO": "Iwe unoda here kubhuka videocall?",
+  "app_description": "Wedzera zvikonzero zvekugadzwa kwako mubhokisi riri pasi apa",
+  "app_details": "Nhamba dzekugadzwa",
+  "app_missing": "Basa rekutsigira harina kuiswa",
+  "ARIAX": "Breath Rate",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Arousal",
+  "arousalDescription": "Chinhu chinokanganisa chinokonzera runyararo kana kushungurudzika kuti uchenjerere uye kufara. Iyo inofananidzwa nemafungiro akafanana akafanana nehutano hwekushanda uye kukurudzira.",
+  "assign_specialist": "Sarudza nyanzvi kune chikumbiro",
+  "associa": "Shamwari",
+  "attachment": "Attachment",
+  "ATTACH_A_PHOTO": "Isai mufananidzo",
+  "BACKGROUND": "Background",
+  "BACKGROUND_PLCHOLDER": "Ndapota nyora bhizimisi pfupi.",
+  "backhomeconfirm": "Une chokwadi chekudzokera kumba here?",
+  "BACK_BTN": "Kudzoka",
+  "BACK_LOGIN": "Dzokera kuIndaneti",
+  "bad_file": "Haikwanise kuzarura faira",
+  "basicinfo": "Basic Information",
+  "bassa": "Low",
+  "basso": "pasi",
+  "below_warning": "Kukosha pazasi kune njodzi",
+  "benefits": "Concierge Benefits",
+  "beyondverbal": "Manzwiro anotyaira zvose zvatinenge taita, asi izwi-rinotungamirirwa nemanzwiro ekutsvaga anoramba ari anonyanya kukosha, kusingatarisirwi kushandiswa nhasi. Kunze kwemashoko akazvipira kuchinja icho.",
+  "beyondverbal_analyze": "Ongorora mafungiro ako",
+  "beyondverbal_history": "Historical results",
+  "beyondverbal_instruction": "Paunenge wakagadzirira kupindura mubvunzo fambisa bhatani kutanga",
+  "BIRTHDATE": "Birthdate",
+  "birthday": "Bhavhdhe",
+  "blank_agenda": "Hakuchina slot nhasi",
+  "bloatedOrContipated": "Yakadzivirirwa kana yakabatwa",
+  "bluetooth_error": "Shandisa bluetooth pamberi kuti urambe uchidaro",
+  "BOARD": "Bhodi Yakagadziriswa",
+  "bones": "Mabones",
+  "bp": "Ropa Ropa",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Referensi tafura yeRopa Pressure tsika",
+  "breakfast": "Breakfast breakfast",
+  "btnback": "Kudzoka",
+  "btndelete": "Bvisa",
+  "btndisabledoctor": "Dzinga chiremba",
+  "btndisablepatient": "Deredza murwere",
+  "btnenabledoctor": "Ita kuti chiremba aite",
+  "btnenablepatient": "Ita kuti murwere aite",
+  "btnsave": "Save",
+  "BTN_LOAD_MORE": "Isa zvimwe",
+  "buttonsearch": "Tsvaga",
+  "bvFailed": "Wakundikana kuongorora izwi rako, unoda kutaura zvakawanda!",
+  "bvInstruction": "Ingoramba uchitaura kwemasekondi makumi maviri kana kupfuura",
+  "bvInstruction2": "Ingoramba uchitaura kwemasekondi makumi maviri",
+  "ca": "Cardiovascular System",
+  "call": "Danai",
+  "callCancel": "Haikwanisi kubvisa foni yapera",
+  "calldoctor": "Dana chiremba",
+  "calling_number": "Kudana Nhamba",
+  "callthedoctor": "Fonera Chiremba",
+  "calltransfer": "Kuchinja kudanwa ...",
+  "CALL_ALREADY_TAKEN": "Dana iko kutorwa kutorwa",
+  "CALL_DOCTOR_INFO": "Doctor Info",
+  "CALL_DURATION": "Danai nguva",
+  "call_instruction": "Tichakutumira iwe chiziviso pakarepo iwe unogona kudana chiremba. Dzvanya pane chiziviso pakarepo iwe paunogamuchira kuti utange videocalll. Kana ukabvisa zviziviso, unogona kuzviwana pane chikamu chekuzivisa pasi pehutano hwangu hwehutano.",
+  "CALL_NOTIFICATIONS": "Foni Tora",
+  "CALL_NO_INCOMING": "Kwete mafoni ekupinda",
+  "CALL_TRANSFER_INFO": "Dana nhamba yekutumira",
+  "CALL_WAITING": "Ndapota tarisai apo tinotsvaka chiremba chinowanikwa",
+  "CALL_WAITING_2": "Ndapota tarisai apo chiremba anoongorora faira yako",
+  "calories": "Calories",
+  "cancel": "Kanzura",
+  "cancelAppointment": "Cancel iyi musangano",
+  "CANCEL_BTN": "Kanzura",
+  "CAP": "Zipi kodhi",
+  "cardiac_output": "Cardiac output",
+  "cardiac_output1": "Cardiac output",
+  "cardiac_output_desc": "Chibereko chemuviri chinongova chiyero cheropa chinoputirwa nemoyo paminiti.",
+  "cardiovascular": "Mwoyo",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "CVC isina kukodzera",
+  "CARD_EXPIRY_DATE": "Kupera kwezuva",
+  "CARD_MONTH_ERROR": "Mwedzi usina kukodzera",
+  "CARD_NUMBER": "Kadhi nhamba",
+  "CARD_NUMBER_ERROR": "Nhamba isina kukodzera CC Nhamba",
+  "CARD_YEAR_ERROR": "Gore risina kukodzera",
+  "category": "Chikamu",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "CCV inodiwa",
+  "CERROR": "Kubata Nhamo",
+  "certificate_attachment": "Yakasungirwa kune chako gwaro retifiketi",
+  "certificate_email": "Yakasungirwa pane chako chitupa chechirevo",
+  "certificate_header": "Pahwaro hwekuongororwa kwekurapa kunoitwa, zvinotevera zvinotaurwa:",
+  "certificate_sent": "Chitupa Chakatumirwa",
+  "certification_subject": "Chirevo chako chekurapa",
+  "cf": "Fiscal Code",
+  "cf_error": "Ndapota, tsanangurai faira yako",
+  "changeschedule": "Shandura nguva",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Shoko rako rekutsvaga rave rapera, tapota shandura.",
+  "CHANGE_PWD_SECTION_TITLE": "Shandisa password",
+  "CHANGE_PWD_TITLE": "Purogiramu yako ichapera, ichinje",
+  "checking_net_condition": "Kuongorora Indaneti ...",
+  "CHECK_PARAMETERS_CORX": "Ndapota, shandisa uremu uye kukwirira pane chikamu chepfini kuitira kuti uverenge hutano hwakanaka.",
+  "CHL_TOT": "Yese Cholesterol",
+  "choosedate": "Sarudza zuva",
+  "chooseDateDescription": "Dzvanya zuva kuti riwedzere uye sarudza awa",
+  "chooseprofile": "Uri?",
+  "choosespeciality": "Sarudza Chipatara Chinokosha",
+  "choosetransferdoctor": "Sarudza chiremba",
+  "CHOOSE_A_DOCTOR": "Sarudza chiremba wako",
+  "chosedoctor": "Ndapota, sarudza chiremba",
+  "city": "Guta",
+  "city1": "Guta",
+  "city2": "Guta",
+  "clearsignature": "Bvisa chisimbiso",
+  "clickitem": "Dzvanya pane chimwe chinhu kuti uone zvese zvakazara",
+  "clickrow": "Dzvanya pamutsara kuti usarudze",
+  "clickToOpen": "Dzvanya kuvhura iyo faira",
+  "click_to_start_call": "Dzvanya kuna chiremba kuti utange kufona",
+  "clinics": "Makliniki",
+  "CLOCK_FORMAT": "Clock Format",
+  "closeappconfirm": "Une chokwadi here kuti unovhara purogiramu?",
+  "CLOSE_BTN": "Swedera",
+  "cm": "cm",
+  "CODE": "Code",
+  "code_not_valid": "Iko code yakaiswa haisi yakakodzera",
+  "code_verified": "Code yakanyatsobvumidzwa!",
+  "coffeeDesc": "Coffee inofungidzirwa",
+  "COMMENT": "komendari",
+  "commenti": "Comments",
+  "COMPANY_NAME": "Company",
+  "COMPLAIN": "Kumanikidza",
+  "COMPLETE_PROFILE": "Pedzisa purogiramu yako pamberi kuti uenderere mberi",
+  "COMPLETE_PROFILE_TITLE": "Ndapota teerera purogiramu yako",
+  "complications": "Matambudziko",
+  "concernlist": "Ndapota nyora hurukuro yako yekutanga / izvo zvinonetsa",
+  "CONFIRM": "Ok",
+  "confirm_app": "Simbisa musangano wako",
+  "CONFIRM_EMAIL_TITLE": "Tsimbisa Email",
+  "CONFIRM_PWD": "Tsigira pasiwedhi",
+  "connect": "Dhinda bhatani re Connect kuti ubatane chigadzirwa",
+  "connectbtn": "Connect",
+  "connectedto": "Akabatanidzwa kune",
+  "connecting": "Kubatanidza ... Ndapota tarisira",
+  "connection_progress": "Kubatanidza kune chigadzirwa ...",
+  "CONSULT": "Kumanikidza",
+  "consult1": "Ona",
+  "consultation": "Kubvunzurudza",
+  "consultationHistory": "Kubvunzurudza Nhoroondo",
+  "contact": "Contact",
+  "CONTACT_US_BTN": "Taura nesu",
+  "CONTACT_US_SECTION_TITLE": "Ndapota taura nesu nemibvunzo chero ipi zvayo kana kuti rubatsiro kushandisa soro.",
+  "CONTACT_US_TITLE": "Taura nesu",
+  "contatti": "Contact Information",
+  "continue": "Rambai",
+  "copy_url": "Copy url",
+  "CORX": "ECG",
+  "corxDidFailEcg": "Kukanganisa kuwana EKG",
+  "corxDidFailWellness": "Kukanganisa kuwana dhidziro yehutano",
+  "corxDidNoEcg": "Hakuchina data ye EKG",
+  "corxDidNoWellness": "Hakuchina dhi data",
+  "CORX_DATA": "CorX Data",
+  "corx_disconnected": "Corx haikwanisi",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Ndapota, tsanangurai uremu uye kukwirira mu oreder kuti muverenge mavheji mapiritari.",
+  "COUNTRY": "Nyika",
+  "country1": "Nyika",
+  "county": "County",
+  "co_alta": "mukuru kupfuura 8 L / min",
+  "co_bassa": "pasi pe4 L / min",
+  "co_normale": "pakati pe4 ne8 L / min",
+  "creditCard_selected": "Kadhi yakasarudzwa ichabhadharwa pabasa iri",
+  "currency": "Mari",
+  "C_SPECIALTY": "Custom speciality",
+  "dailyuse": "Ushumiri hwezuva nezuva",
+  "dashboardVideocall": "Dashboard Videocall",
+  "dataerror": "Zuva / nguva yawakasarudza yapfuura zuva razvino / nguva",
+  "dataexists": "Pano pane kutarisana nezuva rakasarudzwa uye nguva",
+  "datafetching": "Kutora data yako pachako ... Ndapota tarisira.",
+  "dataPrenotazione": "Booking date",
+  "dataVaccinazione": "Zuva rekudzivirira",
+  "date": "Musi",
+  "dateDiscovered": "Zuva Rakawanikwa",
+  "dateStart": "Tanga Musi",
+  "datipersonali": "Personal Info",
+  "datiScaricati": "Dhiyabhorosi Yakabudirira Kubudirira",
+  "day": "Zuva",
+  "deassociate_corx_alert": "Unoda here kubvisa Corx?",
+  "decline": "Kupera",
+  "DECLINE_BTN": "Kupera",
+  "DEEP_SLEEP_TIME": "Deep Sleep",
+  "defaultQuestion": "Tanga hurukuro uye utitaurire kuti unonzwa sei nhasi",
+  "delete": "Bvisa",
+  "deleteAlarm": "Dzinga iyi alarm",
+  "deleteAppointment": "Unoda here kubvisa kusarudzwa?",
+  "deleteDescription": "Ichabviswa pakarepo.",
+  "deleteMessage": "Une chokwadi here kuti unoda kubvisa izvi?",
+  "deleteMultipleDesctiption": "Nhamba yejasi iyo ichabviswa:",
+  "deleteNumber": "Unofunga kuti unoda kubvisa iyi Nhamba here?",
+  "deleteSlotDay": "Bvisa zvose slot slot nhasi",
+  "deleteSlotMonth": "Bvisa zvose zvisingabhadharwi mumwedzi uno",
+  "deleteSlotWeek": "Bvisa zvose slot slot vhiki ino",
+  "deletevalue_q": "Unofunga kuti unoda kubvisa kukosha here?",
+  "DELETE_NOTIFICATION_MSG": "Iwe unoda kudzima zvese zvakapfuura zviziviso?",
+  "demo": "Iyi demo, hapana mari ichakwaniswa.",
+  "dependencies": "Kuzvidzivirira",
+  "description": "Tsanangudzo",
+  "descriptionMandatory": "Ndapota, tsanangura tsanangudzo",
+  "deseaseCategory": "Dendaase Category",
+  "desirable": "Zvinodiwa",
+  "dettagli": "Mashoko",
+  "dettaglio_struttura": "Tsanangudzo yehutano",
+  "device": "Device",
+  "devicefound": "Dombo rakawanikwa",
+  "devices": "Devices",
+  "devicetype": "Device Device",
+  "DEVICE_BLOOD_PRESSURE": "Ropa rinodzvinyirira",
+  "DEVICE_CALORIES": "Maorikiti akapiswa",
+  "DEVICE_CARDIAC": "Cardiac monitoring",
+  "DEVICE_CHL": "Lipidic Mbiri",
+  "DEVICE_DATA_SECTION_TITLE": "Dhiyabhorosi yako yedhidhi data",
+  "DEVICE_DATA_TITLE": "Device Data",
+  "DEVICE_DATA_TITLE_1": "Chigadzirwa Chemhedhiyo Dhata",
+  "DEVICE_EKG": "ECG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glucometer",
+  "DEVICE_HEART_RATE": "Mamhanyiro emoyo",
+  "DEVICE_PEDOMETER": "Pedometer",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Kuporesa kazhinji",
+  "DEVICE_SPO2": "Spo2",
+  "DEVICE_TEMPERATURE": "Kupisa",
+  "DIAGNOSIS": "Kuziva",
+  "diastolic": "Diastolic",
+  "dieci": "Zvikamu gumi zvekupedzisira",
+  "diet": "Kudya",
+  "digestion": "Kudya zvinokonzera",
+  "dinner": "Kudya",
+  "dipendenza": "Dependency",
+  "disableAlarm": "Alarm yakabatsirwa",
+  "disabled": "Akaremara",
+  "DISABLE_PANIC_BUTTON": "Ita Kuti Panic Button",
+  "DISABLE_PUNIC_BUTTON": "Dzvanisa Pikiti Inopinza",
+  "disconnectall": "Rongedza Offline",
+  "disconnectbtn": "Dzinga",
+  "DISDICI": "Kanzura",
+  "disease": "Chirwere Chisingaperi",
+  "diseasemanagement": "Disease Management",
+  "diseases": "Zvirwere",
+  "disease_1": "Dendaase",
+  "dissocia": "Kusiyanisa",
+  "DISTANCE": "Kureba",
+  "dm_section_description_1": "Pano unogona kuisa mafaira ako",
+  "DND": "Usavhiringidza",
+  "DOCEMAIL": "Physician Email",
+  "DOCNAME": "Zita rechiremba",
+  "DOCPHONE": "Chiremba Phone Number",
+  "DOCTOR": "Chiremba",
+  "doctor1": "Chiremba",
+  "doctorAtHome": "Chiremba paImba",
+  "doctorAtHomeQuestion1": "Ndinoda rubatsiro kumba:",
+  "doctorAtHomeQuestion2": "Sarudza rubatsiro rwemusha waunoda",
+  "doctorAtHomeQuestion2Answer1": "General Practice",
+  "doctorAtHomeQuestion2Answer2": "Chiremba",
+  "doctorAtHomeQuestion2Answer3": "Nurse",
+  "doctorAtHomeQuestion3": "Taurai chikonzero nei iwe uchida kubatsirwa",
+  "doctorAtHomeQuestion4": "Ipa mu fomu iri pasi apa kero yaunoda kuwana rubatsiro",
+  "doctorAtHomeRequestBtn": "Tumira chikumbiro",
+  "doctorAtHomeRequestSuccess": "Takagamuchira chikumbiro chako. Iwe uchasangana neawa 2 kuronga basa rekumba",
+  "doctorAtHomeTitle": "Chiremba paImba",
+  "doctorbusy": "Chiremba anoshanda mune imwe foni",
+  "doctorbusy1": "Chiremba anoshanda mune imwe foni",
+  "doctorlist": "Vanachiremba vanotarisa",
+  "doctormanagement": "Vanachiremba vatungamiri",
+  "doctoroffline": "Chiremba haabvumirane, edza zvakare",
+  "doctorupdate": "Chiremba",
+  "DOCTOR_PROFILE_OPT1": "Nhoroondo",
+  "DOCTOR_PROFILE_OPT2": "Murwere Anoshanyira Nhoroondo",
+  "DOCTOR_PROFILE_OPT3": "Rumbidza shamwari yako",
+  "DOCTOR_PROFILE_SECTION1": "Nhoroondo yako",
+  "DOCTOR_PROFILE_TITLE": "Nhoroondo",
+  "doctor_request_sent": "Takatumira chikumbiro chako kuna vanachiremba vedu. Iwe uchagamuchira mhinduro mumaminitsi maviri.",
+  "documents": "Documents",
+  "DOCUMENT_BTN": "Documents",
+  "doestake": "Wakatora here?",
+  "DONATION_TITLE": "Iva nechokwadi chekupa",
+  "done": "Trackx data yakabudirira kupihwa. Iwe uchavawana pasi pechitsauko chezvinhu zvakanaka",
+  "doneAppointmentPatient": "Kugadzwa Kwakare",
+  "DONE_BTN": "Yakaitwa",
+  "dontknow": "Handiyeuki",
+  "DORMIVEGLIA": "Kukurova",
+  "dosage": "Dosage",
+  "dosetake1": "Wakatora mishonga yako here?",
+  "dottore_rimosso": "Chiremba chimiro chakagadziridzwa zvakanaka",
+  "dottore_salvato": "Chiremba akabudirira kuvandudzwa",
+  "download": "Download",
+  "downloadaspdf": "Dhinda se PDF",
+  "downloadecg": "Download ECG",
+  "DOWNLOADING_DEVICE_DATA": "Kudzingwa ...",
+  "downloadwellnessdata": "Kudzingirira utano hwemamiriro ...",
+  "downloadWellnessResult": "chiyero chakawedzerwa",
+  "DOWNLOAD_CERTIFICATE": "Chitupa chekuodha",
+  "DOWNLOAD_ERROR_GENERIC": "Oops. An erros yakaitika apo ichiedza kuedza faira. Ndapota, edzazve gare gare.",
+  "DOWNLOAD_SO_REPORT": "Download Download Referral",
+  "DO_NOT_DISTURB": "Usavhiringidza",
+  "drugsAtHome": "Zvinodhaka Pamba",
+  "drugsAtHomeQuestion1": "Iwe unoda kugamuchira mishonga yakanyorwa nachiremba wako zvakananga kumba here?",
+  "drugsAtHomeRequestBtn": "Tumira chikumbiro",
+  "drugsAtHomeRequestSuccess": "Takagamuchira chikumbiro chako. Mishonga iyi inotumirwa mukati maawa makumi maviri nemaviri",
+  "drugsAtHomeSection1": "Ipa mufananidzo uri pasi apa nhamba yefoni uye kero iwe unoda kuwana mishonga.",
+  "drugsAtHomeTitle": "Zvinodhaka Pamba",
+  "drug_name": "Zita reMishonga",
+  "duration": "Nguva",
+  "ecg": "ECG",
+  "ecgadded": "ECG yakabudirira kuwedzera kune yakanyorwa",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "EKG data",
+  "ecgdetail": "Dzvanya pane chimwe chinhu kuti uone mufananidzo weEGG",
+  "ECG_DELETE_Q": "Unofunga kuti unoda kubvisa EKG here?",
+  "ecg_not_found": "Ikosajeka yeEEG File, edza imwe kusakanganiswa.",
+  "ECG_REMOVED": "EKG kubudirira kubviswa",
+  "edit": "Hora",
+  "EKG_SECTION_TITLE": "Electrocardiogram (EKG / ECG) Zviwanikwa",
+  "EKG_TITLE": "EKG Upload",
+  "EMAIL": "Email",
+  "email1": "Email",
+  "email_do_not_match": "Emaimiridzi haafani",
+  "ematicTest": "Ematic Kuedza",
+  "Emergency": "Ratidza On Emergency",
+  "emergency1": "Emergency",
+  "emergencyLoginCode": "Emergency Login Code",
+  "emergency_numbers": "Emergency Numbers",
+  "emergency_number_description": "Wedzera nhamba dzefoni kuti utaure kana zvichiitika",
+  "emotionDescription": "Ikubatanidzwa kwezvimwe zvakasiyana-siyana manzwiro, sezvinotsanangurwa nevanoshandisa izwi mukati mezwi rakanzwisiswa.",
+  "emotions": "Kusanganiswa Manzwiro",
+  "emptypassword": "Ndapota, tsanangurai pasword",
+  "EMPTY_ALLERGIES": "Dzvanya pabhokisi kuti uwedzere chirwere kumabhuku ako ekurapa",
+  "empty_dataset": "Iko hakuna data",
+  "EMPTY_DEPENDENCIES": "Dzvanya pabhokisi kuti uwedzere kuvimba kune rerekodhi yako yezvechiremba",
+  "EMPTY_DISEASE": "Dzvanya pabhokisi kuti uwedzere chirwere kumabhuku ako ekurapa",
+  "EMPTY_DOCUMENTS": "Dzvanya pabhokisi kuti uwedzere rugwaro kureji yako yezvechiremba",
+  "EMPTY_IMAGES": "Dzvanya pabhokisi kuti uwedzere mufananidzo kune rerekodhi yako yezvechiremba",
+  "EMPTY_IMMUNIZATION": "Dzvanya pabhokisi kuti uwedzere kuvepa kweropa rako rekodhi",
+  "EMPTY_MEDICATION": "Dzvanya pabhokisi kuti uwedzere mishonga kune rerekodhi yako yezvechiremba",
+  "empty_otp": "Yisina kukodzera OTP Code",
+  "EMPTY_PROSTHESIS": "Dzvanya pabhokisi kuti uwedzere hupfeko kumabhuku ako ekurapa",
+  "EMPTY_TESTS": "Dzvanya pabhokisi kuti uwedzere muedzo kune rerekodhi yako yezvechiremba",
+  "enabled": "Yakagadzirirwa",
+  "endate": "To",
+  "endcall": "Kuguma kudana",
+  "endDate": "Zuva Rokupedzisira",
+  "endhour": "Nguva Yokupedzisira",
+  "end_time": "Nguva Yokupedzisira",
+  "END_VIDEOCALL_Q1": "Unonyatsoziva here kuti unoda kugumisa kubvunzurudza usingatangi nyaya yevhidhiyo?",
+  "END_VISIT_BTN": "Kugona kushanya",
+  "error": "Mhosva",
+  "error_call_timeout": "Nguva yekuita vhidhiyo yepavhidhiyo yakapera. Kuti uite vhidhiyo yepavhidhiyo, dzokorora urongwa zvakare.",
+  "ERROR_EMAIL_DUPPLICATE": "Zvinotaridzika seyi kero kero ye email kakatonyora. Edza nemumwe.",
+  "error_price": "Ndokumbirawo utaure mubhadharo",
+  "ERROR_SPECIFY_DAYS": "Ndapota, tsanangurai vhiki imwe chete zuva",
+  "ERROR_SPECIFY_HOUR": "Ndapota, tsanangura nguva",
+  "ERROR_TITLE_NOTIFICATION": "Mhosva",
+  "ERROR_TRACKX": "Tora Trackx",
+  "error_update": "Kukanganisa Kuvandudza Firmware",
+  "ERROR_USERNAME_DUPPLICATE": "Iri zita remutauro rakatotorwa, sarudza rimwe",
+  "ERROR_WHITELIST": "Tine hurombo, mudziyo wako haugoneswi kuita videocall",
+  "esameobbligatorio": "Ndapota, sarudza Test",
+  "exam_name": "Zita reKwayedza",
+  "exercise": "Dzidzira",
+  "exercisereminders": "Zvandiri Kuyeuchidza Zvangu",
+  "existentassoc": "Shamwari dziripo",
+  "existentrelation": "Ihu hukama huripo huripo",
+  "expandfordetails": "Wedzera mamwe mashoko",
+  "EXP_MONTH": "Kupera Kwemwedzi",
+  "EXP_MONTH_REQUIRED": "Kupera mwedzi zvinodiwa",
+  "EXP_YEAR": "Kupera kwegore",
+  "EXP_YEAR_REQUIRED": "Kupera kwegore kunodiwa",
+  "e_prescribing": "E-Prescribing",
+  "F": "Mukadzi",
+  "farmaci": "Mishonga",
+  "farmaco": "Mishonga",
+  "fat": "Fat",
+  "FATIGUE_INDEX": "Kuneta",
+  "FATIGUE_INDEX_DESCRIPTION": "Basa, basa uye ruzivo rwakakonzerwa nehuwandu hwekuneta. Kunyanya kuneta kunotungamirira kuhutambuko hwemitsipa musimba, kuora musoro, kusuruvara, kuneta, kurwadziwa kwechiuno, uye nyore nyore kunotungamirira kuhutachiona hwezvirwere, zvirwere zve endocrine, zvichiita kuti zvirwere zvakawanda zvisingaperi uye kuneta mupfungwa.",
+  "favoriteslist": "My Favorites List",
+  "FAVORITES_NO": "Iwe hauna kuwedzera chero vanachiremba kune rako raunoda mazita asi zvakadaro",
+  "FAVORITES_NO_PHARMACIES": "Iwe hauna kuwedzera chero remarikiti kune rako raunoda kuwandisa zvakadaro",
+  "FAVORITES_SECTION_SUBTITLE": "Dzvanya pane chimwe chinhu kuti uone zvese zvakazara",
+  "FAVORITES_SECTION_TITLE": "Vanachiremba vamunoda",
+  "FAVORITES_TITLE": "Favorites",
+  "favourite_pharmacy": "Favorite Pharmacies",
+  "FEE": "Manage Fees",
+  "FEET": "tsoka",
+  "female": "Mukadzi",
+  "fileloaded": "Faira inotakurwa",
+  "fileloaded1": "Fle Akabudirira Achibudirira",
+  "fileName": "File Name",
+  "filenotfound": "Faira asina kuwanikwa",
+  "file_upload_instruction": "Pakira mirayiridzo",
+  "filldate": "Ndapota, sarudza zuva",
+  "filldoctor": "Ndapota, sarudza chiremba",
+  "fillpeciality": "Ndapota, sarudzai unyanzvi",
+  "fillthebox": "Zadza bhokisi",
+  "fill_indication": "Ndapota, zadza munda unoratidza",
+  "fill_indication_for": "Ndapota tsanangurirai chiratidzo chacho",
+  "fill_quantity": "Ndapota, zizai nzvimbo yakawanda",
+  "fill_quantity_for": "Ndapota tsanangurira kuwanda kwe",
+  "fill_your_doubt": "Ndapota, taura tsanangudzo mubhokisi riri pamusoro apa.",
+  "filter": "Futa",
+  "finddoctor": "Tsvaga vanachiremba",
+  "findFarmacia": "Tsvaga Pharmacy",
+  "findpatient": "Tsvaka mwoyo murefu",
+  "findspcialist": "Tsvaga nyanzvi",
+  "findStruttura": "Tsvaga Kuronga",
+  "finduser": "Tsvaga user",
+  "FIND_A_DOCTOR": "Unganidza kune chiremba",
+  "find_device": "Tsvaga Chikwata",
+  "FIND_THE_BRACELET": "Tsvaga Bracelet",
+  "fingerprint_btn": "Ita kuti zvinyorwa zvinyorwa zvidhinwe",
+  "fingerprint_hint": "Tsimbisai zvinyorwa zveminwe kuti zvienderere mberi",
+  "fingerprint_hint2": "Tsimbisai zvinyorwa zveminwe kuti zvienderere mberi",
+  "fingerprint_question": "Unoda here kubvisa kuvimbiswa kweminwe?",
+  "FIRMWARE_UPDATE": "Firmware Update",
+  "FIRMWARE_UPDATED": "Firmware Yatsvaga",
+  "firstName": "Zita rokutanga",
+  "five_min": "Maminitsi mashanu",
+  "fixappointment": "Iwe unoda kuronga hurongwa huno?",
+  "forever": "Zvachose",
+  "forgotPassword": "Wakanganwa password yako?",
+  "forgot_password": "Wakanganwa password?",
+  "forma": "Tora",
+  "formafarmaco": "Fomu yeMishonga",
+  "formatError": "Mutengo unofanirwa kunge uri nhamba yehuwandu.",
+  "found_devices": "Yakawana michina",
+  "FRIDAY": "Chishanu",
+  "GENDER": "Gender",
+  "gender1": "Gender",
+  "general": "General",
+  "generalInfo": "General info",
+  "genericName": "Zita rechizvarwa",
+  "GENERIC_ERROR": "OOps! Chimwe chinhu chakakanganisika. Ndapota, edzazve gare gare",
+  "geneticTest": "Genetic Test",
+  "geneticTestHeader2": "Kuburikidza nejiniki miedzo iwe unogona kuwana zvakawanda pamusoro pehutano hwako uye kuita chinhu chakanaka kuchengeta utano.",
+  "geneticTestHeader3": "Chinoshanda sei",
+  "geneticTestProduct": "Nutritional Profile",
+  "geneticTestRequestBtn": "Kumbira kuedza",
+  "geneticTestRequestSuccess": "Dare rako rakagadziriswa. Iwe uchagamuchira kate yacho pamba pamba",
+  "geneticTestSection1": "Iwe unoda kusvika ikozvino kana izvo zvaunodya zvinokwana mumuviri wako uye metabolism yako?",
+  "geneticTestSection2": "Iwe unoda kuziva here kana kudya kwakanaka kwomuviri wako kusingaiti zvirwere zvisingaperi?",
+  "geneticTestSection3": "Kuedza kwekudya kunoita kuti iwe uzive kubatana pakati peDNA yako nekudya.",
+  "geneticTestSection4": "Wedzera apa nhamba yako yefoni uye kero yaunoda kugamuchira kititi",
+  "geneticTestStep1": "1. Raira muedzo wako",
+  "geneticTestStep1Subtitle": "Ita yako urongwa pamwe chete ne-app uye ugamuchire kate zvakananga kumba.",
+  "geneticTestStep2Subtitle": "Tora muenzaniso uye utitumire nepaiposi yekushandisa uchishandisa envelopu yatinokupa.",
+  "geneticTestStep3": "3. Iva nemigumisiro",
+  "geneticTestStep3Subtitle": "Mushure memamwe vhiki uchagamuchira mharidzo ichikuudza kuti migumisiro yeiyo genetic test ichawanikwa paApp.",
+  "geneticTestTitle": "Genetic Test",
+  "GLUCOMETER": "Glucometer",
+  "glucosio": "Glucose",
+  "HAND_BRIGHTEN": "Simudza Ruoko rwako Kuti Uve Brighten",
+  "happiness": "Mufaro",
+  "HDL": "HDL Cholesterol",
+  "hdl_cholesterol_desc": "Yakakwira-density lipoprotein (HDL) cholesterol inozivikanwa seyakanaka cholesterol. Iyi tafura inotevera inoratidza mhando yeiyo kukosha.",
+  "healthtips": "Healthtips",
+  "HEALTH_INDEX": "Utano",
+  "HEALTH_INDEX_DESCRIPTION": "HRV yehutano yehutano ndeye kuongorora huwandu hwehutano hwemwoyo HR uye kuchinja kwemaitiro emwoyo HRV nemamwe maparamende, zvichienderana nekuenzanisa-nguva chaiyo yemigumisiro yeHerter kuongorora miviri yehutano yemuviri, huwandu hwehutano huchiwedzera, hunomiririra utano hwomuviri zviri nani; utano hwehutano hwakaderera, nekuda kwemuviri Unoda kubhadhara hupenyu hwezuva nezuva hwehutano.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Moyo",
+  "HEART_INDEX_DESCRIPTION": "Basa reCardiac Vashandi vanoyera mwoyo wemunhu, uye kushanda kwavo kwakasiyana nekuda kwezvikamu zvavo zvakasiyana zverudo rwemoyo uye hutano hwehutano. Kuvandudza mararamiro ane hutano uye miitiro yekudya: nzira yakarurama yekuita moyo kuomesa mwoyo calcium sodium supplement, kudzivirira mishonga yeropa, inogona kudzivirira kuitika kwechirwere chemwoyo, kukusimbisa mwoyo wehupenyu urongwa.",
+  "height": "Kureba",
+  "height1": "Iyo yakakwirira inodiwa kuti yakarurama kuverenga kweBMI",
+  "heightUnit": "Height unit",
+  "hepaticFunction": "Hepatic Basa",
+  "hide": "Viga",
+  "high1": "High",
+  "high_risk": "Njodzi yakakura",
+  "history": "Kubvunzurudza Nhoroondo",
+  "homepage": "Musha",
+  "HOME_WARNING_MESSAGE": "Unofunga kuti unoda kufamba kubva peji ino here? Kushandurwa kwako kucharasika.",
+  "hormonalTest": "Hormonal Basa Rekuedzwa",
+  "hospDate": "Hosp.date",
+  "hospit": "Hospitalized for",
+  "hospital": "Chipatara",
+  "hospitalization": "Hospitalization",
+  "hour": "Awa",
+  "hours": "Maawa",
+  "HOURS_BANK_DONATE_BTN": "Donate",
+  "HOURS_BANK_DONATION": "Maawa iye zvino anopiwa:",
+  "HOURS_BANK_H": "Maawa Bhengi:",
+  "HOURS_BANK_SECTION_P1": "Utano ndiyo yatinonyanya kukoshesa paSaluberMD uye tinoda kushanda sevanhu vakawanda sezvinobvira. Kuburikidza nepuratifomu yedu tiri kuita kuti zvive nyore kune avo vanoshayiwa kuti vave nekuwana hutano hwehutano. Dare redu rekuparidzira rinozvipira kupa mikana yehutano hwehutano kumasangano, vanhu uye mhuri dzinoshaiwa.",
+  "HOURS_BANK_SECTION_P2": "Tsvaga paunobatanidza nemaawa akawanda aunoda kupa uye tichavawedzera kubhangi redu.",
+  "HOURS_BANK_SECTION_P3": "Tichakutumira iwe nechokushandisa kuti udzikinure maawa uye iwe paunenge uripo unongobvuma kungobvuma kuti uone varwere.",
+  "HOURS_BANK_SECTION_TITLE": "Join us in giving the gift of healthcare!",
+  "HOURS_BANK_TITLE": "Maawa eBhangi",
+  "howto": "Sei",
+  "howto1": "Izvo zvinowanikwa zvinokonzerwa nebhokisi bhuruu",
+  "howto2": "Sarudza sero nebhokisi rakatema uye tora pairi kuti uwedzere uye sarudza nguva. Paunenge wakagadzirira tsanangurira chiratidzo chepencil kuti uone tsanangudzo uye utore kugadzwa",
+  "howToPrice": "Mutengo unofanirwa kunge uri nhamba yehuwandu. Akawanda kukosha kwenhamba kunobvumirwa. Dot kana comma inogona kushandiswa sevaparadzanisi",
+  "hrv_buono": "Kugona",
+  "hrv_eccellente": "Zvakanaka",
+  "hrv_generale": "General",
+  "hr_alta": "Mukuru kupfuura 100",
+  "hr_bassa": "Pasi pemakumi matanhatu",
+  "HR_DESCRIPTION": "Referensi tafura yezvakakwana yokuzorodza mwoyo mahara",
+  "HR_INTERVAL": "HR Verengai Mukati",
+  "hr_normale": "Pakati pe 60 ne100",
+  "hsh": "Hospitali uye History Yokuvhiya",
+  "IBAN": "IBAN",
+  "idx": "Indexes",
+  "image": "Image",
+  "images": "Mifananidzo",
+  "immunization": "Kuzvidzivirira",
+  "immunizationmenu": "Kuzvidzivirira",
+  "importhealth": "Ngenisa Hutano Datha",
+  "impossible_transfer": "Hazvikwanise kutengesa Call",
+  "INCH": "Inch",
+  "indexes": "Indexes",
+  "indication": "Chiratidzo",
+  "INFO_BTN": "Info",
+  "info_salvate": "Data yakabudirira yakachengetedzwa",
+  "iniezione": "Injection",
+  "initiative": "Initiative",
+  "initiativeerror": "Ndapota, sarudza rimwe danho",
+  "insert": "Isa",
+  "inserttext": "Isa zvinyorwa apa",
+  "insert_otp_code": "Isa kodhi pano",
+  "internet_missing": "Iwe hauna kushamwaridzana nekombiyuta",
+  "invalidemail": "Inzvimbo yemakero e-mail isina kukodzera",
+  "invoice": "Invoice",
+  "irregulartest": "Irregular Test",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Kuongorora kwetsvo",
+  "labtesting": "Network",
+  "LANGUAGE": "Mutauro",
+  "LANGUAGE_TYPE": "Mutauro",
+  "lastmeasure": "Nhamba yekupedzisira",
+  "lastName": "Zita rokupedzisira",
+  "lastPhysical": "Last Physical",
+  "lastSync": "Kubvumirana kwekupedzisira",
+  "lastTimeOnline": "Last Time Online",
+  "lastvisit": "Kushanya kokupedzisira",
+  "last_login_date": "Last Login Login Date",
+  "last_time_taken": "Nguva yekupedzisira yakatorwa",
+  "LDL": "LDL Cholesterol",
+  "ldl_cholesterol_desc": "LDL, kana yakaderera-density lipoprotein, ndiyo yakaipa &#39;cholesterol. Iyi tafura inotevera inoratidza mhando yeiyo kukosha",
+  "leggero": "Chiedza",
+  "LICENSE_NUMBER": "License nhamba",
+  "LIGHT_SLEEP_TIME": "Chiedza Kurara",
+  "listcall": "Tsamba yevhidhiyo yakaitwa",
+  "litri": "Zvinyorwa",
+  "liverExam": "Chiropa Basa Reedzo",
+  "LIVE_ECG": "New measurement",
+  "live_ecg_downloading": "Kudzingirira ECG. Ndapota tarisai ...",
+  "loadEcgList": "Loading EKG list ...",
+  "loading": "Inotora data ...",
+  "loading1": "Loading ...",
+  "loading_list": "Inotora mhinduro ...",
+  "loading_list_nutritionist": "Loading nutritionists ...",
+  "LOAD_INDEX": "Mutoro",
+  "LOAD_INDEX_DESCRIPTION": "Dhigirii uye kuneta, kushungurudzika Kufungisisa kwakakwana kwemuviri kutakura mutoro wezvinyorwa, kuratidzira pamusoro pomuviri uye mupfungwa zvevanhu vane mamiriro ezvinhu. Kunze kwenyika, hupenyu uye kukwikwidzana uye zvimwe zvinhu, asiwo nehupenyu hwavo hwepanyama uye mamiriro epfungwa.",
+  "LOAD_ITEMS": "Loading ...",
+  "LOGGING_IN": "Logging in ...",
+  "LOGGING_OUT": "Kubuda kunze ...",
+  "LOGIN_BTN": "Log in",
+  "LOGIN_ERROR": "Zita rakaipa reMutauro kana Password",
+  "Logout": "Kubuda",
+  "logout1": "Kubuda",
+  "LOGOUT_BTN": "Kubuda",
+  "low1": "Low",
+  "lunch": "Kudya",
+  "lungtest": "Ngatitei kuongorora kwepapu",
+  "M": "Murume",
+  "male": "Murume",
+  "manageapp": "Gadzirisa kusarudzwa",
+  "manageslot": "Shandisa slot pasina",
+  "MANAGE_CORX": "Manage Corx",
+  "mandatoryDays": "Ndokumbirawo muudze nhamba yemazuva",
+  "mandatoryfield": "Ndapota, zadza zvose zvinotarisirwa masimi",
+  "map": "Mepu",
+  "max_file_size": "Saizi refaira rinofanira kunge riri shoma pane",
+  "meals": "Kudya",
+  "medicalconsultation": "Kubvunzurudza",
+  "medicalfile": "Mifananidzo",
+  "medicalform": "Zvirwere Zvokurapa",
+  "medicalforms": "Zvirwere Zvokurapa",
+  "medicalinfo": "Medical Info",
+  "medicalrecord": "Medical Record",
+  "medical_2option": "Chiremba Second Opinion",
+  "MEDICAL_CERTIFICATE": "Chirevo chekurapa",
+  "MEDICAL_FILE_BTN": "Muchipa File",
+  "medication": "Mishonga",
+  "medication_name": "Zita remishonga",
+  "medicinereminders": "Mushonga wangu Unoyeuchidza",
+  "medio": "Medium",
+  "medium1": "Medium",
+  "message": "Mharidzo",
+  "messagesent": "Mharidzo inobudirira kutumirwa",
+  "metabolismTest": "Kuyedza kweMetabolism",
+  "method": "Method",
+  "METRIC": "Metric",
+  "middedcall2": "Iwe une call isina kupindurwa kubva",
+  "minutes": "maminitsi",
+  "missedcall": "SaluberMd Akashaya videocall",
+  "missedcall1": "Miss Call",
+  "missedNotiAlert": "Une zvimwe zvawakapotsa ziviso.",
+  "misurazioni": "Records",
+  "misure": "Nhamba",
+  "mobile": "Mobile",
+  "mobile_required": "Ndapota, wedzera nhamba yako yefoni kuitira kuti tive nekutaurirana newe kuti uronga nguva yekusangana.",
+  "moderate_risk": "Ngozi ine mwero",
+  "MONDAY": "Muvhuro",
+  "month": "Mwedzi",
+  "mood": "Bood boka",
+  "moodDescription": "Chiratidzo chikuru chemukurukuri mupfungwa mukati memutsara wezwi. I API inobatanidza mazana emapoka evanhu gumi nemaviri anobva pakutsamwa, kusurukirwa uye kuzvidzora kuti ufare uye kufara.",
+  "moreDays": "Mazuva akawanda",
+  "motivazione": "Chikonzero",
+  "MRGraph": "Mushonga wakatorwa nhoroondo",
+  "msgAppointment": "Kugadzwa kwave kwakarongwa zvakanaka. Iwe uchawana kusarudzwa kwako mune chikamu chekubatsira kwe concierge.",
+  "msgsurveysent": "Ongororo yakabudirira kutumirwa",
+  "msg_call_reconnection": "Kuedza kubvumirana zvakare ...",
+  "MSG_CALL_TRANSFERED": "Iyo videocall yakabudirira kuendeswa",
+  "MSG_CHOOSE_OPTION": "Ndapota, sarudza sarudzo",
+  "MSG_CHOOSE_OPTION4": "Sarudza chisarudzo",
+  "MSG_CHOOSE_OPTION5": "Rondedzera kudya kwaunodya",
+  "MSG_CHOOSE_OPTION6": "Tsanangura kudya kwako",
+  "MSG_CHOOSE_OPTION7": "Rondedzera kudya kwako kwemasikati",
+  "MSG_CHOOSE_OPTION8": "Tsanangura nyoka yako",
+  "MSG_CHOOSE_OPTION9": "Ndapota, pindura mibvunzo yose",
+  "MSG_CHOOSE_OPTION_2": "Ndapota, shandisa tsanangudzo",
+  "MSG_CHOOSE_OPTION_3": "Sarudza imwechete sarudzo",
+  "MSG_COMPLETE_PROFILE": "Unoda kuenda zvino here?",
+  "MSG_CONFIRM_EMAIL": "Ndapota, simbisai email yako",
+  "MSG_CONFIRM_EMAIL_TEXT": "Takakutumirai email ine mirayiridzo yekuti ungasimbisa sei email yako. Ndapota chengetera bhokisi rako rekuda.",
+  "msg_connected": "Succesly Connected",
+  "MSG_CONTACT_SUCCESS": "Ndinotenda nekuda kwekutumira kwako.",
+  "MSG_DOC_ENDED_CALL": "Chiremba apedza kudana",
+  "MSG_DOC_WAITING_CALL": "Chiremba akadzingwa, achimirira kubvuma zvakare",
+  "MSG_DONATION": "Simbisa mhiko yako?",
+  "MSG_DONATION_CONFIRM": "Ndinokutendai nokuda kwezvipo zvenyu",
+  "MSG_ERROR_FILL_BOXES": "Ndapota tezai mabhokisi ane mazano akakodzera",
+  "MSG_FILL_ALL_BOXES": "Ndapota, zadza mabhokisi ose",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Ndapota shandisai minda yese inotevera",
+  "MSG_FILL_BOXES": "Ndapota uzadze mabhokisi",
+  "MSG_FILL_BOXES_ALL": "Ndokumbirawo muzadze iyo yese minda",
+  "MSG_FILL_BOXES_PROFILE": "Ndapota, zadza mabhokisi ose akaiswa nenyeredzi",
+  "MSG_GENERIC_ERROR": "Ndapota tarisai internet yako yekutengesa kuti uedze zvakare.",
+  "MSG_GENERIC_FORM_ERROR": "Ndapota gadzirisa kukanganisa kupfuurira",
+  "MSG_LOGIN_ERROR": "Kupinda kwakakundikana. Ndapota chengeta zviyeuchidzo zvako uye iva nechokwadi chokuti unoshamwaridzana nemutambo.",
+  "MSG_LOGIN_ERROR_LOCKED": "Kupindira kwakakundikana: nhoroondo yako ndeyenguva yakavharwa. Ndapota edzazve zvakare.",
+  "MSG_MANDATORY_OPTION": "Iwey unofanirwa kupa chiremba chiremba kuti aone Chirapa Chirapa",
+  "MSG_NO_DOCTORS_FOUND": "Tine apolozie, asi hapana vanachiremba vakawanikwa. Dhinda Tsvaka chiremba kuitira kuti uedze zvakare",
+  "MSG_PATIENT_CANCELED_CALL": "Murwere akarambidza foni.",
+  "MSG_PATIENT_ENDED_CALL": "Murwere akagumisa foni",
+  "MSG_PATIENT_WAITING_CALL": "Murwere akadzingwa, achimirira kubvumirana zvakare",
+  "MSG_POST_CALL_CANCEL": "Iwe wapedza kushanyira usati watanga videocall!",
+  "MSG_POST_CALL_DOCTOR": "Nhepfenyuro yakakutumira iwe uchadzoka kumusha wekutanga",
+  "MSG_POST_CALL_PATIENT": "Ndinokutendai nekushandisa SaluberMD. Iwe uchagamuchira email yekutevera. Kuti uone zvakawanda pamusoro pekushanyira kwako tapota shanya My Profile-Visited History",
+  "msg_reconnection_error": "Dhidhijhini yakabviswa. Ndapota, chengetedzai chigadzirwa",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Ndinotenda .... mumwe munhu achakutarisa iwe",
+  "MSG_REGISTRATION_SUCCESS": "Kunyora kwako kwakabudirira",
+  "msg_req_videocall1": "iripo yevhidhiocall in:",
+  "msg_req_videocall2": "Mifananidzo yevhidhiyo yakagadzirira kutanga. Dzvanya pane chiziviso ichi kuti uite vhidhiyo yevhidhiyo",
+  "msg_req_videocall3": "inowanikwa muvhidhiocall ikozvino. Dzvanya pane chiziviso ichi kuti uite vhidhiyo yevhidhiyo",
+  "MSG_RESET_REQUEST_ERROR": "Mushandisi ane zita iri rekushandisa kana kuti kero ye email haapo.",
+  "MSG_RESET_REQUEST_SUCCESS": "Iwe uchagamuchira nokukurumidza email iyo ine chibvumirano chekugadzirisa zvakare password.",
+  "MSG_RESUME_CALL": "Iwe pari zvino une foni, ungada kudzoka zvakare here?",
+  "MSG_SCHOOL_MISSING": "Isa Chikoro",
+  "MSG_SELECT_TIMEZONE": "Sarudza nguva",
+  "MSG_SIGNATURE_MISSING": "Ndapota tezai chiratidzo chako, zvisinei iwe haugoni kutumira chero mitemo.",
+  "MSG_THANKING": "Ndinotenda nekuda kwekutumira kwako.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Vakarasikirwa. Izvi zvinogona kunge zvichiitika nekuda kwekutengesa kwe internet",
+  "MSG_WELCOME_BACK": "Madzokoyi",
+  "MSG_YEAR_PRACTISE": "Isa Gore Rokushanda",
+  "muscles": "Muscles",
+  "myappointment": "My appointment",
+  "MYFILE_NOFILE": "Iwe hauna mafaira yet",
+  "MYFILE_SECTION": "Mafaira ako",
+  "MYFILE_SUBTITLE": "Dzvanya pane chimwe chinhu kuti uone faira iri",
+  "MYFILE_TITLE": "My Files",
+  "myprofile": "My Profile",
+  "myreminders": "Zviyeuchidzo Zvangu",
+  "MY_TICKETS": "Matikiti ako",
+  "M_SCHOOL": "Chikoro Chorapa",
+  "N": "Aihwa",
+  "name": "Zita",
+  "negative": "Negative",
+  "nervous": "Nervous",
+  "nessun_appuntamento": "Hapasi vasanangudzo vekare",
+  "NETWORK_CHECK_MSG": "Rwendo Rwako rwuri pasi. Kutamba zvinyorwa nechepasi bandwidth zvichaita kuti vhidhiyo irege.",
+  "NETWORK_CHECK_TITLE": "Danai Test Quality",
+  "NETWORK_ERROR": "Kubatanidza Indaneti Kukanganisa. Edza zvakare gare gare",
+  "neutral": "Neutral",
+  "newappointment": "Kugadzwa patsva kubva",
+  "newass": "Wedzera sangano itsva",
+  "NEWPWD_CONFIRM": "Chinyorwa chinoshandurwa zvakajeka Ndapota chengetai zvakare.",
+  "NEWPWD_CONFIRM2": "Chinyorwa chinochinja zvakashandurwa",
+  "NEWPWD_ERROR": "Shoko idzva risina kuenderana.",
+  "newtest": "Dhinda pfupa rinowedzera kuti uite mutsva mutsva.",
+  "NEW_PWD": "New password",
+  "new_ticket": "Tiketi Nyowani",
+  "NEXT": "Zvadaro",
+  "no": "Aihwa",
+  "noAlarm": "Hapana alamu yakatarwa",
+  "noallergies": "Hakune mishonga inorondedzerwa.",
+  "noapatient": "Hapana murwere akawanikwa",
+  "noappointment": "Hapasi purogiramu yakarongwa",
+  "noappointments": "Hapana zuva rinowanikwa nechiremba uyu",
+  "noappointments1": "Hapana mazuva anowanikwa neanyanzvi ino",
+  "noAppoPat": "Iko hakuna kugadzwa kuve kunyorwa",
+  "noarticles": "Hapana chikafu chinyorwa",
+  "noassociatedpatient": "Iwe hauna murwere unobatana zvakare",
+  "noattachment": "Ndapota, sarudza chikwata",
+  "noattachment1": "Hapana Chikwata",
+  "noavailableoption": "Hapana sarudzo inowanikwa",
+  "nocomment": "Hapana zvinyorwa / kurumbidzwa",
+  "noconsulenze": "Hapana kushanyira kwakaitwa",
+  "nocorxfound": "Kwete CORX yakawanikwa",
+  "nodata": "Kwete data",
+  "nodependency": "Hakuchina hutariro hwakanyorwa.",
+  "nodesease": "Hakuchina zvirwere zvakanyorwa.",
+  "nodevice": "Hapana chigadzirwa chakawanikwa, tapota edzazve",
+  "nodoctor": "Hapana vanachiremba vakawana",
+  "nodoctors": "Hapana vanachiremba vanowanikwa",
+  "noDocuments": "Kwete magwaro akaiswa",
+  "nodrugselected": "Iwe wakasarudza kwete dhirairi",
+  "noecg": "Hapana ECG yakanyorwa",
+  "noexam": "Iko hakuna bvunzo kuratidza",
+  "nofiles": "Hapana mafayela akasiiwa nemurwere",
+  "noHistory": "Hapana mazano panguva ino",
+  "nohsh": "Hakuchina zvirwere zvinoratidzwa.",
+  "noimages": "Hakuchina chibatanidzwa panguva ino",
+  "noimmunization": "Hakuchina zvirwere zvinorongwa.",
+  "nolabtest": "Hapana maongororo ebazi akawanikwa",
+  "nomedication": "Hapana mishonga inotsanangurwa.",
+  "nomisure": "Hakuchina chiyero",
+  "nonterminata": "Dana unotadza",
+  "nonutritionist": "Hapana Nutritionist inowanikwa",
+  "nonuvoair": "Hapana chidimbu chawanikwa",
+  "nopharmacy": "Kwete maharam pharmaca akawana",
+  "noprescription": "Hapana mitsara iripo panguva ino",
+  "noprothesis": "Hakuna hupfeko kana mazano ekurapa akanyorwa.",
+  "noreferrals": "Izvo hakuna mazita anotumirwa akanyorwa",
+  "noreminders": "Iwe hauna zviyeuchidzo zvino",
+  "noresults": "Hapana mhinduro yakawanikwa",
+  "normale": "Kazhinji",
+  "normalrange": "Chimiro Range",
+  "normalWeight": "Kazhinji kuyerwa",
+  "nosintomi": "Hapana chiratidzo chakasarudzwa",
+  "nospecialist": "Hakuchina nyanzvi",
+  "note": "Notes",
+  "notests": "Iko hakuna maitiro asinganzwisisi akanyorwa.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Dzvanya pano kuti upedze kupedza chiremba chako chechiremba",
+  "NOTIFICATIONS_SECTION": "Zvizivo zvenyu",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Gamuchira 1 kubvunzurudza pachena kana utano hwehutano hwepamusoro mushure mokuzadza zvizere zvekurapa kwako.",
+  "NOTIFICATIONS_SETTINGS": "Isa Izaziso",
+  "NOTIFICATIONS_TITLE": "Notifications",
+  "notification_setting": "Sarudza kubva pane wich unoda kugamuchira zviziviso",
+  "notimage": "Faira haisi mufananidzo: Bhupi, GIF, JPG uye PNG chete zvinobvumirwa",
+  "notNow": "Kwete izvozvi",
+  "notnow_btn": "Kwete izvozvi",
+  "nouser": "Hapana mushandisi akawanikwa",
+  "novantad": "Last 90 days",
+  "novideocall": "Kwete videocall yakawanikwa",
+  "novisit": "Iwe hauna kushanya kwenguva refu",
+  "noWellnessData": "Kwete Hupenyu Hutsva Hwakanaka",
+  "no_certificate": "Hakuna chitupa chinofanira kunyorwa",
+  "no_chiosc_data": "Hapana bvunzo yekuongorora",
+  "NO_DATA": "Kwete data",
+  "no_doctor_answer1": "Hapana madaktari anowanikwa panguva ino.",
+  "no_doctor_answer2": "Iwe unogona kutora nguva yakatarwa nekudhonza pabhokisi riri pasi apa.",
+  "NO_GENETIC_TEST_REQUESTS": "Hausati wakumbira chero genetic test",
+  "NO_MSG": "Kwete kutumira mameseji",
+  "no_notifications": "Iwe hauna zizivo",
+  "no_prescription_download": "Hapana mutemo unobatanidzwa kune iyi kubvunzurudza",
+  "no_pull_answer": "Hapana chiremba inowanikwa iye zvino.",
+  "no_referral_download": "Iko hakuna kutumirwa kunobatanidza nekushanya uku",
+  "NO_SECOND_OP_REQUESTS": "Iwe hauna chikumbiro cheChipiri Opinion Service",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Hapana kuongorora kwakawanikwa",
+  "NO_TICKETS_SENT": "Hapana matikiti akatumirwa",
+  "NO_USER_FOUND": "Username kana Imeyili isina kuwanikwa",
+  "NPI": "NPI",
+  "ns": "Nervous System",
+  "numberNotSaved": "Kukanganisa apo uchichengetedza nhamba",
+  "numberSaved": "Nhamba Yakachengetedzwa Zvinobudirira",
+  "nuovoair_connected": "Akabatanidzwa",
+  "nuovoair_disconnected": "Disconnected",
+  "nutriPen": "Ichimirira chikumbiro",
+  "nutriRev": "Ongororo yezvekuongorora yemibvunzo",
+  "nutrition": "udyo",
+  "nutritionist": "Taura kune nutrionist",
+  "NUTRITIONIST_Q1": "Zvinangwa Zvakakosha: (Tarisai zvose Apply)",
+  "NUTRITIONIST_Q10": "Iwe unonzwisisika unogumburwa, unotungamirika kana uine simba kana usina kudya?",
+  "NUTRITIONIST_Q11": "Ikozvino maitiro ekudzidzira muviri: (Cardio, Resistance, Zvakadaro.)",
+  "NUTRITIONIST_Q12": "Iwe unofuta here ?: (Kana hongu, kangani uye sei?)",
+  "NUTRITIONIST_Q13": "Iwe Unonwa Doro Here ?: (Kana hongu, kangani uye sei?)",
+  "NUTRITIONIST_Q14": "Iwe Unonwa Chaffeine ?: (Kana hongu, kangani uye sei?)",
+  "NUTRITIONIST_Q15": "Zuva Rokupedzisira Muviri:",
+  "NUTRITIONIST_Q16": "Iwe kangani wakapiwa ma antibiotics mumakore maviri apfuura:",
+  "NUTRITIONIST_Q16_BIS": "Kana zvakadaro, Ndezvipi uye nguva yakawanda sei, (Ndapota shandisai zvakananga sezvinobvira.)",
+  "NUTRITIONIST_Q17": "Iwe unotora mishonga here? (OTC kana Chirairo?) Kana zvakadaro, ndeipi uye iwe unotora zvigadzirwa? Kana zvakadaro, kangani, (Ndapota ngaive zvakananga sezvinobvira.)",
+  "NUTRITIONIST_Q18": "Uri kubvongerwa here kana kubviswa kupfuura mazuva 1-2 pavhiki?",
+  "NUTRITIONIST_Q19": "Iwe une dambudziko munharaunda dzinotevera here? Kana hongu, tapota tsanangurai nyaya dzenyu muchidimbu munzvimbo dzakapiwa.",
+  "NUTRITIONIST_Q2": "Inosvika mangani ezvikudya iwe unodya zuva? (Sarudza Mumwe)",
+  "NUTRITIONIST_Q3": "Ndezvipi Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya Zvokudya",
+  "NUTRITIONIST_Q4": "Ndezvipi Zvokudya Zvokudya Zvokudya Zvako, uye nguva ipi:",
+  "NUTRITIONIST_Q5": "Ndezvipi Zvokudya Zvokudya Zvokudya Zvako, uye nguva ipi:",
+  "NUTRITIONIST_Q6": "Chii Chinoita Zvokudya Zvako Zvokudya Zvinoshandiswa, uye nguva ipi (s):",
+  "NUTRITIONIST_Q7": "Unotya Zvokudya Here?",
+  "NUTRITIONIST_Q8": "Ndezvipi zvekudya iwe unowanzodya kudya uye nguva yakawanda sei:",
+  "NUTRITIONIST_Q9": "Iwe une zvokudya zvekudya, zvigadziriswa kana kunzwisisika:",
+  "NUTRITIONIST_SUB1": "Kuonda",
+  "NUTRITIONIST_SUB10": "Nausea / Kupedza",
+  "NUTRITIONIST_SUB11": "Chirwere Chisimba",
+  "NUTRITIONIST_SUB2": "Weight Gain",
+  "NUTRITIONIST_SUB3": "Simba / Kuneta",
+  "NUTRITIONIST_SUB4": "Zviri nani Kurara",
+  "NUTRITIONIST_SUB5": "Digestion Matambudziko",
+  "NUTRITIONIST_SUB6": "Constipation",
+  "NUTRITIONIST_SUB7": "Diarrhea",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Bloating / Gas",
+  "nutrition_mail": "Yakabatanidzwa pane nhoroondo yezvokudya",
+  "nutrition_mail2": "Iyo nutrition inokutumira iwe faira",
+  "nutrition_questionnaire": "nutrition questionnaire",
+  "nvisit": "Nhamba yemavhidhiyo mafirimu akaitwa",
+  "obesity1": "Obese",
+  "obesity2": "Zvakanyanya kuoma",
+  "obesity3": "Kunyanya kunetseka",
+  "OFFICE_ADDRESS": "Office address",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Chiremba anoita kunge asinga gone, ndapota edza zvakare gare gare",
+  "OLDPWD_ERROR": "Nyaya yepodhiyo itsva inofanirana nekare ye password",
+  "OLD_PASSWORD_WRONG": "Izwi rekare rekare harina kunaka",
+  "OLD_PWD": "Old password",
+  "oneDay": "Nerimwe zuva",
+  "one_min": "Maminitsi 1",
+  "online": "Online",
+  "onlinedoctors": "Online Doctors",
+  "openimage": "Dzvanya pamufananidzo kuti uzarure muhwindo wakakwana",
+  "open_ticket": "Vhura Mutikiti",
+  "orale": "Nomuromo",
+  "other": "Zvimwe",
+  "othercbc": "Mimwe CBC Bvunzo",
+  "OTHER_PLACEHOLDER": "Ndapota sarudzai kukosha kwako",
+  "otoscopy": "Otoscopy",
+  "otp_sent_msg": "Takakutumira tsamba yekuzivisa pane yako nhamba yefoni",
+  "OUR_PRODUCTS_SECTION": "Zvishandiso zvedu zvinopa nguva chaiyo yehutano uye dambudziko rekuchengetedza kuti ikubatsire kuchengetedza hutano hwako.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Edza mapapu ako ehutano mumasekonzi nemumwe mudzidzi wemhepo inonzi spirometer",
+  "OUR_PRODUCTS_SECTION_P1": "Smart smart wearable teknolojia inopa nguva chaiyo yehutano yehupenyu pamwe nekuita zvakanaka",
+  "OUR_PRODUCTS_SECTION_P2": "Kubwinya / Zvakanaka Mazano",
+  "OUR_PRODUCTS_SECTION_P3": "Chikwata chako chekuongorora chirwere chemhuri kumhuri yose.",
+  "OUR_PRODUCTS_SECTION_P4": "Zviratidzo",
+  "OUR_PRODUCTS_SECTION_P5": "Zvose zvigadzirwa zvakagadzirirwa kusangana pamwe chete nehurongwa hwekupa hutano hwehutano hwakazara. Mhinduro dzako dzichachengetedzwa zvakananga mu-app.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Edzai boold yako mumasekondi neine unyanzvi sphygmometer",
+  "OUR_PRODUCTS_SECTION_SCALX": "Ita uremu hwako mumasekondi mashoma neine unyanzvi hwepamusoro",
+  "OUR_PRODUCTS_TITLE": "Our Products",
+  "overeatFoods": "Zvokudya zvinoderedzwa",
+  "overeating": "Kunyanya kudya tsika",
+  "overweight": "Overweight",
+  "pa": "Prescription mubatsiri",
+  "PASSWORD": "Pasiwedhi",
+  "passwordchanged": "Pepanhau rakashandurwa zvakajeka",
+  "passwordExpiringMessage": "Purogiramu yako ichapera nokukurumidza. Ndapota chishandure ikozvino",
+  "passwordExpiringTitle": "Purogiramu inopera",
+  "PATIENT": "Mwoyo murefu",
+  "patientAllergy": "Allergies",
+  "patientGeneticRequests": "Genetic Kukumbira Zvikumbiro",
+  "patientinfo": "Mashoko omurwere",
+  "patientlist": "Varwere vanorondedzera",
+  "patientmanagement": "Varwere vatungamiri",
+  "patientProtesi": "Prosthesis",
+  "PATIENTS_NO_P": "Iwe parizvino hauna mitezo yevarwere yakarongwa",
+  "PATIENTS_SECTION": "Your appointment",
+  "PATIENTS_SECTION_SUBTITLE": "Dzvanya pane chimwe chinhu kuti uone zvese zvakazara",
+  "PATIENTS_TITLE": "Varwere",
+  "patientupdate": "Mwoyo murefu",
+  "patientvisit": "Mwoyo murefu anoshanya nhoroondo",
+  "PATIENT_PROFILE_OPT1": "My profile",
+  "PATIENT_PROFILE_OPT11": "My Favorites Doctors",
+  "PATIENT_PROFILE_OPT12": "Wedzera Pharmacy inofarira",
+  "PATIENT_PROFILE_OPT2": "My Medical File",
+  "PATIENT_PROFILE_OPT3": "My Visit History",
+  "PATIENT_PROFILE_OPT4": "My Favorites",
+  "PATIENT_PROFILE_OPT5": "My Files",
+  "PATIENT_PROFILE_OPT6": "My Notifications",
+  "PATIENT_PROFILE_OPT7": "EKG Upload",
+  "PATIENT_PROFILE_OPT8": "Medical Device Data Data",
+  "PATIENT_PROFILE_OPT9": "My Favorites Pharmacies",
+  "PATIENT_S1": "Mwoyo murefu",
+  "PATIENT_S2": "Kutaura nezve",
+  "PATIENT_S3": "Patient info",
+  "PATIENT_S4": "Nyaya yekushanyira",
+  "PATIENT_S5": "Zvirwere",
+  "PATIENT_S6": "Allergies",
+  "PATIENT_S7": "Mishonga",
+  "PATIENT_S8": "Akabatanidzwa pamapepa",
+  "PATIENT_S9": "Zviratidzo?",
+  "PATIENT_SUMMARY": "Chidimbu chemashoko ane chirwere",
+  "patologia": "Pathology",
+  "payment": "Payment",
+  "PAYMENT_DETAILS": "Mari Yekubhadhara",
+  "PAYMENT_MESSAGE_1": "Iwe uchave unogamuchirwa kune huwandu hwayo",
+  "PAYMENT_MESSAGE_2": "Iwe uchazopihwa panoperera vhideocall",
+  "PAYMENT_SECTION1": "Sarudza kadhi kubva pakurongwa",
+  "PAYMENT_SECTION2": "Isa kadhi rechikwereti",
+  "PAYMENT_SUCCESS": "Kubhadhara Kwakabudirira!",
+  "PAYMENT_SUCCESSFUL": "Isu Takagadzirisa kubudirira kubhadhara",
+  "PAYMENT_UNSUCCESSFUL": "Purogiramu pre-authorization yakakundikana. Chengetedza ruzivo rwekadhi rako rechikwereti kana kubvunza bhanki rako",
+  "paziente_rimosso": "Mamiriro eurwere anoshandurwa zvakajeka",
+  "paziente_salvato": "Murwere anogadziridzwa akabudirira",
+  "pdf_download_error": "Haikwanisi kuverenga pdf. Ndapota, edzazve gare gare",
+  "pdf_file_error": "Mafaira pdf chete ndiwo anobvumirwa",
+  "period": "Period",
+  "PERIODIC_HEART_RATE": "Periodic Heart Rate",
+  "personal": "Iwe pachako",
+  "personalCare": "Kuchengeta Kwega",
+  "personalinfo": "Mashoko Evanhu",
+  "PER_MIN": "/ min",
+  "pharmacies": "Pharmacies",
+  "PHONE": "Nhamba yenhare",
+  "phone1": "Foni",
+  "pills": "Mapiritsi",
+  "PILLS_DATE_ERROR": "Nhamba yekutanga kutanga mushure mekuguma kwezuva",
+  "pill_reminder_message": "Yenguva yekutora mapiritsi ako",
+  "placeholder": "username, email kana zita",
+  "placeOfBirth": "Nzvimbo yekuzvarirwa",
+  "place_birth": "Nzvimbo yekuzvarirwa",
+  "platform": "Platform",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Nhamba Nhamba",
+  "positive": "Zvakanaka",
+  "POSTCALL_DOCTOR_TITLE": "Chidimbu chekushanya",
+  "POSTCALL_PATIENT_TITLE": "Ndapota, wedzera zvaunowana",
+  "POUNDS": "mapaundi",
+  "PRACTICE_LENGTH": "Kureba mukuita",
+  "prenota": "Bhuku ikozvino",
+  "prenotatest": "Anoda kuti musangane",
+  "preobesity": "Pre-obesity",
+  "prescription": "Prescription",
+  "prescriptiondiscounts": "Prescription Discounts",
+  "PRESCRIPTIONS": "Zvinyorwa",
+  "prescriptions_sent": "Zvinyorwa zvakatumirwa",
+  "prescription_mail": "Yakabatanidzwa pane mishonga yako",
+  "prescription_mail2": "Ndinokutendai nekushandisa SaluberMD",
+  "prescription_notification": "Mushandi anodiwa, tinokuudza kuti mishonga yako ikozvino iripo pasi pechikamu chenguva yeramangwana / musangano wepurogiramu",
+  "prescription_pharmacy": "Sarudza pharmacy kuti utumire chiremba",
+  "prescription_preview": "Prescription preview",
+  "prescription_sent": "Prescription yakatumirwa",
+  "PRESCRIPTION_SENT_EMAIL": "Mutemo wako wakatumirwa ku email yako ...",
+  "prescription_subject": "Your prescription",
+  "pressbutton": "Dhinda bhosi mbiri pajecha uye tapota Tsvagai Dhidhiyo",
+  "pressbuttonpresx": "Dhinda uye ubatisise bhatani rechipiri kumashure kwechigadziro kuti utange kugadzirisa uye tapira bhotela kuwana chimbo purogiramu",
+  "pressbuttonscalx": "Dhinda uye ubatisise bhatani rechipiri kumashure kwechigadziro kuti utange kugadzirisa uye tapira bhotela kuwana chimbo purogiramu",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Ropa Ropa",
+  "PRESX_PROD": "PRESX",
+  "previous": "Previous",
+  "pre_period": "Prescription Period",
+  "price": "Mutengo",
+  "price_per_visit": "Mari pakushanya",
+  "PRICING_SECTION1_P1": "SaluberMD yakagadzirirwa kupa zvakanaka, kutarisira kwakanaka pamatengo asingakwanisi uye pasina mari yakavanzwa kana mari.",
+  "PRICING_SECTION1_P2": "SaluberMD inopa rubatsiro chero kupi zvako uye chero nguva ipi zvayo iwe uchida nayo kuburikidza nevhidhiyo inoshanya nechiremba akaremberedzwa. Vanachiremba vedu vanogona kukurukura, kuongorora, uye kuteerera kuti vaongorore nyaya dzako kana kungotaurira mibvunzo yezvehutano nekunetseka paunenge uri pikicha yevhidhiyo.",
+  "PRICING_SECTION1_P3": "Ne Medicine yedu yakakwana iwe unogona kupa chiremba wako kuti ave nehuwandu hwehuwandu hwezvokurapa, zvifananidzo zvako uye mafaira kuti avabatsire kupa chirongwa chinoshanda chekurapa.",
+  "PRICING_SECTION1_TITLE": "nguva nenguva",
+  "PRICING_TITLE": "Mutengo",
+  "primaryConcern": "Zvinonyanya kukosha",
+  "primaryMood": "Mood Primary",
+  "print": "Dhinda",
+  "priority": "Kunyanya kukoshesa",
+  "PRIVACY_POLICY_TITLE": "Privacy Policy",
+  "problems": "zvinetso",
+  "PROCEED_PAYMENT": "Enderera nemubhadharo",
+  "PROFESSIONAL_TITLE": "Professional Title",
+  "PROFILE_SECTION2": "Contact Information",
+  "protesi": "Prosthesis uye Medical Medical",
+  "protesiobbligatorio": "Ndapota, sarudza maitiro eprosthesis",
+  "prov": "chiratidza zvizhinji",
+  "publicAppUrl": "Url yako yeruzhinji yekugadzwa ndeye:",
+  "pulldown": "Tora pasi kuti uvandudzwe",
+  "pull_request_processed": "Ndinokutendai, Takatumira kukosha kwako kune murwere",
+  "PWD_NOTMATCH": "Pasiwedi idzi hazvienzani",
+  "P_P_Error": "Iwe unofanirwa kugamuchira mutemo wekuvanzika",
+  "QUALITY_INDEX": "Quality",
+  "QUALITY_INDEX_DESCRIPTION": "Kuita muviri kwakakwana ndiko kwekutsungirira uye kushungurudzika kwepfungwa kunosangana nepamusoro pekukwanisa kugadzirisa uye kugadzirisa mamiriro acho ezvinhu. Nhengo yehutano yehutano inoratidza muviri wevanhu kuti uenderane nekuchinja kwezvakatipoteredza uye kushungurudzika kwekusimudzira, kuchengeta nekudzorera hutano hwehutano. Kuziva muviri kunowanzoonekwa mukukwanisa kwehupenyu hwevanhu, kudzidza, nekushanda, asiwo zvepanyama mukurovedza muviri. Unhu hwomunhu hunobatana nehutano asi hune hukama hwepedyo nekuwana chikafu uye muviri wekurovedza muviri. Achishandisa nzira dzakarurama uye maitiro akanaka, iye / iye anogona kuvandudza hukama hwake mumuviri mune zvose.",
+  "quantity": "Kuwanda",
+  "quesito": "Concern",
+  "QUESTIONS_SECTION_TITLE": "Gamuchira 1 kubvunzurudza pachena kana utano hwehutano hwepamusoro mushure mokuzadza zvizere zvekurapa kwako.",
+  "QUESTIONS_TITLE": "Mibvunzo",
+  "quindici": "Nhamba dzekupedzisira gumi nemashanu",
+  "ratio": "Ratio",
+  "reccomendation": "Reccomendation",
+  "reccomendations": "Mazano",
+  "recommendation": "Mazano",
+  "RECOMMENDATIONS": "Mazano",
+  "RECOMMEND_SECTION_P1": "PaSaluberMD tinoedza kuratidzira kudiwa kwehutano hwehutano hwakanaka munyika yose nekupa vatengi vedu kupinda kune boka rakazara reV Physicians.",
+  "RECOMMEND_SECTION_P2": "Isu tiri nguva dzose tichitsvaga chiremba Physicians kuti tiwedzere kune rimwe boka redu rakanaka. Sezvo nhengo yeboka redu tinoremekedza uye tinokoshesa kutumira kwako.",
+  "RECOMMEND_SECTION_P3": "Ndapota zadza fomu iri pasi apa kuti utaure Chiremba kuSaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Kurudzira Colleague",
+  "RECOMMEND_TITLE": "Nyaradza",
+  "record_aggiornato": "Rangarira zvakabudirira kushandiswa",
+  "record_aggiunto": "Nyora zvakabudirira kuwedzera",
+  "record_inserito": "Achibudirira akawedzera",
+  "record_rimosso": "Rangarira zvakabudirira kubviswa",
+  "REFERRAL": "Kutumira",
+  "REFERRALS": "Zvirondedzero",
+  "referrals_sent": "Zvinyorwa zvinotumirwa",
+  "referral_mail": "Akabatanidzwa pane kutumira kwako.",
+  "referral_sent": "Kutumira kunotumirwa",
+  "refundrequestsent": "Chikumbiro chako chakatumirwa",
+  "register": "Register",
+  "register_report": "Vashandisi Kunyoresa",
+  "registration_date": "Kunyoresa Zuva",
+  "REGISTRATION_HEADER_DOCTOR": "Dzokai muSaluber MD team",
+  "REGISTRATION_HEADER_PATIENT": "Ndapota teerera fomu iri pasi apa uye nyora rejeri",
+  "releaserefresh": "Kusunungurwa kuti uvandudze",
+  "remarks": "Mashoko",
+  "removedevice": "Iwe unoda kubvisa chimbo ichi here?",
+  "removefavorite": "Bvisa kubva kune zvaunoda?",
+  "remove_generic": "Unoda kuibvisa here?",
+  "renalFunction": "Basa reRalal",
+  "reoccurring": "Reoccurring",
+  "repeat_email": "Tsimbisa Email",
+  "report": "Munhu wekliniki faira: Nyaya yakazara yehupfumi",
+  "report1": "Chirongwa chekliniki yega:",
+  "report2": "Bika",
+  "reportvisite": "Taura Videocalls",
+  "report_date": "Nyora Nhamba",
+  "requestdate": "Zuva Rokumbira",
+  "request_already_taken": "Chikumbiro ichi chave chave chakatorwa pane imwe chiremba.",
+  "REQUEST_ERROR": "Ikoko kwaiva nekanganiso apo uchigadzirisa zvikumbiro zvako. Tarisa internet yako yekutengesa kana edzazve zvakare.",
+  "request_sent": "Wakokumbira iwe akatumirwa zvakananga kumuchengeri",
+  "required": "Iyi munda inodiwa.",
+  "required_field": "Yakanyorwa Inodiwa",
+  "RESEND_EMAIL": "Dzorera purogiramu yekusimbisa",
+  "resetCorxFactory": "Unofunga kuti unoda kudzorera zvakare Corx?",
+  "RESETPWD_BTN": "Sarudzazve Password",
+  "RESET_PASSWORD": "Isai imeiri kana zita rekushandisa rinoshandiswa panguva yeChinyoresa",
+  "respiratory": "Kuporesa",
+  "RESPIRATORY_RATE": "Kufuridzira Kurema",
+  "RESTORE_FACTORY_SETTINGS": "Dzorerai Factory Settings",
+  "resultfound": "rekodi yakawanikwa",
+  "results": "Mhinduro",
+  "ricettario": "Nyika",
+  "richiediDrug": "Kumbira Doro",
+  "richiestaAppuntamento": "Chisarudzo Chikumbiro",
+  "richiestaRimborso": "Kubhadhara Chikumbiro",
+  "ricovero": "Hospitalization",
+  "riepilogo": "Pfupiso",
+  "rightHanded": "Right Handed",
+  "rimborso": "Kudzorera",
+  "ripetibile": "Zvinyorwa zve (nguva)",
+  "rr_desc": "Iyo yokufema yakawanda iyo iyo inopera kufema kufema. Iko inowanzofema kupfurikidza kune munhu mukuru pane zororo ndeye 12 kusvika ku20 kufema paminiti. Kufuridzira kunopera pasi pe12 kana kupfuura makumi maviri nemashanu kupfurikidza neminiti apo kuzorora kunoonekwa kusina kujairika",
+  "rs": "Kuporesa System",
+  "RUNNING_CALL_OPT1": "Rambazve",
+  "RUNNING_CALL_OPT2": "Endai Call",
+  "RUNNING_CALL_TITLE": "Running call",
+  "sa": "Kuratidzwa kwakasimba",
+  "sadness": "Kusuruvara",
+  "sai": "Chiito chinyorwa",
+  "sai_desc": "SAI yakachena zvakananga pamwoyo wako. Icho chizere chematric inotarisa mhinduro yemuviri kubasa remuviri - zvakawanda kupfuura zvishoma chete. Kusiyana nekutsvaga danho, SCI inopa chikwereti pane zvose zvinoita kuti mwoyo uwedzere: kushambira, kutengesa mabhasikoro, kutamba, kutamba, chero chii. Ramba uri pasi pemakumi matatu nemakumi matatu eupenyu huri nani uye huri nani.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD murwere",
+  "SATURDAY": "Mugovera",
+  "savedinfo": "Mashoko akabudirira akachengetedzwa",
+  "SAVE_BTN": "Save",
+  "SAVE_MESSAGE": "Kana iwe ukabva, kuchinja kwako kucharasikirwa",
+  "sbpi": "Ropa rinodzvinyirira index",
+  "sbpi_desc": "High blood pressure is the killer silent. Systolic yako uye Diastolic yeropa yepamusoro-soro inofungidzirwa panguva ipi zvayo yezvokurapa iwe unogadzira. Chengetedza SBPI iri pasi pemakumi matatu nematatu kuti uve nemikana yakaderera yekutambudzika kubva mumamiriro ekutyisidzira hupenyu hwakadai sekurova uye ropa.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Weight",
+  "SCALX_PROD": "SCALX",
+  "scan": "Scan",
+  "scanningcorx": "Kutsvaga CORX ... Ndapota Mirai",
+  "schedule": "Purogiramu",
+  "scheduleAnAppointment": "Rongedza musangano",
+  "scheduleappointment": "Rongedza videocall nechiremba",
+  "schtime": "Nguva yakarongwa",
+  "sci": "Mwoyo mutsara",
+  "sci_desc": "Nokuongorora hutachiona hwemagetsi ako isu tiri kuwana zivo pamusoro pehutano hwemwoyo yenyu. Icho chinyorwa cheSC ndechidimbu chehutano hwepfungwa dzako, edza kuzvichengeta pasi pe20!",
+  "sci_title": "SCI",
+  "SEARCH": "Tsvaga",
+  "searchallergy": "Tsvaga kutsvaga",
+  "searchdoctor": "Tsvaga chiremba",
+  "searchfordoctor": "Tsvaga chiremba nezita kana kuti chirairo",
+  "searchingdevice": "Kutsvaga kifaa. Zvinogona kutora nguva",
+  "searching_avail_date": "Tsvaga zuva rawanikwa ...",
+  "searching_online_doctors": "Kutsvaga paIndaneti vanachiremba vari kufambira mberi ...",
+  "searchmedication": "Tsvaga mishonga",
+  "searchpatient": "Tsvaga murwere",
+  "searchpatologia": "Tsvaga chirwere chekurapa",
+  "searchsymptom": "Tsvaga chiratidzo",
+  "searchuser": "Tsvaga tsvaga",
+  "search_doctor_description": "Tsvaga chiremba wezita rekushandisa, email kana zita",
+  "search_patient_description": "Tsvaga murwere wezita rekushandisa, email kana zita",
+  "search_specialization": "Tsvaga kuongorora",
+  "search_user_description": "Tsvaga mushandisi wezita rekushandisa, email kana simboti",
+  "search_videocall_description": "Tsvaga videocall yakaitwa neiziative",
+  "search_videocall_title": "Serach Videocall nezuva",
+  "secondaryMood": "Secondary Mood",
+  "secondOpinion": "Pfungwa yeChipiri Inokumbira",
+  "seconds": "masekondi",
+  "second_opinion_1": "Zvinonzwisisika, kuvimba kwechokwadi kune chirongwa chechipiri chechiremba kubva kune nyanzvi dzinotungamirira pasi rose.",
+  "second_opinion_2": "Chipatara Chedu Chipiri Pfungwa Inobatsira inogona kukubatsira:",
+  "second_opinion_3": "Wana mhinduro dzemibvunzo yako",
+  "second_opinion_4": "Sarudza hurongwa hwakanaka hwekurapa",
+  "second_opinion_5": "Iva nechokwadi chekuti chirwere chinoratidzika",
+  "second_opinion_body": "Mudiwa mushandisi, <br> chikumbiro chako chechipiri cheOpion chakatorwa mumaoko ehunyanzvi hwedu ari kuongorora magwaro awakatumira.",
+  "second_opinion_history": "Pfungwa yeChipiri Inokumbira",
+  "second_opinion_msg": "Wazviita. Murevereri wedu wehutano achakubatsira iwe mukati maawa 24 anotevera.",
+  "SECOND_OPINION_Q1": "Chii chaunoda kutaura nevanodya nutrition?",
+  "second_opinion_question1": "Ndiani wechipiri?",
+  "second_opinion_question2": "Pakira faira",
+  "second_opinion_step1": "Pedzisa mubvunzo mutsva mutsva / Itai mafaira ako",
+  "second_opinion_step2": "Vanachiremba vedu vachaongorora zvinhu zvenyu",
+  "second_opinion_step3": "Chiremba anobvumirana kuti akurukure zvawanikwa",
+  "secOpChoice": "Ndokumbira sarudza kuti ndeipi nzira yaungada kugamuchira yechipiri maonero",
+  "section": "Ndapota, sarudza imwe chikamu",
+  "security": "Chengetedzo",
+  "seeaprovider": "Ona Anopa",
+  "seecommenti": "View Comments",
+  "seedoctor": "Ona chiremba zvino",
+  "SEE_A_DOCTOR_Q1": "Ndeipi iyi vhidhiyo yekufonera?",
+  "SEE_A_DOCTOR_Q10": "Tinogona kutumira mishonga yako inotungamira pharmacy yeunosarudza",
+  "SEE_A_DOCTOR_Q1B": "Zita uye kuberekwa kwomwana wako?",
+  "SEE_A_DOCTOR_Q1_A1": "Ini",
+  "SEE_A_DOCTOR_Q1_A2": "Mwana wangu",
+  "SEE_A_DOCTOR_Q2": "Ndapota tsanangurai zvaunoda kutaura nachiremba pamusoro",
+  "SEE_A_DOCTOR_Q3": "Zviratidzo?",
+  "SEE_A_DOCTOR_Q4": "Unoda here kuisa chithunzi, kana kuti zvinyorwa?",
+  "SEE_A_DOCTOR_Q4_ERROR": "ERROR: Files haifaniri kudarika 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Sarudza faira",
+  "SEE_A_DOCTOR_Q4_S2": "Tora mufananidzo",
+  "SEE_A_DOCTOR_Q5": "Iwe ikozvino uri kutora chero mishonga, kana zvakadaro fadza kunyora zita racho",
+  "SEE_A_DOCTOR_Q5_CHILD": "Mwana wako ari kutora chero mushonga here? kana zvakadaro ndapota rodha zita",
+  "SEE_A_DOCTOR_Q5_S1": "Zita:",
+  "SEE_A_DOCTOR_Q5_S2": "Dosage:",
+  "SEE_A_DOCTOR_Q6": "Iwe une chirwere chipi zvacho here?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Mwana wako ane chero zvinopesana here? kana zvakadaro ndapota rodha zita",
+  "SEE_A_DOCTOR_Q7": "Iwe une chirwere chipi zvacho here?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Mwana wako ane chero mamiriro ekurapa here? kana zvakadaro ndapota rodha zita",
+  "SEE_A_DOCTOR_Q8": "Iwe unopa chiremba chiremba kuti aone faira rako rekurapa paIndaneti here?",
+  "SEE_A_DOCTOR_Q9": "Pharmacy yakasarudzwa",
+  "SEE_A_DOCTOR_TITLE": "Ona Chiremba",
+  "SEE_A_PROVIDER": "Ona Anopa",
+  "segment": "Chikamu",
+  "selectAFile": "Tinya bhatani pazasi kusarudza faira",
+  "selectaprovider": "Sarudza Anopa",
+  "selectcarderror": "Ndapota, sarudza kadhi",
+  "selectdoctor": "Shandisai agenda ye",
+  "selectdoctor1": "Sarudza chiremba",
+  "selectdrug": "Sarudza Mishonga",
+  "selectedContact": "Nzira dzekusangana",
+  "selectinitiative": "Sarudza imwe kana zvimwe zvirongwa ...",
+  "selectnutritionist": "Sarudza wako wekudya zvinovaka muviri",
+  "selectpatient": "selectpatient",
+  "select_country": "Ndapota, sarudza nyika",
+  "select_device": "Sarudza chigadzirwa",
+  "select_file": "Sarudza Faira",
+  "select_file_btn": "Sarudza faira",
+  "select_patient": "Dzvanya pamutsara kuti uone tsanangudzo",
+  "send": "Tumira",
+  "sendmessage": "Tumira mharidzo",
+  "sendtoken": "Tumira izvi kuna chiremba kuti mumubvumira kusvika kune faira yako yezvechiremba. Iyi link inopera mumaminitsi gumi",
+  "SEND_BTN": "Tumira",
+  "send_doctor_request": "Tumira chikumbiro",
+  "sentmessage": "Sent Messages",
+  "SERVICE_TYPE": "Rudzi rweBasa",
+  "sessantad": "Last 60 days",
+  "SESSION_EXPIRED": "Iwe musangano wapera. Ndokumbirawo mupinde zvakare",
+  "setAlarm": "Isa Alarms",
+  "settd": "Mazuva manomwe ekupedzisira",
+  "settings_saved": "Zvigadziriro zvakabudirira zvakachengetedzwa",
+  "setTreshold": "Range Range",
+  "SET_BTN": "Isa",
+  "SET_USER_EMAIL": "Ndapota, tsanangurai zita rekushandisa kana email",
+  "set_vital_signs": "Isa Zviratidzo Zvinokosha",
+  "sevendays": "7 Mazuva",
+  "showalldata": "Ratidza Zvose Zvese",
+  "showOnEmergency": "ratidza paEmergency",
+  "signature": "Chiratidzo chako (chinoshandiswa pamitemo)",
+  "signature_word": "Chiratidzo",
+  "SIGNUP_BTN": "Nyorera",
+  "sii": "Inishuwarenzi Index",
+  "sii_desc": "SII inosanganiswa yese yeSaluberMD indexes uye igiratiro chako chekuda kwehutano. Kana uri pasi pe30 uri munzvimbo yakachengeteka!",
+  "sii_title": "SII",
+  "since": "Kubvira",
+  "single": "Zuva rimwe chete",
+  "singleAccess": "Imwechete kupinda",
+  "sitreminder": "Gara Chiyeuchidzo",
+  "sit_period": "Period",
+  "skip": "Enda",
+  "skip_pull": "Rega",
+  "skip_step": "Skip",
+  "sl": "Kushungurudzika",
+  "SLEEP": "Kurara",
+  "slotime": "Slot Nguva yakareba (min)",
+  "sl_alta": "guru kupfuura 85 bpm",
+  "sl_bassa": "akadzika kupfuura 65",
+  "sl_desc": "Izvo zvinodzvinyirira huwandu hunoenderana nekurohwa paminiti",
+  "sl_normale": "pakati pe65 ne85 bpm",
+  "smoker": "Smoker",
+  "snacks": "Snacks",
+  "SOMETIMES": "Dzimwe nguva",
+  "SONNO": "Kurara",
+  "SOP_Q4": "Isai mharidzo yako yezvechiremba",
+  "sos": "SOS",
+  "so_specialization": "Specialty",
+  "specialists": "Nyanzvi",
+  "specialization": "Sarudza kukosha",
+  "SPECIALTY": "Specialty",
+  "specifyother": "Ndapota, tsanangura imwe",
+  "specifyvalue": "Ndapota, tsanangura kukosha",
+  "spirometer": "Spirometry",
+  "spo2_desc": "SpO2 kana ropa yeropaji yepamusoro ndiyo imwe yehuwandu hweiyo oxygen yako masero matsvuku eropa anotakura. Maitiro anowirirana ari pakati pe95% uye 100%, A iri pasi-yakakwana yeropaji yezinga inonzi inonzi hypoxemia",
+  "sri": "Kufuridzira index",
+  "sri_desc": "Isu tinoongorora kufema kwako mafambiro panguva ipi zvayo yezvokurapa uye munguva yako yekurara. Kana SRI iri pasi pemakumi matatu makumi matatu ematambudziko ako ekutambura nekunetseka kwekuporesa mamiriro ezvinhu akaderera.",
+  "sri_title": "SRI",
+  "ssi": "Kushungurudzika index",
+  "ssi_desc": "Nokuongorora kufanana kwekushaya kwemoyo yenyu tinofananidza nehuwandu hwekunetseka. Kushungurudzika kunoita sekunowedzera kana kuwedzera mungozi yemamiriro ezvinhu sekurema, chirwere chemwoyo, chirwere cheAlzheimer, chirwere cheshuga, kuora mwoyo, matambudziko emimba, uye mafi. Ichengetedze iri pasi pe20 kuti uve parutivi rwakachengeteka!",
+  "ssi_title": "SSI",
+  "start": "Tanga",
+  "startcall": "Tanga foni",
+  "startdate": "Kubva",
+  "starthour": "Tanga Nguva",
+  "startmeasure": "Iye zvino iwe unogona kutanga chiyero nekudhinda bhodton iri pachigadzirwa",
+  "startnow": "Tanga ikozvino",
+  "startRecording": "Dhinda uchitanga kunyora izwi inzwi",
+  "startyping": "Tanga kuverenga zita",
+  "start_blowing": "Tanga Kurira",
+  "start_test": "Tanga kuedza",
+  "start_time": "Tanga Nguva",
+  "state": "State",
+  "state1": "State",
+  "STATES_LICENSE": "States Licensed",
+  "state_problem": "Ndapota, taura dambudziko rako",
+  "status": "Mamiriro ezvinhu",
+  "step": "Nhanho",
+  "STEPS_GOAL": "Mitsva Inangwa",
+  "stoolTest": "Stool Bvunzo",
+  "stop": "Mira",
+  "stop_test": "Stop test",
+  "stress": "Kushungurudzika",
+  "stroke_vol": "Stroke volume",
+  "stroke_volume": "Stroke volume",
+  "stroke_volume_desc": "Irosiro yevhesi ibhuku reropa rinodonhwa nechirwere chimwe nechimwe kuburikidza",
+  "struttura": "Maitiro",
+  "strutture": "Zvivako",
+  "subject": "Nyaya",
+  "subject_so": "Nyaya",
+  "submissionDate": "Submission Date",
+  "success": "Success",
+  "SUCCESS_TITLE_NOTIFICATION": "Success",
+  "SUMMARY": "Kuziva",
+  "summary1": "Summary",
+  "SUNDAY": "Svondo",
+  "surgery": "Surgery",
+  "surgeryAndHospitalization": "Hospitali uye History Yokuvhiya",
+  "surgeryCategory": "Surgery Category",
+  "surname": "Zita",
+  "sv_alta": "mukuru kudarika zana",
+  "sv_bassa": "akadzika kupfuura 55 ml",
+  "sv_normale": "pakati pe55 ne100 ml",
+  "switchsearch": "Shandisa kutsvaga",
+  "symptoms": "Zviratidzo",
+  "SYMPTOMS_BTN": "Zviratidzo",
+  "sync": "Sync",
+  "SYNC_TIME": "Sync Time",
+  "sysdia": "Kushingaira",
+  "systolic": "Systolic",
+  "TAKE": "Tora",
+  "takeAppointment": "Tora nguva",
+  "TAKE_APP": "Kurongwa Kugadzwa",
+  "TAKE_A_PHOTO": "Tora mufananidzo",
+  "tall": "Iwe uri murefu sei iwe",
+  "tapconnect": "Tapira kuti ubatane",
+  "tapdisconnect": "Tapira kuti unganise",
+  "tap_to_expand": "Tapira kuti uwedzere",
+  "telNameMandatory": "Ndapota, tsanangura zita",
+  "telNumberMandatory": "Ndapota, tsanangura nhamba yefoni",
+  "temper": "Temper",
+  "temperDescription": "Chiyero chepfungwa chinoputira mutauri wepfungwa yose. Kunyoroka kunotsanangura kuora mwoyo uye kuora mwoyo. Utsi hunenge huri pakati huno hunotsanangura ushamwari, hudziya uye hukama. Kunyanya kutsvaga tsika kunotsanangura mafungiro ekurwisana, kudzvinyirira uye utsinye.",
+  "tendays": "Yokupedzisira 10",
+  "ten_min": "Mumaminitsi gumi",
+  "terminata": "Dana Achibudirira",
+  "TERMS_TITLE": "Mitemo yekushandisa",
+  "test": "Test",
+  "testmichele": "test michele",
+  "testresult": "Miedzo Inoguma",
+  "testresults": "Mhinduro Dzokuedzwa",
+  "tests": "Miedzo",
+  "text": "Text",
+  "thiscC": "Iyi kadhi rechikwereti ichashandiswa kubhadhara kune sevhisi",
+  "THURSDAY": "China",
+  "thyroidTest": "Thyroid Basa Rokuedza",
+  "tickets": "Matikiti",
+  "TICKET_HISTORY": "Nhoroondo yetikiti",
+  "TICKET_NUMBER": "Tiketi nhamba",
+  "ticket_subject": "Kumbira Nyaya",
+  "timecallerr": "Ndine urombo, iwe haugoni kuita call ikozvino",
+  "timecallerr1": "Ndine urombo, iwe unofunga unoita foni nokuti iwe unopfuura nguva yakatarwa",
+  "TIMELINE": "My Timelines",
+  "times": "Kangani pazuva?",
+  "timesaday": "Times Zuva",
+  "tipopratica": "Type Practice",
+  "tipo_struttura": "Mhando Yomutauro",
+  "tipshealt0": "Health Tips",
+  "tipshealt1": "Flu shot - Ndinofanira kuwana chirwere chinopikisa chirwere here?",
+  "tipshealt10": "Dzvanya pano kuti uwane mamwe mashoko",
+  "tipshealt11": "Kubatsirwa kwemasimoni kurapwa, kuderedza cholesterol zvinodhaka, kupfuurira kune ngozi",
+  "tipshealt12": "Muchiitiko chekuongorora chichangobva kuitika muLancet, vatsvakurudzi vakagumisa kuti kubatsirwa kwekuderedza LDL cholesterol neine statin therapy kunogona kudzivirira maitiro makuru emavhutu (kukuvadzwa kwemwoyo, kurohwa) uye inopfuura mungozi yemishonga.",
+  "tipshealt13": "Maererano nevanotsvakurudza chete zviitiko zvakakomba zvakashata zvakaratidzwa kuti zvinokonzerwa nekugara kwenguva yakareba kurapwa kune myopathy (inotsanangurwa semarwadzo emusana kana kushaya simba), itsva-inotanga chirwere cheshuga mellitus, uye, zvichida, haemorrhagic stroke.",
+  "tipshealt2": "Kunyange zvazvo chirwere chepiruru hachiwanzoiti zvachose kudzivirirwa, zvakakosha kuwana. ICDC (Centers for Disease Control and Prevention) inokurudzira vachengetedzo yegore negore kune munhu wese ane makore matanhatu kana kupfuura. Kurwisa kunonyanya kukosha kune vanhu vari pangozi yakawanda yehutano hwehutano, kusanganisira",
+  "tipshealt3": "Vakadzi vane pamuviri",
+  "tipshealt4": "Vanhu vakuru (makore makumi mashanu nekure)",
+  "tipshealt5": "Vana vaduku (pasi pemakore mana uye pamusoro pemwedzi 6)",
+  "tipshealt6": "Chiito chepanyama chinowedzera chiyeuchidzo uye unyanzvi hwokufunga",
+  "tipshealt7": "Kuita zvekuita nguva dzose kunogona kuvandudza uropi hunoita hupenyu hupenyu hwose uye kuderedza dambudziko rekuora mwoyo.",
+  "tipshealt8": "Zvidzidzo zvakasiyana-siyana zvakabudiswa pakusangana kwepedyo uye kubatsirwa kwekuita zvekuita nguva dzose uye kugadziriswa kugadzirisa basa.",
+  "tipshealt9": "Izvozvo zvinosangana zvakananga muuropi uye zvisina kurongeka kuburikidza nezviito zvemagetsi uye zvemuviri pamuviri.",
+  "title": "Title",
+  "to": "to",
+  "todayAppointment": "Kugadzwa kwanhasi",
+  "tooltip1": "Isa zita rechiremba waunoda kutarisira ajenda",
+  "totale": "Zvese",
+  "totalSleepTime": "Zvose nguva yekurara",
+  "total_cholesterol_desc": "Ukoshi uhwu kufungidzira kwese cholesterol iri muropa",
+  "TOTAL_SLEEP_TIME": "Total Sleep Time",
+  "tot_non_risposte": "Kudana kwete Kupindurwa",
+  "tot_ricevute": "Call yakagamuchirwa",
+  "tot_visite": "Kushanyira Kuitwa",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Dhinda",
+  "trenta": "Zviratidzo zvekupedzisira makumi matatu",
+  "trentad": "Last 30 days",
+  "triglycerides": "Triglycerides",
+  "trig_cholesterol_desc": "Triglycerides imhando yemafuta (lipid) inowanikwa muropa rako. Iyi tafura inotevera inoratidza mhando yeiyo kukosha.",
+  "TUESDAY": "Chipiri",
+  "tutte": "Zvose zviyero",
+  "type": "Tora",
+  "TZONE": "Timezone",
+  "underweight": "Underweight",
+  "unit": "Unit",
+  "UNIT_SETTING": "Unit Setting",
+  "uom": "Chikamu cheyero",
+  "upcomingAppointmentPatient": "Kugadzwa Kunouya kwe",
+  "UPDATE": "Update",
+  "updatelist": "Purogiramu yekuvandudza",
+  "update_app_message": "Iwe unofanirwa kuvandudza app yako",
+  "UPDATE_AVAILABLE": "Update Available",
+  "UPDATE_BTN": "Update",
+  "update_completed": "Firmware Yakavandudzwa Achibudirira",
+  "update_firmware_download_error": "Kukanganisa pakutsvaga firmware",
+  "update_list": "Update",
+  "UPLOAD_ERROR": "ERROR: Files haifaniri kudarika 5 MB",
+  "upload_referral": "Isa yako kutumira mubhokisi riri pasi apa.",
+  "urinTest": "Urine bvunzo",
+  "user": "User",
+  "userdata": "Dhiyabhorosi data",
+  "usermanagement": "Kutungamirirwa kwevashandi",
+  "USERNAME": "Username",
+  "username1": "Username",
+  "utente_aggiunto": "Mushandisi akabudirira",
+  "utente_rimosso": "Mushandisi akabudirira akabviswa",
+  "utente_salvato": "Mushandisi akavandudzwa",
+  "vaccinobbligatorio": "Ndapota, sarudza mishonga",
+  "vaioffline": "Endai Pakuvamba",
+  "vaionline": "Enda Online",
+  "valence": "Valence",
+  "valenceDescription": "Zvimwe zvinokonzerwa nekushaya hanya kusvika positivity. Paunoteerera munhu kutaura, zvinoita kuti unzwisise kuti &quot;zvakanaka&quot; kana kuti &quot;zvakaipa&quot; vanonzwa sei pamusoro pehurukuro, chinhu kana chiitiko chiri kukurukurwa.",
+  "value": "Kukosha",
+  "vascular_age": "Vascular age",
+  "vascular_age1": "Vascular age",
+  "va_desc": "Vascular Age inokupa imwe chimiro chekuonekwa kwezera remaroto ako, kana uchienzaniswa nevanhu vane utano. Kana mazera ako emasikirwo akakura kudarika nguva yako yemakore, iwe unogona kunge uri pangozi yekutengesa mwoyo yemwoyo (CVD) gare gare muupenyu.",
+  "videocall": "Videocall",
+  "VIDEOCALL_DES1": "Dhinda bhatani riri pasi apa kuti uchinje mararamiro ako uye ugamuchire kana kuti usakagamuchira zviziviso. Yeuka kuti unogona kugamuchira chiziviso chete kana iwe uri paIndaneti.",
+  "VIDEOCALL_DES2": "Paunogamuchira foni, chengeta pachetete iyo ichaonekwa sekutora foni.",
+  "videocall_filter": "Sefa nezita kana hunyanzvi",
+  "videocall_request": "Vhidhiyo yevhidhiyo yevideo kubva kune",
+  "videocall_request_title": "Videocall Kumbira",
+  "videocall_req_from": "Chikumbiro videocall kubva:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "Dzvanya kuti uite iyo vhidhiyo",
+  "VIDEO_CALL_BTN": "Vhidhiyo foni",
+  "VIDEO_CALL_BTN_1": "Vhidhiyo",
+  "view": "Ona",
+  "viewmedicalfile": "Ona faira yezvechiremba",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Gadzira Virtual Office yako",
+  "VIRTUAL_OFFICE_TITLE": "Virtual Office",
+  "visitdetail": "Dzvanya pane chimwe chinhu kuti uone nhoroondo yakakwana yemurwere",
+  "visithistory": "Enda Kunhoroondo",
+  "visitlist": "Rwendo rwekushanyira",
+  "VISIT_HISTORY_NO_HISTORY": "Iwe hauna kushanya zvakare",
+  "VISIT_HISTORY_SUBTITLE": "Dzvanya pane chimwe chinhu kuti uone zvese zvakazara",
+  "VISIT_HISTORY_TITLE": "Enda Kunhoroondo",
+  "volte": "Times",
+  "waiting": "Inogadzirisa ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Zvakanaka",
+  "WARNING_TITLE_NOTIFICATION": "Cherechedza",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Health Data",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Wellness Data",
+  "WATCH_DEVICE_DATA_TITLE": "Dhavhidha yako yedhadha yedhadha",
+  "water": "Mvura",
+  "weanedoff": "Kununura kubva?",
+  "WEDNESDAY": "Chitatu",
+  "week": "Vhiki",
+  "weight": "Weight",
+  "weightUnit": "Weight Unit",
+  "welcome": "Mauya",
+  "wellness": "Wellness",
+  "wellnessdata": "Wellness Data",
+  "wellnessSuccess": "Success",
+  "WHITE_SPACES": "Izwi rekushandisa harifaniri kunge rine nzvimbo dzakachena",
+  "WRIST_CUT_SCREEN": "Tora Wrist Cut Screen",
+  "writtenRep": "Chirevo chakanyorwa",
+  "W_RESPIRATORY_RATE": "Breath",
+  "xray": "X-ray",
+  "Y": "Ehe",
+  "year": "Gore",
+  "years": "makore",
+  "yes": "Ehe",
+  "yourarousal": "Your arousal",
+  "youremotion": "Manzwiro ako",
+  "yourmood": "Manzwiro ako",
+  "yourtemper": "Hasha dzenyu",
+  "yourvalence": "Your valence",
+  "your_sai": "Basa renyu rekuita nderekuti:",
+  "your_sbpi": "Ropa Rako rinodzvinyirira nderekuti:",
+  "your_sci": "Iwe nyanzvi yenzanga ndeyi:",
+  "your_sii": "Your inshuwarise index ndiyo",
+  "your_sri": "Your Respiratory index is:",
+  "your_ssi": "Dambudziko rako rekunyanyisa nderekuti:",
+  "your_stress": "Kunetseka kwako ndeyekuti:",
+  "your_va": "Nguva yako yevascular is:",
+  "zero_min": "Iye zvino",
+  "zipCode": "Zipi kodhi",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

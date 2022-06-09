@@ -1,0 +1,388 @@
+import { NavigationContainer } from '@react-navigation/native'
+import { navigationRef, isMountedRef } from './index'
+import { createStackNavigator } from '@react-navigation/stack'
+import React, { useEffect } from 'react'
+import Routes from './Routes'
+// Screens Objects
+import SplashView from '../views/SplashView'
+import AccountView from '../views/account'
+import LoginView from '../views/login_signup/LoginView'
+import SignUpView from '../views/login_signup/SignUpView'
+import Login_SignUpView from '../views/login_signup'
+import DrawerNavigation from '../views/drawerMenu'
+import WelcomeScreen from '../views/welcome'
+import HealthProfileScreen from '../views/healthProfile/HealthProfileScreen'
+import PersonalInfoScreen from '../views/healthProfile/PersonalInfoScreen'
+import MedicalRecordScreen from '../views/healthProfile/medical_records'
+import DetailAllergieScreen from '../views/healthProfile/medical_records/detail_allergies/DetailAllergie'
+import TermsPrivacyView from '../views/login_signup/detail_sign_up/TermsPrivacyView'
+import SignUpInformationView from '../views/login_signup/detail_sign_up/SignUpInformationView'
+import ChronicDiseaseView from '../views/healthProfile/chronic_disease'
+import DetailChronicDisease from '../views/healthProfile/chronic_disease/detail_chronic_disease/DetailChronicDisease'
+import MedicationView from '../views/healthProfile/medication'
+import DetailMedication from '../views/healthProfile/medication/detail_medication'
+import DependenciesView from '../views/healthProfile/dependencies'
+import DetailDependency from '../views/healthProfile/dependencies/detail_dependencies'
+import HospitalizationsView from '../views/healthProfile/hospitalizations'
+import DetailHospitalization from '../views/healthProfile/hospitalizations/detail_hospitalization'
+import ImmunizationsView from '../views/healthProfile/immunization'
+import DetailImmunization from '../views/healthProfile/immunization/detail_immunization'
+import IrregularView from '../views/healthProfile/irregular'
+import DetailIrregular from '../views/healthProfile/irregular/detail_irregular'
+import ProsthesisView from '../views/healthProfile/prosthesis'
+import DetailProsthesis from '../views/healthProfile/prosthesis/detail_prosthesis'
+import ShareYourMedicalRecord from '../views/home_screen/components/SOSButton/ShareYourMedicalRecord'
+import ProfileInfoView from '../views/account/profile_info/ProfileInfoView'
+import ChangePasswordView from '../views/account/change_password/ChangePasswordView'
+import VideoView from '../views/home_screen/direct_call'
+import Anamnesis from '../views/video_call/Anamnesis'
+import StarRatingScreen from '../views/video_call/StarRatingScreen'
+import VideoCallView from '../views/home_screen/direct_call/VideoCallView'
+import DetialAppointment from '../views/visit/DetialAppointment'
+import DetailWaiting from '../views/visit/DetailWaiting'
+import DetailConsultation from '../views/visit/DetailConsultation'
+import DocumentList from '../views/documentlist/DocumentList'
+import Visit from '../views/visit'
+import NewAppointment from '../views/home_screen/new_appointment'
+import VisitsDirectCallView from '../views/home_screen/direct_call/VisitsDirectCallView'
+import ThankYou from '../views/home_screen/new_appointment/components/ThankYou'
+import PersonalDetails from '../views/health_profile_main/medical_records/PersonalInfo/PersonalDetails'
+import Address from '../views/health_profile_main/medical_records/PersonalInfo/Address'
+import ContactInfo from '../views/health_profile_main/medical_records/PersonalInfo/ContactInfo'
+import EmergencyContact from '../views/health_profile_main/medical_records/PersonalInfo/EmergencyContact'
+import FamilyPhysician from '../views/health_profile_main/medical_records/PersonalInfo/FamilyPhysician'
+import NewRecord from 'views/health_profile_main/medical_records/NewRecord'
+import HealthProfileMain from '../views/health_profile_main'
+import NewDetailChronicDisease from '../views/health_profile_main/medical_records/Medical/Detail/DetailChronicDisease'
+import NewDetailAllergy from '../views/health_profile_main/medical_records/Medical/Detail/DetailAllergy'
+import DetailDataTracking from 'views/health_profile_main/tracking/detail/DetailDataTracking'
+import NewDetailMedication from '../views/health_profile_main/medical_records/Medical/Detail/DetailMedication'
+import NewDetailDependency from '../views/health_profile_main/medical_records/Medical/Detail/DetailDependency'
+import NewDetailImmunization from '../views/health_profile_main/medical_records/Medical/Detail/DetailImmunization'
+import NewDetailIrregular from '../views/health_profile_main/medical_records/Medical/Detail/DetailIrregular'
+import NewDetailProsthesis from '../views/health_profile_main/medical_records/Medical/Detail/DetailProsthesis'
+import NewDetailHosnSur from '../views/health_profile_main/medical_records/Medical/Detail/DetailHosnSur'
+import AddManualInputSPO2 from 'views/health_profile_main/tracking/add_spo2/AddManualInputSPO2'
+import DetailFile from '../views/health_profile_main/file_archive/DetailFile'
+import ListSpO2 from 'views/health_profile_main/tracking/detail/ListSpO2'
+import NewDocument from '../views/health_profile_main/file_archive/NewDocument'
+import ListBodyTemperature from 'views/health_profile_main/tracking/detail/ListBodyTemperature'
+import AddBodyTemperature from 'views/health_profile_main/tracking/add_body_temperature/AddBodyTemperature'
+import ListWeight from 'views/health_profile_main/tracking/detail/ListWeight'
+import ListBodyPressure from 'views/health_profile_main/tracking/detail/ListBodyPressure'
+import ListHeartRate from 'views/health_profile_main/tracking/detail/ListHeartRate'
+import AboutUs from '../views/support/category/AboutUs'
+import OurDoctor from '../views/support/category/OurDoctor'
+import FAQs from '../views/support/category/FAQs'
+import Privacy from '../views/support/category/Privacy'
+import TermOfUse from '../views/support/category/TermOfUse'
+import Pricing from '../views/support/category/Pricing'
+import ListVitalCareKit from 'views/health_profile_main/tracking/detail/ListVitalCareKit'
+import DetailMagazine from '../views/magazine/DetailMagazine'
+import ViewProfile from '../views/support/category/components/ViewProfile'
+import ListCorXData from 'views/health_profile_main/tracking/detail/ListCorXData'
+import ListBreathingVolumes from 'views/health_profile_main/tracking/detail/ListBreathingVolumes'
+import AddManualInputWeight from 'views/health_profile_main/tracking/add_weight/AddManualInputWeight'
+import AddHeartRate from 'views/health_profile_main/tracking/add_heart_rate/AddHeartRate'
+import DetailViewProfile from '../views/support/category/components/DetailViewProfile'
+import ContactUs from '../views/support/category/ContactUs'
+import AddBloodPressure from 'views/health_profile_main/tracking/add_blood_pressure/AddBloodPressure'
+import SettingUnit from 'views/account/settingunit/SettingUnit'
+import DetailBloodPressure from 'views/health_profile_main/tracking/detail_data_tracking/DetailBloodPressure'
+import DetailWeight from 'views/health_profile_main/tracking/detail_data_tracking/DetailWeight'
+import WaitingFaceId from 'views/login_signup/WaitingFaceId'
+import NotificationScreen from 'views/notification'
+import MedicineReminder from 'views/tools/medicine_reminder'
+import Pharmacies from 'views/tools/pharmacy'
+import AddBreathingVolumes from 'views/health_profile_main/tracking/add_breathing_volumes/AddBreathingVolumes'
+import DetailMessage from 'views/notification/messages_screen/DetailMessage'
+import NewReminderPill from 'views/tools/medicine_reminder/NewReminderPill'
+import RemindersView from 'views/reminders'
+import MapViewScreen from 'views/home_screen/components/MapViewScreen'
+import NewReminderExcercise from 'views/tools/medicine_reminder/NewReminderExcercise'
+import NewReminderMeasurement from 'views/tools/medicine_reminder/NewReminderMeasurement'
+import DetailReminder from 'views/tools/medicine_reminder/DetailReminder'
+import AddPharmacy from 'views/tools/pharmacy/AddPharmacy'
+import DetailPharmacy from 'views/tools/pharmacy/DetailPharmacy'
+import ClinicAppointment from 'views/services/clinic_appointment'
+import AddRequestClinic from 'views/services/clinic_appointment/AddRequestClinic'
+import DetailClinic from 'views/services/clinic_appointment/DetailClinic'
+import DoctorAtHome from 'views/services/doctor_at_home'
+import BookDoctorAtHome from 'views/services/doctor_at_home/step_to_book'
+import GeneticTest from 'views/services/genetic_test'
+import AddRequestTest from 'views/services/genetic_test/AddRequestTest'
+import SecondOpinion from 'views/services/second_opinion'
+import BookSecondOpinion from 'views/services/second_opinion/step_to_book'
+import DetailReminderView from 'views/home_screen/components/MedicineWidget/DetailReminder'
+import NutritionistStep1 from 'views/services/nutrionist/Step1'
+import NutritionistStep2 from 'views/services/nutrionist/Step2'
+import NutritionistStep3 from 'views/services/nutrionist/Step3'
+import NutritionistStep4 from 'views/services/nutrionist/Step4'
+import NutritionistStep5 from 'views/services/nutrionist/Step5'
+import NutritionistStep6 from 'views/services/nutrionist/Step6'
+import NutritionistStep7 from 'views/services/nutrionist/Step7'
+import NutritionistStep8 from 'views/services/nutrionist/Step8'
+import NutritionistStep9 from 'views/services/nutrionist/Step9'
+import NutritionistStep10 from 'views/services/nutrionist/Step10'
+import NutritionistStep11 from 'views/services/nutrionist/Step11'
+import NutritionistStep12 from 'views/services/nutrionist/Step12'
+import ForgotPasswordView from 'views/login_signup/ForgotPasswordView'
+import StepsScreen from 'views/health_profile_main/wellness_data/step'
+import AddStep from 'views/health_profile_main/wellness_data/step/AddStep'
+import CaloriesScreen from 'views/health_profile_main/wellness_data/calories'
+import Summary2OpinionScreen from 'views/services/second_opinion/step_to_book/Step6'
+import AddCalories from 'views/health_profile_main/wellness_data/calories/AddCalories'
+import SleepScreen from 'views/health_profile_main/wellness_data/sleep/index'
+import AddSleep from 'views/health_profile_main/wellness_data/sleep/AddSleep'
+import PushyView from '../views/PushyView'
+import NotiSetting from 'views/account/notification'
+import PaymentView from 'views/payment'
+import SurveyView from 'views/tools/survey'
+import SurveyDetail from 'views/tools/survey/SurveyDetail'
+import SignUpDoctor1 from 'views/login_signup/SignUpDoctor/Step1'
+import SignUpDoctor2 from 'views/login_signup/SignUpDoctor/Step2'
+import SignUpDoctor3 from 'views/login_signup/SignUpDoctor/Step3'
+import SignatureView from 'views/login_signup/SignUpDoctor/components/SignatureView'
+import HomeDoctorScreen from 'views/doctor_view/home_view'
+import DrawerNavigationDoctor from 'views/doctor_view/drawer_menu'
+import PdfView from 'views/visit/PdfView'
+import HealthProfile from 'views/health_profile_main'
+
+//Doctor
+
+import NotificationNavigator from 'views/doctor_view/notification_navigator'
+import VideoCallDoctorView from 'views/doctor_view/video_call_doctor'
+import VideoCallNavigate from 'views/doctor_view/video_call_navigate'
+import ListWeightDoctorView from 'views/doctor_view/video_call_navigate/tracking/weight'
+import ListPressureDoctorView from 'views/doctor_view/video_call_navigate/tracking/blood_pressure'
+import PostCallScreen from 'views/doctor_view/post_call'
+import TransferCallScreen from 'views/doctor_view/video_call_doctor/TransferCall'
+import ListBreathDoctorView from 'views/doctor_view/video_call_navigate/tracking/breath'
+import ListSpo2DoctorView from 'views/doctor_view/video_call_navigate/tracking/spo2'
+import ListBodyTempDoctorView from 'views/doctor_view/video_call_navigate/tracking/body_temp'
+import ListHeartRateDoctorView from 'views/doctor_view/video_call_navigate/tracking/heart_rate'
+import ListBloodPressureDoctorView from 'views/doctor_view/video_call_navigate/tracking/blood_pressure'
+import AgendaDoctorView from 'views/doctor_view/agenda'
+import DetailHistoryAppointmentDoctor from 'views/doctor_view/agenda/history/DetailHistory'
+import SearchHistoryAppointmentDoctor from 'views/doctor_view/agenda/history/SearchScreen'
+import TodaySlotScreen from 'views/doctor_view/agenda/appointments/accpect_request_appointment/TodaySlot'
+import PatientDetailScreen from 'views/doctor_view/patient/PatientDetail'
+import PatientScreen from 'views/doctor_view/patient'
+import ConsultationLobbyScreen from 'views/doctor_view/consultation_lobby'
+import ConsultationDetailScreen from 'views/doctor_view/patient/consultation/ConsultationDetail'
+import DetailCommunicationScreen from 'views/doctor_view/patient/communications/DetailCommunication'
+import NotificationDoctorView from 'views/doctor_view/notification'
+import DetailNotificationView from 'views/doctor_view/notification/DetailNotificationView'
+import AllNoteScreen from 'views/doctor_view/patient/tracking/AllNote'
+import SetRangeScreen from 'views/doctor_view/patient/tracking/SetRange'
+import DiseasesDoctorView from 'views/doctor_view/patient/medical_records/detail_records/Diseases'
+import AllergyDoctorView from 'views/doctor_view/patient/medical_records/detail_records/Allergy'
+import MedicationDoctorView from 'views/doctor_view/patient/medical_records/detail_records/Medication'
+import DependencyDoctorView from 'views/doctor_view/patient/medical_records/detail_records/Dependency'
+import ImmunizationDoctorView from 'views/doctor_view/patient/medical_records/detail_records/Immunization'
+import IrregularDoctorView from 'views/doctor_view/patient/medical_records/detail_records/Irregular'
+import ProstheticDoctorView from 'views/doctor_view/patient/medical_records/detail_records/Prosthetic'
+import HospitalSurgeryDoctorView from 'views/doctor_view/patient/medical_records/detail_records/HospitalSurgery'
+import PatinetAcceptCallView from 'views/doctor_view/notification_navigator/PatinetAcceptCallView'
+import PatinetVideoCallView from 'views/doctor_view/notification_navigator/PatinetVideoCallView'
+import DetailFileDoctorView from 'views/doctor_view/patient/file_archive/DetailFile'
+import AllMembersView from 'views/account/members'
+
+export default function RootNavigation() {
+
+  useEffect(() => {
+    isMountedRef.current = true
+    return () => (isMountedRef.current = false)
+  }, [])
+
+  return (
+    <NavigationContainer ref={navigationRef}>
+      <Stack.Navigator
+        headerMode="none"
+        initialRouteName={Routes.SPLASH_SCREEN}>
+        <Stack.Screen name={Routes.SPLASH_SCREEN} component={SplashView} />
+        <Stack.Screen name={Routes.WELCOME_SCREEN} component={WelcomeScreen} />
+        <Stack.Screen name={Routes.DRAWER_NAVIGATION} component={DrawerNavigation} />
+        <Stack.Screen name={Routes.LOGIN_SIGN_UP_SCREEN} component={Login_SignUpView} />
+        <Stack.Screen name={Routes.ACCOUNT_SCREEN} component={AccountView} />
+        <Stack.Screen name={Routes.HEALTHPROFILE_SCREEN} component={HealthProfileScreen} />
+        <Stack.Screen name={Routes.LOGIN_SCREEN} component={LoginView} />
+        <Stack.Screen name={Routes.SIGN_UP_SCREEN} component={SignUpView} />
+        <Stack.Screen name={Routes.TERMS_PRIVACY_SIGN_UP_SCREEN} component={TermsPrivacyView} />
+        <Stack.Screen name={Routes.SIGN_UP_INFORMATION_SCREEN} component={SignUpInformationView} />
+        <Stack.Screen name={Routes.PERSONALINFO_SCREEN} component={PersonalInfoScreen} />
+        <Stack.Screen name={Routes.MEDICAL_RECORD_SCREEN} component={MedicalRecordScreen} />
+        <Stack.Screen name={Routes.DETAIL_ALLERGIRE_SCREEN} component={DetailAllergieScreen} />
+        <Stack.Screen name={Routes.CHRONIC_DISEASE_SCREEN} component={ChronicDiseaseView} />
+        <Stack.Screen name={Routes.DETAIL_CHRONIC_DISEASE_SCREEN} component={DetailChronicDisease} />
+        <Stack.Screen name={Routes.MEDICATION_SCREEN} component={MedicationView} />
+        <Stack.Screen name={Routes.DETAIL_MEDICATION_SCREEN} component={DetailMedication} />
+        <Stack.Screen name={Routes.DEPENDENCIES_SCREEN} component={DependenciesView} />
+        <Stack.Screen name={Routes.DETAIL_DEPENDENCIES_SCREEN} component={DetailDependency} />
+        <Stack.Screen name={Routes.HOSPITALIZATION_SCREEN} component={HospitalizationsView} />
+        <Stack.Screen name={Routes.DETAIL_HOSPITALIZATION_SCREEN} component={DetailHospitalization} />
+        <Stack.Screen name={Routes.IMMUNIZATION_SCREEN} component={ImmunizationsView} />
+        <Stack.Screen name={Routes.DETAIL_IMMUNIZATION_SCREEN} component={DetailImmunization} />
+        <Stack.Screen name={Routes.IRREGULAR_SCREEN} component={IrregularView} />
+        <Stack.Screen name={Routes.DETAIL_IRREGULAR_SCREEN} component={DetailIrregular} />
+        <Stack.Screen name={Routes.PROSTHESIS_SCREEN} component={ProsthesisView} />
+        <Stack.Screen name={Routes.DETAIL_PROSTHESIS_SCREEN} component={DetailProsthesis} />
+        <Stack.Screen name={Routes.SHARE_YOUR_MEDICAL_RECORD} component={ShareYourMedicalRecord} />
+        <Stack.Screen name={Routes.PROFILE_INFO_SCREEN} component={ProfileInfoView} />
+        <Stack.Screen name={Routes.CHANGE_PASSWORD_SCREEN} component={ChangePasswordView} />
+        <Stack.Screen name={Routes.VIDEOS_SCREEN} component={VideoView} />
+        <Stack.Screen name={Routes.VIDEOS_CALL_SCREEN} component={VideoCallView} />
+        <Stack.Screen name={Routes.ANAMNESIS_SCREEN} component={Anamnesis} />
+        <Stack.Screen name={Routes.STAR_RATING_SCREEN} component={StarRatingScreen} />
+        <Stack.Screen name={Routes.DETAIL_APPOINTMENT_SCREEN} component={DetialAppointment} />
+        <Stack.Screen name={Routes.DETAIL_WAITING_SCREEN} component={DetailWaiting} />
+        <Stack.Screen name={Routes.DETAIL_CONSULTATION_SCREEN} component={DetailConsultation} />
+        <Stack.Screen name={Routes.DOCUMENT_LIST_SCREEN} component={DocumentList} />
+        <Stack.Screen name={Routes.VISIT_MAIN_SCREEN} component={Visit} />
+        <Stack.Screen name={Routes.NEW_APPOINTMENT_SCREEN} component={NewAppointment} />
+        <Stack.Screen name={Routes.VISITS_DIRECT_CALL_SCREEN} component={VisitsDirectCallView} />
+        <Stack.Screen name={Routes.THANKYOU_NEW_APPOINTMENT_SCREEN} component={ThankYou} />
+        <Stack.Screen name={Routes.PERSONAL_DETAILS_SCREEN} component={PersonalDetails} />
+        <Stack.Screen name={Routes.ADDRESS_SCREEN} component={Address} />
+        <Stack.Screen name={Routes.CONTACT_INFO_SCREEN} component={ContactInfo} />
+        <Stack.Screen name={Routes.EMERGENCY_CONTACT_SCREEN} component={EmergencyContact} />
+        <Stack.Screen name={Routes.FAMILY_PHYSICIAN_SCREEN} component={FamilyPhysician} />
+        <Stack.Screen name={Routes.NEW_RECORD_HEALTH_PROFILE} component={NewRecord} />
+        <Stack.Screen name={Routes.HEALTH_PROFILE_MAIN_SCREEN} component={HealthProfileMain} />
+        <Stack.Screen name={Routes.NEW_DETAIL_DISEASE_SCREEN} component={NewDetailChronicDisease} />
+        <Stack.Screen name={Routes.NEW_DETAIL_ALLERGY_SCREEN} component={NewDetailAllergy} />
+        <Stack.Screen name={Routes.DETAIL_DATA_TRACKING_SCREEN} component={DetailDataTracking} />
+        <Stack.Screen name={Routes.NEW_DETAIL_MEDICATION_SCREEN} component={NewDetailMedication} />
+        <Stack.Screen name={Routes.NEW_DETAIL_DEPENDENCY_SCREEN} component={NewDetailDependency} />
+        <Stack.Screen name={Routes.NEW_DETAIL_IMMUNIZATION_SCREEN} component={NewDetailImmunization} />
+        <Stack.Screen name={Routes.NEW_DETAIL_IRREGULAR_SCREEN} component={NewDetailIrregular} />
+        <Stack.Screen name={Routes.NEW_DETAIL_PROSTHESIS_SCREEN} component={NewDetailProsthesis} />
+        <Stack.Screen name={Routes.NEW_DETAIL_HOSPITALIZATION_SCREEN} component={NewDetailHosnSur} />
+        <Stack.Screen name={Routes.ADD_MANUAL_INPUT_SPO2_SCREEN} component={AddManualInputSPO2} />
+        <Stack.Screen name={Routes.DETAIL_FILE_SCREEN} component={DetailFile} />
+        <Stack.Screen name={Routes.LIST_SPO2_SCREEN} component={ListSpO2} />
+        <Stack.Screen name={Routes.NEW_DOCUMENT_SCREEN} component={NewDocument} />
+        <Stack.Screen name={Routes.LIST_BODY_TEMPERATURE} component={ListBodyTemperature} />
+        <Stack.Screen name={Routes.ADD_BODY_TEMPERATURE} component={AddBodyTemperature} />
+        <Stack.Screen name={Routes.LIST_WEIGHT} component={ListWeight} />
+        <Stack.Screen name={Routes.LIST_BODY_PRESSURE} component={ListBodyPressure} />
+        <Stack.Screen name={Routes.LIST_HEART_RATE} component={ListHeartRate} />
+        <Stack.Screen name={Routes.ABOUT_US_SCREEN} component={AboutUs} />
+        <Stack.Screen name={Routes.OUR_DOCTOR_SCREEN} component={OurDoctor} />
+        <Stack.Screen name={Routes.FAQS_SCREEN} component={FAQs} />
+        <Stack.Screen name={Routes.PRIVACY_SCREEN} component={Privacy} />
+        <Stack.Screen name={Routes.TERM_OF_USE_SCREEN} component={TermOfUse} />
+        <Stack.Screen name={Routes.PRICING_SCREEN} component={Pricing} />
+        <Stack.Screen name={Routes.LIST_VITAL_CARE_KIT} component={ListVitalCareKit} />
+        <Stack.Screen name={Routes.DETAIL_MAGAZINE_SCREEN} component={DetailMagazine} />
+        <Stack.Screen name={Routes.VIEW_PROFILE_DOCTOR_SCREEN} component={ViewProfile} />
+        <Stack.Screen name={Routes.LIST_CORX_DATA} component={ListCorXData} />
+        <Stack.Screen name={Routes.LIST_BREATHING_VOLUMES} component={ListBreathingVolumes} />
+        <Stack.Screen name={Routes.ADD_WEIGHT_SCREEN} component={AddManualInputWeight} />
+        <Stack.Screen name={Routes.ADD_HEART_RATE_SCREEN} component={AddHeartRate} />
+        <Stack.Screen name={Routes.DETAIL_VIEW_PROFILE_DOCTOR_SCREEN} component={DetailViewProfile} />
+        <Stack.Screen name={Routes.CONTACT_US_SCREEN} component={ContactUs} />
+        <Stack.Screen name={Routes.ADD_BLOOD_PRESSURE_SCREEN} component={AddBloodPressure} />
+        <Stack.Screen name={Routes.SETTING_UNIT_SCREEN} component={SettingUnit} />
+        <Stack.Screen name={Routes.DETAIL_BLOOD_PRESSURE_SCREEN} component={DetailBloodPressure} />
+        <Stack.Screen name={Routes.DETAIL_WEIGHT_SCREEN} component={DetailWeight} />
+        <Stack.Screen name={Routes.WAITING_FACE_ID_SCREEN} component={WaitingFaceId} />
+        <Stack.Screen name={Routes.NOTIFICATION_SCREEN} component={NotificationScreen} />
+        <Stack.Screen name={Routes.MEDICINE_REMINDER_SCREEN} component={MedicineReminder} />
+        <Stack.Screen name={Routes.PHARMACIES_SCREEN} component={Pharmacies} />
+        <Stack.Screen name={Routes.ADD_BREATHING_VOLUMES_SCREEN} component={AddBreathingVolumes} />
+        <Stack.Screen name={Routes.DETAIL_MESSAGE_SCREEN} component={DetailMessage} />
+        <Stack.Screen name={Routes.NEW_REMINDER_PILL_SCREEN} component={NewReminderPill} />
+        <Stack.Screen name={Routes.REMINDER_SCREEN} component={RemindersView} />
+        <Stack.Screen name={Routes.MAP_VIEW} component={MapViewScreen} />
+        <Stack.Screen name={Routes.NEW_REMINDER_EXCERCISE_SCREEN} component={NewReminderExcercise} />
+        <Stack.Screen name={Routes.NEW_REMINDER_MEASUREMENT_SCREEN} component={NewReminderMeasurement} />
+        <Stack.Screen name={Routes.DETAIL_REMINDER_SCREEN} component={DetailReminder} />
+        <Stack.Screen name={Routes.ADD_PHARMACY_SCREEN} component={AddPharmacy} />
+        <Stack.Screen name={Routes.DETAIL_PHARMACY_SCREEN} component={DetailPharmacy} />
+        <Stack.Screen name={Routes.CLINIC_APPOINTMENT_SCREEN} component={ClinicAppointment} />
+        <Stack.Screen name={Routes.ADD_CLINIC_APPOINTMENT_SCREEN} component={AddRequestClinic} />
+        <Stack.Screen name={Routes.DETAIL_CLINIC_SCREEN} component={DetailClinic} />
+        <Stack.Screen name={Routes.DOCTOR_AT_HOME_SCREEN} component={DoctorAtHome} />
+        <Stack.Screen name={Routes.BOOK_DOCTOR_AT_HOME_SCREEN} component={BookDoctorAtHome} />
+        <Stack.Screen name={Routes.GENETIC_TEST_SCREEN} component={GeneticTest} />
+        <Stack.Screen name={Routes.ADD_REQUEST_GENETIC_TEST_SCREEN} component={AddRequestTest} />
+        <Stack.Screen name={Routes.HISTORY_SECOND_OPINION} component={SecondOpinion} />
+        <Stack.Screen name={Routes.BOOK_SECOND_OPINION_SCREEN} component={BookSecondOpinion} />
+        <Stack.Screen name={Routes.DETAIL_REMINDER_VIEW} component={DetailReminderView} />
+        <Stack.Screen name={Routes.NUTRITIONIST_1_SCREEN} component={NutritionistStep1} />
+        <Stack.Screen name={Routes.NUTRITIONIST_2_SCREEN} component={NutritionistStep2} />
+        <Stack.Screen name={Routes.NUTRITIONIST_3_SCREEN} component={NutritionistStep3} />
+        <Stack.Screen name={Routes.NUTRITIONIST_4_SCREEN} component={NutritionistStep4} />
+        <Stack.Screen name={Routes.NUTRITIONIST_5_SCREEN} component={NutritionistStep5} />
+        <Stack.Screen name={Routes.NUTRITIONIST_6_SCREEN} component={NutritionistStep6} />
+        <Stack.Screen name={Routes.NUTRITIONIST_7_SCREEN} component={NutritionistStep7} />
+        <Stack.Screen name={Routes.NUTRITIONIST_8_SCREEN} component={NutritionistStep8} />
+        <Stack.Screen name={Routes.NUTRITIONIST_9_SCREEN} component={NutritionistStep9} />
+        <Stack.Screen name={Routes.NUTRITIONIST_10_SCREEN} component={NutritionistStep10} />
+        <Stack.Screen name={Routes.NUTRITIONIST_11_SCREEN} component={NutritionistStep11} />
+        <Stack.Screen name={Routes.NUTRITIONIST_12_SCREEN} component={NutritionistStep12} />
+        <Stack.Screen name={Routes.FORGOT_PASSWORD_SCREEN} component={ForgotPasswordView} />
+        <Stack.Screen name={Routes.STEPS_SCREEN} component={StepsScreen} />
+        <Stack.Screen name={Routes.ADD_STEP_SCREEN} component={AddStep} />
+        <Stack.Screen name={Routes.CALORIES_SCREEN} component={CaloriesScreen} />
+        <Stack.Screen name={Routes.SUMMARY_2_OPINION_RQ_SCREEN} component={Summary2OpinionScreen} />
+        <Stack.Screen name={Routes.ADD_CALORIES_SCREEN} component={AddCalories} />
+        <Stack.Screen name={Routes.SLEEP_SCREEN} component={SleepScreen} />
+        <Stack.Screen name={Routes.ADD_SLEEP_SCREEN} component={AddSleep} />
+        <Stack.Screen name={Routes.PUSHY_SCREEN} component={PushyView} />
+        <Stack.Screen name={Routes.NOTI_SETTING_SCREEN} component={NotiSetting} />
+        <Stack.Screen name={Routes.PAYMENT_SCREEN} component={PaymentView} />
+        <Stack.Screen name={Routes.SURVEYS_SCREEN} component={SurveyView} />
+        <Stack.Screen name={Routes.SURVEYS_DETAIL_SCREEN} component={SurveyDetail} />
+        <Stack.Screen name={Routes.SIGN_UP_DOCTOR_1} component={SignUpDoctor1} />
+        <Stack.Screen name={Routes.SIGN_UP_DOCTOR_2} component={SignUpDoctor2} />
+        <Stack.Screen name={Routes.SIGN_UP_DOCTOR_3} component={SignUpDoctor3} />
+        <Stack.Screen name={Routes.SIGNATURE_VIEW} component={SignatureView} />
+        <Stack.Screen name={Routes.HOME_DOCTOR_SCREEN} component={HomeDoctorScreen} />
+        <Stack.Screen name={Routes.DRAWER_NAVIGATION_DOCTOR} component={DrawerNavigationDoctor} />
+        <Stack.Screen name={Routes.DOCTOR_NOTIFICAION_NAVIGATOR_VIEW} component={NotificationNavigator} />
+        <Stack.Screen name={Routes.PATINET_ACCEPT_CALL_SCREEN} component={PatinetAcceptCallView}/>
+        <Stack.Screen name={Routes.PATINET_VIDEO_CALL_SCREEN} component={PatinetVideoCallView}/>
+        <Stack.Screen name={Routes.VIDEO_CALL_DOCTOR_VIEW} component={VideoCallDoctorView} />
+        <Stack.Screen name={Routes.VIDEO_CALL_NAVIGATE} component={VideoCallNavigate} />
+        <Stack.Screen name={Routes.LIST_WEIGHT_DOCTOR_VIEW} component={ListWeightDoctorView} />
+        <Stack.Screen name={Routes.LIST_PRESSURE_DOCTOR_VIEW} component={ListPressureDoctorView} />
+        <Stack.Screen name={Routes.POST_CALL_SCREEN} component={PostCallScreen} />
+        <Stack.Screen name={Routes.TRANSFER_CALL_SCREEN} component={TransferCallScreen} />
+        <Stack.Screen name={Routes.LIST_BREATH_DOCTOR_VIEW} component={ListBreathDoctorView} />
+        <Stack.Screen name={Routes.LIST_SPO2_DOCTOR_VIEW} component={ListSpo2DoctorView} />
+        <Stack.Screen name={Routes.LIST_BODY_TEMP_DOCTOR_VIEW} component={ListBodyTempDoctorView} />
+        <Stack.Screen name={Routes.LIST_HEART_RATE_DOCTOR_VIEW} component={ListHeartRateDoctorView} />
+        <Stack.Screen name={Routes.LIST_BLOOD_PRESSURE_DOCTOR_VIEW} component={ListBloodPressureDoctorView} />
+        <Stack.Screen name={Routes.AGENDA_DOCTOR_VIEW} component={AgendaDoctorView} />
+        <Stack.Screen name={Routes.DETAIL_HISTORY_APPOINTMENT_DOCTOR} component={DetailHistoryAppointmentDoctor} />
+        <Stack.Screen name={Routes.SEARCH_HISTORY_APPOINTMENT_DOCTOR} component={SearchHistoryAppointmentDoctor} />
+        <Stack.Screen name={Routes.SLOTS_BY_DATE_SCREEN} component={TodaySlotScreen} />
+        <Stack.Screen name={Routes.PATIENT_DETAIL_SCREEN} component={PatientDetailScreen} />
+        <Stack.Screen name={Routes.PATIENT_SCREEN} component={PatientScreen} />
+        <Stack.Screen name={Routes.CONSULTATION_LOBBY_SCREEN} component={ConsultationLobbyScreen} />
+        <Stack.Screen name={Routes.PDF_VIEW} component={PdfView} />
+        <Stack.Screen name={Routes.CONSULTATION_DETAIL_SCREEN} component={ConsultationDetailScreen} />
+        <Stack.Screen name={Routes.DETAIL_COMMUNICATION_SCREEN} component={DetailCommunicationScreen} />
+        <Stack.Screen name={Routes.NOTIFICATION_DOCTOR_SCREEN} component={NotificationDoctorView} />
+        <Stack.Screen name={Routes.DETAIL_NOTIFICATION_DOCTOR_SCREEN} component={DetailNotificationView} />
+        <Stack.Screen name={Routes.ALL_NOTE_SCREEN} component={AllNoteScreen} />
+        <Stack.Screen name={Routes.SET_RANGE_SCREEN} component={SetRangeScreen} />
+        <Stack.Screen name={Routes.DISEASE_DOCTOR_VIEW} component={DiseasesDoctorView} />
+        <Stack.Screen name={Routes.ALLERGY_DOCTOR_VIEW} component={AllergyDoctorView} />
+        <Stack.Screen name={Routes.MEDICATION_DOCTOR_VIEW} component={MedicationDoctorView} />
+        <Stack.Screen name={Routes.DEPENDENCY_DOCTOR_VIEW} component={DependencyDoctorView} />
+        <Stack.Screen name={Routes.IMMUNIZATION_DOCTOR_VIEW} component={ImmunizationDoctorView} />
+        <Stack.Screen name={Routes.IRREGULAR_DOCTOR_VIEW} component={IrregularDoctorView} />
+        <Stack.Screen name={Routes.PROSTHETIC_DOCTOR_VIEW} component={ProstheticDoctorView} />
+        <Stack.Screen name={Routes.HOSPITAL_SURGERY_DOCTOR_VIEW} component={HospitalSurgeryDoctorView} />
+        <Stack.Screen name={Routes.DETAIL_FILE_DOCTOR_VIEW} component={DetailFileDoctorView} />
+        <Stack.Screen name={Routes.HEALTH_PROFILE_TRACKING_SCREEN} component={HealthProfile} />
+        <Stack.Screen name={Routes.ALL_MEMBERS_VIEW} component={AllMembersView} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  )
+}
+
+const Stack = createStackNavigator()

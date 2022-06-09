@@ -1,0 +1,30 @@
+const en_EN = {
+  txtStart: 'Start',
+  txtTitleWelcome: 'With SaluberMD you can have your Health Profile always in your pocket',
+  txtContentWelcome: 'We recommend you to compile your health profile lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  txtCompileItLater: 'Compile it later',
+  txtHealthProfile: 'Health Profile',
+  txtLogin: 'Login',
+  txtSignUp: 'Sign up',
+  txtUsername: 'Username',
+  txtPassword: 'Password',
+  txtForgotPassword: 'Forgot password?',
+  txtWelcomeBack: 'Welcome back!',
+  txtAccount: 'Account',
+  txtViewMyProfile: 'View my profile',
+  txtSettings: 'Settings',
+  txtBiometricsAuthentication: 'Biometrics Authentication',
+  txtFingerprintFaceIDIris: 'Fingerprint, Face ID, iris',
+  txtLanguage: 'Language',
+  txtSameAsHealthProfile: 'Same as Health Profile (English)',
+  txtSupport: 'Support',
+  txtFAQs: 'FAQs',
+  txtHelpCenter: 'Help Center',
+  txtAppVersion: 'App Version',
+  txtLogout: 'Log out',
+  txtAreYouSureWantToLogout: 'Are you sure want to log out?',
+  txtCancel: 'Cancel',
+  txtProfileInfo: 'Profile Info'
+}
+
+export default en_EN

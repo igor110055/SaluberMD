@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Mabapi le rona",
+  "ABOUT_US_CONDITION_1": "Cold &amp; Flu",
+  "ABOUT_US_CONDITION_2": "Maemo a letlalo",
+  "ABOUT_US_CONDITION_3": "Matšoafo",
+  "ABOUT_US_CONDITION_4": "Metso o bohloko",
+  "ABOUT_US_CONDITION_5": "Tš&#39;oeroe ke mala",
+  "ABOUT_US_DOCTOR_BENEFIT1": "TŠEBELETSO EA BATHO:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "U ka bona bakuli ba ka bang tšeletseng ka hora (ketelo ea sebele e nka metsotso e 10);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "FANA KA MOSEBETSI OA PATIENTE HO MONG OA LEFATŠENG:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Ho eketsa likamano tsa bakuli le bokhoni ba ho phekola bakuli ba hona joale le ba bacha kae kapa kae lefatšeng;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "FUMANA KELETSO EA SEBELE EA SEBELETSO:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Hlaolela mokhoa oa hau oa hona joale le ho fana ka dikgetho tse eketsehileng bakeng sa bakuli;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "MOSEBETSI OA PATIENT O EKETSEHILENG:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Bakuli ba ka u romella litokomane, lifoto, lipalo tsa lab ntle le hore u tlohe lapeng &#39;me u ka shebella bophelo bo botle ba mokuli ka thōko;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Ho tseba hore na ke mang ea hlokang matsoho ka tlhokomelo hang-hang le hore na ke mang ea ka ruang molemo kalafo ea mahae ntle le ho tloha hae;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "TŠEBELETSO EA BATHO:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "HORA E HLAHLANG:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Bokhoni ba ho beha lihora tsa hau le ho ipehela kemiso ea hau.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Kena mokhatlong oa ho fana ka ts&#39;ebeliso e ka tšeptjoang, e theko e tlaase, ea lefatše ka bophara nakong ea metsotso e 15 kapa ka tlase.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "MD ea Saluber e etselitsoe ho fetola likamano tsa ngaka le bakuli ka ho bopa ho fihlela ho 24/7 ho fumana tlhokomelo ea bophelo bo botle lefats&#39;eng ka bophara.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Melemo ea ngaka",
+  "ABOUT_US_DOCTOR_TITLE": "Mabapi le rona",
+  "about_us_section1_p1": "SaluberMD ke mokhatlo oa Digital Health o hlophiselitsoeng ho fetola ho fana ka litšebeletso tsa bongaka le lihlahisoa ho ntlafatsa liphello tsa bophelo bo botle lefatšeng ka bophara. Litšebeletso tsa rona tsa likoloi tsa litšebeletso tsa bongaka, tse fanang ka melemo ea bophelo bo botle le boiketlo, lingaka tse tiisitsoeng ka boto, fono ea bongaka ka lipuo tse 18, liaparo tsa ho hlokomela bophelo ba hau, le ho fumana marang-rang a litsebi tsa bophelo bo botle le litšebeletso.",
+  "ABOUT_US_SECTION1_TITLE": "Mabapi le rona",
+  "ABOUT_US_SECTION2_P1": "Ka geo-localization app ea rona e tla fumanoa ka ho fetisisa Ngaka e haufi le uena. Lingaka tsa SaluberMD li ka khona ho hlahloba, ho phekola kapa ho buisana ka boemo ba hau ba bongaka ka video le ho u fa moralo o nepahetseng oa phekolo. Maemo a mangata a tloaelehileng a tšoaroang ofising ea ngaka a ka phekoloa ka ho etela video. <br/> Tse ling tsa maemo ao re a tšoarang:",
+  "ABOUT_US_SECTION2_P2": "Tlaleho ea hau ea bongaka ke sebaka se loketseng sa ho boloka boitsebiso bohle ba bophelo bo botle, litšoantšo le lifaele. Boloka tlaleho ea bophelo bo botle ka phihlelo ea 24/7 litlalehong tsohle tsa hau tsa bongaka. Ho sa tsotellehe hore na u lapeng kapa u etela linaheng tse ling, boitsebiso ba hau bo teng ho arolelana le setsebi sa bophelo bo botle. Ho bonolo ho sebelisa rekoto ea bongaka e fumanehang ka lipuo tse 18.",
+  "ABOUT_US_SECTION2_TITLE": "E sebetsa joang?",
+  "ABOUT_US_SECTION3_P1": "Ke bona feela ba nang le boitsebiso bo phahameng ba sebete ba fanang ka tlhokomelo ea bongaka ka SaluberMD. Litsebi tsena li tiisitsoe, li hlahlobisitsoe haholo ebile li koetliselitsoe ho fana ka tlhokomelo ea boleng bo phahameng. Ngaka e &#39;ngoe le e&#39; ngoe e na le sebaka seo u ka bonang semelo sa sona, litlhaloso tsa bona le phihlelo ea bona. SaluberMD e ikemiselitse ho laola boleng ba boleng ba rona ba Lingaka. Tsamaiso ea litekanyetso e lumella bakuli ho lekanya lingaka le ho sheba lingaka ka kakaretso.",
+  "ABOUT_US_SECTION3_TITLE": "Lingaka tsa rona",
+  "ABOUT_US_TITLE": "Mabapi le rona",
+  "above_warning": "Melao e kaholimo e kotsing",
+  "accept": "Amohela",
+  "acceptablerange": "Libaka tse amohelehang",
+  "ACCEPT_BTN": "Amohela",
+  "acquire": "Fumana boitsebiso",
+  "acronym": "Mahala",
+  "action": "Khato",
+  "actions": "Liketso",
+  "actionTaken": "Khato e Nkiloeng",
+  "activity": "Ketsahalo",
+  "acutecare": "Tlhokomelo e Boima",
+  "add": "E ncha",
+  "addavailability": "Kenya bongata ba hau",
+  "addcomment": "Kenya maikutlo ho uena mona",
+  "adddescription": "Kenya tlhaloso ea hau mona",
+  "adddrugs": "Batla sethethefatsi se sebelisang lebokose le ka tlase ebe u tšoaea lebokose la ho hlahloba lengolo la hau",
+  "addedFavourite": "Ke kentse ka katleho ho li ratang tsa hau",
+  "addedFavourite2": "Ke kentse ka katleho ho li ratang tsa hau. tobetsa konopo ea ho hlahisa ho e bontša.",
+  "addedFavourite3": "E kenyelitsoe ka katleho. Tetela ho tsosolosa",
+  "addFavourite": "Kenya ho Ratana",
+  "ADDING_SLOT": "Ho kenyelletsa libaka tse betliloeng .... sena se ka nka nakoana.",
+  "addNew": "Kenya Ncha",
+  "addpharmacies": "Tobetsa konopo ho kenya li-pharmacy tseo u li ratang",
+  "addpharmacy": "Kenya pharmacy",
+  "addreminder": "Tlanya konopo ea ho eketsa meriana ea khopotso.",
+  "address": "Aterese",
+  "address2": "Aterese ea aterese",
+  "address3": "Aterese ea tšebeletso",
+  "addsintomi": "Eketsa matšoao",
+  "addslot": "Eketsa slot",
+  "add_description_file": "Kenya tlhaloso (eseng e tlamang)",
+  "add_new": "Eketsa",
+  "affaticamento_grave": "Mokhathala o matla",
+  "affaticamento_minore": "Mokhathala o monyenyane",
+  "agenda": "Ke ikamahanya le maemo",
+  "agenda_report": "Tlaleha Likhetho",
+  "aggiungi": "Etsa",
+  "AGREE_BTN": "Kea lumela",
+  "alcoholDesc": "Joala bo ne bo nahana joalo",
+  "all": "Kaofela",
+  "alldata": "Boitsebiso bohle",
+  "allergia": "Ho kula",
+  "allergia_aggiunta": "Likokoana-hloko li bōpiloe ka katleho",
+  "allergia_rimossa": "Ho kula ha mokuli ka katleho ho tlosoa ka katleho",
+  "allergia_salvata": "Matšoao a mokuli a ntlafalitsoe ka katleho",
+  "allergie": "Matšoafo",
+  "allimages": "Litšoantšo tsohle",
+  "alreadyAddedF": "Pharmacy ena e se e ntse e le teng linthong tseo u li ratang",
+  "alreadyRegistred": "Aterese ena ea lengolo-tsoibila e se e ntse e le teng ka har&#39;a sistimi e tsoang. Ka kopo kena ka har&#39;a sesebelisoa ho etsa tumellano ea nako.",
+  "alreadyTaken": "Ho khethoa ho se ho nkiloe",
+  "alta": "E phahameng",
+  "alto": "E phahameng",
+  "amonth": "Matsatsi a 30",
+  "anger": "Khalefo",
+  "annoinizio": "Selemo se qalile",
+  "antibiotics": "Likokoana-hloko",
+  "an_error_occurred": "Joo! Hajoale ha re khone ho eketsa kopo ea hau. Leka hape hamorao",
+  "appointment": "Khetho",
+  "appointmentlist": "Lethathamo la likhetho",
+  "appointments": "Likhetho",
+  "appointmentsDescription": "Lethathamo la kemiso ea kopano",
+  "appointment_body_doc": "Kopano e ncha e reriloeng le",
+  "appointment_calcelled_title": "Khetho e hlakotsoe",
+  "appointment_cancelled": "o hlakola kopano ea hae",
+  "appointment_email_body": "Re netefatsa tumellano ea hau le ngaka",
+  "appointment_history": "Histori ea khetho",
+  "appointment_now": "Ho khethoa ha hao ho qala hona joale",
+  "appremainder": "Khetho e setseng",
+  "appremainder1": "U na le video ea video e lokiselitsoeng metsotso e 5",
+  "appremainder2": "O na le video ea video e shebile ka metsotso e 30",
+  "appremainder3": "O na le video ea video e fokotsoe ka metsotso e 120",
+  "APPROX_DATA": "Ditaba tse ling tsa boteng",
+  "appuntamenti": "Likhetho",
+  "appuntamenti_presi": "Khetho e khethiloeng",
+  "appuntamento_clinica": "Kopo ea Kliniki ea Kopo",
+  "APPUNTAMENTO_CONGIUNTO": "O batla ho ngolla videocall?",
+  "app_description": "Kenya mabaka a kopano ea hau lebokoseng le ka tlase",
+  "app_details": "Lintlha tsa ho khethoa",
+  "app_missing": "Lenaneo la tshehetso ha lea kenngoa",
+  "ARIAX": "Tekanyo ea Breath",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Tsoha",
+  "arousalDescription": "Mofuta o fapaneng o khonang ho khutsana kapa ho tsieleha ho hlahisa thabo le thabo. E lumellana le likhopolo tse tšoanang tse kang boemo ba ts&#39;ebetso le ts&#39;usumetso.",
+  "assign_specialist": "Fana ka setsebi ho kopo",
+  "associa": "Kopanya",
+  "attachment": "Sehlopha sa ho kenya",
+  "ATTACH_A_PHOTO": "Kenya setšoantšo",
+  "BACKGROUND": "Ka morao",
+  "BACKGROUND_PLCHOLDER": "Ka kopo, kenya biography e khutšoanyane.",
+  "backhomeconfirm": "O na le bonnete ba hore o tla khutlela lapeng?",
+  "BACK_BTN": "Khutlela",
+  "BACK_LOGIN": "Khutlela ho kena",
+  "bad_file": "Ha e khone ho bula faele",
+  "basicinfo": "Lintlha tsa motheo",
+  "bassa": "E tlaase",
+  "basso": "e tlaase",
+  "below_warning": "Boleng bo ka tlase bo kotsing",
+  "benefits": "Melemo ea likoloi",
+  "beyondverbal": "Maikutlo a khanna ntho e &#39;ngoe le e&#39; ngoe eo re e etsang, leha ho le joalo litlhaloso tsa maikutlo a susumelitsoeng ke lentsoe li lula e le tsa bohlokoa ka ho fetisisa, tse sa tsejoeng kajeno. Beyond Verbal e ikemiselitse ho fetola seo.",
+  "beyondverbal_analyze": "Hlahloba maikutlo a hau",
+  "beyondverbal_history": "Liphetho tsa histori",
+  "beyondverbal_instruction": "Ha u se u itokiselitse ho arabela potso ea qalang e qalang",
+  "BIRTHDATE": "Letsatsi la tsoalo",
+  "birthday": "Letsatsi la tsoalo",
+  "blank_agenda": "Ha ho na slot bakeng sa kajeno",
+  "bloatedOrContipated": "E thibiloe kapa e kopantsoe",
+  "bluetooth_error": "Etsa bluetooth pele ho tsoela pele",
+  "BOARD": "Boto e netefalitsoeng",
+  "bones": "Lipalesa",
+  "bp": "Khatello ea Mali",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Tafole ea litšupiso ea litekanyetso tsa khatello ea mali",
+  "breakfast": "Lijo tsa hoseng",
+  "btnback": "Khutlela",
+  "btndelete": "Tlosa",
+  "btndisabledoctor": "Thibela ngaka",
+  "btndisablepatient": "Thibela mokuli",
+  "btnenabledoctor": "Numella ngaka",
+  "btnenablepatient": "Numella mokuli",
+  "btnsave": "Boloka",
+  "BTN_LOAD_MORE": "E jara More",
+  "buttonsearch": "Batla",
+  "bvFailed": "E hlōlehile ho sekaseka lentsoe la hau, o hloka ho bua haholo!",
+  "bvInstruction": "Tsoela pele u bua metsotsoana e 20 kapa ho feta",
+  "bvInstruction2": "Tsoela pele u bua metsotsoana e 20",
+  "ca": "Mokhoa oa Ts&#39;oaetso",
+  "call": "Bitsa",
+  "callCancel": "Ha e khone ho hlakola pitso ea nako e telele",
+  "calldoctor": "Bitsa ngaka",
+  "calling_number": "Ho letsetsa Nomoro",
+  "callthedoctor": "Letsetsa Ngaka",
+  "calltransfer": "Ho fetisetsa pitso ...",
+  "CALL_ALREADY_TAKEN": "Mohala o se o nkiloe",
+  "CALL_DOCTOR_INFO": "Ngaka Info",
+  "CALL_DURATION": "Bitsa nako",
+  "call_instruction": "Re tla u romella tsebiso hang ha u ka bitsa ngaka. Tobetsa tlhahisoleseding hang ha oe fumana ho qala videocalll. Haeba u ka tlosa tsebiso, u ka e fumana karolong ea tsebiso tlas&#39;a bophelo ba ka ba bophelo bo botle.",
+  "CALL_NOTIFICATIONS": "Likitso tsa thelefono",
+  "CALL_NO_INCOMING": "Ha ho litsong tse tlang",
+  "CALL_TRANSFER_INFO": "Bitsa tlhahiso ea ho fetisa",
+  "CALL_WAITING": "Ka kopo, ema ha re batla ngaka e fumanehang",
+  "CALL_WAITING_2": "Ka kopo emela ha ngaka e hlahloba faele ea hau",
+  "calories": "Li-calories",
+  "cancel": "Khaola",
+  "cancelAppointment": "Hlakola kopano ena",
+  "CANCEL_BTN": "Khaola",
+  "CAP": "K&#39;houtu ea sebaka",
+  "cardiac_output": "Kakaretso ea pelo",
+  "cardiac_output1": "Kakaretso ea pelo",
+  "cardiac_output_desc": "Kakaretso ea pelo ke feela mali a tšeloang ke pelo ka motsotso.",
+  "cardiovascular": "Melello ea pelo",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "CVC e sa lokelang",
+  "CARD_EXPIRY_DATE": "Letsatsi la ho felloa ke nako",
+  "CARD_MONTH_ERROR": "Khoeli e sa lokelang",
+  "CARD_NUMBER": "Nomoro ea karete",
+  "CARD_NUMBER_ERROR": "Nomoro ea CC e sa lokelang",
+  "CARD_YEAR_ERROR": "Selemo se sa lokelang",
+  "category": "Sehlopha",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "CCV e hlokahala",
+  "CERROR": "Tlhahiso e fosahetseng",
+  "certificate_attachment": "Setifikeiti sa hau sa bongaka se manehiloe",
+  "certificate_email": "Setifikeiti sa hau sa bongaka se kenyelelitsoe",
+  "certificate_header": "Motheong oa tlhahlobo ea bongaka e entsoeng, ho boletsoe se latelang:",
+  "certificate_sent": "Setifikeiti se rometsoeng",
+  "certification_subject": "Setifikeiti sa hau sa bongaka",
+  "cf": "Melao ea Lekhetho",
+  "cf_error": "Ka kopo, hlakisa khoutu ea hau ea lichelete",
+  "changeschedule": "Fetola nako",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Motlolo ea hau e felile, ka kopo e fetole.",
+  "CHANGE_PWD_SECTION_TITLE": "Fetola senotlolo",
+  "CHANGE_PWD_TITLE": "Puswedi ea hau e tla fela, e fetole",
+  "checking_net_condition": "Ho hlahloba marang-rang a Inthanete ...",
+  "CHECK_PARAMETERS_CORX": "Ka kopo, kenngoa boima le bophahamo karolong ea sefahleho e le hore u tsebe litekanyetso tse nepahetseng tsa bophelo.",
+  "CHL_TOT": "Kakaretso ea Cholesterol",
+  "choosedate": "Khetha letsatsi",
+  "chooseDateDescription": "Tobetsa letsatsi ho le atolosa &#39;me u khethe hora",
+  "chooseprofile": "U joalo?",
+  "choosespeciality": "Khetha khethehileng ea bongaka",
+  "choosetransferdoctor": "Khetha ngaka",
+  "CHOOSE_A_DOCTOR": "Khetha ngaka ea hau",
+  "chosedoctor": "Ka kopo, khetha ngaka",
+  "city": "Motse",
+  "city1": "Motse",
+  "city2": "Motse",
+  "clearsignature": "Penya ho saena",
+  "clickitem": "Tobetsa ntho e &#39;ngoe le e&#39; ngoe ho bona lintlha tse feletseng",
+  "clickrow": "Tobetsa mola ho khetha",
+  "clickToOpen": "Tobetsa ho bula file",
+  "click_to_start_call": "Tobetsa ho ngaka ho qala mohala",
+  "clinics": "Lipliniki",
+  "CLOCK_FORMAT": "Format ea Horlo",
+  "closeappconfirm": "O na le bonnete ba hore o koala app?",
+  "CLOSE_BTN": "E haufi",
+  "cm": "cm",
+  "CODE": "Code",
+  "code_not_valid": "Khoutu e kenngoa ha e sebetse",
+  "code_verified": "Khoutu e netefalitsoe ka katleho!",
+  "coffeeDesc": "Kofi e nahana joalo",
+  "COMMENT": "hlalosang",
+  "commenti": "Maikutlo",
+  "COMPANY_NAME": "Khampani",
+  "COMPLAIN": "Bontša maikutlo",
+  "COMPLETE_PROFILE": "Tlatsa profil ea hau pele ho tsoela pele",
+  "COMPLETE_PROFILE_TITLE": "Ka kopo tlatsa profil ea hau",
+  "complications": "Mathata",
+  "concernlist": "Ka kopo ngola lenane la hau la mathomo / lintho tse amehileng",
+  "CONFIRM": "OK",
+  "confirm_app": "Netefatsa tumellano ea hau ea kopano",
+  "CONFIRM_EMAIL_TITLE": "Netefatsa Lengolo-tsoibila",
+  "CONFIRM_PWD": "Netefatsa Phasewete",
+  "connect": "Tobetsa konopo ea Connect ho hokahanya sesebelisoa",
+  "connectbtn": "Connect",
+  "connectedto": "Tse amanang le",
+  "connecting": "Ho kopanya ... Ka kōpo ema",
+  "connection_progress": "Ho kopanya ho sesebelisoa ...",
+  "CONSULT": "Bontša maikutlo",
+  "consult1": "Sheba",
+  "consultation": "Puisano",
+  "consultationHistory": "Histori ea Puisano",
+  "contact": "Iteanye",
+  "CONTACT_US_BTN": "Iteanye le rona",
+  "CONTACT_US_SECTION_TITLE": "Ka kopo ikopanye le rona ka lipotso leha e le life kapa ka thuso ho sebelisa app.",
+  "CONTACT_US_TITLE": "Iteanye le rona",
+  "contatti": "Mokhoa oa puisano",
+  "continue": "Tsoela pele",
+  "copy_url": "Khopi url",
+  "CORX": "ECG",
+  "corxDidFailEcg": "Phoso ho fumana EKG",
+  "corxDidFailWellness": "Phoso ho fumana boitsebiso bo botle",
+  "corxDidNoEcg": "Ha ho dintlha tsa EKG",
+  "corxDidNoWellness": "Ha ho na data ea bophelo",
+  "CORX_DATA": "Lintlha tsa CorX",
+  "corx_disconnected": "Corx e hanngoe",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Ka kopo, u hlalosetse boima le bophahamo ba oreder ho bala ka tsela e nepahetseng litebelisoa tsa majoe.",
+  "COUNTRY": "Naha",
+  "country1": "Naha",
+  "county": "County",
+  "co_alta": "e fetang 8 L / min",
+  "co_bassa": "tlase ho 4 L / min",
+  "co_normale": "pakeng tsa 4 le 8 L / min",
+  "creditCard_selected": "Karete e khethiloeng e tla lefisoa bakeng sa ts&#39;ebeletso ena",
+  "currency": "Chelete",
+  "C_SPECIALTY": "Tse khethehileng ka tloaelo",
+  "dailyuse": "Sebeliso ea letsatsi le letsatsi",
+  "dashboardVideocall": "Dashboard Videocall",
+  "dataerror": "Letsatsi / nako eo ue khethileng e fetile letsatsi le nako ea hona joale",
+  "dataexists": "Ho se ho ntse ho e-na le kopano le letsatsi le nako e khethiloeng",
+  "datafetching": "Ho nkela dintlha tsa hau tsa botho ... Ka kōpo ema.",
+  "dataPrenotazione": "Letsatsi la ho fihla",
+  "dataVaccinazione": "Letsatsi la ho thibela tšoaetso",
+  "date": "Letsatsi",
+  "dateDiscovered": "Letsatsi le fumanoe",
+  "dateStart": "Letsatsi la qalo",
+  "datipersonali": "Boitsebiso ba Botho",
+  "datiScaricati": "Lintlha li Atlehile ka Katleho",
+  "day": "Letsatsi",
+  "deassociate_corx_alert": "O batla ho tlosa Corx?",
+  "decline": "Fokotseha",
+  "DECLINE_BTN": "Fokotseha",
+  "DEEP_SLEEP_TIME": "Boroko bo tebileng",
+  "defaultQuestion": "Qala ho qala &#39;me u re bolelle hore na u ikutloa joang kajeno",
+  "delete": "Tlosa",
+  "deleteAlarm": "Tlosa alamo ee?",
+  "deleteAppointment": "O batla ho hlakola kopano?",
+  "deleteDescription": "E tla tlosoa hang-hang.",
+  "deleteMessage": "Na u netefatsa hore u batla ho hlakola see?",
+  "deleteMultipleDesctiption": "Palo ea slot e tla tlosoa:",
+  "deleteNumber": "O na le bonnete ba hore u batla ho hlakola Nomoro ee?",
+  "deleteSlotDay": "E felisa slot eohle ea mahala kajeno",
+  "deleteSlotMonth": "E felisa mekhoa eohle e sa lefelloeng khoeling ena",
+  "deleteSlotWeek": "E felisa slot e sa lefelloeng bekeng ena",
+  "deletevalue_q": "Na u netefatsa hore u batla ho hlakola bohlokoa?",
+  "DELETE_NOTIFICATION_MSG": "Na u batla ho hlakola tsebiso kaofela tse fetileng?",
+  "demo": "Ena demo, ha ho na chelete e tla lefelloa.",
+  "dependencies": "Ho itšepa",
+  "description": "Tlhaloso",
+  "descriptionMandatory": "Ka kopo, hlalosetsa tlhaloso",
+  "deseaseCategory": "Sehlopha sa mafu",
+  "desirable": "E lakatseha",
+  "dettagli": "Lintlha",
+  "dettaglio_struttura": "Tlhaloso ea mohaho",
+  "device": "Sesebelisoa",
+  "devicefound": "Sesebelisoa se fumaneha",
+  "devices": "Lisebelisoa",
+  "devicetype": "Mofuta oa Thepa",
+  "DEVICE_BLOOD_PRESSURE": "Khatello ea mali",
+  "DEVICE_CALORIES": "Li-calories li chesoa",
+  "DEVICE_CARDIAC": "Tlhokomelo ea pelo",
+  "DEVICE_CHL": "Pale ea Lipidic",
+  "DEVICE_DATA_SECTION_TITLE": "Dintlha tsa hau tsa lisebelisoa tsa bongaka",
+  "DEVICE_DATA_TITLE": "Ditshebeletso tsa disebediswa",
+  "DEVICE_DATA_TITLE_1": "Tlhahisoleseling ea Sesebelisoa sa Bongaka",
+  "DEVICE_EKG": "ECG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glucometer",
+  "DEVICE_HEART_RATE": "Tlhaloso ea Pelo",
+  "DEVICE_PEDOMETER": "Pedometer",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Palo ea ho hema",
+  "DEVICE_SPO2": "Spo2",
+  "DEVICE_TEMPERATURE": "Mocheso",
+  "DIAGNOSIS": "Tsejoa",
+  "diastolic": "Diastolic",
+  "dieci": "Litekanyo tse 10 tsa ho qetela",
+  "diet": "Lijo",
+  "digestion": "Ho sebetsana le ho senya lijo",
+  "dinner": "Dinner",
+  "dipendenza": "Ho itšetleha",
+  "disableAlarm": "Alarm e nolofalitsoe",
+  "disabled": "Bokooa",
+  "DISABLE_PANIC_BUTTON": "Numella Button ea Panic",
+  "DISABLE_PUNIC_BUTTON": "Koala Button ea Punic",
+  "disconnectall": "Beha Offline",
+  "disconnectbtn": "Tlosa",
+  "DISDICI": "Khaola",
+  "disease": "Maloetse a sa foleng",
+  "diseasemanagement": "Ho Laola Mafu",
+  "diseases": "Maloetse",
+  "disease_1": "Mafu",
+  "dissocia": "Khetholla",
+  "DISTANCE": "Leeto",
+  "dm_section_description_1": "Mona o ka kenya lifaele tsa hau",
+  "DND": "Se ke oa sitisa",
+  "DOCEMAIL": "Ngaka ea ngaka",
+  "DOCNAME": "Lebitso la Ngaka",
+  "DOCPHONE": "Ngaka ea fono ea ngaka",
+  "DOCTOR": "Ngaka",
+  "doctor1": "Ngaka",
+  "doctorAtHome": "Ngaka e Ntlong",
+  "doctorAtHomeQuestion1": "Ke batla thuso ea lapeng bakeng sa:",
+  "doctorAtHomeQuestion2": "Khetha thuso ea lapeng eo ue hlokang",
+  "doctorAtHomeQuestion2Answer1": "Tloaelo e tloaelehileng",
+  "doctorAtHomeQuestion2Answer2": "Ngaka",
+  "doctorAtHomeQuestion2Answer3": "Mooki",
+  "doctorAtHomeQuestion3": "Hlalosa hore na ke hobane&#39;ng ha u batla ho fumana thuso",
+  "doctorAtHomeQuestion4": "Fana ka foromo ka tlase ho aterese eo u batlang ho e fumana",
+  "doctorAtHomeRequestBtn": "Romela kopo",
+  "doctorAtHomeRequestSuccess": "Re amohetse kopo ea hau. U tla kopana le lihora tse peli ho hlophisa tšebeletso ea lehae",
+  "doctorAtHomeTitle": "Ngaka e Ntlong",
+  "doctorbusy": "Ngaka e phathahane ka mohala o mong",
+  "doctorbusy1": "Ngaka e phathahane mohala o mong",
+  "doctorlist": "Lingaka li thathamisa",
+  "doctormanagement": "Lingaka tsa tsamaiso",
+  "doctoroffline": "Ngaka ha e-ea offline, leka hape",
+  "doctorupdate": "Ngaka",
+  "DOCTOR_PROFILE_OPT1": "Profile",
+  "DOCTOR_PROFILE_OPT2": "Histori e Etileng ea Mamello",
+  "DOCTOR_PROFILE_OPT3": "Khothaletsa mosebetsi-&#39;moho le uena",
+  "DOCTOR_PROFILE_SECTION1": "Boitsebiso ba hau",
+  "DOCTOR_PROFILE_TITLE": "Profile",
+  "doctor_request_sent": "Re rometse kopo ea hau ho lingaka tsa rona. U tla fumana karabo ka metsotso e &#39;meli.",
+  "documents": "Litokomane",
+  "DOCUMENT_BTN": "Litokomane",
+  "doestake": "Na u se u nkile",
+  "DONATION_TITLE": "Tiisa monehelo",
+  "done": "Litsela tsa Trackx li atetsoe ka katleho. U tla ba fumana tlas&#39;a karolo ea boemo bo botle",
+  "doneAppointmentPatient": "Likhetho tse fetileng",
+  "DONE_BTN": "E entsoe",
+  "dontknow": "Ha ke hopole",
+  "DORMIVEGLIA": "Ho otsela",
+  "dosage": "Tekanyo",
+  "dosetake1": "Na u noa meriana ea hau?",
+  "dottore_rimosso": "Boemo ba ngaka bo ntlafalitsoe ka katleho",
+  "dottore_salvato": "Ngaka e atlehile ho ntlafatsa",
+  "download": "Kenya",
+  "downloadaspdf": "Kopitsa e le PDF",
+  "downloadecg": "Kopitsa ECG",
+  "DOWNLOADING_DEVICE_DATA": "Ho lata ...",
+  "downloadwellnessdata": "Ho lata ditaba tsa bophelo bo botle ...",
+  "downloadWellnessResult": "tekanyo e kentsoe",
+  "DOWNLOAD_CERTIFICATE": "Setifikeiti sa ho jarolla",
+  "DOWNLOAD_ERROR_GENERIC": "Oops. An erros o hlahile ha a leka ho lata file. Ka kopo, leka hape hamorao.",
+  "DOWNLOAD_SO_REPORT": "Kopitsa Referral",
+  "DO_NOT_DISTURB": "Se ke oa sitisa",
+  "drugsAtHome": "Lithethefatsi Lapeng",
+  "drugsAtHomeQuestion1": "Na o batla ho fumana lithethefatsi tse boletsoeng ke ngaka ea hau ka ho toba lapeng?",
+  "drugsAtHomeRequestBtn": "Romela kopo",
+  "drugsAtHomeRequestSuccess": "Re amohetse kopo ea hau. Lithethefatsi li tla romelloa ka hare ho lihora tse 24",
+  "drugsAtHomeSection1": "Fana ka foromo ka tlase nomoro ea mohala le aterese eo u batlang ho e fumana.",
+  "drugsAtHomeTitle": "Lithethefatsi Lapeng",
+  "drug_name": "Lebitso la Meriana",
+  "duration": "Nako",
+  "ecg": "ECG",
+  "ecgadded": "ECG e atlehile ho kenyelletsa lethathamong",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "Dintlha tsa EKG",
+  "ecgdetail": "Tobetsa ntho e &#39;ngoe le e&#39; ngoe ho bona setšoantšo sa ECG",
+  "ECG_DELETE_Q": "Na u netefatsa hore u batla ho hlakola EKG?",
+  "ecg_not_found": "Phoso ea ECG e fosahetseng, leka boitsebiso bo bong bo fosahetseng.",
+  "ECG_REMOVED": "EKG e tlosoa ka katleho",
+  "edit": "Fetola",
+  "EKG_SECTION_TITLE": "Electrocardiogram (EKG / ECG) Sephetho",
+  "EKG_TITLE": "EKG Upload",
+  "EMAIL": "Imeile",
+  "email1": "Imeile",
+  "email_do_not_match": "Li-imeile ha li tšoane",
+  "ematicTest": "Liteko tsa Ematic",
+  "Emergency": "Bontša ka Tšohanyetso",
+  "emergency1": "Emergency",
+  "emergencyLoginCode": "Khoutu ea ho kena ka tšohanyetso",
+  "emergency_numbers": "Numere ea Emergency",
+  "emergency_number_description": "Eketsa dinomoro tsa fono ho letsetsa ha maemo a tšohanyetso",
+  "emotionDescription": "Kopano ea maikutlo a fapaneng a mantlha, a hlalositsoeng ke basebelisi ba lentsoe nakong ea karolo ea lentsoe le hlalositsoeng.",
+  "emotions": "Maikutlo a Kopantseng",
+  "emptypassword": "Ka kopo, hlalosetsa phapang",
+  "EMPTY_ALLERGIES": "Tobetsa konopo ho eketsa lefu ho rekoto ea hau ea bongaka",
+  "empty_dataset": "Ha ho na data",
+  "EMPTY_DEPENDENCIES": "Tobetsa konopo ho eketsa ho itšetleha ka tlaleho ea hau ea bongaka",
+  "EMPTY_DISEASE": "Tobetsa konopo ho eketsa lefu ho rekoto ea hau ea bongaka",
+  "EMPTY_DOCUMENTS": "Tobetsa konopo ho kenya lengolo ho tlaleho ea hau ea bongaka",
+  "EMPTY_IMAGES": "Tobetsa konopo ho kenya setšoantšo ho rekoto ea hau ea bongaka",
+  "EMPTY_IMMUNIZATION": "Tobetsa konopo ho eketsa ente ea tlaleho ea hau ea bongaka",
+  "EMPTY_MEDICATION": "Tobetsa konopo ho kenya meriana tlalehong ea hau ea bongaka",
+  "empty_otp": "Khoutu ea OTP e sa lokelang",
+  "EMPTY_PROSTHESIS": "Tobetsa konopo ho kenyelletsa sekhetho lefapheng la hau la bongaka",
+  "EMPTY_TESTS": "Tobetsa konopo ho kenya teko ho rekoto ea hau ea bongaka",
+  "enabled": "E nolofalitsoe",
+  "endate": "Ho",
+  "endcall": "Qetella khoeli",
+  "endDate": "Letsatsi la ho qetela",
+  "endhour": "Nako ea ho qetela",
+  "end_time": "Nako ea ho qetela",
+  "END_VIDEOCALL_Q1": "O na le bonnete ba hore o batla ho felisa lipuisano ntle le ho qala videocall?",
+  "END_VISIT_BTN": "Ketelo ea ho qetela",
+  "error": "Phoso",
+  "error_call_timeout": "Nako ea ho etsa videocall e felile. E le ho etsa video ea video, pheta hape ts&#39;ebetso ena.",
+  "ERROR_EMAIL_DUPPLICATE": "Ho bonahala eka aterese ena ea imeile e se e ngotsoe. Leka ka e &#39;ngoe.",
+  "error_price": "Ka kopo, fana ka tefiso",
+  "ERROR_SPECIFY_DAYS": "Ka kopo, hlalose bonyane letsatsi le beke",
+  "ERROR_SPECIFY_HOUR": "Ka kopo, hlalosetsa nako",
+  "ERROR_TITLE_NOTIFICATION": "Phoso",
+  "ERROR_TRACKX": "Tlosa Trackx",
+  "error_update": "Phoso ea ho ntlafatsa Firmware",
+  "ERROR_USERNAME_DUPPLICATE": "Lebitso la hau la hau le se le nkiloe, khetha e &#39;ngoe",
+  "ERROR_WHITELIST": "Ts&#39;oarelo, sesebelisoa sa hau ha se lumelloe ho etsa videocall",
+  "esameobbligatorio": "Ka kopo, khetha tlhahlobo",
+  "exam_name": "Lebitso la Tlhahlobo",
+  "exercise": "Koetlisa",
+  "exercisereminders": "Likhopotso tsa ka tsa ho ikoetlisa",
+  "existentassoc": "Litloaelano tse teng",
+  "existentrelation": "Kamano ena e se e ntse e le teng",
+  "expandfordetails": "Eketsa ka lintlha tse ling",
+  "EXP_MONTH": "Khoeli ea Phello",
+  "EXP_MONTH_REQUIRED": "Ho hlokahala khoeli ea ho felloa ke nako",
+  "EXP_YEAR": "Selemo sa ho felloa ke nako",
+  "EXP_YEAR_REQUIRED": "Ho hlokahala hore ho felloe selemo",
+  "e_prescribing": "E-Prescribing",
+  "F": "Mosali",
+  "farmaci": "Meriana",
+  "farmaco": "Meriana",
+  "fat": "Mafura",
+  "FATIGUE_INDEX": "Mokhathala",
+  "FATIGUE_INDEX_DESCRIPTION": "Mosebetsi, mosebetsi le phihlelo tse bakoang ke tekanyo ea mokhathala. Ho khathetse ho feteletseng ho isa habonolo mahetleng a mesifa, ho robala hlooho, ho hlobaela, mokhathala, bohloko ba maoto, &#39;me habonolo ho lebisa tsamaisong ea methapo, mathata a endocrine, a bakang maloetse a mangata a sa foleng le mokhathala oa kelello.",
+  "favoriteslist": "Lethathamo la Kao ea Lenyalo",
+  "FAVORITES_NO": "Ha oa eketsa lingaka leha e le life hothathamong ea hau ea lipapatso",
+  "FAVORITES_NO_PHARMACIES": "Ha o kentse lekhetho leha e le lefe la lithethefatsi hothathamong ea hau ea lipapatso",
+  "FAVORITES_SECTION_SUBTITLE": "Tobetsa ntho e &#39;ngoe le e&#39; ngoe ho bona lintlha tse feletseng",
+  "FAVORITES_SECTION_TITLE": "Lingaka tseo u li ratang",
+  "FAVORITES_TITLE": "Favorites",
+  "favourite_pharmacy": "Pharmacy tse ratoang",
+  "FEE": "Laola litefo",
+  "FEET": "maoto",
+  "female": "Mosali",
+  "fileloaded": "Fera e laetsoe",
+  "fileloaded1": "Fle e behiloeng ka katleho",
+  "fileName": "Lebitso la faele",
+  "filenotfound": "Fanala e sa fumanoeng",
+  "file_upload_instruction": "Kenya thuto",
+  "filldate": "Ka kopo, khetha letsatsi",
+  "filldoctor": "Ka kopo, khetha ngaka",
+  "fillpeciality": "Ka kopo, khetha khethehileng",
+  "fillthebox": "Tlatsa lebokose",
+  "fill_indication": "Ka kopo, tlatsa tšimo e bontšitsoeng",
+  "fill_indication_for": "Ka kopo, hlalosetsa pontšo ea",
+  "fill_quantity": "Ka kopo, tlatsa tšimo e ngata",
+  "fill_quantity_for": "Ka kopo o hlalose hore na palo ea",
+  "fill_your_doubt": "Ka kopo, fana ka tlhaloso lebokoseng le ka holimo.",
+  "filter": "Senya",
+  "finddoctor": "Fumana lingaka",
+  "findFarmacia": "Batla Pharmacy",
+  "findpatient": "Fumana mamello",
+  "findspcialist": "Fumana setsebi",
+  "findStruttura": "Sebaka sa ho Batla",
+  "finduser": "Fumana mochine",
+  "FIND_A_DOCTOR": "Tsebisa ngaka",
+  "find_device": "Fumana lisebelisoa",
+  "FIND_THE_BRACELET": "Fumana Bracelet",
+  "fingerprint_btn": "Numella ho kena ha fingerprint ea menoana",
+  "fingerprint_hint": "Tlosa tiiso ea monoana hore u tsoele pele",
+  "fingerprint_hint2": "Tlosa tiiso ea monoana hore u tsoele pele",
+  "fingerprint_question": "A na u ka rata ho kopa bopaki ba menoana ea menoana?",
+  "FIRMWARE_UPDATE": "Phetoho ea Firmware",
+  "FIRMWARE_UPDATED": "Firmware e tsosolositsoe",
+  "firstName": "Lebitso la pele",
+  "five_min": "Ka metsotso e 5",
+  "fixappointment": "O batla ho lokisetsa kopano ee?",
+  "forever": "Ka ho sa feleng",
+  "forgotPassword": "U lebetse senotlolo sa hau?",
+  "forgot_password": "U lebetse phasewete?",
+  "forma": "Tšoaea",
+  "formafarmaco": "Foromo ea Meriana",
+  "formatError": "Theko e tlameha ho ba palo ea lipalo.",
+  "found_devices": "Lisebelisoa tse fumanoeng",
+  "FRIDAY": "Labohlano",
+  "GENDER": "Tekano",
+  "gender1": "Tekano",
+  "general": "Kakaretso",
+  "generalInfo": "Litaba tse tloaelehileng",
+  "genericName": "Lebitso la Sehlahahlaha",
+  "GENERIC_ERROR": "OOps! Ho na le ntho e sa tsamaeeng hantle Ka kopo, leka hape hamorao",
+  "geneticTest": "Tlhahlobo ea Mafu",
+  "geneticTestHeader2": "Ka liteko tsa liphatsa tsa lefutso u ka fumana tse ling ka bophelo bo botle ba hao mme u etse ntho e nepahetseng ho boloka bophelo bo botle.",
+  "geneticTestHeader3": "E sebetsa joang",
+  "geneticTestProduct": "Profile Profile",
+  "geneticTestRequestBtn": "Botsa tlhahlobo",
+  "geneticTestRequestSuccess": "Taelo ea hau e tiisitsoe. U tla amohela thepa ka ho toba lapeng",
+  "geneticTestSection1": "Na u batla hona joale haeba seo u se jang se lekane &#39;meleng oa hao le metabolism?",
+  "geneticTestSection2": "Na o batla ho tseba hore na lijo tse phelisang hantle li etsa hore &#39;mele oa hau o se ke oa beha likotsi tse sa foleng kotsi?",
+  "geneticTestSection3": "Tlhahlobo ea phepo e tla u tsebisa kamano pakeng tsa DNA le lijo tsa hau.",
+  "geneticTestSection4": "Kenya mona nomoro ea hau ea mohala le aterese eo u batlang ho e fumana",
+  "geneticTestStep1": "1. Etsa tlhahlobo ea hau",
+  "geneticTestStep1Subtitle": "Etsa litaelo tsa hau ka app le ho amohela thepa ka ho toba lapeng.",
+  "geneticTestStep2Subtitle": "Nka mohlala o re romelle ka tšebeletso ea poso u sebelisa enfelopo eo re tla u fa eona.",
+  "geneticTestStep3": "3. Fumana litholoana",
+  "geneticTestStep3Subtitle": "Kamora beke e &#39;ngoe u tla fumana molaetsa o u tsebisa hore liphello tsa tlhahlobo ea liphatsa tsa lefutso li tla fumaneha ho App.",
+  "geneticTestTitle": "Tlhahlobo ea Mafu",
+  "GLUCOMETER": "Glucometer",
+  "glucosio": "Glucose",
+  "HAND_BRIGHTEN": "Phahamisa letsoho la Hao ho Tšosa",
+  "happiness": "Thabo",
+  "HDL": "HDL Cholesterol",
+  "hdl_cholesterol_desc": "K&#39;holeseterole e phahameng ea “density lipoprotein” (HDL) e tsejoa e le cholesterol e ntle. Tafole e latelang e bonts&#39;a boleng ba boleng.",
+  "healthtips": "Bophelo bo botle",
+  "HEALTH_INDEX": "Bophelo bo botle",
+  "HEALTH_INDEX_DESCRIPTION": "Tlhaloso ea bophelo bo botle ba HRV ke ka ho hlahloba tekanyo ea pelo ea HR le ho fapana ha lebelo la pelo ho HRV le mekhahlelo e meng, ho itšetlehile ka tekanyo ea nako ea sebele ea liphello tsa Holter ho sekaseka litekanyo tsa bophelo bo botle ba &#39;mele, tlhahiso ea bophelo bo eketsehileng, e emelang bophelo ba&#39; mele ho molemo; tlhahiso ea bophelo bo fokotsehile, molemong oa &#39;mele Ho hlokahala hore u ele hloko letsatsi le leng le le leng bophelo bo botle.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Pelo",
+  "HEART_INDEX_DESCRIPTION": "Mosebetsi oa Bokooa Basebetsi ba lekanya boemo ba pelo ea motho, mme tshebetso ea bona e fapane ka lebaka la maemo a bona a fapaneng a lerato bakeng sa pelo le boemo bo botle ba bophelo bo botle. Ho hlaolela tsela e phelang ea bophelo bo botle le mekhoa ea ho ja: leano le utloahalang la ho imetsa pelo ho qobella pelo ea calcium sodium, ho sireletsa methapo ea mali, e ka thibela ho hlaha ha lefu la pelo, ke ho matlafatsa leano la ts&#39;ebetso ea pelo.",
+  "height": "Boima",
+  "height1": "Boima bo hlokahalang bakeng sa palo e nepahetseng ea BMI",
+  "heightUnit": "Setsi sa bophahamo",
+  "hepaticFunction": "Mosebetsi oa Hepatic",
+  "hide": "Fihla",
+  "high1": "E phahameng",
+  "high_risk": "Kotsi e kholo",
+  "history": "Histori ea Puisano",
+  "homepage": "Lehae",
+  "HOME_WARNING_MESSAGE": "O na le bonnete ba hore o batla ho tsamaea ho tloha leqepheng lee? Liphetoho tsa hau li tla lahleha.",
+  "hormonalTest": "Teko ea Mosebetsi oa Hormonal",
+  "hospDate": "Hosp.date",
+  "hospit": "Ho amoheloa baeti bakeng sa",
+  "hospital": "Sepetlele",
+  "hospitalization": "Hospitalization",
+  "hour": "Hora",
+  "hours": "Lihora",
+  "HOURS_BANK_DONATE_BTN": "Fana ka",
+  "HOURS_BANK_DONATION": "Lihora tse fanoang hona joale:",
+  "HOURS_BANK_H": "Lihora tsa Lihora:",
+  "HOURS_BANK_SECTION_P1": "Bophelo bo botle ke bo bohlokoa ka ho fetisisa ho SaluberMD mme re batla ho sebeletsa batho ba bangata kamoo ho khonehang. Ka sethala sa rona re etsa hore ho khonehe ho ba hlokang ho ba le phihlelo ea tlhokomelo ea bophelo. Sehlopha sa rona sa boithaopo se ikemiseditse ho fana ka menyetla ea tlhokomelo ea bophelo mekhatlo, batho le malapa a hlokang.",
+  "HOURS_BANK_SECTION_P2": "Tlanya feela hokahanngoa le lihora tse kae tseo u batlang ho fana ka tsona &#39;me re li kenye bankeng ea rona.",
+  "HOURS_BANK_SECTION_P3": "Re tla ikopanya le uena ka lenaneo la ho lopolla lihora le ha u fumaneha feela tlanya u amohele ho bona bakuli.",
+  "HOURS_BANK_SECTION_TITLE": "Kopana le rona ka ho fana ka mpho ea tlhokomelo ea bophelo bo botle!",
+  "HOURS_BANK_TITLE": "Hours Bank",
+  "howto": "Joang",
+  "howto1": "Li-slots tse fumanehang li tšoauoa ka bolo e tala",
+  "howto2": "Khetha sele ka bolo e tala &#39;me u tobetse ho eona ho atolosa&#39; me u khethe nako. Ha u se u loketse tobetsa letšoao la pentšele ho bona boitsebiso boo mme u nke kopano",
+  "howToPrice": "Theko e tlameha ho ba palo ea lipalo. Boholo ba boleng bo habeli ba decimal bo lumelloa. Dot kapa comma li ka sebelisoa e le karohano",
+  "hrv_buono": "E ntle",
+  "hrv_eccellente": "E ntle haholo",
+  "hrv_generale": "Kakaretso",
+  "hr_alta": "E kholo ho feta 100",
+  "hr_bassa": "Ntle ho 60",
+  "HR_DESCRIPTION": "Tafole ea litšupiso ea lipalo tse tloaelehileng tsa ho phomola pelo",
+  "HR_INTERVAL": "HR lekanya nako",
+  "hr_normale": "Pakeng tsa 60 le 100",
+  "hsh": "Ho hlokomelisoa malapeng le Histori ea Bophelo",
+  "IBAN": "IBAN",
+  "idx": "Litlhaloso",
+  "image": "Setšoantšo",
+  "images": "Litšoantšo",
+  "immunization": "Liente",
+  "immunizationmenu": "Liente",
+  "importhealth": "Kenya Ts&#39;ebetso ea Bophelo",
+  "impossible_transfer": "Ha ho khonehe ho fetisa Pitso",
+  "INCH": "Inch",
+  "indexes": "Litlhaloso",
+  "indication": "Tlhaloso",
+  "INFO_BTN": "Tsebiso",
+  "info_salvate": "Dintlha li atlehile ho boloka",
+  "iniezione": "Kotsi",
+  "initiative": "Mohato oa pele",
+  "initiativeerror": "Ka kopo, khetha khato e le &#39;ngoe",
+  "insert": "Kenya",
+  "inserttext": "Kenya mongolo mona",
+  "insert_otp_code": "Kenya khoutu mona",
+  "internet_missing": "Ha u kopane le inthanete",
+  "invalidemail": "Inerese ea imeile e sa lokelang",
+  "invoice": "Invoice",
+  "irregulartest": "Tlhahlobo e sa tloaelehang",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Liteko tsa Mosebetsi oa liphio",
+  "labtesting": "Motsoalle",
+  "LANGUAGE": "Puo",
+  "LANGUAGE_TYPE": "Puo",
+  "lastmeasure": "Tekanyo ea ho qetela",
+  "lastName": "Fane",
+  "lastPhysical": "Qetellong ea &#39;mele",
+  "lastSync": "Sync ea ho qetela",
+  "lastTimeOnline": "Nako ea ho Qetela Online",
+  "lastvisit": "Leeto la ho qetela",
+  "last_login_date": "Letsatsi la ho kena la ho qetela",
+  "last_time_taken": "Nako ea ho qetela e nkuoe",
+  "LDL": "LDL Cholesterol",
+  "ldl_cholesterol_desc": "LDL, kapa lipoprotein e fokolang tekanyetso, ke cholesterol e &#39;mpe&#39;. Tafole e latelang e bonts&#39;a boleng ba boleng",
+  "leggero": "Leseli",
+  "LICENSE_NUMBER": "Nomoro ea mangolo",
+  "LIGHT_SLEEP_TIME": "Leseli le robetse",
+  "listcall": "Lethathamo la li-videocall e entsoe",
+  "litri": "Lit",
+  "liverExam": "Teko ea Mosebetsi oa Sebete",
+  "LIVE_ECG": "Tekanyo e ncha",
+  "live_ecg_downloading": "Ho kopitsa ECG. Ke kopa u eme...",
+  "loadEcgList": "Ho fumana lintlha tsa EKG ...",
+  "loading": "E batla data ...",
+  "loading1": "Loading ...",
+  "loading_list": "Ho fumana lethathamo la ...",
+  "loading_list_nutritionist": "Ho fumana litsebi tsa phepo ea lijo ...",
+  "LOAD_INDEX": "Mojaro",
+  "LOAD_INDEX_DESCRIPTION": "Tlhōrō le mokhathala, khatello Ho nahanisisa ka ho feletseng ha &#39;mele hore o jare letšoao la mojaro, ho nahana ka likarolo tsa&#39; meleng le tsa kelello tsa batho ho jara boemo bo boima. Boiketlo ba sechaba, bophelo le tlhōlisano le lintlha tse ling, empa le ka boemo ba bona ba &#39;mele le boemo ba kelello.",
+  "LOAD_ITEMS": "Loading ...",
+  "LOGGING_IN": "Ho kena-kenana ho ...",
+  "LOGGING_OUT": "Oa tsoa ...",
+  "LOGIN_BTN": "Kena",
+  "LOGIN_ERROR": "Lebitso la mobu le phoso",
+  "Logout": "Ho kena-kenana",
+  "logout1": "Ho kena-kenana",
+  "LOGOUT_BTN": "Ho kena-kenana",
+  "low1": "E tlaase",
+  "lunch": "Mantsiboea",
+  "lungtest": "A re etse tlhahlobo ea matšoafo",
+  "M": "Monna",
+  "male": "Monna",
+  "manageapp": "Laola likhetho",
+  "manageslot": "Laola mahala slot",
+  "MANAGE_CORX": "Laola Corx",
+  "mandatoryDays": "Ka kopo, bolela palo ea matsatsi",
+  "mandatoryfield": "Ka kopo, tlatsa masimo ohle a hlokehang",
+  "map": "&#39;Mapa",
+  "max_file_size": "Sesebelisoa sa faele se tlameha ho ba tlase ho",
+  "meals": "Lijo",
+  "medicalconsultation": "Puisano",
+  "medicalfile": "Litšoantšo",
+  "medicalform": "Mefuta ea Bongaka",
+  "medicalforms": "Mefuta ea Bongaka",
+  "medicalinfo": "Tsebo ea Bongaka",
+  "medicalrecord": "Tlaleho ea bongaka",
+  "medical_2option": "Pono ea Bobeli ea Bongaka",
+  "MEDICAL_CERTIFICATE": "Setifikeiti sa bongaka",
+  "MEDICAL_FILE_BTN": "Feshene ea Bongaka",
+  "medication": "Meriana",
+  "medication_name": "Lebitso la meriana",
+  "medicinereminders": "Meriana ea ka Khopotso",
+  "medio": "Bohareng",
+  "medium1": "Bohareng",
+  "message": "Molaetsa",
+  "messagesent": "Molaetsa o rometsoe hantle",
+  "metabolismTest": "Liteko tsa Metabolism",
+  "method": "Mokhoa",
+  "METRIC": "Metric",
+  "middedcall2": "U na le pitso e sa arabelloang e tsoang ho",
+  "minutes": "metsotso",
+  "missedcall": "SaluberMD ha e na videocall",
+  "missedcall1": "O feletsoe ke Call",
+  "missedNotiAlert": "O na le tsebiso e haellang.",
+  "misurazioni": "Litlaleho",
+  "misure": "Hlakola",
+  "mobile": "Mobile",
+  "mobile_required": "Ka kopo, eketsa nomoro ea hau ea fono e le hore re ka ikopanya le uena ho hlophisa kopano.",
+  "moderate_risk": "Kotsi e leka-lekaneng",
+  "MONDAY": "Mantaha",
+  "month": "Khoeli",
+  "mood": "Sehlopha sa boits&#39;oaro",
+  "moodDescription": "Pontšo ea bohlokoa ea boemo ba sebui sa maikutlo nakong ea karolo ea lentsoe le hlalositsoeng. API e hlahisa lihlopha tse 11 tsa maikutlo a mofuthu ho tloha bohale, bolutu le boitšoaro ho thaba le thabo.",
+  "moreDays": "Matsatsi a mangata",
+  "motivazione": "Lebaka",
+  "MRGraph": "Bongaka bo nkile nalane",
+  "msgAppointment": "Ho khethoa ho hlophisitsoe ka katleho. U tla fumana kopano ea hau karolong ea melemo ea concierge.",
+  "msgsurveysent": "Phuputso e atlehile ho romeloa",
+  "msg_call_reconnection": "Ho leka ho hokahanya hape ...",
+  "MSG_CALL_TRANSFERED": "Video ea video e fetisitsoe ka katleho",
+  "MSG_CHOOSE_OPTION": "Ka kopo, khetha khetho",
+  "MSG_CHOOSE_OPTION4": "Khetha khetho",
+  "MSG_CHOOSE_OPTION5": "Hlalosa lijo tsa hoseng tsa hau",
+  "MSG_CHOOSE_OPTION6": "Hlalosa lijo tsa hau tsa motšehare",
+  "MSG_CHOOSE_OPTION7": "Hlalosa lijo tsa motšehare",
+  "MSG_CHOOSE_OPTION8": "Hlalosa litlhapi tsa hau",
+  "MSG_CHOOSE_OPTION9": "Ka kopo, araba lipotso tsohle",
+  "MSG_CHOOSE_OPTION_2": "Ka kopo, kenya tlhaloso",
+  "MSG_CHOOSE_OPTION_3": "Khetha bonyane kgetho e le &#39;ngoe",
+  "MSG_COMPLETE_PROFILE": "O ka rata ho ea hona joale?",
+  "MSG_CONFIRM_EMAIL": "Ka kopo, netefatsa imeile ea hau",
+  "MSG_CONFIRM_EMAIL_TEXT": "Re u romela imeile ka litaelo tsa hore na u ka tiisa joang aterese ea hau ea imeile. Ka kopo sheba lebokose la hau la boitsebiso.",
+  "msg_connected": "Ho kopantsoe ka katleho",
+  "MSG_CONTACT_SUCCESS": "Ke leboha ha u romella.",
+  "MSG_DOC_ENDED_CALL": "Ngaka e qetile mohala",
+  "MSG_DOC_WAITING_CALL": "Ngaka e tlotsitsoe, e emetse ho ts&#39;oaroa hape",
+  "MSG_DONATION": "Tiisetsa monehelo oa hau?",
+  "MSG_DONATION_CONFIRM": "Kea le leboha ka monehelo oa hau",
+  "MSG_ERROR_FILL_BOXES": "Ka kopo tlatsa mabokose a nang le litekanyetso tse nepahetseng",
+  "MSG_FILL_ALL_BOXES": "Ka kopo, tlatsa mabokose ohle",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Ka kōpo tlatsa lihlopha tse latelang",
+  "MSG_FILL_BOXES": "Ka kopo tlatsa mabokose",
+  "MSG_FILL_BOXES_ALL": "Ka kopo tlatsa masimo ohle",
+  "MSG_FILL_BOXES_PROFILE": "Ka kopo, tlatsa mabokose ohle a tšoaetsoeng ke naleli",
+  "MSG_GENERIC_ERROR": "Ka kopo hlahloba marang-rang a hau ea inthanete ho leka hape.",
+  "MSG_GENERIC_FORM_ERROR": "Ka kopo lokisa phoso ho tsoela pele",
+  "MSG_LOGIN_ERROR": "Ho kena ho hlolehile. Ka kopo sheba lintlha tsa hau tsa bonnete mme u netefatse hore u amana le marang-rang.",
+  "MSG_LOGIN_ERROR_LOCKED": "Ho kena ho kena ho senyehile: akhaonto ea hau ke ea nakoana e koetsoe. Ka kopo leka hape.",
+  "MSG_MANDATORY_OPTION": "Uena u tlameha ho lumella ngaka hore e bone Setšoantšo sa Bongaka",
+  "MSG_NO_DOCTORS_FOUND": "Rea apolozie, empa ha ho na lingaka tse fumanoeng. Tlanya Fumana ngaka e le hore u leke hape",
+  "MSG_PATIENT_CANCELED_CALL": "Mokuli o hlakola pitso.",
+  "MSG_PATIENT_ENDED_CALL": "Mokuli o qetile mohala",
+  "MSG_PATIENT_WAITING_CALL": "Mokuli o khaotsoe, o letetse ho boela a hopola",
+  "MSG_POST_CALL_CANCEL": "U qetile ketelo pele u qala video ea video!",
+  "MSG_POST_CALL_DOCTOR": "Kakaretso e rometsoeng u tla khutlela leqepheng la maqephe",
+  "MSG_POST_CALL_PATIENT": "Kea leboha ka ho sebelisa SaluberMD. U tla fumana imeile e latelang. Ho sheba lintlha ka ketelo ea hau ka kopo, etela Pale ea Bophelo ba Ka-Histori ea Ketelo",
+  "msg_reconnection_error": "Sesebelisoa se khaotsoe. Ka kopo, lumellana le sesebelisoa",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Kea leboha .... motho e mong o tla iteanya le uena",
+  "MSG_REGISTRATION_SUCCESS": "Tlaleho ea hau e atlehile",
+  "msg_req_videocall1": "e fumaneha bakeng sa videocall ka:",
+  "msg_req_videocall2": "Video ea video e se e loketse ho qala. Tobetsa tlhahisoleseding ena ho bula video-video",
+  "msg_req_videocall3": "e fumaneha bakeng sa videocall hona joale. Tobetsa tlhahisoleseding ena ho bula video-video",
+  "MSG_RESET_REQUEST_ERROR": "Mosebedisi ea nang le lebitso la hau la imeile kapa aterese ea imeile ha a eo.",
+  "MSG_RESET_REQUEST_SUCCESS": "U tla fumana kapele lengolo le leng le leng le leng le leng le leng le leng le leng le nang le khokahano ea ho busetsa password",
+  "MSG_RESUME_CALL": "Hona joale u na le mohala, na u ka rata ho o tsoela pele?",
+  "MSG_SCHOOL_MISSING": "Kenya Sekolong",
+  "MSG_SELECT_TIMEZONE": "Khetha nako ea nako",
+  "MSG_SIGNATURE_MISSING": "Ka kopo tlatsa lebitso la hau, ho seng joalo u ke ke ua romela mangolo a mang kapa mang.",
+  "MSG_THANKING": "Ke leboha ha u romella.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Tšebeliso e lahlehileng. Sena se ka ba ka lebaka la khoebo ea hau ea inthanete",
+  "MSG_WELCOME_BACK": "rea u amohela hape",
+  "MSG_YEAR_PRACTISE": "Kenya Selemo sa Liketso",
+  "muscles": "Matšoao",
+  "myappointment": "Litumellano tsa ka",
+  "MYFILE_NOFILE": "Ha u na lifaele",
+  "MYFILE_SECTION": "Lifaele tsa hau",
+  "MYFILE_SUBTITLE": "Tobetsa ntho e &#39;ngoe le e&#39; ngoe ho bona lifaele tsa hau",
+  "MYFILE_TITLE": "My Files",
+  "myprofile": "Pale ea ka",
+  "myreminders": "Likhopotso Tsa ka",
+  "MY_TICKETS": "Litekete tsa hau",
+  "M_SCHOOL": "Sekolo sa Bongaka",
+  "N": "Che",
+  "name": "Lebitso",
+  "negative": "E mpe",
+  "nervous": "Ho tšoha",
+  "nessun_appuntamento": "Ha ho na baemeli ba fetileng",
+  "NETWORK_CHECK_MSG": "Lebotho la hau la motlakase le tlase haholo. Ho bapalla lintho tse nang le bandwidth e tlase ho tla etsa hore video e emise.",
+  "NETWORK_CHECK_TITLE": "Leka Tlhahlobo ea Boleng",
+  "NETWORK_ERROR": "Ho kena Inthaneteng Phoso. Leka hape hamorao",
+  "neutral": "Ho se jele paate",
+  "newappointment": "Kopano e ncha ho tloha",
+  "newass": "Kenya mokhatlo o mocha",
+  "NEWPWD_CONFIRM": "Puo e fetohile ka katleho. Ka kopo oena hape.",
+  "NEWPWD_CONFIRM2": "Puo e nepahetseng e fetotse ka mokhoa o tsotehang",
+  "NEWPWD_ERROR": "Puo e ncha ha e bapisoe.",
+  "newtest": "Tobetsa konopo e eketsehileng ho etsa tlhahlobo e ncha.",
+  "NEW_PWD": "Phasewete e Ntjha",
+  "new_ticket": "Tekete e ncha",
+  "NEXT": "E &#39;ngoe",
+  "no": "Che",
+  "noAlarm": "Ha ho alamo e behiloeng",
+  "noallergies": "Ha ho na mafu a hlaselang a thathamisitsoeng.",
+  "noapatient": "Ha ho mokuli ea fumaneng",
+  "noappointment": "Ha ho na kemiso ea kopano",
+  "noappointments": "Ha ho letsatsi le fumanehang le ngaka ena",
+  "noappointments1": "Ha ho matsatsi a fumanehang le setsebi sena sa phepo e nepahetseng",
+  "noAppoPat": "Ha ho na nako ea ho ba lenane",
+  "noarticles": "Ha ho lihlooho tsa phepo e nepahetseng",
+  "noassociatedpatient": "Ha u na mamello ea ho kopanela",
+  "noattachment": "Ka kopo, khetha sehopotso",
+  "noattachment1": "Ha ho na sephakela",
+  "noavailableoption": "Ha ho khetho e teng",
+  "nocomment": "Ha ho litlhaloso / tlhabollo",
+  "noconsulenze": "Ha ho maeto a etsoang",
+  "nocorxfound": "Ha ho CORX e fumanoeng",
+  "nodata": "Ha ho data",
+  "nodependency": "Ha ho matšeliso a thathamisitsoeng.",
+  "nodesease": "Ha ho mafu a thathamisitsoeng.",
+  "nodevice": "Ha ho sesebelisoa se fumanehang, ka kopo leka hape",
+  "nodoctor": "Ha ho lingaka tse fumanehang",
+  "nodoctors": "Ha ho lingaka tse fumanehang",
+  "noDocuments": "Ha ho litokomane tse nkiloeng",
+  "nodrugselected": "Ha u khethile lithethefatsi",
+  "noecg": "Ha ho ECG e thathamisitsoeng",
+  "noexam": "Ha ho na liteko tse ka hlahisoang",
+  "nofiles": "Ha ho lifaele tse laetsoeng ke mokuli",
+  "noHistory": "Ha ho na lipuisano hona joale",
+  "nohsh": "Ha ho li-hospitali tse thathamisitsoeng.",
+  "noimages": "Ha ho na selekane ho motsotsoana",
+  "noimmunization": "Ha ho na liente tse thathamisitsoeng.",
+  "nolabtest": "Ha ho liteko tsa laboraka tse fumanoang",
+  "nomedication": "Ha ho na meriana e thathamisitsoeng.",
+  "nomisure": "Ha ho na tekanyo",
+  "nonterminata": "Ho letsetsa ha ho na thuso",
+  "nonutritionist": "Ha ho na phepo e fumanehang",
+  "nonuvoair": "Ha ho sesebelisoa se fumanehang",
+  "nopharmacy": "Ha ho na li-pharmacy tse fumanehang",
+  "noprescription": "Ha ho na litaelo motsotso ona",
+  "noprothesis": "Ha ho na liprotheine kapa lithuso tsa bongaka tse thathamisitsoeng.",
+  "noreferrals": "Ha ho li-referrals tse thathamisitsoeng",
+  "noreminders": "Ha o na likhopotso bakeng sa hona joale",
+  "noresults": "Ha ho liphetho tse fumanehang",
+  "normale": "E tloaelehileng",
+  "normalrange": "Boemo bo sa tloaelehang Bohareng",
+  "normalWeight": "Boima bo tloaelehileng",
+  "nosintomi": "Ha ho letšoao le khethiloeng",
+  "nospecialist": "Ha ho na litsebi",
+  "note": "Lintlha",
+  "notests": "Ha ho liteko tse sa tloaelehang tse thathamisitsoeng.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Tlanya mona ho qeta ho tlatsa faele ea hau ea bongaka",
+  "NOTIFICATIONS_SECTION": "Litlhahiso tsa hau",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Fumana konts&#39;oa e sa lefelloeng kapa tlhahlobo ea bophelo bo botle ka mor&#39;a hore u phethe fono ea hau ea bongaka.",
+  "NOTIFICATIONS_SETTINGS": "Beha Litsebiso",
+  "NOTIFICATIONS_TITLE": "Litlhahisoleseding",
+  "notification_setting": "Khetha ho tloha sehlopheng seo u batlang ho fumana tsebiso",
+  "notimage": "Fifa ha e setšoantšo: Ke BMP, GIF, JPG le PNG feela tse lumelloang",
+  "notNow": "E seng hona joale",
+  "notnow_btn": "E seng hona joale",
+  "nouser": "Ha ho na motho ea fumanoang",
+  "novantad": "Matsatsi a 90 a ho qetela",
+  "novideocall": "Ha ho na video e fumanehang",
+  "novisit": "Ha u na nako ea ho etela ka mamello",
+  "noWellnessData": "Ha ho Ditaba tse Ncha tsa Molemo",
+  "no_certificate": "Ha ho setifikeiti se lokelang ho thathamisoa",
+  "no_chiosc_data": "Ha ho na tlhahlobo ea lab e ka e hlahlobang",
+  "NO_DATA": "Ha ho data",
+  "no_doctor_answer1": "Ha ho na lingaka tse fumanehang hona joale.",
+  "no_doctor_answer2": "O ka nka kopano ka ho tobetsa konopo e ka tlase.",
+  "NO_GENETIC_TEST_REQUESTS": "Ha u kopile tlhahlobo ea genetic",
+  "NO_MSG": "Ha ho melaetsa e rometsoeng",
+  "no_notifications": "Ha u na litsebiso",
+  "no_prescription_download": "Ha ho na lengolo la ngaka le amanang le puisano ena",
+  "no_pull_answer": "Ha ho ngaka e fumanehang hona joale.",
+  "no_referral_download": "Ha ho na ho ngolisoa ho amanang le ketelo ena",
+  "NO_SECOND_OP_REQUESTS": "Ha u na kopo ea Palo ea Bobeli ea Tšebeletso",
+  "no_specialization": "ho se-tsebo",
+  "no_specialization_found": "Ha ho na tsebo e fumanoeng",
+  "NO_TICKETS_SENT": "Ha ho litekete tse rometsoeng",
+  "NO_USER_FOUND": "Lebitso la hau kapa imeile ha e fumanehe",
+  "NPI": "NPI",
+  "ns": "Lenaneo la Matšoao",
+  "numberNotSaved": "Phoso ha u boloka palo",
+  "numberSaved": "Nomoro e bolokiloe ka katleho",
+  "nuovoair_connected": "Tse amanang",
+  "nuovoair_disconnected": "Ha e thibeloe",
+  "nutriPen": "Kopo e letetseng",
+  "nutriRev": "Potso ea lipotso e ntlafalitsoeng",
+  "nutrition": "phepo e nepahetseng",
+  "nutritionist": "Bua le nutrionist",
+  "NUTRITIONIST_Q1": "Lipakane tsa mathomo: (Hlahloba kopo eohle)",
+  "NUTRITIONIST_Q10": "Na u hlokomoloha, o khanya kapa o fokola haeba u sa ja?",
+  "NUTRITIONIST_Q11": "Lenaneo la hona joale la ho ikoetlisa: (Cardio, Resistance, Etc.)",
+  "NUTRITIONIST_Q12": "Na u tsuba ?: (Haeba ho joalo, ke hangata hakae le ba kae?)",
+  "NUTRITIONIST_Q13": "Na U Noa Joala ?: (Haeba e, e kae kapa kae?)",
+  "NUTRITIONIST_Q14": "Na U Noa Cafeine ?: (Haeba e, ho hangata hakae?)",
+  "NUTRITIONIST_Q15": "Letsatsi la ho qetela &#39;meleng:",
+  "NUTRITIONIST_Q16": "U &#39;nile ua fuoa lithibela-mafu ka makhetlo a makae lilemong tse 2 tse fetileng:",
+  "NUTRITIONIST_Q16_BIS": "Haeba ho joalo, Ke life le hore na ke hangata hakae, (Ka kōpo e-ba ho toba kamoo ho khonehang.)",
+  "NUTRITIONIST_Q17": "Na u noa meriana? (OTC kapa lengolo la mangolo a ngotsoeng?) Haeba ho joalo, ke lintlha life tseo u li nkang? Haeba ho joalo, ke hangata hakae, (Ka kōpo e-ba ho toba ka hohle kamoo u ka khonang.)",
+  "NUTRITIONIST_Q18": "Na u phunyeletsoa kapa u koetlisoa ho feta matsatsi a 1-2 ka beke?",
+  "NUTRITIONIST_Q19": "O na le lintlha litabeng tse latelang? Haeba e, ka kopo, hlalosa lintlha tsa hau ka ho qaqileng libakeng tse fanoeng.",
+  "NUTRITIONIST_Q2": "Ho na le lijo tse kae tseo u li jang ka letsatsi? (Khetha E mong)",
+  "NUTRITIONIST_Q3": "Ke eng ea hau ea lijo tsa hoseng e tloaelehileng, le nako efe:",
+  "NUTRITIONIST_Q4": "Lijo tsa hau tsa mantsiboea li na le nako efe, le nako efe:",
+  "NUTRITIONIST_Q5": "Sejo sa hau sa lijo se tloaelehileng se na le nako efe:",
+  "NUTRITIONIST_Q6": "Ke eng ea hau e tloaelehileng ea ho bokella lijo, le nako kapa (e) nako efe?",
+  "NUTRITIONIST_Q7": "Na U ja Hantle?",
+  "NUTRITIONIST_Q8": "Lijo tsa mofuta ofe tseo u tloaetseng ho li ja haholo le hore na ke hangata hakae:",
+  "NUTRITIONIST_Q9": "Na u na le lijo tse ling tsa lijo, lithibelo kapa litsebo:",
+  "NUTRITIONIST_SUB1": "Boima ba ho Weight",
+  "NUTRITIONIST_SUB10": "Sefuba / Ho otla",
+  "NUTRITIONIST_SUB11": "Bothata ba mala",
+  "NUTRITIONIST_SUB2": "Ho fumana boima ba &#39;mele",
+  "NUTRITIONIST_SUB3": "Matla / mokhathala",
+  "NUTRITIONIST_SUB4": "Boroko bo Molemo",
+  "NUTRITIONIST_SUB5": "Litaba tsa ho thibela ho khaotsa",
+  "NUTRITIONIST_SUB6": "Ho tlosoa ha &#39;mele",
+  "NUTRITIONIST_SUB7": "Letšollo",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Bloating / Gas",
+  "nutrition_mail": "Ho na le tlaleho ea litsebi tsa phepo ea lijo",
+  "nutrition_mail2": "Setsebi sa phepo ea lijo o u romela file",
+  "nutrition_questionnaire": "lipotso tsa phepo e nepahetseng",
+  "nvisit": "Palo ea li-videoco tsa video li etsoe",
+  "obesity1": "E ntle",
+  "obesity2": "Ho feta ho feta",
+  "obesity3": "Ho bobebe haholo",
+  "OFFICE_ADDRESS": "Aterese ea ofisi",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Ngaka e bonahala e sa sebetse, ka kopo leka hape hamorao",
+  "OLDPWD_ERROR": "Ncha e ncha e tsamaisana le password ea khale.",
+  "OLD_PASSWORD_WRONG": "Netewete ea khale e fosahetse",
+  "OLD_PWD": "Senotlolo sa Khale",
+  "oneDay": "Letsatsi le le leng",
+  "one_min": "Ka motsotso o le mong",
+  "online": "Inthaneteng",
+  "onlinedoctors": "Lingaka tsa Inthanete",
+  "openimage": "Tobetsa setšoantšong ho bula sesebelisoa se feletseng",
+  "open_ticket": "Bula Letšoao",
+  "orale": "Ka molomo",
+  "other": "Tse ling",
+  "othercbc": "Litlhahlobo tse ling tsa CBC",
+  "OTHER_PLACEHOLDER": "Ka kopo khetha khetho ea hau",
+  "otoscopy": "Otoscopy",
+  "otp_sent_msg": "Re u romelletse khoutu ea netefatso ho nomoro ea hau ea mohala",
+  "OUR_PRODUCTS_SECTION": "Lisebelisoa tsa rona li fana ka nako ea sebele ea bophelo bo botle le bophelo bo botle ho u thusa hore u boloke tlaleho ea bophelo bo botle ba hau.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Hlahloba bophelo ba matšoafo ka metsotsoana le setsebi sa spirometer",
+  "OUR_PRODUCTS_SECTION_P1": "Theknoloji e bohlale e apereng e fanang ka data ea sebele ea bophelo bo botle ho phaella mosebetsing oa botle",
+  "OUR_PRODUCTS_SECTION_P2": "Melemo ea Boikoetliso / Boiketlo",
+  "OUR_PRODUCTS_SECTION_P3": "Tichere ea hau ea ho hlahloba malapa bakeng sa lelapa lohle.",
+  "OUR_PRODUCTS_SECTION_P4": "Likaroloana",
+  "OUR_PRODUCTS_SECTION_P5": "Lisebelisoa tsena ka bobeli li etselitsoe ho sebelisana le app ho fana ka phihlelo ea bophelo bo botle. Liphetho tsa hau li tla bolokoa ka ho toba inthaneteng.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Leka khatello ea boold ka metsotsoana le setsebi sa sphygmometer",
+  "OUR_PRODUCTS_SECTION_SCALX": "Hlakola boima ba hao ka metsotsoana le setsebi sa mosebetsi",
+  "OUR_PRODUCTS_TITLE": "Lihlahisoa tsa rona",
+  "overeatFoods": "Lijo tse senyehileng",
+  "overeating": "Ho ja ho tlōla",
+  "overweight": "Boima ba ho feta",
+  "pa": "Motlatsi oa ngaka",
+  "PASSWORD": "Netewete",
+  "passwordchanged": "Puo e nepahetseng e fetohile ka katleho",
+  "passwordExpiringMessage": "Puswedi ea hau e tla fela haufinyane. Ka kopo e fetole hona joale",
+  "passwordExpiringTitle": "Netefete e felile",
+  "PATIENT": "Mamello",
+  "patientAllergy": "Matšoafo",
+  "patientGeneticRequests": "Likopo tsa Teko ea lefutso",
+  "patientinfo": "Tsebo ea mokuli",
+  "patientlist": "Bakuli ba thathamisa",
+  "patientmanagement": "Bakuli ba tsamaiso",
+  "patientProtesi": "Prosthesis",
+  "PATIENTS_NO_P": "Hajoale ha u na likhetho tsa mokuli tse hlophisitsoeng",
+  "PATIENTS_SECTION": "Likamano tsa hau",
+  "PATIENTS_SECTION_SUBTITLE": "Tobetsa ntho e &#39;ngoe le e&#39; ngoe ho bona lintlha tse feletseng",
+  "PATIENTS_TITLE": "Bakuli",
+  "patientupdate": "Mamello",
+  "patientvisit": "Ho etela histori ho mamella",
+  "PATIENT_PROFILE_OPT1": "Boemo ba ka",
+  "PATIENT_PROFILE_OPT11": "Kea U rata Matichere",
+  "PATIENT_PROFILE_OPT12": "Eketsa Pharmacy eo ue ratang",
+  "PATIENT_PROFILE_OPT2": "Feshene ea ka ea Bongaka",
+  "PATIENT_PROFILE_OPT3": "Histori ea ka ea ho etela",
+  "PATIENT_PROFILE_OPT4": "Li-Favorites tsa ka",
+  "PATIENT_PROFILE_OPT5": "My Files",
+  "PATIENT_PROFILE_OPT6": "Tsebiso ea ka",
+  "PATIENT_PROFILE_OPT7": "EKG Upload",
+  "PATIENT_PROFILE_OPT8": "Dintlha tsa Ditshebeletso tsa Bongaka",
+  "PATIENT_PROFILE_OPT9": "My Favorites Li-Pharmacy",
+  "PATIENT_S1": "Mamello",
+  "PATIENT_S2": "Ho bua ka",
+  "PATIENT_S3": "Boitsebiso ba mokuli",
+  "PATIENT_S4": "Taba ea ho etela",
+  "PATIENT_S5": "Maloetse",
+  "PATIENT_S6": "Matšoafo",
+  "PATIENT_S7": "Meriana",
+  "PATIENT_S8": "Litokomane tse ngotsoeng",
+  "PATIENT_S9": "Matšoao?",
+  "PATIENT_SUMMARY": "Kakaretso ea tlhahisoleseding ea mokuli",
+  "patologia": "Pathology",
+  "payment": "Tefo",
+  "PAYMENT_DETAILS": "Lintlha tsa Tefo",
+  "PAYMENT_MESSAGE_1": "O tla fuoa tumello bakeng sa bongata ba",
+  "PAYMENT_MESSAGE_2": "O tla lefisoa qetellong ea videocall",
+  "PAYMENT_SECTION1": "Khetha karete e tsoang lenaneng",
+  "PAYMENT_SECTION2": "Kenya litekanyetso tsa karete ea mokitlane",
+  "PAYMENT_SUCCESS": "Tefo e Atleha!",
+  "PAYMENT_SUCCESSFUL": "Re Fumelletse ka katleho tefo",
+  "PAYMENT_UNSUCCESSFUL": "Pele ho tumello ea tefo e hlōlehile. Sheba litaba tsa karete ea mokitlane kapa botsa banka ea hau.",
+  "paziente_rimosso": "Boemo ba mokuli bo fetohile ka katleho",
+  "paziente_salvato": "Mokuli o tsosolosoa ka katleho",
+  "pdf_download_error": "Ha e khone ho kopitsa pdf. Ka kopo, leka hape hamorao",
+  "pdf_file_error": "Ke lifaele tsa pdf feela tse amoheloang",
+  "period": "Nako",
+  "PERIODIC_HEART_RATE": "Tlhaloso ea Pelo ea Kelello",
+  "personal": "Motho ka mong",
+  "personalCare": "Tlhokomelo ea Botho",
+  "personalinfo": "Lintlha tse amanang le uena",
+  "PER_MIN": "/ metsotso",
+  "pharmacies": "Li-Pharmacy",
+  "PHONE": "Nomoro ea mohala",
+  "phone1": "Nomoro",
+  "pills": "Lipilisi",
+  "PILLS_DATE_ERROR": "Letsatsi la pele le ka mor&#39;a letsatsi la ho qetela",
+  "pill_reminder_message": "Ke nako ea ho nka lipilisi tsa hau",
+  "placeholder": "lebitso la hau la imeile, imeile kapa lebitso",
+  "placeOfBirth": "Sebaka sa tsoalo",
+  "place_birth": "Sebaka sa tsoalo",
+  "platform": "Platform",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Palo ea Tsamaiso",
+  "positive": "E ntle",
+  "POSTCALL_DOCTOR_TITLE": "Kakaretso ea ketelo",
+  "POSTCALL_PATIENT_TITLE": "Ka kopo, lekanya phihlelo ea hau",
+  "POUNDS": "liponto",
+  "PRACTICE_LENGTH": "Nako e telele ka ho itloaetsa",
+  "prenota": "Book hona joale",
+  "prenotatest": "E hloka kopano",
+  "preobesity": "Pele ho botenya",
+  "prescription": "Kemiso e ngotsoeng",
+  "prescriptiondiscounts": "Kemiso ea Litefiso",
+  "PRESCRIPTIONS": "Melao",
+  "prescriptions_sent": "Melao e rometsoe",
+  "prescription_mail": "Ho na le moo ho ngotsoeng ngaka ea hau ea ngaka",
+  "prescription_mail2": "Kea leboha ka ho sebelisa SaluberMD",
+  "prescription_notification": "Motsoalle ea ratehang, rea u tsebisa hore lengolo la ngaka la hau le fumaneha tlasa karolo ea histori ea kopano / ea seboka",
+  "prescription_pharmacy": "Khetha k&#39;hemistri ho romella lengolo la ngaka",
+  "prescription_preview": "Kemiso ea ho ngoloa ka molao",
+  "prescription_sent": "Tokiso e ngotsoeng",
+  "PRESCRIPTION_SENT_EMAIL": "Molao oa hau o ngotsoe ho imeile ea hau ...",
+  "prescription_subject": "Molaetsa oa hau",
+  "pressbutton": "Tobetsa konopo ea bobeli ho sesebelisoa mme o tlanye Fumana Sesebelisoa",
+  "pressbuttonpresx": "Tobetsa &#39;me u tšoere konopo ea bobeli ka morao ea sesebelisoa ho qala ho hokahanya&#39; me u tlanye seqhomane se fumane sesebelisoa sebokeng",
+  "pressbuttonscalx": "Tobetsa &#39;me u tšoere konopo ea bobeli ka morao ea sesebelisoa ho qala ho hokahanya&#39; me u tlanye seqhomane se fumane sesebelisoa sebokeng",
+  "pressure_index1": "khatello_index1",
+  "PRESX": "Khatello ea Mali",
+  "PRESX_PROD": "PRESX",
+  "previous": "E fetileng",
+  "pre_period": "Nako ea Kemiso",
+  "price": "Theko",
+  "price_per_visit": "Tefo ka ketelo e ngoe le e ngoe",
+  "PRICING_SECTION1_P1": "SaluberMD e ikemiselitse ho fana ka tlhokomelo e loketseng, boleng ba theko ka theko e theko e tlaase ka lichelete tse patiloeng kapa litefiso.",
+  "PRICING_SECTION1_P2": "SaluberMD e fana ka tlhokomelo kae kapa kae moo ue hlokang ka video ho etela ngaka e tiisitsoeng ea boto. Lingaka tsa rona li khona ho buisana, ho hlahloba le ho mamela ho hlahloba lintlha tsa hau kapa ho araba lipotso tsa bongaka le lintho tse tšoenyang ha u ntse u letsetsa video.",
+  "PRICING_SECTION1_P3": "Ka Medicifa ea rona e khethehileng u ka fa ngaka ea hau ho fumana histori ea tsa bongaka, litšoantšo le lifaele tsa hau ho li thusa ho fana ka morero o atlehang oa phekolo.",
+  "PRICING_SECTION1_TITLE": "ketelo ka kakaretso",
+  "PRICING_TITLE": "Litefiso",
+  "primaryConcern": "Mathata a bohlokoa",
+  "primaryMood": "Mood Primary",
+  "print": "Print",
+  "priority": "Bohlokoa",
+  "PRIVACY_POLICY_TITLE": "leano la lekunutu",
+  "problems": "mathata",
+  "PROCEED_PAYMENT": "Tsoelapele ka tefo",
+  "PROFESSIONAL_TITLE": "Mongolo oa Matichere",
+  "PROFILE_SECTION2": "Mokhoa oa puisano",
+  "protesi": "Lisebelisuoa tsa likokoana-hloko le tsa bongaka",
+  "protesiobbligatorio": "Ka kopo, khetha mofuta oa sepakapaka",
+  "prov": "sampole",
+  "publicAppUrl": "Url ea hau ea sechaba bakeng sa ho khethoa ke:",
+  "pulldown": "Tetela ho tsosolosa",
+  "pull_request_processed": "Kea le leboha, Re rometse boteng ba hau ho mokuli",
+  "PWD_NOTMATCH": "Liphasewete ha li lumellane",
+  "P_P_Error": "O tlameha ho amohela leano la lekunutu",
+  "QUALITY_INDEX": "Boleng",
+  "QUALITY_INDEX_DESCRIPTION": "Boikoetliso ba &#39;meleng ke boemo ba ho ba le botsitso le khatello ea kelello e hlahelang mahlong a bokhoni ba ho ikamahanya le maemo le ho sebetsana le boemo. Khokahano ea &#39;mele ea&#39; mele e bontša &#39;mele oa motho ho ikamahanya le liphetoho tsa tikoloho le khatello ea maikutlo, ho boloka le ho tsosolosa bokhoni ba bophelo bo botle. Boikoetliso ba &#39;mele bo atisa ho bontšoa ka bokhoni ba bophelo ba batho, ho ithuta le ho sebetsa, empa le ka tlhaho ho ikoetlisa. Boleng ba motho bo amana le boraro empa bo amana haholo le ho fumana phepo e nepahetseng le ho ikoetlisa. Ka mekhoa e nepahetseng le boikoetliso bo nepahetseng, a ka ntlafatsa bophelo ba hae bo botle &#39;meleng likarolong tsohle.",
+  "quantity": "Palo",
+  "quesito": "Ho tšoenyeha",
+  "QUESTIONS_SECTION_TITLE": "Fumana konts&#39;oa e sa lefelloeng kapa tlhahlobo ea bophelo bo botle ka mor&#39;a hore u phethe fono ea hau ea bongaka.",
+  "QUESTIONS_TITLE": "Lipotso",
+  "quindici": "Litekanyo tsa ho qetela tse 15",
+  "ratio": "Boemo",
+  "reccomendation": "Tlhophiso",
+  "reccomendations": "Litlhahiso",
+  "recommendation": "Litlhahiso",
+  "RECOMMENDATIONS": "Litlhahiso",
+  "RECOMMEND_SECTION_P1": "Ho SaluberMD re ikitlaelletsa ho finyella tlhokahalo ea tlhokomelo ea boleng bo botle ba bophelo lefatšeng lohle ka ho fa bareki ba rona monyetla oa ho kena sehlopheng se hlophisitsoeng sa Lingaka.",
+  "RECOMMEND_SECTION_P2": "Kamehla re batla boleng ba lingaka ho eketsa sehlopha sa rona se babatsehang. Joaloka setho sa sehlopha sa rona re hlompha mme re ananela maikutlo a hau.",
+  "RECOMMEND_SECTION_P3": "Ka kopo tlatsa foromo e ka tlase ho fetisetsa ngaka ho SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Khothaletsa Colleague",
+  "RECOMMEND_TITLE": "Khothaletsa",
+  "record_aggiornato": "Tlaleha ka katleho e ntlafalitsoeng",
+  "record_aggiunto": "Rekotole ka katleho",
+  "record_inserito": "E ekelitsoe ka katleho",
+  "record_rimosso": "Rekota re atlehile ho tlosoa",
+  "REFERRAL": "Referral",
+  "REFERRALS": "Ho fetisetsoa",
+  "referrals_sent": "Ho fetisetsoa ho rometsoe",
+  "referral_mail": "Ho na le moo ho buuoang teng.",
+  "referral_sent": "Referral e rometsoe",
+  "refundrequestsent": "Kopo ea hau e rometsoe",
+  "register": "Ngolisa",
+  "register_report": "Ngoliso ea Basebelisi",
+  "registration_date": "Letsatsi la Ngoliso",
+  "REGISTRATION_HEADER_DOCTOR": "Kopana le sehlopha sa MD ea Saluber",
+  "REGISTRATION_HEADER_PATIENT": "Ka kopo tlatsa foromo e ka tlase mme o tlatsetsa ho ngolisa",
+  "releaserefresh": "Lokolloa ho khatholla",
+  "remarks": "Litlhaloso",
+  "removedevice": "O batla ho tlosa thepa ee?",
+  "removefavorite": "Tlosa ho li ratang?",
+  "remove_generic": "O batla ho e tlosa?",
+  "renalFunction": "Mosebetsi oa Renal",
+  "reoccurring": "E pheta-pheta hape",
+  "repeat_email": "Netefatsa Lengolo-tsoibila",
+  "report": "Sifaele sa hau ea kliniki: Tlaleho e feletseng ea data",
+  "report1": "Feshene ea hau ea kliniki:",
+  "report2": "Tlaleha",
+  "reportvisite": "Tlaleha li-Videocalls",
+  "report_date": "Letsatsi la Tlaleho",
+  "requestdate": "Letsatsi la kopo",
+  "request_already_taken": "Kopo ena e se e nkiloe ke ngaka e &#39;ngoe.",
+  "REQUEST_ERROR": "Ho ne ho e-na le phoso ha u ntse u sebetsa likōpo tsa hau. Sheba marang-rang a hau ea inthanete kapa leka hape hamorao.",
+  "request_sent": "Mofuputsi oa hau o rometsoe ka katleho ho backoffice",
+  "required": "Sebaka sena se a hlokoa.",
+  "required_field": "E hlophisitsoeng e Hlokehang",
+  "RESEND_EMAIL": "Khutlisetsa khoutu ea tiiso",
+  "resetCorxFactory": "O na le bonnete ba hore u batla ho tsosolosa Corx?",
+  "RESETPWD_BTN": "Hlahisa Motlakase",
+  "RESET_PASSWORD": "Kenya imeile kapa lebitso la hau la hau le sebelisoang nakong ea ho ngolisa",
+  "respiratory": "Ho phefumoloha",
+  "RESPIRATORY_RATE": "Tekanyetso ea ho Apereha",
+  "RESTORE_FACTORY_SETTINGS": "Khutlisetsa maemo a Factory",
+  "resultfound": "tlaleho e fumanehang",
+  "results": "Liphetho",
+  "ricettario": "Naha",
+  "richiediDrug": "Kopa Lithethefatsi",
+  "richiestaAppuntamento": "Kopo ea ho khethoa",
+  "richiestaRimborso": "Kopo ea Puseletso",
+  "ricovero": "Hospitalization",
+  "riepilogo": "Kakaretso",
+  "rightHanded": "E fanoe ka ho le letona",
+  "rimborso": "Puseletso",
+  "ripetibile": "E ka phetoang bakeng sa (linako)",
+  "rr_desc": "Lebelo la ho hema ke tekanyo eo phefumoloho e hlahang ho eona. Palo e tloaelehileng ea ho hema ho motho e moholo ho phomotse ke meholo ea 12 ho isa ho e 20 ka motsotso. Palo ea ho hema tlase ho 12 kapa ho feta 25 phefumoloho ka motsotso ha ho phomola ho nkoa e le ntho e sa tloaelehang",
+  "rs": "Tsamaiso ea ho hema",
+  "RUNNING_CALL_OPT1": "Lethathamo la tsebo tsa hau",
+  "RUNNING_CALL_OPT2": "Qetella",
+  "RUNNING_CALL_TITLE": "Ho letsetsa",
+  "sa": "Netefatso e matla",
+  "sadness": "Ho hlomoha",
+  "sai": "Lenane la liketsahalo",
+  "sai_desc": "SAI e itšetlehile feela ka tekanyo ea pelo ea hau. Ke metric e bonolo e latellanang karabelo ea &#39;mele ho ketsahalo ea&#39; mele - haholo ho feta feela mehato. Ho fapana le ho latellana ha mehato, SCI e fana ka mokitlane bakeng sa ketsahalo e &#39;ngoe le e&#39; ngoe e phahamisang sekhahla sa pelo: ho sesa, ho palama libaesekele, ho roka, ho tantša, eng kapa eng. E boloke ka tlaase ho 30 bakeng sa bophelo bo botle le bo botle.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD mamello",
+  "SATURDAY": "Moqebelo",
+  "savedinfo": "Boitsebiso bo bolokiloe ka katleho",
+  "SAVE_BTN": "Boloka",
+  "SAVE_MESSAGE": "Haeba u tsamaea, liphetoho tsa hau li tla lahleha",
+  "sbpi": "Index ea khatello ea mali",
+  "sbpi_desc": "Khatello ea mali e phahameng ke &#39;molai ea sa reng letho. Melao ea hau ea khatello ea mali ea Systolic le Diastolic e ntse e hakanngoa nakong efe kapa efe ea bongaka eo ue etsang. Boloka SBPI e ka tlase ho 30 ho ba le menyetla e tlase ea ho utloa bohloko maemong a sokelang bophelo a kang ho otloa ke lipelo le ho tšeloa mali.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Boima ba &#39;mele",
+  "SCALX_PROD": "SCALX",
+  "scan": "Hlakola",
+  "scanningcorx": "Ho batlisisa CORX ... Ka kōpo ema",
+  "schedule": "Kemiso",
+  "scheduleAnAppointment": "Rata kopano",
+  "scheduleappointment": "Rata khalase ea video le ngaka",
+  "schtime": "Nako e behiloeng",
+  "sci": "Tlhaloso ea pelo",
+  "sci_desc": "Ka ho hlahloba leqhubu la hau la ho otla re ntse re fumana tsebo ka boemo ba pelo ea hau ea pelo. Lenane la SCI ke kakaretso ea bophelo bo botle ba pelo, leka ho e boloka ka tlaase ho 20!",
+  "sci_title": "SCI",
+  "SEARCH": "Batla",
+  "searchallergy": "Batlisisa ts&#39;oaetso",
+  "searchdoctor": "Batla ngaka",
+  "searchfordoctor": "Batla ngaka ka lebitso kapa sefate",
+  "searchingdevice": "Ho batlisisa sesebelisoa. E ka &#39;na ea nka nakoana",
+  "searching_avail_date": "Ho phenyekolla letsatsi le fumanehang ...",
+  "searching_online_doctors": "Ho batlisisa lingaka tsa marang-rang li tsoela pele ...",
+  "searchmedication": "Batla meriana",
+  "searchpatient": "Batla mokuli",
+  "searchpatologia": "Batla boemo ba bongaka",
+  "searchsymptom": "Batla matšoao",
+  "searchuser": "Batla mosebedisi",
+  "search_doctor_description": "Batla ngaka bakeng sa lebitso la username, imeile kapa lebitso",
+  "search_patient_description": "Batla mokuli bakeng sa lebitso la username, imeile kapa lebitso",
+  "search_specialization": "Batla ka ho khetheha",
+  "search_user_description": "Batla mosebedisi bakeng sa lebitso la hau la imeile, imeile kapa lebitso la hau",
+  "search_videocall_description": "Batla videocall e entsoeng ka boithaopo",
+  "search_videocall_title": "Serach Videocall ka letsatsi",
+  "secondaryMood": "Sekondari sa Mood",
+  "secondOpinion": "Likōpo tsa Bobeli tsa Maikutlo",
+  "seconds": "metsotsoana",
+  "second_opinion_1": "Tlhaloso e utloahalang, e ka tšeptjoang ea maikutlo a bobeli a bongaka ho tsoa ho litsebi tse ka sehloohong lefatšeng ka bophara.",
+  "second_opinion_2": "Tšebeletso ea rona ea bobeli ea bongaka ea bongaka e ka u thusa:",
+  "second_opinion_3": "Fumana likarabo tsa lipotso tsa hau",
+  "second_opinion_4": "Khetha moralo o molemo ka ho fetisisa oa phekolo",
+  "second_opinion_5": "Etsa bonnete ba hore o na le lefu lena le nepahetseng",
+  "second_opinion_body": "Mosebelisi ea ratehang, <br> kopo ea hau ea Opion ea bobeli e nkiloe taolong ho tsoa ho litsebi tsa rona tse ntseng li hlahloba litokomane tseo u li rometseng.",
+  "second_opinion_history": "Likōpo tsa Bobeli tsa Maikutlo",
+  "second_opinion_msg": "Kea leboha. Motlatsi oa rona oa bophelo bo botle o tla u thusa lihora tse 24 tse latelang.",
+  "SECOND_OPINION_Q1": "U batla ho bua le setsebi sa phepo ea lijo?",
+  "second_opinion_question1": "Maikutlo a bobeli ke afe?",
+  "second_opinion_question2": "Romela faele",
+  "second_opinion_step1": "Qetella lipotso tsa lipotso tse khutšoanyane / Laela lifaele tsa hau",
+  "second_opinion_step2": "Lingaka tsa rona li tla hlahloba thepa ea hau",
+  "second_opinion_step3": "Ngaka e buisana ho buisana ka liphetho tsa hau",
+  "secOpChoice": "Ka kopo khetha tsela eo u ka ratang ho fumana maikutlo a bobeli",
+  "section": "Ka kopo, khetha karolo e le &#39;ngoe",
+  "security": "Tšireletseho",
+  "seeaprovider": "Bona Mofani",
+  "seecommenti": "Sheba Maikutlo",
+  "seedoctor": "Sheba ngaka hona joale",
+  "SEE_A_DOCTOR_Q1": "Pitso ea video ee ke mang?",
+  "SEE_A_DOCTOR_Q10": "Re ka romela lengolo la ngaka la hau le laela pharmacy ea khetho ea hau",
+  "SEE_A_DOCTOR_Q1B": "Lebitso le tsoalo ea ngoana oa hau?",
+  "SEE_A_DOCTOR_Q1_A1": "&#39;Na",
+  "SEE_A_DOCTOR_Q1_A2": "Ngoan&#39;a ka",
+  "SEE_A_DOCTOR_Q2": "Ka kopo hlalosa hore na u ka rata ho bua le ngaka ka eng",
+  "SEE_A_DOCTOR_Q3": "Matšoao?",
+  "SEE_A_DOCTOR_Q4": "O ka rata ho kopanya setšoantšo, kapa tokomane?",
+  "SEE_A_DOCTOR_Q4_ERROR": "ERROR: Lifaele ha lia lokela ho feta 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Khetha faele",
+  "SEE_A_DOCTOR_Q4_S2": "Nka setšoantšo",
+  "SEE_A_DOCTOR_Q5": "Na hona joale u noa meriana leha e le efe, haeba ho joalo ka kopo u thathamise lebitso",
+  "SEE_A_DOCTOR_Q5_CHILD": "Na ngoana oa hau o ntse a e-noa meriana leha e le efe? haeba ho le joalo ka kopo thathamisa lebitso",
+  "SEE_A_DOCTOR_Q5_S1": "Lebitso:",
+  "SEE_A_DOCTOR_Q5_S2": "Tekanyo:",
+  "SEE_A_DOCTOR_Q6": "O na le ho kula hohle?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Na ngoana oa hau o na le lintho tse bohloko? haeba ho le joalo ka kopo thathamisa lebitso",
+  "SEE_A_DOCTOR_Q7": "O na le maemo afe kapa efe a bongaka?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Na ngoana oa hau o na le maemo a bongaka? haeba ho le joalo ka kopo thathamisa lebitso",
+  "SEE_A_DOCTOR_Q8": "Na u lumella ngaka hore e shebe fono ea hau ea bongaka?",
+  "SEE_A_DOCTOR_Q9": "Pharmacy e khethiloeng",
+  "SEE_A_DOCTOR_TITLE": "Bona ngaka",
+  "SEE_A_PROVIDER": "Bona Mofani",
+  "segment": "Karolo",
+  "selectAFile": "Tlanya konopo e ka tlase ho khetha faele",
+  "selectaprovider": "Kgetha Mofani",
+  "selectcarderror": "Ka kopo, khetha karete",
+  "selectdoctor": "Laola lenaneo la",
+  "selectdoctor1": "Khetha ngaka",
+  "selectdrug": "Khetha Meriana",
+  "selectedContact": "Mekhoa ea ho ikopanya",
+  "selectinitiative": "Khetha mehato e le &#39;ngoe kapa ho feta ...",
+  "selectnutritionist": "Khetha motsoako oa hau oa phepo",
+  "selectpatient": "khetho",
+  "select_country": "Ka kopo, khetha naha",
+  "select_device": "Khetha sesebelisoa",
+  "select_file": "Khetha File",
+  "select_file_btn": "Khetha faele",
+  "select_patient": "Tobetsa mola ho bona lintlha",
+  "send": "Romela",
+  "sendmessage": "Romela molaetsa",
+  "sendtoken": "Romela sena ho ngaka ho mo fa monyetla oa ho fumana fono ea hau ea bongaka. Khokahano ena e fela metsotso e 10",
+  "SEND_BTN": "Romela",
+  "send_doctor_request": "Romela kopo",
+  "sentmessage": "Melaetsa e rometsoeng",
+  "SERVICE_TYPE": "Mofuta oa Ts&#39;ebeletso",
+  "sessantad": "Matsatsi a 60 a ho qetela",
+  "SESSION_EXPIRED": "Sebaka sa hau se felile. Ka kopo, kena hape",
+  "setAlarm": "Beha Alarms",
+  "settd": "Matsatsi a supileng a ho qetela",
+  "settings_saved": "Lisebelisoa li atleha ho boloka",
+  "setTreshold": "Beha Palo",
+  "SET_BTN": "Beha",
+  "SET_USER_EMAIL": "Ka kopo, hlalosetsa lebitso la hau kapa lebitso la hau la imeile",
+  "set_vital_signs": "Beha Matšoao a Bohlokoa",
+  "sevendays": "Matsatsi a 7",
+  "showalldata": "Bontša Boitsebiso Bohle",
+  "showOnEmergency": "bonts&#39;a ka ts&#39;ebetsong",
+  "signature": "Tšoao ea hau (e sebelisetsoang melaetsa)",
+  "signature_word": "Pontšo",
+  "SIGNUP_BTN": "Ngolisa",
+  "sii": "Litlhare tsa inshorense",
+  "sii_desc": "SII ke motsoako oa likarolo tsohle tsa SaluberMD mme ke seipone sa kotsi ea hau ea bongaka. Haeba u ka tlase ho 30 u sebakeng se sireletsehileng!",
+  "sii_title": "SII",
+  "since": "Ho tloha ha",
+  "single": "Letsatsi le le leng feela",
+  "singleAccess": "Monyetla o le mong",
+  "sitreminder": "Lula Khopotso",
+  "sit_period": "Nako",
+  "skip": "Skip",
+  "skip_pull": "Hlokomoloha",
+  "skip_step": "Qhaqha",
+  "sl": "Mathata a khatello ea kelello",
+  "SLEEP": "Robala",
+  "slotime": "Nako ea Slot (metsotso)",
+  "sl_alta": "e fetang 85 bpm",
+  "sl_bassa": "tlase ho 65",
+  "sl_desc": "Mathata a khatello ea kelello a thehiloe ho latela otla ka motsotso",
+  "sl_normale": "pakeng tsa 65 le 85 bpm",
+  "smoker": "Smoker",
+  "snacks": "Ho senya",
+  "SOMETIMES": "Ka linako tse ling",
+  "SONNO": "Robala",
+  "SOP_Q4": "Tlatsa tlaleho ea hau ea bongaka",
+  "sos": "SOS",
+  "so_specialization": "Tse khethehileng",
+  "specialists": "Litsebi",
+  "specialization": "Khetha khethehileng",
+  "SPECIALTY": "Tse khethehileng",
+  "specifyother": "Ka kopo, hlalosetsa tse ling",
+  "specifyvalue": "Ka kopo, hlalosetsa bohlokoa",
+  "spirometer": "Spirometry",
+  "spo2_desc": "SpO2 kapa boemo ba oksijene ea mali ke tekanyo ea hore na lisele tsa hao tse khubelu tsa mali li nka oksijene hakae. Melao e tloaelehileng e pakeng tsa 95% le 100%, A tlase-e tloaelehileng ea mali ea oksijene e bitsoa hypoxemia",
+  "sri": "Index ea ho hema",
+  "sri_desc": "Re sekaseka mokhoa oa ho phefumoloha ha nako efe kapa efe ea bongaka le nakong ea boroko. Haeba SRI e ka tlaase ho 30 menyetla ea hau ea ho utloa bohloko ka maemo a sitisang motho ho phefumoloha a tlaase.",
+  "sri_title": "SRI",
+  "ssi": "Khatello ea khatello ea maikutlo",
+  "ssi_desc": "Ka ho hlahloba ho fapana ha lebelo la pelo ea hau re lekanya boemo ba hao ba khatello ea kelello. Ho imeloa kelellong ho bonahala ho mpefala kapa ho eketsa kotsi ea maemo a kang botenya, lefu la pelo, lefu la Alzheimer, lefu la tsoekere, ho tepella maikutlo, mathata a bokhachane, le lefu la asthma. E boloke ka tlaase ho 20 ho ba ka lehlakoreng le sireletsehileng!",
+  "ssi_title": "SSI",
+  "start": "Qala",
+  "startcall": "Qala mohala",
+  "startdate": "Ho tloha",
+  "starthour": "Qala Nako",
+  "startmeasure": "Hona joale o ka qala tekanyo ka ho hatisa botoneng ho sesebelisoa",
+  "startnow": "Qala hona joale",
+  "startRecording": "Tšoaea qala ho tlaleha molumo oa lentsoe",
+  "startyping": "Qala ho taka lebitso",
+  "start_blowing": "Qala ho lla",
+  "start_test": "Qala tlhahlobo",
+  "start_time": "Qala Nako",
+  "state": "Naha",
+  "state1": "Naha",
+  "STATES_LICENSE": "States e laetsoe tumello",
+  "state_problem": "Ka kopo, bolela bothata ba hau",
+  "status": "Boemo",
+  "step": "Mohato",
+  "STEPS_GOAL": "Sepheo sa Mehato",
+  "stoolTest": "Teko ea Stool",
+  "stop": "Ema",
+  "stop_test": "Emisa teko",
+  "stress": "Khatello ea kelello",
+  "stroke_vol": "Stroke volume",
+  "stroke_volume": "Stroke volume",
+  "stroke_volume_desc": "Moea oa stroke ke molumo oa mali o thibeloang ke ventricle ka &#39;ngoe",
+  "struttura": "Sebopeho",
+  "strutture": "Mehaho",
+  "subject": "Sehlooho",
+  "subject_so": "Sehlooho",
+  "submissionDate": "Letsatsi la ho fana",
+  "success": "Katleho",
+  "SUCCESS_TITLE_NOTIFICATION": "Katleho",
+  "SUMMARY": "Tsejoa",
+  "summary1": "Kakaretso",
+  "SUNDAY": "Sontaha",
+  "surgery": "Ho buuoa",
+  "surgeryAndHospitalization": "Ho hlokomelisoa malapeng le Histori ea Bophelo",
+  "surgeryCategory": "Palo ea ho Buuoa",
+  "surname": "Lebitso",
+  "sv_alta": "ba fetang 100",
+  "sv_bassa": "e ka tlaase ho 55 ml",
+  "sv_normale": "pakeng tsa 55 le 100 ml",
+  "switchsearch": "Etsa ho batla",
+  "symptoms": "Matšoao",
+  "SYMPTOMS_BTN": "Matšoao",
+  "sync": "Sync",
+  "SYNC_TIME": "Nako ea ho lumellana",
+  "sysdia": "Khatello",
+  "systolic": "Systolic",
+  "TAKE": "Nka",
+  "takeAppointment": "Etsa kopano",
+  "TAKE_APP": "Kemiso ea kemiso",
+  "TAKE_A_PHOTO": "Nka setšoantšo",
+  "tall": "O molelele ha kae",
+  "tapconnect": "Tlanya ho hokahanya",
+  "tapdisconnect": "Tlanya ho tlohela",
+  "tap_to_expand": "Tlanya ho atolosa",
+  "telNameMandatory": "Ka kopo, hlalose lebitso",
+  "telNumberMandatory": "Ka kopo, hlalosetsa nomoro ea fono",
+  "temper": "Temper",
+  "temperDescription": "Boikutlo ba maikutlo bo koahelang palo eohle ea sebui sa sebui. Bohale bo hlalosa maikutlo a nyahamisang le a nyahamisang. Bohale bo tebileng bo hlalosa boikutlo bo mofuthu, bo mofuthu le bo amohelang. Mekhoa e phahameng ea bohale e hlalosa mekhoa ea ho loantša, ea bolaoli le ea bohale.",
+  "tendays": "Qetellong ea 10",
+  "ten_min": "Ka metsotso e 10",
+  "terminata": "Bitsa Katleho",
+  "TERMS_TITLE": "Lipehelo tsa tšebeliso",
+  "test": "Teko",
+  "testmichele": "teko ea michele",
+  "testresult": "Liteko li hlahisa litholoana",
+  "testresults": "Liphello tsa Teko",
+  "tests": "Liteko",
+  "text": "Mongolo",
+  "thiscC": "Karete ena ea mokitlane e tla sebelisoa ho lefella litšebeletso",
+  "THURSDAY": "Labone",
+  "thyroidTest": "Liteko tsa Ts&#39;ebetso ea qoqotho",
+  "tickets": "Litekete",
+  "TICKET_HISTORY": "Nalane ea litekete",
+  "TICKET_NUMBER": "Nomoro ea litekete",
+  "ticket_subject": "Kopa Sehlooho",
+  "timecallerr": "Tšoarelo, ha u khone ho etsa pitso",
+  "timecallerr1": "Tšoarelo, u tseba ho etsa pitso hobane u feta nako e reriloeng",
+  "TIMELINE": "My Timelines",
+  "times": "Ke makhetlo a mangata ka letsatsi?",
+  "timesaday": "Linako ka Letsatsi",
+  "tipopratica": "Mofuta oa Boits&#39;oaro",
+  "tipo_struttura": "Mofuta oa Sebaka",
+  "tipshealt0": "Litlhahiso tsa Bophelo",
+  "tipshealt1": "Flu shot - Na ke lokela ho fumana ente khahlanong le feberu?",
+  "tipshealt10": "Tlanya mona bakeng sa boitsebiso bo eketsehileng",
+  "tipshealt11": "Melemo ea kalafo ea li-statins, ho fokotsa lithethefatsi tsa k&#39;holeseterole, ho feta maemo a kotsi",
+  "tipshealt12": "Phuputsong ea morao tjena ea tlhahlobo ea lancet ea Lancet, bafuputsi ba ile ba etsa qeto ea hore melemo ea ho fokotsa k&#39;holeseterole ea LDL e nang le litlhare tsa statin e ka thibela liketsahalo tse kholo tsa li-vascular (lipelo tsa pelo, lipolao) &#39;me li feta menyetla ea lithethefatsi.",
+  "tipshealt13": "Ho ea ka bafuputsi feela liketsahalo tse bohloko tse mpe tse bontšitsoeng li bakoa ke phekolo ea nako e telele ke myopathy (e hlalositsoeng e le bohloko ba mesifa kapa bofokoli), tšoaetso e ncha ea lefu la tsoekere, mme, mohlomong, lefu la haemorrhagic.",
+  "tipshealt2": "Le hoja katleho ea mafu a sefuba ha e fane ka tšireletso e feletseng, ke habohlokoa ho fumana. CDC (Litsi tsa Tlhokomelo le Thibelo ea Mafu) e khothalletsa liente tsa selemo le selemo tsa batho ba lilemo li 6 kapa ho feta. Ho entoa ke ntho ea bohlokoa haholo ho batho ba kotsing e kholo ea mathata a fefo, ho kenyelletsa",
+  "tipshealt3": "Bakhachane",
+  "tipshealt4": "Batho ba baholo (lilemo tse 50 le ho feta)",
+  "tipshealt5": "Bana ba banyenyane (ka tlase ho lilemo tse 4 le ho feta likhoeli tse 6)",
+  "tipshealt6": "Ketsahalo ea boipheliso e ntlafatsa mohopolo le tsebo ea ho nahana",
+  "tipshealt7": "Ketsahalo ea kamehla e ka ntlafatsa boko bo sebetsang ho pholletsa le bophelo bohle le ho fokotsa kotsi ea lefu la &#39;dementia.&#39;",
+  "tipshealt8": "Liphuputso tse ngata li &#39;nile tsa hatisoa nakong ea ho sebelisana haufi le monyetla oa ho ikoetlisa kamehla le ts&#39;ebetso e ntlafetseng ea ts&#39;ebetso.",
+  "tipshealt9": "Tšusumetso e toba ka ho toba bokong le ka tsela e sa tobang ka liketso tsa metabolism le tsa nama &#39;meleng.",
+  "title": "Sehlooho",
+  "to": "ho",
+  "todayAppointment": "Khetho ea kajeno",
+  "tooltip1": "Kenya lebitso la ngaka eo u batlang ho e tsamaisa",
+  "totale": "Kakaretso",
+  "totalSleepTime": "Kakaretso ea nako ea ho robala",
+  "total_cholesterol_desc": "Boleng bona ke tekanyo ea k&#39;holeseterole eohle e maling",
+  "TOTAL_SLEEP_TIME": "Kakaretso ea nako ea ho robala",
+  "tot_non_risposte": "Bitsa ha e arajoe",
+  "tot_ricevute": "Mohala o amohetse",
+  "tot_visite": "Maeto a Etsoeng",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Fetisetsa",
+  "trenta": "Litekanyo tse 30 tsa ho qetela",
+  "trentad": "Matsatsi a 30 a ho qetela",
+  "triglycerides": "Khaled",
+  "trig_cholesterol_desc": "Triglycerides ke mofuta oa mafura (lipid) a fumanehang maling a hau. Tafole e latelang e bonts&#39;a boleng ba boleng.",
+  "TUESDAY": "Labobeli",
+  "tutte": "Tekanyo eohle",
+  "type": "Tšoaea",
+  "TZONE": "Nako ea nako",
+  "underweight": "Tlas&#39;a boima ba &#39;mele",
+  "unit": "Sehlopha",
+  "UNIT_SETTING": "Setsi sa Sehlopha",
+  "uom": "Yuniti ea Tekanyo",
+  "upcomingAppointmentPatient": "Likhetho tse tlang tsa",
+  "UPDATE": "Phetoho",
+  "updatelist": "Lenane la ho ntlafatsa",
+  "update_app_message": "O hloka ho ntlafatsa lisebelisoa tsa hau",
+  "UPDATE_AVAILABLE": "Phetolelo e fumaneha",
+  "UPDATE_BTN": "Phetoho",
+  "update_completed": "Firmware e tsositsoe ka katleho",
+  "update_firmware_download_error": "Phoso ho kenya firmware",
+  "update_list": "Phetoho",
+  "UPLOAD_ERROR": "ERROR: Lifaele ha lia lokela ho feta 5 MB",
+  "upload_referral": "Kenya tlaleho ea hau lebokoseng le ka tlase.",
+  "urinTest": "Liteko tsa moroto",
+  "user": "Sebedisa",
+  "userdata": "Dintlha tsa mosebedisi",
+  "usermanagement": "Tsamaiso ea basebelisi",
+  "USERNAME": "Lebitso la hau",
+  "username1": "Lebitso la hau",
+  "utente_aggiunto": "Sebediswa ka katleho",
+  "utente_rimosso": "Sebediswa ka katleho",
+  "utente_salvato": "Sebediswa ka katleho",
+  "vaccinobbligatorio": "Ka kopo, khetha ente",
+  "vaioffline": "Tsamaea Hantle",
+  "vaionline": "Tsamaea Inthaneteng",
+  "valence": "Valence",
+  "valenceDescription": "Ho fetoha ho fapaneng ho tloha ho ho hloka boithati ho isa positivity. Ha u mametse motho ho bua, hoa khoneha ho utloisisa hore na &quot;ntle&quot; kapa &quot;bobe&quot; ba ikutloa joang ka taba, ntho kapa ketsahalo eo ho buuoang ka eona.",
+  "value": "Boleng",
+  "vascular_age": "Lilemo tsa li-vascular",
+  "vascular_age1": "Lilemo tsa li-vascular",
+  "va_desc": "Nako ea HIV e fana ka tekanyo ea lilemo tse bonahalang tsa methapo ea hau, ha e bapisoa le batho ba phetseng hantle. Haeba botsofali ba hao bo le boholo ho feta nako ea nako ea nako, u ka &#39;na ua ba kotsing e kholo ea ho ba le lefu la pelo (CVD) hamorao bophelong.",
+  "videocall": "Videocall",
+  "VIDEOCALL_DES1": "Tobetsa konopo e ka tlaase ho fetola boemo ba hau mme o amohela kapa o sa amohele tsebiso. Hopola hore o ka amohela tsebiso feela ha u le marang-rang.",
+  "VIDEOCALL_DES2": "Ha o amohela pitso, tobetsa letšoao le tla hlaha le nka pitso.",
+  "videocall_filter": "Sefa ka lebitso kapa ka ho ikhethang",
+  "videocall_request": "Kopo e ncha ea videocall e tsoang ho",
+  "videocall_request_title": "Kopo ea Videocall",
+  "videocall_req_from": "Kopo ea Videocall e tsoang ho:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "Tobetsa ho kenya video",
+  "VIDEO_CALL_BTN": "Pitso ea video",
+  "VIDEO_CALL_BTN_1": "Video",
+  "view": "Sheba",
+  "viewmedicalfile": "Sheba faele ea bongaka",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Bopa Ofisi ea hau ea Virtual",
+  "VIRTUAL_OFFICE_TITLE": "Ofisi ea Virtual",
+  "visitdetail": "Tobetsa ntho e &#39;ngoe le e&#39; ngoe ho bona histori e feletseng ea mokuli",
+  "visithistory": "Etela Histori",
+  "visitlist": "Lethathamo la maeto",
+  "VISIT_HISTORY_NO_HISTORY": "Ha u na maeto a teng",
+  "VISIT_HISTORY_SUBTITLE": "Tobetsa ntho e &#39;ngoe le e&#39; ngoe ho bona lintlha tse feletseng",
+  "VISIT_HISTORY_TITLE": "Etela Histori",
+  "volte": "Linako",
+  "waiting": "E ntse e sebetsa ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Mofuthu",
+  "WARNING_TITLE_NOTIFICATION": "Hlokomela",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Ditaba tsa Bophelo",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Ditaba tsa Boiketlo",
+  "WATCH_DEVICE_DATA_TITLE": "Boitsebiso ba hau ba lisebelisoa",
+  "water": "Metsi",
+  "weanedoff": "O tlosoa ho tlosoa?",
+  "WEDNESDAY": "Laboraro",
+  "week": "Beke",
+  "weight": "Boima ba &#39;mele",
+  "weightUnit": "Setsi sa boima ba &#39;mele",
+  "welcome": "Amoheloa",
+  "wellness": "Bophelo bo botle",
+  "wellnessdata": "Ditaba tsa Boiketlo",
+  "wellnessSuccess": "Katleho",
+  "WHITE_SPACES": "Lebitso la Username ha lea lokela ho ba le libaka tse tšoeu",
+  "WRIST_CUT_SCREEN": "Etela Screen Cut Wrist",
+  "writtenRep": "Tlaleho e ngotsoeng",
+  "W_RESPIRATORY_RATE": "Phefumoloho",
+  "xray": "X-ray",
+  "Y": "E",
+  "year": "Selemo",
+  "years": "lilemo",
+  "yes": "E",
+  "yourarousal": "Ho tsosoa ha hau",
+  "youremotion": "Maikutlo a hau",
+  "yourmood": "Maikutlo a hau",
+  "yourtemper": "Khalefo ea hau",
+  "yourvalence": "Valence ea hau",
+  "your_sai": "Lenane la Ketsahalo ea hau ke:",
+  "your_sbpi": "Your Index khatello ea mali ke:",
+  "your_sci": "Uena letšoao la pelo ke:",
+  "your_sii": "Lethathamo la hau la inshorense ke",
+  "your_sri": "Tlhahiso ea hau ea ho phefumoloha ke:",
+  "your_ssi": "Khatello ea hau ea khatello ea maikutlo ke:",
+  "your_stress": "Mathata a hao ke:",
+  "your_va": "Lilemo tsa hau tsa mahlaba ke:",
+  "zero_min": "Hona joale",
+  "zipCode": "K&#39;houtu ea sebaka",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

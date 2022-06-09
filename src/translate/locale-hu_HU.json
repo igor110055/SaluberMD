@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Rólunk",
+  "ABOUT_US_CONDITION_1": "Megfázás",
+  "ABOUT_US_CONDITION_2": "A bőr állapota",
+  "ABOUT_US_CONDITION_3": "Allergia",
+  "ABOUT_US_CONDITION_4": "Torokfájás",
+  "ABOUT_US_CONDITION_5": "Hasfájás",
+  "ABOUT_US_DOCTOR_BENEFIT1": "NÖVEKEDÉSI EREDMÉNYEK:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Legfeljebb hat beteg óránként láthatja (virtuális látogatás általában körülbelül 10 percig tart);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "BERENDEZÉS BETEGSÉGBEN A VILÁGBAN:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Növelje a betegek kapcsolatát azzal a képességgel, hogy kezelje a jelenlegi és új betegeket a világ bármely pontjáról;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "SZABAD VIRTUÁLIS GYAKORLAT:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Növelje jelenlegi gyakorlatát és nyújtson több lehetőséget a betegek számára;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "TÖBB TERMELŐ BETEGSÉGI LÁTOGATÁSOK:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "A betegek dokumentumokat, fényképeket, laboratóriumi eredményeket küldhetnek, anélkül, hogy el kellene hagynia otthonról, és távolról figyelemmel kell kísérni a beteg egészségi állapotát;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Azonnal azonosítani kell, ki kell kezelnie a gondozásra szorulókat, és ki lehet élvezni a távoli kezelést otthon nélkül;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "NÖVEKEDÉSI EREDMÉNYEK:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "RUGALMAS MUNKAIDŐ:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "A saját óra beállítása és a saját menetrend beállítása.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Csatlakozzon a mozgáshoz, hogy megbízható, megfizethető és globális hozzáférést biztosítson az egészségügyi ellátáshoz 15 percen belül vagy kevesebbel.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "A Saluber MD-t úgy tervezték meg, hogy forradalmasítsa az orvosi-páciens kapcsolatokat az egész világra kiterjedő egészségügyi ellátás 24/7-es elérhetőségével.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Orvos előnyei",
+  "ABOUT_US_DOCTOR_TITLE": "Rólunk",
+  "about_us_section1_p1": "A SaluberMD egy digitális egészségügyi platform, amely lehetővé teszi, hogy átvegye az egészségét WHENEVER és WHEREVER irányítása alatt. Alkalmazásunk kényelmes, időtakarékos, megfizethető, 24 órás hozzáférést biztosít az Igazgató által jóváhagyott orvosokhoz a világ bármely pontjáról. A SaluberMD olyan eszközöket is kínál, mint a Personal Medical Record, az EKG Watch és a Family eszköz, amelyek mindegyike kölcsönhatásba lép az alkalmazással, hogy teljes körű egészségügyi megoldást nyújtson Önnek. Eszközeinket külön-külön is használhatjuk, vagy kombinálhatjuk az egészséget és a wellnesst.",
+  "ABOUT_US_SECTION1_TITLE": "Rólunk",
+  "ABOUT_US_SECTION2_P1": "A földrajzi lokalizáción keresztül alkalmazásunk megtalálja a legjobb orvost. A SaluberMD Az orvosok diagnosztizálják, kezelik vagy megbeszélik az Ön egészségi állapotát videón keresztül, és megfelelő kezelési tervet nyújtanak Önnek. A legtöbb orvosi rendelőben kezelt legáltalánosabb feltételeket videós látogatással lehet kezelni. <br/> Az általunk kezelt feltételek közül néhány:",
+  "ABOUT_US_SECTION2_P2": "Itt a SaluberMD-ben adunk Önnek egy személyes orvosi rekordot, hogy tárolja az összes egészségügyi adatot, képet és fájlt. Tartsa nyomon az egészségét 24/7 hozzáféréssel az összes orvosi nyilvántartásához. Függetlenül attól, hogy otthon vagy külföldön utazik, az információ az Ön kezén van, hogy megossza egészségügyi szakembere. A könnyen használható személyi orvosi rekord 20 nyelven érhető el.",
+  "ABOUT_US_SECTION2_TITLE": "Hogyan működik?",
+  "ABOUT_US_SECTION3_P1": "Csak a legfelsőbb igazolvánnyal rendelkező orvosok adják egészségügyi ellátást a SaluberMD-nél. Ezek a szakemberek ellenőrzik, széles körben átvizsgálják és képzettek a kiváló minőségű ellátás érdekében. Minden orvos egy bio, ahol megtekintheti a háttér, a hitelesítő adatok és a tapasztalat. A SaluberMD elkötelezett az orvosaink folyamatos minőségbiztosítása iránt. A minősítési rendszer lehetővé teszi a betegek számára az orvosok számát és az orvosok átfogó értékelését.",
+  "ABOUT_US_SECTION3_TITLE": "Orvosaink",
+  "ABOUT_US_TITLE": "Rólunk",
+  "above_warning": "A fenti értékek veszélyben vannak",
+  "accept": "Elfogad",
+  "acceptablerange": "Elfogadható tartomány",
+  "ACCEPT_BTN": "Elfogad",
+  "acquire": "Adjon adatokat",
+  "acronym": "Betűszó",
+  "action": "Akció",
+  "actions": "Hozzászólások",
+  "actionTaken": "Intézkedés",
+  "activity": "Tevékenység",
+  "acutecare": "Akut gondozás",
+  "add": "Új",
+  "addavailability": "Adja meg elérhetőségét",
+  "addcomment": "Add meg megjegyzéseidet itt",
+  "adddescription": "Adja meg a leírását itt",
+  "adddrugs": "Keressen egy kábítószert az alábbi keresőmező segítségével, és jelölje be a jelölőnégyzetet, hogy hozzáadja a recepthez",
+  "addedFavourite": "Sikeresen hozzáadta a kedvenceit",
+  "addedFavourite2": "Sikeresen hozzáadta a kedvenceit. nyomja meg a frissítés gombot a megjelenítéshez.",
+  "addedFavourite3": "Sikeresen hozzáadva  nFelítsd fel a frissítést",
+  "addFavourite": "Hozzáadás a Kedvencekhez",
+  "ADDING_SLOT": "Helyek hozzáadása ... ez eltarthat egy ideig.",
+  "addNew": "Új hozzáadása",
+  "addpharmacies": "Kattintson a gombra a kedvenc gyógyszertárak hozzáadásához",
+  "addpharmacy": "Adj hozzá gyógyszertárat",
+  "addreminder": "Nyomja meg a plusz gombot a gyógyszeres emlékeztető hozzáadásához.",
+  "address": "Cím",
+  "address2": "Szállítási cím",
+  "address3": "A szolgáltatás címe",
+  "addsintomi": "Tünetek hozzáadása",
+  "addslot": "Adj hozzá slotot",
+  "add_description_file": "Leírás hozzáadása (nem kötelező)",
+  "add_new": "hozzáad",
+  "affaticamento_grave": "Súlyos fáradtság",
+  "affaticamento_minore": "Kisebb fáradtság",
+  "agenda": "Az én napirendem",
+  "agenda_report": "Jelentés a kinevezésekről",
+  "aggiungi": "Teremt",
+  "AGREE_BTN": "Egyetértek",
+  "alcoholDesc": "Alkohol feltételezett",
+  "all": "Minden",
+  "alldata": "Minden adat",
+  "allergia": "Allergia",
+  "allergia_aggiunta": "Az allergia sikeresen létrejött",
+  "allergia_rimossa": "A beteg allergiája sikeresen törölve",
+  "allergia_salvata": "A beteg allergiája sikeresen frissült",
+  "allergie": "Allergia",
+  "allimages": "Minden kép",
+  "alreadyAddedF": "Ez a gyógyszertár már szerepel a kedvenceiben",
+  "alreadyRegistred": "Ez az e-mail cím már létezik a rendszerben. Jelentkezzen be az alkalmazásba, hogy egyeztessen.",
+  "alreadyTaken": "A kinevezés már megtörtént",
+  "alta": "Magas",
+  "alto": "Magas",
+  "amonth": "30 nap",
+  "anger": "Harag",
+  "annoinizio": "Elkezdődött év",
+  "antibiotics": "antibiotikumok",
+  "an_error_occurred": "Hoppá! Jelenleg nem tudjuk előre feldolgozni a kérését. Próbáld újra később",
+  "appointment": "Időpont egyeztetés",
+  "appointmentlist": "Találkozók listája",
+  "appointments": "kinevezések",
+  "appointmentsDescription": "A menetrendek jegyzéke",
+  "appointment_body_doc": "Új találkozó tervezett",
+  "appointment_calcelled_title": "A kinevezés törölve",
+  "appointment_cancelled": "visszavonta a kinevezését",
+  "appointment_email_body": "Megerősítjük az orvosával történő kinevezését",
+  "appointment_history": "Kinevezési történelem",
+  "appointment_now": "A találkozó most kezdődik",
+  "appremainder": "A kinevezés fennmaradó része",
+  "appremainder1": "5 perc alatt egy videókártya van ütemezve",
+  "appremainder2": "Videocallja van 30 perc alatt",
+  "appremainder3": "120 perc alatt van egy videocallája",
+  "APPROX_DATA": "Egyéb wellness adatok",
+  "appuntamenti": "kinevezések",
+  "appuntamenti_presi": "Ütemezett találkozó",
+  "appuntamento_clinica": "Klinikai kinevezés kérése",
+  "APPUNTAMENTO_CONGIUNTO": "Videóhívást szeretne lefoglalni?",
+  "app_description": "Adja meg a találkozó okát az alábbi mezőbe",
+  "app_details": "A kinevezés részletei",
+  "app_missing": "A támogatási alkalmazás nincs telepítve",
+  "ARIAX": "Breath Rate",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "Ébredés",
+  "arousalDescription": "Olyan változó, amely a nyugalomtól, az unalomtól az éberségig és az izgalomtól függ. Ez megfelel hasonló fogalmaknak, mint például az aktiválás szintje és a stimuláció.",
+  "assign_specialist": "Adjon hozzá egy szakértőt a kérelemhez",
+  "associa": "Munkatárs",
+  "attachment": "Attachment",
+  "ATTACH_A_PHOTO": "Csatoljon egy fényképet",
+  "BACKGROUND": "Háttér",
+  "BACKGROUND_PLCHOLDER": "Kérjük, adjon meg egy rövid életrajzot.",
+  "backhomeconfirm": "Biztos, hogy hazamegy?",
+  "BACK_BTN": "Hát",
+  "BACK_LOGIN": "Vissza a bejelentkezéshez",
+  "bad_file": "A fájl nem nyitható meg",
+  "basicinfo": "Alapinformációk",
+  "bassa": "Alacsony",
+  "basso": "alacsony",
+  "below_warning": "Az alábbi érték veszélyben van",
+  "benefits": "Concierge előnyök",
+  "beyondverbal": "Az érzelmek hajtják mindazt, amit csinálunk, de a hangvezérelt érzelmek elemzése továbbra is a legfontosabb, fel nem fedett felület ma. A Verbal túlmenően elkötelezte magát amellett, hogy megváltoztatja ezt.",
+  "beyondverbal_analyze": "Elemezze a hangulatot",
+  "beyondverbal_history": "Történelmi eredmények",
+  "beyondverbal_instruction": "Amikor készen áll a kérdés megválaszolására, nyomja meg a Start gombot",
+  "BIRTHDATE": "Születési dátum",
+  "birthday": "Születésnap",
+  "blank_agenda": "Ma nincs rés",
+  "bloatedOrContipated": "Duzzadt vagy székrekedő",
+  "bluetooth_error": "Engedélyezze a bluetooth-t a folytatáshoz",
+  "BOARD": "Igazgatótanúsítvány",
+  "bones": "Bones",
+  "bp": "Vérnyomás",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Vérnyomás értékek referencia táblázata",
+  "breakfast": "Reggeli",
+  "btnback": "Hát",
+  "btndelete": "Töröl",
+  "btndisabledoctor": "Letiltani az orvost",
+  "btndisablepatient": "Letiltja a beteget",
+  "btnenabledoctor": "Engedélyezze az orvost",
+  "btnenablepatient": "Engedélyezze a beteget",
+  "btnsave": "Mentés",
+  "BTN_LOAD_MORE": "Töltsön be többet",
+  "buttonsearch": "Keresés",
+  "bvFailed": "Nem sikerült elemezni a hangodat, többet kell beszélned!",
+  "bvInstruction": "Csak beszélj 20 másodpercig vagy tovább",
+  "bvInstruction2": "Csak beszélj 20 másodpercig",
+  "ca": "Szív-és érrendszer",
+  "call": "Hívás",
+  "callCancel": "A lejárt hívást nem lehet törölni",
+  "calldoctor": "Hivd az orvost",
+  "calling_number": "Hívószám",
+  "callthedoctor": "Hivd az orvost",
+  "calltransfer": "Hívás átvitele ...",
+  "CALL_ALREADY_TAKEN": "Hívás már megtett",
+  "CALL_DOCTOR_INFO": "Doktor Info",
+  "CALL_DURATION": "Hívás időtartam",
+  "call_instruction": "Miután felhívja az orvost, azonnal értesítést küldünk Önnek. Kattintson az értesítésre, amint megkapja, hogy elindítsa a videokonfert. Abban az esetben, ha törölte az értesítéseket, akkor azt az egészségügyi profilom értesítési részében találhatja meg.",
+  "CALL_NOTIFICATIONS": "Telefonhívások",
+  "CALL_NO_INCOMING": "Nincs bejövő hívás",
+  "CALL_TRANSFER_INFO": "Hívásinformációk",
+  "CALL_WAITING": "Kérem, várjon orvoshoz",
+  "CALL_WAITING_2": "Kérjük, várjon, amíg az orvos felülvizsgálja a fájlt",
+  "calories": "Kalória",
+  "cancel": "Megszünteti",
+  "cancelAppointment": "A találkozó megszakítása",
+  "CANCEL_BTN": "Megszünteti",
+  "CAP": "Irányítószám",
+  "cardiac_output": "Szív leállás",
+  "cardiac_output1": "Szív leállás",
+  "cardiac_output_desc": "A szívkimenet egyszerűen a szív által percenként szivattyúzott vér mennyisége.",
+  "cardiovascular": "A szív- és érrendszeri",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "Érvénytelen CVC",
+  "CARD_EXPIRY_DATE": "Lejárati dátum",
+  "CARD_MONTH_ERROR": "Érvénytelen hónap",
+  "CARD_NUMBER": "Kártyaszám",
+  "CARD_NUMBER_ERROR": "Érvénytelen CC szám",
+  "CARD_YEAR_ERROR": "Érvénytelen év",
+  "category": "Kategória",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "CCV szükséges",
+  "CERROR": "Szegény kapcsolat",
+  "certificate_attachment": "Csatolva van az orvosi igazolás",
+  "certificate_email": "Mellékelve van az orvosi igazolása",
+  "certificate_header": "Az elvégzett orvosi értékelés alapján a következőket állítják be:",
+  "certificate_sent": "Elküldött tanúsítvány",
+  "certification_subject": "Orvosi igazolása",
+  "cf": "Fiskális kód",
+  "cf_error": "Kérjük, adja meg a fiskális kódot",
+  "changeschedule": "Módosítsa az időt",
+  "CHANGE_PWD_SECTION_SUBTITLE": "A jelszava lejárt, kérjük, módosítsa.",
+  "CHANGE_PWD_SECTION_TITLE": "Jelszó módosítása",
+  "CHANGE_PWD_TITLE": "A jelszava lejár, megváltoztatja",
+  "checking_net_condition": "Az internetkapcsolat ellenőrzése ...",
+  "CHECK_PARAMETERS_CORX": "Kérjük, illessze be a súlyt és a magasságot a profilszakaszon a megfelelő wellness érték kiszámításához.",
+  "CHL_TOT": "Teljes koleszterin",
+  "choosedate": "Válasszon egy dátumot",
+  "chooseDateDescription": "Kattintson egy dátumra a kibontáshoz, és válassza ki az órát",
+  "chooseprofile": "Te vagy?",
+  "choosespeciality": "Válassza ki az orvosi specialitást",
+  "choosetransferdoctor": "Válasszon orvost",
+  "CHOOSE_A_DOCTOR": "Válassza ki a saját orvosát",
+  "chosedoctor": "Kérem válasszon orvost",
+  "city": "Város",
+  "city1": "Város",
+  "city2": "Város",
+  "clearsignature": "Az aláírás törlése",
+  "clickitem": "Kattintson az egyes elemekre a teljes részlet megtekintéséhez",
+  "clickrow": "Kattintson egy sorra a kiválasztáshoz",
+  "clickToOpen": "Kattintson a fájl megnyitásához",
+  "click_to_start_call": "Kattintson egy orvosra a hívás megkezdéséhez",
+  "clinics": "klinikák",
+  "CLOCK_FORMAT": "Óra formátum",
+  "closeappconfirm": "Biztos benne, hogy bezárja az alkalmazást?",
+  "CLOSE_BTN": "Bezárás",
+  "cm": "cm",
+  "CODE": "Kód",
+  "code_not_valid": "A beillesztett kód érvénytelen",
+  "code_verified": "A kód sikeresen ellenőrizve!",
+  "coffeeDesc": "Kávé feltételezve",
+  "COMMENT": "kommentár",
+  "commenti": "Hozzászólások",
+  "COMPANY_NAME": "Vállalat",
+  "COMPLAIN": "Panaszkodik",
+  "COMPLETE_PROFILE": "A folytatáshoz végezze el a profilját",
+  "COMPLETE_PROFILE_TITLE": "Töltse ki profilját",
+  "complications": "szövődmények",
+  "concernlist": "Kérjük, sorolja fel az elsődleges aggodalmát",
+  "CONFIRM": "Rendben",
+  "confirm_app": "Erősítse meg az időpontot",
+  "CONFIRM_EMAIL_TITLE": "e-mail megerősítés",
+  "CONFIRM_PWD": "Jelszó megerősítése",
+  "connect": "Nyomja meg a Connect gombot a készülék csatlakoztatásához",
+  "connectbtn": "Csatlakozás",
+  "connectedto": "Csatlakozva valamihez",
+  "connecting": "Csatlakoztatás ... Kérjük várjon",
+  "connection_progress": "Csatlakozás az eszközhöz ...",
+  "CONSULT": "Panaszkodik",
+  "consult1": "Konzultál",
+  "consultation": "Konzultáció",
+  "consultationHistory": "Konzultációs előzmények",
+  "contact": "Kapcsolatba lépni",
+  "CONTACT_US_BTN": "Lépjen kapcsolatba velünk",
+  "CONTACT_US_SECTION_TITLE": "Kérjük, vegye fel velünk a kapcsolatot kérdéseivel vagy segítséggel az alkalmazás használatával.",
+  "CONTACT_US_TITLE": "Lépjen kapcsolatba velünk",
+  "contatti": "Elérhetőség",
+  "continue": "Folytatni",
+  "copy_url": "URL másolása",
+  "CORX": "EKG",
+  "corxDidFailEcg": "Hiba történt az EKG megszerzésében",
+  "corxDidFailWellness": "Hiba történt a wellnessadatok megszerzésében",
+  "corxDidNoEcg": "Nincs ECG adat",
+  "corxDidNoWellness": "Nincsenek wellnessadatok",
+  "CORX_DATA": "CorX adatok",
+  "corx_disconnected": "Corx leválasztva",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Kérjük, adja meg a súlyt és a magasságot az oreder-ben, hogy helyesen számítsa ki a vitális paramétereket.",
+  "COUNTRY": "Ország",
+  "country1": "Ország",
+  "county": "Megye",
+  "co_alta": "nagyobb, mint 8 l / perc",
+  "co_bassa": "kevesebb, mint 4 l / perc",
+  "co_normale": "4 és 8 l / perc között",
+  "creditCard_selected": "A kiválasztott kártyát fel kell számolni a szolgáltatásért",
+  "currency": "Valuta",
+  "C_SPECIALTY": "Egyedi specialitás",
+  "dailyuse": "Napi használat",
+  "dashboardVideocall": "Dashboard Videocall",
+  "dataerror": "A kiválasztott dátum / idő az aktuális dátum / idő múltán van",
+  "dataexists": "Már van egy találkozó a kiválasztott dátummal és időponttal",
+  "datafetching": "Személyes adatok lekérése ... Várjon.",
+  "dataPrenotazione": "Foglalási dátum",
+  "dataVaccinazione": "Immunizáció dátuma",
+  "date": "Dátum",
+  "dateDiscovered": "A felfedezett dátum",
+  "dateStart": "Kezdő dátum",
+  "datipersonali": "Személyes adatok",
+  "datiScaricati": "Adatok sikeresen letöltött",
+  "day": "Nap",
+  "deassociate_corx_alert": "Szeretné leállítani a Corxot?",
+  "decline": "Hanyatlás",
+  "DECLINE_BTN": "Hanyatlás",
+  "DEEP_SLEEP_TIME": "Mély alvás",
+  "defaultQuestion": "Nyomja meg az indítást, és mondja el nekünk, hogy érzi magát ma",
+  "delete": "Töröl",
+  "deleteAlarm": "Törli ezt a riasztást?",
+  "deleteAppointment": "Meg akarja szakítani a kinevezést?",
+  "deleteDescription": "Ez azonnal törlődik.",
+  "deleteMessage": "Biztosan törölni akarja?",
+  "deleteMultipleDesctiption": "A törölni kívánt rés száma:",
+  "deleteNumber": "Biztosan törölni szeretné ezt a számot?",
+  "deleteSlotDay": "Minden nap szabad helyet töröl",
+  "deleteSlotMonth": "Minden hónapban üríti az összes szabad helyet",
+  "deleteSlotWeek": "A héten minden szabad helyet töröl",
+  "deletevalue_q": "Biztosan törli az értéket?",
+  "DELETE_NOTIFICATION_MSG": "Törli az összes korábbi értesítést?",
+  "demo": "Ez egy demó, nincs pénz.",
+  "dependencies": "Dependencies",
+  "description": "Leírás",
+  "descriptionMandatory": "Kérjük, adjon meg egy leírást",
+  "deseaseCategory": "Betegségkategória",
+  "desirable": "Kívánatos",
+  "dettagli": "Részletek",
+  "dettaglio_struttura": "Szerkezeti részlet",
+  "device": "Eszköz",
+  "devicefound": "Megtalálható a készülék",
+  "devices": "eszközök",
+  "devicetype": "Eszköztípus",
+  "DEVICE_BLOOD_PRESSURE": "Vérnyomás",
+  "DEVICE_CALORIES": "Kalóriák égtek",
+  "DEVICE_CARDIAC": "Szívellenőrzés",
+  "DEVICE_CHL": "Lipid profil",
+  "DEVICE_DATA_SECTION_TITLE": "Az orvosi eszközadatok",
+  "DEVICE_DATA_TITLE": "Eszközadatok",
+  "DEVICE_DATA_TITLE_1": "Orvosi eszköz adatai",
+  "DEVICE_EKG": "EKG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "glukométerrel",
+  "DEVICE_HEART_RATE": "Pulzus",
+  "DEVICE_PEDOMETER": "lépésszámláló készülék",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Légzési frekvencia",
+  "DEVICE_SPO2": "SpO2",
+  "DEVICE_TEMPERATURE": "Hőmérséklet",
+  "DIAGNOSIS": "Diagnózis",
+  "diastolic": "A diasztolés",
+  "dieci": "Az elmúlt 10 mérés",
+  "diet": "Diéta",
+  "digestion": "Emésztési problémák",
+  "dinner": "Vacsora",
+  "dipendenza": "Függőség",
+  "disableAlarm": "Riasztás engedélyezve",
+  "disabled": "Tiltva",
+  "DISABLE_PANIC_BUTTON": "Pánik gomb engedélyezése",
+  "DISABLE_PUNIC_BUTTON": "A Punic gomb kikapcsolása",
+  "disconnectall": "Állítsa be az offline módot",
+  "disconnectbtn": "szétkapcsol",
+  "DISDICI": "Megszünteti",
+  "disease": "Krónikus betegség",
+  "diseasemanagement": "Betegségek kezelése",
+  "diseases": "betegségek",
+  "disease_1": "Betegség",
+  "dissocia": "kettéválasztja",
+  "DISTANCE": "Távolság",
+  "dm_section_description_1": "Itt csatolhatja a fájlokat",
+  "DND": "Ne zavarj",
+  "DOCEMAIL": "Orvos Email",
+  "DOCNAME": "Orvos neve",
+  "DOCPHONE": "Orvos telefonszáma",
+  "DOCTOR": "Orvos",
+  "doctor1": "Orvos",
+  "doctorAtHome": "Doktor otthon",
+  "doctorAtHomeQuestion1": "Otthoni segítséget akarok:",
+  "doctorAtHomeQuestion2": "Válassza ki a szükséges otthoni segítséget",
+  "doctorAtHomeQuestion2Answer1": "Általános gyakorlat",
+  "doctorAtHomeQuestion2Answer2": "gyermekgyógyászati",
+  "doctorAtHomeQuestion2Answer3": "Ápoló",
+  "doctorAtHomeQuestion3": "Adja meg, hogy miért szeretne segítséget kapni",
+  "doctorAtHomeQuestion4": "Adja meg a segítséget kapni kívánt cím alatt található űrlapot",
+  "doctorAtHomeRequestBtn": "Küldje el a kérést",
+  "doctorAtHomeRequestSuccess": "Megkaptuk a kérését. A házi szolgáltatás megszervezéséhez 2 órával felveszi a kapcsolatot",
+  "doctorAtHomeTitle": "Doktor otthon",
+  "doctorbusy": "A doktor újabb hívást foglalt",
+  "doctorbusy1": "Az orvos egy másik hívást foglalt",
+  "doctorlist": "Orvosok listája",
+  "doctormanagement": "Orvosok kezelése",
+  "doctoroffline": "Az orvos offline, próbálja újra",
+  "doctorupdate": "Orvos",
+  "DOCTOR_PROFILE_OPT1": "Profil",
+  "DOCTOR_PROFILE_OPT2": "Beteglátogatás története",
+  "DOCTOR_PROFILE_OPT3": "Ajánljon kollégának",
+  "DOCTOR_PROFILE_SECTION1": "Profilod",
+  "DOCTOR_PROFILE_TITLE": "Profil",
+  "doctor_request_sent": "Elküldtük a kérését orvosunknak. Két perc múlva kap választ.",
+  "documents": "Dokumentumok",
+  "DOCUMENT_BTN": "Dokumentumok",
+  "doestake": "Vettél",
+  "DONATION_TITLE": "Erősítse meg az adományt",
+  "done": "A Trackx adatok sikeresen letöltődtek. Meg fogja találni őket a wellnessadat részben",
+  "doneAppointmentPatient": "Korábbi kinevezések",
+  "DONE_BTN": "Kész",
+  "dontknow": "Nem emlékszem",
+  "DORMIVEGLIA": "Álmosság",
+  "dosage": "Adagolás",
+  "dosetake1": "Elvette a gyógyszereit?",
+  "dottore_rimosso": "A doktor állapota sikeresen frissült",
+  "dottore_salvato": "A doktor sikeresen frissült",
+  "download": "Letöltés",
+  "downloadaspdf": "Letöltés PDF formátumban",
+  "downloadecg": "Letöltés EKG",
+  "DOWNLOADING_DEVICE_DATA": "Letöltés ...",
+  "downloadwellnessdata": "Wellness adatok letöltése ...",
+  "downloadWellnessResult": "hozzáadott intézkedés",
+  "DOWNLOAD_CERTIFICATE": "Tanúsítvány letöltése",
+  "DOWNLOAD_ERROR_GENERIC": "Hoppá. A fájl letöltése közben hiba történt. Kérlek, próbáld újra később.",
+  "DOWNLOAD_SO_REPORT": "Letöltés ajánlás",
+  "DO_NOT_DISTURB": "Ne zavarj",
+  "drugsAtHome": "Gyógyszerek otthon",
+  "drugsAtHomeQuestion1": "Szeretné, hogy az orvos által előírt gyógyszereket közvetlenül otthon kapja?",
+  "drugsAtHomeRequestBtn": "Küldje el a kérést",
+  "drugsAtHomeRequestSuccess": "Megkaptuk a kérését. A gyógyszerek 24 órán belül kerülnek elküldésre",
+  "drugsAtHomeSection1": "Adja meg a formanyomtatványt a telefonszám és az a cím, amelyen a kábítószereket megkapja.",
+  "drugsAtHomeTitle": "Gyógyszerek otthon",
+  "drug_name": "Drug Name",
+  "duration": "tartam",
+  "ecg": "EKG",
+  "ecgadded": "Az EKG sikeresen hozzáadva a listához",
+  "ECGBP": "EKG BP",
+  "ecgdata_header": "EKG adatok",
+  "ecgdetail": "Az EKG-kép megtekintéséhez kattintson minden elemre",
+  "ECG_DELETE_Q": "Biztosan törölni szeretné az EKG-t?",
+  "ecg_not_found": "Hibás EKG-fájl, próbálkozzon egy másik mérési ponttal.",
+  "ECG_REMOVED": "Az EKG sikeresen törölve",
+  "edit": "szerkesztése",
+  "EKG_SECTION_TITLE": "Elektrokardiogram (EKG / EKG) Eredmények",
+  "EKG_TITLE": "EKG feltöltés",
+  "EMAIL": "Email",
+  "email1": "Email",
+  "email_do_not_match": "Az e-mailek nem egyeznek",
+  "ematicTest": "Ematikus tesztek",
+  "Emergency": "A vészhelyzet megjelenítése",
+  "emergency1": "Vészhelyzet",
+  "emergencyLoginCode": "Sürgősségi bejelentkezési kód",
+  "emergency_numbers": "Sürgősségi számok",
+  "emergency_number_description": "Vészhelyzet esetén adja meg a hívni kívánt telefonszámokat",
+  "emotionDescription": "A különböző alapvető érzelmek kombinációja, amint azt a felhasználók hangja kifejezte egy elemzett hangszakasz alatt.",
+  "emotions": "Kombinált érzelmek",
+  "emptypassword": "Kérjük, adjon meg egy jelszót",
+  "EMPTY_ALLERGIES": "Kattintson a gombra a betegség felvételéhez",
+  "empty_dataset": "Nincs adat",
+  "EMPTY_DEPENDENCIES": "Kattintson a gombra, hogy hozzon létre egy függőséget az orvosi feljegyzésekhez",
+  "EMPTY_DISEASE": "Kattintson a gombra a betegség felvételéhez",
+  "EMPTY_DOCUMENTS": "Kattintson a gombra, hogy hozzáadjon egy dokumentumot az orvosi nyilvántartásához",
+  "EMPTY_IMAGES": "Kattintson a gombra, hogy hozzáadjon képet az orvosi feljegyzéséhez",
+  "EMPTY_IMMUNIZATION": "Kattintson a gombra, hogy immunizálást adjon az orvosi feljegyzésekhez",
+  "EMPTY_MEDICATION": "Kattintson a gombra, hogy gyógyszert adjon hozzá az orvosi feljegyzésekhez",
+  "empty_otp": "Érvénytelen OTP kód",
+  "EMPTY_PROSTHESIS": "Kattintson a gombra a protézis hozzáadásához az orvosi feljegyzésekhez",
+  "EMPTY_TESTS": "Kattintson a gombra, hogy tesztet adjon az orvosi nyilvántartásához",
+  "enabled": "Bekapcsolt",
+  "endate": "Nak nek",
+  "endcall": "Hívás befejezése",
+  "endDate": "Befejezés dátuma",
+  "endhour": "Idő vége",
+  "end_time": "Idő vége",
+  "END_VIDEOCALL_Q1": "Biztosan befejezed a konzultációt a videokártya indítása nélkül?",
+  "END_VISIT_BTN": "Utolsó látogatás",
+  "error": "Hiba",
+  "error_call_timeout": "Az idő, hogy a videohívás véget érjen. A videohívás megismétléséhez ismételje meg újra a folyamatot.",
+  "ERROR_EMAIL_DUPPLICATE": "Úgy tűnik, hogy ez az e-mail cím már regisztrált. Próbáljon meg egy másikval.",
+  "error_price": "Kérjük, adja meg a díjat",
+  "ERROR_SPECIFY_DAYS": "Kérjük, adjon meg legalább egy hét napot",
+  "ERROR_SPECIFY_HOUR": "Kérjük, adja meg az időt",
+  "ERROR_TITLE_NOTIFICATION": "Hiba",
+  "ERROR_TRACKX": "Kapcsolja be a Trackxet",
+  "error_update": "Hiba történt a firmware frissítésével",
+  "ERROR_USERNAME_DUPPLICATE": "Ez a felhasználónév már elkészült, válasszon egy másikat",
+  "ERROR_WHITELIST": "Sajnáljuk, a készüléken nem engedélyezett a videohívás",
+  "esameobbligatorio": "Kérjük, válasszon ki egy vizsgát",
+  "exam_name": "Vizsga neve",
+  "exercise": "Gyakorlat",
+  "exercisereminders": "Az edzésem emlékeztetője",
+  "existentassoc": "Léteznek egyesületek",
+  "existentrelation": "Ez a kapcsolat már létezik",
+  "expandfordetails": "További részletekért bővebben olvashat",
+  "EXP_MONTH": "lejárati hónap",
+  "EXP_MONTH_REQUIRED": "Lejárati hónap szükséges",
+  "EXP_YEAR": "Lejárati év",
+  "EXP_YEAR_REQUIRED": "Lejárati év szükséges",
+  "e_prescribing": "E-gyógyszerfelírás",
+  "F": "Női",
+  "farmaci": "Gyógyszerek",
+  "farmaco": "Gyógyszer",
+  "fat": "Zsír",
+  "FATIGUE_INDEX": "Fáradtság",
+  "FATIGUE_INDEX_DESCRIPTION": "A fáradtság okozta munka, munka és tapasztalat. A túlzott fáradtság könnyen vezet a vállizom merevségéhez, a fejfájáshoz, az álmatlansághoz, a fáradtsághoz, a derék fájdalomhoz, és könnyen az idegrendszerhez, az endokrin rendellenességekhez vezet, ami számos krónikus betegséget és szellemi kimerültséget eredményez.",
+  "favoriteslist": "Kedvencek listám",
+  "FAVORITES_NO": "Még nem adott hozzá orvosokat a kedvencei közé",
+  "FAVORITES_NO_PHARMACIES": "Még nem adott hozzá gyógyszertárt a kedvencekhez",
+  "FAVORITES_SECTION_SUBTITLE": "Kattintson az egyes elemekre a teljes részlet megtekintéséhez",
+  "FAVORITES_SECTION_TITLE": "Kedvenc orvosaid",
+  "FAVORITES_TITLE": "Érdekes",
+  "favourite_pharmacy": "Kedvenc gyógyszertárak",
+  "FEE": "Kezelje díjakat",
+  "FEET": "láb",
+  "female": "Női",
+  "fileloaded": "Fájl betöltve",
+  "fileloaded1": "Fle sikeresen feltöltve",
+  "fileName": "Fájl név",
+  "filenotfound": "A fájl nem található",
+  "file_upload_instruction": "Feltöltési utasítás",
+  "filldate": "Kérjük, válasszon egy dátumot",
+  "filldoctor": "Kérem válasszon orvost",
+  "fillpeciality": "Kérem válasszon egy szakterületet",
+  "fillthebox": "Töltse ki a dobozt",
+  "fill_indication": "Kérjük, töltse ki a jelző mezőt",
+  "fill_indication_for": "Kérjük, adja meg a jelzést",
+  "fill_quantity": "Kérjük, töltse ki a mennyiség mezőt",
+  "fill_quantity_for": "Kérjük, adja meg a",
+  "fill_your_doubt": "Kérjük, adjon meg egy leírást a fenti mezőben.",
+  "filter": "Szűrő",
+  "finddoctor": "Keressen orvosokat",
+  "findFarmacia": "Keresés a gyógyszertárban",
+  "findpatient": "Keresse meg a betegeket",
+  "findspcialist": "Keressen szakembert",
+  "findStruttura": "Keresés struktúrája",
+  "finduser": "Felhasználó keresése",
+  "FIND_A_DOCTOR": "Keressen orvost",
+  "find_device": "Eszköz keresése",
+  "FIND_THE_BRACELET": "Keresse meg a karkötőt",
+  "fingerprint_btn": "Engedélyezze az ujjlenyomat bejelentkezését",
+  "fingerprint_hint": "Az ujjlenyomat visszaigazolása a folytatáshoz",
+  "fingerprint_hint2": "Az ujjlenyomat visszaigazolása a folytatáshoz",
+  "fingerprint_question": "Szeretné aktiválni az ujjlenyomat-hitelesítést?",
+  "FIRMWARE_UPDATE": "Firmware frissítés",
+  "FIRMWARE_UPDATED": "Frissített firmware",
+  "firstName": "Keresztnév",
+  "five_min": "5 perc múlva",
+  "fixappointment": "Szeretné ütemezni ezt a találkozót?",
+  "forever": "Örökké",
+  "forgotPassword": "Elfelejtette a jelszavát?",
+  "forgot_password": "Elfelejtette a jelszavát?",
+  "forma": "típus",
+  "formafarmaco": "Gyógyszerforma",
+  "formatError": "Az árnak numerikus értéknek kell lennie.",
+  "found_devices": "Talált eszközök",
+  "FRIDAY": "péntek",
+  "GENDER": "nem",
+  "gender1": "nem",
+  "general": "Tábornok",
+  "generalInfo": "Általános információk",
+  "genericName": "Általános név",
+  "GENERIC_ERROR": "Hoppá! Valami elromlott. Kérlek, próbáld újra később",
+  "geneticTest": "Genetikai teszt",
+  "geneticTestHeader2": "A genetikai vizsgálatok révén többet tudhat meg az egészségéről, és megteszi a helyes dolgot, hogy egészséges maradjon.",
+  "geneticTestHeader3": "Hogyan működik",
+  "geneticTestProduct": "Táplálkozási profil",
+  "geneticTestRequestBtn": "Kérd meg a tesztet",
+  "geneticTestRequestSuccess": "A megrendelésed megerősítést nyert. A készletet közvetlenül otthon kapja meg",
+  "geneticTestSection1": "Szeretné most, ha az étkezésed elegendő az Ön testéhez és anyagcseréjéhez?",
+  "geneticTestSection2": "Szeretné tudni, hogy az egészségesebb táplálék a szervezet számára nem jelent-e kockázatot a krónikus betegségekre?",
+  "geneticTestSection3": "A táplálkozási teszt segítségével megismerheti a DNS és az étrend közötti kapcsolatot.",
+  "geneticTestSection4": "Adja hozzá a telefonszámát és a kitölteni kívánt címet",
+  "geneticTestStep1": "1. Rendelje meg a tesztet",
+  "geneticTestStep1Subtitle": "Rendelje meg a megrendelést az alkalmazással és fogadja el a készletet otthon.",
+  "geneticTestStep2Subtitle": "Vegyük a mintát, és küldj nekünk postai úton a boríték segítségével.",
+  "geneticTestStep3": "3. Szerezd meg az eredményeket",
+  "geneticTestStep3Subtitle": "Néhány hét múlva kap egy üzenetet, amely tájékoztatja Önt arról, hogy a genetikai teszt eredményei elérhetők lesznek az App-en.",
+  "geneticTestTitle": "Genetikai teszt",
+  "GLUCOMETER": "glukométerrel",
+  "glucosio": "Szőlőcukor",
+  "HAND_BRIGHTEN": "Emeld fel a kezed, hogy kitisztuljon",
+  "happiness": "Boldogság",
+  "HDL": "HDL koleszterin",
+  "hdl_cholesterol_desc": "A nagy sűrűségű lipoprotein (HDL) koleszterint „jó” koleszterinnek nevezik. Az alábbi táblázat az értékek tartományát mutatja.",
+  "healthtips": "Healthtips",
+  "HEALTH_INDEX": "Egészség",
+  "HEALTH_INDEX_DESCRIPTION": "A HRV egészségi index az emberi HRP és a pulzusszám változóságának HRV és más paraméterek elemzése alapján a Holter eredményeinek valós idejű mérése alapján elemzi a szervezet egészségi paramétereit, növeli az egészség indexét, ami a test egészségi állapotát reprezentálja jobb; az egészségügyi index csökkent, a szervezet nevében Figyelnie kell a napi egészséges életre.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Szív",
+  "HEART_INDEX_DESCRIPTION": "Szívműködés A felhasználók mérik az ember szívállapotát, és teljesítményük eltérő a szívük és egészségi állapotuk iránti szeretetük különböző szintje miatt. Egészséges életmód és táplálkozási szokások kialakítása: ésszerű stratégia a szív megerőltetésére a szív kalcium-nátrium-kiegészítő kiegészítésére, az erek védelmére, aktívan megelőzheti a szívbetegség kialakulását, erősíti a szívműködési stratégiát.",
+  "height": "Magasság",
+  "height1": "A magasság szükséges a BMI helyes kiszámításához",
+  "heightUnit": "Magasság egység",
+  "hepaticFunction": "Májműködés",
+  "hide": "Elrejt",
+  "high1": "Magas",
+  "high_risk": "Nagy kockázat",
+  "history": "Konzultációs előzmények",
+  "homepage": "Otthon",
+  "HOME_WARNING_MESSAGE": "Biztosan el akar menni ebből az oldalról? A módosítás elvész.",
+  "hormonalTest": "Hormonális funkcióteszt",
+  "hospDate": "Hosp.date",
+  "hospit": "Kórházba került",
+  "hospital": "Kórház",
+  "hospitalization": "Kórházi ápolás",
+  "hour": "Óra",
+  "hours": "Órák",
+  "HOURS_BANK_DONATE_BTN": "Adományoz",
+  "HOURS_BANK_DONATION": "Jelenleg adományozott órák száma:",
+  "HOURS_BANK_H": "Óra Bank:",
+  "HOURS_BANK_SECTION_P1": "Az egészség az elsődleges fontosságú a SaluberMD-nél, és a lehető legtöbb embert akarjuk kiszolgálni. Platformunkon keresztül lehetővé tesszük a rászorulók számára az egészségügyi ellátáshoz való hozzáférést. Tájékoztatási csoportunk elkötelezett abban, hogy egészségügyi ellátási lehetőséget biztosítson a rászoruló szervezeteknek, egyéneknek és családoknak.",
+  "HOURS_BANK_SECTION_P2": "Egyszerűen kattintson a linkre, hogy hány órát szeretne adományozni, és hozzáadjuk a bankunkhoz.",
+  "HOURS_BANK_SECTION_P3": "Az alkalmazáson keresztül kapcsolatba lépünk Önnel, hogy megvásárolhassuk az órákat, és amikor rendelkezésre áll, egyszerűen kattintson az Elfogadás gombra a betegek megtekintéséhez.",
+  "HOURS_BANK_SECTION_TITLE": "Csatlakozz hozzánk az egészségügyi ellátásban!",
+  "HOURS_BANK_TITLE": "Óra Bank",
+  "howto": "Hogyan kell",
+  "howto1": "A rendelkezésre álló nyílásokat zöld golyóval jelöltük",
+  "howto2": "Válasszon egy cellát a zöld golyóval, és kattints rá bővítésre, és válaszd ki az időt. Ha készen állsz, kattints a ceruza szimbólumra, hogy megtekinthesd a részleteket, és fogadd el a találkozót",
+  "howToPrice": "Az árnak numerikus értéknek kell lennie. Legfeljebb két tizedesérték megengedett. Pont vagy vessző használható elválasztóként",
+  "hrv_buono": "Jó",
+  "hrv_eccellente": "Kiváló",
+  "hrv_generale": "Tábornok",
+  "hr_alta": "Több mint 100",
+  "hr_bassa": "Kevesebb, mint 60 éves",
+  "HR_DESCRIPTION": "A normál nyugalmi pulzusszámok referencia táblázata",
+  "HR_INTERVAL": "HR mérési intervallum",
+  "hr_normale": "60 és 100 között",
+  "hsh": "Kórházi és sebészeti történelem",
+  "IBAN": "ők voltak",
+  "idx": "indexek",
+  "image": "Kép",
+  "images": "képek",
+  "immunization": "Immunizálás",
+  "immunizationmenu": "Immunizálás",
+  "importhealth": "Egészségügyi adatok importálása",
+  "impossible_transfer": "Lehetetlen áthelyezni a hívást",
+  "INCH": "Hüvelyk",
+  "indexes": "indexek",
+  "indication": "Jelzés",
+  "INFO_BTN": "Info",
+  "info_salvate": "Az adatok sikeresen mentésre kerültek",
+  "iniezione": "Injekció",
+  "initiative": "Kezdeményezés",
+  "initiativeerror": "Kérjük, válasszon egy kezdeményezést",
+  "insert": "Insert",
+  "inserttext": "Helyezzen be szöveget itt",
+  "insert_otp_code": "Írja ide a kódot",
+  "internet_missing": "Nem csatlakozik az internethez",
+  "invalidemail": "Érvénytelen e-mail cím",
+  "invoice": "Számla",
+  "irregulartest": "Szabálytalan vizsgálat",
+  "kcal": "kcal",
+  "kg": "kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Vesefunkciós tesztek",
+  "labtesting": "Hálózat",
+  "LANGUAGE": "Nyelv",
+  "LANGUAGE_TYPE": "Nyelv",
+  "lastmeasure": "Utolsó intézkedés",
+  "lastName": "Vezetéknév",
+  "lastPhysical": "Utolsó fizikai",
+  "lastSync": "Utolsó szinkronizálás",
+  "lastTimeOnline": "Utoljára online",
+  "lastvisit": "Utolsó látogatás",
+  "last_login_date": "Utolsó bejelentkezési dátum",
+  "last_time_taken": "Utoljára vették",
+  "LDL": "LDL-koleszterin",
+  "ldl_cholesterol_desc": "Az LDL, vagy az alacsony sűrűségű lipoprotein a „rossz” koleszterin. Az alábbi táblázat az értékek tartományát mutatja",
+  "leggero": "Fény",
+  "LICENSE_NUMBER": "Azonosító szám",
+  "LIGHT_SLEEP_TIME": "Könnyed alvás",
+  "listcall": "Videokártya készítése",
+  "litri": "Liter",
+  "liverExam": "Májfunkciós teszt",
+  "LIVE_ECG": "Új mérés",
+  "live_ecg_downloading": "EKG letöltése. Kérlek várj...",
+  "loadEcgList": "EKG-lista betöltése ...",
+  "loading": "Adatok betöltése...",
+  "loading1": "Betöltés...",
+  "loading_list": "Lista betöltése ...",
+  "loading_list_nutritionist": "Táplálkozók betöltése ...",
+  "LOAD_INDEX": "Betöltés",
+  "LOAD_INDEX_DESCRIPTION": "Fokozat és fáradtság, stressz A terhelés indexének a test terhére történő átfogó megfontolása, az emberek fizikai és pszichológiai szempontjait tükrözi. A külső társadalmi, az élet és a verseny, valamint más tényezők, de saját fizikai állapota és mentális állapota is.",
+  "LOAD_ITEMS": "Betöltés...",
+  "LOGGING_IN": "Bejelentkezés...",
+  "LOGGING_OUT": "Kijelentkezés...",
+  "LOGIN_BTN": "Belépek",
+  "LOGIN_ERROR": "Rossz felhasználónév vagy jelszó",
+  "Logout": "Kilépés",
+  "logout1": "Kilépés",
+  "LOGOUT_BTN": "Kilépés",
+  "low1": "Alacsony",
+  "lunch": "Ebéd",
+  "lungtest": "Csináljunk tüdőtesztet",
+  "M": "Férfi",
+  "male": "Férfi",
+  "manageapp": "Találkozók kezelése",
+  "manageslot": "Kezelje a szabad helyet",
+  "MANAGE_CORX": "A Corx kezelése",
+  "mandatoryDays": "Kérjük, adja meg a napok számát",
+  "mandatoryfield": "Kérjük, töltse ki az összes kötelező mezőt",
+  "map": "Térkép",
+  "max_file_size": "A fájl méretének kevesebbnek kell lennie",
+  "meals": "étkezés",
+  "medicalconsultation": "Konzultáció",
+  "medicalfile": "képek",
+  "medicalform": "Orvosi formák",
+  "medicalforms": "Orvosi formák",
+  "medicalinfo": "Orvosi információk",
+  "medicalrecord": "Orvosi karton",
+  "medical_2option": "Orvosi második vélemény",
+  "MEDICAL_CERTIFICATE": "Orvosi igazolás",
+  "MEDICAL_FILE_BTN": "Orvosi fájl",
+  "medication": "Gyógyszer",
+  "medication_name": "A gyógyszer neve",
+  "medicinereminders": "A gyógyszerem emlékeztetője",
+  "medio": "Közepes",
+  "medium1": "Közepes",
+  "message": "Üzenet",
+  "messagesent": "az üzenet sikeresen elküldve",
+  "metabolismTest": "Metabolizmus tesztek",
+  "method": "Módszer",
+  "METRIC": "Metric",
+  "middedcall2": "Megválaszolt egy nem fogadott hívást",
+  "minutes": "percek",
+  "missedcall": "SaluberMd Nem fogadott videokártya",
+  "missedcall1": "Nem fogadott hívás",
+  "missedNotiAlert": "Van néhány nem fogadott értesítés.",
+  "misurazioni": "Records",
+  "misure": "Intézkedés",
+  "mobile": "Mobil",
+  "mobile_required": "Kérjük, add hozzá telefonszámodat, hogy kapcsolatba léphessünk Önnel a találkozó megszervezéséhez.",
+  "moderate_risk": "Közepes kockázat",
+  "MONDAY": "hétfő",
+  "month": "Hónap",
+  "mood": "Mood csoport",
+  "moodDescription": "A hangszóró érzelmi állapotának kulcsfontosságú mutatója az elemzett hangszakasz alatt. Az API összesen 11 hangulatcsoportot állít elő, a haragtól, a magánytól és az önkontrolltól kezdve a boldogságig és az izgalomig.",
+  "moreDays": "Még több nap",
+  "motivazione": "Ok",
+  "MRGraph": "Az orvostudomány története",
+  "msgAppointment": "A kinevezés sikeresen megtörtént. Találkozóját a concierge előnyeiben találja meg.",
+  "msgsurveysent": "A felmérés sikeresen elküldve",
+  "msg_call_reconnection": "Megpróbál újra kapcsolódni ...",
+  "MSG_CALL_TRANSFERED": "A videókártya sikeresen átkerült",
+  "MSG_CHOOSE_OPTION": "Kérjük, válasszon egy lehetőséget",
+  "MSG_CHOOSE_OPTION4": "Válasszon egy lehetőséget",
+  "MSG_CHOOSE_OPTION5": "Ismertesse a reggelit",
+  "MSG_CHOOSE_OPTION6": "Ismertesse vacsoráját",
+  "MSG_CHOOSE_OPTION7": "Ismertesse az ebédet",
+  "MSG_CHOOSE_OPTION8": "Írja le a harapásait",
+  "MSG_CHOOSE_OPTION9": "Kérem, válaszoljon az összes kérdésre",
+  "MSG_CHOOSE_OPTION_2": "Kérjük, írjon be egy leírást",
+  "MSG_CHOOSE_OPTION_3": "Válasszon legalább egy opciót",
+  "MSG_COMPLETE_PROFILE": "Szeretne most menni?",
+  "MSG_CONFIRM_EMAIL": "Kérjük erősítse meg az email címét",
+  "MSG_CONFIRM_EMAIL_TEXT": "E-mailt küldtünk Önnek, amelyben meghatároztuk, hogyan erősítheti meg e-mail címét. Kérjük, ellenőrizze a beérkezett üzeneteket.",
+  "msg_connected": "Sikeresen csatlakoztatva",
+  "MSG_CONTACT_SUCCESS": "Köszönjük a benyújtását.",
+  "MSG_DOC_ENDED_CALL": "Az orvos befejezte a hívást",
+  "MSG_DOC_WAITING_CALL": "A doktort lekapcsolták, várva újra",
+  "MSG_DONATION": "Megerősíted az adományodat?",
+  "MSG_DONATION_CONFIRM": "Köszönjük adományát",
+  "MSG_ERROR_FILL_BOXES": "Kérjük, töltse ki a dobozokat megfelelő értékekkel",
+  "MSG_FILL_ALL_BOXES": "Kérjük, töltse ki az összes dobozt",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Kérjük, töltse ki az alábbi mezőket",
+  "MSG_FILL_BOXES": "Kérjük, töltse ki a dobozokat",
+  "MSG_FILL_BOXES_ALL": "Kérem töltse ki az összes mezőt",
+  "MSG_FILL_BOXES_PROFILE": "Kérjük, töltse ki az összes csillaggal jelölt mezőt",
+  "MSG_GENERIC_ERROR": "Ellenőrizze az internetkapcsolatot, és próbálja újra.",
+  "MSG_GENERIC_FORM_ERROR": "Javítsa ki a hibát a folytatás előtt",
+  "MSG_LOGIN_ERROR": "Bejelentkezés sikertelen: ellenőrizze hitelesítő adatait és győződjön meg arról, hogy csatlakozik a hálózathoz.",
+  "MSG_LOGIN_ERROR_LOCKED": "A bejelentkezés sikertelen: fiókja ideiglenes lezárásra került. Kérjük, próbálkozzon újra később.",
+  "MSG_MANDATORY_OPTION": "Önnek fel kell hatalmaznia az orvost, hogy lássa az orvosi fájlt",
+  "MSG_NO_DOCTORS_FOUND": "Orvosok nem találhatók, nyomja meg a Find a Doctor gombot, hogy újra próbálkozzon.",
+  "MSG_PATIENT_CANCELED_CALL": "A páciens visszavonta a hívást, és visszatért haza",
+  "MSG_PATIENT_ENDED_CALL": "A beteg befejezte a hívást",
+  "MSG_PATIENT_WAITING_CALL": "A páciens lekapcsolódott, és újra csatlakozott",
+  "MSG_POST_CALL_CANCEL": "A videókártya megkezdése előtt befejezte a látogatást!",
+  "MSG_POST_CALL_DOCTOR": "Összegzés elküldve, hazafelé.",
+  "MSG_POST_CALL_PATIENT": "Köszönjük a SaluberMD használatát. A következő e-mailt kapja. A látogatással és az orvos utasításával kapcsolatos részletek megtekintéséhez látogasson el a Saját profilom - Látogatási előzmények oldalra.",
+  "msg_reconnection_error": "Az eszköz leválasztva. Csatlakoztassa újra a készüléket",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Köszönöm ... valaki felveszi Önnel a kapcsolatot",
+  "MSG_REGISTRATION_SUCCESS": "Sikeres regisztráció",
+  "msg_req_videocall1": "elérhető a videohíváshoz:",
+  "msg_req_videocall2": "A videocall készen áll a kezdésre. A videocall aktiválásához kattintson az értesítésre",
+  "msg_req_videocall3": "most elérhető a videohíváshoz. A videocall aktiválásához kattintson az értesítésre",
+  "MSG_RESET_REQUEST_ERROR": "A felhasználónév e-mail címmel nem létezik.",
+  "MSG_RESET_REQUEST_SUCCESS": "Hamarosan kap egy e-mailt, amely linket tartalmaz a jelszó visszaállításához.",
+  "MSG_RESUME_CALL": "Van egy futó hívás, szeretné folytatni?",
+  "MSG_SCHOOL_MISSING": "Helyezze be az iskolát",
+  "MSG_SELECT_TIMEZONE": "Válasszon ki egy időzónát",
+  "MSG_SIGNATURE_MISSING": "Kérjük töltse ki az aláírását, különben nem küldhet el receptet.",
+  "MSG_THANKING": "Köszönjük a benyújtását.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Megszakadt a kapcsolat. Ez az internetkapcsolatnak köszönhető",
+  "MSG_WELCOME_BACK": "Üdv újra",
+  "MSG_YEAR_PRACTISE": "Helyezze be a gyakorlat évét",
+  "muscles": "Az izmok",
+  "myappointment": "Az én találkozóm",
+  "MYFILE_NOFILE": "Még nincs fájlod",
+  "MYFILE_SECTION": "A fájlokat",
+  "MYFILE_SUBTITLE": "Kattintson az egyes elemekre a fájl tartalmának megtekintéséhez",
+  "MYFILE_TITLE": "A fájljaim",
+  "myprofile": "A profilom",
+  "myreminders": "Emlékeztetőim",
+  "MY_TICKETS": "Jegyek",
+  "M_SCHOOL": "Orvosi iskola",
+  "N": "Nem",
+  "name": "Név",
+  "negative": "Negatív",
+  "nervous": "Ideges",
+  "nessun_appuntamento": "Nincsenek múltbeli találkozók",
+  "NETWORK_CHECK_MSG": "A sávszélessége túl alacsony. Az alacsony sávszélességű tartalom lejátszása miatt a videó szünetel.",
+  "NETWORK_CHECK_TITLE": "Hívásminőség teszt",
+  "NETWORK_ERROR": "Internet csatlakozási hiba. Próbáld újra később",
+  "neutral": "Semleges",
+  "newappointment": "Új kinevezés",
+  "newass": "Új társítás hozzáadása",
+  "NEWPWD_CONFIRM": "Jelszó sikeresen megváltoztatva. Kérjük, jelentkezzen be újra.",
+  "NEWPWD_CONFIRM2": "A jelszó sikeresen megváltozott",
+  "NEWPWD_ERROR": "Új jelszó nem egyezik.",
+  "newtest": "Nyomja meg a plusz gombot új teszt elvégzéséhez.",
+  "NEW_PWD": "Új jelszó",
+  "new_ticket": "Új jegy",
+  "NEXT": "Következő",
+  "no": "Nem",
+  "noAlarm": "Nincs riasztás beállítva",
+  "noallergies": "Jelenleg nincsenek allergiák",
+  "noapatient": "Nem találtak betegeket",
+  "noappointment": "Nincs menetrend kijelölése",
+  "noappointments": "Nincs elérhető időpont az orvosnál",
+  "noappointments1": "A táplálkozási szakértőnek nincs elérhető dátuma",
+  "noAppoPat": "Nincsenek kinevezések listájára",
+  "noarticles": "Nincs táplálkozási cikk",
+  "noassociatedpatient": "Még nincs beteg társítva",
+  "noattachment": "Kérjük, válasszon egy mellékletet",
+  "noattachment1": "Nincs csatolmány",
+  "noavailableoption": "Nincs lehetőség",
+  "nocomment": "Nincs hozzászólás / javaslat",
+  "noconsulenze": "Nincs látogatás",
+  "nocorxfound": "Nincs CORX találat",
+  "nodata": "Nincs adat",
+  "nodependency": "Jelenleg nincsenek függőségek",
+  "nodesease": "Jelenleg nincsenek megbetegedések",
+  "nodevice": "Nincs találat a készülékre, próbáld újra",
+  "nodoctor": "Nincs orvos",
+  "nodoctors": "Nincs orvos",
+  "noDocuments": "Nincsenek feltöltve dokumentumok",
+  "nodrugselected": "Nem választotta ki a kábítószert",
+  "noecg": "EKG nincs felsorolva",
+  "noexam": "Nincs megjelenítendő vizsga",
+  "nofiles": "Nincsenek a beteg által feltöltött fájlok",
+  "noHistory": "Jelenleg nincs konzultáció",
+  "nohsh": "Jelenleg nincs kórházi kezelés",
+  "noimages": "Jelenleg nincs csatolás",
+  "noimmunization": "Jelenleg nincs immunizálás",
+  "nolabtest": "Nincs laboratóriumi vizsgálat",
+  "nomedication": "Jelenleg nincsenek gyógyszerek",
+  "nomisure": "Nincs intézkedés",
+  "nonterminata": "Hívás sikertelen",
+  "nonutritionist": "Nincs Nutritionist",
+  "nonuvoair": "Nem található eszköz",
+  "nopharmacy": "Nincs gyógyszertár",
+  "noprescription": "Jelenleg nincs recept",
+  "noprothesis": "Jelenleg nincs protézis",
+  "noreferrals": "Nincs hivatkozás felsorolásra",
+  "noreminders": "Most nincs emlékeztető",
+  "noresults": "Nincs találat",
+  "normale": "Normál",
+  "normalrange": "Normál tartomány",
+  "normalWeight": "Normál súly",
+  "nosintomi": "Nincs kiválasztva tünet",
+  "nospecialist": "Nincsenek szakemberek",
+  "note": "Megjegyzések",
+  "notests": "Jelenleg nincs szabálytalan vizsgálat",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Kattintson ide, hogy befejezze orvosi fájljának kitöltését",
+  "NOTIFICATIONS_SECTION": "Értesítések",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "1 orvosi fájlt teljes körű kitöltése után kapja meg az ingyenes konzultációs vagy egészségügyi felmérési felhívást.",
+  "NOTIFICATIONS_SETTINGS": "Értesítések beállítása",
+  "NOTIFICATIONS_TITLE": "értesítések",
+  "notification_setting": "Válassza ki, melyik kategóriából szeretne értesítést kapni",
+  "notimage": "A fájl nem kép: csak BMP, GIF, JPG és PNG engedélyezett",
+  "notNow": "Nem most",
+  "notnow_btn": "Nem most",
+  "nouser": "Nem található felhasználó",
+  "novantad": "Az elmúlt 90 nap",
+  "novideocall": "Nem találtak videót",
+  "novisit": "Még nincs pácienslátogatása",
+  "noWellnessData": "Nincs új wellness adat",
+  "no_certificate": "Nincs felsorolandó igazolás",
+  "no_chiosc_data": "Nincs laboratóriumi vizsgálat",
+  "NO_DATA": "Nincs adat",
+  "no_doctor_answer1": "Jelenleg nincsenek orvosok.",
+  "no_doctor_answer2": "A találkozót az alábbi gombra kattintva teheti meg.",
+  "NO_GENETIC_TEST_REQUESTS": "Nem kért genetikai tesztet",
+  "NO_MSG": "Nincs elküldött üzenet",
+  "no_notifications": "Nincs értesítése",
+  "no_prescription_download": "A konzultációra nincs recept",
+  "no_pull_answer": "Jelenleg nincs orvos.",
+  "no_referral_download": "Ehhez a látogatáshoz nincs hivatkozás",
+  "NO_SECOND_OP_REQUESTS": "Nem kérik a második véleményszolgáltatást",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Nem találtak szakirányt",
+  "NO_TICKETS_SENT": "Nem küldtek jegyet",
+  "NO_USER_FOUND": "A felhasználónév vagy az e-mail nem található",
+  "NPI": "NPI",
+  "ns": "Idegrendszer",
+  "numberNotSaved": "Hiba történt a szám mentése közben",
+  "numberSaved": "Sikeresen mentett szám",
+  "nuovoair_connected": "csatlakoztatva",
+  "nuovoair_disconnected": "Szétkapcsolt",
+  "nutriPen": "Elbírálásra váró kérelem",
+  "nutriRev": "Felülvizsgált kérdőív",
+  "nutrition": "táplálás",
+  "nutritionist": "Beszéljen egy táplálkozási szakemberrel",
+  "NUTRITIONIST_Q1": "Elsődleges célok: (jelölje be az összes alkalmazást)",
+  "NUTRITIONIST_Q10": "Figyelmesen ingerlékeny, fényes vagy gyenge, ha nem eszik?",
+  "NUTRITIONIST_Q11": "Aktuális edzésprogram: (Cardio, Resistance, stb.)",
+  "NUTRITIONIST_Q12": "Füst ?: (Ha igen, milyen gyakran és hány?)",
+  "NUTRITIONIST_Q13": "Alkoholt iszik ?: (Ha igen, milyen gyakran és hány?)",
+  "NUTRITIONIST_Q14": "Koffeint inni ?: (Ha igen, milyen gyakran és hány?)",
+  "NUTRITIONIST_Q15": "Az utolsó fizikai dátum:",
+  "NUTRITIONIST_Q16": "Hányszor kaptak antibiotikumot az elmúlt 2 évben:",
+  "NUTRITIONIST_Q16_BIS": "Ha igen, milyen és milyen gyakran, (Kérjük, a lehető legpontosabb legyen.)",
+  "NUTRITIONIST_Q17": "Gyógyszert szed? (OTC vagy vényköteles?) Ha igen, milyen és milyen kiegészítőket szed? Ha igen, milyen gyakran, (Kérjük, a lehető legpontosabb legyen.)",
+  "NUTRITIONIST_Q18": "Egy héten több mint 1-2 napig dagadt vagy székrekedett?",
+  "NUTRITIONIST_Q19": "Van problémája a következő területeken? Ha igen, kérjük, részletezze a problémáit a rendelkezésre álló terekben.",
+  "NUTRITIONIST_Q2": "Körülbelül hány ételt fogyaszt egy nap? (Válasszon)",
+  "NUTRITIONIST_Q3": "Mit tartalmaz a tipikus reggeli, és mikor:",
+  "NUTRITIONIST_Q4": "Mit tartalmaz az Ön tipikus ebédje és mikor:",
+  "NUTRITIONIST_Q5": "Mit tartalmaz a tipikus vacsora és mikor:",
+  "NUTRITIONIST_Q6": "Mi a tipikus snackjei és milyen idő (i):",
+  "NUTRITIONIST_Q7": "Túlélsz?",
+  "NUTRITIONIST_Q8": "Milyen ételeket fogyasztanak, és milyen gyakran:",
+  "NUTRITIONIST_Q9": "Élelmiszerallergiája, korlátozása vagy érzékenysége van:",
+  "NUTRITIONIST_SUB1": "Fogyás",
+  "NUTRITIONIST_SUB10": "Hányinger / hányás",
+  "NUTRITIONIST_SUB11": "Gyomorfájdalom",
+  "NUTRITIONIST_SUB2": "Hízás",
+  "NUTRITIONIST_SUB3": "Energia / fáradtság",
+  "NUTRITIONIST_SUB4": "Jobb alvás",
+  "NUTRITIONIST_SUB5": "Emésztési problémák",
+  "NUTRITIONIST_SUB6": "Székrekedés",
+  "NUTRITIONIST_SUB7": "Hasmenés",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Puffadás / gáz",
+  "nutrition_mail": "Hozzá van hozzárendelve a táplálkozási jelentés",
+  "nutrition_mail2": "A táplálkozási tanácsadó küld egy fájlt",
+  "nutrition_questionnaire": "táplálkozási kérdőív",
+  "nvisit": "Videohívások száma",
+  "obesity1": "Elhízott",
+  "obesity2": "Súlyosan elhízott",
+  "obesity3": "Kórosan elhízott",
+  "OFFICE_ADDRESS": "Irodai cím",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Úgy tűnik, hogy az orvos nem elérhető, kérjük, próbálja újra később",
+  "OLDPWD_ERROR": "Új jelszó megegyezik a régi jelszóval.",
+  "OLD_PASSWORD_WRONG": "A régi jelszó hibás",
+  "OLD_PWD": "Régi jelszó",
+  "oneDay": "Egy nap",
+  "one_min": "1 perc múlva",
+  "online": "Online",
+  "onlinedoctors": "Online orvosok",
+  "openimage": "Kattints a képre a teljes képernyős megjelenítéshez",
+  "open_ticket": "Nyisson meg egy jegyet",
+  "orale": "Mouth által",
+  "other": "Más",
+  "othercbc": "Egyéb CBC vizsgák",
+  "OTHER_PLACEHOLDER": "Kérjük, adja meg a szakterületét",
+  "otoscopy": "otoszkópiás",
+  "otp_sent_msg": "Küldtünk egy ellenőrző kódot a telefonszámára",
+  "OUR_PRODUCTS_SECTION": "Eszközeink valós idejű egészségügyi és wellness adatokat nyújtanak, amelyek segítenek nyomon követni egészségét.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Mérje meg a tüdő egészségét másodpercek alatt egy professzionális spirométerrel",
+  "OUR_PRODUCTS_SECTION_P1": "Intelligens, hordozható technológia, amely a wellness funkciók mellett valós idejű egészségügyi adatokat nyújt",
+  "OUR_PRODUCTS_SECTION_P2": "Fitness / Wellness előnyök",
+  "OUR_PRODUCTS_SECTION_P3": "Otthon alapú diagnosztikai készlet az egész család számára.",
+  "OUR_PRODUCTS_SECTION_P4": "Jellemzők",
+  "OUR_PRODUCTS_SECTION_P5": "Mindkét eszközt arra tervezték, hogy kölcsönhatásba lépjen az alkalmazással, hogy jól lekerekített egészségügyi élményt nyújtson. Az eredményeket közvetlenül az alkalmazásban tárolja.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Mérje meg másodpercenkénti pulzáló nyomását egy profi vérnyomásmérővel",
+  "OUR_PRODUCTS_SECTION_SCALX": "Mérje meg súlyát másodpercek alatt professzionális skálán",
+  "OUR_PRODUCTS_TITLE": "Termékeink",
+  "overeatFoods": "Élelmiszer, ami túlzott",
+  "overeating": "Overeating tendencia",
+  "overweight": "Túlsúly",
+  "pa": "Vényköteles asszisztens",
+  "PASSWORD": "Jelszó",
+  "passwordchanged": "Jelszó sikeresen megváltoztatva!",
+  "passwordExpiringMessage": "A jelszó hamarosan lejár. Kérjük, változtassa meg most",
+  "passwordExpiringTitle": "A jelszó lejár",
+  "PATIENT": "Beteg",
+  "patientAllergy": "Allergia",
+  "patientGeneticRequests": "Genetikai teszt kérések",
+  "patientinfo": "A beteg információi",
+  "patientlist": "A betegek listája",
+  "patientmanagement": "A betegek kezelése",
+  "patientProtesi": "Protézis",
+  "PATIENTS_NO_P": "Jelenleg nincsenek megbeszélések a betegen",
+  "PATIENTS_SECTION": "A kinevezések",
+  "PATIENTS_SECTION_SUBTITLE": "Kattintson az egyes elemekre a teljes részlet megtekintéséhez",
+  "PATIENTS_TITLE": "Betegek",
+  "patientupdate": "Beteg",
+  "patientvisit": "Beteglátogatás története",
+  "PATIENT_PROFILE_OPT1": "A profilom",
+  "PATIENT_PROFILE_OPT11": "Kedvenc orvosaim",
+  "PATIENT_PROFILE_OPT12": "Adja hozzá a kedvenc gyógyszertárat",
+  "PATIENT_PROFILE_OPT2": "Az orvosi fájlt",
+  "PATIENT_PROFILE_OPT3": "A látogatásom története",
+  "PATIENT_PROFILE_OPT4": "A kedvenceim",
+  "PATIENT_PROFILE_OPT5": "A fájljaim",
+  "PATIENT_PROFILE_OPT6": "Értesítések",
+  "PATIENT_PROFILE_OPT7": "EKG feltöltés",
+  "PATIENT_PROFILE_OPT8": "Orvosi eszközadatok",
+  "PATIENT_PROFILE_OPT9": "Kedvencek gyógyszertárai",
+  "PATIENT_S1": "Beteg",
+  "PATIENT_S2": "Beszélni valamiről",
+  "PATIENT_S3": "A beteg adatai",
+  "PATIENT_S4": "Látogatás tárgya",
+  "PATIENT_S5": "betegségek",
+  "PATIENT_S6": "Allergia",
+  "PATIENT_S7": "Gyógyszerek",
+  "PATIENT_S8": "Csatolt dokumentumok",
+  "PATIENT_S9": "Tünetek?",
+  "PATIENT_SUMMARY": "A beteginformáció összefoglalása",
+  "patologia": "Patológia",
+  "payment": "Fizetés",
+  "PAYMENT_DETAILS": "Fizetési részletek",
+  "PAYMENT_MESSAGE_1": "Előzetes engedélyt kapsz egy összegben",
+  "PAYMENT_MESSAGE_2": "A videocall végén kerül felszámolásra",
+  "PAYMENT_SECTION1": "Válasszon ki egy kártyát a listából",
+  "PAYMENT_SECTION2": "Helyezze be a hitelkártya értékét",
+  "PAYMENT_SUCCESS": "Fizetés sikeres!",
+  "PAYMENT_SUCCESSFUL": "Sikeresen engedélyeztük a kifizetést",
+  "PAYMENT_UNSUCCESSFUL": "A fizetési engedélyek előtti engedélyezés sikertelen. Ellenőrizze a hitelkártya adatait, vagy kérdezze meg bankját.",
+  "paziente_rimosso": "A beteg állapota sikeresen megváltozott",
+  "paziente_salvato": "A beteg sikeresen frissült",
+  "pdf_download_error": "Nem lehet letölteni a pdf-t. Kérlek, próbáld újra később",
+  "pdf_file_error": "Csak pdf fájlokat fogadunk el",
+  "period": "Időszak",
+  "PERIODIC_HEART_RATE": "Periódusos pulzusszám",
+  "personal": "Személyes",
+  "personalCare": "Testápolási",
+  "personalinfo": "Személyes adat",
+  "PER_MIN": "/ perc",
+  "pharmacies": "gyógyszertárak",
+  "PHONE": "Telefonszám",
+  "phone1": "Telefon",
+  "pills": "Pills",
+  "PILLS_DATE_ERROR": "A kezdő dátum a befejezés dátuma után",
+  "pill_reminder_message": "Itt az ideje, hogy bevegye a tablettákat",
+  "placeholder": "Felhasználónevét, e-mail címét vagy nevét",
+  "placeOfBirth": "Születési hely",
+  "place_birth": "Születési hely",
+  "platform": "Emelvény",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Házirend száma",
+  "positive": "Pozitív",
+  "POSTCALL_DOCTOR_TITLE": "A látogatás összefoglalása",
+  "POSTCALL_PATIENT_TITLE": "Értékeld az élményedet",
+  "POUNDS": "font",
+  "PRACTICE_LENGTH": "Hossz a gyakorlatban",
+  "prenota": "Foglald le most",
+  "prenotatest": "Kérjen időpontot",
+  "preobesity": "Pre-elhízás",
+  "prescription": "Recept",
+  "prescriptiondiscounts": "Vényköteles kedvezmények",
+  "PRESCRIPTIONS": "előírások",
+  "prescriptions_sent": "Elküldött receptek",
+  "prescription_mail": "Csatolva van a receptje",
+  "prescription_mail2": "Köszönjük a SaluberMD használatát",
+  "prescription_notification": "Tisztelt felhasználó! Tájékoztatjuk, hogy az Ön receptje az alkalmazás idővonal / konferencia előzményei részében elérhető",
+  "prescription_pharmacy": "Válasszon egy gyógyszertárt, hogy elküldje a receptet",
+  "prescription_preview": "Vényköteles előnézet",
+  "prescription_sent": "Vényköteles küldött",
+  "PRESCRIPTION_SENT_EMAIL": "A receptet elküldtük az Ön e-mail címére ...",
+  "prescription_subject": "A vényköteles",
+  "pressbutton": "Nyomja meg a pár gombot a készüléken, és érintsük meg a Find Device elemet",
+  "pressbuttonpresx": "Nyomja meg és tartsa lenyomva a páros gombot a készülék hátoldalán, hogy elindítsa a kapcsolatot, majd érintse meg a gombot az eszköz eszköz keresése",
+  "pressbuttonscalx": "Nyomja meg és tartsa lenyomva a páros gombot a készülék hátoldalán, hogy elindítsa a kapcsolatot, majd érintse meg a gombot az eszköz eszköz keresése",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Vérnyomás",
+  "PRESX_PROD": "PRESX",
+  "previous": "Előző",
+  "pre_period": "Vényköteles időszak",
+  "price": "Ár",
+  "price_per_visit": "Díj látogatásonként",
+  "PRICING_SECTION1_P1": "A SaluberMD elkötelezte magát amellett, hogy megfizethető áron nyújt kényelmes, minőségi ellátásokat rejtett díjak és díjak nélkül.",
+  "PRICING_SECTION1_P2": "A SaluberMD gondoskodik az ellátásról bárhol és bármikor, amire szüksége van egy videofelvételen keresztül, melyet egy fedélzeti igazolt orvos végez. Orvosaink a videohívás során megbeszélhetik, megvizsgálhatják és hallgathatják problémáikat, vagy orvosi kérdésekkel és aggodalmakkal foglalkozhatnak.",
+  "PRICING_SECTION1_P3": "Az exkluzív Medicfile segítségével orvosával hozzáférhet a kórelőzményéhez, a képekhez és a fájlokhoz, hogy segítsen nekik a leghatékonyabb kezelési terv elkészítésében.",
+  "PRICING_SECTION1_TITLE": "Látogatásonként",
+  "PRICING_TITLE": "Árazás",
+  "primaryConcern": "Elsődleges aggályok",
+  "primaryMood": "Elsődleges hangulat",
+  "print": "Nyomtatás",
+  "priority": "Kiemelten fontos",
+  "PRIVACY_POLICY_TITLE": "Adatvédelmi irányelvek",
+  "problems": "problémák",
+  "PROCEED_PAYMENT": "Folytassa a fizetést",
+  "PROFESSIONAL_TITLE": "Professzionális cím",
+  "PROFILE_SECTION2": "Elérhetőség",
+  "protesi": "Prosthesis és Orvosi segédeszközök",
+  "protesiobbligatorio": "Válassza ki a protézis típusát",
+  "prov": "minta",
+  "publicAppUrl": "A nyilvános találkozó URL-je:",
+  "pulldown": "Húzza le a frissítéshez",
+  "pull_request_processed": "Köszönjük, elküldtük a rendelkezésre állását a betegnek",
+  "PWD_NOTMATCH": "A jelszavak nem egyeznek",
+  "P_P_Error": "El kell fogadnia az adatvédelmi irányelveket",
+  "QUALITY_INDEX": "Minőség",
+  "QUALITY_INDEX_DESCRIPTION": "A fizikai alkalmasság a rugalmasság és a mentális stressz szintje, amely a helyzet adaptálására és kezelésére alkalmas. A fizikai fitnesz index tükrözi az emberi testet, hogy alkalmazkodjon a környezeti változásokhoz és a stressz-stimuláláshoz, fenntartja és visszaállítsa az egészségügyi képességet. A fizikai alkalmasság gyakran az emberek életében, a tanulásban és a munkaban rejlő lehetőségekben, de természetesen a testmozgásban is megnyilvánul. Az egyén fizikai minősége az öröklődéshez kapcsolódik, de szorosabban kapcsolódik a megszerzett táplálkozáshoz és a testmozgáshoz. A helyes módszerek és a helyes testmozgás révén minden szempontból javíthatja fizikai alkalmasságát.",
+  "quantity": "Mennyiség",
+  "quesito": "Vonatkozik",
+  "QUESTIONS_SECTION_TITLE": "1 orvosi fájlt teljes körű kitöltése után kapja meg az ingyenes konzultációs vagy egészségügyi felmérési felhívást.",
+  "QUESTIONS_TITLE": "Kérdések",
+  "quindici": "Utolsó 15 mérés",
+  "ratio": "Hányados",
+  "reccomendation": "reccomendation",
+  "reccomendations": "ajánlások",
+  "recommendation": "ajánlások",
+  "RECOMMENDATIONS": "ajánlások",
+  "RECOMMEND_SECTION_P1": "A SaluberMD-ben arra törekszünk, hogy megfeleljen a minőségi egészségügyi ellátás iránti igénynek világszerte, mivel ügyfeleink számára hozzáférést biztosítunk egy jól körülhatárolt orvoscsoporthoz.",
+  "RECOMMEND_SECTION_P2": "Mindig keresünk minőségi orvosokat a csodálatos csapatunkhoz. Csapatunk tagjaként tiszteletben tartjuk és értékeljük az átirányításokat.",
+  "RECOMMEND_SECTION_P3": "Kérjük, töltse ki az alábbi űrlapot, hogy orvoshoz forduljon a SaluberMD-hez",
+  "RECOMMEND_SECTION_TITLE": "Ajánlj egy kollégát",
+  "RECOMMEND_TITLE": "ajánl",
+  "record_aggiornato": "A felvétel sikeresen frissült",
+  "record_aggiunto": "A felvétel sikeresen hozzáadva",
+  "record_inserito": "Sikeresen hozzá",
+  "record_rimosso": "A felvétel sikeresen törölve",
+  "REFERRAL": "referral",
+  "REFERRALS": "Ajánlók",
+  "referrals_sent": "Küldött ajánlók",
+  "referral_mail": "Csatolva van a hivatkozás.",
+  "referral_sent": "A referral elküldve",
+  "refundrequestsent": "Az Ön kérését elküldtük",
+  "register": "Regisztráció",
+  "register_report": "Felhasználói regisztráció",
+  "registration_date": "Regisztráció dátuma",
+  "REGISTRATION_HEADER_DOCTOR": "Csatlakozzon a Saluber MD csapathoz",
+  "REGISTRATION_HEADER_PATIENT": "Kérjük, töltse ki a mezőket és nyomja meg a regisztrálást",
+  "releaserefresh": "Engedje fel a frissítést",
+  "remarks": "Megjegyzések",
+  "removedevice": "Szeretné eltávolítani ezt az eszközt?",
+  "removefavorite": "Eltávolítás a kedvencekből?",
+  "remove_generic": "Szeretné eltávolítani?",
+  "renalFunction": "Veseműködés",
+  "reoccurring": "reoccurring",
+  "repeat_email": "e-mail megerősítés",
+  "report": "Személyes klinikai fájl: Teljes adatjelentés",
+  "report1": "Személyes klinikai fájl:",
+  "report2": "Jelentés",
+  "reportvisite": "Videocsájtok jelentése",
+  "report_date": "Jelentés dátuma",
+  "requestdate": "Igénylés dátuma",
+  "request_already_taken": "Ezt a kérést már egy másik orvos vette át.",
+  "REQUEST_ERROR": "Hiba történt a kérések feldolgozása közben. Ellenőrizze az internetkapcsolatot, vagy próbálkozzon később.",
+  "request_sent": "A requesst sikeresen elküldte a backoffice-ba",
+  "required": "Ez a mező kötelező.",
+  "required_field": "Szükséges",
+  "RESEND_EMAIL": "Visszaigazolási kód elküldése",
+  "resetCorxFactory": "Biztosan vissza szeretné állítani a Corx-et?",
+  "RESETPWD_BTN": "Jelszó visszaállítása",
+  "RESET_PASSWORD": "Helyezzen be e-mailt vagy felhasználónevet a Regisztráció során",
+  "respiratory": "légző",
+  "RESPIRATORY_RATE": "Légzésszám",
+  "RESTORE_FACTORY_SETTINGS": "Állítsa vissza a gyári beállításokat",
+  "resultfound": "feljegyzés található",
+  "results": "Eredmények",
+  "ricettario": "Ország",
+  "richiediDrug": "Kérjen gyógyszert",
+  "richiestaAppuntamento": "Kinevezési kérelem",
+  "richiestaRimborso": "Visszafizetési kérelem",
+  "ricovero": "Kórházi ápolás",
+  "riepilogo": "összefoglalás",
+  "rightHanded": "Jobbkezes",
+  "rimborso": "Visszatérítés",
+  "ripetibile": "Ismétlődő (idők)",
+  "rr_desc": "A légzési sebesség az a sebesség, amellyel a légzés előfordul. A normál légzési ráta egy felnőtt pihenése esetén 12-20 perc percenként. A légzés mértéke 12 vagy több mint 25 lélegzet / perc, míg a pihenés alatt rendellenes",
+  "rs": "Légzőrendszer",
+  "RUNNING_CALL_OPT1": "Folytatás",
+  "RUNNING_CALL_OPT2": "Hívás befejezése",
+  "RUNNING_CALL_TITLE": "Hívás indítása",
+  "sa": "Erős hitelesítés",
+  "sadness": "Szomorúság",
+  "sai": "Tevékenységi index",
+  "sai_desc": "Az SAI kizárólag a pulzusszámán alapul. Ez egy egyszerű metrika, amely nyomon követi a szervezet fizikai aktivitására adott válaszát - sokkal többet, mint csupán lépéseket. Ellentétben a lépéskövetéssel, az SCI hitelesíti a szívfrekvenciát növelő minden tevékenységet: úszás, kerékpározás, evezés, tánc, bármi. A jobb és egészségesebb élet érdekében tartsuk 30 alatt.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD beteg",
+  "SATURDAY": "szombat",
+  "savedinfo": "Információ sikeresen mentve",
+  "SAVE_BTN": "Mentés",
+  "SAVE_MESSAGE": "Ha elhagyja, a módosítások elvesznek",
+  "sbpi": "Vérnyomás index",
+  "sbpi_desc": "A magas vérnyomás a csendes gyilkos. A szisztolés és a diasztolés vérnyomás értékeit az Ön által végzett bármely orvosi szekció során becsüljük. Az SBPI-t 30 ° C alatt tartsuk alacsonyabb eséllyel az életveszélyes állapotok, mint például a stroke és a vérrögök.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Súly",
+  "SCALX_PROD": "SCALX",
+  "scan": "Letapogatás",
+  "scanningcorx": "CORX keresése ... Kérem várjon",
+  "schedule": "Menetrend",
+  "scheduleAnAppointment": "Találkozó ütemezése",
+  "scheduleappointment": "Ütemezze le a videocallát orvosával",
+  "schtime": "Menetrendszeri idő",
+  "sci": "Szív- és érrendszeri index",
+  "sci_desc": "Az artériás pulzushullám elemzésével betekintést nyerünk a szív- és érrendszerünkbe. Az SCI index az Ön szív- és érrendszeri egészségének összefoglalója, próbáld meg 20-nál alacsonyabb szinten tartani!",
+  "sci_title": "SCI",
+  "SEARCH": "Keresés",
+  "searchallergy": "Keresés allergia",
+  "searchdoctor": "Orvoskeresés",
+  "searchfordoctor": "Keressen orvos nevét vagy vezetéknevét",
+  "searchingdevice": "Keresés eszköz. Ez eltarthat egy ideig",
+  "searching_avail_date": "A rendelkezésre álló dátum keresése ...",
+  "searching_online_doctors": "Online orvosok keresése folyamatban ...",
+  "searchmedication": "Gyógyszerek keresése",
+  "searchpatient": "Keresés a betegre",
+  "searchpatologia": "Keressen orvosi állapotot",
+  "searchsymptom": "Keresés tünete",
+  "searchuser": "Felhasználó keresése",
+  "search_doctor_description": "Keressen orvoshoz felhasználónevet, e-mailt vagy nevet",
+  "search_patient_description": "Keresse meg a beteg nevét, e-mail címét vagy nevét",
+  "search_specialization": "Keresés specializáció",
+  "search_user_description": "Felhasználónév, e-mail cím vagy vezetéknév keresése",
+  "search_videocall_description": "A kezdeményezők által kezdeményezett videókártya keresése",
+  "search_videocall_title": "A Serach Videocall dátum szerint",
+  "secondaryMood": "Mood másodlagos",
+  "secondOpinion": "Második véleménykérések",
+  "seconds": "másodperc",
+  "second_opinion_1": "Kényelmes, megbízható hozzáférést biztosít a vezető szakemberek orvosi második véleményéhez világszerte.",
+  "second_opinion_2": "Orvosi második véleményünk szolgáltatása segíthet Önnek:",
+  "second_opinion_3": "Kérdéseire válaszoljon",
+  "second_opinion_4": "Válassza ki a legjobb kezelési tervet",
+  "second_opinion_5": "Biztosítsa a helyes diagnózist",
+  "second_opinion_body": "Kedves felhasználó, <br> a második opciós igényét az Ön által elküldött dokumentumokat áttekintő szakembereink vették át.",
+  "second_opinion_history": "Második véleménykérések",
+  "second_opinion_msg": "Köszönöm. Egészségügyi képviselőnk az elkövetkező 24 órában eléri Önt.",
+  "SECOND_OPINION_Q1": "Mit akarsz beszélni a táplálkozási szakemberrel?",
+  "second_opinion_question1": "Ki a második vélemény?",
+  "second_opinion_question2": "Feltölteni egy fájlt",
+  "second_opinion_step1": "Töltse ki a rövid kérdőívet / Töltse fel a fájlokat",
+  "second_opinion_step2": "Orvosaink értékelik az Ön anyagait",
+  "second_opinion_step3": "Orvos konzultáció az eredmények megvitatására",
+  "secOpChoice": "Válassza ki, hogy miként szeretné megkapni a második véleményét",
+  "section": "Kérjük, válasszon ki egy részt",
+  "security": "Biztonság",
+  "seeaprovider": "Lásd a szolgáltatót",
+  "seecommenti": "Megjegyzések megtekintése",
+  "seedoctor": "Most nézze meg az orvost",
+  "SEE_A_DOCTOR_Q1": "Videohívás van számomra vagy valaki másért?",
+  "SEE_A_DOCTOR_Q10": "Elküldhetjük a vényköteles ajánlatot a választott gyógyszertárnak",
+  "SEE_A_DOCTOR_Q1B": "A gyermeke neve és születési dátuma?",
+  "SEE_A_DOCTOR_Q1_A1": "Nekem",
+  "SEE_A_DOCTOR_Q1_A2": "Gyermekem",
+  "SEE_A_DOCTOR_Q2": "Kérjük, írja le, mit szeretne beszélni az orvossal",
+  "SEE_A_DOCTOR_Q3": "Tünetek?",
+  "SEE_A_DOCTOR_Q4": "Szeretne fényképet vagy dokumentumot csatolni?",
+  "SEE_A_DOCTOR_Q4_ERROR": "HIBA: A fájlok nem haladhatják meg az 5 MB-ot",
+  "SEE_A_DOCTOR_Q4_S1": "Válasszon ki egy fájlt",
+  "SEE_A_DOCTOR_Q4_S2": "Fotózd le",
+  "SEE_A_DOCTOR_Q5": "Ön jelenleg gyógyszert szed, ha igen, kérjük, sorolja fel a nevet",
+  "SEE_A_DOCTOR_Q5_CHILD": "Gyereke gyógyszert szed-e jelenleg? ha igen, kérjük, adja meg a nevet",
+  "SEE_A_DOCTOR_Q5_S1": "Név:",
+  "SEE_A_DOCTOR_Q5_S2": "Adagolás:",
+  "SEE_A_DOCTOR_Q6": "Allergiás vagy valamire?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Van-e gyermekének allergiája? ha igen, kérjük, adja meg a nevet",
+  "SEE_A_DOCTOR_Q7": "Van-e bármilyen egészségügyi állapotod?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Van-e gyermekének valamilyen egészségügyi állapota? ha igen, kérjük, adja meg a nevet",
+  "SEE_A_DOCTOR_Q8": "Engedélyezi az orvos számára, hogy megtekinthesse online orvosi fájlját?",
+  "SEE_A_DOCTOR_Q9": "Előnyös gyógyszertár",
+  "SEE_A_DOCTOR_TITLE": "Elmenni orvoshoz",
+  "SEE_A_PROVIDER": "Lásd a szolgáltatót",
+  "segment": "szegmens",
+  "selectAFile": "Koppintson az alábbi gombra a fájl kiválasztásához",
+  "selectaprovider": "Válasszon szolgáltatót",
+  "selectcarderror": "Kérjük, válasszon ki egy kártyát",
+  "selectdoctor": "Kezelje a",
+  "selectdoctor1": "Válassza ki az orvost",
+  "selectdrug": "Válasszon gyógyszereket",
+  "selectedContact": "Kapcsolattartási eszközök",
+  "selectinitiative": "Válasszon egyet vagy több kezdeményezést ...",
+  "selectnutritionist": "Válassza ki a saját táplálkozási szakértőjét",
+  "selectpatient": "selectpatient",
+  "select_country": "Kérjük, válasszon ki egy országot",
+  "select_device": "Válasszon egy eszközt",
+  "select_file": "Válaszd ki a fájlt",
+  "select_file_btn": "Válassza ki a fájlt",
+  "select_patient": "A részletek megtekintéséhez kattintson egy sorra",
+  "send": "Elküld",
+  "sendmessage": "Üzenetet küldeni",
+  "sendtoken": "Küldje el ezt az orvosnak, hogy hozzáférjen az orvosi fájljához. Ez a link 10 perc múlva lejár",
+  "SEND_BTN": "Elküld",
+  "send_doctor_request": "Kérés küldése",
+  "sentmessage": "Elküldött üzenetek",
+  "SERVICE_TYPE": "A szolgáltatás típusa",
+  "sessantad": "Az elmúlt 60 nap",
+  "SESSION_EXPIRED": "A munkamenet lejárt. Kérjük, jelentkezzen be újra",
+  "setAlarm": "Állítsa be a riasztásokat",
+  "settd": "Az elmúlt 7 nap",
+  "settings_saved": "A beállítások sikeresen elmentve",
+  "setTreshold": "Állítsa be a tartományt",
+  "SET_BTN": "Készlet",
+  "SET_USER_EMAIL": "Kérjük, adja meg a felhasználónevet vagy az e-mailt",
+  "set_vital_signs": "Állítsa be a létfontosságú jeleket",
+  "sevendays": "7 nap",
+  "showalldata": "Az összes adat megjelenítése",
+  "showOnEmergency": "Show On Emergency",
+  "signature": "Az Ön aláírása (receptre felhasznált)",
+  "signature_word": "Aláírás",
+  "SIGNUP_BTN": "Regisztrálj",
+  "sii": "Biztosítási index",
+  "sii_desc": "Az SII az összes SaluberMD index kombinációja, és az általános egészségügyi kockázatot tükrözi. Ha 30 alatti vagy a biztonságos zónában!",
+  "sii_title": "NÖVEKEDÉS",
+  "since": "Mivel",
+  "single": "Egyetlen nap",
+  "singleAccess": "Egyetlen hozzáférés",
+  "sitreminder": "Ülő emlékeztető",
+  "sit_period": "Időszak",
+  "skip": "Skip",
+  "skip_pull": "Figyelmen kívül hagyni",
+  "skip_step": "Skip",
+  "sl": "Stresszszint",
+  "SLEEP": "Alvás",
+  "slotime": "Slot időtartama (perc)",
+  "sl_alta": "85 bpm-nél nagyobb",
+  "sl_bassa": "65 - nél kisebb",
+  "sl_desc": "A stressz szintjét a percenkénti ütem alapján számítjuk ki",
+  "sl_normale": "65 és 85 bpm között",
+  "smoker": "Dohányos",
+  "snacks": "Snack",
+  "SOMETIMES": "Néha",
+  "SONNO": "Alvás",
+  "SOP_Q4": "Csatlakoztassa az orvosi jelentését",
+  "sos": "SOS",
+  "so_specialization": "Különlegesség",
+  "specialists": "Szakemberek",
+  "specialization": "Válassza ki a specialitást",
+  "SPECIALTY": "Különlegesség",
+  "specifyother": "Kérjük, adjon meg másikat",
+  "specifyvalue": "Kérjük, adjon meg egy értéket",
+  "spirometer": "spirometria",
+  "spo2_desc": "A SpO2 vagy a vér oxigénszintje azt mutatja, hogy mennyi oxigént hordoz a vörösvértestek. A normál értékek 95% és 100% között vannak, A normális vér oxigénszintje hipoxémiára utal",
+  "sri": "Légzőszervi index",
+  "sri_desc": "Elemezzük a légzési mintáinkat bármilyen orvosi szekcióban és alvás közben. Ha az SRI kevesebb, mint 30, az esélye az obstruktív légúti megbetegedések szenvedésére alacsony.",
+  "sri_title": "SRI",
+  "ssi": "Stresszindex",
+  "ssi_desc": "A szívfrekvencia változékonyságának elemzésével számszerűsítjük a stressz szintjét. A stressz rontja vagy növeli az olyan betegségek kockázatát, mint az elhízás, a szívbetegség, az Alzheimer-kór, a cukorbetegség, a depresszió, a gyomor-bélrendszeri problémák és az asztma. Tartsa a 20 alatt, hogy a biztonságos oldalon legyen!",
+  "ssi_title": "SSI",
+  "start": "Rajt",
+  "startcall": "Indítsa el a hívást",
+  "startdate": "Tól től",
+  "starthour": "Kezdési idő",
+  "startmeasure": "Most elindíthatja a mérést a készülék gombjának megnyomásával",
+  "startnow": "Indítás most",
+  "startRecording": "Nyomja meg a Start gombot hang hang felvételéhez",
+  "startyping": "Kezdje el begépelni a nevet",
+  "start_blowing": "Indítsa el a fújást",
+  "start_test": "Indítási teszt",
+  "start_time": "Kezdési idő",
+  "state": "Állapot",
+  "state1": "Állapot",
+  "STATES_LICENSE": "Államok engedélyezve",
+  "state_problem": "Kérjük, adja meg a problémát",
+  "status": "Állapot",
+  "step": "Lépés",
+  "STEPS_GOAL": "Lépések Cél",
+  "stoolTest": "Széklet teszt",
+  "stop": "Állj meg",
+  "stop_test": "Stop teszt",
+  "stress": "Feszültség",
+  "stroke_vol": "Stroke térfogat",
+  "stroke_volume": "Stroke térfogat",
+  "stroke_volume_desc": "A stroke térfogata az egyes kamrák által dobott vérmennyiség",
+  "struttura": "Szerkezet",
+  "strutture": "struktúrák",
+  "subject": "Tantárgy",
+  "subject_so": "Tantárgy",
+  "submissionDate": "Benyújtás dátuma",
+  "success": "Siker",
+  "SUCCESS_TITLE_NOTIFICATION": "Siker",
+  "SUMMARY": "Diagnózis",
+  "summary1": "összefoglalás",
+  "SUNDAY": "vasárnap",
+  "surgery": "Sebészet",
+  "surgeryAndHospitalization": "Kórházi és sebészeti történelem",
+  "surgeryCategory": "Sebészeti kategória",
+  "surname": "Vezetéknév",
+  "sv_alta": "100-nál nagyobb",
+  "sv_bassa": "55 ml-nél kisebb",
+  "sv_normale": "55 és 100 ml között van",
+  "switchsearch": "Váltson a keresésre",
+  "symptoms": "Tünetek",
+  "SYMPTOMS_BTN": "Tünetek",
+  "sync": "Szinkronizál",
+  "SYNC_TIME": "Szinkronizálási idő",
+  "sysdia": "Nyomás",
+  "systolic": "A szisztolés",
+  "TAKE": "Vesz",
+  "takeAppointment": "Vegyél egy találkozót",
+  "TAKE_APP": "Kinevezés ütemezése",
+  "TAKE_A_PHOTO": "Fotózd le",
+  "tall": "Milyen magas vagy",
+  "tapconnect": "Érintse meg a kapcsolódáshoz",
+  "tapdisconnect": "Érintse meg a bontáshoz",
+  "tap_to_expand": "Koppintson a kibontásra",
+  "telNameMandatory": "Kérjük, adjon meg egy nevet",
+  "telNumberMandatory": "Kérjük, adjon meg egy telefonszámot",
+  "temper": "Kedély",
+  "temperDescription": "Olyan érzelmi intézkedés, amely lefedi a hangszóró teljes hangulatát. Alacsony temperamentum jellemzi a depressziós és komor hangulatot. A közepes hõmérséklet jellemzi a barátságos, meleg és embracív hangulatot. A magas temperamentumértékek konfrontatív, uralkodó és agresszív hangulatokat tárnak fel.",
+  "tendays": "Az elmúlt 10",
+  "ten_min": "10 perc múlva",
+  "terminata": "Hívás sikeres",
+  "TERMS_TITLE": "Használati feltételek",
+  "test": "Teszt",
+  "testmichele": "Teszt michele",
+  "testresult": "Vizsgálatok eredménye",
+  "testresults": "Vizsgálati eredmények",
+  "tests": "vizsgálatok",
+  "text": "Szöveg",
+  "thiscC": "Ezt a hitelkártyát fogják használni a szolgáltatás fizetésére",
+  "THURSDAY": "csütörtök",
+  "thyroidTest": "Pajzsmirigy működési tesztek",
+  "tickets": "Jegyek",
+  "TICKET_HISTORY": "Jegyelőzmények",
+  "TICKET_NUMBER": "Jegy szám",
+  "ticket_subject": "Tárgy kérése",
+  "timecallerr": "Sajnáljuk, még nem kezdeményezheted a hívást",
+  "timecallerr1": "Sajnáljuk, a hívást nem ismeri, mert túl van a tervezett időpontban",
+  "TIMELINE": "Az idővonalam",
+  "times": "Hányszor egy nap?",
+  "timesaday": "Naponta egyszer",
+  "tipopratica": "Gyakorlat típus",
+  "tipo_struttura": "Szerkezeti típus",
+  "tipshealt0": "Egészségügyi tippek",
+  "tipshealt1": "Influenzaszerű lövés - kaphatok be oltást az influenza ellen?",
+  "tipshealt10": "Kattintson ide további információért",
+  "tipshealt11": "A statin kezelés előnyei, a koleszterinszint csökkentő gyógyszerek túlsúlyban vannak",
+  "tipshealt12": "A Lancet egy nemrégiben megjelent cikkében a kutatók arra a következtetésre jutottak, hogy az LDL-koleszterin és a statinterápia csökkentésének előnyei valószínűleg megakadályozzák a nagyobb érrendszeri eseményeket (szívrohamok, stroke-ok), és meghaladják a kábítószerek kockázatát.",
+  "tipshealt13": "A kutatók szerint a hosszú távú statin terápia által okozott súlyos nemkívánatos események a myopathia (mint izomfájdalom vagy gyengeség), az újonnan megjelenő diabetes mellitus és valószínűleg a vérzéses stroke.",
+  "tipshealt2": "Bár az influenza elleni védőoltás nem mindig nyújt teljes védelmet, érdemes megtenni. A CDC (Centers for Disease Control and Prevention) éves influenza elleni védőoltásokat ajánl mindenkinek, aki 6 hónapos vagy idősebb. A vakcinázás különösen fontos az influenzavírus szövődményeinek magas kockázatával járó emberek számára, ideértve",
+  "tipshealt3": "Terhes nők",
+  "tipshealt4": "Idős felnőttek (50 éves vagy idősebb)",
+  "tipshealt5": "Fiatal gyermekek (4 év és 6 hónap felett)",
+  "tipshealt6": "A fizikai aktivitás javítja az emlékezet és a gondolkodás képességét",
+  "tipshealt7": "A rendszeres testmozgás javíthatja az agy működését egy életen át, és csökkenti a demencia kockázatát.",
+  "tipshealt8": "Számos tanulmány készült a szoros kölcsönhatásról és a rendszeres testmozgás és a továbbfejlesztett kognitív funkció előnyeiről.",
+  "tipshealt9": "Közvetlenül az agyon és közvetetten a szervezeten belüli metabolikus és fizikai hatásokon keresztül hat.",
+  "title": "Cím",
+  "to": "nak nek",
+  "todayAppointment": "A mai találkozó",
+  "tooltip1": "Adja meg a kezelő orvosának a napirendet",
+  "totale": "Teljes",
+  "totalSleepTime": "Teljes alvóidő",
+  "total_cholesterol_desc": "Ez az érték a vér koleszterinjének becsült értéke",
+  "TOTAL_SLEEP_TIME": "Teljes alvó idő",
+  "tot_non_risposte": "Hívás nem fogadott",
+  "tot_ricevute": "Hívás érkezett",
+  "tot_visite": "Meglátogatott látogatások",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Átruházás",
+  "trenta": "Az elmúlt 30 mérés",
+  "trentad": "Utolsó 30 nap",
+  "triglycerides": "A trigliceridek",
+  "trig_cholesterol_desc": "A trigliceridek egyfajta zsír (lipid), amelyet a vérben találnak. Az alábbi táblázat az értékek tartományát mutatja.",
+  "TUESDAY": "kedd",
+  "tutte": "Minden mérés",
+  "type": "típus",
+  "TZONE": "Időzóna",
+  "underweight": "Sovány",
+  "unit": "Egység",
+  "UNIT_SETTING": "Egység beállítása",
+  "uom": "Mértékegység",
+  "upcomingAppointmentPatient": "A közelgő kinevezések",
+  "UPDATE": "frissítés",
+  "updatelist": "Frissítési lista",
+  "update_app_message": "Frissítse alkalmazását",
+  "UPDATE_AVAILABLE": "Frissítés elérhető",
+  "UPDATE_BTN": "frissítés",
+  "update_completed": "A firmware frissítve sikeresen",
+  "update_firmware_download_error": "Hiba történt a firmware letöltése közben",
+  "update_list": "frissítés",
+  "UPLOAD_ERROR": "HIBA: A fájlok nem haladhatják meg az 5 MB-ot",
+  "upload_referral": "Töltse fel a hivatkozást az alábbi mezőbe.",
+  "urinTest": "Vizeletvizsgálat",
+  "user": "használó",
+  "userdata": "Felhasználói adat",
+  "usermanagement": "Felhasználói menedzsment",
+  "USERNAME": "Felhasználónév",
+  "username1": "Felhasználónév",
+  "utente_aggiunto": "A felhasználó sikeresen hozzáadva",
+  "utente_rimosso": "A felhasználó sikeresen törölve",
+  "utente_salvato": "A felhasználó sikeresen frissült",
+  "vaccinobbligatorio": "Kérem válasszon immunizációt",
+  "vaioffline": "Ugrás offline",
+  "vaionline": "Megy online",
+  "valence": "Vegyérték",
+  "valenceDescription": "Egy változó a negativitástól a pozititivitásig terjed. Amikor beszélgetünk egy emberrel, meg lehet érteni, hogy a &quot;tárgy&quot;, &quot;tárgy&quot; vagy a &quot;negatív&quot; hogyan érzik a tárgyalt tárgyat, tárgyat vagy eseményt.",
+  "value": "Érték",
+  "vascular_age": "Vaszkuláris kor",
+  "vascular_age1": "Vaszkuláris kor",
+  "va_desc": "Az érrendszer az artériák látszólagos életkorának mértékét adja az egészséges emberekhez képest. Ha a vaszkuláris életkora meghaladja a kronológiai életkorát, akkor nagyobb a kockázata a kardiovaszkuláris betegségek (CVD) kialakulásának későbbi életében.",
+  "videocall": "videocall",
+  "VIDEOCALL_DES1": "Nyomja meg az alábbi gombot az állapot megváltoztatásához, és fogadja vagy nem fogadja az értesítéseket. Ne feledje, hogy az értesítés csak akkor érhető el, ha online van.",
+  "VIDEOCALL_DES2": "Amikor hívást kap, kattintson a téglalapra, amely megjelenik a hívás fogadásához.",
+  "videocall_filter": "Szűrés név vagy specialitás szerint",
+  "videocall_request": "Új videohívási kérés",
+  "videocall_request_title": "Videocall-kérés",
+  "videocall_req_from": "Videohívási kérés:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "Kattintson a videó aktiválásához",
+  "VIDEO_CALL_BTN": "Videohívás",
+  "VIDEO_CALL_BTN_1": "Videó",
+  "view": "Kilátás",
+  "viewmedicalfile": "Az orvosi fájl megtekintése",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Virtuális iroda létrehozása",
+  "VIRTUAL_OFFICE_TITLE": "Virtuális iroda",
+  "visitdetail": "Kattintson minden elemre, hogy megnézze a beteg teljes történetét",
+  "visithistory": "Látogatás története",
+  "visitlist": "Látogatások listája",
+  "VISIT_HISTORY_NO_HISTORY": "Még nincs meglátogatása",
+  "VISIT_HISTORY_SUBTITLE": "Kattintson az egyes elemekre a teljes részlet megtekintéséhez",
+  "VISIT_HISTORY_TITLE": "Látogatás története",
+  "volte": "Times",
+  "waiting": "Feldolgozás...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Melegség",
+  "WARNING_TITLE_NOTIFICATION": "Figyelem",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Egészségügyi adatok",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Wellness adatok",
+  "WATCH_DEVICE_DATA_TITLE": "Óraeszközadatait",
+  "water": "Víz",
+  "weanedoff": "Elveszett?",
+  "WEDNESDAY": "szerda",
+  "week": "Hét",
+  "weight": "Súly",
+  "weightUnit": "Súly egység",
+  "welcome": "Üdvözöljük",
+  "wellness": "Wellness",
+  "wellnessdata": "Wellness adatok",
+  "wellnessSuccess": "Siker",
+  "WHITE_SPACES": "A Felhasználónév nem tartalmazhat fehér szóközöket",
+  "WRIST_CUT_SCREEN": "Fordítsa meg a csuklóvágó képernyőt",
+  "writtenRep": "Írásbeli jelentés",
+  "W_RESPIRATORY_RATE": "Lehelet",
+  "xray": "X-Ray",
+  "Y": "Igen",
+  "year": "Év",
+  "years": "évek",
+  "yes": "Igen",
+  "yourarousal": "Az ébredésed",
+  "youremotion": "Az érzelmeid",
+  "yourmood": "Hangulatod",
+  "yourtemper": "A türelmed",
+  "yourvalence": "Valenciája",
+  "your_sai": "A tevékenység indexe:",
+  "your_sbpi": "A vérnyomás indexe:",
+  "your_sci": "Ön szívindex:",
+  "your_sii": "Az Ön biztosítási indexe",
+  "your_sri": "Légzőszervi indexe:",
+  "your_ssi": "A stresszindex:",
+  "your_stress": "A stressz szintje:",
+  "your_va": "Az érrendszered:",
+  "zero_min": "Most",
+  "zipCode": "Irányítószám",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

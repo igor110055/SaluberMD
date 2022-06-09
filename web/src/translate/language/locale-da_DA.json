@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Om os",
+  "ABOUT_US_CONDITION_1": "Koldt og influenza",
+  "ABOUT_US_CONDITION_2": "Hudforhold",
+  "ABOUT_US_CONDITION_3": "allergier",
+  "ABOUT_US_CONDITION_4": "Ondt i halsen",
+  "ABOUT_US_CONDITION_5": "Mavepine",
+  "ABOUT_US_DOCTOR_BENEFIT1": "FORHØJNING AF INDTÆGTER:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Du kan se op til seks patienter en time (et virtuelt besøg varer typisk ca. 10 minutter);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "SIKKER PATIENTCARE FRA NOGEN I VERDEN:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Forøg patientrelationer med evnen til at behandle nuværende og nye patienter fra hvor som helst i verden;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "FÅ EN GRATIS VIRTUELLE PRAKSIS:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Udvide din nuværende praksis og tilbyde flere muligheder for patienter;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "MERE PRODUKTIVE PATIENTBESØG:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Patienterne kan sende dig dokumenter, fotos, laboratorieresultater uden at skulle forlade hjemmet, og du kan overvåge din patients sundhed på afstand.",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Identificer hvem der har brug for hånd om pleje med det samme, og hvem kan drage fordel af fjernbehandling uden at gå hjem;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "FORHØJNING AF INDTÆGTER:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "FLEXIBLE HOURS:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Evnen til at indstille dine egne timer og sætte din egen tidsplan.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Deltag i bevægelsen for at give pålidelig, overkommelig, global adgang til sundhedspleje inden for 15 minutter eller mindre.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD er designet til at revolutionere patient-patientrelationer ved at skabe 24/7 adgang til sundhedspleje globalt.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Lægefordele",
+  "ABOUT_US_DOCTOR_TITLE": "Om os",
+  "about_us_section1_p1": "SaluberMD er en digital sundhedsplatform, der giver dig mulighed for at tage kontrol over dit helbred, NÅR OG HVORFOR. Vores app giver praktisk, tidsbesparende, overkommelig 24/7 adgang til bestyrelseslæger fra overalt i verden. SaluberMD tilbyder også værktøjer som en personlig medicinsk post, EKG Watch og Family-enhed, der alle interagerer med appen for at give dig en komplet sundhedsløsning. Vores enheder kan bruges individuelt eller kombineret til en mere afrundet tilgang til sundhed og velvære.",
+  "ABOUT_US_SECTION1_TITLE": "Om os",
+  "ABOUT_US_SECTION2_P1": "Gennem geo-lokalisering finder vores app den bedste læge i nærheden af ​​dig. SaluberMD Læger kan diagnosticere, behandle eller diskutere din medicinske tilstand via video og give dig en passende behandlingsplan. Mange af de mest almindelige tilstande behandlet på et læge kontor kan behandles med et videobesøg. <br/> Nogle af de betingelser, vi behandler:",
+  "ABOUT_US_SECTION2_P2": "Her på SaluberMD giver vi dig en personlig medicinsk post til at gemme alle dine sundhedsdata, billeder og filer. Hold styr på dit helbred med 24/7 adgang til alle dine lægejournaler. Uanset om du er hjemme eller rejser i udlandet, er dine oplysninger lige ved hånden for at dele med din sundhedspersonale. Den nemme at bruge personlige journaler er tilgængelig på 20 sprog.",
+  "ABOUT_US_SECTION2_TITLE": "Hvordan virker det?",
+  "ABOUT_US_SECTION3_P1": "Kun de øverste bordcertificerede læger yder lægehjælp på SaluberMD. Disse fagfolk er verificeret, udbredt screenet og uddannet til at yde høj kvalitet pleje. Hver læge har et bio, hvor du kan se deres baggrund, legitimationsoplysninger og erfaring. SaluberMD er forpligtet til løbende kvalitetsstyring af vores læger. Et ratingsystem gør det muligt for patienterne at vurdere læger og se lægerens samlede bedømmelse.",
+  "ABOUT_US_SECTION3_TITLE": "Vores læger",
+  "ABOUT_US_TITLE": "Om os",
+  "above_warning": "Værdier ovenfor er i fare",
+  "accept": "Acceptere",
+  "acceptablerange": "Acceptabelt interval",
+  "ACCEPT_BTN": "Acceptere",
+  "acquire": "Få data",
+  "acronym": "forkortelse",
+  "action": "Handling",
+  "actions": "Handlinger",
+  "actionTaken": "Handling taget",
+  "activity": "Aktivitet",
+  "acutecare": "Akut pleje",
+  "add": "Ny",
+  "addavailability": "Tilføj din tilgængelighed",
+  "addcomment": "Tilføj kommentar her",
+  "adddescription": "Tilføj din beskrivelse her",
+  "adddrugs": "Søg et lægemiddel ved hjælp af søgefeltet nedenfor og kryds afkrydsningsfeltet for at tilføje det til din recept",
+  "addedFavourite": "Tilføjet til dine favoritter succesfuldt",
+  "addedFavourite2": "Tilføjet til dine favoritter succesfuldt. tryk på opdateringsknappen for at vise den.",
+  "addedFavourite3": "Tilføjet med succes  nTryk ned for at opdatere",
+  "addFavourite": "Tilføj til favorit",
+  "ADDING_SLOT": "Tilføjelse af slots .... dette kan tage et stykke tid.",
+  "addNew": "Tilføj ny",
+  "addpharmacies": "Klik på knappen for at tilføje dine favoritter apoteker",
+  "addpharmacy": "Tilføj apotek",
+  "addreminder": "Tryk på plusknappen for at tilføje din medicinreference.",
+  "address": "Adresse",
+  "address2": "Leveringsadresse",
+  "address3": "Adresse for tjenesten",
+  "addsintomi": "Tilføj symptomer",
+  "addslot": "Tilføj slot",
+  "add_description_file": "Tilføj en beskrivelse (ikke obligatorisk)",
+  "add_new": "Tilføje",
+  "affaticamento_grave": "Alvorlig træthed",
+  "affaticamento_minore": "Mindre træthed",
+  "agenda": "Min dagsorden",
+  "agenda_report": "Rapporter aftaler",
+  "aggiungi": "skab",
+  "AGREE_BTN": "Jeg er enig",
+  "alcoholDesc": "Alkohol antaget",
+  "all": "Alle",
+  "alldata": "Alle data",
+  "allergia": "Allergi",
+  "allergia_aggiunta": "Allergi er vellykket skabt",
+  "allergia_rimossa": "Patientens allergi er slettet korrekt",
+  "allergia_salvata": "Patientens allergi opdateres med succes",
+  "allergie": "allergier",
+  "allimages": "Alle billeder",
+  "alreadyAddedF": "Dette apotek er allerede til stede i dine favoritter",
+  "alreadyRegistred": "Denne e-mail-adresse findes allerede i ud-systemet. Log ind på appen for at aftale en aftale.",
+  "alreadyTaken": "Udnævnelsen er allerede taget",
+  "alta": "Høj",
+  "alto": "Høj",
+  "amonth": "30 dage",
+  "anger": "Vrede",
+  "annoinizio": "År startet",
+  "antibiotics": "Antibiotika",
+  "an_error_occurred": "Ups! I øjeblikket er vi ikke i stand til at foregive din anmodning. Prøv igen senere",
+  "appointment": "Aftale",
+  "appointmentlist": "Udnævnelsesliste",
+  "appointments": "Udnævnelser",
+  "appointmentsDescription": "Liste over tidsplan aftaler",
+  "appointment_body_doc": "Ny aftale planlagt med",
+  "appointment_calcelled_title": "Afstemning annulleret",
+  "appointment_cancelled": "har aflyst sin udnævnelse",
+  "appointment_email_body": "Vi bekræfter din aftale med lægen",
+  "appointment_history": "Udnævnelseshistorie",
+  "appointment_now": "Din aftale begynder nu",
+  "appremainder": "Udnævnelse resten",
+  "appremainder1": "Du har en videocall planlagt om 5 minutter",
+  "appremainder2": "Du har et videokall på 30 minutter",
+  "appremainder3": "Du har et videocall på 120 minutter",
+  "APPROX_DATA": "Andre wellness data",
+  "appuntamenti": "Udnævnelser",
+  "appuntamenti_presi": "Planlagt Aftale",
+  "appuntamento_clinica": "Anmodning Klinik Udnævnelse",
+  "APPUNTAMENTO_CONGIUNTO": "Vil du booke et videokall?",
+  "app_description": "Tilføj årsagerne til din aftale i boksen nedenfor",
+  "app_details": "Oplysninger om aftale",
+  "app_missing": "Support-appen er ikke installeret",
+  "ARIAX": "Åndedragsrate",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "ophidselse",
+  "arousalDescription": "En variabel der spænder fra ro eller kedsomhed til opmærksomhed og spænding. Det svarer til lignende begreber som niveau for aktivering og stimulering.",
+  "assign_specialist": "Tildele en specialist til anmodningen",
+  "associa": "Associate",
+  "attachment": "Vedhæftet fil",
+  "ATTACH_A_PHOTO": "Vedhæft et billede",
+  "BACKGROUND": "Baggrund",
+  "BACKGROUND_PLCHOLDER": "Indtast venligst en kort biografi.",
+  "backhomeconfirm": "Er du sikker på at komme hjem?",
+  "BACK_BTN": "Tilbage",
+  "BACK_LOGIN": "Tilbage til login",
+  "bad_file": "Kan ikke åbne filen",
+  "basicinfo": "Grundlæggende oplysninger",
+  "bassa": "Lav",
+  "basso": "lav",
+  "below_warning": "Værdi nedenfor er i fare",
+  "benefits": "Concierge Fordele",
+  "beyondverbal": "Emotioner driver alt, hvad vi gør, men stemme-driven følelser analytics er fortsat den vigtigste, uudforskede grænseflade i dag. Beyond Verbal er forpligtet til at ændre det.",
+  "beyondverbal_analyze": "Analyser dit humør",
+  "beyondverbal_history": "Historiske resultater",
+  "beyondverbal_instruction": "Når du er klar til at svare på spørgsmålet, tryk på startknappen",
+  "BIRTHDATE": "Fødselsdato",
+  "birthday": "Fødselsdag",
+  "blank_agenda": "Der er ingen plads til i dag",
+  "bloatedOrContipated": "Blodet eller forstoppet",
+  "bluetooth_error": "Aktiver Bluetooth før du fortsætter",
+  "BOARD": "Bestyrelsescertificeret",
+  "bones": "Knogler",
+  "bp": "Blodtryk",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Reference tabel for blodtryksværdier",
+  "breakfast": "Morgenmad",
+  "btnback": "Tilbage",
+  "btndelete": "Slet",
+  "btndisabledoctor": "Deaktiver lægen",
+  "btndisablepatient": "Deaktiver patienten",
+  "btnenabledoctor": "Aktivér læge",
+  "btnenablepatient": "Aktivér patienten",
+  "btnsave": "Gemme",
+  "BTN_LOAD_MORE": "Indlæs mere",
+  "buttonsearch": "Søg",
+  "bvFailed": "Kunne ikke analysere din stemme, du skal tale mere!",
+  "bvInstruction": "Bare fortsæt med at tale i 20 sekunder eller mere",
+  "bvInstruction2": "Bliv bare taler i 20 sekunder",
+  "ca": "Kardiovaskulære system",
+  "call": "Opkald",
+  "callCancel": "Kan ikke annullere et udgående opkald",
+  "calldoctor": "Ring til lægen",
+  "calling_number": "Opkaldsnummer",
+  "callthedoctor": "Ring til lægen",
+  "calltransfer": "Overførsel af opkald ...",
+  "CALL_ALREADY_TAKEN": "Ring allerede taget",
+  "CALL_DOCTOR_INFO": "Doktor Info",
+  "CALL_DURATION": "Opkaldsvarighed",
+  "call_instruction": "Vi sender dig en besked, så snart du kan ringe til lægen. Klik på meddelelsen, så snart du modtager den for at starte videocalll. Hvis du har slettet meddelelserne, kan du få det i underretningssektionen under min sundhedsprofil.",
+  "CALL_NOTIFICATIONS": "Telefonopkald",
+  "CALL_NO_INCOMING": "Ingen indgående opkald",
+  "CALL_TRANSFER_INFO": "Opkaldsoverførselsinfo",
+  "CALL_WAITING": "Vent venligst, vi leder efter en læge",
+  "CALL_WAITING_2": "Vent venligst, mens lægen vurderer din fil",
+  "calories": "Kalorier",
+  "cancel": "Afbestille",
+  "cancelAppointment": "Annuller denne aftale",
+  "CANCEL_BTN": "Afbestille",
+  "CAP": "Postnummer",
+  "cardiac_output": "Cardiac output",
+  "cardiac_output1": "Cardiac output",
+  "cardiac_output_desc": "Kardiale output er simpelthen mængden af blod pumpet af hjertet per minut.",
+  "cardiovascular": "Hjerte-kar-",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "Ugyldigt CVC",
+  "CARD_EXPIRY_DATE": "Udløbsdato",
+  "CARD_MONTH_ERROR": "Ugyldig måned",
+  "CARD_NUMBER": "Kortnummer",
+  "CARD_NUMBER_ERROR": "Ugyldigt CC nummer",
+  "CARD_YEAR_ERROR": "Ugyldigt år",
+  "category": "Kategori",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "CCV kræves",
+  "CERROR": "Dårlig kontakt",
+  "certificate_attachment": "Vedhæftet der er din medicinske attest",
+  "certificate_email": "Vedlagt der er din medicinske certificering",
+  "certificate_header": "På grundlag af den gennemførte medicinske vurdering anføres følgende:",
+  "certificate_sent": "Certifikat sendt",
+  "certification_subject": "Din medicinske certificering",
+  "cf": "Fiscal Code",
+  "cf_error": "Angiv venligst din skattekode",
+  "changeschedule": "Ændre tid",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Dit kodeord er udløbet, skal du ændre det.",
+  "CHANGE_PWD_SECTION_TITLE": "Skift kodeord",
+  "CHANGE_PWD_TITLE": "Dit kodeord vil udløbe, ændre det",
+  "checking_net_condition": "Kontrol af internetforbindelse ...",
+  "CHECK_PARAMETERS_CORX": "Indsæt venligst vægt og højde på profilafsnittet for at beregne de korrekte wellness-værdier.",
+  "CHL_TOT": "Samlet kolesterol",
+  "choosedate": "Vælg en dato",
+  "chooseDateDescription": "Klik på en dato for at udvide den og vælg timen",
+  "chooseprofile": "Du er?",
+  "choosespeciality": "Vælg medicinsk specialitet",
+  "choosetransferdoctor": "Vælg en læge",
+  "CHOOSE_A_DOCTOR": "Vælg din egen læge",
+  "chosedoctor": "Vælg venligst en læge",
+  "city": "by",
+  "city1": "by",
+  "city2": "by",
+  "clearsignature": "Klar signatur",
+  "clickitem": "Klik på hvert element for at se detaljer",
+  "clickrow": "Klik på en række for at vælge",
+  "clickToOpen": "Klik for at åbne filen",
+  "click_to_start_call": "Klik på en læge for at starte opkaldet",
+  "clinics": "Klinikker",
+  "CLOCK_FORMAT": "Urformat",
+  "closeappconfirm": "Er du sikker på at lukke appen?",
+  "CLOSE_BTN": "Tæt",
+  "cm": "cm",
+  "CODE": "Kode",
+  "code_not_valid": "Koden indsat er ikke gyldig",
+  "code_verified": "Koden blev bekræftet!",
+  "coffeeDesc": "Kaffe antages",
+  "COMMENT": "kommentar",
+  "commenti": "Kommentarer",
+  "COMPANY_NAME": "Selskab",
+  "COMPLAIN": "Brokke sig",
+  "COMPLETE_PROFILE": "Udfyld din profil før du fortsætter",
+  "COMPLETE_PROFILE_TITLE": "Udfyld din profil",
+  "complications": "Komplikationer",
+  "concernlist": "Angiv venligst dine primære bekymringer / bekymringer",
+  "CONFIRM": "Okay",
+  "confirm_app": "Bekræft din aftale",
+  "CONFIRM_EMAIL_TITLE": "Bekræft Email",
+  "CONFIRM_PWD": "Bekræft kodeord",
+  "connect": "Tryk på knappen Connect for at forbinde enheden",
+  "connectbtn": "Forbinde",
+  "connectedto": "Forbundet til",
+  "connecting": "Tilslutning ... Vent venligst",
+  "connection_progress": "Tilslutning til enheden ...",
+  "CONSULT": "Brokke sig",
+  "consult1": "Konsultere",
+  "consultation": "Konsultation",
+  "consultationHistory": "Høringshistorie",
+  "contact": "Kontakt",
+  "CONTACT_US_BTN": "Kontakt os",
+  "CONTACT_US_SECTION_TITLE": "Kontakt os venligst med spørgsmål eller hjælp til at bruge appen.",
+  "CONTACT_US_TITLE": "Kontakt os",
+  "contatti": "Kontakt information",
+  "continue": "Blive ved",
+  "copy_url": "Kopier url",
+  "CORX": "EKG",
+  "corxDidFailEcg": "Fejl ved at få EKG",
+  "corxDidFailWellness": "Fejl ved at få wellness data",
+  "corxDidNoEcg": "Der er ingen EKG data",
+  "corxDidNoWellness": "Der er ingen wellness data",
+  "CORX_DATA": "CorX-data",
+  "corx_disconnected": "Corx frakoblet",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Angiv venligst vægt og højde i oreder for at beregne vitalparametrene korrekt.",
+  "COUNTRY": "Land",
+  "country1": "Land",
+  "county": "region",
+  "co_alta": "større end 8 l / min",
+  "co_bassa": "lavere end 4 l / min",
+  "co_normale": "mellem 4 og 8 l / min",
+  "creditCard_selected": "Det valgte kort debiteres for denne service",
+  "currency": "betalingsmiddel",
+  "C_SPECIALTY": "Brugerdefineret specialitet",
+  "dailyuse": "Daglig brug",
+  "dashboardVideocall": "Dashboard Videocall",
+  "dataerror": "Dato / klokkeslæt, du har valgt, er forbi den aktuelle dato / klokkeslæt",
+  "dataexists": "Der er allerede en aftale med den valgte dato og klokkeslæt",
+  "datafetching": "Henter dine personlige data ... Vent venligst.",
+  "dataPrenotazione": "Booking dato",
+  "dataVaccinazione": "Immuniseringsdato",
+  "date": "Dato",
+  "dateDiscovered": "Dato opdaget",
+  "dateStart": "Start dato",
+  "datipersonali": "Personlige oplysninger",
+  "datiScaricati": "Data, der er downloadet korrekt",
+  "day": "Dag",
+  "deassociate_corx_alert": "Vil du fjerne de Corx?",
+  "decline": "Nedgang",
+  "DECLINE_BTN": "Nedgang",
+  "DEEP_SLEEP_TIME": "Dyb søvn",
+  "defaultQuestion": "Tryk på start og fortæl os hvordan du føler dig i dag",
+  "delete": "Slet",
+  "deleteAlarm": "Slet denne alarm?",
+  "deleteAppointment": "Vil du annullere aftalen?",
+  "deleteDescription": "Det bliver slettet med det samme.",
+  "deleteMessage": "Er du sikker på, at du vil slette dette?",
+  "deleteMultipleDesctiption": "Antal slots, der vil blive slettet:",
+  "deleteNumber": "Er du sikker på, at du vil slette dette nummer?",
+  "deleteSlotDay": "Sletter alle gratis spor i dag",
+  "deleteSlotMonth": "Sletter alle gratis slots i denne måned",
+  "deleteSlotWeek": "Sletter alle gratis spor i denne uge",
+  "deletevalue_q": "Er du sikker på, at du vil slette værdien?",
+  "DELETE_NOTIFICATION_MSG": "Vil du slette alle tidligere meddelelser?",
+  "demo": "Dette en demo, ingen penge vil blive opkrævet.",
+  "dependencies": "Afhængigheder",
+  "description": "Beskrivelse",
+  "descriptionMandatory": "Angiv venligst en beskrivelse",
+  "deseaseCategory": "Sygdomskategori",
+  "desirable": "ønskeligt",
+  "dettagli": "detaljer",
+  "dettaglio_struttura": "Struktur detaljer",
+  "device": "enhed",
+  "devicefound": "Enhed fundet",
+  "devices": "Enheder",
+  "devicetype": "Enhedstype",
+  "DEVICE_BLOOD_PRESSURE": "Blodtryk",
+  "DEVICE_CALORIES": "Kalorier brændt",
+  "DEVICE_CARDIAC": "Hjerteovervågning",
+  "DEVICE_CHL": "Lipidisk profil",
+  "DEVICE_DATA_SECTION_TITLE": "Dine medicinske data",
+  "DEVICE_DATA_TITLE": "Enhedsdata",
+  "DEVICE_DATA_TITLE_1": "Data om medicinsk udstyr",
+  "DEVICE_EKG": "EKG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "glucometer",
+  "DEVICE_HEART_RATE": "Hjerterytme",
+  "DEVICE_PEDOMETER": "Skridttæller",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Respirationsfrekvens",
+  "DEVICE_SPO2": "SpO2",
+  "DEVICE_TEMPERATURE": "Temperatur",
+  "DIAGNOSIS": "Diagnose",
+  "diastolic": "Diastolisk",
+  "dieci": "Sidste 10 målinger",
+  "diet": "Kost",
+  "digestion": "Fordøjelsesproblemer",
+  "dinner": "Aftensmad",
+  "dipendenza": "Afhængighed",
+  "disableAlarm": "Alarm aktiveret",
+  "disabled": "handicappet",
+  "DISABLE_PANIC_BUTTON": "Aktivér panikknappen",
+  "DISABLE_PUNIC_BUTTON": "Deaktiver punkeknappen",
+  "disconnectall": "Indstil offline",
+  "disconnectbtn": "Koble fra",
+  "DISDICI": "Afbestille",
+  "disease": "Kronisk sygdom",
+  "diseasemanagement": "Sygdomsforvaltning",
+  "diseases": "sygdomme",
+  "disease_1": "Sygdom",
+  "dissocia": "adskille",
+  "DISTANCE": "Afstand",
+  "dm_section_description_1": "Her kan du vedhæfte dine filer",
+  "DND": "Forstyr ikke",
+  "DOCEMAIL": "Læger Email",
+  "DOCNAME": "Lægerens navn",
+  "DOCPHONE": "Læger Telefonnummer",
+  "DOCTOR": "Læge",
+  "doctor1": "Læge",
+  "doctorAtHome": "Doktor derhjemme",
+  "doctorAtHomeQuestion1": "Jeg ønsker hjemmebistand til:",
+  "doctorAtHomeQuestion2": "Vælg den hjemmebistand du har brug for",
+  "doctorAtHomeQuestion2Answer1": "Almindelig praksis",
+  "doctorAtHomeQuestion2Answer2": "Pædiatrisk",
+  "doctorAtHomeQuestion2Answer3": "Amme",
+  "doctorAtHomeQuestion3": "Angiv årsagen til, at du vil modtage assistance",
+  "doctorAtHomeQuestion4": "I nedenstående formular skal du angive den adresse, du vil have hjælp til",
+  "doctorAtHomeRequestBtn": "Send anmodningen",
+  "doctorAtHomeRequestSuccess": "Vi har modtaget din anmodning. Du vil blive kontaktet med 2 timer for at arrangere hjemmets service",
+  "doctorAtHomeTitle": "Doktor derhjemme",
+  "doctorbusy": "Lægen er optaget i et andet opkald",
+  "doctorbusy1": "Lægen er optaget i et andet opkald",
+  "doctorlist": "Lægerliste",
+  "doctormanagement": "Læger ledelse",
+  "doctoroffline": "Lægen er offline, prøv igen",
+  "doctorupdate": "Læge",
+  "DOCTOR_PROFILE_OPT1": "Profil",
+  "DOCTOR_PROFILE_OPT2": "Patientbesøg Historie",
+  "DOCTOR_PROFILE_OPT3": "Anbefal en kollega",
+  "DOCTOR_PROFILE_SECTION1": "Din profil",
+  "DOCTOR_PROFILE_TITLE": "Profil",
+  "doctor_request_sent": "Vi har sendt din anmodning til vores læger. Du får svar på to minutter.",
+  "documents": "Dokumenter",
+  "DOCUMENT_BTN": "Dokumenter",
+  "doestake": "Har du taget",
+  "DONATION_TITLE": "Bekræft donation",
+  "done": "Trackx data hentet succesfuldt. Du finder dem under wellness data sektionen",
+  "doneAppointmentPatient": "Tidligere aftaler",
+  "DONE_BTN": "Færdig",
+  "dontknow": "Jeg kan ikke huske",
+  "DORMIVEGLIA": "Døsighed",
+  "dosage": "Dosering",
+  "dosetake1": "Har du taget dine lægemidler?",
+  "dottore_rimosso": "Doktorens status blev opdateret",
+  "dottore_salvato": "Læge med succes opdateret",
+  "download": "Hent",
+  "downloadaspdf": "Download som PDF",
+  "downloadecg": "Download EKG",
+  "DOWNLOADING_DEVICE_DATA": "Downloader ...",
+  "downloadwellnessdata": "Downloading af wellness data ...",
+  "downloadWellnessResult": "måling tilføjet",
+  "DOWNLOAD_CERTIFICATE": "Download certifikat",
+  "DOWNLOAD_ERROR_GENERIC": "Ups. Der opstod en fejl under forsøget på at downloade filen. Prøv igen senere.",
+  "DOWNLOAD_SO_REPORT": "Download Henvisning",
+  "DO_NOT_DISTURB": "Forstyr ikke",
+  "drugsAtHome": "Narkotika derhjemme",
+  "drugsAtHomeQuestion1": "Ønsker du at modtage de lægemidler, der ordineres af din læge direkte hjemme?",
+  "drugsAtHomeRequestBtn": "Send anmodningen",
+  "drugsAtHomeRequestSuccess": "Vi har modtaget din anmodning. Narkotika vil blive sendt inden for 24 timer",
+  "drugsAtHomeSection1": "I nedenstående formular angives telefonnummeret og den adresse, du vil modtage stofferne.",
+  "drugsAtHomeTitle": "Narkotika derhjemme",
+  "drug_name": "Lægemiddel navn",
+  "duration": "Varighed",
+  "ecg": "EKG",
+  "ecgadded": "EKG med succes tilføjet til listen",
+  "ECGBP": "EKG BP",
+  "ecgdata_header": "EKG data",
+  "ecgdetail": "Klik på hvert element for at se EKG-billedet",
+  "ECG_DELETE_Q": "Er du sikker på, at du vil slette EKG?",
+  "ecg_not_found": "Forkert EKG-fil, prøv en anden misuaration.",
+  "ECG_REMOVED": "EKG blev slettet korrekt",
+  "edit": "Redigere",
+  "EKG_SECTION_TITLE": "Resultat af elektrokardiogram (EKG / ECG)",
+  "EKG_TITLE": "EKG Upload",
+  "EMAIL": "E-mail",
+  "email1": "E-mail",
+  "email_do_not_match": "Emailsne stemmer ikke overens",
+  "ematicTest": "Ematiske prøver",
+  "Emergency": "Vis på nødsituation",
+  "emergency1": "Emergency",
+  "emergencyLoginCode": "Emergency Login Code",
+  "emergency_numbers": "Nødnumre",
+  "emergency_number_description": "Tilføj telefonnumre til opkald i nødstilfælde",
+  "emotionDescription": "En kombination af forskellige grundlæggende følelser, som udtrykt af brugerens stemme under en analyseret stemmeafdeling.",
+  "emotions": "Kombinerede følelser",
+  "emptypassword": "Angiv venligst et pasord",
+  "EMPTY_ALLERGIES": "Klik på knappen for at tilføje en sygdom til din lægejournal",
+  "empty_dataset": "Der er ingen data",
+  "EMPTY_DEPENDENCIES": "Klik på knappen for at tilføje en afhængighed af din journale",
+  "EMPTY_DISEASE": "Klik på knappen for at tilføje en sygdom til din lægejournal",
+  "EMPTY_DOCUMENTS": "Klik på knappen for at tilføje et dokument til din journale",
+  "EMPTY_IMAGES": "Klik på knappen for at tilføje et billede til din lægejournal",
+  "EMPTY_IMMUNIZATION": "Klik på knappen for at tilføje en immunisering til din journale",
+  "EMPTY_MEDICATION": "Klik på knappen for at tilføje en medicin til din journale",
+  "empty_otp": "Ugyldig OTP-kode",
+  "EMPTY_PROSTHESIS": "Klik på knappen for at tilføje en protese til din lægejournal",
+  "EMPTY_TESTS": "Klik på knappen for at tilføje en test til din journale",
+  "enabled": "Aktiveret",
+  "endate": "Til",
+  "endcall": "Afslut opkald",
+  "endDate": "Slutdato",
+  "endhour": "Sluttid",
+  "end_time": "Sluttid",
+  "END_VIDEOCALL_Q1": "Er du sikker på at du vil afslutte høringen uden at starte videocallet?",
+  "END_VISIT_BTN": "Afslut besøg",
+  "error": "Fejl",
+  "error_call_timeout": "Tiden til at lave videokallet er forbi. Gentag processen igen for at gøre videokallet.",
+  "ERROR_EMAIL_DUPPLICATE": "Det ser ud til, at denne email-adresse allerede er registreret. Prøv med en anden.",
+  "error_price": "Angiv venligst et gebyr",
+  "ERROR_SPECIFY_DAYS": "Angiv venligst mindst en uges dag",
+  "ERROR_SPECIFY_HOUR": "Angiv venligst tidspunktet",
+  "ERROR_TITLE_NOTIFICATION": "Fejl",
+  "ERROR_TRACKX": "Aktivér Trackx",
+  "error_update": "Fejl Opdatering Firmware",
+  "ERROR_USERNAME_DUPPLICATE": "Dette brugernavn er allerede taget, vælg en anden",
+  "ERROR_WHITELIST": "Beklager, din enhed er ikke aktiveret til at udføre videocall",
+  "esameobbligatorio": "Vælg venligst en eksamen",
+  "exam_name": "Eksamen Navn",
+  "exercise": "Dyrke motion",
+  "exercisereminders": "Mine øvelsespåmindelser",
+  "existentassoc": "Eksisterende foreninger",
+  "existentrelation": "Denne relation eksisterer allerede",
+  "expandfordetails": "Udvid for flere detaljer",
+  "EXP_MONTH": "Udløbsmåned",
+  "EXP_MONTH_REQUIRED": "Udløbsmåned påkrævet",
+  "EXP_YEAR": "Udløbsår",
+  "EXP_YEAR_REQUIRED": "Udløbsår påkrævet",
+  "e_prescribing": "E-Prescribing",
+  "F": "Kvinde",
+  "farmaci": "Medicin",
+  "farmaco": "Medicin",
+  "fat": "Fed",
+  "FATIGUE_INDEX": "Træthed",
+  "FATIGUE_INDEX_DESCRIPTION": "Arbejde, arbejde og erfaring forårsaget af graden af ​​træthed. Overdreven træthed fører let til muskelsstivhed i skulderen, hovedpine, søvnløshed, træthed, taljen smerter og kan let føre til nervesystemet, endokrine lidelser, hvilket resulterer i mange kroniske sygdomme og mental træthed.",
+  "favoriteslist": "Min favorit liste",
+  "FAVORITES_NO": "Du har ikke tilføjet nogen læger til din favoritliste endnu",
+  "FAVORITES_NO_PHARMACIES": "Du har ikke tilføjet noget apotek til din favoritliste endnu",
+  "FAVORITES_SECTION_SUBTITLE": "Klik på hvert element for at se detaljer",
+  "FAVORITES_SECTION_TITLE": "Dine yndlingslæger",
+  "FAVORITES_TITLE": "foretrukne",
+  "favourite_pharmacy": "Favorite Pharmacies",
+  "FEE": "Administrer gebyrer",
+  "FEET": "fødder",
+  "female": "Kvinde",
+  "fileloaded": "Filindlæst",
+  "fileloaded1": "Fle Successfully Uploaded",
+  "fileName": "Filnavn",
+  "filenotfound": "Fil ikke fundet",
+  "file_upload_instruction": "Upload instruktioner",
+  "filldate": "Vælg venligst en dato",
+  "filldoctor": "Vælg venligst en læge",
+  "fillpeciality": "Vælg venligst en specialitet",
+  "fillthebox": "Fyld boksen",
+  "fill_indication": "Venligst udfyld indikationsfeltet",
+  "fill_indication_for": "Angiv venligst angivelsen for",
+  "fill_quantity": "Venligst udfyld mængdefeltet",
+  "fill_quantity_for": "Angiv venligst mængden for",
+  "fill_your_doubt": "Giv venligst en beskrivelse i boksen ovenfor.",
+  "filter": "Filter",
+  "finddoctor": "Find læger",
+  "findFarmacia": "Søg på apotek",
+  "findpatient": "Find patient",
+  "findspcialist": "Find en specialist",
+  "findStruttura": "Søgestruktur",
+  "finduser": "Find bruger",
+  "FIND_A_DOCTOR": "Find en læge",
+  "find_device": "Find enhed",
+  "FIND_THE_BRACELET": "Find armbåndet",
+  "fingerprint_btn": "Aktivér fingerprint login",
+  "fingerprint_hint": "Bekræft fingerprint for at fortsætte",
+  "fingerprint_hint2": "Bekræft fingerprint for at fortsætte",
+  "fingerprint_question": "Vil du aktivere fingerprint-godkendelse?",
+  "FIRMWARE_UPDATE": "Firmware Update",
+  "FIRMWARE_UPDATED": "Firmware opdateret",
+  "firstName": "Fornavn",
+  "five_min": "Om 5 minutter",
+  "fixappointment": "Vil du planlægge denne aftale?",
+  "forever": "For evigt",
+  "forgotPassword": "Glemt din adgangskode?",
+  "forgot_password": "Glemt kodeord?",
+  "forma": "Type",
+  "formafarmaco": "Medicinsk formular",
+  "formatError": "Pris skal være en numerisk værdi.",
+  "found_devices": "Fundne enheder",
+  "FRIDAY": "Fredag",
+  "GENDER": "Køn",
+  "gender1": "Køn",
+  "general": "Generel",
+  "generalInfo": "Generelle oplysninger",
+  "genericName": "Generisk navn",
+  "GENERIC_ERROR": "Ups! Noget gik galt. Prøv igen senere",
+  "geneticTest": "Genetisk test",
+  "geneticTestHeader2": "Gennem genetiske test kan du opdage mere om dit helbred og gøre det rigtige for at holde sig frisk.",
+  "geneticTestHeader3": "Hvordan virker det",
+  "geneticTestProduct": "Ernæringsprofil",
+  "geneticTestRequestBtn": "Bed om testen",
+  "geneticTestRequestSuccess": "Din ordre er blevet bekræftet. Du modtager sættet direkte hjemme",
+  "geneticTestSection1": "Vil du nu, hvis det du spiser, er tilstrækkeligt til din krop og dit stofskifte?",
+  "geneticTestSection2": "Vil du vide, om den sundere mad for din krop ikke risikerer kroniske sygdomme?",
+  "geneticTestSection3": "Ernæringsprøven giver dig besked om forbindelsen mellem dit DNA og kost.",
+  "geneticTestSection4": "Tilføj her dit telefonnummer og den adresse, du vil modtage sættet",
+  "geneticTestStep1": "1. Bestil din test",
+  "geneticTestStep1Subtitle": "Lav din ordre med appen og modtag kittet direkte derhjemme.",
+  "geneticTestStep2Subtitle": "Tag prøven og send os via posttjenesten ved hjælp af konvolutten, vi giver dig.",
+  "geneticTestStep3": "3. få resultaterne",
+  "geneticTestStep3Subtitle": "Efter en uge får du en besked, der informerer dig om, at resultaterne af den genetiske test vil være tilgængelige på App.",
+  "geneticTestTitle": "Genetisk test",
+  "GLUCOMETER": "glucometer",
+  "glucosio": "Glukose",
+  "HAND_BRIGHTEN": "Hæv din hånd til at lyse",
+  "happiness": "Lykke",
+  "HDL": "HDL-kolesterol",
+  "hdl_cholesterol_desc": "Højdensitetslipoprotein (HDL) kolesterol er kendt som det &#39;gode&#39; kolesterol. Følgende tabel viser værdienes rækkevidde.",
+  "healthtips": "Healthtips",
+  "HEALTH_INDEX": "Sundhed",
+  "HEALTH_INDEX_DESCRIPTION": "HRV Health Index er gennem analyse af den gennemsnitlige hjertefrekvens HR og hjertefrekvensvariabilitet HRV og andre parametre baseret på realtidsmåling af Holters resultater for at analysere kroppens sundhedsparametre, øget sundhedsindeks, hvilket repræsenterer kroppens helbred bedre; Sundhedsindekset faldt på vegne af kroppen Behøver at være opmærksom på det daglige sunde liv.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Hjerte",
+  "HEART_INDEX_DESCRIPTION": "Hjertefunktion Brugere måler en persons hjertesituation, og deres præstationer er forskellige på grund af deres forskellige niveauer af kærlighed til hjertet og den generelle sundhedstilstand. At udvikle en sund livsstil og spisevaner: En rimelig strategi til at udøve hjerte for at tvinge hjertet calciumnatriumtilskud, for at beskytte blodkarrene, kan aktivt forebygge forekomst af hjertesygdomme, er at styrke hjertefunktionsstrategien.",
+  "height": "Højde",
+  "height1": "Højden er nødvendig for korrekt beregning af BMI",
+  "heightUnit": "Højdeenhed",
+  "hepaticFunction": "Leverfunktion",
+  "hide": "Skjule",
+  "high1": "Høj",
+  "high_risk": "Høj risiko",
+  "history": "Høringshistorie",
+  "homepage": "Hjem",
+  "HOME_WARNING_MESSAGE": "Er du sikker på, at du vil navigere væk fra denne side? Din ændring vil gå tabt.",
+  "hormonalTest": "Hormonal funktionstest",
+  "hospDate": "Hosp.date",
+  "hospit": "Hospitaliseret til",
+  "hospital": "Sygehus",
+  "hospitalization": "indlæggelse",
+  "hour": "Time",
+  "hours": "timer",
+  "HOURS_BANK_DONATE_BTN": "Doner",
+  "HOURS_BANK_DONATION": "Timer doneret nu:",
+  "HOURS_BANK_H": "Timer Bank:",
+  "HOURS_BANK_SECTION_P1": "Sundhed er vores højeste prioritet hos SaluberMD, og ​​vi ønsker at tjene så mange som muligt. Via vores platform gør vi det muligt for dem, der har brug for adgang til sundhedspleje. Vores opsøgende team er forpligtet til at give sundhedspleje muligheder til organisationer, enkeltpersoner og familier i nød.",
+  "HOURS_BANK_SECTION_P2": "Du skal blot klikke på linket med hvor mange timer du vil donere, og vi tilføjer dem til vores bank.",
+  "HOURS_BANK_SECTION_P3": "Vi kontakter dig via appen for at indløse timerne, og når du er tilgængelig, skal du blot klikke acceptere for at se patienterne.",
+  "HOURS_BANK_SECTION_TITLE": "Deltag i at give gave til sundhedsydelser!",
+  "HOURS_BANK_TITLE": "Timer Bank",
+  "howto": "Hvordan",
+  "howto1": "De tilgængelige slots er markeret med en grøn bold",
+  "howto2": "Vælg en celle med den grønne bold og klik på den for at udvide og vælg tidspunktet. Når du er klar, klik på blyantsymbolet for at se detaljerne og tag aftalen",
+  "howToPrice": "Prisen skal være en numerisk værdi. Højst to decimaler er tilladt. Punkt eller komma kan bruges som separatorer",
+  "hrv_buono": "godt",
+  "hrv_eccellente": "Fremragende",
+  "hrv_generale": "Generel",
+  "hr_alta": "Større end 100",
+  "hr_bassa": "Mindre end 60",
+  "HR_DESCRIPTION": "Reference tabel med normale hvilende hjertefrekvenser",
+  "HR_INTERVAL": "HR Mål Interval",
+  "hr_normale": "Mellem 60 og 100",
+  "hsh": "Hospitalisering og kirurgisk historie",
+  "IBAN": "De var",
+  "idx": "Indekser",
+  "image": "Billede",
+  "images": "Billeder",
+  "immunization": "vaccination",
+  "immunizationmenu": "vaccination",
+  "importhealth": "Importer sundhedsdata",
+  "impossible_transfer": "Umuligt at overskride opkaldet",
+  "INCH": "Inch",
+  "indexes": "Indekser",
+  "indication": "Tegn",
+  "INFO_BTN": "Info",
+  "info_salvate": "Data med succes gemt",
+  "iniezione": "Indsprøjtning",
+  "initiative": "Initiativ",
+  "initiativeerror": "Vælg venligst et initiativ",
+  "insert": "Indsæt",
+  "inserttext": "Indsæt tekst her",
+  "insert_otp_code": "Indsæt koden her",
+  "internet_missing": "Du er ikke forbundet til internettet",
+  "invalidemail": "ugyldig emailadresse",
+  "invoice": "Faktura",
+  "irregulartest": "Uregelmæssig test",
+  "kcal": "kcal",
+  "kg": "kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Nyrefunktionsundersøgelser",
+  "labtesting": "Netværk",
+  "LANGUAGE": "Sprog",
+  "LANGUAGE_TYPE": "Sprog",
+  "lastmeasure": "Sidste foranstaltning",
+  "lastName": "Efternavn",
+  "lastPhysical": "Sidste fysiske",
+  "lastSync": "Sidste synkronisering",
+  "lastTimeOnline": "Sidste gang online",
+  "lastvisit": "Sidste besøg",
+  "last_login_date": "Sidste login dato",
+  "last_time_taken": "Sidste gang taget",
+  "LDL": "LDL-kolesterol",
+  "ldl_cholesterol_desc": "LDL eller lipoprotein med lav densitet er det &#39;dårlige&#39; kolesterol. Følgende tabel viser værdienes rækkevidde",
+  "leggero": "Lys",
+  "LICENSE_NUMBER": "Licensnummer",
+  "LIGHT_SLEEP_TIME": "Lys søvn",
+  "listcall": "Liste over videocall udført",
+  "litri": "liter",
+  "liverExam": "Leverfunktionstest",
+  "LIVE_ECG": "Ny måling",
+  "live_ecg_downloading": "Download EKG. Vent venligst...",
+  "loadEcgList": "Indlæser EKG-liste ...",
+  "loading": "Indlæser data ...",
+  "loading1": "Indlæser...",
+  "loading_list": "Indlæser liste ...",
+  "loading_list_nutritionist": "Indlæser ernæringseksperter ...",
+  "LOAD_INDEX": "belastning",
+  "LOAD_INDEX_DESCRIPTION": "Grad og træthed, stress Omfattende overvejelse af kroppen til at bære belastningsindekset, der reflekterer over de fysiske og psykologiske aspekter af folket bærer belastningssituationen. Ekstern social, liv og konkurrence og andre faktorer, men også af deres egen fysiske tilstand og mentale tilstand.",
+  "LOAD_ITEMS": "Indlæser...",
+  "LOGGING_IN": "Logger ind...",
+  "LOGGING_OUT": "Logger ud ...",
+  "LOGIN_BTN": "Log på",
+  "LOGIN_ERROR": "Forkert brugernavn eller adgangskode",
+  "Logout": "Log ud",
+  "logout1": "Log ud",
+  "LOGOUT_BTN": "Log ud",
+  "low1": "Lav",
+  "lunch": "Frokost",
+  "lungtest": "Lad os lave en lungeprøve",
+  "M": "Han",
+  "male": "Han",
+  "manageapp": "Administrer aftaler",
+  "manageslot": "Administrer gratis slot",
+  "MANAGE_CORX": "Administrer Corx",
+  "mandatoryDays": "Angiv venligst antallet af dage",
+  "mandatoryfield": "Udfyld alle obligatoriske felter",
+  "map": "Kort",
+  "max_file_size": "Filstørrelsen skal være mindre end",
+  "meals": "Måltider",
+  "medicalconsultation": "Konsultation",
+  "medicalfile": "Billeder",
+  "medicalform": "Medicinske former",
+  "medicalforms": "Medicinske former",
+  "medicalinfo": "Medicinsk Info",
+  "medicalrecord": "Medicinsk post",
+  "medical_2option": "Medicinsk anden udtalelse",
+  "MEDICAL_CERTIFICATE": "Medicinsk certifikat",
+  "MEDICAL_FILE_BTN": "Medicinsk fil",
+  "medication": "Medicin",
+  "medication_name": "Medicinsk navn",
+  "medicinereminders": "Mine medicin påmindelser",
+  "medio": "Medium",
+  "medium1": "Medium",
+  "message": "Besked",
+  "messagesent": "Meddelelse med succes sendt",
+  "metabolismTest": "Metabolismetest",
+  "method": "Metode",
+  "METRIC": "metric",
+  "middedcall2": "Du har et ubesvaret opkald fra",
+  "minutes": "minutter",
+  "missedcall": "SaluberMd savnet videocall",
+  "missedcall1": "Ubesvaret opkald",
+  "missedNotiAlert": "Du har nogle ubesvarede underretninger.",
+  "misurazioni": "Records",
+  "misure": "Måle",
+  "mobile": "Mobil",
+  "mobile_required": "Tilføj venligst dit telefonnummer, så vi kan kontakte dig for at arrangere en aftale.",
+  "moderate_risk": "Moderat risiko",
+  "MONDAY": "Mandag",
+  "month": "Måned",
+  "mood": "Humørgruppe",
+  "moodDescription": "En nøgleindikator for en højttalers følelsesmæssige tilstand under den analyserede stemmeafdeling. API&#39;en producerer i alt 11 humørgrupper fra vrede, ensomhed og selvkontrol til lykke og spænding.",
+  "moreDays": "Flere dage",
+  "motivazione": "Grund",
+  "MRGraph": "Medicin taget historie",
+  "msgAppointment": "Aftalen er blevet planlagt. Du finder din aftale i afsnittet concierge benefits.",
+  "msgsurveysent": "Undersøgelse med succes sendt",
+  "msg_call_reconnection": "Forsøger at genoprette forbindelse ...",
+  "MSG_CALL_TRANSFERED": "Videokallet er blevet overført",
+  "MSG_CHOOSE_OPTION": "Vælg venligst en mulighed",
+  "MSG_CHOOSE_OPTION4": "Vælg en mulighed",
+  "MSG_CHOOSE_OPTION5": "Beskriv din morgenmad",
+  "MSG_CHOOSE_OPTION6": "Beskriv din middag",
+  "MSG_CHOOSE_OPTION7": "Beskriv din frokost",
+  "MSG_CHOOSE_OPTION8": "Beskriv dine snaks",
+  "MSG_CHOOSE_OPTION9": "Venligst svar alle spørgsmålene",
+  "MSG_CHOOSE_OPTION_2": "Venligst indsæt en beskrivelse",
+  "MSG_CHOOSE_OPTION_3": "Vælg mindst én mulighed",
+  "MSG_COMPLETE_PROFILE": "Vil du gerne gå nu?",
+  "MSG_CONFIRM_EMAIL": "Bekræft venligst din email",
+  "MSG_CONFIRM_EMAIL_TEXT": "Vi har sendt dig en email med instruktioner om, hvordan du bekræfter din e-mail-adresse. Kontroller din indbakke.",
+  "msg_connected": "Succesfully forbundet",
+  "MSG_CONTACT_SUCCESS": "Tak for din indsendelse.",
+  "MSG_DOC_ENDED_CALL": "Lægen har afbrudt opkaldet",
+  "MSG_DOC_WAITING_CALL": "Lægen er blevet afbrudt og venter på genopkobling",
+  "MSG_DONATION": "Bekræft din donation?",
+  "MSG_DONATION_CONFIRM": "Tak for din donation",
+  "MSG_ERROR_FILL_BOXES": "Udfyld venligst rubrikerne med korrekte værdier",
+  "MSG_FILL_ALL_BOXES": "Udfyld venligst alle felter",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Udfyld venligst alle nedenstående felter",
+  "MSG_FILL_BOXES": "Udfyld venligst boksene",
+  "MSG_FILL_BOXES_ALL": "Udfyld venligst alle felterne",
+  "MSG_FILL_BOXES_PROFILE": "Venligst udfyld alle felter markeret med en stjerne",
+  "MSG_GENERIC_ERROR": "Tjek din internetforbindelse og prøv igen.",
+  "MSG_GENERIC_FORM_ERROR": "Løs fejlen, før du fortsætter",
+  "MSG_LOGIN_ERROR": "Login mislykkedes: Kontrollér dine legitimationsoplysninger og sørg for, at du er forbundet til netværket.",
+  "MSG_LOGIN_ERROR_LOCKED": "Login mislykkedes: Din konto er midlertidigt låst. Prøv igen senere.",
+  "MSG_MANDATORY_OPTION": "Youy skal give lægen tilladelse til at se medicinsk fil",
+  "MSG_NO_DOCTORS_FOUND": "Ingen læger fundet, tryk Find en læge for at prøve igen.",
+  "MSG_PATIENT_CANCELED_CALL": "Patienten har annulleret opkaldet, går hjem igen",
+  "MSG_PATIENT_ENDED_CALL": "Patienten har afbrudt opkaldet",
+  "MSG_PATIENT_WAITING_CALL": "Patienten er afbrudt og venter på genopkobling",
+  "MSG_POST_CALL_CANCEL": "Du sluttede besøget, før du startede videocallet!",
+  "MSG_POST_CALL_DOCTOR": "Sammendrag sendt, går tilbage til hjemmet.",
+  "MSG_POST_CALL_PATIENT": "Tak fordi du bruger SaluberMD. Du modtager en follow-up email. For at se detaljer om dit besøg og din læge instruktioner, besøg venligst Min profil-besøg historie.",
+  "msg_reconnection_error": "Enheden frakoblet. Forbind venligst enheden igen",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Tak .... nogen vil kontakte dig",
+  "MSG_REGISTRATION_SUCCESS": "Vellykket registrering",
+  "msg_req_videocall1": "er tilgængelig for videocallet i:",
+  "msg_req_videocall2": "Videokallet er klar til at begynde. Klik på denne meddelelse for at aktivere videokallet",
+  "msg_req_videocall3": "er tilgængelig for videocall nu. Klik på denne meddelelse for at aktivere videokallet",
+  "MSG_RESET_REQUEST_ERROR": "Brugeren med dette brugernavn eller e-mail-adresse findes ikke.",
+  "MSG_RESET_REQUEST_SUCCESS": "Du vil snart modtage en email med et link til nulstilling af adgangskode.",
+  "MSG_RESUME_CALL": "Der er et løbende opkald, vil du genoptage det?",
+  "MSG_SCHOOL_MISSING": "Indsæt skole",
+  "MSG_SELECT_TIMEZONE": "Vælg en tidszone",
+  "MSG_SIGNATURE_MISSING": "Udfyld din underskrift, ellers kan du ikke sende nogen recept.",
+  "MSG_THANKING": "Tak for din indsendelse.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Tabt forbindelse. Dette kan skyldes din internetforbindelse",
+  "MSG_WELCOME_BACK": "Velkommen tilbage",
+  "MSG_YEAR_PRACTISE": "Indsæt år med praksis",
+  "muscles": "Muskler",
+  "myappointment": "Mine aftaler",
+  "MYFILE_NOFILE": "Du har endnu ingen filer",
+  "MYFILE_SECTION": "Dine filer",
+  "MYFILE_SUBTITLE": "Klik på hvert element for at se filindholdet",
+  "MYFILE_TITLE": "Mine filer",
+  "myprofile": "Min profil",
+  "myreminders": "Mine påmindelser",
+  "MY_TICKETS": "Dine billetter",
+  "M_SCHOOL": "Medicin skole",
+  "N": "Ingen",
+  "name": "Navn",
+  "negative": "Negativ",
+  "nervous": "Nervøs",
+  "nessun_appuntamento": "Der er ingen tidligere aftaler",
+  "NETWORK_CHECK_MSG": "Din båndbredde er for lav. Afspilning af indhold med lav båndbredde vil medføre, at videoen stopper.",
+  "NETWORK_CHECK_TITLE": "Opkaldskvalitetstest",
+  "NETWORK_ERROR": "Internetforbindelse Fejl. Prøv igen senere",
+  "neutral": "Neutral",
+  "newappointment": "Ny aftale fra",
+  "newass": "Tilføj en ny forening",
+  "NEWPWD_CONFIRM": "Adgangskoden er blevet ændret. Venligst log ind igen.",
+  "NEWPWD_CONFIRM2": "Adgangskoden ændres succesfuldt",
+  "NEWPWD_ERROR": "Nyt kodeord, der ikke matcher.",
+  "newtest": "Tryk på plusknappen for at lave en ny test.",
+  "NEW_PWD": "Nyt kodeord",
+  "new_ticket": "Ny billet",
+  "NEXT": "Næste",
+  "no": "Ingen",
+  "noAlarm": "Ingen alarm indstillet",
+  "noallergies": "Der er ingen allergier i øjeblikket",
+  "noapatient": "Ingen patient fundet",
+  "noappointment": "Der er ingen aftale planlagt",
+  "noappointments": "Der er ingen dato tilgængelig hos denne læge",
+  "noappointments1": "Der er ingen datoer tilgængelige hos denne ernæringsekspert",
+  "noAppoPat": "Der er ingen aftale, der skal være liste",
+  "noarticles": "Ingen ernæringsartikler",
+  "noassociatedpatient": "Du har ingen patientrelateret tilknytning endnu",
+  "noattachment": "Vælg venligst en vedhæftning",
+  "noattachment1": "Intet vedhæftet",
+  "noavailableoption": "Ingen mulighed for rådighed",
+  "nocomment": "Ingen kommentarer / reccomendation",
+  "noconsulenze": "Ingen besøg udført",
+  "nocorxfound": "Ingen CORX fundet",
+  "nodata": "Ingen data",
+  "nodependency": "Der er ingen afhængigheder i øjeblikket",
+  "nodesease": "Der er ingen deseaser i øjeblikket",
+  "nodevice": "Ingen enhed fundet, prøv igen",
+  "nodoctor": "Ingen læger fundet",
+  "nodoctors": "Ingen læger til rådighed",
+  "noDocuments": "Ingen dokumenter blev uploadet",
+  "nodrugselected": "Du har valgt ingen medicin",
+  "noecg": "Ingen EKG opført",
+  "noexam": "Der er ingen eksamen at vise",
+  "nofiles": "Der er ingen filer uploadet af patienten",
+  "noHistory": "Der er i øjeblikket ingen konsultationer",
+  "nohsh": "Der er ingen indlæggelse på nuværende tidspunkt",
+  "noimages": "Der er ingen vedhæftet fil i øjeblikket",
+  "noimmunization": "Der er ingen immuniseringer i øjeblikket",
+  "nolabtest": "Ingen laboratorietester fundet",
+  "nomedication": "Der er ingen medicin i øjeblikket",
+  "nomisure": "Der er ingen foranstaltning",
+  "nonterminata": "Ring mislykket",
+  "nonutritionist": "Ingen ernæringsekspert tilgængelig",
+  "nonuvoair": "Ingen enhed fundet",
+  "nopharmacy": "Ingen apoteker fundet",
+  "noprescription": "Der er ingen recept i øjeblikket",
+  "noprothesis": "Der er ingen proteser i øjeblikket",
+  "noreferrals": "Der er ingen henvisninger angivet",
+  "noreminders": "Du har ingen påmindelser for nu",
+  "noresults": "Ingen resultater fundet",
+  "normale": "Normal",
+  "normalrange": "Normalitetsområde",
+  "normalWeight": "Normalvægt",
+  "nosintomi": "Intet symptom valgt",
+  "nospecialist": "Der er ingen specialister",
+  "note": "Noter",
+  "notests": "Der er i øjeblikket ingen uregelmæssige test",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Klik her for at afslutte at udfylde din medicinske fil",
+  "NOTIFICATIONS_SECTION": "Dine meddelelser",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Modtag 1 gratis konsultation eller sundhedsvurdering, efter at du har udfyldt din medicinske fil fuldt ud.",
+  "NOTIFICATIONS_SETTINGS": "Indstil meddelelser",
+  "NOTIFICATIONS_TITLE": "underretninger",
+  "notification_setting": "Vælg fra hvilken kategori du vil modtage underretninger",
+  "notimage": "Filen er ikke et billede: Kun BMP, GIF, JPG og PNG er tilladt",
+  "notNow": "Ikke nu",
+  "notnow_btn": "Ikke nu",
+  "nouser": "Ingen bruger fundet",
+  "novantad": "Sidste 90 dage",
+  "novideocall": "Ingen videocall fundet",
+  "novisit": "Du har endnu ikke nogen patientbesøg",
+  "noWellnessData": "Ingen nye wellness data",
+  "no_certificate": "Intet certifikat, der skal anføres",
+  "no_chiosc_data": "Ingen laboratorietest at se",
+  "NO_DATA": "Ingen data",
+  "no_doctor_answer1": "Der er i øjeblikket ingen læger tilgængelige.",
+  "no_doctor_answer2": "Du kan tage en aftale ved at klikke på knappen nedenfor.",
+  "NO_GENETIC_TEST_REQUESTS": "Du har ikke anmodet om nogen genetisk test",
+  "NO_MSG": "Ingen sendte beskeder",
+  "no_notifications": "Du har ingen anmeldelser",
+  "no_prescription_download": "Der er ingen recept i forbindelse med denne høring",
+  "no_pull_answer": "Ingen læge er tilgængelig lige nu.",
+  "no_referral_download": "Der er ingen henvisning til dette besøg",
+  "NO_SECOND_OP_REQUESTS": "Du har ingen anmodning om anden udtalelsestjeneste",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Ingen specialisering fundet",
+  "NO_TICKETS_SENT": "Ingen billetter sendt",
+  "NO_USER_FOUND": "Brugernavn eller Email ikke fundet",
+  "NPI": "NPI",
+  "ns": "Nervesystem",
+  "numberNotSaved": "Fejl under opbevaring af nummeret",
+  "numberSaved": "Nummer gemt succesfuldt",
+  "nuovoair_connected": "forbundet",
+  "nuovoair_disconnected": "afbrudt",
+  "nutriPen": "Afventer anmodning",
+  "nutriRev": "Revideret spørgeskema",
+  "nutrition": "ernæring",
+  "nutritionist": "Tal til en nutrionist",
+  "NUTRITIONIST_Q1": "Primære mål: (Kontrollér alle Anvend)",
+  "NUTRITIONIST_Q10": "Er du mærkbart irritabel, lys ledet eller svag, hvis du ikke har spist?",
+  "NUTRITIONIST_Q11": "Nuværende træningsregime: (Cardio, Resistance, Etc.)",
+  "NUTRITIONIST_Q12": "Røger du ?: (Hvis ja, hvor ofte og hvor mange?)",
+  "NUTRITIONIST_Q13": "Drikker du Alkohol ?: (Hvis ja, hvor ofte og hvor mange?)",
+  "NUTRITIONIST_Q14": "Drikker du koffein ?: (Hvis ja, hvor ofte og hvor mange?)",
+  "NUTRITIONIST_Q15": "Dato for sidste fysiske:",
+  "NUTRITIONIST_Q16": "Hvor mange gange har du fået foreskrevet antibiotika i de sidste 2 år:",
+  "NUTRITIONIST_Q16_BIS": "Hvis ja, Hvilke og hvor ofte, (Vær så specifik som muligt.)",
+  "NUTRITIONIST_Q17": "Tager du medicin? (OTC eller recept?) Hvis ja, hvilke og tager du kosttilskud? Hvis ja, hvor ofte, (Vær så specifik som muligt.)",
+  "NUTRITIONIST_Q18": "Er du oppustet eller forstoppet mere end 1-2 dage om ugen?",
+  "NUTRITIONIST_Q19": "Har du problemer på følgende områder? Hvis ja, beskriv venligst dine problemer i detaljer i de angivne rum.",
+  "NUTRITIONIST_Q2": "Ca. hvor mange måltider spiser du en dag? (Vælg en)",
+  "NUTRITIONIST_Q3": "Hvad består din typiske morgenmad af, og hvornår:",
+  "NUTRITIONIST_Q4": "Hvad består din typiske frokost af, og hvilken tid:",
+  "NUTRITIONIST_Q5": "Hvad består din typiske aftensmad af, og hvornår:",
+  "NUTRITIONIST_Q6": "Hvad består dine typiske snacks, og hvilken tid (er):",
+  "NUTRITIONIST_Q7": "Overstyrer du?",
+  "NUTRITIONIST_Q8": "Hvilke fødevarer har du tendens til at overeat og hvor ofte:",
+  "NUTRITIONIST_Q9": "Har du madallergier, restriktioner eller følsomheder:",
+  "NUTRITIONIST_SUB1": "Vægttab",
+  "NUTRITIONIST_SUB10": "Kvalme / opkastning",
+  "NUTRITIONIST_SUB11": "Mavesmerter",
+  "NUTRITIONIST_SUB2": "Vægtøgning",
+  "NUTRITIONIST_SUB3": "Energi / Træthed",
+  "NUTRITIONIST_SUB4": "Bedre søvn",
+  "NUTRITIONIST_SUB5": "Fordøjelsesproblemer",
+  "NUTRITIONIST_SUB6": "Forstoppelse",
+  "NUTRITIONIST_SUB7": "Diarré",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Oppustethed / Gas",
+  "nutrition_mail": "Vedhæftet er der ernæringseksperten",
+  "nutrition_mail2": "Ernæringseksperten sender dig en fil",
+  "nutrition_questionnaire": "ernæringsspørgeskema",
+  "nvisit": "Antal videocalls udført",
+  "obesity1": "fede",
+  "obesity2": "Alvorligt overvægtige",
+  "obesity3": "Morbid overveje",
+  "OFFICE_ADDRESS": "Kontoradresse",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Legen ser ud til at være offline, prøv venligst igen senere",
+  "OLDPWD_ERROR": "Ny adgangskode stemmer overens med den gamle adgangskode.",
+  "OLD_PASSWORD_WRONG": "Den gamle adgangskode er forkert",
+  "OLD_PWD": "Gammelt kodeord",
+  "oneDay": "En dag",
+  "one_min": "Om 1 minut",
+  "online": "Online",
+  "onlinedoctors": "Online læger",
+  "openimage": "Klik på billedet for at åbne i fuld skærm",
+  "open_ticket": "Åbn en billet",
+  "orale": "Ved munden",
+  "other": "Andet",
+  "othercbc": "Andre CBC-eksamener",
+  "OTHER_PLACEHOLDER": "Angiv venligst din specialitet",
+  "otoscopy": "otoskopi",
+  "otp_sent_msg": "Vi har sendt dig en bekræftelseskode på dit telefonnummer",
+  "OUR_PRODUCTS_SECTION": "Vores enheder giver realtidsdata om sundhed og wellness for at hjælpe dig med at holde styr på dit helbred.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Mål din lungesundhed i sekunder med et professionelt spirometer",
+  "OUR_PRODUCTS_SECTION_P1": "Smart bærbar teknologi, der giver sundhedstidsdata i realtid ud over wellnessfunktioner",
+  "OUR_PRODUCTS_SECTION_P2": "Fitness / Wellness Fordele",
+  "OUR_PRODUCTS_SECTION_P3": "Dit hjemmebaserede diagnostiske kit til hele familien.",
+  "OUR_PRODUCTS_SECTION_P4": "Funktioner",
+  "OUR_PRODUCTS_SECTION_P5": "Begge enheder er designet til at interagere med appen for at give en velafrundet sundhedserfaring. Dine resultater gemmes direkte i appen.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Mål dit boold-tryk i sekunder med et professionelt sphygmometer",
+  "OUR_PRODUCTS_SECTION_SCALX": "Mål din vægt i sekunder med en professionel skala",
+  "OUR_PRODUCTS_TITLE": "Vores Produkter",
+  "overeatFoods": "Fødevarer, der er overeated",
+  "overeating": "Overspændende tendens",
+  "overweight": "Overvægtig",
+  "pa": "Receptpligtig assistent",
+  "PASSWORD": "Adgangskode",
+  "passwordchanged": "Adgangskode med succes ændret!",
+  "passwordExpiringMessage": "Dit kodeord udløber snart. Venligst skift det nu",
+  "passwordExpiringTitle": "Adgangskoden udløber",
+  "PATIENT": "Patient",
+  "patientAllergy": "allergier",
+  "patientGeneticRequests": "Anmodninger om genetisk test",
+  "patientinfo": "Patientens oplysninger",
+  "patientlist": "Patientliste",
+  "patientmanagement": "Patientadministration",
+  "patientProtesi": "protese",
+  "PATIENTS_NO_P": "Du har i øjeblikket ingen planlagte aftaler",
+  "PATIENTS_SECTION": "Dine aftaler",
+  "PATIENTS_SECTION_SUBTITLE": "Klik på hvert element for at se detaljer",
+  "PATIENTS_TITLE": "Patienter",
+  "patientupdate": "Patient",
+  "patientvisit": "Patientbesøg historie",
+  "PATIENT_PROFILE_OPT1": "Min profil",
+  "PATIENT_PROFILE_OPT11": "Mine favoritter Læger",
+  "PATIENT_PROFILE_OPT12": "Tilføj favorit apotek",
+  "PATIENT_PROFILE_OPT2": "Min medicinske fil",
+  "PATIENT_PROFILE_OPT3": "Mit besøgshistorie",
+  "PATIENT_PROFILE_OPT4": "Mine favoritter",
+  "PATIENT_PROFILE_OPT5": "Mine filer",
+  "PATIENT_PROFILE_OPT6": "Mine notifikationer",
+  "PATIENT_PROFILE_OPT7": "EKG Upload",
+  "PATIENT_PROFILE_OPT8": "Oplysninger om medicinsk udstyr",
+  "PATIENT_PROFILE_OPT9": "Mine favoritter Apoteker",
+  "PATIENT_S1": "Patient",
+  "PATIENT_S2": "Taler om",
+  "PATIENT_S3": "Patientoplysninger",
+  "PATIENT_S4": "Emne af besøg",
+  "PATIENT_S5": "sygdomme",
+  "PATIENT_S6": "allergier",
+  "PATIENT_S7": "Medicin",
+  "PATIENT_S8": "Vedhæftede dokumenter",
+  "PATIENT_S9": "Symptomer?",
+  "PATIENT_SUMMARY": "Oversigt over patientoplysninger",
+  "patologia": "Patologi",
+  "payment": "Betaling",
+  "PAYMENT_DETAILS": "Betalingsoplysninger",
+  "PAYMENT_MESSAGE_1": "Du forhåndsgodkendes for et beløb på",
+  "PAYMENT_MESSAGE_2": "Du bliver opkrævet i slutningen af videocall",
+  "PAYMENT_SECTION1": "Vælg et kort fra listen",
+  "PAYMENT_SECTION2": "Indsæt kreditkortværdierne",
+  "PAYMENT_SUCCESS": "Betaling vellykket!",
+  "PAYMENT_SUCCESSFUL": "Vi har succesfuldt godkendt betalingen",
+  "PAYMENT_UNSUCCESSFUL": "Betaling forudgående godkendelse mislykkedes. Tjek dit kreditkort info eller spørg din bank.",
+  "paziente_rimosso": "Patientens status er blevet ændret",
+  "paziente_salvato": "Patient med succes opdateret",
+  "pdf_download_error": "Kan ikke downloade pdf. Prøv igen senere",
+  "pdf_file_error": "Kun pdf-filer er optaget",
+  "period": "Periode",
+  "PERIODIC_HEART_RATE": "Periodisk hjertefrekvens",
+  "personal": "Personlig",
+  "personalCare": "Personlig pleje",
+  "personalinfo": "Personlig information",
+  "PER_MIN": "/ min",
+  "pharmacies": "Apoteker",
+  "PHONE": "Telefonnummer",
+  "phone1": "telefon",
+  "pills": "Piller",
+  "PILLS_DATE_ERROR": "Startdato er efter slutdato",
+  "pill_reminder_message": "Det er på tide at tage dine piller",
+  "placeholder": "Brugernavn, e-mail eller navn",
+  "placeOfBirth": "Fødselssted",
+  "place_birth": "Fødselssted",
+  "platform": "Platform",
+  "poc": "PoC",
+  "POLICY_NUMBER": "Policenummer",
+  "positive": "Positiv",
+  "POSTCALL_DOCTOR_TITLE": "Resumé af besøget",
+  "POSTCALL_PATIENT_TITLE": "Vær venlig at bedømme din oplevelse",
+  "POUNDS": "pund",
+  "PRACTICE_LENGTH": "Længde i praksis",
+  "prenota": "Book nu",
+  "prenotatest": "Kræv en aftale",
+  "preobesity": "Pre-fedme",
+  "prescription": "Recept",
+  "prescriptiondiscounts": "Receptpligtige rabatter",
+  "PRESCRIPTIONS": "Recepter",
+  "prescriptions_sent": "Forsendelser sendt",
+  "prescription_mail": "Vedlagt er der din recept",
+  "prescription_mail2": "Tak fordi du bruger SaluberMD",
+  "prescription_notification": "Kære bruger, vi informerer dig om, at din recept er nu tilgængelig under afsnittet tidslinje / konferencehistorik i appen",
+  "prescription_pharmacy": "Vælg et apotek for at sende recepten",
+  "prescription_preview": "Prescription preview",
+  "prescription_sent": "Recept sendt",
+  "PRESCRIPTION_SENT_EMAIL": "Din recept er sendt til din email ...",
+  "prescription_subject": "Din recept",
+  "pressbutton": "Tryk på par-knappen på enheden og tryk på Find enhed",
+  "pressbuttonpresx": "Tryk og hold på par-knappen på bagsiden af enheden for at starte forbindelsen og tryk på knappen Find enhed på appen",
+  "pressbuttonscalx": "Tryk og hold på par-knappen på bagsiden af enheden for at starte forbindelsen og tryk på knappen Find enhed på appen",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Blodtryk",
+  "PRESX_PROD": "PRESX",
+  "previous": "Tidligere",
+  "pre_period": "Receptperiode",
+  "price": "Pris",
+  "price_per_visit": "Gebyr pr. Besøg",
+  "PRICING_SECTION1_P1": "SaluberMD er forpligtet til at levere praktisk, kvalitetspleje til overkommelige priser uden skjulte gebyrer eller afgifter.",
+  "PRICING_SECTION1_P2": "SaluberMD sørger for, hvor og hvor som helst du har brug for det via et videobesøg hos en bestyrelseslæge. Vores læger kan diskutere, undersøge og lytte til at diagnosticere dine problemer eller blot henvende sig til medicinske spørgsmål og bekymringer under videoopkaldet.",
+  "PRICING_SECTION1_P3": "Med vores eksklusive Medicfile kan du give din læge adgang til din medicinske historie, dine billeder og filer for at hjælpe dem med at give den mest effektive behandlingsplan.",
+  "PRICING_SECTION1_TITLE": "Pr. Besøg",
+  "PRICING_TITLE": "Prisfastsættelse",
+  "primaryConcern": "Primære bekymringer",
+  "primaryMood": "Humør primært",
+  "print": "Print",
+  "priority": "Prioritet",
+  "PRIVACY_POLICY_TITLE": "Fortrolighedspolitik",
+  "problems": "problemer",
+  "PROCEED_PAYMENT": "Fortsæt med betalingen",
+  "PROFESSIONAL_TITLE": "Professionelt afsnit",
+  "PROFILE_SECTION2": "Kontakt information",
+  "protesi": "Protese og medicinsk hjælpemidler",
+  "protesiobbligatorio": "Vælg venligst en protese type",
+  "prov": "prøve",
+  "publicAppUrl": "Din offentlige url til aftale er:",
+  "pulldown": "Træk ned for at opdatere",
+  "pull_request_processed": "Tak, vi har sendt din tilgængelighed til patienten",
+  "PWD_NOTMATCH": "Passordene stemmer ikke overens",
+  "P_P_Error": "Du skal acceptere fortrolighedspolitikken",
+  "QUALITY_INDEX": "Kvalitet",
+  "QUALITY_INDEX_DESCRIPTION": "Fysisk egnethed er niveauet af modstandsdygtighed og psykisk stress, der opstår i lyset af evnen til at tilpasse og håndtere situationen. Fysisk fitness indeks afspejler menneskekroppen for at tilpasse sig miljøændringer og stressstimulering, vedligeholde og genoprette sundhedsevnen. Fysisk egnethed er ofte manifesteret i potentialet i folks liv, læring og arbejde, men også naturligt i motion. En persons fysiske kvalitet er relateret til arvelighed, men er tættere forbundet med erhvervet ernæring og motion. Gennem korrekte metoder og korrekt træning kan han / hun forbedre sin fysiske kondition i alle aspekter.",
+  "quantity": "Antal",
+  "quesito": "Bekymring",
+  "QUESTIONS_SECTION_TITLE": "Modtag 1 gratis konsultation eller sundhedsvurdering, efter at du har udfyldt din medicinske fil fuldt ud.",
+  "QUESTIONS_TITLE": "spørgsmål",
+  "quindici": "Sidste 15 målinger",
+  "ratio": "Forhold",
+  "reccomendation": "reccomendation",
+  "reccomendations": "anbefalinger",
+  "recommendation": "anbefalinger",
+  "RECOMMENDATIONS": "anbefalinger",
+  "RECOMMEND_SECTION_P1": "Hos SaluberMD stræber vi efter at imødekomme efterspørgslen efter kvalitetssundhed i hele verden ved at tilbyde vores kunder adgang til en velafrundet gruppe af læger.",
+  "RECOMMEND_SECTION_P2": "Vi søger altid kvalitet Læger at tilføje til vores vidunderlige hold. Som medlem af vores team respekterer og værdsætter du dine henvisninger.",
+  "RECOMMEND_SECTION_P3": "Udfyld nedenstående formular for at henvise en læge til SaluberMD",
+  "RECOMMEND_SECTION_TITLE": "Anbefal en kollega",
+  "RECOMMEND_TITLE": "Anbefale",
+  "record_aggiornato": "Optag korrekt opdateret",
+  "record_aggiunto": "Optag med succes",
+  "record_inserito": "Tilsluttet tilføjet",
+  "record_rimosso": "Optag med succes slettet",
+  "REFERRAL": "Henvisning",
+  "REFERRALS": "Henvisninger",
+  "referrals_sent": "Henvisninger sendt",
+  "referral_mail": "Vedhæftet er der din henvisning.",
+  "referral_sent": "Henvisning sendt",
+  "refundrequestsent": "Din anmodning er blevet sendt",
+  "register": "Tilmeld",
+  "register_report": "Brugers registrering",
+  "registration_date": "Registrerings dato",
+  "REGISTRATION_HEADER_DOCTOR": "Deltag i Saluber MD teamet",
+  "REGISTRATION_HEADER_PATIENT": "Venligst udfyld felterne og tryk på registeret",
+  "releaserefresh": "Slip for at opdatere",
+  "remarks": "Bemærkninger",
+  "removedevice": "Vil du fjerne denne enhed?",
+  "removefavorite": "Fjern fra favoritter?",
+  "remove_generic": "Vil du fjerne det?",
+  "renalFunction": "Nyrefunktion",
+  "reoccurring": "gentager",
+  "repeat_email": "Bekræft Email",
+  "report": "Personlig klinisk fil: Fuld data rapport",
+  "report1": "Personlig klinisk fil:",
+  "report2": "Rapport",
+  "reportvisite": "Rapport videokallerne",
+  "report_date": "Rapportdato",
+  "requestdate": "Forespørgselsdato",
+  "request_already_taken": "Denne anmodning er allerede taget under ledelse af en anden læge.",
+  "REQUEST_ERROR": "Der opstod en fejl under behandlingen af dine anmodninger. Tjek din internetforbindelse eller prøv igen senere.",
+  "request_sent": "Din anmodning er blevet sendt til backoffice",
+  "required": "Dette felt er påkrævet.",
+  "required_field": "Filed Required",
+  "RESEND_EMAIL": "Send bekræftelseskode igen",
+  "resetCorxFactory": "Er du sikker på, at du vil nulstille Corx?",
+  "RESETPWD_BTN": "Nulstille kodeord",
+  "RESET_PASSWORD": "Indsæt e-mail eller brugernavn, der blev brugt under Tilmeldingen",
+  "respiratory": "Respiratorisk",
+  "RESPIRATORY_RATE": "Respirationsfrekvens",
+  "RESTORE_FACTORY_SETTINGS": "Gendan fabriksindstillinger",
+  "resultfound": "registrering fundet",
+  "results": "Resultater",
+  "ricettario": "Land",
+  "richiediDrug": "Anmod om stof",
+  "richiestaAppuntamento": "Ansættelsesanmodning",
+  "richiestaRimborso": "Anmodning om tilbagebetaling",
+  "ricovero": "indlæggelse",
+  "riepilogo": "Resumé",
+  "rightHanded": "Højrehåndet",
+  "rimborso": "Tilbagebetale",
+  "ripetibile": "Gentagelig for (gange)",
+  "rr_desc": "Åndedrætsfrekvensen er den hastighed, ved hvilken vejrtrækning forekommer. Den normale respirationshastighed for en hviletilstand er 12 til 20 vejrtrækninger pr. Minut. En respirationshastighed under 12 eller over 25 vejrtrækninger pr. Minut under hvilen betragtes som unormal",
+  "rs": "Åndedrætsorganerne",
+  "RUNNING_CALL_OPT1": "Genoptag",
+  "RUNNING_CALL_OPT2": "Afslut opkald",
+  "RUNNING_CALL_TITLE": "Løbende opkald",
+  "sa": "Stærk godkendelse",
+  "sadness": "Sorg",
+  "sai": "Aktivitetsindeks",
+  "sai_desc": "SAI er udelukkende baseret på din puls. Det er en simpel metrisk, der sporer kroppens reaktion på fysisk aktivitet - meget mere end bare trin. I modsætning til trinsporing giver SCI kredit for hver aktivitet, der hæver hjertefrekvensen: svømning, cykling, roing, dans, uanset. Hold det under 30 for et bedre og sundere liv.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD patient",
+  "SATURDAY": "lørdag",
+  "savedinfo": "Oplysninger med succes gemt",
+  "SAVE_BTN": "Gemme",
+  "SAVE_MESSAGE": "Hvis du forlader, vil dine ændringer gå tabt",
+  "sbpi": "Blodtryksindeks",
+  "sbpi_desc": "Højt blodtryk er den tavse morder. Dine systoliske og diastoliske blodtryksværdier estimeres under enhver medicinsk session, du udfører. Hold SBPI under 30 for at få lavere chancer for at lide af livstruende tilstande som slagtilfælde og blodpropper.",
+  "sbpi_title": "SBPI",
+  "SCALX": "Vægt",
+  "SCALX_PROD": "SCALX",
+  "scan": "Scan",
+  "scanningcorx": "Søger efter CORX ... Vent venligst",
+  "schedule": "Tidsplan",
+  "scheduleAnAppointment": "Planlæg en aftale",
+  "scheduleappointment": "Planlæg videokallet med en læge",
+  "schtime": "Planlagt tid",
+  "sci": "Kardiovaskulært indeks",
+  "sci_desc": "Ved at analysere din arterielle pulsbølge udledes vi indsigt i dit kardiovaskulære system. SCI-indekset er et resumé af din kardiovaskulære sundhed, prøv at holde den under 20!",
+  "sci_title": "SCI",
+  "SEARCH": "Søg",
+  "searchallergy": "Søg allergi",
+  "searchdoctor": "Søg læge",
+  "searchfordoctor": "Søg læge efter navn eller efternavn",
+  "searchingdevice": "Søgerenhed. Det kan tage et stykke tid",
+  "searching_avail_date": "Søger tilgængelig dato ...",
+  "searching_online_doctors": "Søgning af online læger i gang ...",
+  "searchmedication": "Søg medicin",
+  "searchpatient": "Søg patient",
+  "searchpatologia": "Søg medicinsk tilstand",
+  "searchsymptom": "Søgesymptom",
+  "searchuser": "Søg bruger",
+  "search_doctor_description": "Søg læge for brugernavn, email eller navn",
+  "search_patient_description": "Søg patient efter brugernavn, e-mail eller navn",
+  "search_specialization": "Søg specialisering",
+  "search_user_description": "Søg bruger efter brugernavn, e-mail eller efternavn",
+  "search_videocall_description": "Søg efter videocall udført af iniziative",
+  "search_videocall_title": "Serach Videocall efter dato",
+  "secondaryMood": "Humør Sekundær",
+  "secondOpinion": "Anden Udtalelsesanmodning",
+  "seconds": "sekunder",
+  "second_opinion_1": "Praktisk og pålidelig adgang til en medicinsk anden udtalelse fra de førende specialister rundt om i verden.",
+  "second_opinion_2": "Vores Medical Second Opinion Service kan hjælpe dig:",
+  "second_opinion_3": "Få svar på dine spørgsmål",
+  "second_opinion_4": "Vælg den bedste behandlingsplan",
+  "second_opinion_5": "Sørg for korrekt diagnose",
+  "second_opinion_body": "Kære bruger, <br> din anden opionsanmodning er taget til ansvar fra vores specialister, der gennemgår de dokumenter, du har sendt.",
+  "second_opinion_history": "Anden Udtalelsesanmodning",
+  "second_opinion_msg": "Tak skal du have. Vores sundhed advokat vil nå ud til dig inden for de næste 24 timer.",
+  "SECOND_OPINION_Q1": "Hvad vil du tale med ernæringseksperten?",
+  "second_opinion_question1": "Hvem er den anden mening for?",
+  "second_opinion_question2": "Upload en fil",
+  "second_opinion_step1": "Udfyld et kort spørgeskema / Upload dine filer",
+  "second_opinion_step2": "Vores læger vil evaluere dine materialer",
+  "second_opinion_step3": "Lægehøring for at diskutere dine resultater",
+  "secOpChoice": "Vælg venligst, hvilken måde du vil modtage second opinion",
+  "section": "Vælg venligst et afsnit",
+  "security": "Sikkerhed",
+  "seeaprovider": "Se en udbyder",
+  "seecommenti": "Se kommentarer",
+  "seedoctor": "Se en læge nu",
+  "SEE_A_DOCTOR_Q1": "Er videoopkaldet for mig eller for en anden?",
+  "SEE_A_DOCTOR_Q10": "Vi kan sende din recept direkte til apoteket efter eget valg",
+  "SEE_A_DOCTOR_Q1B": "Navn og fødselsdato for dit barn?",
+  "SEE_A_DOCTOR_Q1_A1": "Mig",
+  "SEE_A_DOCTOR_Q1_A2": "Mit barn",
+  "SEE_A_DOCTOR_Q2": "Beskriv venligst hvad du gerne vil tale med lægen om",
+  "SEE_A_DOCTOR_Q3": "Symptomer?",
+  "SEE_A_DOCTOR_Q4": "Vil du vedhæfte et billede eller et dokument?",
+  "SEE_A_DOCTOR_Q4_ERROR": "FEJL: Filerne må ikke overstige 5 MB",
+  "SEE_A_DOCTOR_Q4_S1": "Vælg en fil",
+  "SEE_A_DOCTOR_Q4_S2": "Tag et billede",
+  "SEE_A_DOCTOR_Q5": "Angår du i øjeblikket medicin, så angiv venligst navnet",
+  "SEE_A_DOCTOR_Q5_CHILD": "Tager dit barn i øjeblikket medicin? i så fald skal du angive navnet",
+  "SEE_A_DOCTOR_Q5_S1": "Navn:",
+  "SEE_A_DOCTOR_Q5_S2": "Dosering:",
+  "SEE_A_DOCTOR_Q6": "Har du allergier?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Har dit barn nogen allergier? i så fald skal du angive navnet",
+  "SEE_A_DOCTOR_Q7": "Har du nogen medicinske tilstande?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Har dit barn nogen medicinske tilstande? i så fald skal du angive navnet",
+  "SEE_A_DOCTOR_Q8": "Tillader du lægen at se din online medicinske fil?",
+  "SEE_A_DOCTOR_Q9": "Foretrukne apotek",
+  "SEE_A_DOCTOR_TITLE": "Se en læge",
+  "SEE_A_PROVIDER": "Se en udbyder",
+  "segment": "Segment",
+  "selectAFile": "Tryk på knappen nedenfor for at vælge en fil",
+  "selectaprovider": "Vælg en udbyder",
+  "selectcarderror": "Vælg venligst et kort",
+  "selectdoctor": "Administrer dagsordenen for",
+  "selectdoctor1": "Vælg lægen",
+  "selectdrug": "Vælg en medicin",
+  "selectedContact": "Midler til kontakt",
+  "selectinitiative": "Vælg en eller flere initiativer ...",
+  "selectnutritionist": "Vælg din egen ernæringsekspert",
+  "selectpatient": "selectpatient",
+  "select_country": "Vælg venligst et land",
+  "select_device": "Vælg en enhed",
+  "select_file": "Vælg fil",
+  "select_file_btn": "Vælg filen",
+  "select_patient": "Klik på en række for at se detaljerne",
+  "send": "Sende",
+  "sendmessage": "Send en besked",
+  "sendtoken": "Send dette til lægen for at give ham adgang til din medicinske fil. Dette link udløber om 10 minutter",
+  "SEND_BTN": "Sende",
+  "send_doctor_request": "Send en forespørgsel",
+  "sentmessage": "Sendede beskeder",
+  "SERVICE_TYPE": "Servicetype",
+  "sessantad": "Sidste 60 dage",
+  "SESSION_EXPIRED": "Din session er udløbet. Log ind igen",
+  "setAlarm": "Indstil alarmer",
+  "settd": "Sidste 7 dage",
+  "settings_saved": "Indstillingerne er gemt",
+  "setTreshold": "Indstil rækkevidde",
+  "SET_BTN": "Sæt",
+  "SET_USER_EMAIL": "Angiv venligst enten brugernavnet eller e-mailen",
+  "set_vital_signs": "Indstil vitale tegn",
+  "sevendays": "7 dage",
+  "showalldata": "Vis alle data",
+  "showOnEmergency": "Vis på nødsituation",
+  "signature": "Din underskrift (bruges til recept)",
+  "signature_word": "Underskrift",
+  "SIGNUP_BTN": "Tilmelde",
+  "sii": "Forsikringsindeks",
+  "sii_desc": "SII er en kombination af alle SaluberMD indekser og er et spejl af din generelle medicinske risiko. Hvis under 30 er du i sikker zone!",
+  "sii_title": "STIGNING",
+  "since": "Siden",
+  "single": "Eneste dag",
+  "singleAccess": "Enkelt adgang",
+  "sitreminder": "Sit påmindelse",
+  "sit_period": "Periode",
+  "skip": "Springe",
+  "skip_pull": "Ignorere",
+  "skip_step": "Springe",
+  "sl": "Stressniveau",
+  "SLEEP": "Søvn",
+  "slotime": "Slot Varighed (min)",
+  "sl_alta": "større end 85 bpm",
+  "sl_bassa": "lavere end 65",
+  "sl_desc": "Stressniveauet beregnes ud fra slag pr. Minut",
+  "sl_normale": "mellem 65 og 85 bpm",
+  "smoker": "Smoker",
+  "snacks": "Snacks",
+  "SOMETIMES": "Sommetider",
+  "SONNO": "Søvn",
+  "SOP_Q4": "Vedhæft din lægeerklæring",
+  "sos": "SOS",
+  "so_specialization": "Specialitet",
+  "specialists": "specialister",
+  "specialization": "Vælg specialet",
+  "SPECIALTY": "Specialitet",
+  "specifyother": "Angiv venligst andre",
+  "specifyvalue": "Vær venlig at angive en værdi",
+  "spirometer": "Spirometri",
+  "spo2_desc": "SpO2 eller blod oxygen niveau er et mål for, hvor meget ilt dine røde blodlegemer bærer. Normale værdier er mellem 95% og 100%. Et under normal blod oxygenniveau kaldes hypoxæmi",
+  "sri": "Åndedrætsindeks",
+  "sri_desc": "Vi analyserer dine vejrtrækningsmønstre i løbet af en medicinsk session og under din søvn. Hvis SRI er under 30, er dine chancer for at lide af obstruktiv vejrtrækningstilstand lav.",
+  "sri_title": "SRI",
+  "ssi": "Stress indeks",
+  "ssi_desc": "Ved at analysere din pulsvariabilitet kvantificerer vi dit stressniveau. Stress ser ud til at forværre eller øge risikoen for tilstande som fedme, hjertesygdom, Alzheimers sygdom, diabetes, depression, gastrointestinale problemer og astma. Hold det under 20 for at være på den sikre side!",
+  "ssi_title": "SSI",
+  "start": "Start",
+  "startcall": "Start opkald",
+  "startdate": "Fra",
+  "starthour": "Starttidspunkt",
+  "startmeasure": "Nu kan du starte målingen ved at trykke på bottonen på enheden",
+  "startnow": "Start nu",
+  "startRecording": "Tryk på start for at optage en stemme lyd",
+  "startyping": "Start med at skrive navnet",
+  "start_blowing": "Start blæser",
+  "start_test": "Start test",
+  "start_time": "Starttidspunkt",
+  "state": "Stat",
+  "state1": "Stat",
+  "STATES_LICENSE": "Stater Licenseret",
+  "state_problem": "Angiv venligst dit problem",
+  "status": "status",
+  "step": "Trin",
+  "STEPS_GOAL": "Trin mål",
+  "stoolTest": "Afføring test",
+  "stop": "Hold op",
+  "stop_test": "Stop test",
+  "stress": "Stress",
+  "stroke_vol": "Slagvolumen",
+  "stroke_volume": "Slagvolumen",
+  "stroke_volume_desc": "Berøringsvolumenet er volumenet af blod udstødt af hver ventrikel pr. Beat",
+  "struttura": "Struktur",
+  "strutture": "strukturer",
+  "subject": "Emne",
+  "subject_so": "Emne",
+  "submissionDate": "Indsendelsesdato",
+  "success": "Succes",
+  "SUCCESS_TITLE_NOTIFICATION": "Succes",
+  "SUMMARY": "Diagnose",
+  "summary1": "Resumé",
+  "SUNDAY": "Søndag",
+  "surgery": "Kirurgi",
+  "surgeryAndHospitalization": "Hospitalisering og kirurgisk historie",
+  "surgeryCategory": "Kirurgisk kategori",
+  "surname": "Efternavn",
+  "sv_alta": "større end 100",
+  "sv_bassa": "lavere end 55 ml",
+  "sv_normale": "mellem 55 og 100 ml",
+  "switchsearch": "Skift til søgning",
+  "symptoms": "Symptomer",
+  "SYMPTOMS_BTN": "Symptomer",
+  "sync": "Synkronisere",
+  "SYNC_TIME": "Synkroniseringstid",
+  "sysdia": "Tryk",
+  "systolic": "Systolisk",
+  "TAKE": "Tage",
+  "takeAppointment": "Tag en aftale",
+  "TAKE_APP": "Planlæg aftale",
+  "TAKE_A_PHOTO": "Tag et billede",
+  "tall": "Hvor høj er du",
+  "tapconnect": "Tryk for at oprette forbindelse",
+  "tapdisconnect": "Tryk for at afbryde forbindelsen",
+  "tap_to_expand": "Tryk for at udvide",
+  "telNameMandatory": "Angiv venligst et navn",
+  "telNumberMandatory": "Angiv venligst et telefonnummer",
+  "temper": "Temperament",
+  "temperDescription": "En følelsesmæssig foranstaltning, der dækker et højttalers hele humørområde. Lavt temperament beskriver depressive og dyster stemninger. Middels temperament beskriver venlige, varme og ambraøse stemninger. Høj temperamentværdier beskriver konfronterende, dominerende og aggressive stemninger.",
+  "tendays": "Sidste 10",
+  "ten_min": "Om 10 minutter",
+  "terminata": "Ring til succes",
+  "TERMS_TITLE": "Vilkår for brug",
+  "test": "Prøve",
+  "testmichele": "Test michele",
+  "testresult": "Testresultater",
+  "testresults": "Test resultater",
+  "tests": "Tests",
+  "text": "Tekst",
+  "thiscC": "Dette kreditkort bruges til at betale for tjenesten",
+  "THURSDAY": "torsdag",
+  "thyroidTest": "Tyroideafunktionsforsøg",
+  "tickets": "Billetter",
+  "TICKET_HISTORY": "Billethistorie",
+  "TICKET_NUMBER": "Billetnummer",
+  "ticket_subject": "Anmod om emne",
+  "timecallerr": "Beklager, du kan ikke foretage opkaldet endnu",
+  "timecallerr1": "Beklager, du connot gør opkaldet fordi du er uden for den planlagte tid",
+  "TIMELINE": "Mine tidslinjer",
+  "times": "Hvor mange gange om dagen?",
+  "timesaday": "Tider om dagen",
+  "tipopratica": "Øvelsestype",
+  "tipo_struttura": "Struktur type",
+  "tipshealt0": "Sundhedstips",
+  "tipshealt1": "Flu skud - Skal jeg vaccineres mod influenza?",
+  "tipshealt10": "Klik her for mere information",
+  "tipshealt11": "Fordelene ved statinsbehandling, de sænkende kolesterollægemidler, opvejer risiciene",
+  "tipshealt12": "I en nylig gennemgået artikel i Lancet konkluderede forskerne, at fordelene ved at sænke LDL-kolesterol med statinbehandling sandsynligvis forhindrer større vaskulære hændelser (hjerteanfald, slagtilfælde) og det opvejer risikoen ved lægemidlet.",
+  "tipshealt13": "Ifølge forskerne er de eneste alvorlige bivirkninger, der har vist sig at være forårsaget af langvarig statinbehandling, myopati (defineret som muskelsmerter eller svaghed), nyblivende diabetes mellitus og sandsynligvis hæmoragisk slagtilfælde.",
+  "tipshealt2": "Selv om influenzavaccinen ikke altid giver total beskyttelse, er det værd at få. CDC (Centers for Disease Control and Prevention) anbefaler årlige influenzavaccinationer for alle i alderen 6 måneder eller ældre. Vaccination er særlig vigtig for personer med høj risiko for influenzaprokomplikationer, herunder",
+  "tipshealt3": "Gravid kvinde",
+  "tipshealt4": "Ældre voksne (50 år og ældre)",
+  "tipshealt5": "Unge børn (under 4 år og over 6 måneder)",
+  "tipshealt6": "Fysisk aktivitet forbedrer hukommelses- og tankegang",
+  "tipshealt7": "Regelmæssig fysisk aktivitet kan forbedre hjernens funktion i løbet af en levetid og mindske risikoen for demens.",
+  "tipshealt8": "Der er blevet offentliggjort talrige undersøgelser om den tætte interaktion og fordelene ved regelmæssig fysisk aktivitet og forbedret kognitiv funktion.",
+  "tipshealt9": "Indflydelsen er direkte på hjernen og indirekte gennem metaboliske og fysiske handlinger på kroppen.",
+  "title": "Titel",
+  "to": "til",
+  "todayAppointment": "Dagens aftale",
+  "tooltip1": "Indtast navnet på den læge, du vil styre dagsordenen",
+  "totale": "i alt",
+  "totalSleepTime": "Samlet søvntid",
+  "total_cholesterol_desc": "Denne værdi er et skøn over alt kolesterol i blodet",
+  "TOTAL_SLEEP_TIME": "Total hviletid",
+  "tot_non_risposte": "Opkald ikke besvaret",
+  "tot_ricevute": "Opkald modtaget",
+  "tot_visite": "Besøg udført",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Overførsel",
+  "trenta": "Sidste 30 målinger",
+  "trentad": "Sidste 30 dage",
+  "triglycerides": "Triglycerider",
+  "trig_cholesterol_desc": "Triglycerider er en type fedt (lipid), der findes i dit blod. Følgende tabel viser værdienes rækkevidde.",
+  "TUESDAY": "tirsdag",
+  "tutte": "Alle målinger",
+  "type": "Type",
+  "TZONE": "Tidszone",
+  "underweight": "Undervægt",
+  "unit": "Enhed",
+  "UNIT_SETTING": "Enhedsindstilling",
+  "uom": "Måleenhed",
+  "upcomingAppointmentPatient": "Kommende aftaler af",
+  "UPDATE": "Opdatering",
+  "updatelist": "Opdateringsliste",
+  "update_app_message": "Du skal opdatere din app",
+  "UPDATE_AVAILABLE": "Opdatering tilgængelig",
+  "UPDATE_BTN": "Opdatering",
+  "update_completed": "Firmware opdateret succesfuldt",
+  "update_firmware_download_error": "Fejl ved download af firmwaren",
+  "update_list": "Opdatering",
+  "UPLOAD_ERROR": "FEJL: Filerne må ikke overstige 5 MB",
+  "upload_referral": "Upload din henvisning i boksen nedenfor.",
+  "urinTest": "Urinprøver",
+  "user": "Bruger",
+  "userdata": "Brugerdata",
+  "usermanagement": "Brugeradministration",
+  "USERNAME": "Brugernavn",
+  "username1": "Brugernavn",
+  "utente_aggiunto": "Bruger tilføjet",
+  "utente_rimosso": "Bruger er slettet korrekt",
+  "utente_salvato": "Bruger med succes opdateret",
+  "vaccinobbligatorio": "Vælg venligst en immunisering",
+  "vaioffline": "Gå offline",
+  "vaionline": "Gå online",
+  "valence": "Valence",
+  "valenceDescription": "En variabel spænder fra negativitet til positivitet. Når man lytter til en personsamtale, er det muligt at forstå, hvordan &quot;positive&quot; eller &quot;negative&quot; de føler om emnet, objektet eller arrangementet under drøftelse.",
+  "value": "Værdi",
+  "vascular_age": "Vaskulær alder",
+  "vascular_age1": "Vaskulær alder",
+  "va_desc": "Vaskulær alder giver dig et mål for den tilsyneladende alder hos dine arterier, sammenlignet med raske mennesker. Hvis din vaskulære alder er større end din kronologiske alder, kan du risikere at udvikle kardiovaskulær sygdom senere i livet.",
+  "videocall": "videocall",
+  "VIDEOCALL_DES1": "Tryk på knappen nedenfor for at ændre din status og modtage eller ikke modtage meddelelserne. Husk at du kun kan modtage anmeldelsen, når du er online.",
+  "VIDEOCALL_DES2": "Når du modtager et opkald, skal du klikke på det rektangel, der vises for at tage opkaldet.",
+  "videocall_filter": "Filtrer efter navn eller specialitet",
+  "videocall_request": "Ny video call anmodning fra",
+  "videocall_request_title": "Videocall Request",
+  "videocall_req_from": "Videocall anmodning fra:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "Klik for at aktivere videoen",
+  "VIDEO_CALL_BTN": "Videoopkald",
+  "VIDEO_CALL_BTN_1": "video",
+  "view": "Udsigt",
+  "viewmedicalfile": "Se medicinsk fil",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Opret dit virtuelle kontor",
+  "VIRTUAL_OFFICE_TITLE": "Virtual Office",
+  "visitdetail": "Klik på hvert element for at se en patients fuldstændige historie",
+  "visithistory": "Besøg historie",
+  "visitlist": "Liste over besøg",
+  "VISIT_HISTORY_NO_HISTORY": "Du har endnu ikke besøgt",
+  "VISIT_HISTORY_SUBTITLE": "Klik på hvert element for at se detaljer",
+  "VISIT_HISTORY_TITLE": "Besøg historie",
+  "volte": "Times",
+  "waiting": "Forarbejdning...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Varme",
+  "WARNING_TITLE_NOTIFICATION": "Opmærksomhed",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Sundhedsdata",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Wellness data",
+  "WATCH_DEVICE_DATA_TITLE": "Dine ur enhedens data",
+  "water": "Vand",
+  "weanedoff": "Afvænnet?",
+  "WEDNESDAY": "onsdag",
+  "week": "Uge",
+  "weight": "Vægt",
+  "weightUnit": "Vægt Enhed",
+  "welcome": "Velkommen",
+  "wellness": "Wellness",
+  "wellnessdata": "Wellness data",
+  "wellnessSuccess": "Succes",
+  "WHITE_SPACES": "Brugernavnet må ikke indeholde hvide mellemrum",
+  "WRIST_CUT_SCREEN": "Drej håndledskæringsskærm",
+  "writtenRep": "Skriftlig rapport",
+  "W_RESPIRATORY_RATE": "Åndedrag",
+  "xray": "X-Ray",
+  "Y": "Ja",
+  "year": "År",
+  "years": "flere år",
+  "yes": "Ja",
+  "yourarousal": "Din ophidselse",
+  "youremotion": "Dine følelser",
+  "yourmood": "Dit humør",
+  "yourtemper": "Dit temperament",
+  "yourvalence": "Din valens",
+  "your_sai": "Dit aktivitetsindeks er:",
+  "your_sbpi": "Dit blodtryksindeks er:",
+  "your_sci": "Dit hjerteindeks er:",
+  "your_sii": "Dit forsikringsindeks er",
+  "your_sri": "Dit åndedrætsindeks er:",
+  "your_ssi": "Dit stressindeks er:",
+  "your_stress": "Dit stressniveau er:",
+  "your_va": "Din vaskulære alder er:",
+  "zero_min": "Nu",
+  "zipCode": "Postnummer",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}

@@ -1,0 +1,4355 @@
+{
+  "aboutus": "Guri buruz",
+  "ABOUT_US_CONDITION_1": "Hotza eta Gripea",
+  "ABOUT_US_CONDITION_2": "Azalaren baldintzak",
+  "ABOUT_US_CONDITION_3": "Alergiak",
+  "ABOUT_US_CONDITION_4": "Eztarri urratua",
+  "ABOUT_US_CONDITION_5": "Tripako mina",
+  "ABOUT_US_DOCTOR_BENEFIT1": "SARBIDEA SORTZEN:",
+  "ABOUT_US_DOCTOR_BENEFIT1_DESC": "Sei pazienteren arabera ordubete (bisita birtuala 10 minututan irauten du);",
+  "ABOUT_US_DOCTOR_BENEFIT2": "EZ DUTE MUNDUAN ANIZTASUN BABESA:",
+  "ABOUT_US_DOCTOR_BENEFIT2_DESC": "Gaixoaren harremanak areagotu gaixoen eta paziente berrien tratamendua munduko edozein lekutan;",
+  "ABOUT_US_DOCTOR_BENEFIT3": "DOAKO VIRTUAL PRACTICE GET DOAKO:",
+  "ABOUT_US_DOCTOR_BENEFIT3_DESC": "Hazten zure uneko praktika eta aukera gehiago eskaintzeko pazienteentzat;",
+  "ABOUT_US_DOCTOR_BENEFIT4": "PAZIENTE PRODUKTU BISITALDI BEREZIAK:",
+  "ABOUT_US_DOCTOR_BENEFIT4_DESC": "Pazienteek dokumentuak, argazkiak eta laneko emaitzak bidal ditzakete etxetik irten gabe eta zure gaixoaren osasuna urrunetik kontrolatzeko;",
+  "ABOUT_US_DOCTOR_BENEFIT5": "Identifikatu noraino arreta behar duten eskuak berehala eta urruneko tratamenduak onura atera ahal izateko etxetik irten gabe;",
+  "ABOUT_US_DOCTOR_BENEFIT5_DESC": "SARBIDEA SORTZEN:",
+  "ABOUT_US_DOCTOR_BENEFIT6": "ORDUTEGIA FLEXIBLEAK:",
+  "ABOUT_US_DOCTOR_BENEFIT6_DESC": "Zure orduak ezartzeko eta zure ordutegia ezartzeko gaitasuna.",
+  "ABOUT_US_DOCTOR_SECTION1_P1": "Sartu mugimendua osasunarentzako sarbide fidagarri, merkean eta orokorrean 15 minututan edo gutxiagotan ematea.",
+  "ABOUT_US_DOCTOR_SECTION1_P2": "Saluber MD medikua-gaixoaren harremanak iraultzeko diseinatuta dago, 24/7 osasunerako sarbidea orokorrean sortuz.",
+  "ABOUT_US_DOCTOR_SECTION1_P3": "Medikuaren onurak",
+  "ABOUT_US_DOCTOR_TITLE": "Guri buruz",
+  "about_us_section1_p1": "SaluberMD Osasun Digitala da, mundu osoko osasun-emaitzak hobetzeko zerbitzu medikoak eta produktuak eraldatzeko eskainitako erakundea da. Gure Digital Medikuntza Atezaintza zerbitzuak eskaintzen ditu osasun eta ongizatearen onurak, medikuntzako ziurtagiriak, 18 hizkuntzatako osasun fitxa pertsonala, zure osasuna monitorizatzeko erabilgarriak eta osasun profesionalen eta zerbitzuen sarera sartzeko.",
+  "ABOUT_US_SECTION1_TITLE": "Guri buruz",
+  "ABOUT_US_SECTION2_P1": "Kokapen geo-lokalizaziorako gure aplikazioek zure inguruko Mediku onena aurkituko du. SaluberMD Medikuek bideoaren bidez zure egoera medikoa diagnostikatu, tratatu edo eztabaidatu dezakete eta tratamendu plan egokia eskaintzen dizute. Medikuaren bulegoetan tratatutako baldintza ohikoenetako asko bideoko bisita batekin tratatu daitezke. <br/> Tratatzen ditugun zenbait baldintza:",
+  "ABOUT_US_SECTION2_P2": "Zure erregistro mediko pertsonala zure osasunaren datuak, irudiak eta fitxategiak gordetzeko leku aproposa da. Jarrai ezazu zure osasunaren jarraipena 24/7 zure mediku erregistro guztietara sartzeko. Etxean edo atzerrira bidaiatzen duzun informazioa zure esku dago zure osasun profesionalarekin partekatzeko. Medikuntza erregistro pertsonala erabiltzeko erraza da 18 hizkuntzatan.",
+  "ABOUT_US_SECTION2_TITLE": "Nola dabil?",
+  "ABOUT_US_SECTION3_P1": "Medikuntzako ziurtagiririk onenen artean soilik SaluberMD-en laguntza medikoa ematen da. Profesional hauek egiaztatzen, zabaltzen eta trebatu egiten dira kalitatezko arreta emateko. Mediku bakoitzak biok du bere atzeko planoa, kredentzialak eta esperientzia ikusi ahal izateko. SaluberMD gure medikuei kalitatearen kudeaketa iraunkorra konprometituta dago. Kalifikazio sistema batek pazienteek medikuak baloratu eta medikuek orokorrean baloratu ahal izateko aukera ematen diote.",
+  "ABOUT_US_SECTION3_TITLE": "Gure medikuei",
+  "ABOUT_US_TITLE": "Guri buruz",
+  "above_warning": "Aurreko balioak arriskuan daude",
+  "accept": "Onartu",
+  "acceptablerange": "Sorta onargarria",
+  "ACCEPT_BTN": "Onartu",
+  "acquire": "Lortu datuak",
+  "acronym": "akronimoa",
+  "action": "Ekintza",
+  "actions": "Ekintzak",
+  "actionTaken": "Ekintza hartua",
+  "activity": "Jarduera",
+  "acutecare": "Zaintza akutua",
+  "add": "New",
+  "addavailability": "Gehitu zure eskuragarritasuna",
+  "addcomment": "Gehitu iruzkinak hemen",
+  "adddescription": "Gehitu zure deskribapena hemen",
+  "adddrugs": "Bilatu droga bat beheko bilaketa koadroa erabiliz eta markatu kontrol-laukia errezetatzeko",
+  "addedFavourite": "Zure gogokoetara egokitu da",
+  "addedFavourite2": "Zure gogokoetara egokitu da. sakatu eguneraketa botoia bistaratzeko.",
+  "addedFavourite3": "Behar bezala gehitu da  nEgiaztatu freskatzeko",
+  "addFavourite": "Gogokoetan gehitu",
+  "ADDING_SLOT": "Zirrikituak gehitzea .... honek denbora gutxi beharko du.",
+  "addNew": "Gehitu berria",
+  "addpharmacies": "Egin klik botoian zure gogoko farmaziak gehitzeko",
+  "addpharmacy": "Gehitu farmazia",
+  "addreminder": "Sakatu plus botoia zure botikak gogorarazteko.",
+  "address": "Helbidea",
+  "address2": "Bidalketa helbidea",
+  "address3": "Zerbitzuaren helbidea",
+  "addsintomi": "Gehitu sintomak",
+  "addslot": "Gehitu zirrikitua",
+  "add_description_file": "Gehitu deskribapena (ez derrigorrez)",
+  "add_new": "Gehitu",
+  "affaticamento_grave": "Gogorra nekea",
+  "affaticamento_minore": "Minor Nekea",
+  "agenda": "Nire agenda",
+  "agenda_report": "Txostenak izendatzea",
+  "aggiungi": "Sortu",
+  "AGREE_BTN": "Ados",
+  "alcoholDesc": "Alkoholak bere gain hartu zuen",
+  "all": "guztiak",
+  "alldata": "Datu guztia",
+  "allergia": "Alergia",
+  "allergia_aggiunta": "Alergia arrakastaz sortu zen",
+  "allergia_rimossa": "Gaixoaren alergia behar bezala ezabatu da",
+  "allergia_salvata": "Gaixoaren alergia behar bezala eguneratu da",
+  "allergie": "Alergiak",
+  "allimages": "Irudi guztiak",
+  "alreadyAddedF": "Botikari hau dagoeneko zure gogokoetan dago",
+  "alreadyRegistred": "Helbide elektroniko hau dagoeneko kanpoko sisteman dago. Sartu aplikazioan hitzordua jartzeko.",
+  "alreadyTaken": "Hitzordua dagoeneko hartu da",
+  "alta": "High",
+  "alto": "High",
+  "amonth": "30 egun",
+  "anger": "Anger",
+  "annoinizio": "Urtea hasi zen",
+  "antibiotics": "Antibiotikoak",
+  "an_error_occurred": "Ene! Une honetan ezin dugu zure eskaera aurreprozesatu. Saiatu berriro geroago",
+  "appointment": "hitzordua",
+  "appointmentlist": "Zerrenda zerrenda",
+  "appointments": "Hitzorduak",
+  "appointmentsDescription": "Ordutegiaren hitzorduen zerrenda",
+  "appointment_body_doc": "Hitzordu berria programatu da",
+  "appointment_calcelled_title": "Hitzordua bertan behera utzi da",
+  "appointment_cancelled": "Hitzordua bertan behera utzi du",
+  "appointment_email_body": "Zure medikuarekin hitzordua berresten dugu",
+  "appointment_history": "Izendapenen historia",
+  "appointment_now": "Zure hitzordua orain hasi",
+  "appremainder": "Izendapenaren gainerakoa",
+  "appremainder1": "5 minututan programatutako bideoklipa duzu",
+  "appremainder2": "Bideoklipa 30 minututan banatu dituzu",
+  "appremainder3": "Bideoklipa 120 minututan banatu duzu",
+  "APPROX_DATA": "Beste Wellness datuak",
+  "appuntamenti": "Hitzorduak",
+  "appuntamenti_presi": "Programatutako hitzordua",
+  "appuntamento_clinica": "Eskatu klinika izendatzea",
+  "APPUNTAMENTO_CONGIUNTO": "Bideoklip bat erreserbatu nahi duzu?",
+  "app_description": "Gehitu zure hitzorduaren arrazoiak beheko laukian",
+  "app_details": "Hitzorduen xehetasunak",
+  "app_missing": "Laguntza aplikazioa ez dago instalatuta",
+  "ARIAX": "Breath Rate",
+  "ARIAX_PROD": "ARIAX",
+  "arousal": "arousal",
+  "arousalDescription": "Tranbiak edo aspergabekeriak lasaitasuna eta ilusioa eragiten dituen aldagai bat. Kontzeptu antzekoak dira, hala nola, aktibazio eta estimulazio maila.",
+  "assign_specialist": "Eska ezazu espezialista bati",
+  "associa": "elkartua",
+  "attachment": "eranskina",
+  "ATTACH_A_PHOTO": "Erantsi argazki bat",
+  "BACKGROUND": "Aurrekariak",
+  "BACKGROUND_PLCHOLDER": "Sartu biografia laburra.",
+  "backhomeconfirm": "Ziur etxera itzultzea?",
+  "BACK_BTN": "Back",
+  "BACK_LOGIN": "Itzuli saioa hasteko",
+  "bad_file": "Ezin da fitxategia ireki",
+  "basicinfo": "Oinarrizko informazioa",
+  "bassa": "Behe",
+  "basso": "txikia",
+  "below_warning": "Jarraian dauden balioak arriskuan daude",
+  "benefits": "Atezaintzaren prestazioak",
+  "beyondverbal": "Emozioek egiten dugun guztia gidatzen dugu, baina ahotsak bultzatutako emozioen analisiak interfaze garrantzitsuena eta esploratu gabea izaten jarraitzen du gaur. Verbal haratago dago hori aldatzeko konpromisoa.",
+  "beyondverbal_analyze": "Aztertu zure aldartea",
+  "beyondverbal_history": "Emaitza historikoak",
+  "beyondverbal_instruction": "Galdera erantzuteko prest dagoenean, sakatu hasteko botoia",
+  "BIRTHDATE": "Urtebetetze data",
+  "birthday": "Urtebetetze",
+  "blank_agenda": "Gaur ez dago zirrikituik",
+  "bloatedOrContipated": "Geztia edo kozina",
+  "bluetooth_error": "Gaitu bluetootha jarraitu aurretik",
+  "BOARD": "Kontseiluko ziurtagiria",
+  "bones": "Bones",
+  "bp": "Odol-presioa",
+  "bpm": "bpm",
+  "BP_DESCRIPTION": "Erreferentzia-taula Blood Pressure balioak",
+  "breakfast": "gosari",
+  "btnback": "Back",
+  "btndelete": "ezabatu",
+  "btndisabledoctor": "Ezgaitu medikua",
+  "btndisablepatient": "Desgaitu pazientzia",
+  "btnenabledoctor": "Gaitu medikuak",
+  "btnenablepatient": "Gaitu pazientzia",
+  "btnsave": "Save",
+  "BTN_LOAD_MORE": "Kargatu gehiago",
+  "buttonsearch": "Search",
+  "bvFailed": "Huts egin du zure ahotsa aztertzeko, gehiago hitz egin behar duzu!",
+  "bvInstruction": "20 segundotan edo gehiago hitz egiten jarrai dezazun",
+  "bvInstruction2": "20 segundotan hitz egiten jarraitu",
+  "ca": "Sistema kardiobaskularra",
+  "call": "Call",
+  "callCancel": "Ezin da iraungitako deia bertan behera utzi",
+  "calldoctor": "Deitu medikuari",
+  "calling_number": "Dei kopurua",
+  "callthedoctor": "Deitu medikua",
+  "calltransfer": "Deia transferitzea ...",
+  "CALL_ALREADY_TAKEN": "Deitu dagoeneko hartua",
+  "CALL_DOCTOR_INFO": "Doctor Info",
+  "CALL_DURATION": "Deiaren iraupena",
+  "call_instruction": "Mediku bat deitu bezain laster bidaliko dizugu jakinarazpena. Egin klik jakinarazpenean bideoklala abiarazteko jaso bezain laster. Jakinarazpenak ezabatu badituzu, nire osasun profileko jakinarazpenen atalean jaso dezakezu.",
+  "CALL_NOTIFICATIONS": "Telefono deiak",
+  "CALL_NO_INCOMING": "Ez dago sarrerako deirik",
+  "CALL_TRANSFER_INFO": "Deitu transferentzia informazioa",
+  "CALL_WAITING": "Itxaron mediku eskuragarri bat bilatzen dugunean",
+  "CALL_WAITING_2": "Itxaron medikuak zure fitxategia berrikusten duenean",
+  "calories": "Kaloriak",
+  "cancel": "Utzi",
+  "cancelAppointment": "Utzi hitzordu hau",
+  "CANCEL_BTN": "Utzi",
+  "CAP": "Posta Kodea",
+  "cardiac_output": "Bihotz irteera",
+  "cardiac_output1": "Bihotz irteera",
+  "cardiac_output_desc": "Bihotz-irteera odoleko odol-kopurua zenbatekoa den minutuko minutukoa da.",
+  "cardiovascular": "kardiobaskularrak",
+  "CARD_CVC": "CVC",
+  "CARD_CVC_ERROR": "CVC baliogabea",
+  "CARD_EXPIRY_DATE": "Iraungitze data",
+  "CARD_MONTH_ERROR": "Hilabete baliogabea",
+  "CARD_NUMBER": "Txartel zenbakia",
+  "CARD_NUMBER_ERROR": "CC zenbakia baliogabea",
+  "CARD_YEAR_ERROR": "Urteko baliogabea",
+  "category": "Kategoria",
+  "cbc": "CBC",
+  "CCV_REQUIRED": "CCV beharrezkoa da",
+  "CERROR": "Kontaktu okerra",
+  "certificate_attachment": "Erantsita dago zure mediku ziurtagiria",
+  "certificate_email": "Erantsita dago zure mediku ziurtagiria",
+  "certificate_header": "Egindako ebaluazio medikoa oinarritzat hartuta, hau da:",
+  "certificate_sent": "Ziurtagiria bidali da",
+  "certification_subject": "Zure mediku ziurtagiria",
+  "cf": "Zerga Kodea",
+  "cf_error": "Mesedez, zehaztu zure zerga-kodea",
+  "changeschedule": "Aldatu denbora",
+  "CHANGE_PWD_SECTION_SUBTITLE": "Zure pasahitza iraungi da, aldatu ezazu.",
+  "CHANGE_PWD_SECTION_TITLE": "Aldatu pasahitza",
+  "CHANGE_PWD_TITLE": "Zure pasahitza iraungi egingo da, aldatu",
+  "checking_net_condition": "Interneteko konexioa egiaztatzen ...",
+  "CHECK_PARAMETERS_CORX": "Mesedez, sartu pisua eta altuera profileko atalean, ongietateko balioak kalkulatzeko.",
+  "CHL_TOT": "Kolesterol totala",
+  "choosedate": "Aukeratu data bat",
+  "chooseDateDescription": "Egin klik data bat hedatzeko eta aukeratu ordua",
+  "chooseprofile": "Zu zara?",
+  "choosespeciality": "Aukeratu espezialitate medikoa",
+  "choosetransferdoctor": "Aukeratu medikua",
+  "CHOOSE_A_DOCTOR": "Aukeratu zure medikuak",
+  "chosedoctor": "Mesedez, aukeratu medikua",
+  "city": "hiria",
+  "city1": "hiria",
+  "city2": "hiria",
+  "clearsignature": "Garbitu sinadura",
+  "clickitem": "Egin klik elementu bakoitzean xehetasun guztiak ikusteko",
+  "clickrow": "Egin klik errenkadan, hautatu",
+  "clickToOpen": "Egin klik fitxategia irekitzeko",
+  "click_to_start_call": "Egin klik medikuaren gainean deia hasteko",
+  "clinics": "klinikak",
+  "CLOCK_FORMAT": "Erlojuaren formatua",
+  "closeappconfirm": "Ziur aplikazioa itxi nahi duzula?",
+  "CLOSE_BTN": "Itxi",
+  "cm": "cm",
+  "CODE": "Kodea",
+  "code_not_valid": "Kodea txertatua ez da baliozkoa",
+  "code_verified": "Kodea behar bezala egiaztatu da!",
+  "coffeeDesc": "Kafea hartu zuen",
+  "COMMENT": "comentario",
+  "commenti": "Oharrak",
+  "COMPANY_NAME": "Enpresa",
+  "COMPLAIN": "kexatu",
+  "COMPLETE_PROFILE": "Jarraitu zure profila jarraitzeko",
+  "COMPLETE_PROFILE_TITLE": "Mesedez, osatu zure profila",
+  "complications": "konplikazioak",
+  "concernlist": "Mesedez zerrendatu zure lehen kezka / kezkak",
+  "CONFIRM": "Ados",
+  "confirm_app": "Berretsi zure hitzordua",
+  "CONFIRM_EMAIL_TITLE": "Berretsi E-posta",
+  "CONFIRM_PWD": "Pasahitza baieztatu",
+  "connect": "Sakatu Konektatu botoia gailua konektatzeko",
+  "connectbtn": "Lotu",
+  "connectedto": "Konektatuta",
+  "connecting": "Konektatu ... itxoin",
+  "connection_progress": "Gailua konektatzen ...",
+  "CONSULT": "kexatu",
+  "consult1": "kontsultatu",
+  "consultation": "Consulta",
+  "consultationHistory": "Kontsulten historia",
+  "contact": "Harremanetarako",
+  "CONTACT_US_BTN": "Jarri gurekin harremanetan",
+  "CONTACT_US_SECTION_TITLE": "Mesedez, jarri gurekin harremanetan edozein zalantza edo laguntza erabiliz.",
+  "CONTACT_US_TITLE": "Jarri gurekin harremanetan",
+  "contatti": "Harremanetarako informazioa",
+  "continue": "Jarraitu",
+  "copy_url": "Kopiatu URL",
+  "CORX": "EKG",
+  "corxDidFailEcg": "Errorea EKG lortzean",
+  "corxDidFailWellness": "Errorea ongizate datuak lortzean",
+  "corxDidNoEcg": "Ez dago EKG datuik",
+  "corxDidNoWellness": "Ez dago ongizate datuik",
+  "CORX_DATA": "CorX datuak",
+  "corx_disconnected": "Corx deskonektatuta",
+  "CORX_PROD": "CORX",
+  "corx_wh": "Mesedez, zehaztu pisua eta altuera orretan, hurrenkeraren parametroak behar bezala kalkulatzeko.",
+  "COUNTRY": "Herria",
+  "country1": "Herria",
+  "county": "county",
+  "co_alta": "8 L / min baino handiagoa",
+  "co_bassa": "4 L / min baino txikiagoa",
+  "co_normale": "4 eta 8 l / min artean",
+  "creditCard_selected": "Hautatutako txartela zerbitzu honengatik kobratuko da",
+  "currency": "Moneta",
+  "C_SPECIALTY": "Espezialitate pertsonalizatua",
+  "dailyuse": "Eguneko erabilera",
+  "dashboardVideocall": "Arbel bideoa",
+  "dataerror": "Aukeratutako data / ordua uneko data / ordua gainditu da",
+  "dataexists": "Dagoeneko hitzordu bat dago hautatutako data eta orduarekin",
+  "datafetching": "Zure datu pertsonalak eskuratu ... Mesedez itxaron.",
+  "dataPrenotazione": "Erreserba data",
+  "dataVaccinazione": "Immunizazio data",
+  "date": "data",
+  "dateDiscovered": "Data ezagutu",
+  "dateStart": "Hasiera data",
+  "datipersonali": "Informazio pertsonala",
+  "datiScaricati": "Datuak ondo deskargatu dira",
+  "day": "eguna",
+  "deassociate_corx_alert": "Corx desassociatu nahi al duzu?",
+  "decline": "Ukatu",
+  "DECLINE_BTN": "Ukatu",
+  "DEEP_SLEEP_TIME": "Deep Sleep",
+  "defaultQuestion": "Sakatu hasteko eta esan nola sentitzen zaren gaur",
+  "delete": "ezabatu",
+  "deleteAlarm": "Ezabatu alarma hau?",
+  "deleteAppointment": "Zerrenda bertan behera uzteko?",
+  "deleteDescription": "Berehala ezabatuko da.",
+  "deleteMessage": "Ziur al zaude ezabatu nahi duzula?",
+  "deleteMultipleDesctiption": "Ezabatu egingo den zirrikitu kopurua:",
+  "deleteNumber": "Ziur zaude zenbaki hau ezabatu nahi duzula?",
+  "deleteSlotDay": "Egun libreko zirrikitu guztia ezabatzen du",
+  "deleteSlotMonth": "Hil honetan hamaikako slot guztiak ezabatzen ditu",
+  "deleteSlotWeek": "Aste honetarako doako slot guztiak ezabatzen ditu",
+  "deletevalue_q": "Ziur al zaude balioa ezabatu nahi duzula?",
+  "DELETE_NOTIFICATION_MSG": "Iraganeko jakinarazpen guztiak ezabatu nahi dituzu?",
+  "demo": "Demo hau, dirurik ez da kobratuko.",
+  "dependencies": "menpekotasunak",
+  "description": "deskribapena",
+  "descriptionMandatory": "Mesedez, zehaztu azalpena",
+  "deseaseCategory": "Gaixotasunaren kategoria",
+  "desirable": "desiragarria",
+  "dettagli": "Xehetasunak",
+  "dettaglio_struttura": "Egitura xehetasunak",
+  "device": "Gailu",
+  "devicefound": "Gailua aurkitu da",
+  "devices": "gailuak",
+  "devicetype": "Gailu mota",
+  "DEVICE_BLOOD_PRESSURE": "Odol-presioa",
+  "DEVICE_CALORIES": "Kaloriak erre",
+  "DEVICE_CARDIAC": "Bihotz monitorizazioa",
+  "DEVICE_CHL": "Profil lipidikoa",
+  "DEVICE_DATA_SECTION_TITLE": "Zure gailu medikoa datuak",
+  "DEVICE_DATA_TITLE": "Gailuaren datuak",
+  "DEVICE_DATA_TITLE_1": "Gailu medikoen datuak",
+  "DEVICE_EKG": "EKG",
+  "DEVICE_FC ": "FC",
+  "DEVICE_FITNESS_TRACKER": "Fitness Tracker",
+  "DEVICE_FR": "FR",
+  "DEVICE_GLUCOMETER": "Glucometer",
+  "DEVICE_HEART_RATE": "Bihotz taupadak",
+  "DEVICE_PEDOMETER": "pedometer",
+  "DEVICE_RESPIRATORY_FREQUENCY": "Arnas aparatuaren maiztasuna",
+  "DEVICE_SPO2": "SpO2",
+  "DEVICE_TEMPERATURE": "Tenperatura",
+  "DIAGNOSIS": "diagnostikoa",
+  "diastolic": "diastolikoa",
+  "dieci": "Azken 10 neurketak",
+  "diet": "dieta",
+  "digestion": "Digestioaren gaiak",
+  "dinner": "Afaria",
+  "dipendenza": "Dependentzia",
+  "disableAlarm": "Alarma gaituta dago",
+  "disabled": "Desgaituta",
+  "DISABLE_PANIC_BUTTON": "Gaitu Panic botoia",
+  "DISABLE_PUNIC_BUTTON": "Desgaitu punic botoia",
+  "disconnectall": "Ezarri linean",
+  "disconnectbtn": "Deskonektatu",
+  "DISDICI": "Utzi",
+  "disease": "Gaixotasun Kronikoa",
+  "diseasemanagement": "Gaixotasunen kudeaketa",
+  "diseases": "Gaixotasunak",
+  "disease_1": "Gaixotasun",
+  "dissocia": "disassociate",
+  "DISTANCE": "Distantzia",
+  "dm_section_description_1": "Hemen zure fitxategiak erants ditzakezu",
+  "DND": "Ez molestatu",
+  "DOCEMAIL": "Medikuaren posta elektronikoa",
+  "DOCNAME": "Medikuaren izena",
+  "DOCPHONE": "Medikuaren telefono zenbakia",
+  "DOCTOR": "Doctor",
+  "doctor1": "Doctor",
+  "doctorAtHome": "Etxean doktorea",
+  "doctorAtHomeQuestion1": "Etxeko laguntza nahi dut:",
+  "doctorAtHomeQuestion2": "Aukeratu behar duzun etxeko laguntza",
+  "doctorAtHomeQuestion2Answer1": "Praktika orokorra",
+  "doctorAtHomeQuestion2Answer2": "Pediatriako",
+  "doctorAtHomeQuestion2Answer3": "Erizain",
+  "doctorAtHomeQuestion3": "Zehaztu zergatik laguntza jaso nahi duzun",
+  "doctorAtHomeQuestion4": "Eska ezazu laguntza jaso nahi duzun helbidearen azpian",
+  "doctorAtHomeRequestBtn": "Bidali eskaera",
+  "doctorAtHomeRequestSuccess": "Zure eskaera jaso dugu. Etxean zerbitzua antolatzeko 2 ordu behar izango dituzu harremanetan",
+  "doctorAtHomeTitle": "Etxean doktorea",
+  "doctorbusy": "Doctor beste dei batean okupatuta dago",
+  "doctorbusy1": "Medikuak lanpetuta dago beste dei batean",
+  "doctorlist": "Mediku zerrenda",
+  "doctormanagement": "Medikuaren kudeaketa",
+  "doctoroffline": "Medikuak konexiorik gabe daude eta saiatu berriro",
+  "doctorupdate": "Doctor",
+  "DOCTOR_PROFILE_OPT1": "Profila",
+  "DOCTOR_PROFILE_OPT2": "Gaixoaren bisita historia",
+  "DOCTOR_PROFILE_OPT3": "Lankide bat gomendatu",
+  "DOCTOR_PROFILE_SECTION1": "Zure profila",
+  "DOCTOR_PROFILE_TITLE": "Profila",
+  "doctor_request_sent": "Zure eskaera bidali diegu gure medikuei. Bi minututan erantzun bat jasoko duzu.",
+  "documents": "Dokumentuak",
+  "DOCUMENT_BTN": "Dokumentuak",
+  "doestake": "Duzu hartu duzu",
+  "DONATION_TITLE": "Berretsi dohaintza",
+  "done": "Trackx datuak zuzenki deskargatu dira. Osasun datuak atalean aurkituko dituzu",
+  "doneAppointmentPatient": "Iraganeko hitzorduak",
+  "DONE_BTN": "Done",
+  "dontknow": "Ez dut gogoratzen",
+  "DORMIVEGLIA": "logura",
+  "dosage": "dosi",
+  "dosetake1": "Zure botikak hartu al dituzu?",
+  "dottore_rimosso": "Medikuaren egoera ondo eguneratu da",
+  "dottore_salvato": "Medikuak behar bezala eguneratu du",
+  "download": "Deskarga",
+  "downloadaspdf": "Deskargatu PDF gisa",
+  "downloadecg": "Deskargatu ECG",
+  "DOWNLOADING_DEVICE_DATA": "Deskargatzen ...",
+  "downloadwellnessdata": "Ongizate datuen deskarga ...",
+  "downloadWellnessResult": "neurria gehitu da",
+  "DOWNLOAD_CERTIFICATE": "Deskargatu ziurtagiria",
+  "DOWNLOAD_ERROR_GENERIC": "Ene. Erros bat gertatu da fitxategia deskargatzen saiatzean. Mesedez, saiatu berriro geroago.",
+  "DOWNLOAD_SO_REPORT": "Jaitsi erreferentzia",
+  "DO_NOT_DISTURB": "Ez molestatu",
+  "drugsAtHome": "Drogak etxean",
+  "drugsAtHomeQuestion1": "Zure etxean zuzenean medikuak agindutako drogak jaso nahi dituzu?",
+  "drugsAtHomeRequestBtn": "Bidali eskaera",
+  "drugsAtHomeRequestSuccess": "Zure eskaera jaso dugu. Droga 24 orduko epean bidaliko dira",
+  "drugsAtHomeSection1": "Eman botika jaso nahi duzun telefono zenbakia eta helbidea.",
+  "drugsAtHomeTitle": "Drogak etxean",
+  "drug_name": "Droga izena",
+  "duration": "Iraupena",
+  "ecg": "EKG",
+  "ecgadded": "ECG behar bezala gehitu da zerrendara",
+  "ECGBP": "ECG BP",
+  "ecgdata_header": "EKG datuak",
+  "ecgdetail": "Egin klik elementu bakoitzean ECG irudia ikusteko",
+  "ECG_DELETE_Q": "Ziur EKG ezabatu nahi duzula?",
+  "ecg_not_found": "ECG fitxategi okerra, saiatu beste misuaration bat.",
+  "ECG_REMOVED": "EKG behar bezala ezabatu da",
+  "edit": "Editatu",
+  "EKG_SECTION_TITLE": "Elektrokardiograma (EKG / ECG) Emaitzak",
+  "EKG_TITLE": "EKG karga",
+  "EMAIL": "Emaila",
+  "email1": "Emaila",
+  "email_do_not_match": "Mezu elektronikoak ez datoz bat",
+  "ematicTest": "Proba Ematikoak",
+  "Emergency": "Erakutsi larrialdietarako",
+  "emergency1": "Larrialdi",
+  "emergencyLoginCode": "Larrialdi Sarrera Kodea",
+  "emergency_numbers": "Larrialdi zenbakiak",
+  "emergency_number_description": "Gehitu telefono zenbakiak larrialdi kasuan",
+  "emotionDescription": "Hainbat emozio oinarrizko konbinazio bat, erabiltzaileen ahotsak adierazitako ahots-sekuentzian zehar adierazitako moduan.",
+  "emotions": "Emozioak konbinatuak",
+  "emptypassword": "Mesedez, zehaztu pasword bat",
+  "EMPTY_ALLERGIES": "Egin klik botoian gaixotasun bat erregistratzeko",
+  "empty_dataset": "Ez dago daturik",
+  "EMPTY_DEPENDENCIES": "Egin klik botoian zure historikoaren mendekotasuna gehitzeko",
+  "EMPTY_DISEASE": "Egin klik botoian gaixotasun bat erregistratzeko",
+  "EMPTY_DOCUMENTS": "Egin klik botoian dokumentu bat erregistratzeko",
+  "EMPTY_IMAGES": "Egin klik botoian irudi bat gehitzeko zure mediku erregistroan",
+  "EMPTY_IMMUNIZATION": "Egin klik botoian immunizazio bat gehitzeko zure mediku-erregistroan",
+  "EMPTY_MEDICATION": "Egin klik botoian botika bat erregistratzeko",
+  "empty_otp": "OTP kodea baliogabea",
+  "EMPTY_PROSTHESIS": "Egin klik botoian protesia bat gehitzeko zure mediku erregistroan",
+  "EMPTY_TESTS": "Egin klik botoian proba medikorako proba bat gehitzeko",
+  "enabled": "Gaituta",
+  "endate": "to",
+  "endcall": "Amaitu deia",
+  "endDate": "Amaiera data",
+  "endhour": "Amaiera ordua",
+  "end_time": "Amaierako ordua",
+  "END_VIDEOCALL_Q1": "Ziur kontsulta amaitu nahi duzula bideojokorik abiatu gabe?",
+  "END_VISIT_BTN": "Amaitzeko bisita",
+  "error": "Akatsa",
+  "error_call_timeout": "Bideo-deia egiteko ordua amaitu da. Bideo-deia egiteko, errepikatu berriro prozesua.",
+  "ERROR_EMAIL_DUPPLICATE": "Badirudi helbide elektronikoa dagoeneko erregistratuta dagoela. Saiatu beste batekin.",
+  "error_price": "Mesedez, zehaztu kuota",
+  "ERROR_SPECIFY_DAYS": "Mesedez, zehaztu gutxienez astean egun bat",
+  "ERROR_SPECIFY_HOUR": "Mesedez, zehaztu ordua",
+  "ERROR_TITLE_NOTIFICATION": "Akatsa",
+  "ERROR_TRACKX": "Aktibatu Trackx",
+  "error_update": "Errorea Firmware eguneratzean",
+  "ERROR_USERNAME_DUPPLICATE": "Erabiltzaile-izena dagoeneko hartu da, aukeratu beste bat",
+  "ERROR_WHITELIST": "Zure telefonoa ez dago gaituta bideokamia egiteko",
+  "esameobbligatorio": "Mesedez, hautatu Azterketa",
+  "exam_name": "Azterketa izena",
+  "exercise": "Ariketa",
+  "exercisereminders": "Nire Ariketa Gogorarazleak",
+  "existentassoc": "Elkarte existitzen dira",
+  "existentrelation": "Erlazio hau dagoeneko badago",
+  "expandfordetails": "Zabaldu xehetasun gehiagorako",
+  "EXP_MONTH": "Iraungitze-hilabetea",
+  "EXP_MONTH_REQUIRED": "Iraungitze-hilabetea beharrezkoa da",
+  "EXP_YEAR": "Iraungitze urtea",
+  "EXP_YEAR_REQUIRED": "Iraungitze-urtea beharrezkoa da",
+  "e_prescribing": "E-Prescribing",
+  "F": "Emakumezkoen",
+  "farmaci": "botika",
+  "farmaco": "medikazio",
+  "fat": "Potolo",
+  "FATIGUE_INDEX": "nekea",
+  "FATIGUE_INDEX_DESCRIPTION": "Lana, lana eta esperientzia nekearen maila. Gehiegizko nekea erraz sor ditzake muskuluen zurruntasuna, buruko mina, insomnioa, nekea, gerriaren mina eta nerbio-sistema, endokrinoko nahasteak erraz sor ditzake gaixotasun kroniko askoren eta buruko nekearen ondorioz.",
+  "favoriteslist": "Nire gogokoen zerrenda",
+  "FAVORITES_NO": "Ez duzu medikuari zure gogokoen zerrendan gehitu oraindik",
+  "FAVORITES_NO_PHARMACIES": "Ez duzu farmaziarik zure gogokoen zerrendan gehitu oraindik",
+  "FAVORITES_SECTION_SUBTITLE": "Egin klik elementu bakoitzean xehetasun guztiak ikusteko",
+  "FAVORITES_SECTION_TITLE": "Zure mediku gogokoenak",
+  "FAVORITES_TITLE": "gogokoak",
+  "favourite_pharmacy": "Farmaziak gogokoenak",
+  "FEE": "Kudeatu tasak",
+  "FEET": "oinak",
+  "female": "Emakumezkoen",
+  "fileloaded": "Fitxategia kargatu da",
+  "fileloaded1": "Fle behar bezala kargatu da",
+  "fileName": "Fitxategi izena",
+  "filenotfound": "Fitxategia ez da aurkitu",
+  "file_upload_instruction": "Kargatu instrukzioa",
+  "filldate": "Mesedez, aukeratu data bat",
+  "filldoctor": "Mesedez, aukeratu medikua",
+  "fillpeciality": "Aukeratu espezialitate bat",
+  "fillthebox": "Bete koadroa",
+  "fill_indication": "Mesedez, bete zantzuen eremua",
+  "fill_indication_for": "Mesedez zehaztu zantzurik",
+  "fill_quantity": "Mesedez, bete kantitate eremua",
+  "fill_quantity_for": "Mesedez, zehaztu kantitatea",
+  "fill_your_doubt": "Mesedez, azalpen bat eman goiko koadroan.",
+  "filter": "Filter",
+  "finddoctor": "Aurkitu medikuak",
+  "findFarmacia": "Bilatu farmazia",
+  "findpatient": "Aurkitu pazientzia",
+  "findspcialist": "Aurkitu espezialista bat",
+  "findStruttura": "Bilatu egitura",
+  "finduser": "Bilatu erabiltzailea",
+  "FIND_A_DOCTOR": "Mediku batekin konektatzea",
+  "find_device": "Bilatu gailua",
+  "FIND_THE_BRACELET": "Bilatu eskumuturrekoa",
+  "fingerprint_btn": "Gaitu hatz-marka saioa hasteko",
+  "fingerprint_hint": "Berretsi hatz-marka jarraitzeko",
+  "fingerprint_hint2": "Berretsi hatz-marka jarraitzeko",
+  "fingerprint_question": "Hatz-marken autentifikazioa aktibatu nahi duzu?",
+  "FIRMWARE_UPDATE": "Firmware Update",
+  "FIRMWARE_UPDATED": "Firmware eguneratua",
+  "firstName": "Izena",
+  "five_min": "5 minututan",
+  "fixappointment": "Zerrenda hau antolatu nahi duzu?",
+  "forever": "Forever",
+  "forgotPassword": "Zure pasahitza ahaztu duzu?",
+  "forgot_password": "Pasahitza ahaztua?",
+  "forma": "Mota",
+  "formafarmaco": "Botika formularioa",
+  "formatError": "Prezioak zenbakizko balioa izan behar du.",
+  "found_devices": "Aurkitutako gailuak",
+  "FRIDAY": "Ostirala",
+  "GENDER": "Generoa",
+  "gender1": "Generoa",
+  "general": "General",
+  "generalInfo": "Informazio orokorra",
+  "genericName": "Izen generikoa",
+  "GENERIC_ERROR": "Ene! Zerbait oker joan da. Mesedez, saiatu berriro geroago",
+  "geneticTest": "Proba genetikoa",
+  "geneticTestHeader2": "Proba genetikoen bidez zure osasunari buruz gehiago jakiteko eta osasuntsu mantentzeko gauza egokiak aurki ditzakezu.",
+  "geneticTestHeader3": "Nola dabil",
+  "geneticTestProduct": "Nutrizio profila",
+  "geneticTestRequestBtn": "Galdetu proba",
+  "geneticTestRequestSuccess": "Zure eskaera baieztatu da. Etxean zuzenean jasoko duzu kit",
+  "geneticTestSection1": "Orain jan nahi baduzu zure gorputza eta zure metabolismoa nahikoa badira?",
+  "geneticTestSection2": "Zure elikadura osasungarriagoak zure gaixotasun kronikoak arriskatzeko ez badaki jakin nahi al duzu?",
+  "geneticTestSection3": "Elikadura testak zure DNA eta dieta arteko lotura ezagutzen lagunduko dizu.",
+  "geneticTestSection4": "Gehitu hemen zure telefono-zenbakia eta jaso nahi duzun helbidea",
+  "geneticTestStep1": "1. Agindu zure proba",
+  "geneticTestStep1Subtitle": "Egin eskaera aplikaziotik eta zuzenean etxean jaso.",
+  "geneticTestStep2Subtitle": "Hartu lagina eta bidal iezaguzu posta-zerbitzuarekin gutun-azalaren bidez.",
+  "geneticTestStep3": "3. Emaitzak lortzea",
+  "geneticTestStep3Subtitle": "Aste bat igaro ondoren, mezu bat jakinaraziko dizu, aplikazioaren bidez, proba genetikoaren emaitzak erabilgarri egongo direla.",
+  "geneticTestTitle": "Proba genetikoa",
+  "GLUCOMETER": "Glucometer",
+  "glucosio": "glukosa",
+  "HAND_BRIGHTEN": "Goratu eskua distiraz",
+  "happiness": "zoriontasuna",
+  "HDL": "HDL Kolesterola",
+  "hdl_cholesterol_desc": "Dentsitate handiko lipoproteina (HDL) kolesterola &quot;ona&quot; kolesterol gisa ezagutzen da. Hurrengo taulan, baloreen barrutia erakusten da.",
+  "healthtips": "Healthtips",
+  "HEALTH_INDEX": "Osasun",
+  "HEALTH_INDEX_DESCRIPTION": "HRV osasunaren indizeak bihotz-maiztasunaren batez bestekoa HR eta bihotz-maiztasunaren aldakortasuna HRV eta beste parametro batzuk aztertzen ditu, Holterren emaitzak denbora errealeko neurketan oinarrituta, gorputzaren osasunaren parametroak aztertzeko, osasunaren indizearen igoera eta gorputzaren osasuna ordezkatuz. hobeto; Osasun indizeak gutxitu egin du gorputzaren izenean Eguneko osasuntsuari arreta jartzea.",
+  "heartRate": "HR",
+  "HEART_INDEX": "Heart",
+  "HEART_INDEX_DESCRIPTION": "Bihotz funtzioek erabiltzaileek bihotzeko gaixotasuna neurtzen dute eta haien errendimendua desberdina da bihotzerako eta osasunerako egoera orokorreko maitasun-maila desberdinengatik. Bizimodu osasuntsua eta elikadura ohiturak garatzea: Bihotzeko kaltziozko sodio osagarria osatzeko bihotza baliatzeko arrazoizko estrategia, odol-babesak babesteko, bihotzeko gaixotasuna agerrarazteko aktiboki saihestea da bihotzeko funtzioaren estrategia indartzea.",
+  "height": "Altuera",
+  "height1": "Altuera beharrezkoa da GMI kalkulatzeko",
+  "heightUnit": "Altuera Unitatea",
+  "hepaticFunction": "Funtzio Hepatikoa",
+  "hide": "Ezkutatu",
+  "high1": "High",
+  "high_risk": "Arrisku handia",
+  "history": "Kontsulten historia",
+  "homepage": "Hasiera",
+  "HOME_WARNING_MESSAGE": "Ziur orrialde honetatik nabigatu nahi duzula? Zure aldaketa galdu egingo da.",
+  "hormonalTest": "Hormonal Funtzioen proba",
+  "hospDate": "Hosp.date",
+  "hospit": "Ospitalizatua",
+  "hospital": "Hospital",
+  "hospitalization": "Ospitalizazioa",
+  "hour": "Ordua",
+  "hours": "Orduak",
+  "HOURS_BANK_DONATE_BTN": "Eman",
+  "HOURS_BANK_DONATION": "Oraingoz dohaintzan:",
+  "HOURS_BANK_H": "Ordutegia Bankua:",
+  "HOURS_BANK_SECTION_P1": "Osasuna gure lehentasuna da SaluberMD-n eta ahalik eta pertsona gehienak zerbitzatu nahi ditugu. Gure plataformaren bitartez osasunerako sarbidea izateko beharra duten pertsonentzat aukera ematen dugu. Gure dibulgazio-taldeak osasun-aukera eskaintzen die erakundeei, partikularrei eta familiei.",
+  "HOURS_BANK_SECTION_P2": "Egin klik estekaan zenbat dohaintzekin eman nahi dituzun orduak eta bankuan gehituko ditugu.",
+  "HOURS_BANK_SECTION_P3": "Zurekin harremanetan jarriko gara aplikazioa bidez, orduak trukatzeko eta eskuragarri egongo zarenean, sakatu sakatu gaixoak ikusteko.",
+  "HOURS_BANK_SECTION_TITLE": "Erregistratu gurekin osasunaren oparia emanez!",
+  "HOURS_BANK_TITLE": "Ordutegia Bankua",
+  "howto": "Nola",
+  "howto1": "Eskura dauden zirrikituak marra berde batekin markatuta daude",
+  "howto2": "Hautatu gelaxka berde batekin eta egin klik gainean eta zabaldu eta aukeratu denbora. Prest zaudenean egin klik arkatzaren ikurrarekin xehetasunak ikusteko eta hitzordua hartzeko",
+  "howToPrice": "Prezioak zenbakizko balioa izan behar du. Gehienez, bi balio hamartar onartzen dira. Puntu eta koma bereizle gisa erabil daitezke",
+  "hrv_buono": "Ona",
+  "hrv_eccellente": "Bikain",
+  "hrv_generale": "General",
+  "hr_alta": "100 baino handiagoak",
+  "hr_bassa": "60 baino gutxiago",
+  "HR_DESCRIPTION": "Bihotz-taupaden normaleko erreferentzia taula",
+  "HR_INTERVAL": "HR Neurtze tartea",
+  "hr_normale": "60 eta 100 artean",
+  "hsh": "Ospitaleratzea eta historia kirurgikoa",
+  "IBAN": "ziren",
+  "idx": "Indizeak",
+  "image": "Image",
+  "images": "Irudiak",
+  "immunization": "txertoak",
+  "immunizationmenu": "txertoak",
+  "importhealth": "Osasun datuak inportatu",
+  "impossible_transfer": "Ezin da deia transferitu",
+  "INCH": "inch",
+  "indexes": "Indizeak",
+  "indication": "Adierazten",
+  "INFO_BTN": "info",
+  "info_salvate": "Datuak behar bezala gorde dira",
+  "iniezione": "Injection",
+  "initiative": "Initiative",
+  "initiativeerror": "Aukeratu ekintza bat",
+  "insert": "Txertatu",
+  "inserttext": "Txertatu testua hemen",
+  "insert_otp_code": "Sartu kodea hemen",
+  "internet_missing": "Ez zaude internetera konektatuta",
+  "invalidemail": "Helbide elektroniko baliogabea",
+  "invoice": "faktura",
+  "irregulartest": "Irregularraren proba",
+  "kcal": "kcal",
+  "kg": "Kg",
+  "KG_LABEL": "kg",
+  "kydneyTests": "Giltzurruneko funtzio probak",
+  "labtesting": "Sarea",
+  "LANGUAGE": "Hizkuntza",
+  "LANGUAGE_TYPE": "Hizkuntza",
+  "lastmeasure": "Azken neurria",
+  "lastName": "Abizena",
+  "lastPhysical": "Azken fisikoa",
+  "lastSync": "Azken sinkronizazioa",
+  "lastTimeOnline": "Azken ordua linean",
+  "lastvisit": "Azken bisita",
+  "last_login_date": "Azken Saioaren Data",
+  "last_time_taken": "Azken aldia",
+  "LDL": "LDL Kolesterola",
+  "ldl_cholesterol_desc": "LDL, edo dentsitate baxuko lipoproteina, kolesterol &#39;txarra&#39; da. Hurrengo taulan, baloreen barrutia erakusten da",
+  "leggero": "Argia",
+  "LICENSE_NUMBER": "Lizentzia zenbakia",
+  "LIGHT_SLEEP_TIME": "Light Sleep",
+  "listcall": "Egin bideoklipen zerrenda",
+  "litri": "litro",
+  "liverExam": "Gibeleko funtzioaren proba",
+  "LIVE_ECG": "Neurketa berria",
+  "live_ecg_downloading": "ECG deskargatzea. Itxaron mesedez...",
+  "loadEcgList": "EKG zerrenda kargatzen ...",
+  "loading": "Datuak kargatzen ...",
+  "loading1": "Lanean ...",
+  "loading_list": "Zerrenda kargatzen ...",
+  "loading_list_nutritionist": "Nutrizionistak kargatzen ...",
+  "LOAD_INDEX": "kargatu",
+  "LOAD_INDEX_DESCRIPTION": "Grado y fatiga, estrés Cuerpo de consideración integral del índice de carga, teniendo en cuenta las características físicas y psíquicas de los individuos que cargan el estado de carga. Kanpoko gizarte, bizitza eta lehiaketa eta beste faktore batzuk, baita beren egoera fisiko eta psikikoa ere.",
+  "LOAD_ITEMS": "Lanean ...",
+  "LOGGING_IN": "Saioa hasi ...",
+  "LOGGING_OUT": "Saioa amaitu ...",
+  "LOGIN_BTN": "Saioa hasi",
+  "LOGIN_ERROR": "Erabiltzaile-izena edo pasahitza okerra",
+  "Logout": "Saioa amaitu",
+  "logout1": "Saioa amaitu",
+  "LOGOUT_BTN": "Saioa amaitu",
+  "low1": "Behe",
+  "lunch": "Bazkaria",
+  "lungtest": "Biriketako test bat egin",
+  "M": "gizonezkoa",
+  "male": "gizonezkoa",
+  "manageapp": "Kudeatu hitzorduak",
+  "manageslot": "Kudeatu doako zirrikitua",
+  "MANAGE_CORX": "Kudeatu Corx",
+  "mandatoryDays": "Mesedez, zehaztu egun kopurua",
+  "mandatoryfield": "Mesedez, bete derrigorrezko eremuak",
+  "map": "Mapa",
+  "max_file_size": "Fitxategiaren tamaina txikiagoa izan behar da",
+  "meals": "bazkariak",
+  "medicalconsultation": "Consulta",
+  "medicalfile": "Irudiak",
+  "medicalform": "Mediku inprimakiak",
+  "medicalforms": "Mediku inprimakiak",
+  "medicalinfo": "Mediku informazioa",
+  "medicalrecord": "Mediku erregistroa",
+  "medical_2option": "Mediku bigarren iritzia",
+  "MEDICAL_CERTIFICATE": "Ziurtagiri Medikoa",
+  "MEDICAL_FILE_BTN": "Fitxategi medikoa",
+  "medication": "medikazio",
+  "medication_name": "Medikazio izena",
+  "medicinereminders": "Nire medikuntza gogorarazleak",
+  "medio": "Medium",
+  "medium1": "Medium",
+  "message": "Mezua",
+  "messagesent": "Mezua zuzen bidaltzen da",
+  "metabolismTest": "Metabolismo probak",
+  "method": "Metodo",
+  "METRIC": "Metric",
+  "middedcall2": "Deirik erantzun gabe duzu",
+  "minutes": "minutu",
+  "missedcall": "SaluberMd Bideokamail galdua",
+  "missedcall1": "Dei galdua",
+  "missedNotiAlert": "Galdutako jakinarazpen batzuk dituzu.",
+  "misurazioni": "Records",
+  "misure": "Neurtu",
+  "mobile": "Mobile",
+  "mobile_required": "Mesedez, gehitu zure telefono zenbakia zurekin harremanetan jarri ahal izateko hitzordua antolatzeko.",
+  "moderate_risk": "Arrisku moderatua",
+  "MONDAY": "Astelehena",
+  "month": "hilabetea",
+  "mood": "Mood taldea",
+  "moodDescription": "Hiztunaren egoera emozionalaren adierazle nagusia adierazitako ahotsaren atalean. APIk 11 umore talde sortzen ditu guztira, haserrea, bakardadea eta autokontrola zoriontasuna eta ilusioz.",
+  "moreDays": "Egun gehiago",
+  "motivazione": "Arrazoia",
+  "MRGraph": "Medikuntzak historia hartu zuen",
+  "msgAppointment": "Hitzordua behar bezala antolatu da. Zure hitzordua kontsultetarako prestazio atalean aurkituko duzu.",
+  "msgsurveysent": "Inkesta zuzen bidali da",
+  "msg_call_reconnection": "Berriro konektatzen saiatzean ...",
+  "MSG_CALL_TRANSFERED": "Bideokamera ongi transferitu da",
+  "MSG_CHOOSE_OPTION": "Aukeratu aukera bat",
+  "MSG_CHOOSE_OPTION4": "Aukeratu aukera bat",
+  "MSG_CHOOSE_OPTION5": "Deskribatu zure gosaria",
+  "MSG_CHOOSE_OPTION6": "Azal ezazu zure afaria",
+  "MSG_CHOOSE_OPTION7": "Deskribatu zure bazkaria",
+  "MSG_CHOOSE_OPTION8": "Deskribatu zure snaks",
+  "MSG_CHOOSE_OPTION9": "Galdera guztiak erantzun",
+  "MSG_CHOOSE_OPTION_2": "Mesedez, sartu deskribapen bat",
+  "MSG_CHOOSE_OPTION_3": "Aukeratu gutxienez aukera bat",
+  "MSG_COMPLETE_PROFILE": "Orain joan nahi al duzu?",
+  "MSG_CONFIRM_EMAIL": "Mesedez, berretsi zure posta elektronikoa",
+  "MSG_CONFIRM_EMAIL_TEXT": "Posta elektroniko bat bidali dizugu zure helbide elektronikoa berretsi dezan. Egiaztatu sarrera-ontzia.",
+  "msg_connected": "Arrakastaz konektatua",
+  "MSG_CONTACT_SUCCESS": "Eskerrik asko zure bidalketarako.",
+  "MSG_DOC_ENDED_CALL": "Medikuak deia amaitu du",
+  "MSG_DOC_WAITING_CALL": "Medikuak deskonektatu egin dira berriro konektatzeko zain",
+  "MSG_DONATION": "Baieztatu zure dohaintza?",
+  "MSG_DONATION_CONFIRM": "Eskerrik asko zure dohaintzagatik",
+  "MSG_ERROR_FILL_BOXES": "Mesedez, bete itzazu kaxak balio egokiekin",
+  "MSG_FILL_ALL_BOXES": "Mesedez, bete koadro guztiak",
+  "MSG_FILL_ALL_SELECTED_BOXES": "Mesedez, bete hurrengo eremu guztiak",
+  "MSG_FILL_BOXES": "Mesedez, bete koadroak",
+  "MSG_FILL_BOXES_ALL": "Mesedez, bete eremu guztiak",
+  "MSG_FILL_BOXES_PROFILE": "Mesedez, bete izar batekin markatutako koadro guztiak",
+  "MSG_GENERIC_ERROR": "Egiaztatu Interneteko konexioa berriro saiatzeko.",
+  "MSG_GENERIC_FORM_ERROR": "Konpondu errorea jarraitzeko",
+  "MSG_LOGIN_ERROR": "Errorea saioa hastean. Egiaztatu zure kredentzialak eta ziurtatu sarera konektatuta zaudela.",
+  "MSG_LOGIN_ERROR_LOCKED": "Login huts egin du: zure kontua aldi baterako blokeatuta dago. Berriro saiatu berriro.",
+  "MSG_MANDATORY_OPTION": "Medikuntza Fitxategia ikusteko, medikuaren baimena behar duzu",
+  "MSG_NO_DOCTORS_FOUND": "Apolozie dugu, baina medikuak ez dira aurkitu. Sakatu Bilatu medikuari berriro saiatzeko",
+  "MSG_PATIENT_CANCELED_CALL": "Gaixoaren deia bertan behera utzi du.",
+  "MSG_PATIENT_ENDED_CALL": "Gaixoaren deia amaitu da",
+  "MSG_PATIENT_WAITING_CALL": "Gaixoaren deskonektatu egin da berriro konektatzeko zain",
+  "MSG_POST_CALL_CANCEL": "Bideoa amaitu aurretik bisita amaitu duzu!",
+  "MSG_POST_CALL_DOCTOR": "Laburpena bidaliko zaizu orri nagusira itzultzeko",
+  "MSG_POST_CALL_PATIENT": "Eskerrik asko SaluberMD erabiltzea. Jarraipen-mezu bat jasoko duzu. Bisitaren xehetasunak ikusteko, bisitatu Nire profila-Bisitaren historia",
+  "msg_reconnection_error": "Gailua deskonektatuta. Mesedez, deskonektatu gailua",
+  "MSG_REGISTRATION_DOCTOR_SUCCESS": "Eskerrik asko .... norbait zurekin harremanetan jarriko da",
+  "MSG_REGISTRATION_SUCCESS": "Zure izena ongi atera da",
+  "msg_req_videocall1": "bideo-deian eskuragarri dago:",
+  "msg_req_videocall2": "Bideo-deia prest dago hasteko. Egin klik jakinarazpen honetan bideo-deia aktibatzeko",
+  "msg_req_videocall3": "bideo-deian eskuragarri dago orain. Egin klik jakinarazpen honetan bideo-deia aktibatzeko",
+  "MSG_RESET_REQUEST_ERROR": "Erabiltzaile-izen edo helbide elektroniko honekin erabiltzailea ez dago.",
+  "MSG_RESET_REQUEST_SUCCESS": "Posta elektronikoz laster jasoko duzu pasahitza berrezartzeko estekarekin.",
+  "MSG_RESUME_CALL": "Dei bat duzu orain, berriro berrabiarazi nahi duzu?",
+  "MSG_SCHOOL_MISSING": "Txertatu Eskola",
+  "MSG_SELECT_TIMEZONE": "Hautatu ordu-zona",
+  "MSG_SIGNATURE_MISSING": "Mesedez, bete zure sinadura, bestela ezin duzu errezeta bidali.",
+  "MSG_THANKING": "Eskerrik asko zure bidalketarako.",
+  "MSG_VIDEOCALL_DISCONNECTED": "Galdutako konexioa. Hau izan daiteke zure Interneteko konexioa",
+  "MSG_WELCOME_BACK": "Ongi etorri",
+  "MSG_YEAR_PRACTISE": "Txertatu urtea praktikan",
+  "muscles": "muskuluak",
+  "myappointment": "Nire hitzorduak",
+  "MYFILE_NOFILE": "Ez duzu fitxategirik oraindik",
+  "MYFILE_SECTION": "Zure fitxategiak",
+  "MYFILE_SUBTITLE": "Egin klik elementu bakoitzean fitxategiaren edukia ikusteko",
+  "MYFILE_TITLE": "Nire fitxategiak",
+  "myprofile": "Nire profila",
+  "myreminders": "Nire gogorarazleak",
+  "MY_TICKETS": "Zure sarrerak",
+  "M_SCHOOL": "Mediku eskola",
+  "N": "Ez",
+  "name": "izena",
+  "negative": "negatiboak",
+  "nervous": "nerbio",
+  "nessun_appuntamento": "Ez dago azkenaldiko izenik",
+  "NETWORK_CHECK_MSG": "Zure banda zabalera baxua da. Edukia banda zabaleko beheko aldean geldituko da.",
+  "NETWORK_CHECK_TITLE": "Deitu Kalitatea proba",
+  "NETWORK_ERROR": "Interneteko konexio errorea. Saiatu berriro geroago",
+  "neutral": "neutral",
+  "newappointment": "Hitzordu berria",
+  "newass": "Gehitu elkarte berria",
+  "NEWPWD_CONFIRM": "Pasahitza zuzen aldatu da. Sartu berriro.",
+  "NEWPWD_CONFIRM2": "Pasahitza behar bezala aldatu da",
+  "NEWPWD_ERROR": "Ez dator bat pasahitz berria.",
+  "newtest": "Sakatu plus botoia proba berri bat egiteko.",
+  "NEW_PWD": "Pasahitz berria",
+  "new_ticket": "Txartel berria",
+  "NEXT": "hurrengo",
+  "no": "Ez",
+  "noAlarm": "Ez da alarma ezarri",
+  "noallergies": "Ez dago alergiarik zerrendatuta.",
+  "noapatient": "Pazientzia ez da aurkitu",
+  "noappointment": "Ez dago hitzordua programatuta",
+  "noappointments": "Ez dago datarik mediku honekin",
+  "noappointments1": "Ez dago datarik eskuragarri nutrizionista honekin",
+  "noAppoPat": "Ez dago zerrenda izateko hitzordurik",
+  "noarticles": "Nutrizio artikulurik ez",
+  "noassociatedpatient": "Ez duzu pazienterik oraindik loturik",
+  "noattachment": "Mesedez, hautatu eranskin bat",
+  "noattachment1": "Ez eranskina",
+  "noavailableoption": "Ez dago aukerarik",
+  "nocomment": "Ez dago iruzkinik / berririk",
+  "noconsulenze": "Ez da bisita egin",
+  "nocorxfound": "Ez da CORX aurkitu",
+  "nodata": "Ez dago datuik",
+  "nodependency": "Ez dago menpekotasunik zerrendatuta.",
+  "nodesease": "Ez dago gaixotasunik zerrendatuta.",
+  "nodevice": "Ez da gailurik aurkitu, saiatu berriro",
+  "nodoctor": "Medikuak ez aurkitu",
+  "nodoctors": "Medikuak ez dago erabilgarri",
+  "noDocuments": "Ez da dokumenturik kargatu",
+  "nodrugselected": "Ez duzu droga hautatu",
+  "noecg": "ECG ez dago zerrendatuta",
+  "noexam": "Ez dago azterketarik erakusteko",
+  "nofiles": "Pazienteak kargatutako fitxategirik ez dago",
+  "noHistory": "Ez dago kontsulta une honetan",
+  "nohsh": "Ez dago ospitalizazio zerrendarik.",
+  "noimages": "Une honetan ez dago eranskinik",
+  "noimmunization": "Ez dago zerrendatutako immunizations.",
+  "nolabtest": "Ez da proba laberik aurkitu",
+  "nomedication": "Ez dago zerrendatutako botikaik.",
+  "nomisure": "Ez dago neurririk",
+  "nonterminata": "Deitu Unsuccessfull",
+  "nonutritionist": "Nutrizionista ez dago erabilgarri",
+  "nonuvoair": "Ez da gailurik aurkitu",
+  "nopharmacy": "Ez da farmaziarik aurkitu",
+  "noprescription": "Ez dago errezeta une honetan",
+  "noprothesis": "Ez dago protesiarik edo zerrendatutako Mediku laguntza.",
+  "noreferrals": "Ez dago erreferentziarik zerrendatuta",
+  "noreminders": "Oraindik ez duzu abisu gogorik",
+  "noresults": "Ez da emaitzarik aurkitu",
+  "normale": "normal",
+  "normalrange": "Normaltasunaren eremua",
+  "normalWeight": "Pisu arrunta",
+  "nosintomi": "Ez da sintoma hautatu",
+  "nospecialist": "Ez dago espezialistarik",
+  "note": "Oharrak",
+  "notests": "Ez dago zerrendatutako proba irregularrik.",
+  "NOTIFICATIONS_BTN_MEDICAL_FILE": "Egin klik hemen zure mediku fitxategia osatzeko",
+  "NOTIFICATIONS_SECTION": "Zure jakinarazpenak",
+  "NOTIFICATIONS_SECTION_SUBTITLE": "Osasun-ebaluazioari buruzko doako kontsulta bat jasoko duzu, mediku-fitxa osorik bete ondoren.",
+  "NOTIFICATIONS_SETTINGS": "Ezarri jakinarazpenak",
+  "NOTIFICATIONS_TITLE": "jakinarazpenak",
+  "notification_setting": "Hautatu jakinarazpenak jaso nahi dituzun kategoriaetatik",
+  "notimage": "Fitxategia ez da irudirik: BMP, GIF, JPG eta PNG soilik onartzen dira",
+  "notNow": "Orain ez",
+  "notnow_btn": "Orain ez",
+  "nouser": "Ez da aurkitu erabiltzailerik",
+  "novantad": "Azken 90 egunetan",
+  "novideocall": "Ez da bideoklipa aurkitu",
+  "novisit": "Ez duzu pazientziarik bisitatu oraindik",
+  "noWellnessData": "Ez dago ongizate berririk",
+  "no_certificate": "Ez da inongo ziurtagiririk zerrendatuko",
+  "no_chiosc_data": "Ez dago laborategirik ikusteko",
+  "NO_DATA": "Ez dago datuik",
+  "no_doctor_answer1": "Une honetan ez dago mediku eskuragarri.",
+  "no_doctor_answer2": "Hitzordu bat egin dezakezu beheko botoian klik eginez.",
+  "NO_GENETIC_TEST_REQUESTS": "Ez duzu test genetikorik eskatu",
+  "NO_MSG": "Ez dago bidalitako mezurik",
+  "no_notifications": "Ez duzu jakinarazpenik",
+  "no_prescription_download": "Kontsulta honi lotutako errezeta ez dago",
+  "no_pull_answer": "Une honetan ez dago medikuik eskuragarri.",
+  "no_referral_download": "Bisitaldi honi lotutako aipamenak ez daude",
+  "NO_SECOND_OP_REQUESTS": "Ez duzu Bigarren Iritzi Zerbitzurako eskaera",
+  "no_specialization": "no_specialization",
+  "no_specialization_found": "Espezializazio ez da aurkitu",
+  "NO_TICKETS_SENT": "Ez da sarrerarik bidali",
+  "NO_USER_FOUND": "Erabiltzaile izena edo posta elektronikoa ez da aurkitu",
+  "NPI": "NPI",
+  "ns": "Nerbio Sistema",
+  "numberNotSaved": "Errorea zenbakia gordetzean",
+  "numberSaved": "Zenbakia behar bezala gorde da",
+  "nuovoair_connected": "Konektatuta",
+  "nuovoair_disconnected": "Deskonektaturik",
+  "nutriPen": "Eskaera egiteko zain",
+  "nutriRev": "Berrikusitako galdeketa",
+  "nutrition": "elikadura",
+  "nutritionist": "Hitz egin nutrizionistarekin",
+  "NUTRITIONIST_Q1": "Lehen mailako helburuak: (Aplikatu guztiak egiaztatzea)",
+  "NUTRITIONIST_Q10": "Are nabarmen irritable, argia buru edo ahula duzu jaten ez baduzu?",
+  "NUTRITIONIST_Q11": "Ariketa erregimen arrunta: (Cardio, Erresistentzia, etab.)",
+  "NUTRITIONIST_Q12": "Smoke duzu? (Bai, maiz zenbat eta zenbat?)",
+  "NUTRITIONIST_Q13": "Alkoholik edaten al duzu? (Bai, maiz zenbat eta zenbat aldiz?)",
+  "NUTRITIONIST_Q14": "Kafeina edaten al duzu? (Bai, maiz zenbat eta zenbat aldiz?)",
+  "NUTRITIONIST_Q15": "Azken fisikoaren data:",
+  "NUTRITIONIST_Q16": "Zenbat aldiz eman zaizkizun antibiotikoak azken 2 urteetan:",
+  "NUTRITIONIST_Q16_BIS": "Hala bada, Zein eta zein maiztasunarekin (Mesedez, ahalik eta zehatzena izan).",
+  "NUTRITIONIST_Q17": "Botikak hartzen dituzu? (OTC edo Prescription?) Hala bada, zeintzuk eta ez dituzula hartzen? Hala bada, maiztasunarekin, (ahalik eta zehatzena izan).",
+  "NUTRITIONIST_Q18": "Astean 1-2 egun baino gehiagoko bloated edo constipated duzu?",
+  "NUTRITIONIST_Q19": "Arazoak al dituzu hurrengo eremuetan? Bai bada, zehaztu zure arazoa emandako espazioetan.",
+  "NUTRITIONIST_Q2": "Gutxi gorabehera, zenbat janari egun bat jan duzu? (Aukeratu bat)",
+  "NUTRITIONIST_Q3": "Zer da zure gosaria tipikoa, eta zein ordutan datza:",
+  "NUTRITIONIST_Q4": "Zer da zure bazkari tipikoa, eta zein ordutan datza:",
+  "NUTRITIONIST_Q5": "Zein da zure afaria tipikoa, eta zein ordutan datza:",
+  "NUTRITIONIST_Q6": "Zer egiten dute zure tipiko pintxoak, eta zein ordutan (k):",
+  "NUTRITIONIST_Q7": "Gutxi gorabehera?",
+  "NUTRITIONIST_Q8": "Elikagaiak elikagaiak eta zenbat aldiz elikatzen diren:",
+  "NUTRITIONIST_Q9": "Elikagaien alergiak, murrizketak edo sentsibilitateak dituzula?",
+  "NUTRITIONIST_SUB1": "Pisua galtzea",
+  "NUTRITIONIST_SUB10": "Goragalea / Oka",
+  "NUTRITIONIST_SUB11": "Urdaileko mina",
+  "NUTRITIONIST_SUB2": "Pisua Gain",
+  "NUTRITIONIST_SUB3": "Energia / Nekea",
+  "NUTRITIONIST_SUB4": "Better Sleep",
+  "NUTRITIONIST_SUB5": "Digestio-gaiak",
+  "NUTRITIONIST_SUB6": "idorreria",
+  "NUTRITIONIST_SUB7": "beherakoa",
+  "NUTRITIONIST_SUB8": "IBS",
+  "NUTRITIONIST_SUB9": "Bloating / Gas",
+  "nutrition_mail": "Lotutako elikadura txostena dago",
+  "nutrition_mail2": "Nutrizionistak fitxategi bat bidaltzen dizu",
+  "nutrition_questionnaire": "elikadura-galdetegia",
+  "nvisit": "Bideoklip kopurua egin da",
+  "obesity1": "Obeso",
+  "obesity2": "Gogorra obesitatea",
+  "obesity3": "Morbidly obese",
+  "OFFICE_ADDRESS": "Bulegoko helbidea",
+  "offline": "Offline",
+  "OFFLINE_DOCTOR_MSG": "Badirudi medikua deskonektatuta dagoela, saiatu berriro geroago",
+  "OLDPWD_ERROR": "Pasahitz berria pasahitz zahar batekin dator.",
+  "OLD_PASSWORD_WRONG": "Pasahitz zaharra okerra da",
+  "OLD_PWD": "Pasahitz Zaharra",
+  "oneDay": "Egun bat",
+  "one_min": "Minutu 1ean",
+  "online": "Online",
+  "onlinedoctors": "Mediku online",
+  "openimage": "Egin klik irudian pantaila osoan irekitzeko",
+  "open_ticket": "Txartel bat ireki",
+  "orale": "Ahoa arabera",
+  "other": "Beste",
+  "othercbc": "CBCko beste azterketak",
+  "OTHER_PLACEHOLDER": "Aukeratu zure espezialitatea",
+  "otoscopy": "Otoscopy",
+  "otp_sent_msg": "Zure telefono zenbakian egiaztapen kodea bidali dizugu",
+  "OUR_PRODUCTS_SECTION": "Gure gailuek denbora errealean osasuna eta ongizatearen datuak ematen dituzte zure osasunaren jarraipena egiteko.",
+  "OUR_PRODUCTS_SECTION_NUVOAIR1": "Neurri zure biriketako osasuna segundotan spirometer profesional batekin",
+  "OUR_PRODUCTS_SECTION_P1": "Denbora errealean osasuneko datuak eskaintzen dituen teknologia dotore erabilgarriak, ongizate funtzioez gain",
+  "OUR_PRODUCTS_SECTION_P2": "Fitness / Ongizatearen onurak",
+  "OUR_PRODUCTS_SECTION_P3": "Etxean oinarritutako diagnostiko kit familia osoarentzat.",
+  "OUR_PRODUCTS_SECTION_P4": "Ezaugarriak",
+  "OUR_PRODUCTS_SECTION_P5": "Bi gailuak aplikazioarekin elkarreragiteko diseinatuta daude, osasun-esperientzia ondo biltzeko. Zure emaitzak zuzenean zuzenean gordeko dira.",
+  "OUR_PRODUCTS_SECTION_PRESX": "Zure presio boolearra neurtu segundotan, esfigmometro profesional batekin",
+  "OUR_PRODUCTS_SECTION_SCALX": "Neurtu zure pisua segundotan, eskala profesional batekin",
+  "OUR_PRODUCTS_TITLE": "Gure produktuak",
+  "overeatFoods": "Jaten ari den janaria",
+  "overeating": "Gehiegizko jateko joera",
+  "overweight": "Gehiegizko pisua",
+  "pa": "Errezeta laguntzailea",
+  "PASSWORD": "Pasahitza",
+  "passwordchanged": "Pasahitza zuzen aldatu da!",
+  "passwordExpiringMessage": "Zure pasahitza laster iraungiko da. Mesedez aldatu orain",
+  "passwordExpiringTitle": "Pasahitza iraungi da",
+  "PATIENT": "Gaixoaren",
+  "patientAllergy": "Alergiak",
+  "patientGeneticRequests": "Proba genetikoen eskaerak",
+  "patientinfo": "Gaixoaren informazioa",
+  "patientlist": "Gaixoaren zerrenda",
+  "patientmanagement": "Pazienteak kudeatzea",
+  "patientProtesi": "protesiak",
+  "PATIENTS_NO_P": "Une honetan programatutako hitzorduak ez dituzu zain",
+  "PATIENTS_SECTION": "Zure hitzorduak",
+  "PATIENTS_SECTION_SUBTITLE": "Egin klik elementu bakoitzean xehetasun guztiak ikusteko",
+  "PATIENTS_TITLE": "pazienteak",
+  "patientupdate": "Gaixoaren",
+  "patientvisit": "Gaixoaren bisita historia",
+  "PATIENT_PROFILE_OPT1": "Nire profila",
+  "PATIENT_PROFILE_OPT11": "Nire gogokoak Medikuak",
+  "PATIENT_PROFILE_OPT12": "Gehitu farmazia gogokoena",
+  "PATIENT_PROFILE_OPT2": "Nire artxibo medikoa",
+  "PATIENT_PROFILE_OPT3": "Nire Bisitaren historia",
+  "PATIENT_PROFILE_OPT4": "Nire gogokoak",
+  "PATIENT_PROFILE_OPT5": "Nire fitxategiak",
+  "PATIENT_PROFILE_OPT6": "Nire jakinarazpenak",
+  "PATIENT_PROFILE_OPT7": "EKG karga",
+  "PATIENT_PROFILE_OPT8": "Mediku-gailuaren datuak",
+  "PATIENT_PROFILE_OPT9": "Nire gogoko farmaziak",
+  "PATIENT_S1": "Gaixoaren",
+  "PATIENT_S2": "Honi buruz hitz egitea",
+  "PATIENT_S3": "Gaixoaren informazioa",
+  "PATIENT_S4": "Bisitariaren gaia",
+  "PATIENT_S5": "Gaixotasunak",
+  "PATIENT_S6": "Alergiak",
+  "PATIENT_S7": "botika",
+  "PATIENT_S8": "Erantsitako dokumentuak",
+  "PATIENT_S9": "Sintomak?",
+  "PATIENT_SUMMARY": "Gaixoaren informazioaren laburpena",
+  "patologia": "patologia",
+  "payment": "Ordainketa",
+  "PAYMENT_DETAILS": "Ordainketaren xehetasunak",
+  "PAYMENT_MESSAGE_1": "Zenbateko bakoitzari baimena emango diozu",
+  "PAYMENT_MESSAGE_2": "Bideokliparen amaieran kobratuko zaizu",
+  "PAYMENT_SECTION1": "Hautatu txartel bat zerrendatik",
+  "PAYMENT_SECTION2": "Txertatu kreditu-txartelaren balioak",
+  "PAYMENT_SUCCESS": "Ordainketa arrakastatsua!",
+  "PAYMENT_SUCCESSFUL": "Ordaindu beharreko aurre-baimenak ondo jaso ditugu",
+  "PAYMENT_UNSUCCESSFUL": "Ordainketa baimen lehenetsia huts egin du. Begiratu zure kreditu txartelaren informazioa edo eskatu zure bankua.",
+  "paziente_rimosso": "Gaixoaren egoera ondo aldatu da",
+  "paziente_salvato": "Gaixoaren arrakastaz eguneratu da",
+  "pdf_download_error": "Ezin da pdf deskargatu. Mesedez, saiatu berriro geroago",
+  "pdf_file_error": "Pdf fitxategiak bakarrik onartzen dira",
+  "period": "Epea",
+  "PERIODIC_HEART_RATE": "Bihotz-tasa periodikoa",
+  "personal": "Personal",
+  "personalCare": "Pertsonala",
+  "personalinfo": "Informazio pertsonala",
+  "PER_MIN": "/ min",
+  "pharmacies": "Farmaziak",
+  "PHONE": "Telefono zenbakia",
+  "phone1": "Mugikorra",
+  "pills": "Pilulak",
+  "PILLS_DATE_ERROR": "Hasierako data amaierako data ondorengoa da",
+  "pill_reminder_message": "Zure pilulak hartzeko garaia da",
+  "placeholder": "erabiltzaile-izena, posta elektronikoa edo izena",
+  "placeOfBirth": "Jaioterria",
+  "place_birth": "Jaioterria",
+  "platform": "Plataforma",
+  "poc": "POC",
+  "POLICY_NUMBER": "Politika zenbakia",
+  "positive": "positiboa",
+  "POSTCALL_DOCTOR_TITLE": "Bisitaren laburpena",
+  "POSTCALL_PATIENT_TITLE": "Baloratu zure esperientzia",
+  "POUNDS": "libra",
+  "PRACTICE_LENGTH": "Praktikan luzera",
+  "prenota": "Erreserbatu orain",
+  "prenotatest": "Eska ezazu hitzordua",
+  "preobesity": "Pre-obesitatea",
+  "prescription": "Errezeta",
+  "prescriptiondiscounts": "Preskripzio deskontuak",
+  "PRESCRIPTIONS": "Prescriptions",
+  "prescriptions_sent": "Errezeta bidaliak",
+  "prescription_mail": "Lotu zure errezeta",
+  "prescription_mail2": "Eskerrik asko SaluberMD erabiltzea",
+  "prescription_notification": "Erabiltzaile maitatua, jakinarazten dizugu zure errezeta erabilgarri dagoela aplikazioaren denbora-lerraren / biltzarraren historiaren atalaren azpian",
+  "prescription_pharmacy": "Hautatu farmazia bat errezeta bidaltzeko",
+  "prescription_preview": "Errezeta aurreikusia",
+  "prescription_sent": "Errezeta bidali da",
+  "PRESCRIPTION_SENT_EMAIL": "Zure errezeta zure posta elektronikoara bidali da ...",
+  "prescription_subject": "Zure errezeta",
+  "pressbutton": "Sakatu gailuaren pareko botoia eta punteatu Bilatu gailua",
+  "pressbuttonpresx": "Sakatu eta mantendu parekatze-botoia gailuaren atzeko aldean konexioa abiarazteko eta sakatu botoia aurkitzeko gailua aplikazioa",
+  "pressbuttonscalx": "Sakatu eta mantendu parekatze-botoia gailuaren atzeko aldean konexioa abiarazteko eta sakatu botoia aurkitzeko gailua aplikazioa",
+  "pressure_index1": "pressure_index1",
+  "PRESX": "Odol-presioa",
+  "PRESX_PROD": "PRESX",
+  "previous": "aurreko",
+  "pre_period": "Errezeta aldia",
+  "price": "Prezioa",
+  "price_per_visit": "Bisita bakoitzeko kuota",
+  "PRICING_SECTION1_P1": "SaluberMD konpromisoa hartzen du prezio merke eta kalitatezko prezio merkeak eskainiz, ezkutuko tasarik edo kargurik gabe.",
+  "PRICING_SECTION1_P2": "SaluberMD-k zaintza ematen du edonon eta behar duzunean, bideo-bisita baten bidez, medikuaren ziurtagiri batekin. Medikuek gaiak diagnostikatu, aztertu eta entzuteko gai izan ditzakete edo, bide batez, galderari eta kezkari medikuei aurre egin.",
+  "PRICING_SECTION1_P3": "Medikuntza esklusiboarekin zure medikuari zure medikuaren historia, zure irudiak eta fitxategiak sar ditzakezu tratamendu plan eraginkorrena emateko.",
+  "PRICING_SECTION1_TITLE": "bisita bakoitzeko",
+  "PRICING_TITLE": "Prezioak",
+  "primaryConcern": "Lehenengo kezkak",
+  "primaryMood": "Mood Primary",
+  "print": "Inprimatu",
+  "priority": "Lehentasuna",
+  "PRIVACY_POLICY_TITLE": "Pribatutasun politika",
+  "problems": "arazo",
+  "PROCEED_PAYMENT": "Jarraitu ordainketarekin",
+  "PROFESSIONAL_TITLE": "Izenburua profesionala",
+  "PROFILE_SECTION2": "Harremanetarako informazioa",
+  "protesi": "Prostesia eta laguntza medikoak",
+  "protesiobbligatorio": "Mesedez, hautatu protesia mota bat",
+  "prov": "Sample",
+  "publicAppUrl": "Hitzorduetarako zure helbide publikoa hauxe da:",
+  "pulldown": "Atera behera freskatzeko",
+  "pull_request_processed": "Eskerrik asko, zure erabilgarritasuna bidali diogu gaixoari",
+  "PWD_NOTMATCH": "Pasahitzak ez datoz bat",
+  "P_P_Error": "Pribatutasun politika onartu behar duzu",
+  "QUALITY_INDEX": "Kalitatea",
+  "QUALITY_INDEX_DESCRIPTION": "Gorputz fisikoa erresistentzia eta estres mentala da, egoera egokitzeko eta maneiatzeko gaitasunaren aurrean. Gorputz fisikoaren indizea giza gorputzari islatzen zaio ingurumen-aldaketetara eta estresa estimulatzeari egokitzeko, osasun-gaitasuna mantentzeko eta berreskuratzeko. Gorputz fisikoa maiz agertzen da pertsonen bizitza, ikaskuntza eta lanaren potentzialtasuna, baina baita ariketa fisikoan ere. Pertsona baten kalitate fisikoa herentziarekin lotuta dago, baina elikadura eta ariketa fisikoarekin zerikusia duten estuki lotuta dago. Metodo zuzenak eta ariketa egokiak erabiliz, bere alderdi guztietan fitness fisikoa hobetu dezake.",
+  "quantity": "Kopurua",
+  "quesito": "kezka",
+  "QUESTIONS_SECTION_TITLE": "Osasun-ebaluazioari buruzko doako kontsulta bat jasoko duzu, mediku-fitxa osorik bete ondoren.",
+  "QUESTIONS_TITLE": "Galderak",
+  "quindici": "Azken 15 neurketak",
+  "ratio": "Ratio",
+  "reccomendation": "Reccomendation",
+  "reccomendations": "gomendioak",
+  "recommendation": "gomendioak",
+  "RECOMMENDATIONS": "gomendioak",
+  "RECOMMEND_SECTION_P1": "SaluberMD-n mundu osoko kalitatezko osasunaren eskakizuna bilatzen ahalegintzen gara, gure bezeroei Medikuen talde oso ondoan sartzeko.",
+  "RECOMMEND_SECTION_P2": "Beti kalitatezko medikuak bilatzen ari gara gure talde zoragarrira gehitzeko. Gure taldeko kide gisa, aipamenak errespetatu eta baloratzen ditugu.",
+  "RECOMMEND_SECTION_P3": "Osatu beheko formularioa medikuari SaluberMDrekin erreferentzia egiteko",
+  "RECOMMEND_SECTION_TITLE": "Bazkide bat gomendatu",
+  "RECOMMEND_TITLE": "gomendatu",
+  "record_aggiornato": "Grabatu ondo eguneratu",
+  "record_aggiunto": "Grabazio ondo gehitu da",
+  "record_inserito": "Arrakastaz gehitu da",
+  "record_rimosso": "Grabazioa ondo ezabatu da",
+  "REFERRAL": "Erreferentzia",
+  "REFERRALS": "Gomendioak",
+  "referrals_sent": "Erreferentziak bidali dira",
+  "referral_mail": "Erantsitakoa zure erreferentzia da.",
+  "referral_sent": "Erreferentzia bidali da",
+  "refundrequestsent": "Zure eskaera bidali da",
+  "register": "Eman izena",
+  "register_report": "Erabiltzaileen Erregistroak",
+  "registration_date": "Izena emateko eguna",
+  "REGISTRATION_HEADER_DOCTOR": "Sartu Saluber MD taldeak",
+  "REGISTRATION_HEADER_PATIENT": "Mesedez, bete beheko formularioa eta sakatu erregistratu",
+  "releaserefresh": "Askatu freskatzeko",
+  "remarks": "Oharrak",
+  "removedevice": "Gailu hau kendu nahi duzu?",
+  "removefavorite": "Kendu gogokoetatik?",
+  "remove_generic": "Kendu nahi al duzu?",
+  "renalFunction": "Giltzurrun-funtzioa",
+  "reoccurring": "reoccurring",
+  "repeat_email": "Berretsi E-posta",
+  "report": "Kliniko fitxategi pertsonalak: datuen txosten osoa",
+  "report1": "Fitxategi kliniko pertsonala:",
+  "report2": "txostena",
+  "reportvisite": "Txostenak Videocalls",
+  "report_date": "Txostenaren data",
+  "requestdate": "Eskaera data",
+  "request_already_taken": "Eskaera hori beste mediku batek zuzendu du dagoeneko.",
+  "REQUEST_ERROR": "Errore bat gertatu da zure eskaerak prozesatzerakoan. Egiaztatu zure Interneteko konexioa edo saiatu berriro geroago.",
+  "request_sent": "Zure requesst arrakastaz bidali da backoffice-ra",
+  "required": "Eremu hau derrigorrezkoa da.",
+  "required_field": "Fitxategia behar da",
+  "RESEND_EMAIL": "Berrikusi berrespen-kodea",
+  "resetCorxFactory": "Ziur Corx berrezarri nahi duzula?",
+  "RESETPWD_BTN": "Berrezarri pasahitza",
+  "RESET_PASSWORD": "Idatzi posta elektronikoa edo erabiltzaile izena erregistratzean",
+  "respiratory": "Arnas",
+  "RESPIRATORY_RATE": "Arnasketa-tasa",
+  "RESTORE_FACTORY_SETTINGS": "Leheneratu fabrika ezarpenak",
+  "resultfound": "erregistroa aurkitu da",
+  "results": "Emaitzak",
+  "ricettario": "Herria",
+  "richiediDrug": "Eskatu Drogak",
+  "richiestaAppuntamento": "Zerrenda eskaera",
+  "richiestaRimborso": "Itzulketa eskaera",
+  "ricovero": "Ospitalizazioa",
+  "riepilogo": "Laburpen",
+  "rightHanded": "Eskuz esku",
+  "rimborso": "Itzultzeak",
+  "ripetibile": "Errepikagarria (aldiz)",
+  "rr_desc": "Arnasketa-tasa arnasketa gertatzen den tasa da. Gainerako helduen arnasketa-tasa arrunta 12 eta 20 minutuko arnasa da. Arnasketa-tasa 12 minutuz edo gehiagoko 25 minutuko arnasa atseden hartzen duenean anormalak dira",
+  "rs": "Arnas aparatua",
+  "RUNNING_CALL_OPT1": "Jarraitu",
+  "RUNNING_CALL_OPT2": "Amaitu deia",
+  "RUNNING_CALL_TITLE": "Deialdi exekutiboa",
+  "sa": "Autentifikazio sendoa",
+  "sadness": "tristura",
+  "sai": "Jardueraren indizea",
+  "sai_desc": "SAI zure bihotz-tasaren araberakoa da. Gorputzaren jarduera fisikoaren erantzuna jarraitzen duen metriko sinplea da, urratsak baino askoz ere gehiago. Urratsa jarraitzen ez den bezala, SCIk bihotz-tasa altxatzen duen jarduera bakoitzerako kredituak ematen ditu: igeriketa, bizikleta, arrauna, dantza, edozein dela ere. Jarrai ezazu azpitik 30 bizitza hobea eta osasuntsuagoa izateko.",
+  "sai_title": "SAI",
+  "saluberAccess": "SaluberMD pazientearen",
+  "SATURDAY": "Larunbata",
+  "savedinfo": "Informazioa behar bezala gorde da",
+  "SAVE_BTN": "Save",
+  "SAVE_MESSAGE": "Utzi baduzu, zure aldaketak galdu egingo dira",
+  "sbpi": "Odolaren presio indizea",
+  "sbpi_desc": "Odoljarioa hiltzaile isila da. Zure odol-presio sistoliko eta diastolikoa egiten ari zaren saio medikoen arabera kalkulatzen dira. Jarraian, beheko SBPI 30 aukera txikiagoak izan ditzake, esaterako, trazua eta odol clots.",
+  "sbpi_title": "SBPI",
+  "SCALX": "pisu",
+  "SCALX_PROD": "SCALX",
+  "scan": "Scan",
+  "scanningcorx": "CORXen bila ... Mesedez itxaron",
+  "schedule": "Ordutegiak",
+  "scheduleAnAppointment": "Antolatu hitzordua",
+  "scheduleappointment": "Programatu videocall mediku batekin",
+  "schtime": "Aurreikusitako denbora",
+  "sci": "Kardiobaskularreko indizea",
+  "sci_desc": "Zure arteriala pultsatzeko olioa aztertuz gero, zure sistema kardiobaskularrari buruzko informazioa jasotzen ari gara. SCI indizea zure osasun kardiobaskularrari buruzko laburpen bat da, 20 urte azpian mantentzen saiatu!",
+  "sci_title": "SCI",
+  "SEARCH": "Search",
+  "searchallergy": "Bilatu alergia",
+  "searchdoctor": "Bilatu medikua",
+  "searchfordoctor": "Bilatu medikuaren izena edo abizena",
+  "searchingdevice": "Gailua bilatzen. Pixka bat hartu ahal izango du",
+  "searching_avail_date": "Data erabilgarriak bilatuz ...",
+  "searching_online_doctors": "Bilatzen ari diren medikuen online bila ...",
+  "searchmedication": "Bilatu botikak",
+  "searchpatient": "Bilatu pazientea",
+  "searchpatologia": "Bilatu egoera medikoan",
+  "searchsymptom": "Bilatu sintoma",
+  "searchuser": "Bilatu erabiltzailea",
+  "search_doctor_description": "Bilatu erabiltzaile-izenaren, posta elektronikoen edo izenaren arabera",
+  "search_patient_description": "Bilatu gaixoaren erabiltzaile-izena, posta elektronikoa edo izena",
+  "search_specialization": "Bilatu espezialitatea",
+  "search_user_description": "Bilatu erabiltzailearen erabiltzaile-izena, posta elektronikoa edo abizena",
+  "search_videocall_description": "Buscar por videocall by iniziative",
+  "search_videocall_title": "Serach Videocall data arabera",
+  "secondaryMood": "Mood Secondary",
+  "secondOpinion": "Bigarren iritzi eskaerak",
+  "seconds": "segundutan",
+  "second_opinion_1": "Seguru eta fidagarria mundu osoko aditu nagusien bigarren iritzi medikoan sartzeko.",
+  "second_opinion_2": "Gure Medical Second Opinion Zerbitzuak lagun zaitzake:",
+  "second_opinion_3": "Eskuratu zure galderari erantzunak",
+  "second_opinion_4": "Aukeratu tratamendu plan onena",
+  "second_opinion_5": "Ziurtatu diagnostiko zuzena",
+  "second_opinion_body": "Erabiltzaile maitea, <br> bidalitako dokumentuak aztertzen ari diren gure espezialistek hartu dute zure bigarren aukera eskaera.",
+  "second_opinion_history": "Bigarren iritzi eskaerak",
+  "second_opinion_msg": "Eskerrik asko. Gure osasun-defendatzaileek hurrengo 24 orduetan zehar iritsiko zaitu.",
+  "SECOND_OPINION_Q1": "Zer nahi duzu nutrizionistaarekin hitz egin?",
+  "second_opinion_question1": "Nor da bigarren iritzia?",
+  "second_opinion_question2": "Kargatu fitxategi bat",
+  "second_opinion_step1": "Galdetegi labur bat osatzea / Zure fitxategiak kargatu",
+  "second_opinion_step2": "Medikuek zure materialak ebaluatuko dituzte",
+  "second_opinion_step3": "Mediku kontsulta zure emaitzak eztabaidatzeko",
+  "secOpChoice": "Mesedez, hautatu zein bide jaso nahi zenuke bigarren iritzia",
+  "section": "Aukeratu atal bat",
+  "security": "Segurtasuna",
+  "seeaprovider": "Ikusi Hornitzaile bat",
+  "seecommenti": "Iruzkinak ikusi",
+  "seedoctor": "Ikusi medikua orain",
+  "SEE_A_DOCTOR_Q1": "Nork bideo dei hau da?",
+  "SEE_A_DOCTOR_Q10": "Kontsultatu zuzenean farmazia zure eskaera bidaltzeko",
+  "SEE_A_DOCTOR_Q1B": "Zure seme-alabaren izena eta jaiotze eguna?",
+  "SEE_A_DOCTOR_Q1_A1": "me",
+  "SEE_A_DOCTOR_Q1_A2": "Nire umea",
+  "SEE_A_DOCTOR_Q2": "Mesedez, idatzi medikuari buruz hitz egin nahi duzuna",
+  "SEE_A_DOCTOR_Q3": "Sintomak?",
+  "SEE_A_DOCTOR_Q4": "Argazkia edo dokumentua erantsi nahi al duzu?",
+  "SEE_A_DOCTOR_Q4_ERROR": "ERROREA: Fitxategiek ezin dute 5 MB gainditu",
+  "SEE_A_DOCTOR_Q4_S1": "Aukeratu fitxategi bat",
+  "SEE_A_DOCTOR_Q4_S2": "Argazkia atera",
+  "SEE_A_DOCTOR_Q5": "Dagoeneko medikazioa hartzen ari bazara, mesedez, mesedez jarri izena",
+  "SEE_A_DOCTOR_Q5_CHILD": "Zure seme-alabak sendagairik hartzen al du gaur egun? hala bada, zerrendatu izena",
+  "SEE_A_DOCTOR_Q5_S1": "izena:",
+  "SEE_A_DOCTOR_Q5_S2": "dosia:",
+  "SEE_A_DOCTOR_Q6": "Alergia al duzu?",
+  "SEE_A_DOCTOR_Q6_CHILD": "Zure seme-alabak alergiarik al du? hala bada, zerrendatu izena",
+  "SEE_A_DOCTOR_Q7": "Mediku baldintza duzu?",
+  "SEE_A_DOCTOR_Q7_CHILD": "Zure seme-alabarik ba al du medikuak? hala bada, zerrendatu izena",
+  "SEE_A_DOCTOR_Q8": "Medikuari baimena ematen dio zure medikuntza lineako fitxategia ikusteko.",
+  "SEE_A_DOCTOR_Q9": "Farmaziak hobetsia",
+  "SEE_A_DOCTOR_TITLE": "Ikusi mediku bat",
+  "SEE_A_PROVIDER": "Ikusi Hornitzaile bat",
+  "segment": "Segment",
+  "selectAFile": "Punteatu beheko botoia fitxategi bat hautatzeko",
+  "selectaprovider": "Hautatu Hornitzaile bat",
+  "selectcarderror": "Mesedez, hautatu txartel bat",
+  "selectdoctor": "Agenda kudeatu",
+  "selectdoctor1": "Aukeratu medikua",
+  "selectdrug": "Hautatu medikazioa",
+  "selectedContact": "Harremanetarako bitartekoak",
+  "selectinitiative": "Hautatu ekimen bat edo gehiago ...",
+  "selectnutritionist": "Hautatu zure elikaduran",
+  "selectpatient": "selectpatient",
+  "select_country": "Mesedez, hautatu herrialdea",
+  "select_device": "Hautatu gailua",
+  "select_file": "Hautatu fitxategia",
+  "select_file_btn": "Hautatu fitxategia",
+  "select_patient": "Egin klik errenkadan xehetasunak ikusteko",
+  "send": "Bidali",
+  "sendmessage": "Bidali mezu bat",
+  "sendtoken": "Bidali hau medikuari zure artxibo medikoan sartzeko. Esteka hau 10 minututan iraungitzen da",
+  "SEND_BTN": "Bidali",
+  "send_doctor_request": "Bidali eskaera",
+  "sentmessage": "Bidalitako mezuak",
+  "SERVICE_TYPE": "Zerbitzu Mota",
+  "sessantad": "Azken 60 egunetan",
+  "SESSION_EXPIRED": "Zure saioa iraungi egin da. Mesedez, hasi saioa berriro",
+  "setAlarm": "Ezarri alarmak",
+  "settd": "Azken 7 egunetan",
+  "settings_saved": "Ezarpenak behar bezala gorde dira",
+  "setTreshold": "Ezarri Range",
+  "SET_BTN": "Ezarri",
+  "SET_USER_EMAIL": "Mesedez, zehaztu erabiltzaile-izena edo posta elektronikoa",
+  "set_vital_signs": "Ezarri Vital Signs",
+  "sevendays": "7 egun",
+  "showalldata": "Erakutsi datu guztiak",
+  "showOnEmergency": "Erakutsi Larrialdietarako",
+  "signature": "Zure sinadura (errezeta erabiltzen da)",
+  "signature_word": "Sinadura",
+  "SIGNUP_BTN": "Izena eman",
+  "sii": "Aseguruen indizea",
+  "sii_desc": "SII SaluberMD indize guztien konbinazioa da eta zure osasun-arrisku orokorren ispilu da. Beheko 30 guneko seguru zaude!",
+  "sii_title": "IGOERA",
+  "since": "geroztik",
+  "single": "Egun bakarra",
+  "singleAccess": "Sarbide bakarra",
+  "sitreminder": "Eseri abisua",
+  "sit_period": "Epea",
+  "skip": "jauzi egin",
+  "skip_pull": "Ez ikusi",
+  "skip_step": "jauzi",
+  "sl": "Estresa maila",
+  "SLEEP": "Sleep",
+  "slotime": "Slot Duration (min)",
+  "sl_alta": "85 bpm baino handiagoa",
+  "sl_bassa": "65 baino gutxiago",
+  "sl_desc": "Estres maila kalkulatzen da minutu bakoitzeko beat arabera",
+  "sl_normale": "65 eta 85 bpm artean",
+  "smoker": "erretzailea",
+  "snacks": "pintxoak",
+  "SOMETIMES": "Batzuetan",
+  "SONNO": "Sleep",
+  "SOP_Q4": "Erantsi zure mediku txostena",
+  "sos": "SOS",
+  "so_specialization": "Berezitasun",
+  "specialists": "Adituak",
+  "specialization": "Aukeratu espezialitatea",
+  "SPECIALTY": "Berezitasun",
+  "specifyother": "Mesedez, zehaztu beste bat",
+  "specifyvalue": "Mesedez, zehaztu balio bat",
+  "spirometer": "espirometria",
+  "spo2_desc": "SpO2 edo odol oxigeno maila oxigenoaren neurria zure odol gorriak egiten ari den neurrian da. Balio normalak% 95 eta% 100 artean daude, Odoleko oxigeno maila azpitik normala deitzen zaio hipoxemia",
+  "sri": "Arnas aparatuaren indizea",
+  "sri_desc": "Zure arnasketa-ereduak aztertuko ditugu edozein saio mediku eta lo zehar. SRI 30 urtetik beherakoa bada, arnasbide obstructive baldintzak jasateko aukera gutxi izaten dira.",
+  "sri_title": "SRI",
+  "ssi": "Estresa indizea",
+  "ssi_desc": "Zure bihotz-tasaren aldakortasuna aztertuz, estresa maila kuantifikatzen dugu. Estresa obesitatea, bihotzeko gaixotasuna, Alzheimerra, diabetesa, depresioa, arazo gastrointestinalak eta asma bezalako baldintzen arriskua larriagotu edo handitzen duela dirudi. Jarrai ezazu 20 beheko segurua izateko!",
+  "ssi_title": "SSI",
+  "start": "start",
+  "startcall": "Hasi deia",
+  "startdate": "aurrera",
+  "starthour": "Hasiera ordua",
+  "startmeasure": "Orain neurketa hasteko, botoiaren gainean sakatu dezakezu",
+  "startnow": "Hasi orain",
+  "startRecording": "Sakatu hasteko, ahots-audioa grabatzeko",
+  "startyping": "Hasi izena idazten",
+  "start_blowing": "Hasi leherketak",
+  "start_test": "Hasi proba",
+  "start_time": "Hasiera ordua",
+  "state": "Estatu",
+  "state1": "Estatu",
+  "STATES_LICENSE": "Estatu Lizentziatua",
+  "state_problem": "Mesedez, zure arazoa adierazi",
+  "status": "Egoera",
+  "step": "Step",
+  "STEPS_GOAL": "Urratsak Helburua",
+  "stoolTest": "Tabureterako proba",
+  "stop": "Gelditu",
+  "stop_test": "Stop proba",
+  "stress": "Stress",
+  "stroke_vol": "Trazatuaren bolumena",
+  "stroke_volume": "Trazatuaren bolumena",
+  "stroke_volume_desc": "Trazatuaren bolumena odol bolumena da",
+  "struttura": "egitura",
+  "strutture": "Egiturak",
+  "subject": "Gaia",
+  "subject_so": "Gaia",
+  "submissionDate": "Aurkezteko data",
+  "success": "Arrakasta",
+  "SUCCESS_TITLE_NOTIFICATION": "Arrakasta",
+  "SUMMARY": "diagnostikoa",
+  "summary1": "Laburpen",
+  "SUNDAY": "Igandea",
+  "surgery": "Kirurgia",
+  "surgeryAndHospitalization": "Ospitaleratzea eta historia kirurgikoa",
+  "surgeryCategory": "Kirurgia kategoria",
+  "surname": "Abizenak",
+  "sv_alta": "100 baino handiagoa",
+  "sv_bassa": "55 ml baino gutxiago",
+  "sv_normale": "55 eta 100 ml artean",
+  "switchsearch": "Aldatu bilatu",
+  "symptoms": "Sintomak",
+  "SYMPTOMS_BTN": "Sintomak",
+  "sync": "Sync",
+  "SYNC_TIME": "Sinkronizazioa",
+  "sysdia": "Presioa",
+  "systolic": "sistoliko",
+  "TAKE": "Hartu",
+  "takeAppointment": "Hartu hitzordua",
+  "TAKE_APP": "Ordutegiak izendatzea",
+  "TAKE_A_PHOTO": "Argazkia atera",
+  "tall": "Zenbat neurtzen duzu",
+  "tapconnect": "Sakatu konektatzeko",
+  "tapdisconnect": "Sakatu deskonektatzeko",
+  "tap_to_expand": "Sakatu irekitzeko",
+  "telNameMandatory": "Mesedez, zehaztu izen bat",
+  "telNumberMandatory": "Mesedez, zehaztu telefono-zenbakia",
+  "temper": "tenplea",
+  "temperDescription": "Aldakuntza emozionala hiztunaren aldarte osoarekiko estaltzen duen neurrian. Behe-tenpluak umore ilun eta depresioak deskribatzen ditu. Modu ertaina umore atsegina, epela eta besarkada deskribatzen du. Tenperatura handiko balioak aldarte konfrontazio, dominatzaile eta oldarkorrak deskribatzen ditu.",
+  "tendays": "Azkeneko 10",
+  "ten_min": "10 minututan",
+  "terminata": "Deitu arrakastatsua",
+  "TERMS_TITLE": "Erabilera baldintzak",
+  "test": "Probatu",
+  "testmichele": "test michele",
+  "testresult": "Probak Emaitza",
+  "testresults": "Proba emaitzak",
+  "tests": "probak",
+  "text": "Testua",
+  "thiscC": "Kreditu txartel hori zerbitzua ordaintzeko erabiliko da",
+  "THURSDAY": "Osteguna",
+  "thyroidTest": "Tiroideen funtzio probak",
+  "tickets": "Sarrerak",
+  "TICKET_HISTORY": "Sarreren historia",
+  "TICKET_NUMBER": "Sarreren zenbakia",
+  "ticket_subject": "Eskaera Gaia",
+  "timecallerr": "Barkatu, ezin duzu deitu oraindik",
+  "timecallerr1": "Barkatu, deia egin ezazu deialdia programatutako ordutegitik haratago",
+  "TIMELINE": "Nire denbora-lerroak",
+  "times": "Zenbat aldiz egun bat?",
+  "timesaday": "Eguneko orduak",
+  "tipopratica": "Mota praktikoa",
+  "tipo_struttura": "Egitura mota",
+  "tipshealt0": "Osasun aholkuak",
+  "tipshealt1": "Gripearen aurkako tiroa - Gripearen aurka txertoa hartu behar al dut?",
+  "tipshealt10": "Egin klik hemen informazio gehiago lortzeko",
+  "tipshealt11": "Estatinak tratamenduaren onurak, jaisteko kolesterol-drogak, arriskuak areagotzen ditu",
+  "tipshealt12": "Lancet-en azken berrikuspen batean, ikertzaileek LDL kolesterolaren egoera statologikoarekin jaistea onurak litekeena gertakari baskular nagusiak (bihotzekoak, trazuak) eta drogen arriskuak areagotzea eragiten dute.",
+  "tipshealt13": "Ikertzaileen arabera, epe luzeko estatina terapia eragiten duten gertaera kaltegarriak larriak dira: miopatia (muskulu mina edo ahultasuna), diabetes mellitus berria eta, ziurrenik, trazu hemorragikoa.",
+  "tipshealt2": "Gripearen txertoak ez du beti babes osoa ematen, merezi du. CDC (Gaixotasunen Kontrolerako eta Prebentziorako Zentroak) urteroko txertoa gomendatzen du 6 hilabete edo gehiago dituztenentzat. Txertoa bereziki garrantzitsua da gripearen aurkako konplikazioetan arrisku handia duten pertsonentzat, besteak beste",
+  "tipshealt3": "Haurdun dauden emakumeak",
+  "tipshealt4": "Adineko helduak (50 urtetik gorakoak)",
+  "tipshealt5": "Haur txikiak (4 urtetik beherakoak eta 6 hilabete baino gutxiago)",
+  "tipshealt6": "Jarduera fisikoa memoria eta pentsamendu trebetasunak hobetzen ditu",
+  "tipshealt7": "Ariketa fisiko erregularraren bizkortasuna garatzeko funtzioa hobetu daiteke eta dementzia arriskua murriztu.",
+  "tipshealt8": "Elkarrekintza itxietan eta jarduera fisiko erregularraren abantailak eta funtzio kognitibo hobetuak argitaratu dituzte.",
+  "tipshealt9": "Eragina zuzenean burmuinean dago eta gorputzean zehar burutzen diren jarduera metaboliko eta fisikoen bidez.",
+  "title": "Izenburua",
+  "to": "to",
+  "todayAppointment": "Gaurko hitzordua",
+  "tooltip1": "Sartu medikuaren izena agenda kudeatu nahi duzun",
+  "totale": "Guztira",
+  "totalSleepTime": "Lo egiteko denbora osoa",
+  "total_cholesterol_desc": "Balio hori odolean dagoen kolesterol guztiaren estimazioa da",
+  "TOTAL_SLEEP_TIME": "Denbora Denbora Osoa",
+  "tot_non_risposte": "Deitu ez da erantzunik",
+  "tot_ricevute": "Deia jaso da",
+  "tot_visite": "Bisitak egin dira",
+  "tpa": "TPA",
+  "trackx": "Trackx",
+  "transfer": "Transfer",
+  "trenta": "Azken 30 neurketak",
+  "trentad": "Azken 30 egunetan",
+  "triglycerides": "triglizeridoak",
+  "trig_cholesterol_desc": "Triglizeridoak zure odolean aurkitzen diren gantz (lipidoak) mota dira. Hurrengo taulan, baloreen barrutia erakusten da.",
+  "TUESDAY": "Asteartea",
+  "tutte": "Neurketa guztiak",
+  "type": "Mota",
+  "TZONE": "Ordu eremu",
+  "underweight": "underweight",
+  "unit": "unitatea",
+  "UNIT_SETTING": "Unitatearen ezarpena",
+  "uom": "Neurri Unitatea",
+  "upcomingAppointmentPatient": "Hurrengo hitzorduak",
+  "UPDATE": "eguneratzearen",
+  "updatelist": "Eguneratze zerrenda",
+  "update_app_message": "Zure aplikazioa eguneratu behar duzu",
+  "UPDATE_AVAILABLE": "Eguneratzea eskuragarri",
+  "UPDATE_BTN": "eguneratzearen",
+  "update_completed": "Firmware eguneratua behar bezala egin da",
+  "update_firmware_download_error": "Errorea firmwarea deskargatzean",
+  "update_list": "eguneratzearen",
+  "UPLOAD_ERROR": "ERROREA: Fitxategiek ezin dute 5 MB gainditu",
+  "upload_referral": "Kargatu zure erreferentzia beheko koadroan.",
+  "urinTest": "Gernu probak",
+  "user": "Erabiltzaileak",
+  "userdata": "Erabiltzailearen datuak",
+  "usermanagement": "Erabiltzaileen kudeaketa",
+  "USERNAME": "Erabiltzaile izena",
+  "username1": "Erabiltzaile izena",
+  "utente_aggiunto": "Erabiltzailea behar bezala gehitu da",
+  "utente_rimosso": "Erabiltzailea behar bezala ezabatu da",
+  "utente_salvato": "Erabiltzailea behar bezala eguneratu da",
+  "vaccinobbligatorio": "Aukeratu immunitatea",
+  "vaioffline": "Joan lineaz kanpo",
+  "vaionline": "Joan Online",
+  "valence": "Valence",
+  "valenceDescription": "Aldagai bat negatibotasuna positibotasunetik abiatuta. Pertsonai bat entzutean, posible da nola &quot;positiboa&quot; edo &quot;negatiboa&quot; sentitzen duten gaia, objektu edo gertaera eztabaidatzen dutenean ulertzeko.",
+  "value": "Balio",
+  "vascular_age": "Bizkarrezur adina",
+  "vascular_age1": "Bizkarrezur adina",
+  "va_desc": "Vascular Age-k zure arterien itxurazko adina neurtzen dizu, pertsona osasuntsuekin alderatuta. Bizkarrezurraren adina zure adin kronologikoa baino handiagoa bada, gaixotasun kardiobaskularrak (CVD) garatzeko arrisku handiagoa izango duzu geroago bizitzan.",
+  "videocall": "videocall",
+  "VIDEOCALL_DES1": "Sakatu beheko botoia zure egoera aldatzeko eta jakinarazpenak jaso edo ez jasotzeko. Gogoratu linean zaudenean soilik jakinarazpena jasotzeko.",
+  "VIDEOCALL_DES2": "Dei bat jasotzen duzunean, sakatu deia hartzeko agertzen den laukizuzena.",
+  "videocall_filter": "Iragazi izenaren edo espezialitatearen arabera",
+  "videocall_request": "Bideo-deialdi berriaren eskaera",
+  "videocall_request_title": "Bideokonferentzia eskaera",
+  "videocall_req_from": "Bideo-gonbiten eskaera:",
+  "videodermatoscopy": "Videodermatoscopy",
+  "VIDEO_ANSWER": "Egin klik bideoa aktibatzeko",
+  "VIDEO_CALL_BTN": "Bideo deia",
+  "VIDEO_CALL_BTN_1": "Video",
+  "view": "ikusi",
+  "viewmedicalfile": "Ikusi artxibo medikoa",
+  "VIRTUAL_OFFICE_SECTION_TITLE": "Sortu zure bulego birtuala",
+  "VIRTUAL_OFFICE_TITLE": "Bulego birtuala",
+  "visitdetail": "Egin klik elementu bakoitzean gaixoaren historia osoa ikusteko",
+  "visithistory": "Bisitatu historia",
+  "visitlist": "Bisiten zerrenda",
+  "VISIT_HISTORY_NO_HISTORY": "Ez duzu bisita oraindik",
+  "VISIT_HISTORY_SUBTITLE": "Egin klik elementu bakoitzean xehetasun guztiak ikusteko",
+  "VISIT_HISTORY_TITLE": "Bisitatu historia",
+  "volte": "Times",
+  "waiting": "Izapidea ...",
+  "Waiting for reconnecting": "MSG_RECONNECTING",
+  "warmth": "Beroa",
+  "WARNING_TITLE_NOTIFICATION": "arreta",
+  "WATCH_DEVICE_DATA_SECTION1_TITLE": "Osasun datuak",
+  "WATCH_DEVICE_DATA_SECTION2_TITLE": "Ongizate datuak",
+  "WATCH_DEVICE_DATA_TITLE": "Zure gailuari buruzko datuak",
+  "water": "Ura",
+  "weanedoff": "Itzalitakoa?",
+  "WEDNESDAY": "Asteazkena",
+  "week": "Astea",
+  "weight": "pisu",
+  "weightUnit": "Pisu Unitatea",
+  "welcome": "Ongi",
+  "wellness": "Wellness",
+  "wellnessdata": "Ongizate datuak",
+  "wellnessSuccess": "Arrakasta",
+  "WHITE_SPACES": "Erabiltzaile-izena ezin da zuriunerik izan",
+  "WRIST_CUT_SCREEN": "Eskumuturreko ebakitzeko pantaila aktibatu",
+  "writtenRep": "Idatzizko txostena",
+  "W_RESPIRATORY_RATE": "Breath",
+  "xray": "X-izpien",
+  "Y": "Bai",
+  "year": "Urtea",
+  "years": "urte",
+  "yes": "Bai",
+  "yourarousal": "Zure arousal",
+  "youremotion": "Zure emozioak",
+  "yourmood": "Zure umorea",
+  "yourtemper": "Zure tenplea",
+  "yourvalence": "Zure balioa",
+  "your_sai": "Zure Jarduera-indizea honakoa da:",
+  "your_sbpi": "Zure odolaren presio indizea hau da:",
+  "your_sci": "Bihotz-indizea da hau:",
+  "your_sii": "Zure asegurua indizea da",
+  "your_sri": "Zure Arnasbideen aurkibidea hau da:",
+  "your_ssi": "Zure estresaren indizea hau da:",
+  "your_stress": "Zure estres maila hau da:",
+  "your_va": "Zure adina baskularra da:",
+  "zero_min": "orain",
+  "zipCode": "Posta Kodea",
+  "LANGUAGES": [
+    {
+      "label": "English (US)",
+      "value": "en_US"
+    }
+  ],
+  "GENDERS": [
+    {
+      "label": "Male",
+      "value": "1"
+    },
+    {
+      "label": "Female",
+      "value": "0"
+    }
+  ],
+  "CURRENCIES": [
+    {
+      "label": "EUR",
+      "value": "1"
+    },
+    {
+      "label": "USD",
+      "value": "0"
+    }
+  ],
+  "TZONES": [
+    {
+      "label": "Dateline Standard Time",
+      "value": "DST",
+      "offset": -12,
+      "isdst": false,
+      "text": "(UTC-12:00) International Date Line West",
+      "utc": [
+        "Etc/GMT+12"
+      ]
+    },
+    {
+      "label": "UTC-11",
+      "value": "U",
+      "offset": -11,
+      "isdst": false,
+      "text": "(UTC-11:00) Coordinated Universal Time-11",
+      "utc": [
+        "Etc/GMT+11",
+        "Pacific/Midway",
+        "Pacific/Niue",
+        "Pacific/Pago_Pago"
+      ]
+    },
+    {
+      "label": "Hawaiian Standard Time",
+      "value": "HST",
+      "offset": -10,
+      "isdst": false,
+      "text": "(UTC-10:00) Hawaii",
+      "utc": [
+        "Etc/GMT+10",
+        "Pacific/Honolulu",
+        "Pacific/Johnston",
+        "Pacific/Rarotonga",
+        "Pacific/Tahiti"
+      ]
+    },
+    {
+      "label": "Alaskan Standard Time",
+      "value": "AKDT",
+      "offset": -8,
+      "isdst": true,
+      "text": "(UTC-09:00) Alaska",
+      "utc": [
+        "America/Anchorage",
+        "America/Juneau",
+        "America/Nome",
+        "America/Sitka",
+        "America/Yakutat"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time (Mexico)",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Baja California",
+      "utc": [
+        "America/Santa_Isabel"
+      ]
+    },
+    {
+      "label": "Pacific Standard Time",
+      "value": "PDT",
+      "offset": -7,
+      "isdst": true,
+      "text": "(UTC-08:00) Pacific Time (US & Canada)",
+      "utc": [
+        "America/Dawson",
+        "America/Los_Angeles",
+        "America/Tijuana",
+        "America/Vancouver",
+        "America/Whitehorse",
+        "PST8PDT"
+      ]
+    },
+    {
+      "label": "US Mountain Standard Time",
+      "value": "UMST",
+      "offset": -7,
+      "isdst": false,
+      "text": "(UTC-07:00) Arizona",
+      "utc": [
+        "America/Creston",
+        "America/Dawson_Creek",
+        "America/Hermosillo",
+        "America/Phoenix",
+        "Etc/GMT+7"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time (Mexico)",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+      "utc": [
+        "America/Chihuahua",
+        "America/Mazatlan"
+      ]
+    },
+    {
+      "label": "Mountain Standard Time",
+      "value": "MDT",
+      "offset": -6,
+      "isdst": true,
+      "text": "(UTC-07:00) Mountain Time (US & Canada)",
+      "utc": [
+        "America/Boise",
+        "America/Cambridge_Bay",
+        "America/Denver",
+        "America/Edmonton",
+        "America/Inuvik",
+        "America/Ojinaga",
+        "America/Yellowknife",
+        "MST7MDT"
+      ]
+    },
+    {
+      "label": "Central America Standard Time",
+      "value": "CAST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Central America",
+      "utc": [
+        "America/Belize",
+        "America/Costa_Rica",
+        "America/El_Salvador",
+        "America/Guatemala",
+        "America/Managua",
+        "America/Tegucigalpa",
+        "Etc/GMT+6",
+        "Pacific/Galapagos"
+      ]
+    },
+    {
+      "label": "Central Standard Time",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Central Time (US & Canada)",
+      "utc": [
+        "America/Chicago",
+        "America/Indiana/Knox",
+        "America/Indiana/Tell_City",
+        "America/Matamoros",
+        "America/Menominee",
+        "America/North_Dakota/Beulah",
+        "America/North_Dakota/Center",
+        "America/North_Dakota/New_Salem",
+        "America/Rainy_River",
+        "America/Rankin_Inlet",
+        "America/Resolute",
+        "America/Winnipeg",
+        "CST6CDT"
+      ]
+    },
+    {
+      "label": "Central Standard Time (Mexico)",
+      "value": "CDT",
+      "offset": -5,
+      "isdst": true,
+      "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+      "utc": [
+        "America/Bahia_Banderas",
+        "America/Cancun",
+        "America/Merida",
+        "America/Mexico_City",
+        "America/Monterrey"
+      ]
+    },
+    {
+      "label": "Canada Central Standard Time",
+      "value": "CCST",
+      "offset": -6,
+      "isdst": false,
+      "text": "(UTC-06:00) Saskatchewan",
+      "utc": [
+        "America/Regina",
+        "America/Swift_Current"
+      ]
+    },
+    {
+      "label": "SA Pacific Standard Time",
+      "value": "SPST",
+      "offset": -5,
+      "isdst": false,
+      "text": "(UTC-05:00) Bogota, Lima, Quito",
+      "utc": [
+        "America/Bogota",
+        "America/Cayman",
+        "America/Coral_Harbour",
+        "America/Eirunepe",
+        "America/Guayaquil",
+        "America/Jamaica",
+        "America/Lima",
+        "America/Panama",
+        "America/Rio_Branco",
+        "Etc/GMT+5"
+      ]
+    },
+    {
+      "label": "Eastern Standard Time",
+      "value": "EDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Eastern Time (US & Canada)",
+      "utc": [
+        "America/Detroit",
+        "America/Havana",
+        "America/Indiana/Petersburg",
+        "America/Indiana/Vincennes",
+        "America/Indiana/Winamac",
+        "America/Iqaluit",
+        "America/Kentucky/Monticello",
+        "America/Louisville",
+        "America/Montreal",
+        "America/Nassau",
+        "America/New_York",
+        "America/Nipigon",
+        "America/Pangnirtung",
+        "America/Port-au-Prince",
+        "America/Thunder_Bay",
+        "America/Toronto",
+        "EST5EDT"
+      ]
+    },
+    {
+      "label": "US Eastern Standard Time",
+      "value": "UEDT",
+      "offset": -4,
+      "isdst": true,
+      "text": "(UTC-05:00) Indiana (East)",
+      "utc": [
+        "America/Indiana/Marengo",
+        "America/Indiana/Vevay",
+        "America/Indianapolis"
+      ]
+    },
+    {
+      "label": "Venezuela Standard Time",
+      "value": "VST",
+      "offset": -4.5,
+      "isdst": false,
+      "text": "(UTC-04:30) Caracas",
+      "utc": [
+        "America/Caracas"
+      ]
+    },
+    {
+      "label": "Paraguay Standard Time",
+      "value": "PST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Asuncion",
+      "utc": [
+        "America/Asuncion"
+      ]
+    },
+    {
+      "label": "Atlantic Standard Time",
+      "value": "ADT",
+      "offset": -3,
+      "isdst": true,
+      "text": "(UTC-04:00) Atlantic Time (Canada)",
+      "utc": [
+        "America/Glace_Bay",
+        "America/Goose_Bay",
+        "America/Halifax",
+        "America/Moncton",
+        "America/Thule",
+        "Atlantic/Bermuda"
+      ]
+    },
+    {
+      "label": "Central Brazilian Standard Time",
+      "value": "CBST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Cuiaba",
+      "utc": [
+        "America/Campo_Grande",
+        "America/Cuiaba"
+      ]
+    },
+    {
+      "label": "SA Western Standard Time",
+      "value": "SWST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+      "utc": [
+        "America/Anguilla",
+        "America/Antigua",
+        "America/Aruba",
+        "America/Barbados",
+        "America/Blanc-Sablon",
+        "America/Boa_Vista",
+        "America/Curacao",
+        "America/Dominica",
+        "America/Grand_Turk",
+        "America/Grenada",
+        "America/Guadeloupe",
+        "America/Guyana",
+        "America/Kralendijk",
+        "America/La_Paz",
+        "America/Lower_Princes",
+        "America/Manaus",
+        "America/Marigot",
+        "America/Martinique",
+        "America/Montserrat",
+        "America/Port_of_Spain",
+        "America/Porto_Velho",
+        "America/Puerto_Rico",
+        "America/Santo_Domingo",
+        "America/St_Barthelemy",
+        "America/St_Kitts",
+        "America/St_Lucia",
+        "America/St_Thomas",
+        "America/St_Vincent",
+        "America/Tortola",
+        "Etc/GMT+4"
+      ]
+    },
+    {
+      "label": "Pacific SA Standard Time",
+      "value": "PSST",
+      "offset": -4,
+      "isdst": false,
+      "text": "(UTC-04:00) Santiago",
+      "utc": [
+        "America/Santiago",
+        "Antarctica/Palmer"
+      ]
+    },
+    {
+      "label": "Newfoundland Standard Time",
+      "value": "NDT",
+      "offset": -2.5,
+      "isdst": true,
+      "text": "(UTC-03:30) Newfoundland",
+      "utc": [
+        "America/St_Johns"
+      ]
+    },
+    {
+      "label": "E. South America Standard Time",
+      "value": "ESAST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Brasilia",
+      "utc": [
+        "America/Sao_Paulo"
+      ]
+    },
+    {
+      "label": "Argentina Standard Time",
+      "value": "AST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Buenos Aires",
+      "utc": [
+        "America/Argentina/La_Rioja",
+        "America/Argentina/Rio_Gallegos",
+        "America/Argentina/Salta",
+        "America/Argentina/San_Juan",
+        "America/Argentina/San_Luis",
+        "America/Argentina/Tucuman",
+        "America/Argentina/Ushuaia",
+        "America/Buenos_Aires",
+        "America/Catamarca",
+        "America/Cordoba",
+        "America/Jujuy",
+        "America/Mendoza"
+      ]
+    },
+    {
+      "label": "SA Eastern Standard Time",
+      "value": "SEST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Cayenne, Fortaleza",
+      "utc": [
+        "America/Araguaina",
+        "America/Belem",
+        "America/Cayenne",
+        "America/Fortaleza",
+        "America/Maceio",
+        "America/Paramaribo",
+        "America/Recife",
+        "America/Santarem",
+        "Antarctica/Rothera",
+        "Atlantic/Stanley",
+        "Etc/GMT+3"
+      ]
+    },
+    {
+      "label": "Greenland Standard Time",
+      "value": "GDT",
+      "offset": -2,
+      "isdst": true,
+      "text": "(UTC-03:00) Greenland",
+      "utc": [
+        "America/Godthab"
+      ]
+    },
+    {
+      "label": "Montevideo Standard Time",
+      "value": "MST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Montevideo",
+      "utc": [
+        "America/Montevideo"
+      ]
+    },
+    {
+      "label": "Bahia Standard Time",
+      "value": "BST",
+      "offset": -3,
+      "isdst": false,
+      "text": "(UTC-03:00) Salvador",
+      "utc": [
+        "America/Bahia"
+      ]
+    },
+    {
+      "label": "UTC-02",
+      "value": "U",
+      "offset": -2,
+      "isdst": false,
+      "text": "(UTC-02:00) Coordinated Universal Time-02",
+      "utc": [
+        "America/Noronha",
+        "Atlantic/South_Georgia",
+        "Etc/GMT+2"
+      ]
+    },
+    {
+      "label": "Mid-Atlantic Standard Time",
+      "value": "MDT",
+      "offset": -1,
+      "isdst": true,
+      "text": "(UTC-02:00) Mid-Atlantic - Old"
+    },
+    {
+      "label": "Azores Standard Time",
+      "value": "ADT",
+      "offset": 0,
+      "isdst": true,
+      "text": "(UTC-01:00) Azores",
+      "utc": [
+        "America/Scoresbysund",
+        "Atlantic/Azores"
+      ]
+    },
+    {
+      "label": "Cape Verde Standard Time",
+      "value": "CVST",
+      "offset": -1,
+      "isdst": false,
+      "text": "(UTC-01:00) Cape Verde Is.",
+      "utc": [
+        "Atlantic/Cape_Verde",
+        "Etc/GMT+1"
+      ]
+    },
+    {
+      "label": "Morocco Standard Time",
+      "value": "MDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Casablanca",
+      "utc": [
+        "Africa/Casablanca",
+        "Africa/El_Aaiun"
+      ]
+    },
+    {
+      "label": "UTC",
+      "value": "CUT",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Coordinated Universal Time",
+      "utc": [
+        "America/Danmarkshavn",
+        "Etc/GMT"
+      ]
+    },
+    {
+      "label": "GMT Standard Time",
+      "value": "GDT",
+      "offset": 1,
+      "isdst": true,
+      "text": "(UTC) Dublin, Edinburgh, Lisbon, London",
+      "utc": [
+        "Atlantic/Canary",
+        "Atlantic/Faeroe",
+        "Atlantic/Madeira",
+        "Europe/Dublin",
+        "Europe/Guernsey",
+        "Europe/Isle_of_Man",
+        "Europe/Jersey",
+        "Europe/Lisbon",
+        "Europe/London"
+      ]
+    },
+    {
+      "label": "Greenwich Standard Time",
+      "value": "GST",
+      "offset": 0,
+      "isdst": false,
+      "text": "(UTC) Monrovia, Reykjavik",
+      "utc": [
+        "Africa/Abidjan",
+        "Africa/Accra",
+        "Africa/Bamako",
+        "Africa/Banjul",
+        "Africa/Bissau",
+        "Africa/Conakry",
+        "Africa/Dakar",
+        "Africa/Freetown",
+        "Africa/Lome",
+        "Africa/Monrovia",
+        "Africa/Nouakchott",
+        "Africa/Ouagadougou",
+        "Africa/Sao_Tome",
+        "Atlantic/Reykjavik",
+        "Atlantic/St_Helena"
+      ]
+    },
+    {
+      "label": "W. Europe Standard Time",
+      "value": "WEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+      "utc": [
+        "Arctic/Longyearbyen",
+        "Europe/Amsterdam",
+        "Europe/Andorra",
+        "Europe/Berlin",
+        "Europe/Busingen",
+        "Europe/Gibraltar",
+        "Europe/Luxembourg",
+        "Europe/Malta",
+        "Europe/Monaco",
+        "Europe/Oslo",
+        "Europe/Rome",
+        "Europe/San_Marino",
+        "Europe/Stockholm",
+        "Europe/Vaduz",
+        "Europe/Vatican",
+        "Europe/Vienna",
+        "Europe/Zurich"
+      ]
+    },
+    {
+      "label": "Central Europe Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+      "utc": [
+        "Europe/Belgrade",
+        "Europe/Bratislava",
+        "Europe/Budapest",
+        "Europe/Ljubljana",
+        "Europe/Podgorica",
+        "Europe/Prague",
+        "Europe/Tirane"
+      ]
+    },
+    {
+      "label": "Romance Standard Time",
+      "value": "RDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+      "utc": [
+        "Africa/Ceuta",
+        "Europe/Brussels",
+        "Europe/Copenhagen",
+        "Europe/Madrid",
+        "Europe/Paris"
+      ]
+    },
+    {
+      "label": "Central European Standard Time",
+      "value": "CEDT",
+      "offset": 2,
+      "isdst": true,
+      "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+      "utc": [
+        "Europe/Sarajevo",
+        "Europe/Skopje",
+        "Europe/Warsaw",
+        "Europe/Zagreb"
+      ]
+    },
+    {
+      "label": "W. Central Africa Standard Time",
+      "value": "WCAST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) West Central Africa",
+      "utc": [
+        "Africa/Algiers",
+        "Africa/Bangui",
+        "Africa/Brazzaville",
+        "Africa/Douala",
+        "Africa/Kinshasa",
+        "Africa/Lagos",
+        "Africa/Libreville",
+        "Africa/Luanda",
+        "Africa/Malabo",
+        "Africa/Ndjamena",
+        "Africa/Niamey",
+        "Africa/Porto-Novo",
+        "Africa/Tunis",
+        "Etc/GMT-1"
+      ]
+    },
+    {
+      "label": "Namibia Standard Time",
+      "value": "NST",
+      "offset": 1,
+      "isdst": false,
+      "text": "(UTC+01:00) Windhoek",
+      "utc": [
+        "Africa/Windhoek"
+      ]
+    },
+    {
+      "label": "GTB Standard Time",
+      "value": "GDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Athens, Bucharest",
+      "utc": [
+        "Asia/Nicosia",
+        "Europe/Athens",
+        "Europe/Bucharest",
+        "Europe/Chisinau"
+      ]
+    },
+    {
+      "label": "Middle East Standard Time",
+      "value": "MEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Beirut",
+      "utc": [
+        "Asia/Beirut"
+      ]
+    },
+    {
+      "label": "Egypt Standard Time",
+      "value": "EST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Cairo",
+      "utc": [
+        "Africa/Cairo"
+      ]
+    },
+    {
+      "label": "Syria Standard Time",
+      "value": "SDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Damascus",
+      "utc": [
+        "Asia/Damascus"
+      ]
+    },
+    {
+      "label": "E. Europe Standard Time",
+      "value": "EEDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) E. Europe"
+    },
+    {
+      "label": "South Africa Standard Time",
+      "value": "SAST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Harare, Pretoria",
+      "utc": [
+        "Africa/Blantyre",
+        "Africa/Bujumbura",
+        "Africa/Gaborone",
+        "Africa/Harare",
+        "Africa/Johannesburg",
+        "Africa/Kigali",
+        "Africa/Lubumbashi",
+        "Africa/Lusaka",
+        "Africa/Maputo",
+        "Africa/Maseru",
+        "Africa/Mbabane",
+        "Etc/GMT-2"
+      ]
+    },
+    {
+      "label": "FLE Standard Time",
+      "value": "FDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+      "utc": [
+        "Europe/Helsinki",
+        "Europe/Kiev",
+        "Europe/Mariehamn",
+        "Europe/Riga",
+        "Europe/Sofia",
+        "Europe/Tallinn",
+        "Europe/Uzhgorod",
+        "Europe/Vilnius",
+        "Europe/Zaporozhye"
+      ]
+    },
+    {
+      "label": "Turkey Standard Time",
+      "value": "TDT",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Istanbul",
+      "utc": [
+        "Europe/Istanbul"
+      ]
+    },
+    {
+      "label": "Israel Standard Time",
+      "value": "JDT",
+      "offset": 3,
+      "isdst": true,
+      "text": "(UTC+02:00) Jerusalem",
+      "utc": [
+        "Asia/Jerusalem"
+      ]
+    },
+    {
+      "label": "Libya Standard Time",
+      "value": "LST",
+      "offset": 2,
+      "isdst": false,
+      "text": "(UTC+02:00) Tripoli",
+      "utc": [
+        "Africa/Tripoli"
+      ]
+    },
+    {
+      "label": "Jordan Standard Time",
+      "value": "JST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Amman",
+      "utc": [
+        "Asia/Amman"
+      ]
+    },
+    {
+      "label": "Arabic Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Baghdad",
+      "utc": [
+        "Asia/Baghdad"
+      ]
+    },
+    {
+      "label": "Kaliningrad Standard Time",
+      "value": "KST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kaliningrad, Minsk",
+      "utc": [
+        "Europe/Kaliningrad",
+        "Europe/Minsk"
+      ]
+    },
+    {
+      "label": "Arab Standard Time",
+      "value": "AST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Kuwait, Riyadh",
+      "utc": [
+        "Asia/Aden",
+        "Asia/Bahrain",
+        "Asia/Kuwait",
+        "Asia/Qatar",
+        "Asia/Riyadh"
+      ]
+    },
+    {
+      "label": "E. Africa Standard Time",
+      "value": "EAST",
+      "offset": 3,
+      "isdst": false,
+      "text": "(UTC+03:00) Nairobi",
+      "utc": [
+        "Africa/Addis_Ababa",
+        "Africa/Asmera",
+        "Africa/Dar_es_Salaam",
+        "Africa/Djibouti",
+        "Africa/Juba",
+        "Africa/Kampala",
+        "Africa/Khartoum",
+        "Africa/Mogadishu",
+        "Africa/Nairobi",
+        "Antarctica/Syowa",
+        "Etc/GMT-3",
+        "Indian/Antananarivo",
+        "Indian/Comoro",
+        "Indian/Mayotte"
+      ]
+    },
+    {
+      "label": "Iran Standard Time",
+      "value": "IDT",
+      "offset": 4.5,
+      "isdst": true,
+      "text": "(UTC+03:30) Tehran",
+      "utc": [
+        "Asia/Tehran"
+      ]
+    },
+    {
+      "label": "Arabian Standard Time",
+      "value": "AST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Abu Dhabi, Muscat",
+      "utc": [
+        "Asia/Dubai",
+        "Asia/Muscat",
+        "Etc/GMT-4"
+      ]
+    },
+    {
+      "label": "Azerbaijan Standard Time",
+      "value": "ADT",
+      "offset": 5,
+      "isdst": true,
+      "text": "(UTC+04:00) Baku",
+      "utc": [
+        "Asia/Baku"
+      ]
+    },
+    {
+      "label": "Russian Standard Time",
+      "value": "RST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+      "utc": [
+        "Europe/Moscow",
+        "Europe/Samara",
+        "Europe/Simferopol",
+        "Europe/Volgograd"
+      ]
+    },
+    {
+      "label": "Mauritius Standard Time",
+      "value": "MST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Port Louis",
+      "utc": [
+        "Indian/Mahe",
+        "Indian/Mauritius",
+        "Indian/Reunion"
+      ]
+    },
+    {
+      "label": "Georgian Standard Time",
+      "value": "GST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Tbilisi",
+      "utc": [
+        "Asia/Tbilisi"
+      ]
+    },
+    {
+      "label": "Caucasus Standard Time",
+      "value": "CST",
+      "offset": 4,
+      "isdst": false,
+      "text": "(UTC+04:00) Yerevan",
+      "utc": [
+        "Asia/Yerevan"
+      ]
+    },
+    {
+      "label": "Afghanistan Standard Time",
+      "value": "AST",
+      "offset": 4.5,
+      "isdst": false,
+      "text": "(UTC+04:30) Kabul",
+      "utc": [
+        "Asia/Kabul"
+      ]
+    },
+    {
+      "label": "West Asia Standard Time",
+      "value": "WAST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Ashgabat, Tashkent",
+      "utc": [
+        "Antarctica/Mawson",
+        "Asia/Aqtau",
+        "Asia/Aqtobe",
+        "Asia/Ashgabat",
+        "Asia/Dushanbe",
+        "Asia/Oral",
+        "Asia/Samarkand",
+        "Asia/Tashkent",
+        "Etc/GMT-5",
+        "Indian/Kerguelen",
+        "Indian/Maldives"
+      ]
+    },
+    {
+      "label": "Pakistan Standard Time",
+      "value": "PST",
+      "offset": 5,
+      "isdst": false,
+      "text": "(UTC+05:00) Islamabad, Karachi",
+      "utc": [
+        "Asia/Karachi"
+      ]
+    },
+    {
+      "label": "India Standard Time",
+      "value": "IST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+      "utc": [
+        "Asia/Kolkata"
+      ]
+    },
+    {
+      "label": "Sri Lanka Standard Time",
+      "value": "SLST",
+      "offset": 5.5,
+      "isdst": false,
+      "text": "(UTC+05:30) Sri Jayawardenepura",
+      "utc": [
+        "Asia/Colombo"
+      ]
+    },
+    {
+      "label": "Nepal Standard Time",
+      "value": "NST",
+      "offset": 5.75,
+      "isdst": false,
+      "text": "(UTC+05:45) Kathmandu",
+      "utc": [
+        "Asia/Katmandu"
+      ]
+    },
+    {
+      "label": "Central Asia Standard Time",
+      "value": "CAST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Astana",
+      "utc": [
+        "Antarctica/Vostok",
+        "Asia/Almaty",
+        "Asia/Bishkek",
+        "Asia/Qyzylorda",
+        "Asia/Urumqi",
+        "Etc/GMT-6",
+        "Indian/Chagos"
+      ]
+    },
+    {
+      "label": "Bangladesh Standard Time",
+      "value": "BST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Dhaka",
+      "utc": [
+        "Asia/Dhaka",
+        "Asia/Thimphu"
+      ]
+    },
+    {
+      "label": "Ekaterinburg Standard Time",
+      "value": "EST",
+      "offset": 6,
+      "isdst": false,
+      "text": "(UTC+06:00) Ekaterinburg",
+      "utc": [
+        "Asia/Yekaterinburg"
+      ]
+    },
+    {
+      "label": "Myanmar Standard Time",
+      "value": "MST",
+      "offset": 6.5,
+      "isdst": false,
+      "text": "(UTC+06:30) Yangon (Rangoon)",
+      "utc": [
+        "Asia/Rangoon",
+        "Indian/Cocos"
+      ]
+    },
+    {
+      "label": "SE Asia Standard Time",
+      "value": "SAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+      "utc": [
+        "Antarctica/Davis",
+        "Asia/Bangkok",
+        "Asia/Hovd",
+        "Asia/Jakarta",
+        "Asia/Phnom_Penh",
+        "Asia/Pontianak",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Etc/GMT-7",
+        "Indian/Christmas"
+      ]
+    },
+    {
+      "label": "N. Central Asia Standard Time",
+      "value": "NCAST",
+      "offset": 7,
+      "isdst": false,
+      "text": "(UTC+07:00) Novosibirsk",
+      "utc": [
+        "Asia/Novokuznetsk",
+        "Asia/Novosibirsk",
+        "Asia/Omsk"
+      ]
+    },
+    {
+      "label": "China Standard Time",
+      "value": "CST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+      "utc": [
+        "Asia/Hong_Kong",
+        "Asia/Macau",
+        "Asia/Shanghai"
+      ]
+    },
+    {
+      "label": "North Asia Standard Time",
+      "value": "NAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Krasnoyarsk",
+      "utc": [
+        "Asia/Krasnoyarsk"
+      ]
+    },
+    {
+      "label": "Singapore Standard Time",
+      "value": "MPST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+      "utc": [
+        "Asia/Brunei",
+        "Asia/Kuala_Lumpur",
+        "Asia/Kuching",
+        "Asia/Makassar",
+        "Asia/Manila",
+        "Asia/Singapore",
+        "Etc/GMT-8"
+      ]
+    },
+    {
+      "label": "W. Australia Standard Time",
+      "value": "WAST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Perth",
+      "utc": [
+        "Antarctica/Casey",
+        "Australia/Perth"
+      ]
+    },
+    {
+      "label": "Taipei Standard Time",
+      "value": "TST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Taipei",
+      "utc": [
+        "Asia/Taipei"
+      ]
+    },
+    {
+      "label": "Ulaanbaatar Standard Time",
+      "value": "UST",
+      "offset": 8,
+      "isdst": false,
+      "text": "(UTC+08:00) Ulaanbaatar",
+      "utc": [
+        "Asia/Choibalsan",
+        "Asia/Ulaanbaatar"
+      ]
+    },
+    {
+      "label": "North Asia East Standard Time",
+      "value": "NAEST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Irkutsk",
+      "utc": [
+        "Asia/Irkutsk"
+      ]
+    },
+    {
+      "label": "Tokyo Standard Time",
+      "value": "TST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+      "utc": [
+        "Asia/Dili",
+        "Asia/Jayapura",
+        "Asia/Tokyo",
+        "Etc/GMT-9",
+        "Pacific/Palau"
+      ]
+    },
+    {
+      "label": "Korea Standard Time",
+      "value": "KST",
+      "offset": 9,
+      "isdst": false,
+      "text": "(UTC+09:00) Seoul",
+      "utc": [
+        "Asia/Pyongyang",
+        "Asia/Seoul"
+      ]
+    },
+    {
+      "label": "Cen. Australia Standard Time",
+      "value": "CAST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Adelaide",
+      "utc": [
+        "Australia/Adelaide",
+        "Australia/Broken_Hill"
+      ]
+    },
+    {
+      "label": "AUS Central Standard Time",
+      "value": "ACST",
+      "offset": 9.5,
+      "isdst": false,
+      "text": "(UTC+09:30) Darwin",
+      "utc": [
+        "Australia/Darwin"
+      ]
+    },
+    {
+      "label": "E. Australia Standard Time",
+      "value": "EAST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Brisbane",
+      "utc": [
+        "Australia/Brisbane",
+        "Australia/Lindeman"
+      ]
+    },
+    {
+      "label": "AUS Eastern Standard Time",
+      "value": "AEST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+      "utc": [
+        "Australia/Melbourne",
+        "Australia/Sydney"
+      ]
+    },
+    {
+      "label": "West Pacific Standard Time",
+      "value": "WPST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Guam, Port Moresby",
+      "utc": [
+        "Antarctica/DumontDUrville",
+        "Etc/GMT-10",
+        "Pacific/Guam",
+        "Pacific/Port_Moresby",
+        "Pacific/Saipan",
+        "Pacific/Truk"
+      ]
+    },
+    {
+      "label": "Tasmania Standard Time",
+      "value": "TST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Hobart",
+      "utc": [
+        "Australia/Currie",
+        "Australia/Hobart"
+      ]
+    },
+    {
+      "label": "Yakutsk Standard Time",
+      "value": "YST",
+      "offset": 10,
+      "isdst": false,
+      "text": "(UTC+10:00) Yakutsk",
+      "utc": [
+        "Asia/Chita",
+        "Asia/Khandyga",
+        "Asia/Yakutsk"
+      ]
+    },
+    {
+      "label": "Central Pacific Standard Time",
+      "value": "CPST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Solomon Is., New Caledonia",
+      "utc": [
+        "Antarctica/Macquarie",
+        "Etc/GMT-11",
+        "Pacific/Efate",
+        "Pacific/Guadalcanal",
+        "Pacific/Kosrae",
+        "Pacific/Noumea",
+        "Pacific/Ponape"
+      ]
+    },
+    {
+      "label": "Vladivostok Standard Time",
+      "value": "VST",
+      "offset": 11,
+      "isdst": false,
+      "text": "(UTC+11:00) Vladivostok",
+      "utc": [
+        "Asia/Sakhalin",
+        "Asia/Ust-Nera",
+        "Asia/Vladivostok"
+      ]
+    },
+    {
+      "label": "New Zealand Standard Time",
+      "value": "NZST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Auckland, Wellington",
+      "utc": [
+        "Antarctica/McMurdo",
+        "Pacific/Auckland"
+      ]
+    },
+    {
+      "label": "UTC+12",
+      "value": "U",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Coordinated Universal Time+12",
+      "utc": [
+        "Etc/GMT-12",
+        "Pacific/Funafuti",
+        "Pacific/Kwajalein",
+        "Pacific/Majuro",
+        "Pacific/Nauru",
+        "Pacific/Tarawa",
+        "Pacific/Wake",
+        "Pacific/Wallis"
+      ]
+    },
+    {
+      "label": "Fiji Standard Time",
+      "value": "FST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Fiji",
+      "utc": [
+        "Pacific/Fiji"
+      ]
+    },
+    {
+      "label": "Magadan Standard Time",
+      "value": "MST",
+      "offset": 12,
+      "isdst": false,
+      "text": "(UTC+12:00) Magadan",
+      "utc": [
+        "Asia/Anadyr",
+        "Asia/Kamchatka",
+        "Asia/Magadan",
+        "Asia/Srednekolymsk"
+      ]
+    },
+    {
+      "label": "Kamchatka Standard Time",
+      "value": "KDT",
+      "offset": 13,
+      "isdst": true,
+      "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old"
+    },
+    {
+      "label": "Tonga Standard Time",
+      "value": "TST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Nuku'alofa",
+      "utc": [
+        "Etc/GMT-13",
+        "Pacific/Enderbury",
+        "Pacific/Fakaofo",
+        "Pacific/Tongatapu"
+      ]
+    },
+    {
+      "label": "Samoa Standard Time",
+      "value": "SST",
+      "offset": 13,
+      "isdst": false,
+      "text": "(UTC+13:00) Samoa",
+      "utc": [
+        "Pacific/Apia"
+      ]
+    }
+  ],
+  "PROFESSIONAL_TITLES": [
+    {
+      "value": 1,
+      "label": "MD"
+    },
+    {
+      "value": 2,
+      "label": "DO"
+    },
+    {
+      "value": 3,
+      "label": "PhD"
+    },
+    {
+      "value": 4,
+      "label": "PsyD"
+    }
+  ],
+  "SPECIALTIES": [
+    {
+      "value": 1,
+      "label": "Acute Care"
+    },
+    {
+      "value": 2,
+      "label": "Cardiology"
+    },
+    {
+      "value": 3,
+      "label": "Internal Medicine"
+    },
+    {
+      "value": 4,
+      "label": "Emergency Medicine"
+    },
+    {
+      "value": 5,
+      "label": "Family Medicine"
+    },
+    {
+      "value": 6,
+      "label": "General Practice"
+    },
+    {
+      "value": 7,
+      "label": "General Surgeon"
+    },
+    {
+      "value": 8,
+      "label": "Gynecology"
+    },
+    {
+      "value": 9,
+      "label": "Oncology"
+    },
+    {
+      "value": 10,
+      "label": "Pediatrics"
+    },
+    {
+      "value": 11,
+      "label": "Psychiatry"
+    },
+    {
+      "value": 12,
+      "label": "Other"
+    },
+    {
+      "value": 13,
+      "label": "Urology"
+    },
+    {
+      "value": 14,
+      "label": "Otolaryngology "
+    },
+    {
+      "value": 15,
+      "label": "Gastroenterology"
+    },
+    {
+      "value": 16,
+      "label": "Neurology"
+    },
+    {
+      "value": 17,
+      "label": "Orthopedic "
+    },
+    {
+      "value": 18,
+      "label": "Ophthalmology"
+    },
+    {
+      "value": 19,
+      "label": "Nutritionist"
+    },
+    {
+      "value": 20,
+      "label": "Case Manager"
+    },
+    {
+      "value": 21,
+      "label": "Geriatrics"
+    },
+    {
+      "value": 22,
+      "label": "Pulmonology"
+    },
+    {
+      "value": 23,
+      "label": "Dietetics"
+    },
+    {
+      "value": 24,
+      "label": "Psychology"
+    },
+    {
+      "value": 25,
+      "label": "Allergy and Immunology"
+    },
+    {
+      "value": 26,
+      "label": "Angiology"
+    },
+    {
+      "value": 27,
+      "label": "Dependencies"
+    },
+    {
+      "value": 28,
+      "label": "Physiotherapist"
+    },
+    {
+      "value": 29,
+      "label": "Osteopath"
+    },
+    {
+      "value": 30,
+      "label": "Senology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 31,
+      "label": "Nefrology"
+    },
+    {
+      "value": 32,
+      "label": "Esame presso medical corner"
+    },
+    {
+      "value": 33,
+      "label": "Radiation Oncologist"
+    },
+    {
+      "value": 34,
+      "label": "Athletic Trainer"
+    },
+    {
+      "value": 35,
+      "label": "Surgery and Cardiosurgery"
+    },
+    {
+      "value": 36,
+      "label": "Plastic Surgery"
+    },
+    {
+      "value": 37,
+      "label": "Hematology"
+    },
+    {
+      "value": 38,
+      "label": "Endocrinology"
+    },
+    {
+      "value": 39,
+      "label": "Pathophysiology"
+    },
+    {
+      "value": 40,
+      "label": "Neurosurgery"
+    },
+    {
+      "value": 41,
+      "label": "Radiology"
+    },
+    {
+      "value": 42,
+      "label": "Obstetrician"
+    },
+    {
+      "value": 43,
+      "label": "Nursery Service"
+    },
+    {
+      "value": 44,
+      "label": "Proctology"
+    }
+  ],
+  "US_STATES": [
+    {
+      "label": "Alabama",
+      "value": "AL"
+    },
+    {
+      "label": "Alaska",
+      "value": "AK"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Arizona",
+      "value": "AZ"
+    },
+    {
+      "label": "Arkansas",
+      "value": "AR"
+    },
+    {
+      "label": "California",
+      "value": "CA"
+    },
+    {
+      "label": "Colorado",
+      "value": "CO"
+    },
+    {
+      "label": "Connecticut",
+      "value": "CT"
+    },
+    {
+      "label": "Delaware",
+      "value": "DE"
+    },
+    {
+      "label": "District Of Columbia",
+      "value": "DC"
+    },
+    {
+      "label": "Federated States Of Micronesia",
+      "value": "FM"
+    },
+    {
+      "label": "Florida",
+      "value": "FL"
+    },
+    {
+      "label": "Georgia",
+      "value": "GA"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Hawaii",
+      "value": "HI"
+    },
+    {
+      "label": "Idaho",
+      "value": "ID"
+    },
+    {
+      "label": "Illinois",
+      "value": "IL"
+    },
+    {
+      "label": "Indiana",
+      "value": "IN"
+    },
+    {
+      "label": "Iowa",
+      "value": "IA"
+    },
+    {
+      "label": "Kansas",
+      "value": "KS"
+    },
+    {
+      "label": "Kentucky",
+      "value": "KY"
+    },
+    {
+      "label": "Louisiana",
+      "value": "LA"
+    },
+    {
+      "label": "Maine",
+      "value": "ME"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Maryland",
+      "value": "MD"
+    },
+    {
+      "label": "Massachusetts",
+      "value": "MA"
+    },
+    {
+      "label": "Michigan",
+      "value": "MI"
+    },
+    {
+      "label": "Minnesota",
+      "value": "MN"
+    },
+    {
+      "label": "Mississippi",
+      "value": "MS"
+    },
+    {
+      "label": "Missouri",
+      "value": "MO"
+    },
+    {
+      "label": "Montana",
+      "value": "MT"
+    },
+    {
+      "label": "Nebraska",
+      "value": "NE"
+    },
+    {
+      "label": "Nevada",
+      "value": "NV"
+    },
+    {
+      "label": "New Hampshire",
+      "value": "NH"
+    },
+    {
+      "label": "New Jersey",
+      "value": "NJ"
+    },
+    {
+      "label": "New Mexico",
+      "value": "NM"
+    },
+    {
+      "label": "New York",
+      "value": "NY"
+    },
+    {
+      "label": "North Carolina",
+      "value": "NC"
+    },
+    {
+      "label": "North Dakota",
+      "value": "ND"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Ohio",
+      "value": "OH"
+    },
+    {
+      "label": "Oklahoma",
+      "value": "OK"
+    },
+    {
+      "label": "Oregon",
+      "value": "OR"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Pennsylvania",
+      "value": "PA"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Rhode Island",
+      "value": "RI"
+    },
+    {
+      "label": "South Carolina",
+      "value": "SC"
+    },
+    {
+      "label": "South Dakota",
+      "value": "SD"
+    },
+    {
+      "label": "Tennessee",
+      "value": "TN"
+    },
+    {
+      "label": "Texas",
+      "value": "TX"
+    },
+    {
+      "label": "Utah",
+      "value": "UT"
+    },
+    {
+      "label": "Vermont",
+      "value": "VT"
+    },
+    {
+      "label": "Virgin Islands",
+      "value": "VI"
+    },
+    {
+      "label": "Virginia",
+      "value": "VA"
+    },
+    {
+      "label": "Washington",
+      "value": "WA"
+    },
+    {
+      "label": "West Virginia",
+      "value": "WV"
+    },
+    {
+      "label": "Wisconsin",
+      "value": "WI"
+    },
+    {
+      "label": "Wyoming",
+      "value": "WY"
+    }
+  ],
+  "COUNTRIES": [
+    {
+      "label": "Afghanistan",
+      "value": "AF"
+    },
+    {
+      "label": "\u212bland Islands",
+      "value": "AX"
+    },
+    {
+      "label": "Albania",
+      "value": "AL"
+    },
+    {
+      "label": "Algeria",
+      "value": "DZ"
+    },
+    {
+      "label": "American Samoa",
+      "value": "AS"
+    },
+    {
+      "label": "Andorra",
+      "value": "AD"
+    },
+    {
+      "label": "Angola",
+      "value": "AO"
+    },
+    {
+      "label": "Anguilla",
+      "value": "AI"
+    },
+    {
+      "label": "Antarctica",
+      "value": "AQ"
+    },
+    {
+      "label": "Antigua and Barbuda",
+      "value": "AG"
+    },
+    {
+      "label": "Argentina",
+      "value": "AR"
+    },
+    {
+      "label": "Armenia",
+      "value": "AM"
+    },
+    {
+      "label": "Aruba",
+      "value": "AW"
+    },
+    {
+      "label": "Australia",
+      "value": "AU"
+    },
+    {
+      "label": "Austria",
+      "value": "AT"
+    },
+    {
+      "label": "Azerbaijan",
+      "value": "AZ"
+    },
+    {
+      "label": "Bahamas",
+      "value": "BS"
+    },
+    {
+      "label": "Bahrain",
+      "value": "BH"
+    },
+    {
+      "label": "Bangladesh",
+      "value": "BD"
+    },
+    {
+      "label": "Barbados",
+      "value": "BB"
+    },
+    {
+      "label": "Belarus",
+      "value": "BY"
+    },
+    {
+      "label": "Belgium",
+      "value": "BE"
+    },
+    {
+      "label": "Belize",
+      "value": "BZ"
+    },
+    {
+      "label": "Benin",
+      "value": "BJ"
+    },
+    {
+      "label": "Bermuda",
+      "value": "BM"
+    },
+    {
+      "label": "Bhutan",
+      "value": "BT"
+    },
+    {
+      "label": "Bolivia",
+      "value": "BO"
+    },
+    {
+      "label": "Bosnia and Herzegovina",
+      "value": "BA"
+    },
+    {
+      "label": "Botswana",
+      "value": "BW"
+    },
+    {
+      "label": "Bouvet Island",
+      "value": "BV"
+    },
+    {
+      "label": "Brazil",
+      "value": "BR"
+    },
+    {
+      "label": "British Indian Ocean Territory",
+      "value": "IO"
+    },
+    {
+      "label": "Brunei Darussalam",
+      "value": "BN"
+    },
+    {
+      "label": "Bulgaria",
+      "value": "BG"
+    },
+    {
+      "label": "Burkina Faso",
+      "value": "BF"
+    },
+    {
+      "label": "Burundi",
+      "value": "BI"
+    },
+    {
+      "label": "Cambodia",
+      "value": "KH"
+    },
+    {
+      "label": "Cameroon",
+      "value": "CM"
+    },
+    {
+      "label": "Canada",
+      "value": "CA"
+    },
+    {
+      "label": "Cape Verde",
+      "value": "CV"
+    },
+    {
+      "label": "Cayman Islands",
+      "value": "KY"
+    },
+    {
+      "label": "Central African Republic",
+      "value": "CF"
+    },
+    {
+      "label": "Chad",
+      "value": "TD"
+    },
+    {
+      "label": "Chile",
+      "value": "CL"
+    },
+    {
+      "label": "China",
+      "value": "CN"
+    },
+    {
+      "label": "Christmas Island",
+      "value": "CX"
+    },
+    {
+      "label": "Cocos (Keeling) Islands",
+      "value": "CC"
+    },
+    {
+      "label": "Colombia",
+      "value": "CO"
+    },
+    {
+      "label": "Comoros",
+      "value": "KM"
+    },
+    {
+      "label": "Congo",
+      "value": "CG"
+    },
+    {
+      "label": "Congo, The Democratic Republic of the",
+      "value": "CD"
+    },
+    {
+      "label": "Cook Islands",
+      "value": "CK"
+    },
+    {
+      "label": "Costa Rica",
+      "value": "CR"
+    },
+    {
+      "label": "Cote D'Ivoire",
+      "value": "CI"
+    },
+    {
+      "label": "Croatia",
+      "value": "HR"
+    },
+    {
+      "label": "Cuba",
+      "value": "CU"
+    },
+    {
+      "label": "Cyprus",
+      "value": "CY"
+    },
+    {
+      "label": "Czech Republic",
+      "value": "CZ"
+    },
+    {
+      "label": "Denmark",
+      "value": "DK"
+    },
+    {
+      "label": "Djibouti",
+      "value": "DJ"
+    },
+    {
+      "label": "Dominica",
+      "value": "DM"
+    },
+    {
+      "label": "Dominican Republic",
+      "value": "DO"
+    },
+    {
+      "label": "Ecuador",
+      "value": "EC"
+    },
+    {
+      "label": "Egypt",
+      "value": "EG"
+    },
+    {
+      "label": "El Salvador",
+      "value": "SV"
+    },
+    {
+      "label": "Equatorial Guinea",
+      "value": "GQ"
+    },
+    {
+      "label": "Eritrea",
+      "value": "ER"
+    },
+    {
+      "label": "Estonia",
+      "value": "EE"
+    },
+    {
+      "label": "Ethiopia",
+      "value": "ET"
+    },
+    {
+      "label": "Falkland Islands (Malvinas)",
+      "value": "FK"
+    },
+    {
+      "label": "Faroe Islands",
+      "value": "FO"
+    },
+    {
+      "label": "Fiji",
+      "value": "FJ"
+    },
+    {
+      "label": "Finland",
+      "value": "FI"
+    },
+    {
+      "label": "France",
+      "value": "FR"
+    },
+    {
+      "label": "French Guiana",
+      "value": "GF"
+    },
+    {
+      "label": "French Polynesia",
+      "value": "PF"
+    },
+    {
+      "label": "French Southern Territories",
+      "value": "TF"
+    },
+    {
+      "label": "Gabon",
+      "value": "GA"
+    },
+    {
+      "label": "Gambia",
+      "value": "GM"
+    },
+    {
+      "label": "Georgia",
+      "value": "GE"
+    },
+    {
+      "label": "Germany",
+      "value": "DE"
+    },
+    {
+      "label": "Ghana",
+      "value": "GH"
+    },
+    {
+      "label": "Gibraltar",
+      "value": "GI"
+    },
+    {
+      "label": "Greece",
+      "value": "GR"
+    },
+    {
+      "label": "Greenland",
+      "value": "GL"
+    },
+    {
+      "label": "Grenada",
+      "value": "GD"
+    },
+    {
+      "label": "Guadeloupe",
+      "value": "GP"
+    },
+    {
+      "label": "Guam",
+      "value": "GU"
+    },
+    {
+      "label": "Guatemala",
+      "value": "GT"
+    },
+    {
+      "label": "Guernsey",
+      "value": "GG"
+    },
+    {
+      "label": "Guinea",
+      "value": "GN"
+    },
+    {
+      "label": "Guinea-Bissau",
+      "value": "GW"
+    },
+    {
+      "label": "Guyana",
+      "value": "GY"
+    },
+    {
+      "label": "Haiti",
+      "value": "HT"
+    },
+    {
+      "label": "Heard Island and Mcdonald Islands",
+      "value": "HM"
+    },
+    {
+      "label": "Holy See (Vatican City State)",
+      "value": "VA"
+    },
+    {
+      "label": "Honduras",
+      "value": "HN"
+    },
+    {
+      "label": "Hong Kong",
+      "value": "HK"
+    },
+    {
+      "label": "Hungary",
+      "value": "HU"
+    },
+    {
+      "label": "Iceland",
+      "value": "IS"
+    },
+    {
+      "label": "India",
+      "value": "IN"
+    },
+    {
+      "label": "Indonesia",
+      "value": "ID"
+    },
+    {
+      "label": "Iran, Islamic Republic Of",
+      "value": "IR"
+    },
+    {
+      "label": "Iraq",
+      "value": "IQ"
+    },
+    {
+      "label": "Ireland",
+      "value": "IE"
+    },
+    {
+      "label": "Isle of Man",
+      "value": "IM"
+    },
+    {
+      "label": "Israel",
+      "value": "IL"
+    },
+    {
+      "label": "Italy",
+      "value": "IT"
+    },
+    {
+      "label": "Jamaica",
+      "value": "JM"
+    },
+    {
+      "label": "Japan",
+      "value": "JP"
+    },
+    {
+      "label": "Jersey",
+      "value": "JE"
+    },
+    {
+      "label": "Jordan",
+      "value": "JO"
+    },
+    {
+      "label": "Kazakhstan",
+      "value": "KZ"
+    },
+    {
+      "label": "Kenya",
+      "value": "KE"
+    },
+    {
+      "label": "Kiribati",
+      "value": "KI"
+    },
+    {
+      "label": "Democratic People's Republic of Korea",
+      "value": "KP"
+    },
+    {
+      "label": "Korea, Republic of",
+      "value": "KR"
+    },
+    {
+      "label": "Kosovo",
+      "value": "XK"
+    },
+    {
+      "label": "Kuwait",
+      "value": "KW"
+    },
+    {
+      "label": "Kyrgyzstan",
+      "value": "KG"
+    },
+    {
+      "label": "Lao People's Democratic Republic",
+      "value": "LA"
+    },
+    {
+      "label": "Latvia",
+      "value": "LV"
+    },
+    {
+      "label": "Lebanon",
+      "value": "LB"
+    },
+    {
+      "label": "Lesotho",
+      "value": "LS"
+    },
+    {
+      "label": "Liberia",
+      "value": "LR"
+    },
+    {
+      "label": "Libyan Arab Jamahiriya",
+      "value": "LY"
+    },
+    {
+      "label": "Liechtenstein",
+      "value": "LI"
+    },
+    {
+      "label": "Lithuania",
+      "value": "LT"
+    },
+    {
+      "label": "Luxembourg",
+      "value": "LU"
+    },
+    {
+      "label": "Macao",
+      "value": "MO"
+    },
+    {
+      "label": "Macedonia, The Former Yugoslav Republic of",
+      "value": "MK"
+    },
+    {
+      "label": "Madagascar",
+      "value": "MG"
+    },
+    {
+      "label": "Malawi",
+      "value": "MW"
+    },
+    {
+      "label": "Malaysia",
+      "value": "MY"
+    },
+    {
+      "label": "Maldives",
+      "value": "MV"
+    },
+    {
+      "label": "Mali",
+      "value": "ML"
+    },
+    {
+      "label": "Malta",
+      "value": "MT"
+    },
+    {
+      "label": "Marshall Islands",
+      "value": "MH"
+    },
+    {
+      "label": "Martinique",
+      "value": "MQ"
+    },
+    {
+      "label": "Mauritania",
+      "value": "MR"
+    },
+    {
+      "label": "Mauritius",
+      "value": "MU"
+    },
+    {
+      "label": "Mayotte",
+      "value": "YT"
+    },
+    {
+      "label": "Mexico",
+      "value": "MX"
+    },
+    {
+      "label": "Micronesia, Federated States of",
+      "value": "FM"
+    },
+    {
+      "label": "Moldova, Republic of",
+      "value": "MD"
+    },
+    {
+      "label": "Monaco",
+      "value": "MC"
+    },
+    {
+      "label": "Mongolia",
+      "value": "MN"
+    },
+    {
+      "label": "Montenegro",
+      "value": "ME"
+    },
+    {
+      "label": "Montserrat",
+      "value": "MS"
+    },
+    {
+      "label": "Morocco",
+      "value": "MA"
+    },
+    {
+      "label": "Mozambique",
+      "value": "MZ"
+    },
+    {
+      "label": "Myanmar",
+      "value": "MM"
+    },
+    {
+      "label": "Namibia",
+      "value": "NA"
+    },
+    {
+      "label": "Nauru",
+      "value": "NR"
+    },
+    {
+      "label": "Nepal",
+      "value": "NP"
+    },
+    {
+      "label": "Netherlands",
+      "value": "NL"
+    },
+    {
+      "label": "Netherlands Antilles",
+      "value": "AN"
+    },
+    {
+      "label": "New Caledonia",
+      "value": "NC"
+    },
+    {
+      "label": "New Zealand",
+      "value": "NZ"
+    },
+    {
+      "label": "Nicaragua",
+      "value": "NI"
+    },
+    {
+      "label": "Niger",
+      "value": "NE"
+    },
+    {
+      "label": "Nigeria",
+      "value": "NG"
+    },
+    {
+      "label": "Niue",
+      "value": "NU"
+    },
+    {
+      "label": "Norfolk Island",
+      "value": "NF"
+    },
+    {
+      "label": "Northern Mariana Islands",
+      "value": "MP"
+    },
+    {
+      "label": "Norway",
+      "value": "NO"
+    },
+    {
+      "label": "Oman",
+      "value": "OM"
+    },
+    {
+      "label": "Pakistan",
+      "value": "PK"
+    },
+    {
+      "label": "Palau",
+      "value": "PW"
+    },
+    {
+      "label": "Palestinian Territory, Occupied",
+      "value": "PS"
+    },
+    {
+      "label": "Panama",
+      "value": "PA"
+    },
+    {
+      "label": "Papua New Guinea",
+      "value": "PG"
+    },
+    {
+      "label": "Paraguay",
+      "value": "PY"
+    },
+    {
+      "label": "Peru",
+      "value": "PE"
+    },
+    {
+      "label": "Philippines",
+      "value": "PH"
+    },
+    {
+      "label": "Pitcairn",
+      "value": "PN"
+    },
+    {
+      "label": "Poland",
+      "value": "PL"
+    },
+    {
+      "label": "Portugal",
+      "value": "PT"
+    },
+    {
+      "label": "Puerto Rico",
+      "value": "PR"
+    },
+    {
+      "label": "Qatar",
+      "value": "QA"
+    },
+    {
+      "label": "Reunion",
+      "value": "RE"
+    },
+    {
+      "label": "Romania",
+      "value": "RO"
+    },
+    {
+      "label": "Russian Federation",
+      "value": "RU"
+    },
+    {
+      "label": "Rwanda",
+      "value": "RW"
+    },
+    {
+      "label": "Saint Helena",
+      "value": "SH"
+    },
+    {
+      "label": "Saint Kitts and Nevis",
+      "value": "KN"
+    },
+    {
+      "label": "Saint Lucia",
+      "value": "LC"
+    },
+    {
+      "label": "Saint Pierre and Miquelon",
+      "value": "PM"
+    },
+    {
+      "label": "Saint Vincent and the Grenadines",
+      "value": "VC"
+    },
+    {
+      "label": "Samoa",
+      "value": "WS"
+    },
+    {
+      "label": "San Marino",
+      "value": "SM"
+    },
+    {
+      "label": "Sao Tome and Principe",
+      "value": "ST"
+    },
+    {
+      "label": "Saudi Arabia",
+      "value": "SA"
+    },
+    {
+      "label": "Senegal",
+      "value": "SN"
+    },
+    {
+      "label": "Serbia",
+      "value": "RS"
+    },
+    {
+      "label": "Seychelles",
+      "value": "SC"
+    },
+    {
+      "label": "Sierra Leone",
+      "value": "SL"
+    },
+    {
+      "label": "Singapore",
+      "value": "SG"
+    },
+    {
+      "label": "Slovakia",
+      "value": "SK"
+    },
+    {
+      "label": "Slovenia",
+      "value": "SI"
+    },
+    {
+      "label": "Solomon Islands",
+      "value": "SB"
+    },
+    {
+      "label": "Somalia",
+      "value": "SO"
+    },
+    {
+      "label": "South Africa",
+      "value": "ZA"
+    },
+    {
+      "label": "South Georgia and the South Sandwich Islands",
+      "value": "GS"
+    },
+    {
+      "label": "Spain",
+      "value": "ES"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "LK"
+    },
+    {
+      "label": "Sudan",
+      "value": "SD"
+    },
+    {
+      "label": "Surilabel",
+      "value": "SR"
+    },
+    {
+      "label": "Svalbard and Jan Mayen",
+      "value": "SJ"
+    },
+    {
+      "label": "Swaziland",
+      "value": "SZ"
+    },
+    {
+      "label": "Sweden",
+      "value": "SE"
+    },
+    {
+      "label": "Switzerland",
+      "value": "CH"
+    },
+    {
+      "label": "Syrian Arab Republic",
+      "value": "SY"
+    },
+    {
+      "label": "Taiwan",
+      "value": "TW"
+    },
+    {
+      "label": "Tajikistan",
+      "value": "TJ"
+    },
+    {
+      "label": "Tanzania, United Republic of",
+      "value": "TZ"
+    },
+    {
+      "label": "Thailand",
+      "value": "TH"
+    },
+    {
+      "label": "Timor-Leste",
+      "value": "TL"
+    },
+    {
+      "label": "Togo",
+      "value": "TG"
+    },
+    {
+      "label": "Tokelau",
+      "value": "TK"
+    },
+    {
+      "label": "Tonga",
+      "value": "TO"
+    },
+    {
+      "label": "Trinidad and Tobago",
+      "value": "TT"
+    },
+    {
+      "label": "Tunisia",
+      "value": "TN"
+    },
+    {
+      "label": "Turkey",
+      "value": "TR"
+    },
+    {
+      "label": "Turkmenistan",
+      "value": "TM"
+    },
+    {
+      "label": "Turks and Caicos Islands",
+      "value": "TC"
+    },
+    {
+      "label": "Tuvalu",
+      "value": "TV"
+    },
+    {
+      "label": "Uganda",
+      "value": "UG"
+    },
+    {
+      "label": "Ukraine",
+      "value": "UA"
+    },
+    {
+      "label": "United Arab Emirates",
+      "value": "AE"
+    },
+    {
+      "label": "United Kingdom",
+      "value": "GB"
+    },
+    {
+      "label": "United States",
+      "value": "US"
+    },
+    {
+      "label": "United States Minor Outlying Islands",
+      "value": "UM"
+    },
+    {
+      "label": "Uruguay",
+      "value": "UY"
+    },
+    {
+      "label": "Uzbekistan",
+      "value": "UZ"
+    },
+    {
+      "label": "Vanuatu",
+      "value": "VU"
+    },
+    {
+      "label": "Venezuela",
+      "value": "VE"
+    },
+    {
+      "label": "Viet Nam",
+      "value": "VN"
+    },
+    {
+      "label": "Virgin Islands, British",
+      "value": "VG"
+    },
+    {
+      "label": "Virgin Islands, U.S.",
+      "value": "VI"
+    },
+    {
+      "label": "Wallis and Futuna",
+      "value": "WF"
+    },
+    {
+      "label": "Western Sahara",
+      "value": "EH"
+    },
+    {
+      "label": "Yemen",
+      "value": "YE"
+    },
+    {
+      "label": "Zambia",
+      "value": "ZM"
+    },
+    {
+			"label": "Zimbabwe",
+			"value": "ZW"
+		}
+	],
+	"LOGIN": "Login",
+	"FORGOT_PASSWORD": "Forgot password?",
+	"WELCOM_BACK": "Welcome back",
+	"WELCOM_TO_SALUBERMD": "Welcome to SaluberMD!",
+	"REGISTRATION_CODE": "Registration Code",
+	"TERMS_CONDITIONS": "Terms & Conditions",
+	"TELL_US_MORE_ABOUT_YOU": "Tell us more about you!",
+	"TITLE_Y_N": "Title Y/N",
+	"CONTENT_TITLE_Y_N": "The registration code can be found by lorem ipsum dolor sit amet, consectetur adipiscing eli.",
+	"OK": "OK",
+	"COMPLETE": "Complete",
+	"START_TYPING": "Start typing",
+	"I_DID_RATHER_NOT_SAY": "I'd rather not say",
+	"ACCOUNT": "Account",
+	"VIEW_MY_PROFILE": "View my profile",
+	"SETTINGS": "Settings",
+	"BIOMETRICS_AUTHENTICATION": "Biometrics Authentication",
+	"FINGERPRINT_FACE_ID_IRIS": "Fingerprint, Face ID, iris",
+		"SAME_AS_HEALTH_PROFILE": "Same as Health Profile (English)",
+	"APP_VERSION": "App Version",
+	"ARE_YOU_SURE_WANT_TO_LOG_OUT": "Are you sure want to log out?",
+	"PROFILE_INFO": "Profile Info",
+}
